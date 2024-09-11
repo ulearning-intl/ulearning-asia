@@ -1,6 +1,6 @@
 {
   "backToCourseList": {
-    "message": "العودة إلى قائمة الدورة الدراسية",
+    "message": "العودة الى قائمة المقررات الدراسية",
     "description": "2.0 course.js"
   },
   "backToManageCenter": {
@@ -20,11 +20,11 @@
     "description": "2.0 course.js"
   },
   "courseAnnouncement": {
-    "message": "إعلانات الدورة الدراسية",
+    "message": "إعلانات المقرر",
     "description": "2.0 course.js"
   },
   "courseAnalysis": {
-    "message": "تحليل بيانات الدورة الدراسية",
+    "message": "تحليل بيانات القرر الدراسي",
     "description": "2.0 course.js"
   },
   "courseResourse": {
@@ -52,11 +52,11 @@
     "description": "2.0 course.js"
   },
   "courseware": {
-    "message": "المناهج التعليمية",
+    "message": "المنهج الدراسي",
     "description": "2.0 course.js"
   },
   "resourse": {
-    "message": "المصادر",
+    "message": "الموارد التعليمية",
     "description": "2.0 course.js"
   },
   "analysis": {
@@ -68,7 +68,7 @@
     "description": "2.0 course.js"
   },
   "homework": {
-    "message": "المهام",
+    "message": "الواجبات",
     "description": "2.0 course.js"
   },
   "discusstion": {
@@ -76,11 +76,11 @@
     "description": "2.0 course.js"
   },
   "classroom": {
-    "message": "الفصل الدراسي",
+    "message": "الفصول",
     "description": "2.0 course.js"
   },
   "live": {
-    "message": "الفصل الدراسي الافتراضي",
+    "message": "الفصل الدراسي الافتراضي\n",
     "description": "2.0 course.js"
   },
   "exam": {
@@ -268,7 +268,7 @@
     "description": "2.0 course.js"
   },
   "courseOverview2": {
-    "message": "نظرة عامة على الدورة الدراسية",
+    "message": "نظرة عامة علي المقرر الدراسي",
     "description": "2.0 course.js"
   },
   "teacherNumber": {
@@ -432,15 +432,15 @@
     "description": "2.0 course.js"
   },
   "viewVideoNumberTop5": {
-    "message": "أعلي 5 مقاطع فيديو الأكثر مشاهدة",
+    "message": "أكثر 5 مقاطع فيديو تمت مشاهدتها",
     "description": "2.0 course.js"
   },
   "viewResourceNumberTop5": {
-    "message": "أعلي  5 مصادر الأكثر شعبية",
+    "message": "أكثر 5 موارد تعليمية شعبيةّ",
     "description": "2.0 course.js"
   },
   "ReplyPostTop5": {
-    "message": "أعلى 5 مناقشات من حيث عدد الردود",
+    "message": "أكثر 5 مناقشات من حيث عدد الردود",
     "description": "2.0 course.js"
   },
   "coursewareStudyState": {
@@ -560,7 +560,7 @@
     "description": "2.0 course.js"
   },
   "publishHomework": {
-    "message": "إنشاء مهام",
+    "message": "إنشاء واجب",
     "description": "2.0 course.js"
   },
   "correctHomework": {
@@ -768,15 +768,15 @@
     "description": "2.0 course.js"
   },
   "announcementHeadTip": {
-    "message": "يمكن نشر إعلانات الدورة التدريبية هنا. يمكن للمعلمين المعينين لدور مشرف الدورة عمل إعلانات لجميع الفصول الدراسية في إطار هذه الدورة. يمكن للمعلمين أو المساعدين (المعلمين المساعدين) فقط تقديم إعلانات عن الصف الذي يقومون بتدريسه.",
+    "message": "يمكن نشر إعلانات المقرر الدراسي هنا. يمكن نشر إعلانات المقرر الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي المقرر الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون ومساعدو التدريس يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
     "description": "2.0 course.js"
   },
   "totalOf": {
-    "message": "إجمالي {n} ",
+    "message": "العدد الكلي{n}",
     "description": "2.0 course.js"
   },
   "totalOfItems": {
-    "message": "إجمالي {n} ",
+    "message": "العدد الكلي {n}",
     "description": "2.0 course.js"
   },
   "totalOfItems1": {
@@ -820,7 +820,7 @@
     "description": "2.0 course.js"
   },
   "readedOf": {
-    "message": "{count} الطالب(الطلاب) الذي تم مشاهدتة",
+    "message": "{count} طلاب شاهدوه",
     "description": "教师账号 -> 公告"
   },
   "classesOf": {
@@ -1064,7 +1064,7 @@
     "description": "2.0 course.js"
   },
   "noStart": {
-    "message": "لم يبدأ",
+    "message": "محاضرات لم تبدأ",
     "description": "2.0 course.js"
   },
   "other": {
@@ -1084,7 +1084,7 @@
     "description": "2.0 course.js"
   },
   "setAssessmentRule": {
-    "message": "تعيين قواعد التقدير",
+    "message": "وضع قواعد التقدير",
     "description": "2.0 course.js"
   },
   "modifyAssessmentRule": {
@@ -1508,7 +1508,7 @@
     "description": "2.0 course.js"
   },
   "allClass": {
-    "message": "كل الفصول الدراسية",
+    "message": "جميع الفصول",
     "description": "2.0 course.js"
   },
   "homePage": {
@@ -1560,11 +1560,11 @@
     "description": "2.0 course.js"
   },
   "scored": {
-    "message": "مراجعات الأقران",
+    "message": "مراجعة الزملاء",
     "description": "2.0 course.js"
   },
   "exportData": {
-    "message": "مجموعات التصدير",
+    "message": "تصدير تفاصيل المناقشات",
     "description": "2.0 course.js"
   },
   "throwingScreen": {
@@ -1680,7 +1680,7 @@
     "description": "2.0 course.js"
   },
   "size": {
-    "message": "الحجم",
+    "message": "حجم الملف",
     "description": "2.0 course.js"
   },
   "duration": {
@@ -1708,7 +1708,7 @@
     "description": "2.0 course.js"
   },
   "deleteUnit": {
-    "message": "حذف الموضوع",
+    "message": "حذف الوحدة",
     "description": "2.0 course.js"
   },
   "deleteUnitTips": {
@@ -1724,7 +1724,7 @@
     "description": "2.0 course.js"
   },
   "discussionHeadTips": {
-    "message": "تساعد المناقشات الطلاب على التفكير بعمق. يمكنك إنشاء مناقشات وإدارتها والرد عليها وتحديدها هنا. يمكن لمسؤولي المقرر الدراسي (المعلمون المعينون كمسؤول للمقرر الدراسي) إنشاء مناقشات لجميع الفصول الدراسية، في حين يمكن للمعلمين ومساعدي التدريس إنشاء مناقشات الصف الخاصة بهم فقط.",
+    "message": "المناقشات تساعد الطلاب على التفكير بعمق. في هذه الصفحة يمكن إنشاء وإدارة وتقييم المناقشات والرد عليها. مشرفو المقرر الدراسي (المعلمين المحددين كمشرفين على المقرر)  يمكنهم إنشاء المناقشات لكل المحاضرات، بينما المعلمون ومساعدو التدريس يمكنهم إنشاء المناقشات لمحاضراتهم فقط.",
     "description": "2.0 course.js"
   },
   "timesOf": {
@@ -1756,7 +1756,7 @@
     "description": "2.0 course.js"
   },
   "discussionName": {
-    "message": "عنوان الموضوع",
+    "message": "عنوان المناقشة",
     "description": "2.0 course.js"
   },
   "replyNumber": {
@@ -1816,7 +1816,7 @@
     "description": "2.0 course.js"
   },
   "homeworkHeadTips1": {
-    "message": "تظهر هنا جميع الواجبات (بما في ذلك الاختبارات) من فصلك الدراسي لهذه الدورة التدريبية. يمكن لمسؤولي المقرر الدراسي (المعلمون المعينون كمسؤول للمقرر الدراسي) عرض جميع واجبات الفصل، ويمكن للمعلمين ومساعدي التدريس عرض الواجبات الدراسية الخاصة بهم فقط.",
+    "message": "جميع الواجبات بما في ذلك الإختبارات من المحاضرة لهذا المقرر الدراسي تظهر علي هذه الصفحة. مشرفو المقرر الدراسي (المعلمين المحددين كمشرفين على المقرر)  يمكنهم عرض جميع واجبات المحاضرة،  بينما المعلمون ومساعدو التدريس يمكنهم عرض الواجبات الخاصة بمحاضراتهم فقط.",
     "description": "2.0 course.js"
   },
   "homeworkHeadTips2": {
@@ -1824,11 +1824,11 @@
     "description": "2.0 course.js"
   },
   "personalHomework": {
-    "message": "المهام الفردية",
+    "message": "الواجبات الفردية",
     "description": "2.0 course.js"
   },
   "groupHomework": {
-    "message": "مهام جماعيه",
+    "message": "الواجبات الجماعية",
     "description": "2.0 course.js"
   },
   "homeworkTest": {
@@ -1836,7 +1836,7 @@
     "description": "2.0 course.js"
   },
   "homeworkName": {
-    "message": "إسم المهام",
+    "message": "إسم الواجب",
     "description": "2.0 course.js"
   },
   "commited": {
@@ -1844,7 +1844,7 @@
     "description": "2.0 course.js"
   },
   "notApproved": {
-    "message": "لم يتم تقييمه",
+    "message": "لم يتم تصحيحه",
     "description": "2.0 course.js"
   },
   "draft": {
@@ -1952,11 +1952,11 @@
     "description": "2.0 course.js"
   },
   "group": {
-    "message": "مجموعة",
+    "message": "جماعي",
     "description": "2.0 course.js"
   },
   "personal": {
-    "message": "فرد",
+    "message": "فردي",
     "description": "2.0 course.js"
   },
   "deleteHomework": {
@@ -2020,7 +2020,7 @@
     "description": "2.0 course.js"
   },
   "courseName": {
-    "message": "إسم الدورة الدراسية",
+    "message": "اسم المقرر الدراسي",
     "description": "2.0 course.js"
   },
   "courseType": {
@@ -2036,7 +2036,7 @@
     "description": "2.0 course.js"
   },
   "courseCover": {
-    "message": "غطاء الدورة الدراسية",
+    "message": "غلاف المقرر الدراسي",
     "description": "2.0 course.js"
   },
   "localUpload": {
@@ -2164,7 +2164,7 @@
     "description": "2.0 course.js"
   },
   "memberSpocHeadTips": {
-    "message": "يمكنك إدارة الفصول الدراسية الخاصة بك والطلاب وأعضاء فريق التدريس هنا (يمكن لإدارة المقرر الدراسي إدارة جميع). يمكنك تدريس فصل دراسي بمفردك أو يمكنك إضافة معلم /مدرس و/أو TA (2) للمشاركة في تدريس الفصل.",
+    "message": "في هذه الصفحة يمكن إدارة الفصول الدراسية، الطلاب، وأعضاء فريق التدريس، (مشرف المقرر يمكنه إدارة الجميع). يمكنك تدريس الفصل بمفردك كما يمكنك أيضا إضافة معلمين آخرين و / أو مساعدو تدريس للمشاركة في تدريس الفصل الدراسي. ",
     "description": "2.0 course.js"
   },
   "courseClassCodeColon": {
@@ -2908,11 +2908,11 @@
     "description": "2.0 course.js"
   },
   "resourceHeadTips": {
-    "message": "فيما يلي المصادر المتاحة للطلاب. يمكنك إضافة مصادر مباشرة هنا أو من \"مكتبة المصادر\". يمكنك تعيين أذونات وصول مختلفة لفئات مختلفة.",
+    "message": "موارد التعلم الخاصة بالمقرر الدراسي متاحة في هذه الصفحة. يمكن إضافة موارد مباشرة من مكتبة الموارد التعليمية. يمكن ضبط صلاحيات الوصول للموارد التعليمية حسب المحاضرة",
     "description": "2.0 course.js"
   },
   "currentPosition": {
-    "message": "الوضع الحالي:",
+    "message": "الموضع الحالي",
     "description": "2.0 course.js"
   },
   "allResource": {
@@ -2936,7 +2936,7 @@
     "description": "2.0 course.js"
   },
   "addResource": {
-    "message": "إضافة مصدر",
+    "message": "إصافة مورد تعليمي",
     "description": "2.0 course.js"
   },
   "addLink": {
@@ -2948,11 +2948,11 @@
     "description": "2.0 course.js"
   },
   "resourceLibrary": {
-    "message": "مكتبة المصادر",
+    "message": "مكتبة الموارد التعليمية",
     "description": "2.0 course.js"
   },
   "resourceName": {
-    "message": "اسم المصدر",
+    "message": "اسم المورد التعليمي",
     "description": "2.0 course.js"
   },
   "viewDownloadNumber": {
@@ -3304,15 +3304,15 @@
     "description": "2.0 course.js"
   },
   "createLive": {
-    "message": "إنشاء المحاضرة المباشرة",
+    "message": "إنشاء بث حي",
     "description": "2.0 course.js"
   },
   "liveName": {
-    "message": "اسم المحاضرة المباشرة",
+    "message": "إسم الجلسه",
     "description": "2.0 course.js"
   },
   "keynoteSpeaker": {
-    "message": "مضيف",
+    "message": "المستضيف",
     "description": "2.0 course.js"
   },
   "startTime": {
@@ -3320,7 +3320,7 @@
     "description": "2.0 course.js"
   },
   "participantsClass": {
-    "message": "نوع المحاضرة المباشرة",
+    "message": "نوع الجلسة",
     "description": "2.0 course.js"
   },
   "onGoing": {
@@ -3328,7 +3328,7 @@
     "description": "2.0 course.js"
   },
   "hasEnded": {
-    "message": "تم الإنهاء",
+    "message": "إنتهت",
     "description": "2.0 course.js"
   },
   "share": {
@@ -3944,7 +3944,7 @@
     "description": "2.0 course.js"
   },
   "continueStudy": {
-    "message": "إطلاق",
+    "message": "إبدا",
     "description": "2.0 course.js"
   },
   "startStudy": {
@@ -4204,15 +4204,15 @@
     "description": "2.0 course.js"
   },
   "myTextbook": {
-    "message": "كتبي الإلكترونية",
+    "message": "مقرراتي الدراسية",
     "description": "2.0 course.js"
   },
   "activatedTextbook": {
-    "message": "تنشيط الكتاب الإلكتروني",
+    "message": "المقررا ت الدراسية المفعلة",
     "description": "2.0 course.js"
   },
   "activeTextbook": {
-    "message": "تنشيط الكتاب الإلكتروني",
+    "message": "تفعيل المقرر الدراسي",
     "description": "2.0 course.js"
   },
   "studingCl": {
@@ -4484,7 +4484,7 @@
     "description": "2.0 course.js"
   },
   "scoreItemType1": {
-    "message": "نتيجة دراسة المنهج الدراسي",
+    "message": "درجة دراسة المنهج الدراسي",
     "description": "2.0 course.js"
   },
   "scoreItemType1Option1": {
@@ -4672,7 +4672,7 @@
     "description": "2.0 course.js"
   },
   "newStrategyTips26": {
-    "message": "من خلال تعيين قواعد التقدير الخاصة بـالمنهج الدراسي، يمكنك تعيين أوزان لأصناف تقدير مختلفة. حسب تاريخ الاستحقاق، يقوم النظام تلقائيًا بحساب الدرجة النهائية الخاصة بـالمنهج الدراسي لكل طالب.",
+    "message": "من خلال وضع فواعد التقدير للمنهج الدراسي، يمكنك تخديد الأوزان لعناصر تقدير مختلفة. حيث يقوم النظام تلقائيا بحساب درجة التقدير النهائية في المقرر لكل طالب .",
     "description": "2.0 course.js"
   },
   "certificateManage": {
@@ -4760,7 +4760,7 @@
     "description": "2.0 course.js"
   },
   "descTip_new": {
-    "message": "يمكن استخدام جلسات مباشرة للتدريس المتزامن عبر الإنترنت.  يُوصى بGoog le Chrome لتقديم/الانضمام إلى المحاضرات المباشرة لأفضل تجربة مستخدم.",
+    "message": "يمكن استخدام البث الحي للتدريس المتزامن عبر الانترنت. يوصّى باستخدام متصفح Google Chrome لتقديم أو الانضمام للمحاضرات عبر الانترنت. ",
     "description": "2.0 course.js"
   },
   "descTip1": {
@@ -4988,7 +4988,7 @@
     "description": "2.0 course.js"
   },
   "liveTime": {
-    "message": "مدة المحاضرة المباشرة",
+    "message": "مدة الجلسة",
     "description": "2.0 course.js"
   },
   "liveTime1": {
@@ -5360,7 +5360,7 @@
     "description": "2.0 course.js"
   },
   "totalCourseScore": {
-    "message": "إجمالي الممكن:",
+    "message": "الدرجة الكلية:",
     "description": "2.0 course.js"
   },
   "courseTextbooksSupportTips": {
@@ -5500,7 +5500,7 @@
     "description": "2.0 course.js"
   },
   "gradeLive": {
-    "message": "جلسة داخلية",
+    "message": "جلسة مخصصة",
     "description": "2.0 course.js"
   },
   "publicLive": {
@@ -5600,7 +5600,7 @@
     "description": "2.0 course.js"
   },
   "inClassroom": {
-    "message": "في المحاضرة المباشرة",
+    "message": "محاضرات جارية الأن",
     "description": "2.0 course.js"
   },
   "classroomReport": {
@@ -5688,7 +5688,7 @@
     "description": "2.0 course.js"
   },
   "classsroomHeadTips1": {
-    "message": "لجلسات الفصول الدراسية وجها لوجه، يمكن للمعلم إطلاق أنشطة مختلفة على (أو يلقي الأنشطة إلى) شاشة كبيرة لتسهيل التعلم. يتم تتبع جميع الدورات التدريبية والأنشطة وبيانات النشاط وتخزينها في ULearning. يمكن استخدام/ تحليل البيانات من قبل المعلم/ المدرسة لأغراض مختلفة.",
+    "message": "في المحاضرات المباشرة يمكن للمعلم عمل أنشطة مختلفة (أو عرضهاعلي الشاشة) لتسهيل العملية التعليمية. يتم تتبع المحاضرات والأنشطة وبياناتها تخزينها في قواعد بيانات Ulearning . البيانات يمكن استخدامها/تحليلها من قبل المعلم/الكلية/المعهد لأغراض مختلفة.",
     "description": "2.0 course.js"
   },
   "cannotView": {
@@ -5700,7 +5700,7 @@
     "description": "2.0 course.js"
   },
   "courseInfo": {
-    "message": "معلومات الدورة الدراسية",
+    "message": "معلومات المقرر",
     "description": "2.0 course.js"
   },
   "menuManage": {
@@ -5836,7 +5836,7 @@
     "description": "2.0 course.js"
   },
   "joinExistClassApply": {
-    "message": "طلب الالتحاق /سحب الفصل الدراسي",
+    "message": "طلب الالتحاق بالفصل الدراسي / الانسحاب من الفصل الدراسي",
     "description": "2.0 course.js"
   },
   "applyType": {
@@ -6204,7 +6204,7 @@
     "description": "2.0 course.js"
   },
   "enableRecord": {
-    "message": "بعد دخول الاجتماع، يتم التسجيل تلقائيا",
+    "message": "تسجيل المحاضرة تلقائيا ",
     "description": "2.0 course.js"
   },
   "meetingOptions": {
@@ -6212,7 +6212,7 @@
     "description": "2.0 course.js"
   },
   "liveStatement": {
-    "message": "من خلال الإنشاء ، فإنك تلجأ إلى {policy} الخاصة بنا",
+    "message": "بالضغط علي رز التأكيد فإنك توافق علي قبول سياسات  الخصوصية الخاصة بنا",
     "description": "2.0 course.js"
   },
   "livePolicy": {
@@ -6260,7 +6260,7 @@
     "description": "2.0 course.js"
   },
   "exportGrade": {
-    "message": "تصدير الدرجات بكميات كبيرة",
+    "message": "تصدير الدرجات دفعة واحدة",
     "description": "2.0 course.js"
   },
   "batchExportData": {
@@ -6648,7 +6648,7 @@
     "description": "2.0 course.js"
   },
   "courseCode": {
-    "message": "رمز الدورة",
+    "message": "رمز المقرر",
     "description": "2.0 course.js"
   },
   "settingValidateTips14": {
@@ -6700,7 +6700,7 @@
     "description": "2.0 course.js"
   },
   "courseUnits": {
-    "message": "وحدة",
+    "message": "وحدات المقرر الدراسي",
     "description": "2.0 course.js"
   },
   "answerSheet": {
@@ -6728,7 +6728,7 @@
     "description": "2.0 course.js"
   },
   "unitFound": {
-    "message": "إنشاء خلية",
+    "message": "إنشاء وحدة",
     "description": "2.0 course.js"
   },
   "addUnit": {
@@ -7452,11 +7452,11 @@
     "description": "2.0 course.js"
   },
   "reverseOrder": {
-    "message": "عكس الترتيب حسب الوقت",
+    "message": "ترتيب تنازلي الأحدث أولاً",
     "description": "2.0 course.js"
   },
   "positiveOrder": {
-    "message": "ترتيب زمني إيجابي",
+    "message": "ترتيب تصاعدي الأقدم أولا",
     "description": "2.0 course.js"
   },
   "uploadTime": {

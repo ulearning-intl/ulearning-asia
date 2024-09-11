@@ -284,7 +284,7 @@
     "description": "2.0 exam.js"
   },
   "examStuNum": {
-    "message": "{0} كامل",
+    "message": "{0} عدد الذين أكلموا الامتحان",
     "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
   },
   "expectExamStuNum": {
@@ -652,7 +652,7 @@
     "description": "2.0 exam.js"
   },
   "field": {
-    "message": "المجموع {count} محاضرة",
+    "message": "عدد {count} الجلسات ",
     "description": "指有多少场考试"
   },
   "creator": {
@@ -660,7 +660,7 @@
     "description": "2.0 exam.js"
   },
   "examTime": {
-    "message": "وقت الامتحان",
+    "message": "زمن الامتحان",
     "description": "2.0 exam.js"
   },
   "examPaper": {
@@ -700,7 +700,7 @@
     "description": "2.0 exam.js"
   },
   "lateTimeSet": {
-    "message": "بدأ متأخر",
+    "message": "تأخير بداية الإمتحان",
     "description": "2.0 exam.js"
   },
   "myself": {
@@ -708,7 +708,7 @@
     "description": "2.0 exam.js"
   },
   "start": {
-    "message": "إبدأ",
+    "message": "البداية",
     "description": "2.0 exam.js"
   },
   "startDatePrefix": {
@@ -716,7 +716,7 @@
     "description": "2.0 {filename}"
   },
   "ended": {
-    "message": "الانتهاء",
+    "message": "النهاية",
     "description": "2.0 exam.js"
   },
   "endDatePrefix": {
@@ -732,7 +732,7 @@
     "description": "教师账号 -> 考试"
   },
   "randomGroupPaper": {
-    "message": "امتحان عشوائي",
+    "message": "غير محدد مسبقا (جديد)",
     "description": "2.0 exam.js"
   },
   "viewScore": {
@@ -748,7 +748,7 @@
     "description": "2.0 exam.js"
   },
   "modifyBatch": {
-    "message": "تعديل محاضرة",
+    "message": "تعديل الجلسة",
     "description": "2.0 exam.js"
   },
   "delete": {
@@ -768,7 +768,7 @@
     "description": "2.0 exam.js"
   },
   "examTips4": {
-    "message": "الضيف/المضيف: ",
+    "message": "تصحيح تلقائي / تصحيح يدوي",
     "description": "2.0 exam.js"
   },
   "afterExamFinished": {
@@ -1384,7 +1384,7 @@
     "description": "2.0 exam.js"
   },
   "batchArrangement": {
-    "message": "المحاضرات",
+    "message": "جلسات الامتحان",
     "description": "2.0 exam.js"
   },
   "examRoomArrangement": {
@@ -1472,7 +1472,7 @@
     "description": "2.0 exam.js"
   },
   "arrangingExamRoom": {
-    "message": "جدول مواعيد مقر الامتحان",
+    "message": "الجدول الزمني لمقر الامتحان",
     "description": "2.0 exam.js"
   },
   "exportTable": {
@@ -1480,7 +1480,7 @@
     "description": "2.0 exam.js"
   },
   "batch": {
-    "message": "محاضرة",
+    "message": "جلسة",
     "description": "2.0 exam.js"
   },
   "batchNo": {
@@ -1564,7 +1564,7 @@
     "description": "2.0 exam.js"
   },
   "addBatch": {
-    "message": "إضافة محاضرة",
+    "message": "اضافة جلسه",
     "description": "2.0 exam.js"
   },
   "someBatch": {
@@ -2268,7 +2268,7 @@
     "description": "2.0 exam.js"
   },
   "roomEditorTips1": {
-    "message": "# من الممتحنين في كل محاضرة: ",
+    "message": "عدد الممتحنين في كل جلسة : ",
     "description": "2.0 exam.js"
   },
   "roomEditorTips2": {
@@ -2308,7 +2308,7 @@
     "description": "2.0 exam.js"
   },
   "roomEditorTips4": {
-    "message": "حدد مرفق الامتحان لكل جلسة. # المقاعد المتاحة لكل دورة يجب أن تكون أكبر من # من الطلاب",
+    "message": "حدد موقع الامتحان لكل جلسة. عدد المقاعد المتاحة في كل جلسة يجب أن يكون أكبر من عدد الطلاب",
     "description": "2.0 exam.js"
   },
   "seatOf": {
@@ -2656,7 +2656,7 @@
     "description": "2.0 exam.js"
   },
   "analysisReport": {
-    "message": "تقرير التحليل",
+    "message": "تقرير الامتحان",
     "description": "2.0 exam.js"
   },
   "class": {
@@ -2728,7 +2728,7 @@
     "description": "2.0 exam.js"
   },
   "attachAccess": {
-    "message": "المرفقات مسموح بها لإجابات الأسئلة القصيرة",
+    "message": "المرفقات مسموح بها للأسئلة المقالية",
     "description": "2.0 exam.js"
   },
   "deviceMonitor": {
@@ -2796,7 +2796,7 @@
     "description": "2.0 exam.js"
   },
   "minSubmitTime": {
-    "message": "تم الإرسال إلى",
+    "message": "وقت التسليم ",
     "description": "2.0 exam.js"
   },
   "minSubmitTime2": {
@@ -2812,7 +2812,7 @@
     "description": "2.0 exam.js"
   },
   "batchTips": {
-    "message": "لإجراء الامتحان، يجب إضافة الطلاب أو الفصل الذي يحتوي على الطلاب إلى محاضرة الامتحان أولا. يمكن إنشاء محاضرة الامتحان بعد نشر امتحان الفصل.",
+    "message": "لإجراء الامتحان، يجب إضافة الطلاب أو الفصل الذي يحتوي على الطلاب إلى جلسة الامتحان أولا. يمكن إنشاء جلسة الامتحان بعد نشر الامتحان.",
     "description": "2.0 exam.js"
   },
   "edit": {
@@ -3320,7 +3320,7 @@
     "description": "2.0 exam.js"
   },
   "remark": {
-    "message": "إعادة التسجيل",
+    "message": "إعادة التقدير",
     "description": "2.0 exam.js"
   },
   "remarkingTip": {
@@ -3388,7 +3388,7 @@
     "description": "2.0 exam.js"
   },
   "toAddBatch": {
-    "message": "إنشاء مزرعة جديدة",
+    "message": "إنشاء جلسه جديدة",
     "description": "2.0 exam.js"
   },
   "startTimeErrorTip": {
@@ -3464,15 +3464,15 @@
     "description": "2.0 exam.js"
   },
   "randomItem": {
-    "message": "خلط الإجابات\n",
+    "message": "تبديل الاجابات",
     "description": "2.0 exam.js"
   },
   "randomItemTip": {
-    "message": "بما في ذلك موضوع واحد / متعددة الاختيار من متعدد",
+    "message": "بما في ذلك (اسئلة الختيار الواحد و الاختيارات المتعددة)",
     "description": "2.0 exam.js"
   },
   "waterMark": {
-    "message": "فتح اختبار العلامة المائية",
+    "message": "أظهار العلامة المائية للإمتحان",
     "description": "2.0 exam.js"
   },
   "waterMarkTip": {
@@ -3484,7 +3484,7 @@
     "description": "2.0 exam.js"
   },
   "sequentialAnswer": {
-    "message": "يحظر تخطي الأسئلة",
+    "message": "منع تخطي الأسئلة",
     "description": "2.0 exam.js"
   },
   "sequentialAnswerTip": {
@@ -3520,7 +3520,7 @@
     "description": "2.0 exam.js"
   },
   "ownSpieltag": {
-    "message": "ما عليك سوى إلقاء نظرة على عدد المرات التي يقع فيها فصلي الدراسي",
+    "message": "عرض حلسات الفصول الخاصة بي فقط",
     "description": "2.0 exam.js"
   },
   "ownSpieltagMsg": {
@@ -3824,11 +3824,11 @@
     "description": "2.0 exam.js"
   },
   "remarkSetting": {
-    "message": "إعدادات تسجيل النقاط",
+    "message": "إعدادات وضع الدرجات",
     "description": "2.0 exam.js"
   },
   "remarkSettingDesc": {
-    "message": "يتم منح نصف نقطة للجزء الصحيح متعدد الخيارات",
+    "message": "تمنح نصف درجة للجزء الصحيح في حالة السؤال متعدد الإختيارت",
     "description": "2.0 exam.js"
   },
   "remarkSettingTip": {
@@ -3916,7 +3916,7 @@
     "description": "2.0 exam.js"
   },
   "answerTimesNew": {
-    "message": "عدد الطلبات المقدمة",
+    "message": "عدد المحاولات (تكرار الامتحان)",
     "description": "2.0 exam.js"
   },
   "answeredTimesNew": {
@@ -3932,7 +3932,7 @@
     "description": "2.0 exam.js"
   },
   "studentExamStudentOf": {
-    "message": "المرشح: {n}",
+    "message": "عدد الممتحنين: {n}",
     "description": "2.0 exam.js"
   },
   "studentRemainSeat": {

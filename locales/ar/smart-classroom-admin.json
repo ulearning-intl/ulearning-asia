@@ -522,5 +522,909 @@
   "recordedClass.msg1": {
     "message": "لا يمكن الاتصال بالخادم، يرجى التحقق من الشبكة أو عنوان IP للخادم.",
     "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.reload": {
+    "message": "إعادة التحميل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.failedReload": {
+    "message": "فشل التحميل ، يرجى إعادة التحميل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.vFailedReload": {
+    "message": "فشل تحميل الفيديو، يرجى إعادة التحميل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.platform": {
+    "message": "المنصة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.student": {
+    "message": "الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.courseware": {
+    "message": "محتوى العرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.vlcReloadErr": {
+    "message": "فشل تحميل مشغل VLC",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.courseInfo": {
+    "message": "معلومات المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.subjectClass": {
+    "message": "تصنيف التخصصات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.college": {
+    "message": "الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classroomTeaching": {
+    "message": "قاعة الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classTime": {
+    "message": "وقت المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.theTeacher": {
+    "message": "المحاضر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.courseDesc": {
+    "message": "نبذة عن المقرر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.downloadVlc": {
+    "message": " انقر لتنزيل الإضافة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.windows": {
+    "message": "نظام الويندوز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.ieBrower": {
+    "message": "متصفح إنترنت إكسبلورر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classForClass": {
+    "message": "الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.notSupport": {
+    "message": "هذا المتصفح لا يدعم التشغيل في الوقت الحالي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg1": {
+    "message": "بعد الانتهاء من تسجيل المحاضرة، يجب معالجة الفيديو مسبقًا، وقد يستغرق ذلك بعض الوقت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg2": {
+    "message": " البيئة المثلى للاستخدام: نظام التشغيل Win 7 أو أعلى، MAC OS X؛ المتصفح: IE10 أو أعلى، Edge، Chrome 55 أو أعلى.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg3": {
+    "message": "كن حذرًا عند تعديل إعدادات مسجل الدروس، فقد تؤدي الإعدادات الخاطئة إلى تعطيل الكاميرات المتصلة. هل أنت متأكد من أنك تريد تعديل إعدادات المسجل؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg4": {
+    "message": "فشل الإعداد! يرجى التحقق مما إذا كان عنوان IP للمسجل أو كلمة المرور صحيحة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg5": {
+    "message": "اتبع الخطوات التالية:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg6": {
+    "message": "قم بتنزيل القالب وتنظيم بياناتك كما هو محدد في القالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg7": {
+    "message": "قم رفع الملف المكتمل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg8": {
+    "message": "لم يكتمل استيراد القاعة الدراسية - يرجى تصحيح البيانات غير الصالحة في النموذج وإعادة التحميل!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg9": {
+    "message": "جار تنزيل القالب...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg10": {
+    "message": "يسمح بتحميل ملف واحد فقط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg11": {
+    "message": "تمت العملية بنجاح! يرجى انتظار الجهاز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg12": {
+    "message": "بيئة الاستخدام المثلى: نظام التشغيل ويندوز 7 أو أعلى؛ متصفح: متصفح إنترنت إكسبلورر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg13": {
+    "message": "احتفظ بواحد على الأقل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg14": {
+    "message": "بحد أقصى 20",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg15": {
+    "message": "لم يتم العثور على جدول الدروس - انقر فوق زر \"استيراد جدول الدروس\" لإضافة واحد!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg16": {
+    "message": "جارٍ التحميل...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg17": {
+    "message": "يرجى التحقق مما إذا كان عنوان URL الذي أدخلته صحيحًا، أو انقر فوق الزر أدناه للعودة إلى الصفحة الرئيسية.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg18": {
+    "message": "لم يتم العثور على الصفحة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg19": {
+    "message": "تنبيه",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg20": {
+    "message": "لم يتم استيراد الحسابات - يرجى تصحيح البيانات غير الصالحة في الجدول وإعادة تحميلها!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg21": {
+    "message": "تحديد مقرر (مقررات)!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg22": {
+    "message": "جاري التحميل... لا تقم بإغلاق هذه الصفحة! إذا لم يتم التنزيل تلقائيًا، فانقر فوق الرابط للتنزيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg23": {
+    "message": "تنزيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg24": {
+    "message": "لم يتم استيراد الجدول الزمني للمحاضرات - يرجى تصحيح البيانات غير الصالحة في الجدول وإعادة تحميله!\t",
+    "description": "smart-classroom-admin 项目"
+  },
+  "playback.msg25": {
+    "message": "جاري التنزيل ، من فضلك لا تغلق هذه الصفحة! إذا نجح التنزيل ، إغلاق هذه الصفحة تلقائيا.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.recordedClassroom": {
+    "message": "قاعات التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.addRecordClassroom": {
+    "message": "إضافة قاعة تسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.setRecordClassroom": {
+    "message": "ضبط قاعة التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.recordedHost": {
+    "message": "خادم التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.camera": {
+    "message": "كاميرا",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.recordingNums": {
+    "message": "عدد التسجيلات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.deviceName": {
+    "message": "اسم خادم التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.IP": {
+    "message": "عنوان الشبكة IP",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.setHost": {
+    "message": "إعداد إعداد المخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.hostName": {
+    "message": "اسم المخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.hostNamePH": {
+    "message": "الرجاء إدخال اسم مخدم التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.hostIP": {
+    "message": "عنوان IP للمخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.hostIPPH": {
+    "message": "الرجاء إدخال عنوان IP مخدم التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.loginAccount": {
+    "message": "اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.loginAccountPH": {
+    "message": "الرجاء أدخل اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.loginPwd": {
+    "message": "كلمة مرور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.loginPwdPH": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.basicInfo": {
+    "message": "المعلومات الأساسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.name": {
+    "message": "الاسم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.RhostIP": {
+    "message": "عنوان IP مسجل الدروس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.classroom": {
+    "message": "قاعة الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.setting": {
+    "message": "الإعدادات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.removeClassroom": {
+    "message": "إزالة قاعة دراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.sureRemoveClassroom": {
+    "message": "هل أنت متأكد من إزالة قاعة الدراسة؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.campusPS": {
+    "message": "الرجاء اختيار الحرم الجامعي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.buildingPS": {
+    "message": "يرجى اختيار المبنى التعليمي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.classroomPS": {
+    "message": "يرجى اختيار القاعة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.cameraPS": {
+    "message": "يرجى تحديد/ إضافة كاميرا (كاميرات)!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "setUp.classroomTypePS": {
+    "message": "يرجى اختيار نوع القاعة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.seating": {
+    "message": "عدد المقاعد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.seatingPS": {
+    "message": "الرجاء إدخال عدد المقاعد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.downloadTemplate": {
+    "message": "تنزيل قالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.uploadFile": {
+    "message": "رفع الملف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.clickUpload": {
+    "message": "اضط هنا لرفع الملف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "classroom.sureRemove": {
+    "message": "تأكيد الحذف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.online": {
+    "message": "متصل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.offline": {
+    "message": "غير متصل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.batchControl": {
+    "message": "التحكم دفعة واحدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.allClassroom": {
+    "message": "جميع القاعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.powerSupply": {
+    "message": "مزود الطاقة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.computer": {
+    "message": "الحواسيب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.projector": {
+    "message": "جهاز العرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.mike": {
+    "message": "الميكروفون",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.miketea": {
+    "message": "ميكروفون المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.mikestu": {
+    "message": "ميكروفون الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.stereo": {
+    "message": "أنظمة الصوت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.conditioner": {
+    "message": "مكيف الهواء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.curtain": {
+    "message": "الستائر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.light": {
+    "message": "الإضاءة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.largeScreen": {
+    "message": "اللوحة الذكية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.isOpen": {
+    "message": "جارٍ التفعيل...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.isClose": {
+    "message": "جاري تعطيل...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.openSucc": {
+    "message": "تم التفعيل بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.closeSucc": {
+    "message": "تم تعطيل بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.temperature": {
+    "message": "درجة الحرارة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.humidity": {
+    "message": "الرطوبة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.cdc": {
+    "message": "تركيز ثاني أكسيد الكربون",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.VOC": {
+    "message": "تركيز المركبات العضوية المتطايرة (VOC)",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.snocce": {
+    "message": "الرقم التسلسلي لجهاز التحكم المركزي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.scce": {
+    "message": "الرقم التسلسلي للتحكم المركزي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "controlCenter.sccePS": {
+    "message": "يرجى تحديد الرقم التسلسلي للتحكم المركزي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.academicYear": {
+    "message": "الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.weekly": {
+    "message": "اسبوع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.addAyear": {
+    "message": "إضافة فصل دراسي جديد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.editAyear": {
+    "message": "تعديل الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.importSchedule": {
+    "message": "استيراد جدول الدروس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.editSchedule": {
+    "message": "تعديل جدول الدروس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.schoolTime": {
+    "message": "تاريخ بداية الفصل الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.weekTeacherNum": {
+    "message": "عدد أسابيع الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.weekTeaching": {
+    "message": "الأسبوع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.generateWT": {
+    "message": "إنشاء الأسابيع الدراسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.workRestTime": {
+    "message": "جدول العمل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.section": {
+    "message": "الفترة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.startTimes": {
+    "message": "وقت البدء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.endTimes": {
+    "message": "وقت الانتهاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.rest": {
+    "message": "استراحة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.date": {
+    "message": "التاريخ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.duration": {
+    "message": "المدة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg1": {
+    "message": "يرجى ضبط وقت العمل الصحيح",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg2": {
+    "message": "قد يؤدي تعديل الفصل الدراسي إلى التأثير على الجدول الزمني الحالي - تابع بحذر. هل أنت متأكد من رغبتك في التعديل؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg3": {
+    "message": "يرجى ضبط وقت بداية الفصل الدراسي！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg4": {
+    "message": "يرجى ضبط عدد أسابيع الدراسة!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg5": {
+    "message": "إذا كنت بحاجة إلى تعديل الجدول الزمني للدروس، يرجى إعادة استيراد الجدول الزمني. قد يؤدي تعديل الجدول الزمني للدروس إلى التأثير على الجدول الزمني الحالي - تابع بحذر!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.msg6": {
+    "message": "هل أنت متأكد من رغبتك في التعديل؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.year": {
+    "message": "السنة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.faculty": {
+    "message": "الكليات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.instructions": {
+    "message": "ملاحظة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.isBind": {
+    "message": "مرتبط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.unbounded": {
+    "message": "غير مرتبط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.courseID": {
+    "message": "معرف المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.courseName": {
+    "message": "اسم المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.teacher": {
+    "message": "المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.subject": {
+    "message": "التخصص",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.class": {
+    "message": "الفصل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.grade": {
+    "message": "السنة الدراسية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.bindOnlineCourses": {
+    "message": "ربط المقرر عبر الانترنت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.college": {
+    "message": "الكلية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.bindCourses": {
+    "message": "ربط مقرر دراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.allowedDemand": {
+    "message": "تمكين البث عند الطلب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.removeBind": {
+    "message": "إلغاء الربط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.cancelDemand": {
+    "message": "إلغاء البث عند الطلب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.bind": {
+    "message": "ربط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.confirmUnbind": {
+    "message": "هل أنت متأكد من الغاء الربط؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.confirmAllowedDemand": {
+    "message": "هل أنت متأكد من أنك تريد تمكين البث عند الطلب؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.confirmCancelDemand": {
+    "message": "هل أنت متأكد من أنك تريد تعطيل البث عند الطلب؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.founder": {
+    "message": "المٌنشئ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.creationTime": {
+    "message": "تاريخ الإنشاء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.msg1": {
+    "message": "البحث عن طريق اسم أو معرف المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.msg2": {
+    "message": "(1) تفعيل البث عند الطلب: انقر على زر \"التفعيل عند الطلب\" لجعل تسجيلات المحاضرات متاحة للجميع. يمكن للطلاب/المعلمين في الجامعة مشاهدة تسجيلات المحاضرات هذه على منصة موارد التسجيل.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.msg3": {
+    "message": "(2) ربط الدروس عبر الإنترنت: قم بربط هذا المقرر بالمقرر عبر الإنترنت في منصة التعلم الإلكتروني. بعد الارتباط، يمكن للمعلمين والطلاب المسجلين في المقرر عبر الإنترنت مشاهدة تسجيلات المحاضرات في منصة التعلم الإلكتروني.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.msg4": {
+    "message": "أدخل اسم المقرر للبحث",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.msg5": {
+    "message": "يرجى إنشاء فصل دراسي، وتعيين وقت بدء الفصل الدراسي، ثم استيراد الجدول الزمني للدروس.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.msg1": {
+    "message": "التسجيل حسب الجدول الدراسي: سيقوم النظام بتسجيل المحاضرات تلقائيًا وفقًا للجدول الدراسي.\t",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.msg2": {
+    "message": "انتقل إلى \"إدارة الشؤون الأكاديمية\"",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.msg3": {
+    "message": "التسجيل حسب الجدول الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.msg4": {
+    "message": "ملاحظة: إذا تعارضت التسجيل المجدول مع تسجيل جاري، فلن يتم تنفيذ التسجيل المجدول.\t",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.msg5": {
+    "message": "تتم حاليًا عملية تسجيل مجدولة، يرجى الانتظار حتى الانتهاء.\t",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.setUpSchedule": {
+    "message": "إعداد الجدول الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.schedule": {
+    "message": "جدول المحاضرات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.determineOpening": {
+    "message": "هل أنت متأكد من رغبتك في تفعيله؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.determineClosed": {
+    "message": "هل أنت متأكد من رغبتك في تعطيله؟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.course": {
+    "message": "المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.recordingTime": {
+    "message": "مدة التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.searchMsg": {
+    "message": "البحث حسب المقرر الدراسي/ المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.eachPage": {
+    "message": "{num} لكل صفحة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.lecturer": {
+    "message": "المحاضر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.video": {
+    "message": "مقطع فيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.totalTime": {
+    "message": "المدة الإجمالية للفيديو (بالدقائق)",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.name": {
+    "message": "الاسم الكامل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.username": {
+    "message": "اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.email": {
+    "message": "البريد الإلكتروني",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.phone": {
+    "message": "رقم الهاتف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.addteaAccount": {
+    "message": "إنشاء حساب معلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.editteaAccount": {
+    "message": "تعديل حساب المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.plesename": {
+    "message": "انقر لإدخال الاسم الكامل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.nameErr": {
+    "message": "أدخل 2 - 50 حرفًا، لا يُسمح بإدخال الرموز الخاصة باستثناء \". * - .\"",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.pleseusername": {
+    "message": "الرجاء إدخال اسم المستخدم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.usernameErr": {
+    "message": "أدخل 6-50 حرفًا - أرقام وحروف فقط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.plesepwd": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.pwdErr": {
+    "message": "أدخل 8-16 حرفًا، يجب أن تحتوي على أحرف وأرقام، مع التمييز بين الأحرف الكبيرة والصغيرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.twoInconsistencies": {
+    "message": "كلمتا المرور غير متطابقتين",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.addstuAccount": {
+    "message": "إنشاء حساب طالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.editstuAccount": {
+    "message": "تعديل حساب الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.pleaseStuid": {
+    "message": "الرجاء إدخال رقم الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.stuidErr": {
+    "message": "الرجاء إدخال 6-50 حرفا أو رقما",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.phoneErr": {
+    "message": "الرجاء إدخال رقم هاتف صالح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseCatalog.mailErr": {
+    "message": "الرجاء إدخال بريد إلكتروني صحيح",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.classRoomTotal": {
+    "message": "إجمالي قاعات الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.ClassroomSchedulStatistics": {
+    "message": "إحصائيات جداول الحصص الدراسية للقاعات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.TheDayArrangement": {
+    "message": "الحصص المجدولة اليوم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.RecordingStatistics": {
+    "message": "إحصائيات التسجيلات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.most": {
+    "message": "الأعلى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.average": {
+    "message": "المتوسط",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.minimum": {
+    "message": "الأدنى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.boot": {
+    "message": "قيد التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.free": {
+    "message": "متاح",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.ArrangingNum": {
+    "message": "عدد المحاضرات المجدولة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.aNum": {
+    "message": "...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.minutes": {
+    "message": "دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.theNumberOf": {
+    "message": "جلسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.DurationMinutes": {
+    "message": "المدة: دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "dashboard.timesC": {
+    "message": "مرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.deviceType": {
+    "message": "نوع الجهاز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.inTheClassroom": {
+    "message": "قاعة الدراسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.event": {
+    "message": "الحدث",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.central": {
+    "message": "التحكم المركزي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.bodyMachine": {
+    "message": "مكيف الهواء",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.amplificationEquipment": {
+    "message": "مكبر الصوت",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.theDigitalPlatform": {
+    "message": "لوحة الإدارة و التحكم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentManage.other": {
+    "message": "أخرى",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.details": {
+    "message": "التفاصيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.myCourse": {
+    "message": "مقرراتي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.mySchedule": {
+    "message": "جدولي الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.myCourseDetails": {
+    "message": "تفاصيل المقرر الدراسي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.userInfo": {
+    "message": "المعلومات الشخصية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classPlayback": {
+    "message": "إعادة تشغيل المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.superviseTask": {
+    "message": "مهام المراجعة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.addSuperviseTask": {
+    "message": "إضافة مهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.editSuperviseTask": {
+    "message": "تعديل مهمة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.supervisorMyTask": {
+    "message": "مهامي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.recordingManage": {
+    "message": "إدارة التسجيلات",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.supervisorManagement": {
+    "message": "إدارة المراجعون",
+    "description": "smart-classroom-admin 项目"
   }
 }
