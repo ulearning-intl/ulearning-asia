@@ -3574,5 +3574,209 @@
   "route.topicDetail": {
     "message": "تفاصيل الموضوع",
     "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.reservationRecording": {
+    "message": "جدولة التسجيل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.recordingSchedule": {
+    "message": "جداول التسجيل المجدولة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.pleaseEnterTeacher": {
+    "message": "أدخل اسم المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.reservationSuccessful": {
+    "message": "تم جدولة التسجيل بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.scheduledRecordingModification": {
+    "message": "تم تعديل جدول التسجيل المجدول بنجاح!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.programDirector": {
+    "message": "المخٌرج",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.audienceFeature": {
+    "message": "لقطة مقربة للجمهور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.audiencePanorama": {
+    "message": "نظرة شاملة الجمهور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.keynoteFeature": {
+    "message": "صورة عن قرب للمحاضر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.lecturePanorama": {
+    "message": "منظر شامل للمحاضر",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.multichannelVideoMerging": {
+    "message": "فيديو متعدد العرض",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.interaction": {
+    "message": "التفاعل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.attentionCue": {
+    "message": "باستخدام تحليل فيديو المحاضرة، يمكن تحديد أوضاع وسلوكيات الطلاب، مثل الاستماع ووضع الرأس على المكتب، وما إلى ذلك. يمكن أن تعكس الاتجاهات المتغيرة لمنحنى نسبة رفع الرأس ونسبة وضع الرأس على المكتب تغييرات في حالة تعلم الطلاب إلى حد ما وتوفر رؤى معينة للمدارس الإداريين. نسبة رفع الرأس: نسبة سلوك الطلاب الاستماع إلى جميع السلوكيات. نسبة وضع الرأس على المكتب: نسبة استلقاء الطلاب على المكتب إلى جميع السلوكيات.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherWalk": {
+    "message": "حركة المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherGuidance": {
+    "message": "إرشاد المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherTaught": {
+    "message": "شرح المعلم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherBoard": {
+    "message": "المعلم يكتب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.playPhone": {
+    "message": "اللعب على الهاتف",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.studentsListenLectures": {
+    "message": "الطالب يستمع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.studentLiteracy": {
+    "message": "الطالب يقرأ/يكتب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.groupDiscussion": {
+    "message": "مناقشة جماعية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.raiseHand": {
+    "message": "رفع اليد",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.sleep": {
+    "message": "نائم",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.expectedNumber": {
+    "message": "الحضور المتوقع",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.attendance": {
+    "message": "الحضور",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teachingMode": {
+    "message": "نمط التدريس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.didactical": {
+    "message": "نوع المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.concentrationCurve": {
+    "message": "منحنى التركيز",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherBehaviorDistribution": {
+    "message": "تحليل سلوك التدريس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherBehaviorCue": {
+    "message": "من خلال تحليل فيديو المحاضرة، يمكن تحديد سلوكيات التدريس للمعلم، مثل المحاضرة والكتابة على السبورة وما إلى ذلك. يمكن للنظام حساب مدة كل سلوك تدريسي وتوزيعه طوال عملية التدريس.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherLate": {
+    "message": "يشتبه في تأخر المعلم 5 دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teachersLeaveEarly": {
+    "message": "يشتبه في مغادرة المعلم مبكرًا 5 دقائق",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.total": {
+    "message": "إجمالي",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teacherBehavior": {
+    "message": "سلوكيات التدريس",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.stuBehavior": {
+    "message": "سلوكيات الطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.stAnalyze": {
+    "message": "تحليل S -T",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.instructionalAnalysisMethod": {
+    "message": "تحليل التدريسS - T: أخذ عينات وتحليل السلوكيات التدريسية في الفصل الدراسي، T تعني أن سلوك المعلم هو السلوك المهيمن في الوقت الحالي، بما في ذلك محاضرة المعلم والكتابة على السبورة والتوجيه. S (غير سلوك T) يعني أن سلوك الطالب هو السلوك المهيمن. يمكن لتحليل S-T تحديد السلوكيات التدريسية كمياً واستنتاج نموذج التدريس في الفصل الدراسي.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classroomQualityReport": {
+    "message": "تقرير تحليل جودة المحاضرة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.viewAnalysisReport": {
+    "message": "عرض تقرير التحليل",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.concentrationRatio": {
+    "message": "معدل التركيز = نسبة سلوك الطلاب الاستماع إلى جميع السلوكيات، نسبة وضع الرأس على الدرج = نسبة استلقاء الطلاب على المكتب إلى جميع السلوكيات.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.annotatedAnalysisResults": {
+    "message": "وضع تعليق على نتائج تحليل السلوك على الفيديو",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.markingProcess": {
+    "message": "يتم وضع علامات على نتائج تحليل السلوك على الفيديو، وجاري معالجة الفيديو، يستغرق الأمر حوالي ساعة.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.analysisResultPrompt": {
+    "message": "يمكن للنظام وضع علامات على نتائج تحليل سلوك المعلم والطالب على الفيديو، انقر فوق الزر \"ابدأ\" لوضع علامات على الفيديو. تستغرق العملية بأكملها حوالي ساعة (يتم عرض هذه العلامة فقط في تقرير التحليل ولن يرى الطلاب هذه العلامات عند مشاهدة تسجيلات المحاضرات).",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.initiate": {
+    "message": "إبدأ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.dialogueType": {
+    "message": "نوع الحوار",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.exerciseType": {
+    "message": "نوع الممارسة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.mixedType": {
+    "message": "نوع هجين",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.teachersAndStudents": {
+    "message": "تفاعل المعلم والطالب / أسئلة وأجوبة",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.seminarGroup": {
+    "message": "مناقشة جماعية",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.studentPresentation": {
+    "message": "حديث / العرض التقديمي للطالب",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.clockToAnalysis": {
+    "message": "انقر هنا لتحليل الفيديو",
+    "description": "smart-classroom-admin 项目"
   }
 }
