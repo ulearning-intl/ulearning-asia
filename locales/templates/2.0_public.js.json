@@ -2486,5 +2486,29 @@
   "moreOperation": {
     "message": "更多操作",
     "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "尊敬的用户：",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "您的登录密码已经 <strong class='text-red'>180</strong> 天没有更新了！",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "为了保护您账号的安全，请您修改登录密码，防止密码被恶意破解，提高账号的安全性。",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "修改密码",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "下次再说",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "继续使用，不修改",
+    "description": "2.0 public.js"
   }
 }

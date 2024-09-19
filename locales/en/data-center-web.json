@@ -147,10 +147,6 @@
     "message": "Actions",
     "description": "data-center-web 项目"
   },
-  "table.delete": {
-    "message": "Delete",
-    "description": "data-center-web 项目"
-  },
   "table.cancel": {
     "message": "Cancel",
     "description": "data-center-web 项目"
@@ -196,11 +192,11 @@
     "description": "data-center-web 项目"
   },
   "common.candidates": {
-    "message": "Random Pick",
+    "message": "Pick You",
     "description": "data-center-web 项目"
   },
   "common.answer": {
-    "message": "Compete to Answer",
+    "message": "Q&A",
     "description": "data-center-web 项目"
   },
   "common.vote": {
@@ -2387,14 +2383,6 @@
     "message": "Click to upload",
     "description": "data-center-web 项目"
   },
-  "collationTranslation.versionNumber": {
-    "message": "Version: ",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.browser": {
-    "message": "Browser: ",
-    "description": "data-center-web 项目"
-  },
   "collationTranslation.uploadPictures": {
     "message": "Upload Image",
     "description": "data-center-web 项目"
@@ -2769,42 +2757,6 @@
   },
   "collationTranslation.back": {
     "message": "Back",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.gifSource": {
-    "message": "gif source",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.page": {
-    "message": "Page",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.pageNoPermissions": {
-    "message": "You don't have permission to access this page!",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.contactLeader": {
-    "message": "If you disagree, contact your manager.",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.youCanGo": {
-    "message": "Or you can ",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.returnHomePage": {
-    "message": "Back to Home",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookAround": {
-    "message": "Take a look",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookPicture": {
-    "message": "Click me to see the picture",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookArounds": {
-    "message": "Take a look",
     "description": "data-center-web 项目"
   },
   "collationTranslation.intro": {
@@ -3653,6 +3605,46 @@
   },
   "analyze.pleaseSelectDataRange": {
     "message": "No data found! Select a data range.",
+    "description": "data-center-web 项目"
+  },
+  "route.detailsOfCourse": {
+    "message": "Course Details",
+    "description": "data-center-web 项目"
+  },
+  "login.accountLogin": {
+    "message": "Account Login",
+    "description": "data-center-web 项目"
+  },
+  "login.casLogin": {
+    "message": "School SSO Login",
+    "description": "data-center-web 项目"
+  },
+  "login.bindTip1": {
+    "message": "Your information does not exist in the system!",
+    "description": "data-center-web 项目"
+  },
+  "login.bindTip2": {
+    "message": "Contact the admin to confirm that your personal information has been synchronized to this system. If you have an account in this system, link your account.",
+    "description": "data-center-web 项目"
+  },
+  "common.easyManage": {
+    "message": "Informed Decision-Making",
+    "description": "data-center-web 项目"
+  },
+  "common.websiteTip": {
+    "message": "Data collection, analysis and monitoring of the entire teaching and learning process",
+    "description": "data-center-web 项目"
+  },
+  "common.casTitle": {
+    "message": "Unified Identity Verification",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.lateLeaveWaring": {
+    "message": "Late/Leave Early Alert Threshold",
+    "description": "data-center-web 项目"
+  },
+  "analyze.noMatchingData": {
+    "message": "No matching data!",
     "description": "data-center-web 项目"
   }
 }
