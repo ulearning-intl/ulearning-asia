@@ -35,10 +35,6 @@
     "message": "即将到期",
     "description": "新版管理后台 zh.json"
   },
-  "organization.discontinued": {
-    "message": "停用",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.suspend": {
     "message": "停用",
     "description": "新版管理后台 zh.json"
@@ -65,10 +61,6 @@
   },
   "organization.action": {
     "message": "操作",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.view": {
-    "message": "查看",
     "description": "新版管理后台 zh.json"
   },
   "organization.edit": {
@@ -323,10 +315,6 @@
     "message": "课程统计",
     "description": "新版管理后台 zh.json"
   },
-  "routers.courseAnalysis": {
-    "message": "课程分析",
-    "description": "新版管理后台 zh.json"
-  },
   "routers.examManage": {
     "message": "考试管理",
     "description": "新版管理后台 zh.json"
@@ -471,14 +459,6 @@
     "message": "适用机构",
     "description": "新版管理后台 zh.json"
   },
-  "permission.addCharacteristicFormitem6": {
-    "message": "权限",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.addCharacteristicplaceholder6": {
-    "message": "为特性指定所关联的权限，当特性关闭时，机构的任何角色无法访问这些权限资源。",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addCharacteristicFormitem7": {
     "message": "是否启用",
     "description": "新版管理后台 zh.json"
@@ -517,10 +497,6 @@
   },
   "permission.delete": {
     "message": "删除",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.requierTip": {
-    "message": "必填项",
     "description": "新版管理后台 zh.json"
   },
   "permission.repeatTip": {
@@ -569,10 +545,6 @@
   },
   "permission.confirmBtn": {
     "message": "确认",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.features": {
-    "message": "特性",
     "description": "新版管理后台 zh.json"
   },
   "permission.deleteBtn": {
@@ -727,10 +699,6 @@
     "message": "描述",
     "description": "新版管理后台 zh.json"
   },
-  "permission.permissionGropuFormItemPlaceholder7": {
-    "message": "输入描述信息",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.deletePermissionGroupConfirmTitle": {
     "message": "操作确认",
     "description": "新版管理后台 zh.json"
@@ -741,10 +709,6 @@
   },
   "permission.deletePermissionGroupConfirmTitle1": {
     "message": "警告",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.deletePermissionGroupConfirmBtn": {
-    "message": "关闭",
     "description": "新版管理后台 zh.json"
   },
   "permission.deletePermissionGroupConfirmDesc1": {
@@ -769,10 +733,6 @@
   },
   "permission.saveSuccess": {
     "message": "保存成功",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManageradd": {
-    "message": "添加",
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerPlaceload1": {
@@ -852,10 +812,6 @@
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerFormItemPlaceholder1": {
-    "message": "输入角色名称",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManagerFormItemPlaceholder2": {
     "message": "输入角色名称",
     "description": "新版管理后台 zh.json"
   },
@@ -955,10 +911,6 @@
     "message": "更新角色成功",
     "description": "新版管理后台 zh.json"
   },
-  "permission.isConfirmText5": {
-    "message": "取消更新角色",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addRoleSuccess": {
     "message": "添加角色成功",
     "description": "新版管理后台 zh.json"
@@ -1035,10 +987,6 @@
     "message": "批量导出",
     "description": "新版管理后台 zh.json"
   },
-  "common.exportDesc": {
-    "message": "可一次性导出指定范围的数据",
-    "description": "新版管理后台 zh.json"
-  },
   "common.exportTip": {
     "message": "请设置需要导出的数据范围",
     "description": "新版管理后台 zh.json"
@@ -1073,10 +1021,6 @@
   },
   "notice.successUpload": {
     "message": "上传文件成功!",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.errUpload": {
-    "message": "当前限制选择 {0} 个文件，本次选择了 {1} 个文件，共选择了 {2} 个文件",
     "description": "新版管理后台 zh.json"
   },
   "notice.delUpload": {
@@ -1263,10 +1207,6 @@
     "message": "请设置显示方式",
     "description": "新版管理后台 zh.json"
   },
-  "notice.errForm": {
-    "message": "公告信息未填写完整",
-    "description": "新版管理后台 zh.json"
-  },
   "notice.successPub": {
     "message": "发布公告成功",
     "description": "新版管理后台 zh.json"
@@ -1407,10 +1347,6 @@
     "message": "全部年份",
     "description": "新版管理后台 zh.json"
   },
-  "course.allOrg": {
-    "message": "全部机构",
-    "description": "新版管理后台 zh.json"
-  },
   "course.allState": {
     "message": "所有状态",
     "description": "新版管理后台 zh.json"
@@ -1509,10 +1445,6 @@
   },
   "course.setTheClassTypeOfTheSchoolClass": {
     "message": "设置本校班课课程类型",
-    "description": "新版管理后台 zh.json"
-  },
-  "course.delete": {
-    "message": "删除",
     "description": "新版管理后台 zh.json"
   },
   "course.addContinue": {
@@ -1643,10 +1575,6 @@
     "message": "将考试成绩纳入考核",
     "description": "新版管理后台 zh.json"
   },
-  "course.requireTip": {
-    "message": "必填",
-    "description": "新版管理后台 zh.json"
-  },
   "course.lengthTip": {
     "message": "长度 2-200",
     "description": "新版管理后台 zh.json"
@@ -1669,10 +1597,6 @@
   },
   "exams.filterPlaceholder1": {
     "message": "输入考试/教师名称搜索",
-    "description": "新版管理后台 zh.json"
-  },
-  "exams.filterPlaceholder2": {
-    "message": "检索时间范围",
     "description": "新版管理后台 zh.json"
   },
   "exams.filterPlaceholder3": {
@@ -1847,16 +1771,8 @@
     "message": "操作",
     "description": "新版管理后台 zh.json"
   },
-  "users.accountTable7": {
-    "message": "邮件列表",
-    "description": "新版管理后台 zh.json"
-  },
   "users.accountTableAction1": {
     "message": "编辑",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.accountTableAction2": {
-    "message": "更改密码",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction3": {
@@ -1931,38 +1847,6 @@
     "message": "至少8位密码，包含字母与数字",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormPlaceholder6": {
-    "message": "您的全名，将用于证书与正式报告中",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder7": {
-    "message": "您的全名，将用于证书与正式报告中",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder8": {
-    "message": "您的全名，将用于证书与正式报告中",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr1": {
-    "message": "必须填写全名",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr2": {
-    "message": "文字长度不超过128个字符",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr3": {
-    "message": "必须填写显示名",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr4": {
-    "message": "文字不能超过64个字符",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr5": {
-    "message": "文字长度不超过128个字符",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr6": {
     "message": "邮件地址必须填写",
     "description": "新版管理后台 zh.json"
@@ -1975,16 +1859,8 @@
     "message": "邮件地址不正确",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormErr9": {
-    "message": "密码最少8位",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr10": {
     "message": "密码在8-20位，含字母与数字",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr11": {
-    "message": "必须填写密码",
     "description": "新版管理后台 zh.json"
   },
   "users.createFormErr12": {
@@ -2147,10 +2023,6 @@
     "message": "按姓名、邮件地址检索",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerfilter2": {
-    "message": "全部状态",
-    "description": "新版管理后台 zh.json"
-  },
   "users.registerfilter3": {
     "message": "全部角色",
     "description": "新版管理后台 zh.json"
@@ -2197,22 +2069,6 @@
   },
   "users.registerTableAction1": {
     "message": "编辑",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction2": {
-    "message": "移除用户",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction3": {
-    "message": "学习成果",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction4": {
-    "message": "教学日志",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction5": {
-    "message": "管理日志",
     "description": "新版管理后台 zh.json"
   },
   "users.registerFormTitle": {
@@ -2299,16 +2155,8 @@
     "message": "账号{mail}的注册关系已修改",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerAccountRet": {
-    "message": "{mail}等 {count}个账号注册已完成",
-    "description": "新版管理后台 zh.json"
-  },
   "users.inviteUserErr": {
     "message": "账号数量已达到本机构账号上限，无法创建新的账号，请联系管理员购买新的账号。",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.inviteUserSuccess": {
-    "message": "已向{mail}等 {count}个邮箱发送注册邀请。",
     "description": "新版管理后台 zh.json"
   },
   "users.passwordSuccess": {
@@ -2317,10 +2165,6 @@
   },
   "users.passwordFail": {
     "message": "密码修改失败",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.activeAccountErr": {
-    "message": "活跃账号数量已达到最大值，无法再增加新的活跃账号，请联系管理员购买新的活跃账号",
     "description": "新版管理后台 zh.json"
   },
   "users.accountOver": {
@@ -2333,10 +2177,6 @@
   },
   "users.delRegisterRole2": {
     "message": "注册管理",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.loadingText1": {
-    "message": "正在处理中，请耐心等待...",
     "description": "新版管理后台 zh.json"
   },
   "users.loadingText2": {
@@ -2659,10 +2499,6 @@
     "message": "输入直播/教师名称搜索",
     "description": "新版管理后台 zh.json"
   },
-  "live.filterPlaceholder2": {
-    "message": "检索时间范围",
-    "description": "新版管理后台 zh.json"
-  },
   "live.filterPlaceholder3": {
     "message": "所有状态",
     "description": "新版管理后台 zh.json"
@@ -2879,10 +2715,6 @@
     "message": "会议室删除成功",
     "description": "新版管理后台 zh.json"
   },
-  "live.selctTea": {
-    "message": "选择老师",
-    "description": "新版管理后台 zh.json"
-  },
   "live.setMeetingRoomTitle": {
     "message": "配置云会议室",
     "description": "新版管理后台 zh.json"
@@ -2913,10 +2745,6 @@
   },
   "saas.used": {
     "message": "已用",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.max": {
-    "message": "最大",
     "description": "新版管理后台 zh.json"
   },
   "saas.expired": {
@@ -3043,10 +2871,6 @@
     "message": "资源变更",
     "description": "新版管理后台 zh.json"
   },
-  "saas.confirm5": {
-    "message": "向机构管理员发送通知邮件",
-    "description": "新版管理后台 zh.json"
-  },
   "saas.confirm6": {
     "message": "确认",
     "description": "新版管理后台 zh.json"
@@ -3105,10 +2929,6 @@
   },
   "saas.tips12": {
     "message": "全部会议室均已过期无法使用，请联系客户经理及时续约",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.rule1": {
-    "message": "该项为必填项",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule2": {
@@ -3187,10 +3007,6 @@
     "message": "内部机构",
     "description": "新版管理后台 zh.json"
   },
-  "organization.stepTitle": {
-    "message": "新建租户",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.step1": {
     "message": "基础设置",
     "description": "新版管理后台 zh.json"
@@ -3237,10 +3053,6 @@
   },
   "organization.stepBtn2": {
     "message": "上一步",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.stepBtn3": {
-    "message": "创建租户",
     "description": "新版管理后台 zh.json"
   },
   "organization.stepBtn4": {
@@ -3331,10 +3143,6 @@
     "message": "该名称已经被占用，请使用其他名字",
     "description": "新版管理后台 zh.json"
   },
-  "organization.addRuleErr1": {
-    "message": "必填项",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.addRuleErr2": {
     "message": "文字不可超过{num}个字符",
     "description": "新版管理后台 zh.json"
@@ -3365,10 +3173,6 @@
   },
   "routers.rolePermissionSetting": {
     "message": "配置权限",
-    "description": "新版管理后台 zh.json"
-  },
-  "routers.homePage": {
-    "message": "主页",
     "description": "新版管理后台 zh.json"
   },
   "saas.baseResourceSettingSuccess": {
@@ -3443,10 +3247,6 @@
     "message": "该域名已占用，请输入其他名称",
     "description": "新版管理后台 zh.json"
   },
-  "common.batchAdd": {
-    "message": "批量添加",
-    "description": "新版管理后台 zh.json"
-  },
   "common.uploaderTitle": {
     "message": "选择文件",
     "description": "新版管理后台 zh.json"
@@ -3465,10 +3265,6 @@
   },
   "common.backStepBtn": {
     "message": "上一步",
-    "description": "新版管理后台 zh.json"
-  },
-  "common.nextStepBtn": {
-    "message": "下一步",
     "description": "新版管理后台 zh.json"
   },
   "common.continueBtn": {
@@ -3927,16 +3723,8 @@
     "message": "AuthnContextClassRef",
     "description": "新版管理后台 zh.json"
   },
-  "auth.spSetting": {
-    "message": "SP 设置",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.downloadSPXML": {
     "message": "下载SP Metadata XML",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.XMLDownloadTips": {
-    "message": "请在完成IDP设置后下载",
     "description": "新版管理后台 zh.json"
   },
   "auth.emailIdpAttr": {
@@ -4009,14 +3797,6 @@
   },
   "auth.sso48": {
     "message": "机构映射规则",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.IdpAttrVal": {
-    "message": "IdP属性值",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.sso50": {
-    "message": "LMS机构",
     "description": "新版管理后台 zh.json"
   },
   "auth.createSSOOption1": {
@@ -4151,10 +3931,6 @@
     "message": "请输入IDP重定向终点",
     "description": "新版管理后台 zh.json"
   },
-  "auth.creatSSOErr3": {
-    "message": "请输入SAML主题身份属性名称",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.creatSSOErr4": {
     "message": "请输入X.509公共证书",
     "description": "新版管理后台 zh.json"
@@ -4189,10 +3965,6 @@
   },
   "auth.testSSO7": {
     "message": "退出测试",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.testSSO8": {
-    "message": "按照以下步骤测试SSO退出",
     "description": "新版管理后台 zh.json"
   },
   "auth.testSSO9": {
@@ -4399,10 +4171,6 @@
     "message": "启用此设置允许用户使用SSO连接登录，包括SP-initiated和IDP-initiat登录。点击确认按钮继续",
     "description": "新版管理后台 zh.json"
   },
-  "auth.activeSSOBtn": {
-    "message": "启用",
-    "description": "新版管理后台 zh.json"
-  },
   "routers.cloudStorage": {
     "message": "云存储",
     "description": "新版管理后台 zh.json"
@@ -4485,10 +4253,6 @@
   },
   "saas.resetOK": {
     "message": "重置成功",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.LVCMax": {
-    "message": "LVC并发数",
     "description": "新版管理后台 zh.json"
   },
   "saas.forever": {
