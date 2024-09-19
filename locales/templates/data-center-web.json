@@ -147,10 +147,6 @@
     "message": "操作",
     "description": "data-center-web 项目"
   },
-  "table.delete": {
-    "message": "删除",
-    "description": "data-center-web 项目"
-  },
   "table.cancel": {
     "message": "取 消",
     "description": "data-center-web 项目"
@@ -2387,14 +2383,6 @@
     "message": "点击上传",
     "description": "data-center-web 项目"
   },
-  "collationTranslation.versionNumber": {
-    "message": "版本号：",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.browser": {
-    "message": "浏览器：",
-    "description": "data-center-web 项目"
-  },
   "collationTranslation.uploadPictures": {
     "message": "上传图片",
     "description": "data-center-web 项目"
@@ -2769,42 +2757,6 @@
   },
   "collationTranslation.back": {
     "message": "返回",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.gifSource": {
-    "message": "gif来源",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.page": {
-    "message": "页面",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.pageNoPermissions": {
-    "message": "你没有权限去该页面",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.contactLeader": {
-    "message": "如有不满请联系你领导",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.youCanGo": {
-    "message": "或者你可以去",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.returnHomePage": {
-    "message": "回首页",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookAround": {
-    "message": "随便看看",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookPicture": {
-    "message": "点我看图",
-    "description": "data-center-web 项目"
-  },
-  "collationTranslation.lookArounds": {
-    "message": "随便看",
     "description": "data-center-web 项目"
   },
   "collationTranslation.intro": {
@@ -3653,6 +3605,46 @@
   },
   "analyze.pleaseSelectDataRange": {
     "message": "暂无数据，请选择数据范围",
+    "description": "data-center-web 项目"
+  },
+  "route.detailsOfCourse": {
+    "message": "课程详情",
+    "description": "data-center-web 项目"
+  },
+  "login.accountLogin": {
+    "message": "账号登录",
+    "description": "data-center-web 项目"
+  },
+  "login.casLogin": {
+    "message": "校园统一身份认证登录",
+    "description": "data-center-web 项目"
+  },
+  "login.bindTip1": {
+    "message": "你的信息在系统中不存在！",
+    "description": "data-center-web 项目"
+  },
+  "login.bindTip2": {
+    "message": "请联系管理员，确认个人信息已同步至本系统。如果您有本系统账号，请绑定账号。",
+    "description": "data-center-web 项目"
+  },
+  "common.easyManage": {
+    "message": "科学决策",
+    "description": "data-center-web 项目"
+  },
+  "common.websiteTip": {
+    "message": "教学全流程数据采集、分析及监控",
+    "description": "data-center-web 项目"
+  },
+  "common.casTitle": {
+    "message": "统一身份认证",
+    "description": "data-center-web 项目"
+  },
+  "warningSetting.lateLeaveWaring": {
+    "message": "迟到早退次数预警值",
+    "description": "data-center-web 项目"
+  },
+  "analyze.noMatchingData": {
+    "message": "无匹配数据",
     "description": "data-center-web 项目"
   }
 }
