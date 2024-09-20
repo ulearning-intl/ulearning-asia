@@ -107,10 +107,6 @@
     "message": "添加菜单",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "一级菜单最多添加15个",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "添加注释",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "添加板块",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "添加的板块个数只能是0、3、6、9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": "全部单元",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "阅读",
-    "description": "UA"
-  },
   "analyze": {
     "message": "解析",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "文章内容",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "文章详情",
-    "description": "UA"
-  },
   "articleName": {
     "message": "文章名称",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "附件",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "附件上传题",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "命名有规律的前提下可按照片段名称从小到大自动排序，请在上传片段前修改好视频的名称，例如：lei_unit1_001，lei_unit1_02……",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "自动转码(AAC编码的mp3格式)，切片(流媒体播放)，压缩",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "自动转码(H.264编码的mp4格式)，切片(流媒体播放)，压缩(128~1024kbps)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "头像",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "返回列表",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "取消",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "取消隐藏",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "取消置顶",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "目录结构不合理，请按照章>节>页面的结构创建目录！",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "本章已学:",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "本章以下页面没有完成",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "查看更多",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "中文",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "印尼文",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "收起目录",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "常用题型",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "组件在删除中",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "确定",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "请输入文章标题",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "请输入文章内容或者添加附件",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "请先添加菜单",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "请选择文章类型的菜单",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "附件不能超过10个",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "此文件已上传完成，确定删除？",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "删除该菜单后，本菜单及其子菜单都将被删除。确定删除？",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "确定删除本小题？",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "确定删除该文件夹以及其子文件夹和文件？",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "确定删除本菜单?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "隐藏该菜单后，本菜单及其子菜单都将不显示在网站上。确定隐藏？",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "确定隐藏本菜单？",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "继续添加",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "继续创建",
     "description": "UA"
   },
   "continueSelect": {
@@ -707,10 +615,6 @@
     "message": "为开放课程或互动教材添加教材信息",
     "description": "UA"
   },
-  "courseChapter": {
-    "message": "课件章节",
-    "description": "UA"
-  },
   "courseContent": {
     "message": "课件内容",
     "description": "UA"
@@ -731,10 +635,6 @@
     "message": "详细介绍",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "课程语言",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "开课管理",
     "description": "UA"
@@ -745,10 +645,6 @@
   },
   "courseName2": {
     "message": "课程名称",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "课程播放器",
     "description": "UA"
   },
   "coursePortal": {
@@ -855,23 +751,11 @@
     "message": "新建章",
     "description": "UA"
   },
-  "createNewChapter1": {
-    "message": "新建章",
-    "description": "UA"
-  },
   "createNewPage": {
     "message": "新建页面",
     "description": "UA"
   },
-  "createNewPage1": {
-    "message": "新建页面",
-    "description": "UA"
-  },
   "createNewSection": {
-    "message": "新建节",
-    "description": "UA"
-  },
-  "createNewSection1": {
     "message": "新建节",
     "description": "UA"
   },
@@ -907,10 +791,6 @@
     "message": "剪切视频",
     "description": "UA"
   },
-  "dataError": {
-    "message": "数据有误",
-    "description": "UA"
-  },
   "totalData": {
     "message": "共{n}条数据",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +809,6 @@
   },
   "deleteFail": {
     "message": "删除失败",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "删除菜单",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +873,6 @@
   },
   "demonstrationPronunciation": {
     "message": "示范读音",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "说明模块",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1055,6 @@
     "message": "请先输入标题并确认",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "请输入详细介绍",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "请输入课件名称",
     "description": "UA"
@@ -1249,22 +1117,6 @@
   },
   "enterLink": {
     "message": "请输入链接地址",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "请输入正确的链接地址",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "请输入菜单名称，最多八个字",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "请输入菜单名称，最多八个中文或16个字母",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "请输入新的文件名",
     "description": "UA"
   },
   "enterPageName": {
@@ -1355,10 +1207,6 @@
     "message": "题目不能为空",
     "description": "UA"
   },
-  "enterTitleHere": {
-    "message": "这里输入标题",
-    "description": "UA"
-  },
   "enterTitleTip": {
     "message": "请输入题目，点击加小题可以插入一个题目",
     "description": "UA"
@@ -1371,10 +1219,6 @@
     "message": "保存时出错",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "论述题",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "示例",
     "description": "UA"
@@ -1385,10 +1229,6 @@
   },
   "exercisesNum": {
     "message": "练习数",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "若继续退出，则本节学习记录可能无法保存。",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1283,6 @@
     "message": "参考答案（必填）&#10;1. 只能输入英文，不超过2000个单词&#10;2. 请尽量覆盖提示信息，答案数量越多越好，建议5个以上，多个答案请用|分隔&#10;3. 开放评测将结合内容和发音综合评分",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "学生端看不到文本，系统将根据此文本进行评分。要求文本和发音必须完全一致，例如：1996需要转换成nineteen ninety six. 不支持汉字。",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "未通过理由",
     "description": "UA"
@@ -1465,10 +1301,6 @@
   },
   "fileNumLimit1": {
     "message": "个文件",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "文件重命名",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1403,6 @@
     "message": "的文件",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "公式计算题",
-    "description": "UA"
-  },
   "free": {
     "message": "免费",
     "description": "UA"
@@ -1607,10 +1435,6 @@
     "message": "获取到的数据格式有误,联系客服",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "多选题只有与答案完全匹配才得分，漏选及选错均不得分",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "获取页面内容时报错",
     "description": "UA"
@@ -1635,10 +1459,6 @@
     "message": "放弃填写",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "去查看",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "知道了",
     "description": "UA"
@@ -1661,14 +1481,6 @@
   },
   "hideInWebsite": {
     "message": "不显示在网站上",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "隐藏菜单",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "隐藏页不计时",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1539,6 @@
     "message": "课时",
     "description": "UA"
   },
-  "hours1": {
-    "message": "小时",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "图标释义",
-    "description": "UA"
-  },
   "image": {
     "message": "图片",
     "description": "UA"
@@ -1763,10 +1567,6 @@
     "message": "插入试题",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "插入点必须在开始时间和结束时间之间",
-    "description": "UA"
-  },
   "institute": {
     "message": "开课院校",
     "description": "UA"
@@ -1775,20 +1575,12 @@
     "message": "译者",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "内容介绍",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "本课程已绑定以下班课",
     "description": "UA"
   },
   "isTop": {
     "message": "是否置顶",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "加入课程",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1635,6 @@
     "message": "上次更新",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "最近更新时间",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "学习其他页面",
     "description": "UA"
@@ -1879,10 +1667,6 @@
     "message": "链接",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "听力客观题",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "加载课程中",
     "description": "UA"
@@ -1899,10 +1683,6 @@
     "message": "加载异常，可能是以下原因导致：",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "加载失败",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "加载完毕",
     "description": "UA"
@@ -1911,16 +1691,8 @@
     "message": "加载中,请稍侯……",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "加载中，请稍后",
-    "description": "UA"
-  },
   "logout": {
     "message": "退出登录",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "您有题目没有保存，确定退出吗?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1713,6 @@
   },
   "markRuleTip": {
     "message": "口语评分组件将您输入的文本与用户的发音进行比对，根据用户的发音得出评价分数的评价方式。目前支持三种评分方式：单词/句子/段落。其中单词评分最大时长支持20s，句子评分最大时长支持40秒，段落评分最大时长支持180秒，到达时间后如果用户还未读完，会自动对已读部分进行评分，请注意输入的文本词数。系统默认及格分数为60分，超过60分的会显示绿色，未达到60分的会用红色表示。",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "材料分析题",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "表示该选项回答正确",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "表示该选项不正确，回答错误",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "表示该选项为正确答案，但漏选了",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1773,6 @@
   },
   "multipleChoiceQ": {
     "message": "多选题",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "多个空无顺序的填空题",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1909,6 @@
   },
   "notUpload10AtOnce": {
     "message": "一次最多可上传10个片段",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "不能上传相同文件",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2203,8 @@
     "message": "出版社",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "精品课网站管理系统",
-    "description": "UA"
-  },
   "question": {
     "message": "道",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "练习正确率：",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "试题ID：",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2323,6 @@
     "message": "返回",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "更换视频",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "教学设计建议：根据初始设定的学习目标，在教学内容讲授结束后，设置相应的测验题，一方面可以帮助学习者及时强化所学知识，另一方面可以根据答题情况，检测学习者是否达到了学习目标的要求，从而有针对性地进行复习回顾。【成绩报告】工具可以添加在每个单元末尾，您可以设置本单元的知识点，以及对应的练习题，系统将据此向学生反馈各个知识点的答题正确率。",
     "description": "UA"
@@ -2667,24 +2399,12 @@
     "message": "小节学习记录时保存失败",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "保存记录",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "保存失败,发生错误",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "删除失败,异常",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "保存成功!",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "正在保存刚编辑的内容",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2712,10 +2432,6 @@
     "description": "UA"
   },
   "searchByKeyword": {
-    "message": "按关键字或编号搜索",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
     "message": "按关键字或编号搜索",
     "description": "UA"
   },
@@ -2769,14 +2485,6 @@
   },
   "selectAll": {
     "message": "全选",
-    "description": "UA"
-  },
-  "selectAllQuestions": {
-    "message": "全选本页试题",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "选择并创建试题",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2647,6 @@
     "message": "设置试听章节",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "设置常用题型",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "目前只有包含练习的页面才可以设置限时答题。",
     "description": "UA"
@@ -3047,20 +2751,12 @@
     "message": "排序题",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "口语模块",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "请在完成作答后点击“退出分屏”提交答案。",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "口语评分",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "口语评分组件不能和视频、练习、角色扮演在同一个页面",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2823,12 @@
     "message": "（学生端不显示）",
     "description": "UA"
   },
-  "study": {
-    "message": "学了",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "提交成功",
     "description": "UA"
   },
   "suchAs": {
     "message": "如:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "随堂",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2845,6 @@
   },
   "syllabus": {
     "message": "教学大纲",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "语法模块",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +2979,12 @@
     "message": "总分",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "翻译题",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "判断题",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "优学院网站",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "无法连接到资源服务器：",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3025,6 @@
   },
   "updateWebsiteTips": {
     "message": "如需修改发布站点，请撤回课程，重新发布",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "更新成功",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3103,6 @@
     "message": "上传文件失败",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "上传时间",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "只能上传srt格式",
     "description": "UA"
@@ -3453,10 +3121,6 @@
   },
   "uploader": {
     "message": "上传者",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "图片最大不能超过2M",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3197,6 @@
   },
   "viewSelectedQuestion": {
     "message": "查看已选试题",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "词汇模块",
     "description": "UA"
   },
   "waitPreview": {
@@ -3661,10 +3321,6 @@
   },
   "codeTip": {
     "message": "课件每个页面对应一张二维码，若删除课程页面，将导致该二维码无法访问！",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "已选{n}项",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3463,6 @@
     "message": "离线观看",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "已下载",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "已缓存到本地",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "结束答题",
     "description": "UA"
@@ -3923,10 +3571,6 @@
     "message": "删除失败,异常",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "保存失败,数据不完整",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "角色名需要在1-10个字符之间",
     "description": "UA"
@@ -4025,10 +3669,6 @@
   },
   "Results": {
     "message": "的评分结果： ",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "未授予应用录音权限！ ",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3859,6 @@
     "message": "请输入内容简介",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "您还未补全该课程的基本信息，团队成员等信息， 如不需在网站页面显示该课， 可跳过不填。",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "输入文件关键字搜索",
     "description": "UA"
@@ -4267,88 +3903,8 @@
     "message": "同步设置本课件所有视频的片头",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "片头时长不能超过180秒",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "教学设计",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "上传说课视频、课堂实录等材料",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "请输入内容",
-    "description": "UA"
-  },
   "addFile": {
     "message": "添加文件",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "添加类别",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "最多添加10个类别",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "说课",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "教学设计案例",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "教学反思",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "授课课件",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "微课",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "课堂实录",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "请输入名称",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "命名不能超过10字符",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "当前课件下已有同名称类别",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "确定删除类别吗？",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "每个类别最多添加5个文件",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "确定删除文件吗？",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "不能选择相同的文件",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "类别名称不能为空",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3955,6 @@
     "message": "人参与",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "网站访问次数",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "技术支持",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "建议使用IE8以上浏览器，1024*798以上分辨率访问本站",
-    "description": "UA"
-  },
   "username": {
     "message": "用户名",
     "description": "UA"
@@ -4449,14 +3993,6 @@
   },
   "iframeErr1": {
     "message": "请输入iframe代码",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "封面图",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "课程发布后， 课程即会变成【 已发布】 状态。",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4075,8 @@
     "message": "导出CC文件错误",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "课件下架后无法使用，也无法重新发布和上架。确定下架课件吗？",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "学科资源库",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "添加学科资源库资源",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "引入成功",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "存在重复引入的资源",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "修改题目",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "转码中，请稍后查看",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "该文件不支持在线预览",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "请下载查看",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "关联知识点",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "知识图谱",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n}个知识点",
-    "description": "UA"
-  },
   "template": {
     "message": "模板",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "在内容中插入模板",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "导出PDF",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "请选择要导出的目录内容",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "导出时间可能较长，请耐心等待。",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "如遇浏览器拦截弹窗，请选择始终允许网站弹出窗口。",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "正在导出PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "取消导出",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "请选择节名称或者页面名称",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "点击查看",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "提示：【学期管理】功能，入口已迁移至班课列表页面的【课程申报】模块。",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "每页内容不能超过10万字符（汉字5万字左右）。如果是从第三方编辑器粘贴过来的内容，样式也会占一定的字符量。",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4645,10 +4089,6 @@
   },
   "exportCCFileLoadingText": {
     "message": "正在导出文件,请不要离开当前页面！",
-    "description": "UA"
-  },
-  "miniExport": {
-    "message": "后台导出",
     "description": "UA"
   }
 }
