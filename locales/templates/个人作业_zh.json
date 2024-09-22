@@ -139,24 +139,12 @@
     "message": "请选择",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "最多上传",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "个附件",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "视频不能超过1G",
     "description": "个人作业zh_js"
   },
   "m.UpAttachError2": {
     "message": "文件不能超过200M",
-    "description": "个人作业zh_js"
-  },
-  "m.UpError3": {
-    "message": "不支持此类型的文件",
     "description": "个人作业zh_js"
   },
   "m.PCREQUEST": {
@@ -479,10 +467,6 @@
     "message": "得分：{score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "没有留评语",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "该同学没有留评语",
     "description": "个人作业zh_js"
@@ -741,14 +725,6 @@
   },
   "m.workSettings": {
     "message": "作业设置",
-    "description": "个人作业zh_js"
-  },
-  "m.openBrowserContinue": {
-    "message": "该类型作业无法在APP中打开，请在浏览器中打开继续使用",
-    "description": "个人作业zh_js"
-  },
-  "m.openInBrowser": {
-    "message": "在浏览器打开",
     "description": "个人作业zh_js"
   }
 }
