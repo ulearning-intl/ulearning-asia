@@ -2887,10 +2887,6 @@
     "message": "请输入学号/工号",
     "description": "小应用"
   },
-  "user.studentId1": {
-    "message": "非在校学生或教师可不填",
-    "description": "小应用"
-  },
   "user.inputOrgTip1": {
     "message": "请输入正确的机构名称",
     "description": "小应用"
@@ -4621,6 +4617,10 @@
   },
   "answerQue.choiceAnswerError": {
     "message": "请先选择正确答案",
+    "description": "小应用"
+  },
+  "answerQue.studentchoice": {
+    "message": "选{c}学生（{n}）",
     "description": "小应用"
   },
   "answerQue.answerQueBanner": {
