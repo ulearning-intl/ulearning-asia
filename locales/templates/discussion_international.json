@@ -79,10 +79,6 @@
     "message": "此操作将永久删除该话题, 是否继续?",
     "description": "国际版讨论"
   },
-  "about.Tip": {
-    "message": "提示",
-    "description": "国际版讨论"
-  },
   "about.confirmButtonText": {
     "message": "确定",
     "description": "国际版讨论"
@@ -265,10 +261,6 @@
   },
   "discussion.highTipsA": {
     "message": "学生可以看到其他班级的帖子",
-    "description": "国际版讨论"
-  },
-  "discussion.highTipsC": {
-    "message": "关闭后，学生只能查看自己所在班级的帖子",
     "description": "国际版讨论"
   },
   "discussion.IntegralStrategy": {
@@ -607,10 +599,6 @@
     "message": "回复",
     "description": "国际版讨论"
   },
-  "discussionDetail.replyTo": {
-    "message": "被回复",
-    "description": "国际版讨论"
-  },
   "discussionDetail.bereply": {
     "message": "回复于",
     "description": "国际版讨论"
@@ -641,10 +629,6 @@
   },
   "discussionDetail.giveLikeOrder": {
     "message": "按点赞数排序",
-    "description": "国际版讨论"
-  },
-  "discussionDetail.aboutOfMe": {
-    "message": "与我有关",
     "description": "国际版讨论"
   },
   "discussionDetail.replayYouOpinion": {
@@ -787,34 +771,6 @@
     "message": "学生在回复帖子时，会根据您设置的积分规则获得积分。讨论积分可纳入课程考核。",
     "description": "国际版讨论"
   },
-  "discussionEdit.Integraltype": {
-    "message": "积分类型",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.singleIntegral": {
-    "message": "单次积分",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.scoreMaxNum": {
-    "message": "最多计分次数",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.returnCard": {
-    "message": "回帖",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.byReply": {
-    "message": "被回复",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.teacherThumbUp": {
-    "message": "被教师点赞",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.studentThumbUp": {
-    "message": "被学生点赞",
-    "description": "国际版讨论"
-  },
   "discussionEdit.release": {
     "message": "发布",
     "description": "国际版讨论"
@@ -863,20 +819,12 @@
     "message": "标题长度不能超过200个字符",
     "description": "国际版讨论"
   },
-  "discussionEdit.pleaseChoseClass": {
-    "message": "请选择班级",
-    "description": "国际版讨论"
-  },
   "discussionEdit.pleaseInputIntegral": {
     "message": "请添加获得积分",
     "description": "国际版讨论"
   },
   "discussionEdit.discussionMaxNum": {
     "message": "输入帖子内容最大不超过10000",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.discussionEmpty": {
-    "message": "请输入帖子内容",
     "description": "国际版讨论"
   },
   "discussionEdit.startTimeError": {
@@ -897,10 +845,6 @@
   },
   "discussionEdit.allTeacher": {
     "message": "全部教师",
-    "description": "国际版讨论"
-  },
-  "discussionEdit.replayYouOpinion": {
-    "message": "发表你的观点",
     "description": "国际版讨论"
   },
   "post.close": {
@@ -995,22 +939,6 @@
     "message": "字",
     "description": "国际版讨论"
   },
-  "Released.TimeForDiscussion": {
-    "message": "讨论时间",
-    "description": "国际版讨论"
-  },
-  "Released.LongTermOpenDiscussion": {
-    "message": "长期开放讨论",
-    "description": "国际版讨论"
-  },
-  "Released.SetDiscussionTime": {
-    "message": "设置讨论时间",
-    "description": "国际版讨论"
-  },
-  "Released.EachClassIsSetSeparately": {
-    "message": "每个班级分开设置",
-    "description": "国际版讨论"
-  },
   "Released.classDndGrade": {
     "message": "班级",
     "description": "国际版讨论"
@@ -1025,26 +953,6 @@
   },
   "Released.IntegrationRule": {
     "message": "积分规则",
-    "description": "国际版讨论"
-  },
-  "Released.Reply": {
-    "message": "回帖5",
-    "description": "国际版讨论"
-  },
-  "Released.ByReply": {
-    "message": "被回复2",
-    "description": "国际版讨论"
-  },
-  "Released.TeacherIsThumbUp": {
-    "message": "教师点赞5",
-    "description": "国际版讨论"
-  },
-  "Released.StudentsAreNotAllowedToViewPostsFromOtherClasses": {
-    "message": "学生不可以查看其他班级的帖子",
-    "description": "国际版讨论"
-  },
-  "Released.Teacher": {
-    "message": "教师",
     "description": "国际版讨论"
   },
   "Released.Delete": {
@@ -1267,28 +1175,12 @@
     "message": "请不要输入较大的数值，建议不超过100",
     "description": "国际版讨论"
   },
-  "creditset.inputCode": {
-    "message": "输入验证码",
-    "description": "国际版讨论"
-  },
   "creditset.codeError": {
     "message": "输入错误",
     "description": "国际版讨论"
   },
-  "creditset.sensitivity": {
-    "message": "请检查,内容中包含敏感词汇",
-    "description": "国际版讨论"
-  },
   "creditset.cedeEmpty": {
     "message": "请输入验证码",
-    "description": "国际版讨论"
-  },
-  "creditset.replyFaile": {
-    "message": "回帖失败",
-    "description": "国际版讨论"
-  },
-  "creditset.myIntegral": {
-    "message": "我的积分",
     "description": "国际版讨论"
   },
   "creditset.pointsTime": {
@@ -1539,50 +1431,6 @@
     "message": "学生发言较少，暂无可提取的关键词",
     "description": "国际版讨论"
   },
-  "screen.title": {
-    "message": "投屏",
-    "description": "国际版讨论"
-  },
-  "screen.close": {
-    "message": "关闭投屏",
-    "description": "国际版讨论"
-  },
-  "screen.creating": {
-    "message": "发起投屏中",
-    "description": "国际版讨论"
-  },
-  "screen.success": {
-    "message": "发起投屏成功",
-    "description": "国际版讨论"
-  },
-  "screen.fail": {
-    "message": "发起投屏失败",
-    "description": "国际版讨论"
-  },
-  "screen.closeSuccess": {
-    "message": "关闭投屏成功",
-    "description": "国际版讨论"
-  },
-  "screen.start": {
-    "message": "开启投屏",
-    "description": "国际版讨论"
-  },
-  "screen.pleaseOpenUrl": {
-    "message": "请在电脑上打开网址",
-    "description": "国际版讨论"
-  },
-  "screen.inputCodeTips": {
-    "message": "在电脑上输入以下投屏码开启投屏",
-    "description": "国际版讨论"
-  },
-  "screen.fiveMinutesEffective": {
-    "message": "五分钟内有效",
-    "description": "国际版讨论"
-  },
-  "screen.cancel": {
-    "message": "取消投屏",
-    "description": "国际版讨论"
-  },
   "date.setStartTime": {
     "message": "设置开始时间",
     "description": "国际版讨论"
@@ -1679,18 +1527,6 @@
     "message": "图片生成中",
     "description": "国际版讨论"
   },
-  "system.me": {
-    "message": "（我）",
-    "description": "国际版讨论"
-  },
-  "system.allTeacher": {
-    "message": "全部教师",
-    "description": "国际版讨论"
-  },
-  "system.selectAll": {
-    "message": "全选",
-    "description": "国际版讨论"
-  },
   "system.cancel": {
     "message": "取消",
     "description": "国际版讨论"
@@ -1707,412 +1543,12 @@
     "message": "出错了",
     "description": "国际版讨论"
   },
-  "system.loadComplete": {
-    "message": "加载完成",
-    "description": "国际版讨论"
-  },
-  "system.loadFailed": {
-    "message": "加载失败",
-    "description": "国际版讨论"
-  },
-  "system.search": {
-    "message": "搜索",
-    "description": "国际版讨论"
-  },
-  "system.pleaseSelect": {
-    "message": "请选择",
-    "description": "国际版讨论"
-  },
-  "system.reupload": {
-    "message": "上传失败，点击重传",
-    "description": "国际版讨论"
-  },
-  "system.selectLocal": {
-    "message": "从本机选择",
-    "description": "国际版讨论"
-  },
-  "system.takePhoto": {
-    "message": "拍照",
-    "description": "国际版讨论"
-  },
-  "system.pageOf": {
-    "message": "{current}/{total}页",
-    "description": "国际版讨论"
-  },
-  "system.pointsOf": {
-    "message": "{n}分",
-    "description": "国际版讨论"
-  },
-  "system.inputPoints": {
-    "message": "{input}分",
-    "description": "国际版讨论"
-  },
-  "system.notStart": {
-    "message": "未开始",
-    "description": "国际版讨论"
-  },
-  "system.inProgress": {
-    "message": "进行中",
-    "description": "国际版讨论"
-  },
-  "system.ended": {
-    "message": "已结束",
-    "description": "国际版讨论"
-  },
-  "system.wrong": {
-    "message": "错误",
-    "description": "国际版讨论"
-  },
-  "system.edit": {
-    "message": "修改",
-    "description": "国际版讨论"
-  },
-  "system.delete": {
-    "message": "删除",
-    "description": "国际版讨论"
-  },
-  "system.tip": {
-    "message": "提示",
-    "description": "国际版讨论"
-  },
-  "system.deleteTip": {
-    "message": "确定删除讨论吗？",
-    "description": "国际版讨论"
-  },
-  "system.editing": {
-    "message": "修改中",
-    "description": "国际版讨论"
-  },
   "system.editFailed": {
     "message": "修改失败",
     "description": "国际版讨论"
   },
-  "system.deleteFailed": {
-    "message": "删除失败",
-    "description": "国际版讨论"
-  },
-  "system.deleteSuccess": {
-    "message": "删除成功",
-    "description": "国际版讨论"
-  },
-  "system.myPoints": {
-    "message": "我的积分",
-    "description": "国际版讨论"
-  },
-  "system.discuss": {
-    "message": "讨论",
-    "description": "国际版讨论"
-  },
-  "system.throwScreen": {
-    "message": "投屏",
-    "description": "国际版讨论"
-  },
-  "system.startingScreen": {
-    "message": "发起投屏中",
-    "description": "国际版讨论"
-  },
-  "system.screenCodeError": {
-    "message": "获取投屏码出错",
-    "description": "国际版讨论"
-  },
-  "system.screenStatusError": {
-    "message": "获取投屏状态失败",
-    "description": "国际版讨论"
-  },
-  "system.stopScreenSuccess": {
-    "message": "关闭投屏成功",
-    "description": "国际版讨论"
-  },
-  "system.stopScreenError": {
-    "message": "关闭投屏过程中，网络出错",
-    "description": "国际版讨论"
-  },
-  "system.allClass": {
-    "message": "全部班级",
-    "description": "国际版讨论"
-  },
-  "system.filterReply": {
-    "message": "筛选回复",
-    "description": "国际版讨论"
-  },
-  "system.timeDesc1": {
-    "message": "按时间倒序（默认）",
-    "description": "国际版讨论"
-  },
-  "system.timeDesc": {
-    "message": "时间倒序",
-    "description": "国际版讨论"
-  },
-  "system.timeAsc2": {
-    "message": "按时间正序",
-    "description": "国际版讨论"
-  },
-  "system.timeAsc": {
-    "message": "时间正序",
-    "description": "国际版讨论"
-  },
-  "system.orderByReplyNum": {
-    "message": "按回复数",
-    "description": "国际版讨论"
-  },
-  "system.replyNum": {
-    "message": "回复数",
-    "description": "国际版讨论"
-  },
-  "system.orderByLikesNum": {
-    "message": "按点赞数",
-    "description": "国际版讨论"
-  },
-  "system.likesNum": {
-    "message": "点赞数",
-    "description": "国际版讨论"
-  },
-  "system.relateMe": {
-    "message": "与我有关的",
-    "description": "国际版讨论"
-  },
-  "system.startTime": {
-    "message": "开始时间",
-    "description": "国际版讨论"
-  },
-  "system.setStartTime": {
-    "message": "设置开始时间",
-    "description": "国际版讨论"
-  },
-  "system.endTime": {
-    "message": "截止时间",
-    "description": "国际版讨论"
-  },
-  "system.setEndTime": {
-    "message": "设置结束时间",
-    "description": "国际版讨论"
-  },
-  "system.startTopic": {
-    "message": "发布话题",
-    "description": "国际版讨论"
-  },
-  "system.pleaseSetTopicName": {
-    "message": "请输入话题名称",
-    "description": "国际版讨论"
-  },
-  "system.classNumTip": {
-    "message": "等{num}个班级",
-    "description": "国际版讨论"
-  },
-  "system.participatingClass": {
-    "message": "参与班级",
-    "description": "国际版讨论"
-  },
-  "system.pleaseSelectClass": {
-    "message": "请选择班级",
-    "description": "国际版讨论"
-  },
-  "system.plzSetStartTime": {
-    "message": "请设置开始时间",
-    "description": "国际版讨论"
-  },
-  "system.plzSetEndTime": {
-    "message": "请设置结束时间",
-    "description": "国际版讨论"
-  },
-  "system.afterMinutesOf": {
-    "message": "{count}分钟后",
-    "description": "国际版讨论"
-  },
-  "system.afterOneDay": {
-    "message": "一天后",
-    "description": "国际版讨论"
-  },
-  "system.afterOneWeek": {
-    "message": "一周后",
-    "description": "国际版讨论"
-  },
-  "system.afterOneMonth": {
-    "message": "一月后",
-    "description": "国际版讨论"
-  },
-  "system.scoreRule": {
-    "message": "积分规则",
-    "description": "国际版讨论"
-  },
-  "system.setScoreRule": {
-    "message": "设置积分规则",
-    "description": "国际版讨论"
-  },
-  "system.inputScorePer": {
-    "message": "{input}分/条",
-    "description": "国际版讨论"
-  },
-  "system.publishing": {
-    "message": "发布中",
-    "description": "国际版讨论"
-  },
-  "system.publishSuccess": {
-    "message": "发布成功",
-    "description": "国际版讨论"
-  },
-  "system.publishErrorTip": {
-    "message": "发布失败，请重新发布",
-    "description": "国际版讨论"
-  },
-  "system.publish": {
-    "message": "发布",
-    "description": "国际版讨论"
-  },
-  "system.plzSetTopicContent": {
-    "message": "请输入话题内容",
-    "description": "国际版讨论"
-  },
-  "system.plzObserve": {
-    "message": "请遵守",
-    "description": "国际版讨论"
-  },
-  "system.uConvention": {
-    "message": "《优学院讨论吧公约》",
-    "description": "国际版讨论"
-  },
-  "system.uConventionTip": {
-    "message": "，不得违反国家法律法规。",
-    "description": "国际版讨论"
-  },
-  "system.noSearchContent": {
-    "message": "没有符合条件的内容",
-    "description": "国际版讨论"
-  },
-  "system.noContent": {
-    "message": "没有内容",
-    "description": "国际版讨论"
-  },
-  "system.rankingList": {
-    "message": "排行榜",
-    "description": "国际版讨论"
-  },
-  "system.stuNum": {
-    "message": "学号",
-    "description": "国际版讨论"
-  },
-  "system.lastScore": {
-    "message": "最终得分",
-    "description": "国际版讨论"
-  },
-  "system.finalScore": {
-    "message": "最终得分：{score}",
-    "description": "国际版讨论"
-  },
-  "system.refreshSuccess": {
-    "message": "刷新成功",
-    "description": "国际版讨论"
-  },
-  "system.changeLastScore": {
-    "message": "修改最终得分",
-    "description": "国际版讨论"
-  },
-  "system.changeScoreTip": {
-    "message": "说明：教师可以修改学生的积分，计算成绩时将以修改后的分数为准。",
-    "description": "国际版讨论"
-  },
-  "system.avatar": {
-    "message": "头像",
-    "description": "国际版讨论"
-  },
-  "system.sReply": {
-    "message": "的回复",
-    "description": "国际版讨论"
-  },
-  "system.reply": {
-    "message": "回复",
-    "description": "国际版讨论"
-  },
-  "system.beReplied": {
-    "message": "被回复",
-    "description": "国际版讨论"
-  },
-  "system.stuLikes": {
-    "message": "学生点赞",
-    "description": "国际版讨论"
-  },
-  "system.teaLikes": {
-    "message": "教师点赞",
-    "description": "国际版讨论"
-  },
-  "system.teaAddScore": {
-    "message": "教师加分",
-    "description": "国际版讨论"
-  },
-  "system.teaCanEdit": {
-    "message": "（教师可修改）",
-    "description": "国际版讨论"
-  },
-  "system.editScore": {
-    "message": "修改得分",
-    "description": "国际版讨论"
-  },
-  "system.limitTime": {
-    "message": "限制讨论时间",
-    "description": "国际版讨论"
-  },
-  "system.isAnonymous": {
-    "message": "开启匿名讨论",
-    "description": "国际版讨论"
-  },
-  "system.validTip1": {
-    "message": "讨论的标题不能为空",
-    "description": "国际版讨论"
-  },
-  "system.validTip2": {
-    "message": "请输入帖子内容",
-    "description": "国际版讨论"
-  },
-  "system.validTip3": {
-    "message": "请选择讨论的开始时间和截止时间",
-    "description": "国际版讨论"
-  },
-  "system.validTip4": {
-    "message": "请选择讨论的开始时间",
-    "description": "国际版讨论"
-  },
-  "system.validTip5": {
-    "message": "请选择讨论的截止时间",
-    "description": "国际版讨论"
-  },
-  "system.validTip6": {
-    "message": "截止时间不能早于开始时间",
-    "description": "国际版讨论"
-  },
-  "system.validTip7": {
-    "message": "请选择班级",
-    "description": "国际版讨论"
-  },
   "system.chooseClass": {
     "message": "选择班级",
-    "description": "国际版讨论"
-  },
-  "system.addPoint": {
-    "message": "加分",
-    "description": "国际版讨论"
-  },
-  "system.deleteTip2": {
-    "message": "删除回复会删除相关的“赞”和“教师评分”，确定删除？",
-    "description": "国际版讨论"
-  },
-  "system.addPointFailed": {
-    "message": "加分失败",
-    "description": "国际版讨论"
-  },
-  "system.likeFailed": {
-    "message": "点赞失败",
-    "description": "国际版讨论"
-  },
-  "system.teacher": {
-    "message": "教师",
-    "description": "国际版讨论"
-  },
-  "system.addPointForStu": {
-    "message": "为学生加分",
-    "description": "国际版讨论"
-  },
-  "system.send": {
-    "message": "发送",
     "description": "国际版讨论"
   },
   "system.mon": {
@@ -2143,112 +1579,12 @@
     "message": "日",
     "description": "国际版讨论"
   },
-  "system.hour": {
-    "message": "{hour}",
-    "description": "国际版讨论"
-  },
-  "system.cancelScreen": {
-    "message": "取消投屏",
-    "description": "国际版讨论"
-  },
-  "system.replying": {
-    "message": "回复中",
-    "description": "国际版讨论"
-  },
-  "system.replySuccess": {
-    "message": "回复成功",
-    "description": "国际版讨论"
-  },
-  "system.replayFail": {
-    "message": "回复失败",
-    "description": "国际版讨论"
-  },
-  "system.imgUploading": {
-    "message": "图片正在上传中",
-    "description": "国际版讨论"
-  },
-  "system.inputContent": {
-    "message": "请输入内容",
-    "description": "国际版讨论"
-  },
-  "system.notStart1": {
-    "message": "讨论未开始",
-    "description": "国际版讨论"
-  },
-  "system.ended1": {
-    "message": "讨论已结束",
-    "description": "国际版讨论"
-  },
-  "system.replay": {
-    "message": "写回复",
-    "description": "国际版讨论"
-  },
-  "system.viewReply": {
-    "message": "查看回复",
-    "description": "国际版讨论"
-  },
-  "system.discussTime": {
-    "message": "讨论时间",
-    "description": "国际版讨论"
-  },
-  "system.openDiscuss": {
-    "message": "长期开放讨论",
-    "description": "国际版讨论"
-  },
-  "system.moreSetting": {
-    "message": "高级设置",
-    "description": "国际版讨论"
-  },
-  "system.points": {
-    "message": "积分",
-    "description": "国际版讨论"
-  },
-  "system.anonymous": {
-    "message": "匿名讨论",
-    "description": "国际版讨论"
-  },
-  "system.lastClass": {
-    "message": "上次班级",
-    "description": "国际版讨论"
-  },
-  "system.lastClassContent": {
-    "message": "{name}等{num}个班级",
-    "description": "国际版讨论"
-  },
   "system.wordCloud": {
     "message": "词云",
     "description": "国际版讨论"
   },
-  "system.wordCloudTip": {
-    "message": "学生发言较少，暂无可提取的关键词",
-    "description": "国际版讨论"
-  },
   "system.closeWordCloud": {
     "message": "关闭词云",
-    "description": "国际版讨论"
-  },
-  "dateFormat.month": {
-    "message": "YYYY年MM月",
-    "description": "国际版讨论"
-  },
-  "dateFormat.calendar": {
-    "message": "YYYY年MM月DD日",
-    "description": "国际版讨论"
-  },
-  "dateFormat.dateTime": {
-    "message": "HH:mm",
-    "description": "国际版讨论"
-  },
-  "dateFormat.long": {
-    "message": "YYYY-MM-DD HH:mm",
-    "description": "国际版讨论"
-  },
-  "dateFormat.long2": {
-    "message": "YYYY年MM月DD日 HH:mm",
-    "description": "国际版讨论"
-  },
-  "dateFormat.longSecond": {
-    "message": "YYYY-MM-DD HH:mm:ss",
     "description": "国际版讨论"
   },
   "resourcesPreview.resourcesPreview": {
@@ -2279,32 +1615,12 @@
     "message": "请输入0-1000000000之间的整数",
     "description": "国际版讨论"
   },
-  "rankingList.scoreEditErrorTip2": {
-    "message": "积分数值超过上限,最多只能输入9位数",
-    "description": "国际版讨论"
-  },
   "system.year": {
     "message": "年",
     "description": "国际版讨论"
   },
   "system.month": {
     "message": "月",
-    "description": "国际版讨论"
-  },
-  "PCPage": {
-    "message": "pc端页面",
-    "description": "国际版讨论"
-  },
-  "editFail": {
-    "message": "编辑失败",
-    "description": "国际版讨论"
-  },
-  "editSuccess": {
-    "message": "编辑成功",
-    "description": "国际版讨论"
-  },
-  "wexinOrUlearningQrCodeShareTips": {
-    "message": "微信/优学院APP扫码进行分享",
     "description": "国际版讨论"
   }
 }

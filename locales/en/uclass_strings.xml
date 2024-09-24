@@ -65,8 +65,8 @@
     <string name="nav_course">Classroom</string>
     <string name="fault_detection">Troubleshoot</string>
     <string name="group_num">Group Serial No.</string>
-    <string name="group_num_modify_msg">Note: To ensure smooth teaching, please do not change the group number. However, if you changed the group number, please refresh the screen from the teacher end or restart the application.</string>
-    <string name="connect_interrupt_msg">Group screen broadcasting failed! Please check whether the group screen is online and try again. Click the Troubleshooting link on the group screen UClass to check the screen status and follow the instructions to troubleshoot.</string>
+    <string name="group_num_modify_msg">Note: Do not change the group serial number of a screen unless necessary. If you did change the group serial number, refresh the teacher screen or restart the UClass app.</string>
+    <string name="connect_interrupt_msg">Failed to broadcast to the group screen! Check whether the group screen is online and try again. Click the Troubleshoot link on the group screen to check the screen status and then follow the instructions to troubleshoot.</string>
 
     
     <!--    白板相关-->
@@ -86,16 +86,16 @@
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">Erase</string>
     <string name="wb_name_clear_screen">Clear</string>
-    <string name="double_writing">Co-Authoring</string>
+    <string name="double_writing">Dual-Writing</string>
     <string name="wb_tool_name_background">Whiteboard Background</string>
     <string name="common_sure">Confirm</string>
     <string name="common_save_failed">Failed to save!</string>
     <string name="common_save_success">Saved</string>
     <string name="common_load_board_fail_title">Failed to load whiteboard!</string>
     <string name="common_load_board_success">Loaded successfully!</string>
-    <string name="wb_page_max_error">The maximum number of pages has been reached. No more could be added.</string>
+    <string name="wb_page_max_error">The maximum number of whiteboard pages has been reached. No more could be added.</string>
 
-    <string name="exit_wb_msg">The content being edited has not been saved. Unsaved content will be cleared when the whiteboard is closed. Are you sure you want to close the whiteboard?</string>
+    <string name="exit_wb_msg">The content has not been saved. Unsaved content will be cleared when the whiteboard is closed. Are you sure you want to close the whiteboard?</string>
 
     <string name="title1">Alert</string>
     <string name="close">Close</string>
