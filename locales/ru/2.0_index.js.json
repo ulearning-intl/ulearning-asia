@@ -8,7 +8,7 @@
     "description": "2.0 index.js"
   },
   "welcomeTea": {
-    "message": "Учитель {name}, приветствуем вас",
+    "message": "Преподаватель {name}, добро пожаловать",
     "description": "印尼语翻译老师请注意：由于印尼语前面有一个性别称呼，因此，整个句子使用 “|” 分为三个部分，第一个部分对应女性，第二个部分对应男性，但三个部分对应性别未知。其它老师请无视。"
   },
   "day": {
@@ -24,7 +24,7 @@
     "description": "2.0 index.js"
   },
   "welcomeStu": {
-    "message": "{name}одноклассники, приветствовать ты",
+    "message": "Добро пожаловать，обучающийся {name}",
     "description": "2.0 index.js"
   },
   "more": {
@@ -32,7 +32,7 @@
     "description": "2.0 index.js"
   },
   "allCourse": {
-    "message": "все курсы",
+    "message": "Все курсы",
     "description": "2.0 index.js"
   },
   "publicCourse": {
@@ -40,7 +40,7 @@
     "description": "2.0 index.js"
   },
   "searchCourse": {
-    "message": "поиск Курса",
+    "message": "Поиск курса",
     "description": "2.0 index.js"
   },
   "createCourse": {
@@ -64,7 +64,7 @@
     "description": "2.0 index.js"
   },
   "all": {
-    "message": "все",
+    "message": "Все",
     "description": "2.0 index.js"
   },
   "ing": {
@@ -72,7 +72,7 @@
     "description": "2.0 index.js"
   },
   "ended": {
-    "message": "завершённый",
+    "message": "Завершённые",
     "description": "2.0 index.js"
   },
   "end": {
@@ -124,11 +124,11 @@
     "description": "2.0 index.js"
   },
   "endCourse": {
-    "message": "завершить курс",
+    "message": "Завершить курс",
     "description": "2.0 index.js"
   },
   "deleteCourse": {
-    "message": "удалить Курс",
+    "message": "Удалить курс",
     "description": "2.0 index.js"
   },
   "courseDetail": {
@@ -248,11 +248,11 @@
     "description": "2.0 index.js"
   },
   "localUpload": {
-    "message": "Загрузка с локального компьютера",
+    "message": "Загрузить изображение",
     "description": "2.0 index.js"
   },
   "courseTips": {
-    "message": "подсказка: Если Курс находится в совместном ведении методического объединения, достаточно ответственным за курс создать его, а затем добавить других учителей в педагогический коллектив курса, каждому учителю создавать курс необязательно.",
+    "message": "Подсказка: Если курс управляется совместно методическим объединением, достаточно, чтобы ответственный за курс создал его, а затем добавил других преподавателей в команду преподавателей курса. Каждому преподавателю создавать курс необязательно.",
     "description": "2.0 index.js"
   },
   "cropCover": {
@@ -260,7 +260,7 @@
     "description": "2.0 index.js"
   },
   "deleteCourseTips1": {
-    "message": "После удаления курс невозможно будет восстановить, и студенты, уже вступившие в этот курс, не смогут продолжить обучение. Действуйте с осторожностью!",
+    "message": "После удаления курс не может быть восстановить, и обучающиеся, добавленные в курс, не смогут продоложить обучение. Пожалуйста, будьте осторожны!",
     "description": "2.0 index.js"
   },
   "deleteCourseTips2": {
@@ -268,7 +268,7 @@
     "description": "2.0 index.js"
   },
   "pleaseInput": {
-    "message": "Ввод",
+    "message": "Введите ниже",
     "description": "2.0 index.js"
   },
   "confirmDelete": {
@@ -312,11 +312,11 @@
     "description": "2.0 index.js"
   },
   "unshelveCourseTips1": {
-    "message": "Учителя не могут публиковать новые ресурсы или занятия, а также Изменять уже имеющийся контент Курса. Они могут только Просматривать и Экспортировать данные.",
+    "message": "Преподаватель не может публиковать новые ресурсы или активности, а также редактировать уже существующее содержание курса, может только просматривать и экспортировать данные.",
     "description": "2.0 index.js"
   },
   "unshelveCourseTips2": {
-    "message": "Студент может продолжить просмотр контента курса, но больше не может вступать в курс.",
+    "message": "Обучающийся может просматривать содержание курса, но не может присоединиться к курсу.",
     "description": "2.0 index.js"
   },
   "unshelveCourseTips3": {
@@ -944,7 +944,7 @@
     "description": "2.0 index.js"
   },
   "ExamLibrary": {
-    "message": "Банк тестовых заданий",
+    "message": "Банк экзамена",
     "description": "2.0 index.js"
   },
   "homePage": {
@@ -956,11 +956,11 @@
     "description": "2.0 index.js"
   },
   "frontPage": {
-    "message": "предыдущая страница",
+    "message": "Назад",
     "description": "2.0 index.js"
   },
   "backPage": {
-    "message": "Следующая страница",
+    "message": "Далее",
     "description": "2.0 index.js"
   },
   "jumpPage": {
@@ -1236,7 +1236,7 @@
     "description": "2.0 index.js"
   },
   "autoStudy": {
-    "message": "Самостоятельное изучение",
+    "message": "Самостоятельное обучение",
     "description": "2.0 index.js"
   },
   "courseHelpTitle": {

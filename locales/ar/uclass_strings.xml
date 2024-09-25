@@ -2,82 +2,74 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">UClass</string>
     <string name="app_name_2">人民数字马院</string>
-    <string name="version_update"> تحديث الإصدار </string>
+    <string name="version_update">تحديثات الإصدار</string>
     <string name="update">تحديث</string>
-    <string name="cancel"> إلغاء </string>
-    <string name="confirm"> موافق </string>
-    <string name="updateing_dont_close"> يتم تحديثه ، الرجاء عدم إغلاق الصفحة </string>
-    <string name="select_area"> حدد المنطقة </string>
-    <string name="select_area_msg"> توفر الكلية الممتازة خدمات مستقلة لمناطق مختلفة. الرجاء تحديد المنطقة التي توجد بها مؤسستك قبل تسجيل الدخول. </string>
-    <string name="latin_america"> أمريكا اللاتينية </string>
-    <string name="asia_pacific"> آسيا والمحيط الهادئ </string>
-    <string name="china_mainland"> الصين </string>
-    <string name="africa"> إفريقيا </string>
-    <string name="sandBox"> وضع الحماية </string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm">تأكيد</string>
+    <string name="updateing_dont_close"> يتم التحديث ، الرجاء عدم إغلاق الصفحة</string>
+    <string name="select_area">حدد المنطقة</string>
+    <string name="select_area_msg">توفر ULearning خدمات منفصلة لمناطق مختلفة. يرجى تحديد منطقتك قبل تسجيل الدخول.</string>
+    <string name="latin_america">أمريكا اللاتينية</string>
+    <string name="asia_pacific">آسيا والمحيط الهادئ</string>
+    <string name="china_mainland">الصين</string>
+    <string name="africa">أفريقيا</string>
+    <string name="sandBox">وضع الحماية</string>
     <string name="device">com.zzy.ulearning01.DeviceName</string>
 
 
     <!--    分组研讨-->
-    <string name="nav_broad">بث الشاشة</string>
-    <string name="broading">البث</string>
-    <string name="stop_broad">الخروج من البث</string>
-    <string name="nav_compare">مقارنة المجموعة</string>
-    <string name="stop_compare">قارن الخروج</string>
-    <string name="nav_screen">يقذف</string>
-    <string name="stop_screen">خروج المصبوب</string>
+    <string name="nav_broad">بث</string>
+    <string name="stop_broad">إلغاء البث</string>
+    <string name="nav_compare">مقارنة المجموعات</string>
+    <string name="stop_compare">إلغاء المقارنة</string>
+    <string name="nav_screen">البثّ</string>
+    <string name="stop_screen">إلغاء البثّ</string>
 
     <string name="tea_group">شاشة المعلم</string>
     <string name="stu_group">شاشات المجموعة</string>
-    <string name="broad">إذاعة</string>
+    <string name="broad">بث</string>
     <string name="off_line">غير متصلn/ جاري الاتصال ...</string>
-    <string name="title_group">مجموعات</string>
-    <string name="msg_off_line">غير متصل على الانترنت</string>
-    <string name="msg_no_compare">انقر فوق مجموعة أدناه لعرض شاشة تلك المجموعة</string>
+    <string name="title_group">مجموعة</string>
+    <string name="msg_off_line">غير متصل</string>
+    <string name="msg_no_compare">انقر على المجموعة أدناه لعرضها على الشاشة</string>
 
-    <string name="title_screen">المصبوب المحمول</string>
-    <string name="msg_screen">بعد توصيل الجهاز المحمول بنفس الشبكة ، قم بإرسال الجهاز على الشاشة.</string>
-    <string name="msg_screen_network">الشبكة الحالية:</string>
+    <string name="title_screen">إعدادات المجموعات</string>
     <string name="network_type">سلكي</string>
-    <string name="screen_apple">iOS</string>
-    <string name="screen_android">Android</string>
-    <string name="msg_apple">افتح AirPlay وحدد Screen Cast</string>
-    <string name="msg_android">استخدم تطبيق ULearning لمسح رمز QR لإرساله</string>
-    <string name="msg_pc_screen">لأجهزة الكمبيوتر ، استخدم كابل HDMI للإرسال.</string>
-    <string name="title_screen_agent">يلقي المحمول</string>
+    <string name="screen_apple">أجهزة iOS</string>
+    <string name="screen_android">أجهزة Android</string>
+    <string name="title_screen_agent">البثّ عبر الهاتف</string>
     
     <string name="request_permission_fail">فشل طلب الإذن!</string>
-    <string name="request_screen_permission_fail">فشل طلب الوصول إلى تسجيل الشاشة!</string>
     <string name="request_float_permission_fail">طلب الوصول إلى الشاشة العائمة فشل!</string>
-    <string name="max_screen">الشاشة ممتلئة ولا يمكن تحديد المزيد!</string>
+    <string name="max_screen">لقد تم الوصول إلى الحد الأقصى لعدد الشاشات المسموح بها، ولا يمكن تحديد المزيد!</string>
     <string name="click_too_fast">من فضلك لا تنقر كثيرا!</string>
     <string name="no_activation">غير مفعل</string>
-    <string name="perfect_information">إعدادات الشاشة الكاملة</string>
+    <string name="perfect_information">إكمال إعدادات الشاشات</string>
 
     <string name="network_check">يرجى التحقق من الشبكة</string>
-    <string name="title">ملحوظة</string>
+    <string name="title">تنبيه</string>
 
 
     <!--    ABC为占位字符，请放于合适的位置-->
-    <string name="click_connect_again">إذا كانت شاشة المجموعة غير متصلة بالإنترنت ، فيرجى مطالبة الطلاب بفتح برنامج شاشة المجموعة UClass.\nإذا تم فتح UClass شاشة المجموعة ، يرجى ABC شاشة المجموعة.</string>
+    <string name="click_connect_again">شاشة المجموعة (أو أكثر) غير متصلة بالإنترنت، اطلب من الطلاب فتح تطبيق UClass على شاشة المجموعة. \nإذا كان UClass قيد التشغيل، فاطلب من الطلاب إعادة توصيل شاشة المجموعة.</string>
     <string name="ABC">انقر هنا لإعادة الاتصال</string>
 
     <string name="malaysia">ماليزيا</string>
-    <string name="float_msg">يحتاج UClass إلى إذن الإطار العائم للتأكد من أنه يمكن تشغيله في الخلفية أثناء البث متعدد الشاشات. الرجاء النقر فوق \ &quot;موافق \&quot; وتمكين إذن المربع العائم على واجهة إعداد النوافذ المنبثقة.</string>
-    <string name="ip_msg">تتطلب الوظيفة التفاعلية متعددة الشاشات استخدام عنوان IP ثابت ، يرجى عدم تغييره حسب الرغبة أو الاتصال بشبكات متعددة مثل السلكية و WIFI في نفس الوقت.</string>
-    <string name="current_ip">:IP الحالي</string>
-    <string name="register_ip">تسجيل IP:</string>
+    <string name="float_msg">يجب تمكين النافذة العائمة لتشغيل UClass في الخلفية أثناء البث متعدد الشاشات. انقر فوق رابط التأكيد لفتح نافذة الإعداد ثم تمكين النافذة العائمة (التعليق).</string>
+    <string name="ip_msg">تتطلب وظيفة الشاشات المتعددة عنوان IP ثابتًا. لا تقم بتغيير عنوان IP أو الاتصال بشبكات متعددة (مثل الشبكة السلكية وشبكة Wi-Fi) في نفس الوقت.</string>
+    <string name="current_ip">عنوان IP:</string>
+    <string name="register_ip">عنوان IP المعين مسبقا:</string>
     <string name="nav_whiteboard">السبورة</string>
     <string name="zambia">زامبيا</string>
 
     <string name="nav_course">جلسة</string>
-    <string name="fault_detection">اكتشاف الأخطاء</string>
+    <string name="fault_detection">استكشاف الأخطاء وإصلاحها</string>
     <string name="group_num">الرقم التسلسلي للمجموعة</string>
-    <string name="group_num_modify_msg">ملاحظة: لضمان التدريس العادي، يرجى عدم تغيير رقم تسلسل المجموعة حسب الرغبة، بعد تغيير رقم تسلسل المجموعة، يرجى تحديث الصفحة أو إعادة تشغيل التطبيق من جانب المعلم.</string>
+    <string name="group_num_modify_msg">ملاحظة: لا تغير الرقم التسلسلي للمجموعة على الشاشة إلا إذا كان ذلك ضروريًا. إذا قمت بتغيير الرقم التسلسلي للمجموعة، فقم بتحديث شاشة المعلم أو إعادة تشغيل تطبيق UClass.</string>
     <string name="connect_interrupt_msg">فشل بث شاشة المجموعة ، يرجى التحقق مما إذا كانت شاشة المجموعة متصلة بالإنترنت والمحاولة مرة أخرى. انقر فوق &quot;\اكتشاف الأخطاء&quot;\ على شاشة المجموعة UClass واجهة لعرض حالة شاشة المجموعة واتباع مطالبات المساعدة</string>
 
 
     <!--    白板相关-->
-    <string name="wb_tool_name_pen">أداة الرسم</string>
     <string name="wb_tool_name_eraser">مساحة</string>
     <string name="wb_tool_name_select">تحديد الدائرة</string>
     <string name="wb_tool_name_canvas_mode">التكبير</string>
@@ -88,42 +80,19 @@
     <string name="wb_tool_name_open">توسيع</string>
     <string name="wb_tool_name_thumbnail">مصغرات</string>
 
-    <string name="wb_tool_name_page_manager">إدارة الصفحة</string>
-
     <string name="wb_tool_name_pen_pencil">قلم</string>
-    <string name="wb_tool_name_pen_finger">إصبع</string>
-    <string name="wb_tool_name_pen_brush">ريشه</string>
     <string name="wb_tool_name_pen_smart">الكتابة الذكية</string>
-    <string name="wb_tool_name_pen_passive">تم مسح نهاية القلم</string>
-    <string name="wb_tool_smart_pen_txt">كتابه</string>
-    <string name="wb_tool_smart_pen_graphic">الرسومات</string>
-    <string name="wb_tool_smart_pen_table">جدول</string>
     <string name="wb_tool_name_exit">إغلاق السبورة البيضاء</string>
-    <string name="wb_tool_name_save_course">حفظ في الصف</string>
-    <string name="wb_tool_name_save_pic">تصدير الصورة</string>
-    <string name="wb_tool_name_cancel">إلغاء</string>
-    <string name="wb_tool_name_done">مكتمل</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">محو</string>
     <string name="wb_name_clear_screen">مسح الشاشة</string>
-    <string name="wb_message_canvas_lock">تكبير الصفحة مغلق ويمكن كتابته بشخصين</string>
-    <string name="wb_message_canvas_unlock">تم إلغاء قفل تكبير/تصغير الصفحة ويمكن تغيير حجمه</string>
     <string name="double_writing">الكتابة المزدوجة</string>
     <string name="wb_tool_name_background">خلفية السبورة البيضاء</string>
-    <string name="wb_message_canvas_unlock_at_smart_pen_type">الكتابة المكونة من شخصين غير مدعومة في وضع القلم الذكي، ويتم إلغاء قفل الصفحة</string>
-    <string name="common_task_finish_content">لديك محتوى غير محفوظ</string>
-    <string name="common_task_finish_delete_all">عدم الحفظ</string>
-    <string name="common_task_finish_cancel">إلغاء</string>
-    <string name="common_task_finish_save">حفظ</string>
-    <string name="common_delect_page_content">الصفحات المحذوفة غير قابلة للاسترداد</string>
     <string name="common_sure">تأكيد</string>
-    <string name="common_delect_page_title">حذف</string>
     <string name="common_save_failed">لم نتنكن من الحفظ</string>
     <string name="common_save_success">تم الحفظ</string>
     <string name="common_load_board_fail_title">فشل تحميل السبورة البيضاء</string>
     <string name="common_load_board_success">تحميل ناجح</string>
-    <string name="common_new_board_failed">فشل في إنشاء لوح معلومات جديد</string>
-    <string name="common_new_page_failed">فشل في إنشاء صفحة جديدة</string>
     <string name="wb_page_max_error">تم الوصول إلى الحد الأقصى لعدد الصفحات ولا يمكن إنشاؤه</string>
 
     <string name="exit_wb_msg">لم يتم حفظ المحتوى الذي تم تحريره حاليا ، بعد إغلاق السبورة البيضاء ، سيتم مسح المحتوى الذي تم تحريره ، وتأكيد إغلاق السبورة؟</string>
@@ -146,9 +115,6 @@
     <string name="duplicate_file_name">أسماء الملفات المكررة</string>
     <string name="wb_save_failed">فشل الحفظ، حاول تغيير اسم الملف</string>
     <string name="del_wb_msg">هل أنت متأكد من أنك تريد حذف الصفحة الحالية؟</string>
-    <string name="wb_page_scale_min">تم تكبير الصفحة إلى الحد الأدنى</string>
-    <string name="wb_page_scale_max">تم تغيير حجم الصفحة إلى الحد الأقصى</string>
-    <string name="wb_page_scale">مقياس قماش</string>
 
     <string name="select_language"> حدد اللغة </string>
     <string name="language_cn">简体中文</string>
@@ -175,20 +141,6 @@
     <string name="app_name_3">تفاعل UClass متعدد الشاشات</string>
     <string name="watch_stu_screen">مشاهدة المجموعة</string>
     <string name="license_0">تنشيط</string>
-    <string name="license_10001">إشغال منفذ بروتوكول الوسائط</string>
-    <string name="license_10002">إشغال منفذ بروتوكول التحكم</string>
-    <string name="license_101">غير قادر على الحصول على عنوان Mac</string>
-    <string name="license_102">غير قادر على الحصول على معلومات الأجهزة</string>
-    <string name="license_103">فشل التحقق من عنوان Mac</string>
-    <string name="license_104">فشل التحقق من معلومات الأجهزة</string>
-    <string name="license_105">أنواع SDK غير متناسقة</string>
-    <string name="license_106">انتهت صلاحية التفويض</string>
-    <string name="license_107">غير قادر على حل الترخيص</string>
-    <string name="license_108">أخطاء التحقق الأخرى</string>
-    <string name="license_109">معلومات الترخيص فارغة</string>
-    <string name="license_110">عدم تطابق نوع النظام الأساسي</string>
-    <string name="license_111">معرف المنتج غير مطابق</string>
-    <string name="license_112">المعلمة sdkType التي تم إدخالها غير صالحة</string>
     <string name="license_other">خطأ غير معروف</string>
     <string name="modify">تعديل</string>
     <string name="save">حفظ</string>
@@ -225,27 +177,11 @@
     <string name="auto_start_fail">فشل البدء!الرجاء النقر فوق الزر &quot;Screencast&quot; على اليسار لبدء البث يدويا.</string>
 
     <!--    投屏界面优化需求 -->
-    <string name="classroom_lan">الشبكة المحلية للفصول الدراسية</string>
     <string name="yxy_app_name">ULearning</string>
-    <string name="idea_share">عرض على الشاشة</string>
-    <string name="msg_android2">يتم دعم Android فقط</string>
-    <string name="step1">الخطوة 1.</string>
-    <string name="step2">الخطوة 2.</string>
-    <string name="step3">الخطوه 3.</string>
     <string name="welink_str">وي لينك</string>
     <string name="idea_share_str">IdeaShare</string>
-    <string name="share_type">IdeaShare</string>
-    <string name="ideashare_remind1">قم بتنزيل IdeaShare من هاتفك أو جهاز الكمبيوتر الخاص بك</string>
-    <string name="ideashare_remind2">قم بتوصيل هاتفك أو جهاز الكمبيوتر الخاص بك بشبكة LAN الخاصة بالفصل الدراسي</string>
-    <string name="ideashare_remind3">افتح IdeaShare وأدخل رمز إرسال الشاشة في الزاوية اليمنى العليا من الجهاز لإرسال الشاشة</string>
-    <string name="ideashare_remind4">بعد توصيل الهاتف المحمول بشبكة LAN للفصل الدراسي ، يتم عرض الشاشة</string>
-    <string name="ideashare_remind5">افتح WeLink ، وانقر فوق علامة + في الزاوية اليمنى العليا ، وحدد &quot;Projection&quot; ، وأدخل رمز عرض الشاشة في الزاوية اليمنى العليا من الجهاز لإرسال الشاشة</string>
     <string name="wifi">واي فاي:</string>
     <string name="wifi_password">شعار:</string>
-    <string name="wifi_save">حفظ</string>
-    <string name="wifi_cancel">إلغاء</string>
-    <string name="wifi_edit">تعديل يدويا</string>
-    <string name="wifi_remind">غير قادر على الحصول على معلومات WIFI للفصل الدراسي ، يرجى إدخالها يدويا</string>
     <string name="storage_permission_reminder">منح أذونات التخزين أولا</string>
     <string name="wifi_unknown">غير معروف</string>
 
@@ -274,4 +210,4 @@
 
     <string name="record_occupation_hint">تستخدم التطبيقات الأخرى ميزة تسجيل الشاشة ، لذلك يتوقف التطبيق عن تسجيل الشاشة</string>
 
-</resources>
+    </resources>

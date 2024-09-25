@@ -101,113 +101,130 @@
     <string name="close">Close</string>
     <string name="close_whiteboard">Close Whiteboard</string>
     <string name="back_and_save">Back to Save</string>
-    <string name="open_wb_msg">Only files residing in the app can be opened. Path: </string>
-    <string name="save_wb_msg">Path to Save: </string>
+    <string name="open_wb_msg">Currently only supports opening files in the file saving path of UClass: </string>
+    <string name="save_wb_msg">Saving Path: </string>
     <string name="open_local_wb">Open Local File</string>
-    <string name="open_course_wb">Open Session File</string>
+    <string name="open_course_wb">Open Classroom File</string>
     <string name="continue_to_use">Agree and Proceed</string>
     <string name="give_up_using">Disagree</string>
     <string name="title2">Instructions</string>
-    <string name="open_wb_not_save_msg">The current whiteboard is not saved. It will be overwritten by the newly opened one.</string>
+    <string name="open_wb_not_save_msg">The whiteboard is not saved and will be overwritten by the newly opened one!</string>
     <string name="not_save">Not saved</string>
     <string name="continue_do">Continue</string>
-    <string name="input_file_name">Click to enter the file name</string>
-    <string name="duplicate_file_name">The file name already exists</string>
-    <string name="wb_save_failed">Failed to save. Change the file name and then re-try.</string>
-    <string name="del_wb_msg">Are you sure to delete the current page?</string>
+    <string name="input_file_name">Enter the file name</string>
+    <string name="duplicate_file_name">The file name already exists!</string>
+    <string name="wb_save_failed">Failed to save - Change the file name and then try again!</string>
+    <string name="del_wb_msg">Are you sure to you want to delete this page?</string>
 
     <string name="select_language">Select Language</string>
     <string name="language_cn">简体中文</string>
     <string name="language_en">English</string>
-    <string name="simple_welcome">Welcome to the Multi-Screen Interaction System!</string>
-    <string name="simple_not_activated">The Multi-Screen Interaction System is not activated </string>
-    <string name="click_contact_us">If you have not purchased the service, please DEF. If you have purchased, please restart the App.</string>
+    <string name="simple_welcome">Welcome to the Multi-Screens feature of UClass!</string>
+    <string name="simple_not_activated">The Multi-Screens feature is not activated yet!</string>
+    <string name="click_contact_us">If you have not purchased this service, please DEF. If you have purchased, please restart the App.</string>
     <string name="DEF">contact us</string>
-    <string name="user_msg1">Click the button on the right to start</string>
-    <string name="user_msg2">Touch the screen and tap the Grid Menu button on either side of the screen\nSwitch to other apps or Windows system</string>
-    <string name="watch_tea_screen">Viewing the teacher screen</string>
+    <string name="user_msg1">Tap the button on the right to start</string>
+    <string name="user_msg2">Touch the screen and tap the 3x3 Grid Menu button on either side of the screen\nSwitch to another app or Windows system</string>
+    <string name="watch_tea_screen">Viewing the teacher screen...</string>
     <string name="title_screen_1">Scan to Cast</string>
-    <string name="message_screen_1">For Android devices, please scan the QR code with the ULearning APP</string>
+    <string name="message_screen_1">For Android devices, use ULearning app to scan the QA code to cast.</string>
     <string name="language_ar">عربى</string>
     <string name="language_es">Español</string>
     <string name="language_in">Indonesia</string>
     <string name="language_th">ภาษาไทย</string>
     <string name="language_zh">繁體中文</string>
     <string name="language_fr">Français</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_pt">Português</string>
     <string name="ethiopia">Ethiopia</string>
 
 
     <!--    20230410翻译新增-->
-    <string name="app_name_3">UClass Multi-Screen Interaction</string>
-    <string name="watch_stu_screen">Viewing the group screen</string>
+    <string name="app_name_3">UClass Multi-Screens</string>
+    <string name="watch_stu_screen">Viewing the group screen...</string>
     <string name="license_0">Activated</string>
     <string name="license_other">Unknown error!</string>
     <string name="modify">Edit</string>
     <string name="save">Save</string>
-    <string name="check_ip_tea">Please check whether the IP address of the group screen is consistent with the pre-assigned IP address. Path: Group Screen Home &gt; Settings &gt; Advanced &gt; Wired Network. If not, please change the group screen IP address or the pre-assigned IP address.</string>
-    <string name="check_running_tea">Check if UClass of the group screen is running</string>
-    <string name="try_restart">Try to close and then reopen the UClass app of the teacher screen and group screen</string>
-    <string name="check_ip_stu">On the teacher screen UClass, click the Troubleshooting link to view the networking information. Check whether the IP address of the group screen is consistent with the pre-assigned IP address. If not, please change the group screen IP address or the pre-assigned IP address.</string>
-    <string name="modify_success_restart">Changed successfully. Please close and then reopen UClass!</string>
-    <string name="modify_fail_reinput">The format is incorrect! Please check the parameters.</string>
-    <string name="device_info">Current Device Information</string>
+    <string name="check_ip_tea">Please check whether the IP address of the group screen is consistent with the pre-assigned IP address. Path: the group screen - Home &gt; Settings &gt; Advanced &gt; Wired Network. If not consistent, change the group screen IP  address or the pre-assigned IP address.</string>
+    <string name="check_running_tea">Check whether UClass of the group screen is running</string>
+    <string name="try_restart">Try to close and then reopen UClass of the teacher screen and group screen</string>
+    <string name="check_ip_stu">On the teacher screen, tap the Troubleshoot link on UClass to view the networking information. Check whether the IP address of the group screen is consistent with the pre-assigned IP address. If not, change the group screen IP address or the pre-assigned IP address.</string>
+    <string name="modify_success_restart">Edited successfully - Please close and then reopen UClass!</string>
+    <string name="modify_fail_reinput">The format is incorrect - Check the parameters!</string>
+    <string name="device_info">Device Information</string>
     <string name="screen">Screen</string>
-    <string name="mac_addr">MAC Address</string>
+    <string name="mac_addr">MAC Address </string>
     <string name="network_info">Current Network</string>
-    <string name="network_wifi_warn">Current network: Wi-Fi. To ensure broadcast clarity and stability, please use a wired network.</string>
+    <string name="network_wifi_warn">Current network: Wi-Fi. To ensure broadcast clarity and stability, please use a wired network!</string>
     <string name="network_cur_ip">Current IP Address</string>
     <string name="license">License</string>
     <string name="version">Version</string>
     <string name="media_port">Media Port</string>
     <string name="agent_offline">If the group screen is offline: </string>
-    <string name="network_group_info">IP Address</string>
+    <string name="network_group_info">Network Information</string>
     <string name="back">Back</string>
-    <string name="no_group_msg">The IP address is incorrect! Please use the backup file to repair it.</string>
-    <string name="update_version" formatted="false">Newer version available: UClass%s, want to update?</string>
-    <string name="is_new_version">The current version is the latest version</string>
+    <string name="no_group_msg">The network information is incorrect - Use the backup file to repair!</string>
+    <string name="update_version" formatted="false">Newer version available: UClass%s, do you want to update?</string>
+    <string name="is_new_version">Your version is the latest version</string>
 
     <!--    自动广播需求-->
-    <string name="auto_broadcast_tea_screen">Automatically broadcast the teacher screen</string>
-    <string name="stu_screen_offline_reminder">If a group screen is offline, please check whether the UClass client of the group screen is turned on.</string>
+    <string name="auto_broadcast_tea_screen">Auto-Broadcast Teacher Screen</string>
+    <string name="stu_screen_offline_reminder">If any group screen is offline, check whether UClass app on that screen is turned on.</string>
     <string name="groups_checking">Checking...</string>
     <string name="groups_off_line">Offline</string>
     <string name="groups_on_line">Online</string>
     <string name="auto_staring" tools:ignore="TypographyEllipsis">Launching</string>
-    <string name="auto_start_success">Launched successfully! Broadcasting teacher screen to group screen...</string>
-    <string name="auto_start_fail">Failed to launch! Please click the Screen Broadcast button on the right to manually start the broadcast.</string>
+    <string name="auto_start_success">Launched successfully! Broadcasting teacher screen to group screens...</string>
+    <string name="auto_start_fail">Failed to launch! Click the Multi-Screens button on the right to manually launch the broadcast.</string>
 
     <!--    投屏界面优化需求 -->
     <string name="yxy_app_name">ULearning</string>
     <string name="welink_str">WeLink</string>
     <string name="idea_share_str">IdeaShare</string>
-    <string name="wifi">WIFI: </string>
+    <string name="wifi">Wi-Fi: </string>
     <string name="wifi_password">Password: </string>
-    <string name="storage_permission_reminder">Please enable Storage first</string>
+    <string name="storage_permission_reminder">Enable Storage permission first!</string>
     <string name="wifi_unknown">Unknown</string>
 
 
     <!--    20230816新增-->
-    <string name="can_not_connection">Please open the casting screen and try again</string>
-    <string name="cannot_connect_in_broadcast">Cannot connect during broadcast</string>
-    <string name="screen_exceed_limit">The number of screen casting devices supported by the smart screen has reached the limit. Please wait until someone exits casting and try again.</string>
+    <string name="can_not_connection">Open the cast screen and try again!</string>
+    <string name="cannot_connect_in_broadcast">Unable to connect to the screen during broadcasting!</string>
+    <string name="screen_exceed_limit">The number of screen casting devices supported by the smart board has reached the limit. Please wait until someone exits casting and try again.</string>
     <string name="screen_text_other">Others</string>
-    <string name="msg_apple2">Turn on AirPlay (screen mirroring) to cast</string>
-    <string name="msg_android3">Search and install ULearning app in Play Store. Use ULearning app to scan the QR code to cast.</string>
-    <string name="msg_other">Search and install IdeaShare. Open IdeaShare and enter the casting code to cast. You can find the code at the upper-right corner.</string>
+    <string name="msg_apple2">ap AirPlay or Screen Mirroring to cast</string>
+    <string name="msg_android3">Search and install ULearning app in the app store of your mobile device. Use ULearning app to scan the QR code to cast.</string>
+    <string name="msg_other">Search and install IdeaShare in the app store or browser of your device. Open IdeaShare and enter the casting code to cast. You can find the code at the upper-right corner of the smart board.</string>
     <string name="screen_text_wifi_info">Connect to the classroom Wi-Fi to cast. Classroom Wi-Fi: %s \u00A0\u00A0\u00A0 Password: %s</string>
     <string name="screen_text_help">Help</string>
     <string name="yxy_app_name2">ULearning App</string>
-    <string name="screen_text_help_info">Obtain Wi-Fi information from the classroom administrator. Click the Edit button to fill in the Wi-Fi name and password to save for future connections.</string>
-    <string name="wb_tool_name_classroom_blackboard">Whiteboard Screenshot</string>
-    <string name="wb_tool_name_share_board">Share Screenshot</string>
+    <string name="screen_text_help_info">Obtain Wi-Fi information from the classroom admin. Click the Edit button to enter the Wi-Fi name and password to save for future connections.</string>
+    <string name="wb_tool_name_classroom_blackboard">Whiteboard Content</string>
+    <string name="wb_tool_name_share_board">Share Content</string>
     <string name="wb_tool_name_save_local">Save Locally</string>
-    <string name="wb_tool_name_helptext">The smart screen is a shared device, and there are potential risks in saving the screenshots to this device. It is recommended to use the share function to save the screenshot content to the ULearning course session on the cloud. After saving, you can open the screenshot content from different locations for editing or share the content with the course session participants.</string>
+    <string name="wb_tool_name_helptext">The smart board is a shared device, and there are potential risks in saving the whiteboard to this device. It is recommended to use the Share Content feature to save the whiteboard content to your ULearning course session on the cloud. After saving, you can open the whiteboard content from a different classroom for editing or share the content with your course session participants.</string>
     <string name="wb_tool_name_filename">Name</string>
     <string name="wb_tool_name_save_local_btn">Save Locally</string>
-    <string name="wifi_title_text">Please enter the classroom Wi-Fi and password</string>
-    <string name="wb_tool_name_not_file">Unsaved whiteboard screenshots </string>
-    <string name="storage_permission_request_hint">UClass requires storage permissions. In order to quickly locate problems that occur during software operation, UClass needs to record the software\'s operation log and store it locally. Please click Ok to enable storage permissions in the pop-up window.</string>
+    <string name="wifi_title_text">Enter the classroom Wi-Fi and password</string>
+    <string name="wb_tool_name_not_file">Unsaved whiteboard content </string>
+    <string name="storage_permission_request_hint">UClass requires storage permissions. In order to quickly locate problems that occur during software operation, UClass needs to record the software\'s operation logs and store them locally. Tap Ok to enable storage permissions in the pop-up window.</string>
 
-    <string name="record_occupation_hint">\n stops screen recording since the recording function is being used by another app.</string>
+    <!--已自己翻译-->
+    <string name="double_writing_is_not_allowed">Dual-writing is not allowed under this writing mode!</string>
+    <string name="record_occupation_hint">The screen recording function is being used by another app\nThis app stops recording the screen</string>
 
-    </resources>
+    <string name="protocol_inconformity">The broadcast configuration is inconsistent. Please check the broadcast settings.</string>
+    <string name="clear">Reset</string>
+    <string name="ip_error_msg">The IP address is inconsistent with the pre-assigned IP Address!</string>
+    <string name="network_error_msg">The network is unavailable - Please check the network connection!</string>
+    <string name="received_data">Receive Data</string>
+    <string name="send_data">Send Data</string>
+    <string name="multicast_test">Group Broadcast Testing </string>
+    <string name="single_test">Single Broadcast Testing </string>
+    <string name="load_network_info">Refreshing group information...</string>
+    <string name="network_error_msg2">The network is unstable - Please ensure the network works as expected!</string>
+
+    <string name="wb_toast_not_support">This device doesn\'t support the whiteboard feature!</string>
+
+</resources>
