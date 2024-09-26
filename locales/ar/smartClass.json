@@ -148,19 +148,19 @@
     "description": "smart-classroom 项目"
   },
   "classroom.refresh": {
-    "message": "انقر هنا لتحديث",
+    "message": "اضغط هنا لتحديث",
     "description": "smart Class"
   },
   "classroom.noCourseTip2": {
-    "message": "ليس لديك مقرر دراسي بالفعل، قم بإنشاء مقرر دراسي في LMS ودعوة الطلاب للانضمام",
+    "message": "ليس لديك أي مقررات حتى الآن. قم بإنشاء مقرر في نظام إدارة التعلم (LMS) وادعُ الطلاب للانضمام إليه.",
     "description": "smart-classroom 项目"
   },
   "classroom.noCourseTip3": {
-    "message": "انشاء؟",
+    "message": "تم الإنشاء مسبقاً؟",
     "description": "smart-classroom 项目"
   },
   "classroom.noCourseTip4": {
-    "message": "لم تنضم إلى الدورة بعد، يرجى الاتصال بمعلمك.",
+    "message": "لم تقم بالتسجيل في المقرر، يرجى الاتصال بالمعلم.",
     "description": "smart-classroom 项目"
   },
   "classroom.newUser": {
@@ -168,11 +168,11 @@
     "description": "smart-classroom 项目"
   },
   "classroom.introTip1": {
-    "message": "UClass هو أداة موجهة نحو الفصول الدراسية التي تحتاج إلى استخدامها مع LMS لدينا. يرجى إكمال الاستعدادات التالية في نظام LMS لدينا:",
+    "message": "UClass هي أداة للتعليم في الفصل الدراسي ويجب استخدامها بالاقتران مع نظام إدارة التعلم (LMS) الخاص بنا. أكمل الاعدادات التالية في نظام إدارة التعلم (LMS):",
     "description": "smart-classroom 项目"
   },
   "classroom.step1": {
-    "message": "إنشاء دورة دراسية",
+    "message": "إنشاء مقرر دراسي",
     "description": "smart-classroom 项目"
   },
   "classroom.step2": {
@@ -188,7 +188,7 @@
     "description": "smart-classroom 项目"
   },
   "classroom.viewHelp": {
-    "message": "عرض >> التعليمات",
+    "message": "المساعدة >>",
     "description": "smart-classroom 项目"
   },
   "classroom.ulearnWeb": {
@@ -200,19 +200,19 @@
     "description": "smart Class"
   },
   "classroom.inputClassroomName": {
-    "message": "أدخل اسم المحاضرة",
+    "message": "أدخل اسم الجلسة",
     "description": "smart Class"
   },
   "classroom.lastClasses": {
-    "message": "تم إختيارها مسبقاً:",
+    "message": "تم إختياره سابقاً:",
     "description": "smart Class"
   },
   "classroom.noClass": {
-    "message": "لا يوجد فصل",
+    "message": "لا توجد فصول حتى الآن",
     "description": "smart Class"
   },
   "classroom.classNames": {
-    "message": "الفصول المختارة {name}، {count}",
+    "message": "{name} إلخ، {count} فصل دراسي",
     "description": "smart Class"
   },
   "classroom.living": {
@@ -220,11 +220,11 @@
     "description": "smart Class"
   },
   "classroom.notStart": {
-    "message": "لم يبدأ",
+    "message": "لم تبدأ",
     "description": "smart Class"
   },
   "classroom.ended": {
-    "message": "تم الإنهاء",
+    "message": "انتهت",
     "description": "smart Class"
   },
   "classroom.classroom": {
@@ -240,7 +240,7 @@
     "description": "smart-classroom 项目"
   },
   "classroom.classroomTips2": {
-    "message": "لا يمكن أن يكون الفصل فارغا",
+    "message": "لا يمكن أن يكون الفصل فارغا، على الأقل إختر فصلاً واحداً",
     "description": "smart Class"
   },
   "classroom.createSuccess": {
@@ -248,15 +248,15 @@
     "description": "smart Class"
   },
   "classroom.createFail": {
-    "message": "لم نتمكن من الإنشاء",
+    "message": "فشل الإنشاء",
     "description": "smart Class"
   },
   "classroom.confirmDeleteClass": {
-    "message": "سيؤدي حذف محاضرة الفصل إلى حذف كل الأنشطة الصفية التي تم بدؤها في المحاضرة . هل تريد حذفها؟",
+    "message": "سيؤدي حذف المحاضرة إلى حذف كل الأنشطة الصفية التي تم أنشأت في المحاضرة. هل تريد حذفها بالتأكيد؟",
     "description": "smart Class"
   },
   "classroom.deleteFail": {
-    "message": "لم نتمكن من الحذف",
+    "message": "فشل الحذف",
     "description": "smart Class"
   },
   "classroom.deleteSuccess": {
@@ -268,7 +268,7 @@
     "description": "smart Class"
   },
   "classroom.classAgain": {
-    "message": "إعادة فتح",
+    "message": "إعادة فتح الدرس",
     "description": "smart Class"
   },
   "classroom.arrivalRate": {
@@ -276,11 +276,11 @@
     "description": "smart Class"
   },
   "classroom.noRollCall": {
-    "message": "لا يوجد أسماء حضور",
+    "message": "لم يتم التحقق من الحضور",
     "description": "smart Class"
   },
   "classroom.interactions": {
-    "message": "التفاعلات",
+    "message": "عدد التفاعلات",
     "description": "smart Class"
   },
   "classroom.classReport": {
