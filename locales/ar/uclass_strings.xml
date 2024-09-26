@@ -66,148 +66,166 @@
     <string name="fault_detection">استكشاف الأخطاء وإصلاحها</string>
     <string name="group_num">الرقم التسلسلي للمجموعة</string>
     <string name="group_num_modify_msg">ملاحظة: لا تغير الرقم التسلسلي للمجموعة على الشاشة إلا إذا كان ذلك ضروريًا. إذا قمت بتغيير الرقم التسلسلي للمجموعة، فقم بتحديث شاشة المعلم أو إعادة تشغيل تطبيق UClass.</string>
-    <string name="connect_interrupt_msg">فشل بث شاشة المجموعة ، يرجى التحقق مما إذا كانت شاشة المجموعة متصلة بالإنترنت والمحاولة مرة أخرى. انقر فوق &quot;\اكتشاف الأخطاء&quot;\ على شاشة المجموعة UClass واجهة لعرض حالة شاشة المجموعة واتباع مطالبات المساعدة</string>
+    <string name="connect_interrupt_msg">فشل البث إلى شاشة المجموعة! تحقق مما إذا كانت شاشة المجموعة متصلة بالإنترنت وحاول مرة أخرى. انقر فوق رابط استكشاف الأخطاء وإصلاحها على شاشة المجموعة للتحقق من حالة الشاشة ثم اتبع الإرشادات لاستكشاف الأخطاء وإصلاحها.</string>
 
 
     <!--    白板相关-->
-    <string name="wb_tool_name_eraser">مساحة</string>
-    <string name="wb_tool_name_select">تحديد الدائرة</string>
+    <string name="wb_tool_name_eraser">الممحاة</string>
+    <string name="wb_tool_name_select">تحديد</string>
     <string name="wb_tool_name_canvas_mode">التكبير</string>
-    <string name="wb_tool_name_previous">السابقه</string>
+    <string name="wb_tool_name_previous">السابق</string>
     <string name="wb_tool_name_next">التالي</string>
     <string name="wb_tool_name_setting">الإعدادات</string>
     <string name="wb_tool_name_save">حفظ</string>
-    <string name="wb_tool_name_open">توسيع</string>
+    <string name="wb_tool_name_open">فتح</string>
     <string name="wb_tool_name_thumbnail">مصغرات</string>
 
-    <string name="wb_tool_name_pen_pencil">قلم</string>
-    <string name="wb_tool_name_pen_smart">الكتابة الذكية</string>
-    <string name="wb_tool_name_exit">إغلاق السبورة البيضاء</string>
+    <string name="wb_tool_name_pen_pencil">القلم</string>
+    <string name="wb_tool_name_pen_smart">القلم الذكي</string>
+    <string name="wb_tool_name_exit">إغلاق السبورة</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">محو</string>
     <string name="wb_name_clear_screen">مسح الشاشة</string>
     <string name="double_writing">الكتابة المزدوجة</string>
-    <string name="wb_tool_name_background">خلفية السبورة البيضاء</string>
+    <string name="wb_tool_name_background">خلفية السبورة</string>
     <string name="common_sure">تأكيد</string>
-    <string name="common_save_failed">لم نتنكن من الحفظ</string>
+    <string name="common_save_failed">فشل الحفظ</string>
     <string name="common_save_success">تم الحفظ</string>
-    <string name="common_load_board_fail_title">فشل تحميل السبورة البيضاء</string>
+    <string name="common_load_board_fail_title">فشل تحميل السبورة</string>
     <string name="common_load_board_success">تحميل ناجح</string>
-    <string name="wb_page_max_error">تم الوصول إلى الحد الأقصى لعدد الصفحات ولا يمكن إنشاؤه</string>
+    <string name="wb_page_max_error">لقد تم الوصول إلى الحد الأقصى لعدد صفحات السبورة البيضاء. لا يمكن إضافة المزيد</string>
 
-    <string name="exit_wb_msg">لم يتم حفظ المحتوى الذي تم تحريره حاليا ، بعد إغلاق السبورة البيضاء ، سيتم مسح المحتوى الذي تم تحريره ، وتأكيد إغلاق السبورة؟</string>
+    <string name="exit_wb_msg">لم يتم حفظ المحتوى. سيتم مسح المحتوى غير المحفوظ عند إغلاق السبورة . هل أنت متأكد من رغبتك في إغلاق السبورة ؟</string>
 
-    <string name="title1"> تذكير </string>
+    <string name="title1">تنبيه</string>
     <string name="close">إغلاق</string>
-    <string name="close_whiteboard">إغلاق السبورة البيضاء</string>
-    <string name="back_and_save">العودة إلى الحفظ</string>
-    <string name="open_wb_msg">في الوقت الحالي ، افتح الملفات فقط ضمن مسار حفظ هذا البرنامج. مسار:</string>
-    <string name="save_wb_msg">حفظ المسار:</string>
+    <string name="close_whiteboard">إغلاق السبورة</string>
+    <string name="back_and_save">رجوع للحفظ</string>
+    <string name="open_wb_msg">حاليًا يدعم فتح الملفات من مسار التخزين المخصص لـ UClass فقط:</string>
+    <string name="save_wb_msg">مسار الحفظ :</string>
     <string name="open_local_wb">فتح الملف المحلي</string>
-    <string name="open_course_wb">فتح ملف في الفصل الدراسي</string>
+    <string name="open_course_wb">فتح ملف الفصل الدراسي</string>
     <string name="continue_to_use">أوافق واستمر</string>
-    <string name="give_up_using">التخلي عن الاستخدام</string>
-    <string name="title2">الشرح</string>
-    <string name="open_wb_not_save_msg">لم يتم حفظ لوح المعلومات الحالي وسيتم الكتابة فوق السبورة الحالية عند فتحها</string>
-    <string name="not_save">لم يتم حفظه</string>
+    <string name="give_up_using">التوقف عن استخدام</string>
+    <string name="title2">تعليمات</string>
+    <string name="open_wb_not_save_msg">السبورة غير محفوظة وسيتم الكتابة فوقها بالسبورة الجديدة التي تم فتحها!</string>
+    <string name="not_save">لم يتم الحفظ</string>
     <string name="continue_do">إستمرار</string>
     <string name="input_file_name">الرجاء إدخال اسم الملف</string>
-    <string name="duplicate_file_name">أسماء الملفات المكررة</string>
-    <string name="wb_save_failed">فشل الحفظ، حاول تغيير اسم الملف</string>
+    <string name="duplicate_file_name">الملف موجود مسبقاً</string>
+    <string name="wb_save_failed">فشل الحفظ، قم تغيير اسم الملف وخاول مرة أخرى</string>
     <string name="del_wb_msg">هل أنت متأكد من أنك تريد حذف الصفحة الحالية؟</string>
 
-    <string name="select_language"> حدد اللغة </string>
+    <string name="select_language">اختر اللغة</string>
     <string name="language_cn">简体中文</string>
     <string name="language_en">English</string>
-    <string name="simple_welcome"> مرحبًا بك في استخدام النظام التفاعلي متعدد الشاشات UClass</string>
-    <string name="simple_not_activated"> النظام التفاعلي متعدد الشاشات غير نشط حاليًا </string>
-    <string name="click_contact_us"> الرجاء DEF ، إذا لم تكن قد اشتريت هذه الخدمة. الرجاء إعادة تشغيل البرنامج ، في حالة شرائه. </string>
-    <string name="DEF"> اتصل بنا </string>
-    <string name="user_msg1">انقر فوق الزر الموجود على اليسار للبدء</string>
+    <string name="simple_welcome">أهلاً بك في ميزة الشاشات المتعددة في UClass!</string>
+    <string name="simple_not_activated"> النظام التفاعلي متعدد الشاشات غير منشط حاليًا </string>
+    <string name="click_contact_us">إذا لم تقم بشراء هذه الخدمة، يرجى DEF. إذا قمت بالشراء، يرجى إعادة تشغيل التطبيق.</string>
+    <string name="DEF">اتصل بنا</string>
+    <string name="user_msg1">انقر فوق الزر الموجود على اليمين للبدء</string>
     <string name="user_msg2"> اضغط على الشاشة وانقر على المربعات التسعة على جانبي الشاشة n\ قم بالتبديل إلى تطبيقات أخرى أو إلى نظام windows </string>
-    <string name="watch_tea_screen"> مشاهدة شاشة المدرس </string>
-    <string name="title_screen_1"> مسح رمز الاستجابة السريعة للإرسال </string>
-    <string name="message_screen_1"> بالنسبة لمستخدمي نظام التشغيل Android ، يرجى مسح الرمز ضوئيًا باستخدام تطبيق ULearning APP </string>
+    <string name="watch_tea_screen">مشاهدة شاشة المعلم</string>
+    <string name="title_screen_1">امسح الرمز للبثّ</string>
+    <string name="message_screen_1"> بالنسبة لمستخدمي نظام التشغيل Android ، يرجى مسح رمز QR باستخدام تطبيق ULearning APP </string>
     <string name="language_ar">عربى</string>
     <string name="language_es">Español</string>
     <string name="language_in">Indonesia</string>
     <string name="language_th">ภาษาไทย</string>
     <string name="language_zh">繁體中文</string>
     <string name="language_fr">Français</string>
-    <string name="ethiopia">أثيوبيا</string>
+    <string name="language_ru">Русский</string>
+    <string name="language_pt">Português</string>
+    <string name="ethiopia">Ethiopia</string>
 
 
     <!--    20230410翻译新增-->
-    <string name="app_name_3">تفاعل UClass متعدد الشاشات</string>
+    <string name="app_name_3">UClass متعدد الشاشات</string>
     <string name="watch_stu_screen">مشاهدة المجموعة</string>
-    <string name="license_0">تنشيط</string>
+    <string name="license_0">منشط</string>
     <string name="license_other">خطأ غير معروف</string>
     <string name="modify">تعديل</string>
     <string name="save">حفظ</string>
     <string name="check_ip_tea">تحقق مما إذا كان عنوان IP ومعلومات الشبكة لشاشة المجموعة متسقة. المسار: إعدادات &gt; الصفحة الرئيسية لشاشة المجموعة &gt; الإعدادات المتقدمة &gt; الشبكة السلكية. إذا كان غير متناسق ، فقم بتعديل عنوان IP لشاشة المجموعة أو قم بتعديل معلومات الشبكة.</string>
-    <string name="check_running_tea">تحقق مما إذا كانت U-Class من شاشة المجموعة تعمل</string>
+    <string name="check_running_tea">تحقق مما إذا كانت U-Class من شاشة المجموعة يعمل</string>
     <string name="try_restart">حاول إيقاف تشغيل برنامج UClass وإعادة تشغيله لشاشات المعلم وشاشات المجموعة.</string>
-    <string name="check_ip_stu">انقر فوق اكتشاف الأخطاء في UClass على شاشة المعلم لعرض معلومات الشبكة. تحقق مما إذا كان عنوان IP ومعلومات الشبكة لشاشة المجموعة متسقة. إذا كان غير متناسق ، فقم بتعديل عنوان IP لشاشة المجموعة أو قم بتعديل معلومات الشبكة.</string>
-    <string name="modify_success_restart">تم التعديل بنجاح ، يرجى إغلاق UClass!</string>
+    <string name="check_ip_stu">الرجاء التحقق مما إذا كان عنوان IP لشاشة المجموعة متوافقًا مع عنوان IP المعين مسبقًا. المسار: شاشة المجموعة - الصفحة الرئيسية &gt; الإعدادات &gt; متقدم &gt; الشبكة السلكية. إذا لم يكن متوافقًا، قم بتغيير عنوان IP لشاشة المجموعة أو عنوان IP المعين مسبقًا.</string>
+    <string name="modify_success_restart">تم التعديل بنجاح ، يرجى إعادة فتح التطبيق!</string>
     <string name="modify_fail_reinput">إذا كان التنسيق غير صحيح ، فيرجى التحقق من المعلمات</string>
-    <string name="device_info">الجهاز الحالي</string>
-    <string name="screen">شاشة</string>
+    <string name="device_info">معلومات الجهاز الحالي</string>
+    <string name="screen">الشاشة</string>
     <string name="mac_addr">عنوان MAC</string>
     <string name="network_info">الشبكة الحالية</string>
-    <string name="network_wifi_warn">الشبكة الحالية: Wi-Fi.لضمان وضوح البث والاستقرار ، يرجى استخدام شبكة سلكية.</string>
-    <string name="network_cur_ip">IP الحالي</string>
-    <string name="license">شهادة</string>
+    <string name="network_wifi_warn">الشبكة الحالية: Wi-Fi.لضمان وضوح واسقرار البث، يرجى استخدام شبكة سلكية.</string>
+    <string name="network_cur_ip">عنوان IP الحالي:</string>
+    <string name="license">الشهادة</string>
     <string name="version">الإصدار</string>
-    <string name="media_port">منفذ الاتصالات</string>
+    <string name="media_port">منفذ الاتصال</string>
     <string name="agent_offline">إذا كانت شاشة المجموعة غير متصلة بالإنترنت:</string>
     <string name="network_group_info">معلومات الشبكات</string>
     <string name="back">رجوع</string>
     <string name="no_group_msg">إذا كانت معلومات الشبكة غير صحيحة، فاستخدم ملف نسخ احتياطي لإصلاحها</string>
-    <string name="update_version" formatted="false">تحديث الإصدار المتاح: UClass٪ s ، محدث أم لا؟</string>
+    <string name="update_version" formatted="false">أحدث إصدار متاح: UClass٪s ، هل تم تحديثه؟</string>
     <string name="is_new_version">الإصدار الحالي هو أحدث إصدار</string>
 
     <!--    自动广播需求-->
     <string name="auto_broadcast_tea_screen">بث شاشة المعلم تلقائيا</string>
     <string name="stu_screen_offline_reminder">إذا كانت شاشة المجموعة غير متصلة بالإنترنت، فتحقق مما إذا كان عميل UClass قيد التشغيل.</string>
-    <string name="groups_checking">الكشف عن...</string>
-    <string name="groups_off_line">غير متصل بالانترنت</string>
-    <string name="groups_on_line">متصل بالانترنت</string>
-    <string name="auto_staring" tools:ignore="TypographyEllipsis">بدء...</string>
-    <string name="auto_start_success">بدأت بنجاح! بث شاشة المعلم إلى شاشة المجموعة.</string>
-    <string name="auto_start_fail">فشل البدء!الرجاء النقر فوق الزر &quot;Screencast&quot; على اليسار لبدء البث يدويا.</string>
+    <string name="groups_checking">جاري التحقق..</string>
+    <string name="groups_off_line">غير متصل</string>
+    <string name="groups_on_line">متصل</string>
+    <string name="auto_staring" tools:ignore="TypographyEllipsis">البدء...</string>
+    <string name="auto_start_success">تم البدء بنجاح! جاري بث شاشة المعلم إلى شاشات المجموعة...</string>
+    <string name="auto_start_fail">فشل البدء! يرجى النقر على زر الشاشات المتعددة على اليمين لبدء البث يدويًا</string>
 
     <!--    投屏界面优化需求 -->
     <string name="yxy_app_name">ULearning</string>
-    <string name="welink_str">وي لينك</string>
+    <string name="welink_str">WeLink</string>
     <string name="idea_share_str">IdeaShare</string>
-    <string name="wifi">واي فاي:</string>
-    <string name="wifi_password">شعار:</string>
-    <string name="storage_permission_reminder">منح أذونات التخزين أولا</string>
+    <string name="wifi">Wi-Fi: </string>
+    <string name="wifi_password">كلمة المرور :</string>
+    <string name="storage_permission_reminder">قم بتمكين أذونات التخزين أولاً!</string>
     <string name="wifi_unknown">غير معروف</string>
 
 
     <!--    20230816新增-->
     <string name="can_not_connection">يرجى فتح صفحة الإرسال والمحاولة مرة أخرى</string>
-    <string name="cannot_connect_in_broadcast">البث ولا يمكن الاتصال</string>
-    <string name="screen_exceed_limit">لقد وصل عدد أجهزة عرض الشاشة التي تدعمها الشاشة الكبيرة إلى الحد الأعلى. يرجى الانتظار حتى ينتهي الأشخاص الآخرون من الإرسال ثم حاول مرة أخرى.</string>
-    <string name="screen_text_other">آخر</string>
-    <string name="msg_apple2">قم بتشغيل AirPlay (نسخ الشاشة) لعرض شاشتك</string>
-    <string name="msg_android3">ابحث عن Ulearning 2.0 APP وقم بتثبيته في سوق تطبيقات الهاتف المحمول، واستخدم تطبيق Ulearning لمسح رمز QR ضوئيًا وعرض الشاشة.</string>
-    <string name="msg_other">ابحث عن IdeaShare وقم بتثبيته في متجر تطبيقات الهاتف المحمول أو المتصفح، وافتح IdeaShare، وأدخل رمز تسجيل الشاشة في الزاوية اليمنى العليا من الشاشة لبث الشاشة.</string>
+    <string name="cannot_connect_in_broadcast">تعذر الاتصال بالشاشة أثناء البث!</string>
+    <string name="screen_exceed_limit">وصل عدد أجهزة بث الشاشة التي تدعمها اللوحة الذكية إلى الحد الأقصى. يرجى الانتظار حتى يخرج شخص ما من البث ثم حاول مرة أخرى.</string>
+    <string name="screen_text_other">أخرى</string>
+    <string name="msg_apple2">استخدم AirPlay  أو Screen Mirroring لعرض شاشتك</string>
+    <string name="msg_android3">ابحث عن تطبيق Ulearning 2.0 وقم بتثبيته في متجر التطبيقات على جهازك المحمول. استخدم تطبيق ULearning لمسح QR للبث.</string>
+    <string name="msg_other">ابحث عن IdeaShare وقم بتثبيته في متجر التطبيقات أو متصفح جهازك. افتح IdeaShare وأدخل رمز البث للبث. يمكنك العثور على الرمز في الزاوية اليمنى العليا من السبورة الذكية.</string>
     <string name="screen_text_wifi_info">اتصل بشبكة WIFI الخاصة بالفصل الدراسي لعرض الشاشة. WIFI: %s \u00A0\u00A0\u00A0 كلمة المرور: %s</string>
-    <string name="screen_text_help">يساعد</string>
-    <string name="yxy_app_name2">ULearning 2.0 APP</string>
-    <string name="screen_text_help_info">يرجى مطالبة المسؤول بالحصول على WIFI وكلمة المرور للفصل الدراسي. انقر فوق زر التحرير لملء اسم WIFI وكلمة المرور لتسهيل المرة التالية التي تتصل فيها بـ WIFI.</string>
-    <string name="wb_tool_name_classroom_blackboard">الكتابة على السبورة الصفية</string>
-    <string name="wb_tool_name_share_board">حصة الكتابة على متن الطائرة</string>
-    <string name="wb_tool_name_save_local">حفظ إلى المحلية</string>
-    <string name="wb_tool_name_helptext">الشاشة الكبيرة عبارة عن جهاز عام، وهناك مخاطر محتملة في حفظ محتوى كتابة اللوحة محليًا. يوصى باستخدام &quot;مشاركة الكتابة على السبورة&quot; لحفظ محتوى السبورة في مساحة الفصل الدراسي ضمن حسابك الشخصي. بعد الحفظ، يمكنك فتح السبورة مرة أخرى في الفصول الدراسية الأخرى لمواصلة التحرير، أو حفظ السبورة ومشاركتها مع الطلاب في هذا الفصل بتنسيق صورة.</string>
+    <string name="screen_text_help">مساعدة</string>
+    <string name="yxy_app_name2">تطبيق Ulearning 2.0</string>
+    <string name="screen_text_help_info">احصل على معلومات Wi-Fi من مسؤول الفصل الدراسي. انقر فوق الزر &quot;تحرير&quot; لإدخال اسم Wi-Fi وكلمة المرور لحفظها للاتصالات المستقبلية.</string>
+    <string name="wb_tool_name_classroom_blackboard">الكتابة على السبورة</string>
+    <string name="wb_tool_name_share_board">مشاركة محتوى السبورة</string>
+    <string name="wb_tool_name_save_local">حفظ محلي</string>
+    <string name="wb_tool_name_helptext">السبورة الذكية هي جهاز عام، وهناك مخاطر محتملة في حفظ السبورة البيضاء على هذا الجهاز. يُنصح باستخدام ميزة &quot;مشاركة المحتوى&quot; لحفظ محتوى السبورة البيضاء في جلسة مقرراتك الدراسية على ULearning في السحابة. بعد الحفظ، يمكنك فتح محتوى السبورة البيضاء من فصل دراسي مختلف للتحرير أو مشاركة المحتوى مع مشاركي جلسة مقررك الدراسي.</string>
     <string name="wb_tool_name_filename">اسم</string>
-    <string name="wb_tool_name_save_local_btn">يحفظ</string>
+    <string name="wb_tool_name_save_local_btn">حفظ محلي</string>
     <string name="wifi_title_text">الرجاء إدخال WIFI وكلمة المرور الخاصة بالفصل الدراسي</string>
-    <string name="wb_tool_name_not_file">لا يوجد ملف لوح معلومات محفوظ</string>
-    <string name="storage_permission_request_hint">يتطلب UClass أذونات التخزين. من أجل تحديد المشاكل التي تحدث أثناء تشغيل البرنامج بسرعة، يحتاج UClass إلى تسجيل سجل تشغيل البرنامج وتخزينه محليًا. الرجاء النقر فوق \ &quot;موافق \&quot; وتمكين أذونات التخزين في واجهة الإعدادات المنبثقة.</string>
+    <string name="wb_tool_name_not_file">محتوى السبورة غير المحفوظ</string>
+    <string name="storage_permission_request_hint">يتطلب UClass أذونات التخزين. لتحديد المشكلات التي تحدث أثناء تشغيل البرنامج بسرعة، يحتاج UClass إلى تسجيل سجلات تشغيل البرنامج وتخزينها محليًا. انقر فوق &quot;موافق&quot; لتمكين أذونات التخزين في النافذة المنبثقة.</string>
 
+    <!--已自己翻译-->
+    <string name="double_writing_is_not_allowed">الكتابة المزدوجة غير مسموحة في وضع الكتابة هذا!</string>
     <string name="record_occupation_hint">تستخدم التطبيقات الأخرى ميزة تسجيل الشاشة ، لذلك يتوقف التطبيق عن تسجيل الشاشة</string>
 
-    </resources>
+    <string name="protocol_inconformity">تكوين البث غير متسق. يرجى التحقق من إعدادات البث.</string>
+    <string name="clear">إعادة ضبط</string>
+    <string name="ip_error_msg">عنوان IP للشبكة غير متوافق مع عنوان IP المعين مسبقاً</string>
+    <string name="network_error_msg">الشبكة الحالية غير متوفرة، الرجاء التحقق من اتصال الشبكة.</string>
+    <string name="received_data">استقبال البيانات</string>
+    <string name="send_data">إرسال البيانات</string>
+    <string name="multicast_test">اختبار بث المجموعة</string>
+    <string name="single_test">اختبار البث الفردي</string>
+
+    <string name="load_network_info">تحديث معلومات المجموعة</string>
+    <string name="network_error_msg2">الشبكة الحالية غير مستقرة ، يرجى التأكد من جودة الشبكة</string>
+
+    <string name="wb_toast_not_support">لا يدعم هذا الجهاز استخدام السبورات</string>
+
+</resources>

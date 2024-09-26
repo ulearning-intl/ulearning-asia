@@ -8,11 +8,11 @@
     "description": "项目的语言标记，使用以下代码，英语en，法语fr，西班牙语es，葡萄牙语pt，俄语ru，阿拉伯语ar，泰语th，印尼语id，简体中文zh，繁体中文tw,阿姆西语am"
   },
   "name": {
-    "message": "‏‏العربية",
+    "message": "简体中文",
     "description": "UClass界面的语言选择，各种语言使用本语的名称表达简体中文 繁體中文 English Français Español Português Русский ไทย Bahasa Indonesia العربية Amharic"
   },
   "Utitle": {
-    "message": "فصل ULearning الذكي",
+    "message": "فصول ULearning الذكية",
     "description": "smart-classroom 项目"
   },
   "switchLang": {
@@ -20,7 +20,7 @@
     "description": "smart-classroom 项目"
   },
   "common.netError": {
-    "message": "حدث خطأ فى الشبكة",
+    "message": "خطأ في الشبكة",
     "description": "smart Class"
   },
   "common.cancel": {
@@ -44,15 +44,15 @@
     "description": "smart-classroom 项目"
   },
   "common.cancelSuccess": {
-    "message": "تم الإلغاء بنجاح",
+    "message": "تم الإلغاء بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.finish": {
-    "message": "‏‏النهاية",
+    "message": "إنهاء",
     "description": "smart-classroom 项目"
   },
   "common.finishSuccess": {
-    "message": "انتهت بنجاح!",
+    "message": "تم الإنهاء بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.deleteSuccess": {
@@ -60,39 +60,35 @@
     "description": "smart-classroom 项目"
   },
   "common.noContent": {
-    "message": "لا يوجد محتوى حتى الآن",
+    "message": "لا يوجد محتوى",
     "description": "smart-classroom 项目"
   },
   "common.select": {
-    "message": "الرجاء الاختيار",
+    "message": "الرجاء الإختيار",
     "description": "smart-classroom 项目"
   },
   "common.restartSuccess": {
-    "message": "تم إعادة الفتح بنجاح!",
+    "message": "تمت إعادة الفتح بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.restartFailed": {
-    "message": "لم نتمكن من إعادة الفتح!",
+    "message": "فشل إعادة الفتح!",
     "description": "smart-classroom 项目"
   },
   "common.deleteFailed": {
-    "message": "لم نتمكن من الحذف",
+    "message": "فشل الحذف",
     "description": "smart-classroom 项目"
   },
   "common.finishFail": {
-    "message": "لم نتمكن من إنهاء الجلسة!",
-    "description": "smart-classroom 项目"
-  },
-  "common.operateFailed": {
-    "message": "لم نتمكن من إجراء العملية!",
+    "message": "فشل إنهاء الجلسة",
     "description": "smart-classroom 项目"
   },
   "common.operateSuccess": {
-    "message": "تم إجراء العملية بنجاح!",
+    "message": "تمت العملية بنجاح!",
     "description": "smart-classroom 项目"
   },
   "common.remind": {
-    "message": " تذكير ",
+    "message": "تذكير",
     "description": "smart-classroom 项目"
   },
   "common.create": {
@@ -100,7 +96,7 @@
     "description": "smart-classroom 项目"
   },
   "common.finish2": {
-    "message": "مكتمل",
+    "message": "إكتمل",
     "description": "smart-classroom 项目"
   },
   "classroom.currentCourse": {
@@ -112,11 +108,11 @@
     "description": "smart Class"
   },
   "classroom.nums": {
-    "message": "المحاضرات: {count}",
+    "message": "الجلسات : {count} جلسة",
     "description": "smart Class"
   },
   "classroom.createClassroom": {
-    "message": "إنشاء محاضرة",
+    "message": "إنشاء جلسة",
     "description": "smart Class"
   },
   "classroom.classes": {
@@ -132,23 +128,23 @@
     "description": "smart Class"
   },
   "classroom.interactive": {
-    "message": "التفاعل",
+    "message": "أنشطة تفاعلية",
     "description": "smart Class"
   },
   "classroom.view": {
-    "message": "عرض",
+    "message": "العرض",
     "description": "smart Class"
   },
   "classroom.noClassroomTip": {
-    "message": "ليس لديك محاضرة حتى الآن. يمكنك إنشاء واحدة لآن. ",
+    "message": "ليس لديك جلسة محاضرة حتى الآن. يمكنك إنشاء واحدة لآن.",
     "description": "smart Class"
   },
   "classroom.noClassroomTip1": {
-    "message": "هل تم إنشاء محاضرة؟",
+    "message": "هل تم إنشاء جلسة محاضرة مسبقاً؟",
     "description": "smart Class"
   },
   "classroom.noClassroomTip2": {
-    "message": "لم يقم المعلم بعد بإنشاء فصل دراسي ، يرجى الانتظار حتى يقوم المعلم بإنشاء المعلم أو الاتصال به.",
+    "message": "لم يقم المعلم بعد بإنشاء فصل دراسي ، يرجى الانتظار أو الاتصال بالمعلم.",
     "description": "smart-classroom 项目"
   },
   "classroom.refresh": {
@@ -267,10 +263,6 @@
     "message": "تم الحذف بنجاح!",
     "description": "smart Class"
   },
-  "classroom.developmentTip": {
-    "message": "الوظيفة / الخاصية غير متوفرة حتى الآن!",
-    "description": "smart Class"
-  },
   "classroom.classEnded": {
     "message": "المحاضرة إنتهت",
     "description": "smart Class"
@@ -289,10 +281,6 @@
   },
   "classroom.interactions": {
     "message": "التفاعلات",
-    "description": "smart Class"
-  },
-  "classroom.interactionsDesc": {
-    "message": "# من التفاعلات = مجموع المشاركين النشطين في كل نشاط",
     "description": "smart Class"
   },
   "classroom.classReport": {
@@ -359,10 +347,6 @@
     "message": "لم نتمكن من التكرار",
     "description": "smart-classroom 项目"
   },
-  "classroom.classroomTitle": {
-    "message": "المحاضرة - {date}",
-    "description": "smart-classroom 项目"
-  },
   "classroom.noSearchData": {
     "message": "لم يتم العثور على محتوى مرغوب فيه!",
     "description": "smart-classroom 项目"
@@ -385,10 +369,6 @@
   },
   "classroom.time": {
     "message": "وقت الفصل.",
-    "description": "smart-classroom 项目"
-  },
-  "classroom.interactionsDesc1": {
-    "message": "عدد التفاعلات - العدد الإجمالي للمشاركين الذين صوتوا، واختاروا، وأجابوا، وسجلوا، ونوقشت في الصف",
     "description": "smart-classroom 项目"
   },
   "login.welcomeTip": {
@@ -691,10 +671,6 @@
     "message": "محتوى المناقشة لا يكفي استعادة الكلمات الرئيسية",
     "description": "smart-classroom 项目"
   },
-  "discuss.discussTitle": {
-    "message": "المناقشة - {date}",
-    "description": "smart-classroom 项目"
-  },
   "discuss.allDiscuss": {
     "message": "كل المناقشات ",
     "description": "smart-classroom 项目"
@@ -735,10 +711,6 @@
     "message": "ادخل العنصر القابل للتقدير",
     "description": "smart Class"
   },
-  "score.score": {
-    "message": "الدرجات:",
-    "description": "smart Class"
-  },
   "score.startNow": {
     "message": "ابدأ الآن",
     "description": "smart Class"
@@ -761,10 +733,6 @@
   },
   "score.member": {
     "message": "الأعضاء:",
-    "description": "smart Class"
-  },
-  "score.enterObject": {
-    "message": "يرجى إدخال الطالب (الطلاب) لتتم المراجعة",
     "description": "smart Class"
   },
   "score.allClsses": {
@@ -791,16 +759,8 @@
     "message": "لم يتم العثور على مراجعات الأقران",
     "description": "smart-classroom 项目"
   },
-  "score.evaluatedScore": {
-    "message": "درجات مراجعة الأقران",
-    "description": "smart-classroom 项目"
-  },
   "score.startAgainEvaluation": {
     "message": "إعادة فتح مراجعة الأقران",
-    "description": "smart-classroom 项目"
-  },
-  "score.endEvaluation": {
-    "message": "إنهاء مراجعة الأقران",
     "description": "smart-classroom 项目"
   },
   "score.evaluated": {
@@ -907,10 +867,6 @@
     "message": "انقر فوق الزر الموجود على اليسار لإضافة مراجعة",
     "description": "smart-classroom 项目"
   },
-  "score.endScore": {
-    "message": "إنهاء مراجعة الأقران",
-    "description": "smart-classroom 项目"
-  },
   "score.endedEvaluation": {
     "message": "انتهت مراجعة الأقران",
     "description": "smart-classroom 项目"
@@ -945,10 +901,6 @@
   },
   "score.leftScore": {
     "message": "الدرجات المتبقية",
-    "description": "smart-classroom 项目"
-  },
-  "score.scoreTitle": {
-    "message": "مراجعة الأقران - {date}",
     "description": "smart-classroom 项目"
   },
   "score.objectNums": {
@@ -1023,10 +975,6 @@
     "message": "الدرجات الافتراضية",
     "description": "smart Class"
   },
-  "pick.pickTitle": {
-    "message": "اختيار عشوائي - {date}",
-    "description": "smart-classroom 项目"
-  },
   "pick.pickFromAttd": {
     "message": "الاختيار من بين كل الحاضرين",
     "description": "smart-classroom 项目"
@@ -1063,10 +1011,6 @@
     "message": "تسجيل الدخول عبر رمز الاستجابة السريع",
     "description": "smart Class"
   },
-  "attendence.phoneScan": {
-    "message": "قم بمسح رمز الاستجابة السريع باستخدام جوالك",
-    "description": "smart Class"
-  },
   "attendence.phoneScanNew": {
     "message": "يتم دعم الطلاب فقط لاستخدام هواتفهم المحمولة",
     "description": "smart-classroom 项目"
@@ -1099,10 +1043,6 @@
     "message": "عرض قائمة الحضور",
     "description": "smart Class"
   },
-  "attendence.endSign": {
-    "message": "إنهاء مكالمة الاسماء الحالية",
-    "description": "smart Class"
-  },
   "attendence.code": {
     "message": "رمز الاستجابة السريع",
     "description": "smart Class"
@@ -1118,10 +1058,6 @@
   "attendence.peopleNum": {
     "message": "# من الطلاب",
     "description": "smart Class"
-  },
-  "attendence.attendenceTitle": {
-    "message": "أسماء الحضور - {date}",
-    "description": "smart-classroom 项目"
   },
   "attendence.changeStatus": {
     "message": "انقر فوق صورة ملف الطالب لتغيير حالة تسجيل الدخوله",
@@ -1339,28 +1275,12 @@
     "message": "تهانينا على اختيار المعلم!",
     "description": "smart-classroom 项目"
   },
-  "student.discuss1": {
-    "message": "كيف تختار؟",
-    "description": "smart-classroom 项目"
-  },
   "student.submit": {
     "message": "إرسال",
     "description": "smart-classroom 项目"
   },
-  "student.teamEvaluation": {
-    "message": "تقييم مجموعة الممارسة",
-    "description": "smart-classroom 项目"
-  },
-  "student.howPoints": {
-    "message": "نقاط {num}",
-    "description": "smart-classroom 项目"
-  },
   "student.fullMarks": {
     "message": "الدرجة الكاملة: {num}",
-    "description": "smart-classroom 项目"
-  },
-  "student.totalFew": {
-    "message": "إجمالي {num}\n",
     "description": "smart-classroom 项目"
   },
   "student.combined": {
@@ -1385,10 +1305,6 @@
   },
   "student.finishSuccess": {
     "message": "تسجيل الوصول كان ناجحا! يرجى عرض النتائج على شاشة المعلم.",
-    "description": "smart-classroom 项目"
-  },
-  "student.voteErr": {
-    "message": "تعذر الاستطلاع",
     "description": "smart-classroom 项目"
   },
   "student.maxSelectableCount": {
@@ -1459,20 +1375,8 @@
     "message": "نص لنشاط الفئة هذا",
     "description": "smart-classroom 项目"
   },
-  "student.average": {
-    "message": "متوسط الدرجات",
-    "description": "smart-classroom 项目"
-  },
   "student.myScore": {
     "message": "بلدي استعراض الأقران",
-    "description": "smart-classroom 项目"
-  },
-  "student.pleaseIndicate": {
-    "message": "يرجى تقييم المجيبين",
-    "description": "smart-classroom 项目"
-  },
-  "student.iWillGiveScore": {
-    "message": "أنا تقييم المواضيع",
     "description": "smart-classroom 项目"
   },
   "student.deleteUnInvolved": {
@@ -1583,20 +1487,12 @@
     "message": "استطلاعات الراي",
     "description": "smart Class"
   },
-  "screen.question": {
-    "message": "سؤال اختبار/ امتحان",
-    "description": "smart Class"
-  },
   "screen.score": {
     "message": "تقييم الزملاء",
     "description": "smart Class"
   },
   "screen.resource": {
     "message": "المصادر",
-    "description": "smart Class"
-  },
-  "screen.homework": {
-    "message": "الواجبات",
     "description": "smart Class"
   },
   "screen.discussion": {
@@ -1613,10 +1509,6 @@
   },
   "screen.collapse": {
     "message": "إخفاء",
-    "description": "smart Class"
-  },
-  "screen.expand": {
-    "message": "عرض ",
     "description": "smart Class"
   },
   "screen.beginClass": {
@@ -1645,10 +1537,6 @@
   },
   "screen.wordCloud": {
     "message": "سحابة الكلمات",
-    "description": "smart Class"
-  },
-  "screen.toTop": {
-    "message": "أعلى",
     "description": "smart Class"
   },
   "screen.menu": {
@@ -1735,14 +1623,6 @@
     "message": "يجب الإجابة عليه",
     "description": "smart-classroom 项目"
   },
-  "screen.history": {
-    "message": "تاريخ",
-    "description": "smart-classroom 项目"
-  },
-  "screen.openFromResource": {
-    "message": "فتح من مورد",
-    "description": "smart-classroom 项目"
-  },
   "screen.recentOpen": {
     "message": "تم افتتاحه مؤخرا",
     "description": "smart-classroom 项目"
@@ -1781,10 +1661,6 @@
   },
   "vote.notMust": {
     "message": "انقر لإدخال الاختيار (اختياري)",
-    "description": "smart-classroom 项目"
-  },
-  "vote.must": {
-    "message": "مطلوب",
     "description": "smart-classroom 项目"
   },
   "vote.options": {
@@ -1835,10 +1711,6 @@
     "message": "كل الفصول",
     "description": "smart-classroom 项目"
   },
-  "vote.endVote": {
-    "message": "إنهاء استطلاع الرأي",
-    "description": "smart-classroom 项目"
-  },
   "vote.unVoteNum": {
     "message": "# من الذي لم يصوت",
     "description": "smart-classroom 项目"
@@ -1875,14 +1747,6 @@
     "message": "تبديل الفصل",
     "description": "smart-classroom 项目"
   },
-  "vote.voteEnded": {
-    "message": "انتهى الاستطلاع",
-    "description": "smart-classroom 项目"
-  },
-  "vote.voteTitle": {
-    "message": "استطلاع الرأي - {date} ",
-    "description": "smart-classroom 项目"
-  },
   "vote.optionsNum": {
     "message": "عدد الطلاب المختارون",
     "description": "smart-classroom 项目"
@@ -1895,10 +1759,6 @@
     "message": "# من المشاركين",
     "description": "smart-classroom 项目"
   },
-  "answer.endAnswer": {
-    "message": "إنهاء التنافس للإجابة",
-    "description": "smart-classroom 项目"
-  },
   "answer.endAnswerConfirm": {
     "message": "هل تريد إنهاء التنافس على الإجابة؟",
     "description": "smart-classroom 项目"
@@ -1909,10 +1769,6 @@
   },
   "answer.noStu": {
     "message": "لا توجد مشاركة طلابية",
-    "description": "smart-classroom 项目"
-  },
-  "answer.answerTitle": {
-    "message": "التنافس على الإجابة - {date}",
     "description": "smart-classroom 项目"
   },
   "answer.selectStu": {
@@ -1949,22 +1805,6 @@
   },
   "live.attdenceLive": {
     "message": "المشاركات في المحاضرة المباشرة ({ count }) ",
-    "description": "smart-classroom 项目"
-  },
-  "live.invite": {
-    "message": "يدعو",
-    "description": "smart-classroom 项目"
-  },
-  "live.handing": {
-    "message": "رفع اليد...",
-    "description": "smart-classroom 项目"
-  },
-  "live.allow": {
-    "message": "السماح",
-    "description": "smart-classroom 项目"
-  },
-  "live.speaking": {
-    "message": "تحدث...",
     "description": "smart-classroom 项目"
   },
   "live.classLive": {
@@ -2139,10 +1979,6 @@
     "message": "اتصل بنا",
     "description": "smart-classroom 项目"
   },
-  "multiScreen.activationPrompt1": {
-    "message": "جهازك الحالي لا ينشط التفاعل متعدد الشاشات، إذا كنت قد اشتريت خدماتنا يرجى النقر على الزر أدناه للكشف عن الشبكة",
-    "description": "smart-classroom 项目"
-  },
   "multiScreen.detection": {
     "message": "الكشف عن",
     "description": "smart-classroom 项目"
@@ -2207,10 +2043,6 @@
     "message": "ULearning 2.0 APP",
     "description": "smart-classroom 项目"
   },
-  "loginCode.msg3": {
-    "message": "افتح \"ULearning 2.0 APP\" وانقر على الزاوية اليمنى العليا للمسح\nL",
-    "description": "smart-classroom 项目"
-  },
   "loginCode.msg4": {
     "message": "يرجى تأكيد تسجيل الدخول على ULearning 2.0APP",
     "description": "smart-classroom 项目"
@@ -2253,10 +2085,6 @@
   },
   "candidates.numberRandom": {
     "message": "عدد الطلاب للاختيار",
-    "description": "smart-classroom 项目"
-  },
-  "candidates.studentid": {
-    "message": "هوية الطالب",
     "description": "smart-classroom 项目"
   },
   "candidates.notPickMember": {
@@ -2349,10 +2177,6 @@
   },
   "faultDetect.msg15": {
     "message": "طبيعي",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg16": {
-    "message": "منتهي الصلاحية",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg17": {
@@ -2449,10 +2273,6 @@
   },
   "faultDetect.msg40": {
     "message": "مجموعة",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg41": {
-    "message": "لاسلكي",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg42": {
@@ -2591,14 +2411,6 @@
     "message": "يمكنك تحديد ما يصل إلى 6 ميزات مستخدمة بشكل متكرر",
     "description": "smart-classroom 项目"
   },
-  "photoUpload.msg3": {
-    "message": "يقوم الطلاب بتحميل الصور لعرض الفصل الدراسي",
-    "description": "smart-classroom 项目"
-  },
-  "photoUpload.msg4": {
-    "message": "السماح للطلاب بعرض صور للطلاب الآخرين",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg5": {
     "message": "شارك مع الطلاب",
     "description": "smart-classroom 项目"
@@ -2619,10 +2431,6 @@
     "message": "هل أنت متأكد من أنك تريد إزالة التعليقات التوضيحية؟",
     "description": "smart-classroom 项目"
   },
-  "photoUpload.msg10": {
-    "message": "شارك الصورة أو التعليقات التوضيحية لجميع الطلاب في الجلسة.يمكن للطلاب عرض الصورة أو التعليقات التوضيحية لاحقًا.",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg11": {
     "message": "يتم إنشاء لقطة الشاشة ...",
     "description": "smart-classroom 项目"
@@ -2637,10 +2445,6 @@
   },
   "photoUpload.msg14": {
     "message": "بعد الإزالة ، لا يمكن استعادة الصور المقدمة من الطلاب.يحتاج الطلاب إلى إعادة تقديمها.هل أنت متأكد من أنك تريد إزالة؟لن يتمكن الطلاب من إعادة تقديمه إذا انتهى النشاط.",
-    "description": "smart-classroom 项目"
-  },
-  "photoUpload.msg15": {
-    "message": "هل أنت متأكد أنك تريد إنهاء هذا النشاط؟",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg16": {
@@ -2673,10 +2477,6 @@
   },
   "tencentMeeting.msg1": {
     "message": "قم بتشغيل التسجيل السحابي تلقائيًا",
-    "description": "smart-classroom 项目"
-  },
-  "tencentMeeting.msg2": {
-    "message": "يوفر إصدار Voov Meeting Free Storage سحابة بسعة 1 جيجا بايت ويمكنه تسجيل الاجتماع لمدة 3 ساعات تقريبًا.يتم تخزين التسجيلات في Ulearning والاحتفاظ بها لمدة 180 يومًا.يمكنك التنزيل ثم إزالة التسجيلات لحفظ مساحة التخزين السحابية.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg3": {
@@ -2719,24 +2519,12 @@
     "message": "جارى المعالجة .. انتظر من فضلك.",
     "description": "smart-classroom 项目"
   },
-  "whiteboard.youNotLogin": {
-    "message": "لم يتم تسجيل الدخول. يرجى تسجيل الدخول ثم حفظه إلى الفصل الدراسي.",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.scanAPP": {
-    "message": "استخدم تطبيق ULearning للمسح الضوئي",
-    "description": "smart-classroom 项目"
-  },
   "whiteboard.designation": {
     "message": "اسم",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClass": {
     "message": "حدد الجلسة",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.exportImages": {
-    "message": "تصدير الصور",
     "description": "smart-classroom 项目"
   },
   "whiteboard.open": {
@@ -2755,18 +2543,6 @@
     "message": "الرجاء تحديد الجلسة",
     "description": "smart-classroom 项目"
   },
-  "whiteboard.msg1": {
-    "message": "بعد الادخار ، يمكن للمعلمين والطلاب مشاهدة لقطات الشاشة السبورة على شاشة الفصل الدراسي.يمكن للمعلمين أيضًا تنزيل وتحرير لقطات الشاشة من Whiteboard من شاشة فصل دراسي آخر.",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.msg2": {
-    "message": "لقد قمت بنجاح حفظ لقطة الشاشة والملف المصدر إلى {name}.يمكن للطلاب مشاهدة لقطة الشاشة للوحة البيضاء في شاشة الفصل الدراسي ، ويمكنك تنزيل لقطة الشاشة للوحة البيضاء وتحريرها من شاشة فصل دراسي آخر.",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.msg3": {
-    "message": "بعد الادخار ، يمكن للمعلمين والطلاب مشاهدة لقطات الشاشة السبورة على شاشة الفصل الدراسي.يمكن للمعلمين أيضًا تنزيل وتحرير لقطات الشاشة من Whiteboard من شاشة فصل دراسي آخر.",
-    "description": "smart-classroom 项目"
-  },
   "whiteboard.msg4": {
     "message": "لقد قمت بنجاح حفظ السبورة إلى {name} ويمكنك الآن عرضها في ملفات الفصل الدراسي",
     "description": "smart-classroom 项目"
@@ -2777,10 +2553,6 @@
   },
   "whiteboard.saveErr": {
     "message": "فشل في حفظ ، غير قادر على الاتصال بالخادم.",
-    "description": "smart-classroom 项目"
-  },
-  "remark.allCourse": {
-    "message": "جميع الدورات",
     "description": "smart-classroom 项目"
   },
   "remark.remark": {
@@ -2863,58 +2635,6 @@
     "message": "باءت بالفشل",
     "description": "smart-classroom 项目"
   },
-  "discuss.durationInput": {
-    "message": "الرجاء إدخال مدة",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes2": {
-    "message": "2 دقيقة",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes5": {
-    "message": "5 دقائق",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes10": {
-    "message": "10 دقائق",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes15": {
-    "message": "15 دقيقة",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes20": {
-    "message": "20 دقيقة",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.timeReman": {
-    "message": "الوقت المتبقي:",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.sureOpenDis": {
-    "message": "هل أنت متأكد أنك تريد إعادة بدء هذه المناقشات？",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.openScsuss": {
-    "message": "بدأت بنجاح!",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.opnFail": {
-    "message": "فشل في البدء!",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.sureEndDis": {
-    "message": "هل أنت متأكد أنك تريد إنهاء هذه المناقشات？",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.endSecess": {
-    "message": "انتهى بنجاح!",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.endFail": {
-    "message": "فشل في النهاية!",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg20": {
     "message": "يقوم الطلاب بتحميل الصور/مقاطع الفيديو لعرض الفصل الدراسي",
     "description": "smart-classroom 项目"
@@ -2949,10 +2669,6 @@
   },
   "score.inputWeightTip": {
     "message": "لا يمكن أن يكون الوزن فارغا",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputWeightTip1": {
-    "message": "الرجاء إدخال وزن صحيح",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
@@ -3009,14 +2725,6 @@
   },
   "score.fullmarks": {
     "message": "الدرجة النهائية",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputFullmarkTip": {
-    "message": "لا يمكن أن تكون النتيجة المثالية فارغة",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "الرجاء إدخال قيمة نقطة صحيحة",
     "description": "smart-classroom 项目"
   },
   "score.scoreSettings": {
@@ -3087,10 +2795,6 @@
     "message": "لا يوجد بث مباشر اليوم",
     "description": "smart-classroom 项目"
   },
-  "welink.bindAccount": {
-    "message": "ربط الحساب",
-    "description": "smart-classroom 项目"
-  },
   "welink.bindMsg": {
     "message": "يرجى تعيين حساب UClass الخاص بك وبعد ذلك يمكنك استخدام WeLink لمسح الرمز لتسجيل الدخول.",
     "description": "smart-classroom 项目"
@@ -3121,10 +2825,6 @@
   },
   "faultDetect.msg49": {
     "message": "تحديث عنوان IP",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg50": {
-    "message": "منفذ الاتصال مشغول ، يرجى الاتصال بنا لإعادة التكوين.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg51": {
@@ -3247,10 +2947,6 @@
     "message": "هناك العديد من الإجابات الصحيحة على هذا السؤال",
     "description": "smart-classroom 项目"
   },
-  "answerSheet.contentNull": {
-    "message": "لا يمكن أن يكون العنوان فارغا",
-    "description": "smart-classroom 项目"
-  },
   "answerSheet.scoreCorrectScore": {
     "message": "شارك في نقاط {score} وأجب بشكل صحيح {correctScore} النقاط",
     "description": "smart-classroom 项目"
@@ -3347,28 +3043,12 @@
     "message": "المشاركة إلى الفصل",
     "description": "smart-classroom 项目"
   },
-  "wxwb.msg1": {
-    "message": "المسح الضوئي باستخدام تطبيق ULearning لمشاركة محتوى السبورة البيضاء في جلسة الدورة التدريبية",
-    "description": "smart-classroom 项目"
-  },
   "wxwb.msg2": {
     "message": "امسح الرمز ضوئيا وخذه بعيدا",
     "description": "smart-classroom 项目"
   },
-  "wxwb.msg3": {
-    "message": "المسح الضوئي باستخدام تطبيق ULearning",
-    "description": "smart-classroom 项目"
-  },
   "wxwb.msg4": {
     "message": "انقر هنا ل ",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.msg5": {
-    "message": "امسح الرمز ضوئيا لأخذ كتاب اللوحة",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.msg6": {
-    "message": "المسح الضوئي لتسجيل الدخول باستخدام تطبيق ULearning",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink1": {
@@ -3639,14 +3319,6 @@
     "message": "المعلم في جلسة مباشرة",
     "description": "smart-classroom 项目"
   },
-  "welink.welinkMeeting": {
-    "message": "ويب ويب",
-    "description": "smart-classroom 项目"
-  },
-  "custom.newQrMsg": {
-    "message": "استخدم تطبيق ULearning لمسح رمز الاستجابة السريعة للمشاركة",
-    "description": "smart-classroom 项目"
-  },
   "wx.newMsg": {
     "message": "يقوم الطلاب بفحص رمز الاستجابة السريعة على تطبيق Ulearning للدخول إلى الجلسة",
     "description": "smart-classroom 项目"
@@ -3675,14 +3347,6 @@
     "message": "انقر لإدخال متطلبات الأسئلة والكلمات الرئيسية",
     "description": "smart-classroom 项目"
   },
-  "answerSheet.recordFail": {
-    "message": "لم يتم اكتشاف صوت واضح.انقر لإعادة تشغيل الصوت.",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.recordQuestion": {
-    "message": "يرجى ذكر متطلبات سؤالك",
-    "description": "smart-classroom 项目"
-  },
   "answerSheet.startQuestion": {
     "message": "يبدأ",
     "description": "smart-classroom 项目"
@@ -3707,14 +3371,6 @@
     "message": "رمز الاستجابة السريعة صالحة اليوم",
     "description": "smart-classroom 项目"
   },
-  "wxwb.newMsg3": {
-    "message": "مسح مع تطبيق ULearning",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.newMsg6": {
-    "message": "مسح لتسجيل الدخول باستخدام تطبيق ULearning",
-    "description": "smart-classroom 项目"
-  },
   "activate.enterActivationCode": {
     "message": "أدخل رمز التفعيل",
     "description": "smart-classroom 项目"
@@ -3733,14 +3389,6 @@
   },
   "integrating.active": {
     "message": "نشاط",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.stuAddScore": {
-    "message": "أضف نقاطًا إلى الطلاب",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.groupAddScore": {
-    "message": "أضف نقاطًا إلى المجموعات",
     "description": "smart-classroom 项目"
   },
   "integrating.addScore": {
@@ -3915,10 +3563,6 @@
     "message": "كتاب مجلس الفصل الدراسي",
     "description": "smart-classroom 项目"
   },
-  "wx.msg1": {
-    "message": "يقوم الطلاب بمسح الرمز ضوئيا للدخول إلى الفصل الدراسي على التطبيق",
-    "description": "smart-classroom 项目"
-  },
   "screen.others": {
     "message": "أخرى",
     "description": "smart-classroom 项目"
@@ -3957,130 +3601,6 @@
   },
   "huaweiLive.msg": {
     "message": "لا توجد غرف سحابية متاحة، يرجى الاتصال بمسؤول المدرسة لإضافة",
-    "description": "smart-classroom 项目"
-  },
-  "intelligentAssistant": {
-    "message": "المساعدين الأذكياء",
-    "description": "smart-classroom 项目"
-  },
-  "enterQuestion": {
-    "message": "الرجاء إدخال سؤالك",
-    "description": "smart-classroom 项目"
-  },
-  "stopAnswering": {
-    "message": "توقف عن الإجابة",
-    "description": "smart-classroom 项目"
-  },
-  "allLoaded": {
-    "message": "جميع محملة",
-    "description": "smart-classroom 项目"
-  },
-  "aILoaing": {
-    "message": "فكر...",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip1": {
-    "message": "مرحبا ، أنا مساعد ذكي في UClass.",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip2": {
-    "message": "هنا يمكنك طرح الأسئلة في أي وقت ، ويمكنني الإجابة على أسئلتك ، وتوفير المعرفة والإلهام ، تعال وجربها.",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip3": {
-    "message": "قد ترغب في طرح السؤال:",
-    "description": "smart-classroom 项目"
-  },
-  "screen.aiResourceSearch": {
-    "message": "استرجاع الموارد الذكي",
-    "description": "smart-classroom 项目"
-  },
-  "screen.inputKeyword": {
-    "message": "أدخل كلمة رئيسية",
-    "description": "smart-classroom 项目"
-  },
-  "screen.pinputKeyword": {
-    "message": "أدخل كلمة رئيسية",
-    "description": "smart-classroom 项目"
-  },
-  "screen.inputKeywordTip": {
-    "message": "الرجاء إدخال البحث عن الكلمات المفتاحية",
-    "description": "smart-classroom 项目"
-  },
-  "screen.noDataTip": {
-    "message": "لا توجد نتائج بحث ~",
-    "description": "smart-classroom 项目"
-  },
-  "screen.mooc": {
-    "message": "MOOC",
-    "description": "smart-classroom 项目"
-  },
-  "screen.smartedu": {
-    "message": "التعليم الذكي في الصين",
-    "description": "smart-classroom 项目"
-  },
-  "screen.pleaseKeyWord": {
-    "message": "أدخل كلمة رئيسية",
-    "description": "smart-classroom 项目"
-  },
-  "screen.abstract": {
-    "message": "ملخص:",
-    "description": "smart-classroom 项目"
-  },
-  "screen.uLearn": {
-    "message": "ULearning",
-    "description": "smart-classroom 项目"
-  },
-  "screen.noMore": {
-    "message": "نكتفى بهذا القدر",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.sendStudents": {
-    "message": "أرسل إلى الطلاب",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.beBeingSent": {
-    "message": "إرسال...",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.picture": {
-    "message": "صورة",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.video": {
-    "message": "مقطع فيديو",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.audio": {
-    "message": "مقاطع صوت",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.document": {
-    "message": "مستند",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.haveBeen": {
-    "message": "تم الحفظ",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.doNotSet": {
-    "message": "غير مضبوط مؤقتا",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.notPreview": {
-    "message": "الملف لا يدعم المعاينة عبر الإنترنت",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.notResourse": {
-    "message": "عذرا ، لا توجد موارد في الوقت الحالي",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.aiGenerate": {
-    "message": "يتم إنشاء المحتوى التالي تلقائيا بواسطة الجهاز وهو للإشارة فقط",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.summaryGeneration": {
-    "message": "يتم إنشاء الملخص",
     "description": "smart-classroom 项目"
   },
   "whiteboard.whiteBoardTips": {

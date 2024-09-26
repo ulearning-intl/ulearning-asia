@@ -80,7 +80,7 @@
     "description": "smart-classroom 项目"
   },
   "common.finishFail": {
-    "message": "Failed to end the session!",
+    "message": "Failed to end!",
     "description": "smart-classroom 项目"
   },
   "common.operateSuccess": {
@@ -128,7 +128,7 @@
     "description": "smart Class"
   },
   "classroom.interactive": {
-    "message": "Activities",
+    "message": "Interactive Activities",
     "description": "smart Class"
   },
   "classroom.view": {
@@ -148,7 +148,7 @@
     "description": "smart-classroom 项目"
   },
   "classroom.refresh": {
-    "message": "Click here to refresh",
+    "message": "Click here to refresh!",
     "description": "smart Class"
   },
   "classroom.noCourseTip2": {
@@ -176,7 +176,7 @@
     "description": "smart-classroom 项目"
   },
   "classroom.step2": {
-    "message": "Create/Add Class",
+    "message": "Add Class",
     "description": "smart-classroom 项目"
   },
   "classroom.step3": {
@@ -232,11 +232,11 @@
     "description": "smart Class"
   },
   "classroom.classroomTips1": {
-    "message": "The session name cannot be empty!",
+    "message": "Session name cannot be empty!",
     "description": "smart Class"
   },
   "classroom.classroomTips3": {
-    "message": "The session name cannot exceed 50 characters!",
+    "message": "Session name cannot exceed 50 characters!",
     "description": "smart-classroom 项目"
   },
   "classroom.classroomTips2": {
@@ -264,7 +264,7 @@
     "description": "smart Class"
   },
   "classroom.classEnded": {
-    "message": "Session ended",
+    "message": "Session Has Ended",
     "description": "smart Class"
   },
   "classroom.classAgain": {
@@ -272,7 +272,7 @@
     "description": "smart Class"
   },
   "classroom.arrivalRate": {
-    "message": "Attendance Rate ",
+    "message": "Attendance",
     "description": "smart Class"
   },
   "classroom.noRollCall": {
@@ -288,11 +288,11 @@
     "description": "smart Class"
   },
   "classroom.classReportDesc1": {
-    "message": "Please refer to the session report for detailed data. ",
+    "message": "For the detailed classroom session data, please check the session report.",
     "description": "smart Class"
   },
   "classroom.classReportDesc2": {
-    "message": "You can also view it on ULearning mobile app.",
+    "message": "You can also view the report on ULearning mobile app.",
     "description": "smart Class"
   },
   "classroom.check": {
@@ -448,7 +448,7 @@
     "description": "smart Class"
   },
   "login.passwordErr": {
-    "message": "Incorrect username and/or password!",
+    "message": "Incorrect username/password!",
     "description": "smart Class"
   },
   "login.loginFail": {
@@ -2372,7 +2372,7 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.delnotation": {
-    "message": "Remove Annotations ",
+    "message": "Delete Annotations",
     "description": "smart-classroom 项目"
   },
   "photoUpload.submitNumber": {
@@ -2412,7 +2412,7 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg5": {
-    "message": "Share with students",
+    "message": "Share with Students",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg6": {
@@ -2424,11 +2424,11 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg8": {
-    "message": "Annotations are being removed...",
+    "message": "Annotations are being deleted...",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg9": {
-    "message": "Are you sure you want to remove the annotations?",
+    "message": "Are you sure you want to delete these annotations?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg11": {
@@ -2436,35 +2436,35 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg12": {
-    "message": "Share with students after the session starts",
+    "message": "Share with students after the classroom session starts",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg13": {
-    "message": "Title cannot exceed 200 characters",
+    "message": "Title cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg14": {
-    "message": "After removal, the images submitted by students cannot be restored. Students need to re-submit them. Are you sure you want to remove? Students will not be able to re-submit if the activity has ended.",
+    "message": "After deletion, the images submitted by students cannot be restored. Students need to re-submit them. Are you sure you want to delete? Students will not be able to re-submit if the activity has ended.",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg16": {
-    "message": "No submissions yet",
+    "message": "No submissions yet!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg17": {
-    "message": "Are you sure you want to end this Take Photos & Upload activity?",
+    "message": "Are you sure you want to end this Upload activity?",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg18": {
-    "message": "Screenshot failed",
+    "message": "Failed to take a screenshot!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg19": {
-    "message": "Connection timed out",
+    "message": "Connecting timed out!",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeeting": {
-    "message": "Voov Meeting",
+    "message": "VooV Meeting",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.createMeeting": {
@@ -2476,7 +2476,7 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg1": {
-    "message": "Turn on cloud recording automatically",
+    "message": "Start cloud recording automatically",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg3": {
@@ -2496,7 +2496,7 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg7": {
-    "message": "The meeting function is provided by Voov Meeting. For the first use, you need to log in to your personal Voov Meeting account to authorize. If you need to deauthorize, you can do it in Voov Meeting Client.",
+    "message": "The meeting feature is provided by VooV Meeting. For the first-time use, you need to log in to your personal VooV Meeting account to authorize. If you need to deauthorize, you can do it in VooV Meeting Client.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.instructions": {
@@ -2504,19 +2504,19 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.authorization": {
-    "message": "Go to Authorize",
+    "message": "Authorize",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveClass": {
-    "message": "Save to Session",
+    "message": "Save to Classroom Session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.openFile": {
-    "message": "Open Files in Classroom",
+    "message": "Open Session Files",
     "description": "smart-classroom 项目"
   },
   "whiteboard.processing": {
-    "message": "Processing..., please wait.",
+    "message": "Processing..., please wait!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.designation": {
@@ -2532,39 +2532,39 @@
     "description": "smart-classroom 项目"
   },
   "whiteboard.nameNotNull": {
-    "message": "Name cannot be empty",
+    "message": "Name cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectCourse": {
-    "message": "Please select course",
+    "message": "Select course",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClassroom": {
-    "message": "Please select session",
+    "message": "Select session",
     "description": "smart-classroom 项目"
   },
   "whiteboard.msg4": {
-    "message": "You have successfully saved the whiteboard screenshot to {name} and can now view it in Session Files",
+    "message": "You have successfully saved the whiteboard content to {name} and can now view it in Session Sources",
     "description": "smart-classroom 项目"
   },
   "whiteboard.noData": {
-    "message": "No saved whiteboard files found",
+    "message": "No saved whiteboard files found!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.saveErr": {
-    "message": "Failed to save, unable to connect to server.",
+    "message": "Failed to save, unable to connect to server!",
     "description": "smart-classroom 项目"
   },
   "remark.remark": {
-    "message": "Comment can be up to 200 characters",
+    "message": "Up to 200 characters!",
     "description": "smart-classroom 项目"
   },
   "custom.custom": {
-    "message": "Customize",
+    "message": "Custom",
     "description": "smart-classroom 项目"
   },
   "custom.pleaseScore": {
-    "message": "Please enter the score",
+    "message": "Enter the points",
     "description": "smart-classroom 项目"
   },
   "custom.qrMsg": {
@@ -2584,7 +2584,7 @@
     "description": "smart-classroom 项目"
   },
   "discuss.again": {
-    "message": "Are you sure you want to re-start this Discussions？",
+    "message": "Are you sure you want to re-open this Discussions？",
     "description": "smart-classroom 项目"
   },
   "discuss.end": {
@@ -2608,19 +2608,19 @@
     "description": "smart-classroom 项目"
   },
   "discuss.enterDuration": {
-    "message": "Please enter a duration",
+    "message": "Enter a duration!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code13": {
-    "message": "MAC address does not match",
+    "message": "MAC address does not match!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code14": {
-    "message": "Already in use",
+    "message": "Port occupied!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.code15": {
-    "message": "Unknown error",
+    "message": "Unknown error!",
     "description": "smart-classroom 项目"
   },
   "faultDetect.port": {
@@ -2628,11 +2628,11 @@
     "description": "smart-classroom 项目"
   },
   "faultDetect.portError": {
-    "message": "The port is already in use. Please contact us to reconfigure.",
+    "message": "The port is in use. Please contact us to reconfigure.",
     "description": "smart-classroom 项目"
   },
   "common.uploadError": {
-    "message": "Failed",
+    "message": "Failed!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg20": {
@@ -2640,7 +2640,7 @@
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg21": {
-    "message": "Allow students to view images/videos from other students",
+    "message": "Allow students to view images/videos uploaded by other students",
     "description": "smart-classroom 项目"
   },
   "classroom.reverseOrder": {
@@ -2656,11 +2656,11 @@
     "description": "smart-classroom 项目"
   },
   "score.evaluatedScoreNew": {
-    "message": "Average score of peer reviews",
+    "message": "Avg. score of peer grading",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore": {
-    "message": "Teacher Score",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.weight": {
@@ -2668,23 +2668,23 @@
     "description": "smart-classroom 项目"
   },
   "score.inputWeightTip": {
-    "message": "The weight cannot be empty",
+    "message": "Weight cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
-    "message": "The teacher participates in grading.  The final score is a combined one of teacher score and student peer review score.",
+    "message": "Teacher grading is combined with student grading for the final score",
     "description": "smart-classroom 项目"
   },
   "score.teacherScore1": {
-    "message": "Teacher score",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.waitTeacherScore": {
-    "message": "Waiting for teacher to assign a score",
+    "message": "Teacher grading",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreWeightTip": {
-    "message": "The teacher score weights {n}%",
+    "message": "Teacher grading weights {n}%",
     "description": "smart-classroom 项目"
   },
   "score.teacherRemark": {
@@ -2692,39 +2692,39 @@
     "description": "smart-classroom 项目"
   },
   "score.inputScore": {
-    "message": "Click to enter the score",
+    "message": "Enter the points",
     "description": "smart-classroom 项目"
   },
   "score.inputScoreTip": {
-    "message": "Score cannot be empty",
+    "message": "Points cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.inputWeight": {
-    "message": "Click to enter the weight",
+    "message": "Enter the weight",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc1": {
-    "message": "You can also grade on ULearning App from your mobile device - open the classroom module and find the launched peer review activity to grade",
+    "message": "You can also grade on ULearning app from your mobile device. Open the classroom module and find the launched Grading activity to grade.",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreWeightTitle": {
-    "message": "Teacher score weight",
+    "message": "Teacher Grading Weight",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip": {
-    "message": "Enter an integer from 0 to 100",
+    "message": "Enter an integer from 0 to 100!",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip1": {
-    "message": "Enter an integer from 0 to {n}",
+    "message": "Enter an integer from 0 to {n}!",
     "description": "smart-classroom 项目"
   },
   "score.inputNumTip2": {
-    "message": "Enter an integer from 0 to 100",
+    "message": "Enter an integer from 1 to 100!",
     "description": "smart-classroom 项目"
   },
   "score.fullmarks": {
-    "message": "Total possible",
+    "message": "Points possible",
     "description": "smart-classroom 项目"
   },
   "score.scoreSettings": {
@@ -2732,11 +2732,11 @@
     "description": "smart-classroom 项目"
   },
   "score.scoreTemplate": {
-    "message": "Grading Templates",
+    "message": "Grading Rubrics",
     "description": "smart-classroom 项目"
   },
   "score.createTemplate": {
-    "message": "Add Template",
+    "message": "Create Rubric",
     "description": "smart-classroom 项目"
   },
   "score.use": {
@@ -2744,11 +2744,11 @@
     "description": "smart-classroom 项目"
   },
   "score.createTemplateTip": {
-    "message": "Can add up to 50 templates",
+    "message": "Can add up to 50 rubrics!",
     "description": "smart-classroom 项目"
   },
   "score.inputName": {
-    "message": "Click to enter a template name",
+    "message": "Enter the rubric name",
     "description": "smart-classroom 项目"
   },
   "score.confirmDelete": {
@@ -2764,47 +2764,47 @@
     "description": "smart-classroom 项目"
   },
   "score.inputNameTip": {
-    "message": "Name cannot be empty",
+    "message": "Name cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "score.inputNameTip1": {
-    "message": "Name cannot exceed 200 characters",
+    "message": "Name cannot exceed 200 characters!",
     "description": "smart-classroom 项目"
   },
   "score.saveErrorTip7": {
-    "message": "Each grading item content cannot exceed 100 characters",
+    "message": "Each grading item content cannot exceed 100 characters!",
     "description": "smart-classroom 项目"
   },
   "pick.confirmEnd": {
-    "message": "Are you sure you want to end this Random Pick activity?",
+    "message": "Are you sure you want to end this Pick activity?",
     "description": "smart-classroom 项目"
   },
   "screen.openRecent": {
-    "message": "Opened Recently",
+    "message": "Recently Opened",
     "description": "smart-classroom 项目"
   },
   "live.createLive": {
-    "message": "Add Live Session",
+    "message": "Create Conference",
     "description": "smart-classroom 项目"
   },
   "live.reservation": {
-    "message": "Scheduled Today",
+    "message": "Today's Conferences",
     "description": "smart-classroom 项目"
   },
   "live.noReservation": {
-    "message": "No live sessions today",
+    "message": "No conferences today!",
     "description": "smart-classroom 项目"
   },
   "welink.bindMsg": {
-    "message": "Please assign your UClass account and then you can use WeLink to scan the code to log in.",
+    "message": "Link to your UClass account and then you can use WeLink to scan the code to log in.",
     "description": "smart-classroom 项目"
   },
   "welink.alreadyBind": {
-    "message": "The UClass account is already assigned to WeLink",
+    "message": "Your UClass account is already linked to WeLink!",
     "description": "smart-classroom 项目"
   },
   "welink.bindDesc": {
-    "message": "You have not linked UClass to your WeLink account. Please assign it first and then launch the live session.",
+    "message": "You have not linked UClass to your WeLink account. Please link it first and then launch the conference.",
     "description": "smart-classroom 项目"
   },
   "welink.huaweiLive": {
@@ -2816,27 +2816,27 @@
     "description": "smart-classroom 项目"
   },
   "multiScreen.msg1": {
-    "message": "The multi-screen interaction feature is not currently activated on this device",
+    "message": "The multi-screens feature is not activated on this device!",
     "description": "smart-classroom 项目"
   },
   "multiScreen.msg2": {
-    "message": "If you have already purchased this feature, please contact us to get the activation code and then click the button below to start activation..",
+    "message": "If you have already purchased this feature, contact us to get the activation code and then tap the button below to start activation.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg49": {
-    "message": "Update the IP address",
+    "message": "Update IP Address",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg51": {
-    "message": "Updated successfully! Please restart the UClass app for both teacher screen and group screen.",
+    "message": "Updated successfully! Restart the UClass app for both teacher screen and group screen.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg52": {
-    "message": "After the IP address is updated, the latest IP will be used to establish connections with other devices. Are you sure to update the IP address?",
+    "message": "After the IP address is updated, the new IP will be used to establish connections with other devices. Are you sure to you want update the IP address?",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg53": {
-    "message": "For system stability, it is recommended to assign a static IP address for the device. For devices using a wired network, set a static IP address in Advanced Settings. For devices using Wi-Fi, you can set a static IP address in the router for the device.",
+    "message": "For system stability, it is recommended to assign a static IP address for the device. For devices using a wired network, set a static IP address in Advanced Settings. For devices using Wi-Fi, you can set a static IP address in the router for the devices.",
     "description": "smart-classroom 项目"
   },
   "faultDetect.version": {
@@ -2848,15 +2848,15 @@
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg2New": {
-    "message": "If session playback is needed, please enable Cloud Recording. Make sure there is sufficient storage space in Tencent Meeting. You can delete unneeded recordings to free recording space.",
+    "message": "If conference playback is needed, enable Cloud Recording. Make sure there is sufficient storage space in VooV Meeting. You can delete unneeded recordings to free the storage space.",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.tencentMeetingAccount": {
-    "message": "Tencent Meeting Account",
+    "message": "VooV Meeting Account",
     "description": "smart-classroom 项目"
   },
   "remark.allClassroom": {
-    "message": "All Sessions",
+    "message": "All Classroom Sessions",
     "description": "smart-classroom 项目"
   },
   "remark.classroomList": {
@@ -2864,39 +2864,39 @@
     "description": "smart-classroom 项目"
   },
   "wx.noticeClass": {
-    "message": "Send Session Reminder",
+    "message": "Notify Students",
     "description": "smart-classroom 项目"
   },
   "wx.noticeSucc": {
-    "message": "The session reminder is sent successfully",
+    "message": "The session start notification is sent successfully!",
     "description": "smart-classroom 项目"
   },
   "wx.classQr": {
-    "message": "Session Code",
+    "message": "Session QR Code",
     "description": "smart-classroom 项目"
   },
   "wx.msg": {
-    "message": "Students scan the QR code on ULearning App to enter the session",
+    "message": "Students scan the QR code on ULearning app to enter the session",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerSheet": {
-    "message": "Questions",
+    "message": "Quizzes",
     "description": "smart-classroom 项目"
   },
   "answerSheet.createAnswer": {
-    "message": "Create Question",
+    "message": "Create Quiz",
     "description": "smart-classroom 项目"
   },
   "answerSheet.optionsNum": {
-    "message": "Number of Options",
+    "message": "Options",
     "description": "smart-classroom 项目"
   },
   "answerSheet.joinScore": {
-    "message": "Participation - points",
+    "message": "Participation: Points",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerScore": {
-    "message": "Correct answer - points",
+    "message": "Correct answer: Points",
     "description": "smart-classroom 项目"
   },
   "answerSheet.judge": {
@@ -2904,7 +2904,7 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.selectAnswer": {
-    "message": "Select the correct answer",
+    "message": "Select the correct answer(s)",
     "description": "smart-classroom 项目"
   },
   "answerSheet.judgeTorF": {
@@ -2912,7 +2912,7 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.stuAnswer": {
-    "message": "Student Response",
+    "message": "Student Responses",
     "description": "smart-classroom 项目"
   },
   "answerSheet.correct": {
@@ -2920,11 +2920,11 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.endAnswer": {
-    "message": "End Questions",
+    "message": "End Quiz",
     "description": "smart-classroom 项目"
   },
   "answerSheet.updateAnswer": {
-    "message": "Edit Answer",
+    "message": "Edit Answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.revealAnswer": {
@@ -2932,23 +2932,23 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.sureClose": {
-    "message": "Are you sure you want to end this activity?",
+    "message": "Are you sure you want to end this quiz?",
     "description": "smart-classroom 项目"
   },
   "answerSheet.setAnswer": {
-    "message": "Set correct answer",
+    "message": "Set Correct Answer(s)",
     "description": "smart-classroom 项目"
   },
   "answerSheet.onlyAnswer": {
-    "message": "This question has one correct answer",
+    "message": "Has one correct answer",
     "description": "smart-classroom 项目"
   },
   "answerSheet.mulitAnswer": {
-    "message": "This question has more than one correct answer",
+    "message": "Has one or more correct answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.scoreCorrectScore": {
-    "message": "Participation {score} points; correct answer {correctScore} points",
+    "message": "Participation pts: {score}; Correct pts: {correctScore}",
     "description": "smart-classroom 项目"
   },
   "answerSheet.theRadio": {
@@ -2956,7 +2956,7 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.multipleChoice": {
-    "message": "Multiple Response",
+    "message": "Multiple Answers",
     "description": "smart-classroom 项目"
   },
   "answerSheet.trueORfalse": {
@@ -2984,27 +2984,27 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.msg1": {
-    "message": "The activity has ended. Please wait for the teacher to post answers.",
+    "message": "The quiz has ended. Please wait for your teacher to post the correct answer.",
     "description": "smart-classroom 项目"
   },
   "answerSheet.msg2": {
-    "message": "File type error - please select an image type",
+    "message": "File type error - Please select the image type!",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerTrue": {
-    "message": "Correct",
+    "message": "Correct!",
     "description": "smart-classroom 项目"
   },
   "answerSheet.answerFalse": {
-    "message": "Incorrect",
+    "message": "Incorrect!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadImgVideo": {
-    "message": "Upload Image/Video",
+    "message": "Upload Images/Videos",
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadLoading": {
-    "message": "Please wait for the file upload to complete",
+    "message": "Please wait for the file upload to complete!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.submitSucc": {
@@ -3020,15 +3020,15 @@
     "description": "smart-classroom 项目"
   },
   "uploadPic.uploadMax20": {
-    "message": "Upload up to 20 images or videos",
+    "message": "Upload up to 20 images or videos!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg": {
-    "message": "Upload images/videos as required by the teacher, up to 20 images/videos",
+    "message": "Upload images/videos as required by your teacher, up to 20 images/videos.",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg1": {
-    "message": "The activity has ended",
+    "message": "The activity has ended!",
     "description": "smart-classroom 项目"
   },
   "uploadPic.msg2": {
@@ -3040,11 +3040,11 @@
     "description": "smart-classroom 项目"
   },
   "wxwb.shareClassroom": {
-    "message": "Share to Course Session",
+    "message": "Share to Classroom Session",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg2": {
-    "message": "Scan to Mobile",
+    "message": "scan to save",
     "description": "smart-classroom 项目"
   },
   "wxwb.msg4": {
@@ -3076,7 +3076,7 @@
     "description": "smart-classroom 项目"
   },
   "welinkLive.reserveLive": {
-    "message": "Schedule Live Session/Meeting",
+    "message": "Schedule Conference/Meeting",
     "description": "smart-classroom 项目"
   },
   "welinkLive.welikAccount": {
@@ -3084,7 +3084,7 @@
     "description": "smart-classroom 项目"
   },
   "welinkLive.bindAccount": {
-    "message": "Assign Account",
+    "message": "Link Account",
     "description": "smart-classroom 项目"
   },
   "welinkLive.startTime": {
@@ -3096,27 +3096,27 @@
     "description": "smart-classroom 项目"
   },
   "welinkLive.1hour": {
-    "message": "1 hr",
+    "message": "1 hour",
     "description": "smart-classroom 项目"
   },
   "welinkLive.2hour": {
-    "message": "2 hrs",
+    "message": "2 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.4hour": {
-    "message": "4 hrs",
+    "message": "4 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.12hour": {
-    "message": "12 hrs",
+    "message": "12 hours",
     "description": "smart-classroom 项目"
   },
   "welinkLive.msg": {
-    "message": "The live session list shows the live sessions you have created or scheduled for the course. You can click the Join button for a session to start that session. If you need to create a live session, please create a classroom session first. From the classroom session, click the Live Session button on the right to create one.",
+    "message": "The conference list here shows all conferences you have created or scheduled for the selected course. You can click the Enter button to start a conference here. But, if you want to schedule a conference, you need to create a classroom session first. Once inside the classroom session, click the Conferences button on the right to schedule one.",
     "description": "smart-classroom 项目"
   },
   "welinkLive.msg1": {
-    "message": "Please assign an account, then you can create a live session",
+    "message": "Please link your account and then you can create a conference!",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.activated": {
@@ -3136,7 +3136,7 @@
     "description": "smart-classroom 项目"
   },
   "deviceActivation.groupNumber": {
-    "message": "Group Number",
+    "message": "Group Serial Number",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.macAddress": {
@@ -3160,7 +3160,7 @@
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg3": {
-    "message": "To ensure UClass to run normally, please set up the screen as follows.",
+    "message": "To ensure UClass to run as expected, follow the instructions below to set up UClass.",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg4": {
@@ -3168,7 +3168,7 @@
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg5": {
-    "message": "On home screen, long-tap (press-and-hold) UClass icon to enter into edit mode, then select UClass.",
+    "message": "On home screen, long-tap (press-and-hold) UClass icon to enter into the edit mode, and then select UClass.",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg6": {
@@ -3188,7 +3188,7 @@
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg10": {
-    "message": "Activate Multi-Screen Interaction",
+    "message": "Activate Multi-Screens",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg11": {
@@ -3196,27 +3196,27 @@
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg12": {
-    "message": "The activation code cannot be empty",
+    "message": "Activation code cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "deviceActivation.msg13": {
-    "message": "The classroom number cannot be empty",
+    "message": "Classroom serial number cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage1": {
-    "message": "The question cannot be empty!",
+    "message": "Question cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage2": {
-    "message": "Less than two answer options",
+    "message": "Less than two options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage3": {
-    "message": "No more than 20 answer options",
+    "message": "No more than 20 options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage4": {
-    "message": "The correct answer cannot be empty!",
+    "message": "Correct answer cannot be empty!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage5": {
@@ -3232,11 +3232,11 @@
     "description": "smart-classroom 项目"
   },
   "incompleteMessage8": {
-    "message": "The correct answer has to be among the answer options!",
+    "message": "The correct answer(s) has to be among the answer options!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage9": {
-    "message": "There are duplicates in the correct answer",
+    "message": "There are duplicate options in the correct answer!",
     "description": "smart-classroom 项目"
   },
   "incompleteMessage10": {
@@ -3284,11 +3284,11 @@
     "description": "smart-classroom 项目"
   },
   "attendence.clickBtnSignIn": {
-    "message": "Click the button below to complete the sign-in",
+    "message": "Click the button below to sign in",
     "description": "smart-classroom 项目"
   },
   "student.clickToClassroom": {
-    "message": "Please click on the session list on the right to enter the session",
+    "message": "Click the Session List link on the right to go to the course session list screen",
     "description": "smart-classroom 项目"
   },
   "screen.classResource": {
@@ -3300,7 +3300,7 @@
     "description": "smart-classroom 项目"
   },
   "screen.textbook": {
-    "message": "Courseware/Textbooks",
+    "message": "Courseware",
     "description": "smart-classroom 项目"
   },
   "screen.commonResource": {
@@ -3316,23 +3316,23 @@
     "description": "smart-classroom 项目"
   },
   "live.teacherIsLiving": {
-    "message": "Teacher is in live session",
+    "message": "Teacher started a conference!",
     "description": "smart-classroom 项目"
   },
   "wx.newMsg": {
-    "message": "Students scan the QR code on ULearning App to enter the session",
+    "message": "Students scan (ULearning app) the QR code to join",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionByAI": {
-    "message": "Questions by AI",
+    "message": "Questions Generated by AI",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionByAITip": {
-    "message": "The questions are generated by a large AI model, and the correctness of the content cannot be completely guaranteed. It is recommended to check the content before use.",
+    "message": "The questions are generated by AI large language models, and the correctness of the content cannot be completely guaranteed. It is recommended to check the content before use.",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionLoading": {
-    "message": "Calling the AI model to generate questions...",
+    "message": "Calling the AI large language model to generate questions...",
     "description": "smart-classroom 项目"
   },
   "answerSheet.questionType": {
@@ -3344,7 +3344,7 @@
     "description": "smart-classroom 项目"
   },
   "answerSheet.requestInput": {
-    "message": "Click to enter the question requirement and keywords",
+    "message": "Enter the question requirements and/or keywords",
     "description": "smart-classroom 项目"
   },
   "answerSheet.startQuestion": {
@@ -3372,19 +3372,19 @@
     "description": "smart-classroom 项目"
   },
   "activate.enterActivationCode": {
-    "message": "Enter activation code",
+    "message": "Enter the activation code",
     "description": "smart-classroom 项目"
   },
   "activate.perfectInfo": {
-    "message": "Please complete the classroom information",
+    "message": "Complete the classroom information",
     "description": "smart-classroom 项目"
   },
   "activate.unbind": {
-    "message": "Unpair",
+    "message": "Unlink",
     "description": "smart-classroom 项目"
   },
   "activate.unbindMsg": {
-    "message": "It needs to be reactivated after unpairing. Are you sure you want to unpair?",
+    "message": "It needs to be reactivated after unlink. Are you sure you want to unlink?",
     "description": "smart-classroom 项目"
   },
   "integrating.active": {
@@ -3400,7 +3400,7 @@
     "description": "smart-classroom 项目"
   },
   "integrating.scoreRecord": {
-    "message": "Adding Points Records",
+    "message": "Bonus Points History",
     "description": "smart-classroom 项目"
   },
   "integrating.batchBonus": {
@@ -3408,7 +3408,7 @@
     "description": "smart-classroom 项目"
   },
   "integrating.leaderboard": {
-    "message": "Leaderboard",
+    "message": "Scoreboard",
     "description": "smart-classroom 项目"
   },
   "integrating.classroomScore": {
@@ -3420,11 +3420,11 @@
     "description": "smart-classroom 项目"
   },
   "integrating.courseScore": {
-    "message": "Total Course Points",
+    "message": "Course Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.classroomTotalScore": {
-    "message": "Session Points Earned",
+    "message": "Session Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.stuName": {
@@ -3432,15 +3432,15 @@
     "description": "smart-classroom 项目"
   },
   "integrating.totalScore": {
-    "message": "Total Points",
+    "message": "Total Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.teaAddScore": {
-    "message": "Teacher Points",
+    "message": "Bonus Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.activityIntegral": {
-    "message": "Activity Points",
+    "message": "Activity Pts",
     "description": "smart-classroom 项目"
   },
   "integrating.activityNum": {
@@ -3468,7 +3468,7 @@
     "description": "smart-classroom 项目"
   },
   "integrating.noData": {
-    "message": "No data found",
+    "message": "No data found!",
     "description": "smart-classroom 项目"
   },
   "integrating.scoreboard": {
@@ -3476,11 +3476,11 @@
     "description": "smart-classroom 项目"
   },
   "integrating.addScoreSucc": {
-    "message": "Added points successfully! You can check the Add Points records.",
+    "message": "Added points successfully - You can check the bonus points history!",
     "description": "smart-classroom 项目"
   },
   "integrating.noGroup": {
-    "message": "No groups",
+    "message": "No groups yet!",
     "description": "smart-classroom 项目"
   },
   "screen.sendStudents": {
@@ -3492,31 +3492,31 @@
     "description": "smart-classroom 项目"
   },
   "screen.picture": {
-    "message": "Images",
+    "message": "Image",
     "description": "smart-classroom 项目"
   },
   "screen.video": {
-    "message": "Videos",
+    "message": "Video",
     "description": "smart-classroom 项目"
   },
   "screen.audio": {
-    "message": "Audios",
+    "message": "Audio",
     "description": "smart-classroom 项目"
   },
   "screen.document": {
-    "message": "Documents",
+    "message": "Document",
     "description": "smart-classroom 项目"
   },
   "createClass.msg": {
-    "message": "Tips: For courses co-taught or co-managed, only one course needs to be created. Other teachers can be added after the course is created.",
+    "message": "Note: For co-taught or co-managed courses, you only need to create one course. You can add other teachers after the course is created.",
     "description": "smart-classroom 项目"
   },
   "createClass.noClass": {
-    "message": "You have no courses in progress. Create a course first.",
+    "message": "You have no active courses. Create a course first.",
     "description": "smart-classroom 项目"
   },
   "createClass.noJoin": {
-    "message": "You have not enrolled the course, please contact the teacher.",
+    "message": "You have not enrolled the course, please contact your course teacher!",
     "description": "smart-classroom 项目"
   },
   "createClass.interceptCover": {
@@ -3528,7 +3528,7 @@
     "description": "smart-classroom 项目"
   },
   "createClass.courseCover": {
-    "message": "Course cover",
+    "message": "Thumbnail",
     "description": "smart-classroom 项目"
   },
   "createClass.localUpload": {
@@ -3548,19 +3548,19 @@
     "description": "smart-classroom 项目"
   },
   "createClass.confirmMsg": {
-    "message": "Course with the same name has already existed (created by teacher {msg}). It is recommended that you contact the teacher to make sure there are no duplicate courses. \\n Do you want to continue creating?",
+    "message": "Course with the same name has already existed (created by teacher {msg}). It is recommended that you contact the teacher to make sure there are no duplicate courses. \\n Do you want to continue?",
     "description": "smart-classroom 项目"
   },
   "createClass.imgErr": {
-    "message": "The image type must be gif, jpeg, jpg, png, or bmp.",
+    "message": "The image type must be gif, jpeg, jpg, png, or bmp!",
     "description": "smart-classroom 项目"
   },
   "photoUpload.coursewareScreenshots": {
-    "message": "Courseware screenshot",
+    "message": "Content Screenshot",
     "description": "smart-classroom 项目"
   },
   "whiteboard.blackboard": {
-    "message": "Whiteboard Screenshot",
+    "message": "Whiteboard Content",
     "description": "smart-classroom 项目"
   },
   "screen.others": {
@@ -3576,15 +3576,15 @@
     "description": "smart-classroom 项目"
   },
   "createClass.courseMsgErr": {
-    "message": "The course name must be within 2 to 100 characters. ",
+    "message": "Course name must be within 2 to 100 characters!",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.meetingCloud": {
-    "message": "Cloud Meeting Room",
+    "message": "Meeting Room",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.meetingStatus": {
-    "message": "Status",
+    "message": "Cloud Meeting Rooms",
     "description": "smart-classroom 项目"
   },
   "huaweiLive.seating": {
@@ -3600,11 +3600,11 @@
     "description": "smart-classroom 项目"
   },
   "huaweiLive.msg": {
-    "message": "No cloud meeting rooms available - please contact the admin to add!",
+    "message": "No cloud meeting rooms available - Contact your school's admin to add!",
     "description": "smart-classroom 项目"
   },
   "whiteboard.whiteBoardTips": {
-    "message": "After you save it to the class, you and your students can view the annotated pictures in the class files. Click here for mobile",
+    "message": "After you save it to the classroom session, you and your students can view the annotated pictures in the Session Resources. Click here to ",
     "description": "smart-classroom 项目"
   }
 }
