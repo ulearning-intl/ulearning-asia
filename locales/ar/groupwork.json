@@ -128,11 +128,11 @@
     "description": "小组作业 zh.json"
   },
   "publish.text8": {
-    "message": "تققيم المعلم",
+    "message": "تقييم المعلم",
     "description": "小组作业 zh.json"
   },
   "publish.text9": {
-    "message": "تقييم الأقران",
+    "message": "تقييم الطلاب",
     "description": "小组作业 zh.json"
   },
   "publish.text10": {
@@ -1272,7 +1272,7 @@
     "description": "小组作业 zh.json"
   },
   "scoringMethod": {
-    "message": "وضع العلامات",
+    "message": "طريقة التقييم",
     "description": "小组作业 zh.json"
   },
   "groupMember": {
@@ -1400,7 +1400,7 @@
     "description": "小组作业 zh.json"
   },
   "pleaseSelect": {
-    "message": "الرجاء تحديد",
+    "message": "الرجاء التحديد",
     "description": "小组作业 zh.json"
   },
   "saveSuccess": {
@@ -1560,7 +1560,7 @@
     "description": "小组作业 zh.json"
   },
   "reviewHomework.text8": {
-    "message": "يُسمح بإرسال هذه المهمة بأثر رجعي ، يرجى إرسال المهمة في أقرب وقت ممكن.",
+    "message": "يُسمح بتأخير تسليم هذا الواجب، يرجى تسليم الواجب في أقرب وقت ممكن.",
     "description": "小组作业 zh.json"
   },
   "reviewHomework.text9": {
@@ -1743,10 +1743,6 @@
     "message": "فشل في نقل العضو",
     "description": "小组作业 zh.json"
   },
-  "addGroupStudent.text5": {
-    "message": "ذكر بنجاح",
-    "description": "小组作业 zh.json"
-  },
   "assignHomework.text1": {
     "message": "انقر لإدخال اسم المهمة",
     "description": "小组作业 zh.json"
@@ -1776,7 +1772,7 @@
     "description": "小组作业 zh.json"
   },
   "assignHomework.text8": {
-    "message": "السماح للطلاب بتقديم المهام بعد الموعد النهائي.ستظهر المهام بأثر رجعي علامة [التقديم المتأخر] ؛في مهمة تقييم الأقران ، لا تشارك المجموعة التي ترسم متأخراً في تقييم الأقران ويتم تصنيفها من قبل المعلم.",
+    "message": "السماح للطلاب بتقديم الواجبات بعد الموعد النهائي. ستظهر الواجبات بأثر رجعي علامة [التسليم المتأخر]؛ في مهمة تقييم الأقران، لا تشارك المجموعة التي تقدم متأخرة في تقييم الأقران ويتم تقييمها من قبل المعلم",
     "description": "小组作业 zh.json"
   },
   "assignHomework.text9": {
@@ -1784,7 +1780,7 @@
     "description": "小组作业 zh.json"
   },
   "assignHomework.text10": {
-    "message": "يُسمح للطلاب بتحميل المرفقات عند كتابة الواجبات المنزلية ، ودعم الصور المشتركة ، والمستندات ، وتنسيقات الصوت والفيديو ، وتحميل ما يصل إلى 5 ملفات ، كل منها لا يتجاوز 500 متر.",
+    "message": "يسمح للطلاب بتحميل المرفقات عند كتابة الواجبات المنزلية، ودعم الصور المشتركة، والمستندات، وتنسيقات الصوت والفيديو، وتحميل ما يصل الى 5 ملفات، كل منها لا يتجاوز 500 ميجا بايت.",
     "description": "小组作业 zh.json"
   },
   "assignHomework.text11": {
@@ -1792,11 +1788,7 @@
     "description": "小组作业 zh.json"
   },
   "assignHomework.text12": {
-    "message": "ينشر",
-    "description": "小组作业 zh.json"
-  },
-  "assignHomework.text13": {
-    "message": "الرجاء إدخال عدد صحيح من 1-999",
+    "message": "نشر",
     "description": "小组作业 zh.json"
   },
   "assignHomework.text14": {
@@ -1881,10 +1873,6 @@
   },
   "workGroup.text4": {
     "message": "لا توجد مجموعات اختيارية",
-    "description": "小组作业 zh.json"
-  },
-  "uploadTip7": {
-    "message": "تم الرفع بنجاح.",
     "description": "小组作业 zh.json"
   },
   "uploadTip8": {
@@ -1974,85 +1962,5 @@
   "doHomework.text83": {
     "message": "تفاصيل درجة الواجب",
     "description": "小组作业 zh.json"
-  },
-  "comment": {
-    "message": " تعليق توضيحي ",
-    "description": "小组作业翻译"
-  },
-  "deleteMarksConfirm": {
-    "message": "ستؤدي هذه العملية إلى حذف جميع التعليقات التوضيحية في هذا المستند.",
-    "description": "小组作业翻译"
-  },
-  "docLoading": {
-    "message": "جارٍ التحميل...",
-    "description": "小组作业翻译"
-  },
-  "inputCommentsTips": {
-    "message": "أدخل تعليقا، غير مطلوب",
-    "description": "小组作业翻译"
-  },
-  "noMember": {
-    "message": " لا يوجد عضو ",
-    "description": "小组作业翻译"
-  },
-  "numOfGroup": {
-    "message": "{0} المجموعة",
-    "description": "小组作业翻译"
-  },
-  "numOfPeople": {
-    "message": "({0} أشخاص)",
-    "description": "小组作业翻译"
-  },
-  "numOfPeople1": {
-    "message": "{0} أشخاص",
-    "description": "小组作业翻译"
-  },
-  "numOfPoints": {
-    "message": "{0} نقطة",
-    "description": "小组作业翻译"
-  },
-  "numOfTiao": {
-    "message": "(المادة {0})",
-    "description": "小组作业翻译"
-  },
-  "publish.text117": {
-    "message": "تفاصيل تقييم الأقران داخل المجموعة",
-    "description": "小组作业翻译"
-  },
-  "publish.text118": {
-    "message": "- يبدأ تقييم الأقران للطلاب بعد الموعد النهائي لتقديم الواجبات",
-    "description": "小组作业翻译"
-  },
-  "publish.text119": {
-    "message": "(ملاحظة: إذا قمت بإرسال عدد غير كاف من المهام ، تقدير الواجب من قبل المدرس)",
-    "description": "小组作业翻译"
-  },
-  "publish.text120": {
-    "message": "تعيين مهمة التقييم المتبادل",
-    "description": "小组作业翻译"
-  },
-  "publish.text121": {
-    "message": "درجات الطلاب في تقييم الأقران",
-    "description": "小组作业翻译"
-  },
-  "reUpload1": {
-    "message": "إعادة رفع",
-    "description": "小组作业翻译"
-  },
-  "saveTime": {
-    "message": "يحفظ في {0}",
-    "description": "小组作业翻译"
-  },
-  "wordCount": {
-    "message": "كلمة {0}",
-    "description": "小组作业翻译"
-  },
-  "mark1": {
-    "message": " ",
-    "description": "小组作业翻译"
-  },
-  "export": {
-    "message": "تصدير",
-    "description": "小组作业翻译"
   }
 }
