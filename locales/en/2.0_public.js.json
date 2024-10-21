@@ -1119,10 +1119,6 @@
     "message": "ePortfolios",
     "description": "2.0 public.js"
   },
-  "someonesEportfolio": {
-    "message": " ",
-    "description": "2.0 public.js"
-  },
   "ofEportfolio": {
     "message": "’s ePortfolios",
     "description": "2.0 public.js"
@@ -2485,6 +2481,38 @@
   },
   "moreOperation": {
     "message": "Actions",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "Respected users:",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "Your login password hasn't been updated in <strong class='text-red'>180</strong> days!",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": " In order to protect the security of your account, please modify the login password to prevent the password from being maliciously cracked and improve the security of your account.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "Modify password",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "Next time",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "Continue to use without modification",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "Your password is too simple.To protect your account, please change your password.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
     "description": "2.0 public.js"
   }
 }
