@@ -1119,10 +1119,6 @@
     "message": "学业档案",
     "description": "2.0 public.js"
   },
-  "someonesEportfolio": {
-    "message": "",
-    "description": "2.0 public.js"
-  },
   "ofEportfolio": {
     "message": "的学业档案",
     "description": "2.0 public.js"
@@ -2509,6 +2505,42 @@
   },
   "btn_refuseChangePwd": {
     "message": "继续使用，不修改",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "您的密码过于简单，为保护您的账号安全，请您修改密码。",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "密码策略：8~16位，必须同时包含字母和数字（区分大小写）",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": "",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "预览入口",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "选择预览入口",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "该资源未设置预览入口，请返回列表，点击【修改】添加预览入口！",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "resource7该资源未设置预览入口，请联系管理员添加预览入口！",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "上传成功，请设置预览入口！",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "选择",
     "description": "2.0 public.js"
   }
 }
