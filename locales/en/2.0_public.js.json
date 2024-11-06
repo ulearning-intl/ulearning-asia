@@ -2514,5 +2514,13 @@
   "loginTipsMsg4": {
     "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
     "description": "2.0 public.js"
+  },
+  "organizationStatusWrong": {
+    "message": "Organization status error. Please contact the organization administrator.",
+    "description": "2.0 public.js"
+  },
+  "loginNumberLimit": {
+    "message": "Login limit exceeded. Please try again later.",
+    "description": "2.0 public.js"
   }
 }
