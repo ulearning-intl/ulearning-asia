@@ -139,14 +139,6 @@
     "message": "กรุณาเลือก",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "อัปโหลดสูงสุด",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "เอกสารแนบ",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "ขนาดวิดีโอต้องไม่เกิน 1G",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "ได้คะแนน: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "ไม่มีความคิดเห็น",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "เพื่อนร่วมชั้นคนนี้ไม่ได้แสดงความคิดเห็น",
     "description": "个人作业zh_js"
@@ -739,12 +727,32 @@
     "message": "กำหนด",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "การมอบหมายประเภทนี้ไม่สามารถเปิดได้ในแอพโปรดดำเนินการต่อกับเบราว์เซอร์",
+  "m.syncGoogleClassroom": {
+    "message": "ซิงค์กับ Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "เปิดในเบราว์เซอร์",
+  "m.syncTip1": {
+    "message": "*โปรดผูกหลักสูตร Google Classroom ก่อน",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "ไปที่หลักสูตร Bundle",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*หากเลือกไว้ เนื้อหาจะซิงค์กับหลักสูตร Google Classroom การตั้งค่าบางอย่างอาจซิงโครไนซ์ไม่สําเร็จ",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "สําหรับรายละเอียด โปรดดูเอกสารช่วยเหลือ",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(การซิงโครไนซ์สําเร็จ)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(ซิงค์ล้มเหลว)",
     "description": "个人作业zh_js"
   }
 }

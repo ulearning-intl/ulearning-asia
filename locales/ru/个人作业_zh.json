@@ -139,14 +139,6 @@
     "message": "Выберите",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "Загрузить максимальный",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "вложение",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "Видео Не превышать 1 ГБ",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "Оценка: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "Нет отзыва",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "Этот одноклассник не оставил отзыв",
     "description": "个人作业zh_js"
@@ -743,12 +731,32 @@
     "message": "Настройки домашней работы",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "невозможно открыть этот тип домовашней работы в Мобильном приложении, пожалуйста, откройте в Браузере и продолжайте использовать",
+  "m.syncGoogleClassroom": {
+    "message": "Синхронизация с Google Классом",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "открыть в браузере",
+  "m.syncTip1": {
+    "message": "*Пожалуйста, сначала привяжите курс Google Classroom,",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "Перейти к пакетному курсу",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "* Если флажок установлен, контент будет синхронизирован с курсом Google Classroom. Некоторые настройки могут быть синхронизированы не удалось.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "Для получения подробной информации, пожалуйста, обратитесь к справочной документации",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(Синхронизация выполнена успешно)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(Ошибка синхронизации)",
     "description": "个人作业zh_js"
   }
 }

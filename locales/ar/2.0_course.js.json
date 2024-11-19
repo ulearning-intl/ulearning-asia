@@ -7730,5 +7730,189 @@
   "uploaderLoadingTip": {
     "message": "جاري التحميل، يرجى عدم إغلاق الصفحة الحالية",
     "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "بعد ربط دورة Google Classroom ، سيتم عرض واجب ومواد الدورة التدريبية هنا. يمكنك اختيار المزامنة التلقائية أو المزامنة اليدوية عند الربط ، وسيتم عرض الموارد المتزامنة في صفحة \"المهام\" و \"الموارد\" في UniAcademy.",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "لم تقم بعد بربط دورة Google Classroom ، يرجى تسجيل الدخول إلى حساب Google الخاص بك للربط",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "حدد المقرر الدراسي الذي تريد ربطه",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "أدخل اسم الدورة الدراسية للبحث",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "لم يتم العثور على الدورة",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*لا يشتمل Google Classroom على دورة تدريبية حتى الآن، <a href=\"https://classroom.google.com/h\" target=\"_blank\">يُرجى إنشاء دورة تدريبية أولاً</a>",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "ستتم مزامنة محتوى UATRY و Google Classroom تلقائيا مع الأنظمة الأساسية لبعضهما البعض",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "يمكنك مزامنة المحتوى يدويا:",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "انتقل إلى صفحة دورة UA > إعداد > \"Google Classroom\" أو انتقل إلى صفحة دورة UA > وصفحة \"الموارد\" و \"المهام\" للمزامنة ، أو حدد \"المزامنة مع Google Classroom\" عند النشر",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "لقد ربطت Google Classroom:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "تم الانتهاء من مزامنة البيانات التاريخية! تمت مزامنة أجزاء {n} من المحتوى بنجاح",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": "، {n} فشل مزامنة أجزاء من المحتوى بسبب مشكلات في الشبكة",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "تتسبب مشكلات الشبكة في فشل مزامنة البيانات التاريخية!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "إذا كان هناك تعارض في البيانات، فحدد طريقة الكتابة فوق البيانات لمتابعة المزامنة",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "تمت مزامنة أجزاء {n} من المحتوى بنجاح",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "تسجيل الدخول إلى جوجل",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "المزامنة التلقائية",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "المزامنة اليدوية",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "ربط",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "فشل الربط.",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "إلغاء الاقتران",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "فشل في إلغاء الاقتران!",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "عدم المزامنة",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "مزامن",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "البحث حسب الكلمة الرئيسية",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "مزامنة الدفعات",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "إلغاء مزامنة الدفعة",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "مزامنة البيانات التاريخية بنقرة واحدة",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "المزامنة مع U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "متزامن",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "إلغاء المزامنة",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "لا تتم مزامنته في الوقت الحالي",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "تتم مزامنة البيانات نيابة عنك",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "اعاده المحاوله",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "الكتابة فوق البيانات القديمة",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "تجاهل",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "نجحت المزامنة",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "فشل المزامنة",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "كان عدم التزامن ناجحا",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "فشل إلغاء المزامنة",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "مزامنة الدفعات ناجحة",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "فشلت مزامنة الدفعات",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "إلغاء مزامنة الدفعات ناجح",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "فشل إلغاء مزامنة الدفعة",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "جوجل كلاس روم",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠٠",
+    "description": "2.0 course.js"
   }
 }
