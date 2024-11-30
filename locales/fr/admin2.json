@@ -4271,16 +4271,16 @@
     "message": "Langue par défaut",
     "description": "新版管理后台 zh.json"
   },
+  "dataCenter.college": {
+    "message": "Collège",
+    "description": "新版管理后台 zh.json"
+  },
   "dataCenter.attendanceTotalNum": {
     "message": "Appels:",
     "description": "2.0 admin.js"
   },
   "dataCenter.voteTotalNum": {
     "message": "Sondages",
-    "description": "2.0 admin.js"
-  },
-  "dataCenter.platformActivityAnalysis": {
-    "message": "Analyse d’activité",
     "description": "2.0 admin.js"
   },
   "dataCenter.pleaseUseAdminAccount": {
@@ -4291,15 +4291,15 @@
     "message": "Tendances de connexion des enseignants",
     "description": "2.0 admin.js"
   },
-  "dataCenter.totalTeacherTimes": {
-    "message": "Connexions des enseignants",
-    "description": "2.0 admin.js"
-  },
   "dataCenter.studentLoginTrend": {
     "message": "Tendances de connexion des étudiants",
     "description": "2.0 admin.js"
   },
-  "dataCenter.totalStudentTimes": {
+  "dataCenter.teacherTimes": {
+    "message": "Connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
     "message": "Connexions des étudiants",
     "description": "2.0 admin.js"
   },
@@ -4333,6 +4333,10 @@
   },
   "dataCenter.courseWorking": {
     "message": "Analyse des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "Analyse d’activité",
     "description": "2.0 admin.js"
   },
   "dataCenter.todayDynamic": {
@@ -4966,5 +4970,9 @@
   "teachingAdmin.allCollege": {
     "message": "Tous les collèges",
     "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "Centre de données",
+    "description": "新版管理后台 zh.json"
   }
 }

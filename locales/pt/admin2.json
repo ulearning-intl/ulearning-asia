@@ -4255,6 +4255,10 @@
     "message": "Redefinição bem-sucedida",
     "description": "新版管理后台 zh.json"
   },
+  "dataCenter.college": {
+    "message": "Faculdade",
+    "description": "新版管理后台 zh.json"
+  },
   "dataCenter.attendanceTotalNum": {
     "message": "Total de Chamadas",
     "description": "2.0 admin.js"
@@ -4263,16 +4267,8 @@
     "message": "Total de Votos",
     "description": "2.0 admin.js"
   },
-  "dataCenter.attendancePublishRankingTop": {
-    "message": "Chamada: Public publicados no TOP10",
-    "description": "2.0 admin.js"
-  },
   "dataCenter.pleaseUseAdminAccount": {
     "message": "Entre usando a conta de Administrador",
-    "description": "2.0 admin.js"
-  },
-  "dataCenter.exerAverCompletionRate": {
-    "message": "Taxa média de conclusão do exercício",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherLoginTrend": {
@@ -4291,6 +4287,10 @@
     "message": "Número de alunos",
     "description": "2.0 admin.js"
   },
+  "dataCenter.homeworkTotalNum": {
+    "message": "Total de Tarefas",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.personalHomework": {
     "message": "Tarefa Individual",
     "description": "2.0 admin.js"
@@ -4305,6 +4305,10 @@
   },
   "dataCenter.examAnalysis": {
     "message": "Análise das provas",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "Distribuição de tipos de recursos",
     "description": "2.0 admin.js"
   },
   "dataCenter.teachingDynamic": {
@@ -4923,6 +4927,10 @@
     "message": "Publicar anúncio",
     "description": "2.0 admin.js"
   },
+  "dataCenter.publishAnnouncement2": {
+    "message": "Publicar anúncio",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.noData": {
     "message": "Ainda não há dados",
     "description": "2.0 admin.js"
@@ -4946,5 +4954,9 @@
   "teachingAdmin.allCollege": {
     "message": "Todas as faculdades",
     "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "Centro de dados",
+    "description": "新版管理后台 zh.json"
   }
 }

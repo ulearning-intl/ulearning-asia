@@ -2060,7 +2060,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips1": {
-    "message": "Click to enter the full name",
+    "message": "enter the full name",
     "description": "2.0 admin.js"
   },
   "systemAdmin.password": {
@@ -2068,7 +2068,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips2": {
-    "message": "Click to enter the password",
+    "message": "enter the password",
     "description": "2.0 admin.js"
   },
   "systemAdmin.confirmPassword": {
@@ -2532,11 +2532,11 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips21": {
-    "message": "Click to enter the student ID",
+    "message": "enter the student ID",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips22": {
-    "message": "Click to enter the username",
+    "message": "enter the username",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.email": {
@@ -2544,7 +2544,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips23": {
-    "message": "Click to enter the email",
+    "message": "enter the email",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips24": {
@@ -2568,7 +2568,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips25": {
-    "message": "Click to enter the phone number",
+    "message": "enter the phone number",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips26": {
@@ -2972,7 +2972,7 @@
     "description": "2.0 admin.js"
   },
   "exit": {
-    "message": "Exit",
+    "message": "Logout",
     "description": "2.0 admin.js"
   },
   "teachingTeacher": {
@@ -3925,6 +3925,46 @@
   },
   "sass.totalCount": {
     "message": "Total",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "Feature configuration",
+    "description": "2.0 admin.js"
+  },
+  "permission.actionConfirmTip": {
+    "message": "Enter {msg} to confirm the operation",
+    "description": "2.0 admin.js"
+  },
+  "permission.actionCheckPwd": {
+    "message": "Enter the administrator password to confirm the above operations",
+    "description": "2.0 admin.js"
+  },
+  "permission.actionConfirmTitle": {
+    "message": "Operation confirmation",
+    "description": "2.0 admin.js"
+  },
+  "permission.actionConfirmDesc": {
+    "message": "This operation will affect all orgnizations in the system, please confirm before continuing.",
+    "description": "2.0 admin.js"
+  },
+  "permission.actionConfirmMsg": {
+    "message": "Feature change",
+    "description": "2.0 admin.js"
+  },
+  "permission.confirmBtn": {
+    "message": "Confirm",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Close",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Cancel",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "enter the confirm password",
     "description": "2.0 admin.js"
   }
 }

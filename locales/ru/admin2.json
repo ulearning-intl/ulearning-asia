@@ -4263,6 +4263,10 @@
     "message": "Количество одновременных транзакций",
     "description": "新版管理后台 zh.json"
   },
+  "dataCenter.college": {
+    "message": "Колледж",
+    "description": "新版管理后台 zh.json"
+  },
   "dataCenter.attendanceTotalNum": {
     "message": "Общее количество перекличек",
     "description": "2.0 admin.js"
@@ -4271,16 +4275,8 @@
     "message": "Общее количество голосов",
     "description": "2.0 admin.js"
   },
-  "dataCenter.attendancePublishRankingTop": {
-    "message": "Опубликовать рейтинг 10 лучших посещаемости",
-    "description": "2.0 admin.js"
-  },
   "dataCenter.pleaseUseAdminAccount": {
     "message": "войдите в систему под своей учетной записью Администратора",
-    "description": "2.0 admin.js"
-  },
-  "dataCenter.exerAverCompletionRate": {
-    "message": "Средний процент завершения упражнений",
     "description": "2.0 admin.js"
   },
   "dataCenter.teacherLoginTrend": {
@@ -4299,6 +4295,10 @@
     "message": "Студент-раз",
     "description": "2.0 admin.js"
   },
+  "dataCenter.homeworkTotalNum": {
+    "message": "Общее количество домашних заданий",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.personalHomework": {
     "message": "индивидуальное задание",
     "description": "2.0 admin.js"
@@ -4311,12 +4311,12 @@
     "message": "Тест",
     "description": "2.0 admin.js"
   },
-  "dataCenter.discussNum": {
-    "message": "Количество тем",
-    "description": "2.0 admin.js"
-  },
   "dataCenter.examAnalysis": {
     "message": "Анализ экзамена",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "Распределение типов ресурсов",
     "description": "2.0 admin.js"
   },
   "dataCenter.teachingDynamic": {
@@ -4771,6 +4771,10 @@
     "message": "Банк вопросов: Общее количество созданных вопросов преподавателями нашего учебного заведения вне зависимости от выбранного временного периода\",\"examPaperTotalNum\": \"Общее количество экзаменационных работ",
     "description": "2.0 admin.js"
   },
+  "dataCenter.examPaperTotalNum": {
+    "message": "Общее количество экзаменационных работ",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.dataTips41": {
     "message": "Общее количество экзаменационных работ, статистика от общего количества, созданных учителями нашего учебного заведения, не зависит от выбранного периода времени",
     "description": "2.0 admin.js"
@@ -4958,5 +4962,9 @@
   "teachingAdmin.allCollege": {
     "message": "все факультеты",
     "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "Дата-центр",
+    "description": "新版管理后台 zh.json"
   }
 }

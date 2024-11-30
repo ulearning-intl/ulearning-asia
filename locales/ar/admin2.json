@@ -4271,6 +4271,10 @@
     "message": "اللغة الافتراضية",
     "description": "新版管理后台 zh.json"
   },
+  "dataCenter.college": {
+    "message": "معهد",
+    "description": "新版管理后台 zh.json"
+  },
   "dataCenter.attendanceTotalNum": {
     "message": "أسماء الحضور",
     "description": "2.0 admin.js"
@@ -4287,6 +4291,22 @@
     "message": "سلوك تسجيل دخول المعلمين",
     "description": "2.0 admin.js"
   },
+  "dataCenter.studentLoginTrend": {
+    "message": "سلوك تسجيل دخول الطالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "تسجيلات دخول للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "مجموع المهام",
+    "description": "2.0 admin.js"
+  },
   "dataCenter.personalHomework": {
     "message": "المهام الفردية",
     "description": "2.0 admin.js"
@@ -4301,6 +4321,10 @@
   },
   "dataCenter.examAnalysis": {
     "message": "تحليلات امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "توزيع نوع المصادر",
     "description": "2.0 admin.js"
   },
   "dataCenter.teachingDynamic": {
@@ -4946,5 +4970,9 @@
   "teachingAdmin.allCollege": {
     "message": "جميع الكليات",
     "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "مركز البيانات",
+    "description": "新版管理后台 zh.json"
   }
 }
