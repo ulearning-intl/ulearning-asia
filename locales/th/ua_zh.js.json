@@ -107,10 +107,6 @@
     "message": "เพิ่มเมนู",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "เพิ่มเมนูระดับแรกได้สูงสุด 15 เมนู",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "เพิ่มหมายเหตุ",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "เพิ่มเพลท",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "จำนวนเพลทที่เพิ่มเป็นแค่หมายเลข 0, 3, 6, 9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": "หน่วยทั้งหมด",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "การอ่าน",
-    "description": "UA"
-  },
   "analyze": {
     "message": "วิเคราะห์",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "เนื้อหาบทความ",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "รายละเอียดบทความ",
-    "description": "UA"
-  },
   "articleName": {
     "message": "ชื่อบทความ",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "เอกสารแนบ",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "คําถามที่ต้องอัปโหลดไฟล์แนบ",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "หากการตั้งชื่อมีระเบียบสามารถจัดเรียงอัตโนมัติตามหมายเลขต่ำถึงสูง โปรดแก้ไขชื่อของวิดีโอก่อนที่จะอัพโหลด เช่น ei_unit1_001, lei_unit1_02……",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "การแปลงรหัสอัตโนมัติ (รูปแบบ mp3 ที่เข้ารหัส AAC), การแบ่งส่วน (การเล่นสื่อสตรีมมิ่ง), การบีบอัด",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "การแปลงรหัสอัตโนมัติ (รูปแบบ mp4 ที่เข้ารหัส H.264), การแบ่งส่วน (การเล่นสื่อสตรีมมิ่ง), การบีบอัด (128 ~ 1024kbps)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "รูปภาพประจำตัว",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "กลับไปที่รายการ",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "ยกเลิก",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "ยกเลิกการซ่อน",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "ยกเลิกทอพ",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "โครงสร้างสารบัญไม่เหมาะสม โปรดปฏิบัติตามโครงสร้างของบท>ส่วน>หน้าเพื่อสร้างสารบัญ ",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "บทนี้เรียนเรียบร้อยแล้ว:",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "เพจหน้าต่อไปของบทนี้ยังไม่เสร็จ",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "ดูเพิ่มเติม",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "ภาษาจีน",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "ภาษาอินโดนีเซีย",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "จัดเก็บสารบัญ",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "หัวข้อทั่วไป",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "กำลังลบองค์ประกอบ",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "ยืนยัน",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "กรุณาใส่หัวข้อของบทความ",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "กรุณาใส่เนื้อหาบทความหรือเพิ่มไฟล์แนบ",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "กรุณาเพิ่มเมนูก่อน",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "โปรดเลือกเมนูของประเภทบทความ",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "ไฟล์แนบต้องไม่เกิน 10 ไฟล์",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "ไฟล์นี้ได้ถูกอัปโหลดเรียบร้อย ยืนยันที่จะลบ? ",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "หลังจากลบเมนูนี้ เมนูนี้และเมนูย่อยจะถูกลบไป ยืนยันจะลบ?",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "แน่ใจว่าต้องการลบคําถามย่อยนี้?",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "ยืนยันลบโฟลเดอร์ดังกล่าวนี้รวมถึงโฟลเดอร์ย่อยและไฟล์?",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "ยืนยันลบเมนูนี้?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "หลังจากซ่อนเมนูนี้ เมนูนี้และเมนูย่อยจะไม่ปรากฏบนเว็บไซต์ แน่ใจว่าจะซ่อน?",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "ยืนยันซ่อนเมนูนี้?",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "เพิ่มต่อ",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "สร้างต่อ",
     "description": "UA"
   },
   "continueSelect": {
@@ -731,10 +639,6 @@
     "message": "แนะนำโดยละเอียด",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "ภาษาของหลักสูตร",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "การจัดการหลักสูตร",
     "description": "UA"
@@ -745,10 +649,6 @@
   },
   "courseName2": {
     "message": "ชื่อหลักสูตร",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "เครื่องเล่นหลักสูตร",
     "description": "UA"
   },
   "coursePortal": {
@@ -907,10 +807,6 @@
     "message": "ตัดวิดีโอ",
     "description": "UA"
   },
-  "dataError": {
-    "message": "ข้อมูลไม่ถูกต้อง",
-    "description": "UA"
-  },
   "totalData": {
     "message": "ข้อมูลรวม {n} แถว",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +825,6 @@
   },
   "deleteFail": {
     "message": "การลบล้มเหลว",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "ลบเมนู",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +889,6 @@
   },
   "demonstrationPronunciation": {
     "message": "ตัวอย่างการออกเสียง",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "คำอธิบายโมดูล",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1071,6 @@
     "message": "โปรดป้อนชื่อและยืนยันก่อน",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "โปรดป้อนคําอธิบายโดยละเอียด",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "กรุณาใส่ชื่อหลักสูตร",
     "description": "UA"
@@ -1249,22 +1133,6 @@
   },
   "enterLink": {
     "message": "โปรดป้อนที่อยู่ลิงก์",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "กรุณากรอกที่อยู่ลิงค์ที่ถูกต้อง",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "กรุณาใส่ชื่อเมนู ไม่เกินแปดตัวอักษร",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "กรุณากรอกหัวข้อเมนู มากสุดไม่เกิน 8 ตัวอักษรจีนหรือ 16 ตัวอักษร",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "กรุณาใส่ชื่อไฟล์ใหม่",
     "description": "UA"
   },
   "enterPageName": {
@@ -1371,10 +1239,6 @@
     "message": "มีข้อผิดพลาดเกิดขึ้นขณะบันทึก",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "ข้อสอบแบบเขียนบรรยาย",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "ตัวอย่าง",
     "description": "UA"
@@ -1385,10 +1249,6 @@
   },
   "exercisesNum": {
     "message": "จำนวนแบบฝึกหัด",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "หากยังคงต้องการออก บันทึกการเรียนรู้ของส่วนนี้อาจไม่ได้รับการบันทึก",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1303,6 @@
     "message": "คำตอบอ้างอิง (จำเป็น) &#10 1.กรอกเฉพาะภาษาอังกฤษไม่เกิน 2,000 คำ &#10 2. กรุณาพยายามครอบคลุมข้อความคำเตือน จำนวนคำตอบยิ่งเยอะยิ่งดี แนะนำมากกว่า 5 คำตอบ หลายคำตอบโปรดใช้เครื่องหมาย| เพื่อแยกออกจากกัน&#10;3.การประเมินผลแบบเปิดจะประเมินโดยรวมเนื้อหาและการออกเสียง",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "นักเรียนไม่สามารถดูข้อความ ระบบจะให้คะแนนตามข้อความนี้ ข้อความและการออกเสียงต้องเหมือนกันทุกประการ เช่น 1996 จำเป็นต้องแปลงเป็นหนึ่งพันเก้าร้อยเก้าสิบหก ไม่รองรับตัวอักษรจีน",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "เหตุผลที่ไม่ผ่าน",
     "description": "UA"
@@ -1465,10 +1321,6 @@
   },
   "fileNumLimit1": {
     "message": "เอกสาร",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "เปลี่ยนชื่อไฟล์",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1423,6 @@
     "message": "ไฟล์",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "คำถามการคำนวณสูตร",
-    "description": "UA"
-  },
   "free": {
     "message": "ฟรี",
     "description": "UA"
@@ -1607,10 +1455,6 @@
     "message": "รูปแบบของข้อมูลที่ได้รับไม่ถูกต้องกรุณาติดต่อฝ่ายบริการลูกค้า",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "ข้อแบบมีตัวเลือกหลายข้อ จะให้คะแนนเมื่อคำตอบตรงกับตัวเลือกที่ถูกต้องทั้งหมดเท่านั้นตัวเลือกที่ขาดหายไปและตัวเลือกที่ผิดจะไม่ได้คะแนน",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "เกิดข้อผิดพลาดเมื่อรับเนื้อหาของเพจ",
     "description": "UA"
@@ -1635,10 +1479,6 @@
     "message": "ยอมทิ้งการกรอก",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "เช็ค",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "รับทราบ",
     "description": "UA"
@@ -1661,14 +1501,6 @@
   },
   "hideInWebsite": {
     "message": "มันจะไม่ปรากฏบนเว็บไซต์",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "ซ่อนเมนู",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "เพจที่ซ่อนอยู่ไม่นับเวลา",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1559,6 @@
     "message": "ชั่วโมงเรียน",
     "description": "UA"
   },
-  "hours1": {
-    "message": "ชั่วโมง",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "นิยามไอคอน",
-    "description": "UA"
-  },
   "image": {
     "message": "รูปภาพ",
     "description": "UA"
@@ -1763,10 +1587,6 @@
     "message": "แทรกข้อทดสอบ ",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "จุดแทรกต้องอยู่ระหว่างเวลาเริ่มต้นและเวลาสิ้นสุด",
-    "description": "UA"
-  },
   "institute": {
     "message": "สถาบันที่เปิดลักสูตร",
     "description": "UA"
@@ -1775,20 +1595,12 @@
     "message": "นักแปล",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "แนะนำเนื้อหา",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "หลักสูตรนี้ผูกกับชั้นเรียนดังต่อไปนี้",
     "description": "UA"
   },
   "isTop": {
     "message": "ทอพหรือไม่",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "เข้าร่วมหลักสูตร",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1655,6 @@
     "message": "อัพเดทครั้งที่แล้ว",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "อัพเดทล่าสุด",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "เรียนรู้เพจอื่น ๆ",
     "description": "UA"
@@ -1879,10 +1687,6 @@
     "message": "ลิงค์",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "คำถามการฟังภววิสัย",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "กำลังโหลดหลักสูตร",
     "description": "UA"
@@ -1899,10 +1703,6 @@
     "message": "เกิดข้อผิดพลาดในการโหลด อาจเป็นสาเหตุดังต่อไปนี้：",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "การโหลดล้มเหลว",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "การโหลดเสร็จสมบูรณ์",
     "description": "UA"
@@ -1911,16 +1711,8 @@
     "message": "กำลังโหลด โปรดรอสักครุ่ ... ",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "กำลังโหลด โปรดรอสักครุ่ .",
-    "description": "UA"
-  },
   "logout": {
     "message": "ออกจากระบบ.",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "คุณมีคำตอบยังไม่ได้บันทึก ยืนยันต้องการออกจะเพจนี้?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1733,6 @@
   },
   "markRuleTip": {
     "message": "องค์ประกอบการให้คะแนนพูดจะเปรียบเทียบข้อความที่คุณกรอกและการออกเสียงของผู้ใช้ ได้วิธีการประเมินผลตามการออกเสียงของผู้ใช้  ขณะนี้รองรับวิธีการให้คะแนนสามวิธี: คำ / ประโยค / ย่อเพจ  ระยะเวลาการให้คะแนนคำศัพท์สูงสุดคือ 20 วินาที ระยะเวลาการให้คะแนนประโยคสูงสุดคือ 40 วินาทีและระยะเวลาการให้คะแนนย่อเพจสูงสุดคือ 180 วินาที  หากผู้ใช้ยังอ่านไม่เสร็จหลังเกินเวลาที่กำหนดไว้ ระบบจะให้คะแนนการอ่านโดยอัตโนมัติตามการอ่าน    โปรดสังเกตุจำนวนคำศัพท์ในข้อความ  คะแนนผ่านของระบบคือ 60 คะแนน ผู้ที่เกิน 60 จะแสดงเป็นสีเขียวและที่ไม่ถึง 60 คะแหนจะแสดงเป็นสีแดง ",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "ข้อวิเคราะห์วัสดุ",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "แสดงว่าตัวเลือกนั้นได้รับคำตอบอย่างถูกต้อง",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "แสดงว่าตัวเลือกไม่ถูกต้องและคำตอบไม่ถูกต้อง",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "แสดงว่าตัวเลือกนั้นเป็นคำตอบที่ถูกต้อง แต่ขาดตัวเลือก",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1793,6 @@
   },
   "multipleChoiceQ": {
     "message": "ข้อมีหลายตัวเลือก",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "ข้อเลือกคำตอบที่มีหลายคำถาม ไม่จำกัดลำดับ",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1929,6 @@
   },
   "notUpload10AtOnce": {
     "message": "อัพโหลดได้สูงสุด 10 คลิปต่อครั้ง",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "ไม่สามารถอัพโหลดไฟล์เดียวกัน",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2223,8 @@
     "message": "สำนักพิมพ์",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "ระบบการจัดการเว็บไซต์หลักสูตรที่มีคุณภาพ ",
-    "description": "UA"
-  },
   "question": {
     "message": "คำถาม",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "อัตราที่ถูกต้องแบบฝึกหัด：",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "ข้อทดสอบID：",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2343,6 @@
     "message": "กลับ",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "เปลี่ยนวิดีโอ",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "ข้อเสนอการออกแบบการเรียนการสอน    ： ตามเป้าหมายการเรียนรู้ที่กำหนดไว้ตอนแรก หลังจากจบเนื้อหาการสอนแล้วให้ตั้งคำถามทดสอบที่เกี่ยวข้อง   ในด้านหนึ่งสามารถช่วยให้ผู้เรียนเสริมสร้างความรู้ในเวลาที่เหมาะสม ， ในอีกด้านหนึ่งก็สามารถตรวจสอบได้ว่าผู้เรียนบรรลุตามข้อกำหนดของเป้าหมายการเรียนรู้หรือไม่ตามสถานการณ์ของการตอบคำถาม   ดังนั้นจึงมีการทบทวนเฉพาะ 【รายงานผลงาน】  สามารถเพิ่มเครื่องมือที่ส่วนท้ายของแต่ละหน่วย คุณสามารถตั้งค่าจุดความรู้ของหน่วยนี้และแบบฝึกหัดที่เกี่ยวข้อง ，ระบบจะตอบกลับความแม่นยำของแต่ละจุดให้กับนักเรียน",
     "description": "UA"
@@ -2667,24 +2419,12 @@
     "message": "บันทึกการเรียนรู้ส่วนล้มเหลว ",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "เก็บบันทึก",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "การบันทึกล้มเหลว เกิดข้อผิดพลาด",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "การลบล้มเหลว ผิดปกติ",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "บันทึกสำเร็จ",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "กำลังบันทึกเนื้อหาที่เพิ่งเรียบเรียง",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2712,10 +2452,6 @@
     "description": "UA"
   },
   "searchByKeyword": {
-    "message": "ค้นหาด้วยคำสำคัญหรือตัวเลข",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
     "message": "ค้นหาด้วยคำสำคัญหรือตัวเลข",
     "description": "UA"
   },
@@ -2773,10 +2509,6 @@
   },
   "selectAllQuestions": {
     "message": "เลือกข้อทดสอบทั้งหมดในเพจนี้",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "เลือกและสร้างข้อทดสอบ",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2671,6 @@
     "message": "ตั้งบทออดิชั่น",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "ตั้งประเภทคำถามทั่วไป",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "ขณะนี้เฉพาะเพจที่มีแบบฝึกหัดเท่านั้น สามารถตั้งเวลากำหนด ",
     "description": "UA"
@@ -3047,20 +2775,12 @@
     "message": "ข้อเรียงลำดับ",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "โมดูลการพูด",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "กรุณาคลิกที่ \"ออกจากเพจแยกหน้าจอ\" เพื่อส่งคำตอบหลังจากทำเสร็จ",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "คะแนนการพูด",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "องค์ประกอบการให้คะแนนการพูดไม่สามารถอยู่ในเพจเดียวกับวิดีโอ แบบฝึกหัด การสวมบทบาท",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2847,12 @@
     "message": "(จะไม่แสดงในจอนักเรียน)",
     "description": "UA"
   },
-  "study": {
-    "message": "เรียนแล้ว",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "ส่งเรียบร้อย",
     "description": "UA"
   },
   "suchAs": {
     "message": "เช่น:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "ติดตามเวลาเรียน",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2869,6 @@
   },
   "syllabus": {
     "message": "โครงร่างหลักสูตร",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "โมดูลไวยากรณ์",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +3003,12 @@
     "message": "คะแนนรวม",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "ข้อแปล",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "ข้อการวินิจฉัย",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "เว็บไซต์ULearning",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ทรัพยากรได้:",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3049,6 @@
   },
   "updateWebsiteTips": {
     "message": "หากคุณต้องการแก้ไขไซต์การประกาศ โปรดถอนหลักสูตรและประกาศใหม่",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "อัพเดทเรียบร้อย",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3127,6 @@
     "message": "การอัพโหลดไฟล์ล้มเหลว",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "เวลาอัพโหลด",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "อัพโหลดรูปแบบ srt เท่านั้น",
     "description": "UA"
@@ -3453,10 +3145,6 @@
   },
   "uploader": {
     "message": "ผู้ที่อัพโหลด",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "ขนาดภาพไม่เกิน 2M",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3221,6 @@
   },
   "viewSelectedQuestion": {
     "message": "ดูคำถามที่เลือก",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "โมดูลคำศัพท์",
     "description": "UA"
   },
   "waitPreview": {
@@ -3661,10 +3345,6 @@
   },
   "codeTip": {
     "message": "บทเรียนแต่ละเพจสอดคล้องกับคิวอาร์โค้ด หากลบเพจหลักสูตร คิวอาร์โค้ด จะไม่สามารถเข้าถึงได้！",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "มีการเลือกแล้ว {n} รายการ",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3487,6 @@
     "message": "ดูออฟไลน์",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "ดาวน์โหลดแล้ว",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "แคชในเครื่อง",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "จบการตอบคำถาม",
     "description": "UA"
@@ -3923,10 +3595,6 @@
     "message": "การลบล้มเหลว ผิดปกติ",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "การบันทึกล้มเหลว ข้อมูลไม่สมบูรณ์",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "ชื่ออักขระต้องอยู่ระหว่าง 1-10 ตัวอักษร",
     "description": "UA"
@@ -4025,10 +3693,6 @@
   },
   "Results": {
     "message": "การให้คะแนนของ：",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "ไม่อนุญาตการบันทึกเสียง ",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3883,6 @@
     "message": "กรุณาใส่เนื้อหา",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "หากคุณยังไม่ได้กรอกข้อมูลพื้นฐานของหลักสูตรสมาชิกในทีมและข้อมูลอื่น ๆ หากคุณไม่จําเป็นต้องแสดงบทเรียนในหน้าเว็บไซต์คุณสามารถข้ามได้",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "ใส่คีย์เวิร์ดเพื่อค้นหา",
     "description": "UA"
@@ -4267,88 +3927,8 @@
     "message": "ตั้งชื่อวิดีโอทั้งหมดในบทเรียนนี้พร้อมกัน",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "เครดิตเปิดต้องไม่เกิน 180 วินาที",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "การออกแบบการเรียนการสอน",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "อัปโหลดวิดีโอการบรรยายใบรับรองผลการเรียนและสื่ออื่น ๆ",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "กรุณาใส่เนื้อหา",
-    "description": "UA"
-  },
   "addFile": {
     "message": "เพิ่มไฟล์",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "เพิ่มประเภท",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "เพิ่มได้ถึง 10 หมวดหมู่",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "บรรยาย",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "กรณีการออกแบบการเรียนการสอน",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "การสะท้อนการสอน",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "บทเรียนการบรรยาย",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "บทเรียนไมโคร",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "ใบรับรองผลการเรียนการบรรยาย",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "กรุณาใส่ชื่อ",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "ชื่อต้องไม่เกิน 10 ตัวอักษร",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "มีหมวดหมู่ที่มีชื่อเดียวกันภายใต้บทเรียนปัจจุบันอยู่แล้ว",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบหมวดหมู่",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "เพิ่มไฟล์ได้สูงสุด 5 ไฟล์ต่อหมวดหมู่",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบไฟล์?",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "คุณไม่สามารถเลือกไฟล์เดียวกันได้",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "ชื่อประเภทต้องไม่ว่างเปล่า",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3979,6 @@
     "message": "การมีส่วนร่วม",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "จํานวนการเข้าชมเว็บไซต์",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "การสนับสนุนทางเทคนิค",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "ขอแนะนําให้ใช้เบราว์เซอร์ IE8 หรือสูงกว่าความละเอียด 1024 * 798 ขึ้นไปเพื่อเข้าถึงเว็บไซต์นี้",
-    "description": "UA"
-  },
   "username": {
     "message": "ชื่อผู้ใช้",
     "description": "UA"
@@ -4449,14 +4017,6 @@
   },
   "iframeErr1": {
     "message": "กรุณาใส่รหัส iframe",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "รูปภาพหน้าปก",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "เมื่อมีการเผยแพร่หลักสูตร หลักสูตรจะเปลี่ยนเป็นสถานะเผยแพร่แล้ว",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4099,8 @@
     "message": "การส่งออกไฟล์ CC ผิดพลาด",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "เมื่อถอดบทเรียนออกจากชั้นวางแล้ว จะไม่สามารถใช้งานได้ และไม่สามารถเผยแพร่ซ้ําหรือวางบนชั้นวางได้ คุณแน่ใจหรือว่าจะลบบทเรียน?",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "คลังทรัพยากรแขนงวิชา",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "เพิ่มทรัพยากรไลบรารีทรัพยากรหัวเรื่อง",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "ดึงเข้าสำเร็จ",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "มีทรัพยากรที่นําเข้าซ้ํากัน",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "ปรับเปลี่ยนชื่อเรื่อง",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "การแปลงรหัสโปรดตรวจสอบในภายหลัง",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "ไฟล์ไม่รองรับการแสดงตัวอย่างออนไลน์",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "กรุณาดาวน์โหลดและดู",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "เชื่อมโยงจุดความรู้",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "กราฟความรู้",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n} จุดความรู้",
-    "description": "UA"
-  },
   "template": {
     "message": "แม่ แบบ",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "แทรกเทมเพลตลงในเนื้อหาของคุณ",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "ส่งออก PDF",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "โปรดเลือกเนื้อหาของแคตตาล็อกที่คุณต้องการส่งออก",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "เวลาในการส่งออกอาจใช้เวลานาน โปรดอดทนรอ",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "หากเบราว์เซอร์บล็อกหน้าต่างป๊อปอัป โปรดเลือกที่จะอนุญาตหน้าต่างป๊อปอัปของเว็บไซต์เสมอ",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "การส่งออก PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "ยกเลิกการส่งออก",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "โปรดเลือกชื่อส่วนหรือชื่อหน้า",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "คลิกเพื่อตรวจดู",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "หมายเหตุ: สําหรับฟังก์ชัน [การจัดการภาคการศึกษา] รายการจะถูกย้ายไปยังโมดูล [การประกาศหลักสูตร] ในหน้ารายการชั้นเรียน",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "เนื้อหาของแต่ละหน้าต้องไม่เกิน 100,000 อักขระ หากเนื้อหาถูกวางจากตัวแก้ไขของบุคคลที่สามสไตล์จะใช้อักขระจํานวนหนึ่งด้วย",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4647,8 +4115,52 @@
     "message": "การส่งออกไฟล์โปรดอย่าออกจากหน้าปัจจุบัน!",
     "description": "UA"
   },
-  "miniExport": {
-    "message": "การส่งออกพื้นหลัง",
+  "uploadVMResource": {
+    "message": "อัปโหลดทรัพยากรปลอม",
+    "description": "UA"
+  },
+  "VMResource": {
+    "message": "แหล่งข้อมูลปลอม",
+    "description": "UA"
+  },
+  "VMResourcePreviewSet": {
+    "message": "ดูตัวอย่างการตั้งค่า",
+    "description": "UA"
+  },
+  "selecVMREsource": {
+    "message": "เลือกทรัพยากรปลอม",
+    "description": "UA"
+  },
+  "enterVMResourceKeywordSearch1": {
+    "message": "ป้อนคําหลักทรัพยากรปลอมเพื่อค้นหา",
+    "description": "UA"
+  },
+  "VMResourceWithoutEntranceTips": {
+    "message": "ทรัพยากรไม่มีรายการตัวอย่าง โปรดเพิ่มรายการตัวอย่าง!",
+    "description": "UA"
+  },
+  "VMResourcePreviewSetting": {
+    "message": "ดูตัวอย่างการตั้งค่า",
+    "description": "UA"
+  },
+  "VMResourceEntrancePlaceholder": {
+    "message": "โปรดเลือกพอร์ทัลตัวอย่าง",
+    "description": "UA"
+  },
+  "VMResourceUploadSuccessdialogs": {
+    "message": "อัปโหลดทรัพยากรปลอมสําเร็จแล้ว โปรดตั้งค่าทางเข้าตัวอย่าง!",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips": {
+    "message": "ตั้งค่าพอร์ทัลตัวอย่างสําเร็จแล้ว โปรดแทรกทรัพยากรอีกครั้ง",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips1": {
+    "message": "ตั้งค่าพอร์ทัลตัวอย่างสําเร็จ",
+    "description": "UA"
+  },
+  "VMResourceHoverTips": {
+    "message": "แทรกทรัพยากรปลอมลงในเนื้อหาของคุณ",
     "description": "UA"
   }
 }
