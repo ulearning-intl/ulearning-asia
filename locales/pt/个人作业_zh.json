@@ -139,14 +139,6 @@
     "message": "Selecione",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "máximo Carregar",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "um anexo",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "O Vídeo não pode exceder 1G",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "Nota: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "Sem avaliação",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "Este colega de classe não deixou comentários",
     "description": "个人作业zh_js"
@@ -743,12 +731,36 @@
     "message": "Configurações da Tarefa",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "Este tipo de Tarefa é incapaz de abrir no APP, por favor, abra no navegador para continuar usando",
+  "m.syncGoogleClassroom": {
+    "message": "Sincronizar com o Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "Abrir no navegador",
+  "m.syncTip1": {
+    "message": "*Vincule primeiro o curso do Google Classroom,",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "Ir para o Curso em Pacote",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*Se estiver marcado, o conteúdo será sincronizado com o curso do Google Classroom. Algumas configurações podem não ser sincronizadas com êxito.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "Para obter detalhes, consulte a documentação de ajuda",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(Sincronização bem-sucedida)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(Falha na sincronização)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "O conteúdo de rascunho não será sincronizado",
     "description": "个人作业zh_js"
   }
 }

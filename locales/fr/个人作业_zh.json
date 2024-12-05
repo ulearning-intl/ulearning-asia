@@ -139,14 +139,6 @@
     "message": "Veuillez choisir",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": " Télécharger tout au plus ",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "Pièces jointes",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": " La vidéo ne doit pas dépasser 1G ",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "Score: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": " Aucun commentaire laissé",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": " L’étudiant n’a pas laissé de commentaire. ",
     "description": "个人作业zh_js"
@@ -743,12 +731,36 @@
     "message": "Attribuer",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "Ce type de devoir ne peut pas être ouvert dans l'APP, veuillez continuer avec le navigateur.",
+  "m.syncGoogleClassroom": {
+    "message": "Synchroniser avec Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "Ouvrir dans le navigateur",
+  "m.syncTip1": {
+    "message": "*Veuillez d’abord lier le cours Google Classroom,",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "Aller au cours groupé",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*Si cette case est cochée, le contenu sera synchronisé avec le cours Google Classroom. Il se peut que certains paramètres ne soient pas synchronisés correctement.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "Pour plus de détails, veuillez vous référer à la documentation d’aide",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(Synchronisation réussie)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(Échec de la synchronisation)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "Le contenu des brouillons ne sera pas synchronisé",
     "description": "个人作业zh_js"
   }
 }

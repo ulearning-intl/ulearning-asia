@@ -139,14 +139,6 @@
     "message": "請選擇",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "最多上傳",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "個附件",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "視頻不能超過1G",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "得分：{score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "沒有留評語",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "該同學沒有留評語",
     "description": "个人作业zh_js"
@@ -743,12 +731,36 @@
     "message": "作業設置",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "該類型作業無法在APP中打開，請在瀏覽器中打開繼續使用",
+  "m.syncGoogleClassroom": {
+    "message": "同步到谷歌課堂",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "在瀏覽器打開",
+  "m.syncTip1": {
+    "message": "*請先綁定谷歌課堂課程，",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "前往綁定課程",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*勾選后，內容將同步至谷歌課堂課程。 部分設置可能無法同步成功，",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "詳見幫助文件",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "（同步成功）",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "（同步失敗）",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "草稿內容將不會同步",
     "description": "个人作业zh_js"
   }
 }

@@ -7794,5 +7794,209 @@
   "uploaderLoadingTip": {
     "message": "正在上傳，請不要關閉當前頁面",
     "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "綁定谷歌課堂課程后，這裡將顯示課程的assignment、material。 您可以在綁定時選擇自動同步或手動同步，同步后的資源將顯示在優學院「作業」「資源」頁面。",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "您還未綁定谷歌課堂課程，請登陸谷歌賬號進行綁定",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "選擇需要綁定的課程",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "輸入課程名稱搜索",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "未找到該課程",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*您的谷歌課堂還沒有課程，請先創建課程，",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "優學院和谷歌課堂的內容將自動同步至對方平臺",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "您可以手動同步內容：",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "前往優學院課程頁面>設置>“谷歌課堂”或前往優學院課程頁面>“資源”“作業”頁面中進行同步，或在發佈時勾選“同步至谷歌課堂”",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "您已綁定谷歌課堂：",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "已經完成歷史數據同步！ 成功同步 {n} 條內容",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": "，由於網路問題 {n} 條內容同步失敗",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "網路問題導致歷史數據同步失敗！",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "存在數據衝突，請選擇資料覆蓋方式以繼續同步",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "已成功同步 {n} 條內容",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "登錄谷歌",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "自動同步",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "手動同步",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "綁定",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "綁定失敗",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "解綁",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "解綁失敗",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "未同步",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "已同步",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "請輸入關鍵字搜索",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "批量同步",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "批量取消同步",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "一鍵同步歷史數據",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "同步到優學院",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "同步",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "取消同步",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "暫不同步",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "正在為您同步數據",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "重試",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "覆蓋舊數據",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "忽略",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "同步成功",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "同步失敗",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "取消同步成功",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "取消同步失敗",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "批量同步成功",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "批量同步失敗",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "批量取消同步成功",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "批量取消同步失敗",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "谷歌課堂",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "請輸入1-1000的整數",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "資料",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "作業",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "點擊前往谷歌課堂創建",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "解綁後已同步的舊數據保留，新數據將不再同步",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "確定解綁",
+    "description": "2.0 course.js"
   }
 }

@@ -7738,5 +7738,209 @@
   "uploaderLoadingTip": {
     "message": "กําลังอัปโหลด โปรดอย่าปิดหน้าปัจจุบัน",
     "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "หลังจากผูกหลักสูตร Google Classroom แล้ว งานที่ได้รับมอบหมายและเนื้อหาของหลักสูตรจะแสดงที่นี่ คุณสามารถเลือกการซิงโครไนซ์อัตโนมัติหรือการซิงโครไนซ์ด้วยตนเองเมื่อผูก และทรัพยากรที่ซิงโครไนซ์จะแสดงในหน้า \"การมอบหมาย\" และ \"ทรัพยากร\" ของ UniAcademy",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "คุณยังไม่ได้ผูกหลักสูตร Google Classroom โปรดลงชื่อเข้าใช้บัญชี Google ของคุณเพื่อผูก",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "เลือกหลักสูตรที่คุณต้องการผูก",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "ใส่ชื่อหลักสูตรเพื่อค้นหา",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "ไม่พบหลักสูตร",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*คุณยังไม่มีหลักสูตรใน Google Classroom โปรดสร้างหลักสูตรก่อน",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "เนื้อหาของ UATRY และ Google Classroom จะซิงค์กับแพลตฟอร์มของกันและกันโดยอัตโนมัติ",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "คุณสามารถซิงค์เนื้อหาด้วยตนเองได้ดังนี้",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "ไปที่หน้าหลักสูตร UA >ตั้งค่า> \"Google Classroom\" หรือไปที่หน้าหลักสูตร UA >หน้า \"แหล่งข้อมูล\" และ \"งานมอบหมาย\" เพื่อซิงค์ หรือเลือก \"ซิงค์กับ Google Classroom\" เมื่อเผยแพร่",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "คุณได้ลิงก์ Google Classroom ไว้:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "การซิงโครไนซ์ข้อมูลในอดีตเสร็จสมบูรณ์แล้ว! {n} ชิ้นของเนื้อหาถูกซิงค์สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": ", {n} ส่วนของเนื้อหาไม่สามารถซิงค์ได้เนื่องจากปัญหาเครือข่าย",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "ปัญหาเครือข่ายทําให้การซิงโครไนซ์ข้อมูลในอดีตล้มเหลว!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "หากมีข้อมูลทับซ้อนกัน ให้เลือกวิธีการเขียนทับข้อมูลเพื่อซิงค์ต่อ",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "{n} ชิ้นของเนื้อหาถูกซิงค์สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "ลงชื่อเข้าใช้ Google",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "การซิงค์อัตโนมัติ",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "การซิงค์ด้วยตนเอง",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "ผูก",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "ผูกบัญชีไม่สำเร็จ",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "การปลดผูก",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "การถอดการเชื่อมต่อล้มเหลว",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "ไม่ซิงค์",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "ซิงค์",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "กรุณาค้นหาโดยคำสำคัญ",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "การซิงค์เป็นชุด",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "ยกเลิกการซิงค์แบทช์",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "การซิงโครไนซ์ข้อมูลในอดีตในคลิกเดียว",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "ซิงค์กับ U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "ซิงโครนัส",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "ยกเลิกการซิงค์",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "ไม่ซิงโครไนซ์ในขณะนี้",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "กําลังซิงค์ข้อมูลให้คุณ",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "ลอง",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "เขียนทับข้อมูลเก่า",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "เพิกเฉย",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "ซิงค์ข้อมูลสำเร็จ",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "การซิงโครไนซ์ล้มเหลว",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "การยกเลิกการซิงโครไนซ์สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "ยกเลิกการซิงค์ไม่สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "การซิงโครไนส์แบตช์สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "การซิงค์แบทช์ล้มเหลว",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "การยกเลิกการซิงโครไนซ์แบทช์สําเร็จ",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "การยกเลิกการซิงค์แบทช์ล้มเหลว",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "Google Classroom",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "กรุณาใส่จำนวนเต็ม 1-1000",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "ข้อมูล",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "การบ้าน",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "คลิกเพื่อไปที่ Classroom Create",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "ข้อมูลเก่าที่ซิงค์หลังจากยกเลิกการผูกจะถูกเก็บไว้ และข้อมูลใหม่จะไม่ซิงโครไนซ์อีกต่อไป",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "ยืนยันการปลดผูก",
+    "description": "2.0 course.js"
   }
 }
