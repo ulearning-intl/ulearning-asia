@@ -4974,5 +4974,181 @@
   "routers.dataCenter": {
     "message": "مركز البيانات",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate6": {
+    "message": "التخصيص",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate7": {
+    "message": "بالنسبة لصفحات الويب المخصصة ، يرجى تحديد هذا القالب",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.newsNotice": {
+    "message": "خبر صحفى",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.event": {
+    "message": "إدارة الفعاليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.allStatus": {
+    "message": "كافة الحالات",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.notStarted": {
+    "message": "لم يبدأ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.inProgress": {
+    "message": "قيد التنفيذ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.ended": {
+    "message": "تم الإنهاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.createTitme": {
+    "message": "تاريخ الإنشاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.status": {
+    "message": "الحالة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.edit": {
+    "message": "تعديل",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickDate": {
+    "message": "اختر التاريخ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickTime": {
+    "message": "اختر الوقت",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.orderNumber": {
+    "message": "رقم",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip1": {
+    "message": "نسبة العرض إلى الارتفاع للصورة الموصى بها: 16:9؛ الأشكال: بابوا غينيا الجديدة، jpg، gif، jpeg، bmp؛ حجم صورة مفردة: حتى 2 ميغابايت",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip2": {
+    "message": "قم بتحميل الصورة مرة أخرى بعد تحميلها لتحديث الصورة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip3": {
+    "message": "لا يمكن أن يكون حجم الصورة أكبر من {size}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip4": {
+    "message": "يرجى رفع صورة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.urlErrorTip": {
+    "message": "الرجاء إدخال عنوان URL الصحيح",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNotice": {
+    "message": "خبر صحفى",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.news": {
+    "message": "خبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.notice": {
+    "message": "إشعارات",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publish": {
+    "message": "نشر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNews": {
+    "message": "نشر الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsTitle": {
+    "message": "عناوين الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsContent": {
+    "message": "محتوى الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.uploadThumbnail": {
+    "message": "تحميل معاينة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsSuccess": {
+    "message": "نشر الأخبار بنجاح",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsFailure": {
+    "message": "فشل في نشر الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip1": {
+    "message": "الرجاء إدخال عنوان الخبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip2": {
+    "message": "الرجاء إدخال محتوى الخبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip3": {
+    "message": "يرجى تحديد المؤسسة التي تريد تلقي الأخبار منها",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventManagement": {
+    "message": "إدارة الفعاليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.addEvent": {
+    "message": "فعاليات جديدة",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.searchByEventTitle": {
+    "message": "إدخال بحث عن عنوان النشاط",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventTitle": {
+    "message": "عنوان الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventStartDateTime": {
+    "message": "وقت بدء الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventEndDateTime": {
+    "message": "وقت انتهاء الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventContent": {
+    "message": "محتوى الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "رابط توظيف المتطوعين",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.searchNewsAnno": {
+    "message": "الرجاء إدخال عنوان البيان الصحفي للبحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.title2": {
+    "message": "عنوان الإعلان الإخباري",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNoticeDesc": {
+    "message": "*سيتم عرض الإعلانات في بوابة المدرسة ومن قبل الكلية، وسيتم عرض الأخبار فقط في بوابة المدرسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
+    "description": "新版管理后台 zh.json"
   }
 }

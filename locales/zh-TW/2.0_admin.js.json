@@ -3967,8 +3967,108 @@
     "message": "請輸入確認密碼",
     "description": "2.0 admin.js"
   },
+  "teachingAdmin.eventManage": {
+    "message": "活動管理",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "新聞公告",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "新聞",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "公告",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "發布",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "新聞名稱",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "新聞內容",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "輸入新聞名稱",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*公告將展示在學校門戶和優學院中，新聞僅展示在學校門戶中",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "上傳預覽圖",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "圖片的比例建議采用 16:9；圖片格式：png, jpg, gif, jpeg, bmp；單張圖片大小不可大於2M",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "上傳圖片后再次上傳，更新圖片",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "圖片大小不可大於{size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "請上傳圖片",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "定製化",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "定製化網頁請選擇該範本",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "活動管理",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "新增活動",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "輸入活動標題搜索",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "活動標題",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "啟用開始時間",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "啟用結束時間",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "活動內容",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "志願者招募連結",
+    "description": "2.0 admin.js"
+  },
   "backToManagementCenter": {
     "message": "返回管理中心",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "啟用開始時間不能大於活動結束時間",
     "description": "2.0 admin.js"
   }
 }
