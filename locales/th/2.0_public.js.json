@@ -2515,12 +2515,60 @@
     "message": "รหัสผ่านต้องมีอักขระ 8-16 ตัวและมีทั้งตัวอักษรและตัวเลข (รหัสผ่านยึดตามตัวพิมพ์ใหญ่-เล็ก)",
     "description": "2.0 public.js"
   },
+  "programPreviewEntry": {
+    "message": "ดูตัวอย่างการตั้งค่า",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "เลือกพอร์ทัลแสดงตัวอย่าง",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "ไม่มีการตั้งค่ารายการตัวอย่างสําหรับทรัพยากรนี้ โปรดกลับไปที่รายการแล้วคลิก [แก้ไข] เพื่อเพิ่มรายการตัวอย่าง!",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "ทรัพยากรไม่มีรายการตัวอย่าง โปรดติดต่อผู้ดูแลระบบเพื่อเพิ่มรายการตัวอย่าง!",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "อัปโหลดสําเร็จ โปรดทําการตั้งค่าทรัพยากรให้เสร็จสิ้น!",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "เลือก",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "ทรัพยากรการจําลองเสมือน",
+    "description": "2.0 public.js"
+  },
   "organizationStatusWrong": {
     "message": "เกิดข้อผิดพลาดสถานะขององค์กร โปรดติดต่อผู้ดูแลระบบขององค์กร",
     "description": "2.0 public.js"
   },
   "loginNumberLimit": {
     "message": "จำนวนผู้เข้าสู่ระบบเกินขีดจำกัด โปรดลองอีกครั้งภายหลัง",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "แหล่งข้อมูลปลอม",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "รหัสผ่านสามารถรองรับเฉพาะตัวอักษร (คํานึงถึงตัวพิมพ์ใหญ่) ตัวเลข และอักขระพิเศษ (อักขระพิเศษคือวิธีการป้อนข้อมูลภาษาอังกฤษ!@#$%^&*()-_+={}[]:; ',./?<>|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "กลับไปยังศูนย์ดูแลการจัดการ",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "การเข้าร่วมหลักสูตรประสบความสําเร็จ",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "เข้าร่วมหลักสูตรไม่สําเร็จ",
     "description": "2.0 public.js"
   }
 }

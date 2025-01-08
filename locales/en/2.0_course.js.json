@@ -7859,8 +7859,12 @@
     "message": "Not submitted",
     "description": "2.0 course.js"
   },
+  "programDetailWarning": {
+    "message": "The preview entry has not been set for this resource, please return to the list and click [Edit] to set the preview entry!",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip1": {
-    "message": "After binding a Google Classroom course, the assignment and material of the course will be displayed here. You can choose automatic synchronization or manual synchronization when binding, and the synchronized resources will be displayed on the \"Assignments\" and \"Resources\" page of UniAcademy.",
+    "message": "After binding a Google Classroom course, the assignments and materials of the course will be displayed here. You can choose automatic synchronization or manual synchronization when binding, and the synchronized contents will be displayed on the \"Assignments\" and \"Resources\" page of Ulearning.",
     "description": "2.0 course.js"
   },
   "googleclassroomTip2": {
@@ -7940,7 +7944,7 @@
     "description": "2.0 course.js"
   },
   "googleUnbind": {
-    "message": "Unbinding",
+    "message": "Unbind",
     "description": "2.0 course.js"
   },
   "googleUnbindFailure": {
@@ -7948,7 +7952,7 @@
     "description": "2.0 course.js"
   },
   "unsynced": {
-    "message": "Not syncing",
+    "message": "Unsynced",
     "description": "2.0 course.js"
   },
   "synced": {
@@ -7960,7 +7964,7 @@
     "description": "2.0 course.js"
   },
   "batchSync": {
-    "message": "Batch syncing",
+    "message": "Batch sync",
     "description": "2.0 course.js"
   },
   "batchCancelSync": {
@@ -7972,11 +7976,11 @@
     "description": "2.0 course.js"
   },
   "syncToUlearning": {
-    "message": "Sync to U Academy",
+    "message": "Sync to Ulearning",
     "description": "2.0 course.js"
   },
   "sync": {
-    "message": "synchronous",
+    "message": "Sync",
     "description": "2.0 course.js"
   },
   "cancelSync": {
@@ -8044,7 +8048,7 @@
     "description": "2.0 course.js"
   },
   "material": {
-    "message": "Material",
+    "message": "Materials",
     "description": "2.0 course.js"
   },
   "assignment": {
@@ -8053,6 +8057,26 @@
   },
   "googleclassroomTip11": {
     "message": "Click to go to Classroom Create",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "The old data that has been synced after unbinding will be retained, and the new data will no longer be synchronized",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirm the unbinding",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Upload Simulations",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "SCORM learning records",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "Uncompleted",
     "description": "2.0 course.js"
   }
 }

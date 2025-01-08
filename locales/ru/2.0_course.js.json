@@ -7647,6 +7647,10 @@
     "message": "Загрузка, пожалуйста, не закрывайте текущую страницу",
     "description": "2.0 course.js"
   },
+  "programDetailWarning": {
+    "message": "Запись предварительного просмотра не была установлена для этого ресурса, пожалуйста, вернитесь к списку и нажмите [Изменить], чтобы добавить запись предварительного просмотра!",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip1": {
     "message": "После привязки курса Google Classroom здесь будут отображаться задание и материалы курса. Вы можете выбрать автоматическую синхронизацию или ручную синхронизацию при привязке, и синхронизированные ресурсы будут отображаться на странице \"Задания\" и \"Ресурсы\" UniAcademy.",
     "description": "2.0 course.js"
@@ -7841,6 +7845,26 @@
   },
   "googleclassroomTip11": {
     "message": "Нажмите, чтобы перейти в раздел «Создание класса»",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Старые данные, которые были синхронизированы после отмены привязки, будут сохранены, а новые данные больше не будут синхронизироваться",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Подтвердите отвязку",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Загружайте поддельные ресурсы",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Записи об обучении SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "незавершенный",
     "description": "2.0 course.js"
   }
 }

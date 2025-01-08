@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Данная учетная запись была аннулирована, Подтвердите восстановление?",
+    "message": "Пароль может поддерживать только буквы (с учетом регистра), цифры и специальные символы (специальные символы - это английский метод ввода!@#$%^&*()-_+={}[]:; ',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3965,6 +3965,110 @@
   },
   "systemAdmin.systemAdminTips23": {
     "message": "Пожалуйста, введите правильный пароль",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Организация мероприятий",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Пресс-релиз",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Новости",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Объявление",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "опубликовать",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Название новости",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Новостной контент",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Введите название новости",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Объявления будут отображаться на школьном портале и в UC Academy, новости будут отображаться только на школьном портале",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Загрузить предварительный просмотр",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Рекомендуется использовать пропорции 16:9 для изображений; форматы изображений: png, jpg, gif, jpeg, BMP; Максимальный размер одного изображения не должен превышать 2 МБ",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Загрузите изображение еще раз после его загрузки, чтобы обновить изображение",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "Размер изображения не может быть больше {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "загружайте Изображение",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Настройка",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Для пользовательских веб-страниц, пожалуйста, выберите этот шаблон",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Организация мероприятий",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Новые события",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Введите поиск по названию мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "Название мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Время начала мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "Время окончания мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Содержание мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Ссылка на набор волонтеров",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Возврат в Центр администрирования",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "Время начала действия не может быть больше времени окончания события",
     "description": "2.0 admin.js"
   }
 }

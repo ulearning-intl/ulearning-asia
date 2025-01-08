@@ -7655,6 +7655,10 @@
     "message": "En téléchargeant, veuillez ne pas fermer la page actuelle",
     "description": "2.0 course.js"
   },
+  "programDetailWarning": {
+    "message": "L’entrée d’aperçu n’a pas été définie pour cette ressource, veuillez revenir à la liste et cliquer sur [Modifier] pour ajouter une entrée d’aperçu !",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip1": {
     "message": "Après avoir lié un cours Google Classroom, le devoir et le matériel du cours seront affichés ici. Vous pouvez choisir la synchronisation automatique ou la synchronisation manuelle lors de la liaison, et les ressources synchronisées seront affichées sur la page « Affectations » et « Ressources » d’UniAcademy.",
     "description": "2.0 course.js"
@@ -7845,6 +7849,26 @@
   },
   "googleclassroomTip11": {
     "message": "Cliquez pour accéder à la création de la salle de classe",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Les anciennes données qui ont été synchronisées après la déliaison seront conservées et les nouvelles données ne seront plus synchronisées",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirmer la dissociation",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Télécharger des simulations",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Enregistrements d’apprentissage SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "Non terminé",
     "description": "2.0 course.js"
   }
 }

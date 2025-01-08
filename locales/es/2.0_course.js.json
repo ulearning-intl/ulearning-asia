@@ -764,7 +764,7 @@
     "description": "2.0 course.js"
   },
   "confirmSelectTime": {
-    "message": "Determinar el tiempo de elección",
+    "message": "Confirmar el tiempo de elección",
     "description": "2.0 course.js"
   },
   "announcementHeadTip": {
@@ -5820,7 +5820,7 @@
     "description": "2.0 course.js"
   },
   "queryActivate": {
-    "message": "Determinar la activación",
+    "message": "Confirmar la activación",
     "description": "2.0 course.js"
   },
   "iKnowThat": {
@@ -7715,6 +7715,10 @@
     "message": "Todavía no hay puntos de conocimiento",
     "description": "2.0 course.js"
   },
+  "virtualSimulation": {
+    "message": "Simulación virtual",
+    "description": "2.0 course.js"
+  },
   "uploadFail5": {
     "message": "Error en la carga y el nombre del archivo no puede estar vacío",
     "description": "2.0 course.js"
@@ -7725,6 +7729,10 @@
   },
   "uploaderLoadingTip": {
     "message": "Cargando, por favor no cierre la página actual",
+    "description": "2.0 course.js"
+  },
+  "programDetailWarning": {
+    "message": "La entrada de vista previa no se ha establecido para este recurso, regrese a la lista y haga clic en [Modificar] para agregar una entrada de vista previa.",
     "description": "2.0 course.js"
   },
   "googleclassroomTip1": {
@@ -7921,6 +7929,26 @@
   },
   "googleclassroomTip11": {
     "message": "Haz clic para ir a Crear en Classroom",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Los datos antiguos que se hayan sincronizado después de la desvinculación se conservarán y los nuevos datos ya no se sincronizarán",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirme el desenlace",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Subir recursos falsos",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Registros de aprendizaje SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "Incompleta",
     "description": "2.0 course.js"
   }
 }

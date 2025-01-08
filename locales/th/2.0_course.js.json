@@ -7739,6 +7739,10 @@
     "message": "กําลังอัปโหลด โปรดอย่าปิดหน้าปัจจุบัน",
     "description": "2.0 course.js"
   },
+  "programDetailWarning": {
+    "message": "ยังไม่ได้ตั้งค่ารายการตัวอย่างสําหรับแหล่งข้อมูลนี้ โปรดกลับไปที่รายการและคลิก [แก้ไข] เพื่อเพิ่มรายการตัวอย่าง!",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip1": {
     "message": "หลังจากผูกหลักสูตร Google Classroom แล้ว งานที่ได้รับมอบหมายและเนื้อหาของหลักสูตรจะแสดงที่นี่ คุณสามารถเลือกการซิงโครไนซ์อัตโนมัติหรือการซิงโครไนซ์ด้วยตนเองเมื่อผูก และทรัพยากรที่ซิงโครไนซ์จะแสดงในหน้า \"การมอบหมาย\" และ \"ทรัพยากร\" ของ UniAcademy",
     "description": "2.0 course.js"
@@ -7933,6 +7937,26 @@
   },
   "googleclassroomTip11": {
     "message": "คลิกเพื่อไปที่ Classroom Create",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "ข้อมูลเก่าที่ซิงค์หลังจากยกเลิกการผูกจะถูกเก็บไว้ และข้อมูลใหม่จะไม่ซิงโครไนซ์อีกต่อไป",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "ยืนยันการปลดผูก",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "อัปโหลดทรัพยากรปลอม",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "บันทึกการเรียนรู้ SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "ยังไม่เสร็จสมบูรณ์",
     "description": "2.0 course.js"
   }
 }

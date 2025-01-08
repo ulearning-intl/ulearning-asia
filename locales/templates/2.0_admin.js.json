@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "该账号已注销，确定恢复吗？",
+    "message": "密码仅能支持字母（区分大小写）、数字和特殊符号（特殊符号为英语输入法下!@#$%^&*()-_+={}[]:;',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3969,6 +3969,110 @@
   },
   "systemAdmin.systemAdminTips23": {
     "message": "请输入确认密码",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "活动管理",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "新闻公告",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "新闻",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "公告",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "发布",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "新闻名称",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "新闻内容",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "输入新闻名称",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*公告将展示在学校门户和优学院中，新闻仅展示在学校门户中",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "上传预览图",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "图片的比例建议采用 16:9；图片格式：png, jpg, gif, jpeg, bmp；单张图片大小不可大于2M",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "上传图片后再次上传，更新图片",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "图片大小不可大于{size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "请上传图片",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "定制化",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "定制化网页请选择该模板",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "活动管理",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "新增活动",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "输入活动标题搜索",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "活动标题",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "活动开始时间",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "活动结束时间",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "活动内容",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "志愿者招募链接",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "返回管理中心",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "活动开始时间不能大于活动结束时间",
     "description": "2.0 admin.js"
   }
 }

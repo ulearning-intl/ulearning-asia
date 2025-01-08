@@ -7655,6 +7655,10 @@
     "message": "Carregando, por favor não feche a página atual",
     "description": "2.0 course.js"
   },
+  "programDetailWarning": {
+    "message": "A entrada de pré-visualização não foi definida para este recurso, volte à lista e clique em [Modificar] para adicionar uma entrada de pré-visualização!",
+    "description": "2.0 course.js"
+  },
   "googleclassroomTip1": {
     "message": "Depois de vincular um curso do Google Classroom, a tarefa e o material do curso serão exibidos aqui. Você pode escolher a sincronização automática ou a sincronização manual ao vincular, e os recursos sincronizados serão exibidos na página \"Atribuições\" e \"Recursos\" da UniAcademy.",
     "description": "2.0 course.js"
@@ -7849,6 +7853,26 @@
   },
   "googleclassroomTip11": {
     "message": "Clique para ir para Criar sala de aula",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Os dados antigos que foram sincronizados após a desvinculação serão retidos e os novos dados não serão mais sincronizados",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirme a desvinculação",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Insira simulações em seu conteúdo",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Registos de aprendizagem SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "pendente",
     "description": "2.0 course.js"
   }
 }

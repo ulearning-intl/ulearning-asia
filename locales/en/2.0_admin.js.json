@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "The account has been cancelled, are you sure to restore it?",
+    "message": "The password can only support letters (case-sensitive), numbers, and special characters (special characters are English input method!@#$%^&*()-_+={}[]:; ',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3965,6 +3965,110 @@
   },
   "systemAdmin.systemAdminTips23": {
     "message": "enter the confirm password",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Event management",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Press release",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "News",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Announcements",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "Publish",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Name of the news",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "News content",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Enter a name for the news",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Announcements will be displayed in the school portal and UC Academy, news will only be displayed in the school portal",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Upload a preview",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Recommended image aspect ratio: 16:9; Formats: png, jpg, gif, jpeg, bmp; Single image size: up to 2 MB",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Upload the image again after uploading it to update the image",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "Image size cannot exceed {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "Please upload an image",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Customization",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "For custom web pages, please select this template",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Event management",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "New Events",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Enter an activity title search",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "The title of the event",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Event start time",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "The end time of the event",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Event content",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Volunteer recruitment link",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Back to Admin Center",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "event start time cannot be greater than the event end time",
     "description": "2.0 admin.js"
   }
 }

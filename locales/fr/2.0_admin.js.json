@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Le compte a été annulé, êtes-vous sûr de le restaurer?",
+    "message": "Le mot de passe ne peut prendre en charge que les lettres (sensibles à la casse), les chiffres et les caractères spéciaux (les caractères spéciaux sont la méthode de saisie anglaise !@#$%^&*()-_+={}[] :; ',./<> ?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3965,6 +3965,110 @@
   },
   "systemAdmin.systemAdminTips23": {
     "message": "Veuillez entrer le mot de passe correct",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Gestion d’événements",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Communiqué de presse",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Nouvelles",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Annonces",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "publier",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Nom de l’actualité",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Contenu d’actualités",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Entrez un nom pour les actualités",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Les annonces seront affichées sur le portail de l’école et UC Academy, les nouvelles ne seront affichées que sur le portail de l’école",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Télécharger un aperçu",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Rapport d’aspect d’image recommandé: 16: 9; Formats: png, jpg, gif, jpeg, bmp; Taille d’image unique : jusqu’à 2 Mo",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Téléchargez à nouveau l’image après l’avoir téléchargée pour mettre à jour l’image",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "La taille de l’image ne peut pas être supérieure à {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "S’il vous plaît télécharger une image",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Personnalisation",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Pour les pages Web personnalisées, veuillez sélectionner ce modèle",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Gestion d’événements",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Nouveaux événements",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Entrez une recherche de titre d’activité",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "Le titre de l’événement",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Heure de début de l'événement",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "Heure de fin de l'événement",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Contenu de l’événement",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Lien de recrutement de bénévoles",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Revenir au centre d’administration",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "L’heure de début de l’activité ne peut pas être supérieure à l’heure de fin de l’événement",
     "description": "2.0 admin.js"
   }
 }
