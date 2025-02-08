@@ -5174,5 +5174,21 @@
   "common.confirmDelete": {
     "message": "确认删除",
     "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "不可小于{min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "不可大于{max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "可设置范围为 {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "最小值为当前机构占用的资源总额，最大值为剩余可用的资源额度",
+    "description": "新版管理后台 zh.json"
   }
 }
