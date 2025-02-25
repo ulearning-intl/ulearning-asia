@@ -5174,5 +5174,29 @@
   "common.confirmDelete": {
     "message": "确认删除",
     "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "不可小于{min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "不可大于{max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "可设置范围为 {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "最小值为当前机构占用的资源总额，最大值为剩余可用的资源额度",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "存储和账户配额",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "若设置配额，当前机构使用资源不可超过设置的最大配额\n若不设置配额，当前机构共享上级可用资源配额",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   }
 }

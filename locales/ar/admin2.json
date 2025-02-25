@@ -5174,5 +5174,29 @@
   "common.confirmDelete": {
     "message": "تأكيد الحذف",
     "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "يجب ألا يقل عن {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "يجب ألا يكون أكبر من {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "يمكن ضبطه على {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "الحد الأدنى للقيمة هو المبلغ الإجمالي للموارد التي تشغلها المؤسسة الحالية، والحد الأقصى للقيمة هو رصيد الموارد المتبقي المتاح",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "حصص التخزين والحساب",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "إذا تم تعيين حصة نسبية، فلا يمكن أن تتجاوز الموارد المستخدمة من قبل المؤسسة الحالية الحد الأقصى للحصة النسبية\nإذا لم يتم تعيين حصة نسبية، تشارك المؤسسة الحالية الحصة النسبية للموارد المتاحة للمستوى الأعلى",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   }
 }

@@ -7850,5 +7850,145 @@
   "menuSettings.deleteUserTip": {
     "message": "该角色下有用户，删除该用户将失去该角色，确定删除？",
     "description": "smart-classroom-admin 项目"
+  },
+  "route.appraisalTask": {
+    "message": "评教任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teaResearchGroup": {
+    "message": "教研组管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.leadershipEvaluation": {
+    "message": "领导评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.PeerReview": {
+    "message": "同行评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.studentEvaluationTeaching": {
+    "message": "学生评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teacherEducationManagement": {
+    "message": "评教量表管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.liveEnd": {
+    "message": "本节课已结束",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.nextClass": {
+    "message": "下一节",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchGroup": {
+    "message": "教研组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.personnel": {
+    "message": "人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchRoom": {
+    "message": "教研室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingResearchRoom": {
+    "message": "添加教研组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.nameResearchRoom": {
+    "message": "请输入教研组名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchInstitute": {
+    "message": "请选择教研组所属院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teacherAcademy": {
+    "message": "请选择教师院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.selectedTeacher": {
+    "message": "已选教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.scopeTeaching": {
+    "message": "评教范围",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.noLimit": {
+    "message": "不限制",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.allFaculty": {
+    "message": "学院里的所有教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.groupTea": {
+    "message": "同教研组的其他教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.studentElectiveTea": {
+    "message": "学生选修课程的老师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.viewScore": {
+    "message": "评教时可以查看选项分值",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.classificationTeachingTasks": {
+    "message": "评教任务分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingTasks": {
+    "message": "添加评教任务分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.keepAnswering": {
+    "message": "继续作答",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluate": {
+    "message": "评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.courseTaught": {
+    "message": "所授课程",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluatorDepartment": {
+    "message": "评价人院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.beRatedTea": {
+    "message": "被评教师学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationGrading": {
+    "message": "校级管理员评价全校，院级管理员评价本学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationLearningNumber": {
+    "message": "评价人学号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaGroupNotEmpty": {
+    "message": "教研组名称不为空！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaTaskRemoveTip": {
+    "message": "如果此评教任务下产生了评价记录，删除评教任务会同步将评价记录删除。确定删除吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.enterTeaName": {
+    "message": "请输入教师姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.deleteScalePrompt": {
+    "message": "当前评价表已存在记录，修改评价表会清除之前的记录，确定修改？",
+    "description": "smart-classroom-admin 项目"
   }
 }
