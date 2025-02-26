@@ -5142,5 +5142,45 @@
   "notice.zf": {
     "message": "Compilação de caracteres",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Adicionar uma agência",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Excluir uma organização",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "Se você excluir a organização atual, a organização subordinada também será excluída",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Confirmar a exclusão",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "Não deve ser inferior a {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "Não deve ser superior a {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "Pode ser definido como {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "O valor mínimo é a quantidade total de recursos ocupados pela organização atual, e o valor máximo é o crédito de recurso disponível restante",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "Quotas de armazenamento e de conta",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "Se uma cota for definida, os recursos usados pela organização atual não poderão exceder a cota máxima\nSe nenhuma cota for definida, a organização atual compartilha a cota de recursos disponíveis para o nível superior",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   }
 }

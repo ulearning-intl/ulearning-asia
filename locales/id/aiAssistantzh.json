@@ -1,0 +1,1266 @@
+{
+  "lang": {
+    "message": "zh",
+    "description": "aiAssistantzh.json"
+  },
+  "AIHelp": {
+    "message": "Asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "AITools": {
+    "message": "Alat AI",
+    "description": "aiAssistantzh.json"
+  },
+  "login": {
+    "message": "Masuk",
+    "description": "aiAssistantzh.json"
+  },
+  "logOut": {
+    "message": "Keluar",
+    "description": "aiAssistantzh.json"
+  },
+  "All": {
+    "message": "Semua",
+    "description": "aiAssistantzh.json"
+  },
+  "enterUsername": {
+    "message": "Silahkan masukkan nama pengguna",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPassword": {
+    "message": "Silahkan masukkan kata sandi",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip": {
+    "message": "Nama pengguna/kata sandi salah",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip1": {
+    "message": "Pengguna tidak ada",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip2": {
+    "message": "Login gagal",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip3": {
+    "message": "Anda telah salah input 5 kali berturut-turut, coba kembali setelah 3 menit",
+    "description": "aiAssistantzh.json"
+  },
+  "userInfoExpired": {
+    "message": "Informasi pengguna telah kedaluwarsa",
+    "description": "aiAssistantzh.json"
+  },
+  "hello": {
+    "message": "Hai, saya asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "desc": {
+    "message": "Sebagai asisten cerdas AI Anda, saya dapat mendukung Tanya Jawab cerdas, rekomendasi sumber daya, pertanyaan AI, dll.",
+    "description": "aiAssistantzh.json"
+  },
+  "AIAsk": {
+    "message": "Tanya Jawab Cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "guessTip": {
+    "message": "Kira Anda ingin bertanya:",
+    "description": "aiAssistantzh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Anda dapat mengajukan pertanyaan kepada saya setelah masuk",
+    "description": "aiAssistantzh.json"
+  },
+  "askInputTip": {
+    "message": "Silakan masukkan pertanyaan Anda",
+    "description": "aiAssistantzh.json"
+  },
+  "resultIntro": {
+    "message": "Konten di atas dihasilkan oleh AI dan hanya untuk referensi dan referensi",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Rekomendasi sumber daya",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip": {
+    "message": "Perpustakaan sumber daya besar, rekomendasi sumber daya yang akurat",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestion": {
+    "message": "Pertanyaan oleh AI",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestionTip": {
+    "message": "Pertanyaan yang efisien dan cerdas untuk meningkatkan efisiensi pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "CommandCenter": {
+    "message": "Pusat Komando",
+    "description": "aiAssistantzh.json"
+  },
+  "selectInstruction": {
+    "message": "Silakan pilih perintah",
+    "description": "aiAssistantzh.json"
+  },
+  "newDialogue": {
+    "message": "Membuat percakapan baru",
+    "description": "aiAssistantzh.json"
+  },
+  "history": {
+    "message": "Sejarah",
+    "description": "aiAssistantzh.json"
+  },
+  "thinking": {
+    "message": "Pikiran...",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeSource": {
+    "message": "Sumber pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "answerAgain": {
+    "message": "Jawab ulang",
+    "description": "aiAssistantzh.json"
+  },
+  "send": {
+    "message": "Rilis",
+    "description": "aiAssistantzh.json"
+  },
+  "copy": {
+    "message": "Salin",
+    "description": "aiAssistantzh.json"
+  },
+  "copySuccess": {
+    "message": "Berhasil disalin",
+    "description": "aiAssistantzh.json"
+  },
+  "copyFail": {
+    "message": "Gagal menyalin",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceInputPlaceholder": {
+    "message": "Sumber daya seperti apa yang perlu Anda rekomendasikan? Beri nama kata kunci",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip2": {
+    "message": "Sumber belajar berikut direkomendasikan untuk Anda:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeBatch": {
+    "message": "Menyegarkan",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTip": {
+    "message": "Hasilkan pertanyaan berikut untuk Anda:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionInputPlaceholder": {
+    "message": "Pertanyaan seperti apa yang perlu Anda ajukan? Beri nama kata kunci",
+    "description": "aiAssistantzh.json"
+  },
+  "Ulearn": {
+    "message": "Ulearning",
+    "description": "aiAssistantzh.json"
+  },
+  "nationalWebsite": {
+    "message": "National Smart Education Public Service Platform",
+    "description": "aiAssistantzh.json"
+  },
+  "generating": {
+    "message": "Menghasilkan...",
+    "description": "aiAssistantzh.json"
+  },
+  "contentInputTip": {
+    "message": "Konten yang dikirim tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "requestTip": {
+    "message": "Sistem sibuk, silakan coba lagi nanti",
+    "description": "aiAssistantzh.json"
+  },
+  "questionType": {
+    "message": "Jenis soal",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice": {
+    "message": "Pilihan ganda",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice": {
+    "message": "Pilih lebih dari 1",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse": {
+    "message": "Benar atau salah",
+    "description": "aiAssistantzh.json"
+  },
+  "fillBlank": {
+    "message": "Isian",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNums": {
+    "message": "Jumlah pertanyaan",
+    "description": "aiAssistantzh.json"
+  },
+  "notFountAI": {
+    "message": "Asisten AI saat ini tidak ditemukan",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermission": {
+    "message": "Tidak ada izin untuk menggunakannya saat ini",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistoryData": {
+    "message": "Tidak ada sejarah",
+    "description": "aiAssistantzh.json"
+  },
+  "noResource": {
+    "message": "Belum ada sumber daya yang direkomendasikan",
+    "description": "aiAssistantzh.json"
+  },
+  "requestFail": {
+    "message": "Permintaan gagal",
+    "description": "aiAssistantzh.json"
+  },
+  "noMore": {
+    "message": "Tidak ada lagi",
+    "description": "aiAssistantzh.json"
+  },
+  "loginTip": {
+    "message": "Silakan masuk terlebih dahulu",
+    "description": "aiAssistantzh.json"
+  },
+  "fromRepository": {
+    "message": "Dari Pustaka Sumber:",
+    "description": "aiAssistantzh.json"
+  },
+  "fromCourse": {
+    "message": "Dari kursus:",
+    "description": "aiAssistantzh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "ULearning Resource Bank",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceKeys": {
+    "message": "Rekomendasi Sumber Daya:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeys": {
+    "message": "Pertanyaan AI: {jenis}, {num} pertanyaan,",
+    "description": "aiAssistantzh.json"
+  },
+  "noContent": {
+    "message": "Belum ada hasil, silakan ubah kata kunci",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage1": {
+    "message": "Judul tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage2": {
+    "message": "Pilihan kurang dari 2",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage3": {
+    "message": "Pilihan tidak boleh lebih dari 20 buah",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage4": {
+    "message": "Jawaban tepat tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage5": {
+    "message": "Konten jawaban tepat tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage6": {
+    "message": "Silahkan isi konten pilihan, atau hapus pilihan yang berlebih",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage7": {
+    "message": "Jumlah jawaban tepat tidak boleh lebih dari jumlah pilihan",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage8": {
+    "message": "Hanya poin pilihan yang bisa tertera pada jawaban tepat",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage9": {
+    "message": "Terdapat pengulangan pada jawaban tepat",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage10": {
+    "message": "Konten jawaban referensi tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage11": {
+    "message": "Jumlah jawaban tepat tidak boleh kurang dari jumlah kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage12": {
+    "message": "Tambahkan hingga 20 item isian kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "quesOrder": {
+    "message": "Soal ke {n}, ",
+    "description": "aiAssistantzh.json"
+  },
+  "correct": {
+    "message": "Benar",
+    "description": "aiAssistantzh.json"
+  },
+  "incorrect": {
+    "message": "Salah",
+    "description": "aiAssistantzh.json"
+  },
+  "answer": {
+    "message": "Jawaban",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisTit": {
+    "message": "Masukkan konten dianalisa di sini, boleh memilih untuk tidak mengisi",
+    "description": "aiAssistantzh.json"
+  },
+  "loginInfoInvalid": {
+    "message": "Informasi login tidak lagi valid",
+    "description": "aiAssistantzh.json"
+  },
+  "createTip": {
+    "message": "Beralih ke sesi terbaru",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceFrom": {
+    "message": "Sumber daya dari {type}:",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType1": {
+    "message": "Unggah lokal",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType2": {
+    "message": "Mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType3": {
+    "message": "Grafik Pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "systemSession": {
+    "message": "Sesi Sistem",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTip": {
+    "message": "Menurut penguasaan poin pengetahuan, tebak Anda mungkin memerlukan sumber daya terkait pengetahuan berikut:",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTipTea": {
+    "message": "Menurut grafik pengetahuan, tebak Anda mungkin memerlukan sumber daya terkait pengetahuan berikut:",
+    "description": "aiAssistantzh.json"
+  },
+  "homework": {
+    "message": "pekerjaan rumah",
+    "description": "aiAssistantzh.json"
+  },
+  "utest": {
+    "message": "pemeriksaan",
+    "description": "aiAssistantzh.json"
+  },
+  "ua": {
+    "message": "Bahan mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "noRemindData": {
+    "message": "Belum ada sesi sistem",
+    "description": "aiAssistantzh.json"
+  },
+  "isTalking": {
+    "message": "Mengidentifikasi",
+    "description": "aiAssistantzh.json"
+  },
+  "noText": {
+    "message": "Teks tidak dikenali",
+    "description": "aiAssistantzh.json"
+  },
+  "end": {
+    "message": "Itu saja",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermissionTip": {
+    "message": "Harap aktifkan izin perekaman",
+    "description": "aiAssistantzh.json"
+  },
+  "startRecorder": {
+    "message": "Perekaman sedang aktif",
+    "description": "aiAssistantzh.json"
+  },
+  "audioInputOverTimes": {
+    "message": "Jika Anda perlu meningkatkan batas input suara, silakan hubungi administrator Anda",
+    "description": "aiAssistantzh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "Jika Anda perlu meningkatkan batas atas siaran suara, hubungi administrator",
+    "description": "aiAssistantzh.json"
+  },
+  "AiWorkbench": {
+    "message": "Meja Kerja AI",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentify": {
+    "message": "Pengenalan formula",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysis": {
+    "message": "Analitik video",
+    "description": "aiAssistantzh.json"
+  },
+  "docReading": {
+    "message": "Membaca dokumen",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSet": {
+    "message": "Mengatur",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarking": {
+    "message": "Penilaian cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingDesc": {
+    "message": "Penilaian otomatis pertanyaan subjektif dalam tugas dan ujian.",
+    "description": "aiAssistantzh.json"
+  },
+  "workQueTitle": {
+    "message": "Tugas/pertanyaan yang dinilai",
+    "description": "aiAssistantzh.json"
+  },
+  "reselect": {
+    "message": "Pilih ulang",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQue": {
+    "message": "Pilih tugas/topik",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint": {
+    "message": "Catatan: Penilaian Cerdas hanya berlaku untuk tugas individu dan kuis/ujian yang dinilai oleh guru dengan pertanyaan jawaban singkat, dan penilaian AI terbatas pada konten teks, dan tidak mendukung penilaian konten non-teks seperti lampiran dan gambar yang dikirimkan oleh siswa.",
+    "description": "aiAssistantzh.json"
+  },
+  "personalHomework": {
+    "message": "Tugas individu",
+    "description": "aiAssistantzh.json"
+  },
+  "allTeachers": {
+    "message": "Semua guru",
+    "description": "aiAssistantzh.json"
+  },
+  "inputHomeworkName": {
+    "message": "Masukkan nama pekerjaan yang akan dicari",
+    "description": "aiAssistantzh.json"
+  },
+  "publisher": {
+    "message": "Penerbit:",
+    "description": "aiAssistantzh.json"
+  },
+  "pendingReview": {
+    "message": "Akan dikoreksi:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentPeerReview": {
+    "message": "Tugas penilaian rekan tidak mendukung penilaian cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "systemScoring": {
+    "message": "Tugas penilaian sistem tidak mendukung penilaian cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "noData": {
+    "message": "Belum ada data",
+    "description": "aiAssistantzh.json"
+  },
+  "test": {
+    "message": "Kuis",
+    "description": "aiAssistantzh.json"
+  },
+  "exam": {
+    "message": "Ujian",
+    "description": "aiAssistantzh.json"
+  },
+  "scoring": {
+    "message": "Dalam peringkat...",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringCompleted": {
+    "message": "Penilaian selesai",
+    "description": "aiAssistantzh.json"
+  },
+  "loading": {
+    "message": "Sedang memuat...",
+    "description": "aiAssistantzh.json"
+  },
+  "source": {
+    "message": "Sumber:",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswer": {
+    "message": "Uraian",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreUnit": {
+    "message": "bagi",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirement": {
+    "message": "Topik/Persyaratan",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirementTip": {
+    "message": "Untuk meningkatkan akurasi penilaian cerdas, Anda dapat menanyakan isi pertanyaan/pekerjaan rumah<br/>Lakukan penyempurnaan. Penyesuaian hanya berlaku pada konten koreksi saat ini dan tidak akan memengaruhi konten asli<br/>Konten topik/tugas awal.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirement": {
+    "message": "Silakan masukkan pertanyaan/persyaratan",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswer": {
+    "message": "Jawaban referensi",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswerTip": {
+    "message": "Untuk meningkatkan akurasi penilaian cerdas, Anda dapat menyesuaikan apakah akan mengatur parameter dasar<br/>Jawaban dinilai, dan isi jawaban dapat disesuaikan secara manual. Sesuaikan saja<br/>Ini akan berlaku pada konten koreksi saat ini dan tidak akan memengaruhi konten jawaban asli.",
+    "description": "aiAssistantzh.json"
+  },
+  "useAsScoringBasis": {
+    "message": "Sebagai dasar penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswer": {
+    "message": "Silahkan masukkan jawaban referensi",
+    "description": "aiAssistantzh.json"
+  },
+  "fullScore": {
+    "message": "Nilai sempurna:",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringRules": {
+    "message": "Aturan penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "editRules": {
+    "message": "Mengedit aturan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectTemplate": {
+    "message": "Pilih templat",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItem": {
+    "message": "Poin penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetrics": {
+    "message": "Metrik penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreValue": {
+    "message": "Nilai",
+    "description": "aiAssistantzh.json"
+  },
+  "totalScore": {
+    "message": "Total nilai",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringScale": {
+    "message": "Skala penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "strict": {
+    "message": "ketat",
+    "description": "aiAssistantzh.json"
+  },
+  "moderate": {
+    "message": "Moderat",
+    "description": "aiAssistantzh.json"
+  },
+  "lenient": {
+    "message": "Lax",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentComment": {
+    "message": "Ulasan cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled": {
+    "message": "Buka",
+    "description": "aiAssistantzh.json"
+  },
+  "disabled": {
+    "message": "Tutup",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled1": {
+    "message": "Telah diaktifkan",
+    "description": "aiAssistantzh.json"
+  },
+  "deactivated": {
+    "message": "Telah berhenti digunakan",
+    "description": "aiAssistantzh.json"
+  },
+  "encouraging": {
+    "message": "mendorong",
+    "description": "aiAssistantzh.json"
+  },
+  "gentle": {
+    "message": "Ringan",
+    "description": "aiAssistantzh.json"
+  },
+  "serious": {
+    "message": "serius",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTest": {
+    "message": "Nilai tes",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoring": {
+    "message": "Mulai penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "system": {
+    "message": "sistem",
+    "description": "aiAssistantzh.json"
+  },
+  "cancel": {
+    "message": "Batalkan",
+    "description": "aiAssistantzh.json"
+  },
+  "useThisTemplate": {
+    "message": "Gunakan templat ini",
+    "description": "aiAssistantzh.json"
+  },
+  "addScoringItem": {
+    "message": "Menambahkan item penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScore": {
+    "message": "Poin yang tersisa",
+    "description": "aiAssistantzh.json"
+  },
+  "delete": {
+    "message": "Hapus",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringItem": {
+    "message": "Masukkan item penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "metric": {
+    "message": "Indeks",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringMetric": {
+    "message": "Masukkan metrik penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "score": {
+    "message": "Nilai",
+    "description": "aiAssistantzh.json"
+  },
+  "addMetric": {
+    "message": "Menambahkan metrik",
+    "description": "aiAssistantzh.json"
+  },
+  "confirm": {
+    "message": "OK",
+    "description": "aiAssistantzh.json"
+  },
+  "noIntelligentMarkingData": {
+    "message": "Tidak ada data untuk koreksi cerdas saat ini",
+    "description": "aiAssistantzh.json"
+  },
+  "randomPaper": {
+    "message": "Ujian pembentukan makalah acak tidak mendukung penilaian cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "allPapers": {
+    "message": "Semua kertas ujian",
+    "description": "aiAssistantzh.json"
+  },
+  "inputQuizName": {
+    "message": "Masukkan nama kuis untuk dicari",
+    "description": "aiAssistantzh.json"
+  },
+  "inputExamName": {
+    "message": "Masukkan pencarian nama ujian",
+    "description": "aiAssistantzh.json"
+  },
+  "selectHomework": {
+    "message": "Pilih tugas",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestion": {
+    "message": "Silakan pilih topik",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTestHint": {
+    "message": "Catatan: Hasil tes yang dinilai tidak akan disimpan, dan Anda dapat memilih untuk memulai penilaian jika Anda mengonfirmasi bahwa hasil penilaian memenuhi harapan Anda.",
+    "description": "aiAssistantzh.json"
+  },
+  "question": {
+    "message": "Topik:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnswer": {
+    "message": "Jawaban siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "enterStudentAnswer": {
+    "message": "Silakan masukkan jawaban siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "aiScore": {
+    "message": "Penilaian AI",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgress": {
+    "message": "Dalam peringkat...",
+    "description": "aiAssistantzh.json"
+  },
+  "reScoring": {
+    "message": "Skor ulang",
+    "description": "aiAssistantzh.json"
+  },
+  "next": {
+    "message": "Selanjutnya",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQueError": {
+    "message": "Silahkan pilih topik/tugas yang akan dinilai",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirementError": {
+    "message": "Silakan masukkan pertanyaan/persyaratan",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswerError": {
+    "message": "Silahkan masukkan jawaban referensi",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoringHint": {
+    "message": "Setelah penilaian dimulai, sistem akan secara cerdas mengoreksi jawaban siswa yang dikirimkan sesuai dengan aturan penilaian yang telah Anda tetapkan (ini tidak akan memengaruhi perubahan skor siswa yang telah disetujui guru).<br/>Yakin untuk mulai menilai?",
+    "description": "aiAssistantzh.json"
+  },
+  "iKnow": {
+    "message": "Saya sudah tahu",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgressHint": {
+    "message": " Di bawah peringkat...<br/><br/>Proses penilaian mungkin memakan waktu lama, Anda dapat memilih untuk menutup jendela pop-up, dan sistem akan terus mencetak skor di latar belakang.",
+    "description": "aiAssistantzh.json"
+  },
+  "useSuccess": {
+    "message": "Gunakan dengan sukses",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScoreError": {
+    "message": "Jumlah skor semua indikator penilaian harus sama dengan skor penuh.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError": {
+    "message": "Jumlah kata dalam item penilaian {index} harus antara 2 dan 500 kata",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError1": {
+    "message": "Jumlah kata dalam {subIndex} dari item skor {index} harus antara 2 dan 500 kata",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetricsAndScoreError": {
+    "message": "Indeks skor dan nilai skor indikator {subIndex} dari item skor {index} tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "maxScoringItemError": {
+    "message": "Maksimal 10 item penilaian dapat ditambahkan ke aturan penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "maxMetricError": {
+    "message": "Maksimal 10 indikator peringkat dapat ditambahkan ke item peringkat.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNumberError": {
+    "message": "Poin hanya dapat berupa numerik",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNegativeError": {
+    "message": "Skor tidak boleh kurang dari 0",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreDecimalError": {
+    "message": "Poin hanya bisa berupa satu tempat desimal",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpen": {
+    "message": "Belum diaktifkan",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAI": {
+    "message": "Kelola asisten AI saya",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchDescription": {
+    "message": "Aplikasi pengajaran AI all-in-one, persiapan pelajaran yang mudah, dan pembelajaran yang efisien",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchAdminTip": {
+    "message": "AI Workbench perlu dibuka oleh administrator kursus",
+    "description": "aiAssistantzh.json"
+  },
+  "openAIWorkbench": {
+    "message": "Aktifkan AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "viewExample": {
+    "message": "Lihat contoh",
+    "description": "aiAssistantzh.json"
+  },
+  "essayQuestions": {
+    "message": "Soal diskusi",
+    "description": "aiAssistantzh.json"
+  },
+  "shortQuestions": {
+    "message": "Uraian",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiAssistant": {
+    "message": "Asisten AI belum ditambahkan",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantTeacherAdd": {
+    "message": "Asisten AI perlu ditambahkan oleh guru",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantAdminManage": {
+    "message": "Administrator kursus dapat mengelola asisten AI yang terkait dengan kursus di menu Pengaturan",
+    "description": "aiAssistantzh.json"
+  },
+  "goToSettings": {
+    "message": "Atur",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSetDescription": {
+    "message": "Siapkan asisten AI, alat AI, dan basis pengetahuan yang terkait dengan AI Workbench.",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbench": {
+    "message": "Matikan AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbenchConfirm": {
+    "message": "Setelah AI Workbench dimatikan, itu dapat dihidupkan kembali. Apakah Anda yakin sudah tutup?",
+    "description": "aiAssistantzh.json"
+  },
+  "repository": {
+    "message": "Basis Pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "addAiAssistant": {
+    "message": "Tambahkan asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAiAssistant": {
+    "message": "Kelola asisten AI saya",
+    "description": "aiAssistantzh.json"
+  },
+  "permission": {
+    "message": "Akses",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyTeacher": {
+    "message": "Hanya tersedia untuk pengajar",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyStudent": {
+    "message": "Hanya tersedia untuk siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "teacherAndStudent": {
+    "message": "Tersedia untuk guru dan siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteConfirm": {
+    "message": "Yakin untuk hapus?",
+    "description": "aiAssistantzh.json"
+  },
+  "hint": {
+    "message": "Tips",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySuccess": {
+    "message": "Berhasil diubah",
+    "description": "aiAssistantzh.json"
+  },
+  "addSuccess": {
+    "message": "Berhasil ditambah",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistant": {
+    "message": "Pilih Asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "createdByMe": {
+    "message": "Yang saya buat",
+    "description": "aiAssistantzh.json"
+  },
+  "sharedBySchool": {
+    "message": "Dibagikan oleh sekolah",
+    "description": "aiAssistantzh.json"
+  },
+  "search": {
+    "message": "Cari",
+    "description": "aiAssistantzh.json"
+  },
+  "creator": {
+    "message": "Pembuat",
+    "description": "aiAssistantzh.json"
+  },
+  "maxAiAssistant": {
+    "message": "Maksimal 10 asisten AI dapat ditambahkan ke setiap kursus",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistantError": {
+    "message": "Silakan pilih Asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "status": {
+    "message": "Status",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySettings": {
+    "message": "Ubah pengaturan",
+    "description": "aiAssistantzh.json"
+  },
+  "saveSettings": {
+    "message": "Pengaturan penyimpanan",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiToolsEnabled": {
+    "message": "Alat AI belum diaktifkan",
+    "description": "aiAssistantzh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Menambahkan basis pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyKnowledgeBase": {
+    "message": "Mengelola basis pengetahuan saya",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "Hapus",
+    "description": "aiAssistantzh.json"
+  },
+  "noKnowledgeBase": {
+    "message": "Basis pengetahuan belum ditambahkan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Pilih Basis Pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBaseError": {
+    "message": "Silakan pilih basis pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadTitle": {
+    "message": "Unggah file",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadDescription": {
+    "message": "Silakan unggah dokumen Anda",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadHint": {
+    "message": "Unggah lokal",
+    "description": "aiAssistantzh.json"
+  },
+  "selectResource": {
+    "message": "Pilih sumber",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoHere": {
+    "message": "Seret dan lepas video di sini untuk mengunggahnya",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimit": {
+    "message": "Jumlah video yang dapat dianalisis (5) untuk hari ini telah habis, jadi silakan gunakan lagi besok.",
+    "description": "aiAssistantzh.json"
+  },
+  "videoFormatError": {
+    "message": "Hanya format video yang didukung.",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatError": {
+    "message": "Dokumen hanya tersedia dalam format doc, docx, dan pdf.",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeError": {
+    "message": "Ukuran file maksimum tidak boleh melebihi 512 M.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadSuccess": {
+    "message": "Berhasil diunggah",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFail": {
+    "message": "Unggahan gagal",
+    "description": "aiAssistantzh.json"
+  },
+  "selectDocument": {
+    "message": "Pilih dokumen",
+    "description": "aiAssistantzh.json"
+  },
+  "myResource": {
+    "message": "Sumber saya",
+    "description": "aiAssistantzh.json"
+  },
+  "courseResource": {
+    "message": "Sumber mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourses": {
+    "message": "Semua mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "documentName": {
+    "message": "Nama dokumen",
+    "description": "aiAssistantzh.json"
+  },
+  "videoName": {
+    "message": "Nama video",
+    "description": "aiAssistantzh.json"
+  },
+  "size": {
+    "message": "Ukuran",
+    "description": "aiAssistantzh.json"
+  },
+  "historyRecord": {
+    "message": "Sejarah",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitle": {
+    "message": "Membaca dokumen",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitleText": {
+    "message": "Secara otomatis menghasilkan awan kata pada dokumen yang diunggah dan lakukan percakapan berdasarkan konten dokumen.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDragText": {
+    "message": "Seret dan lepas dokumen di sini,",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingFormat": {
+    "message": "Hanya format Word dan PDF yang didukung",
+    "description": "aiAssistantzh.json"
+  },
+  "docUploadLoading": {
+    "message": "Dokumen sedang diunggah...",
+    "description": "aiAssistantzh.json"
+  },
+  "docLearningLoading": {
+    "message": "Dokumen sedang dipelajari",
+    "description": "aiAssistantzh.json"
+  },
+  "reUpload": {
+    "message": "Unggah ulang",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDialogue": {
+    "message": "Percakapan cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "wordCloud": {
+    "message": "Cloud kata",
+    "description": "aiAssistantzh.json"
+  },
+  "document": {
+    "message": "Dokumen",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognition": {
+    "message": "Pengenalan formula",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognitionDesc": {
+    "message": "Secara otomatis mengidentifikasi berbagai rumus subjek dalam gambar dan mengubahnya menjadi rumus LateX yang dapat diedit.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImage": {
+    "message": "Unggah gambar",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionResult": {
+    "message": "Identifikasi hasilnya",
+    "description": "aiAssistantzh.json"
+  },
+  "quickCopy": {
+    "message": "Replikasi cepat",
+    "description": "aiAssistantzh.json"
+  },
+  "recognizing": {
+    "message": "Mengidentifikasi...",
+    "description": "aiAssistantzh.json"
+  },
+  "noContentRecognized": {
+    "message": "Konten tidak dikenali, silakan unggah lagi",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaPreview": {
+    "message": "Pratinjau rumus",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatError": {
+    "message": "Gambar hanya dapat digunakan dalam format PNG, JPG, dan JPEG.",
+    "description": "aiAssistantzh.json"
+  },
+  "imageSizeError": {
+    "message": "Ukuran maksimum gambar tidak boleh melebihi 512 m.",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionLimitExceeded": {
+    "message": "Jumlah waktu pengenalan gambar telah habis, silakan hubungi layanan pelanggan untuk mendapatkan bantuan.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToUpload": {
+    "message": "Klik Unggah",
+    "description": "aiAssistantzh.json"
+  },
+  "dragImageHere": {
+    "message": "Seret dan lepas gambar di sini",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatSupport": {
+    "message": "Hanya format PNG, JPG, dan JPEG yang didukung",
+    "description": "aiAssistantzh.json"
+  },
+  "videoUsageTips": {
+    "message": "Tips penggunaan:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoDailyLimit": {
+    "message": "Jumlah video yang dapat dianalisis per hari adalah 5",
+    "description": "aiAssistantzh.json"
+  },
+  "videoHistoryRecord": {
+    "message": "Sejarah",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisTitle": {
+    "message": "Analitik video",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisDesc": {
+    "message": "Secara otomatis menghasilkan ringkasan klip, subtitle, dan awan kata untuk video yang diunggah.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoText": {
+    "message": "Seret dan lepas video di sini,",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleVideoName": {
+    "message": "Contoh video .mp4",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadingVideo": {
+    "message": "Video sedang diunggah...",
+    "description": "aiAssistantzh.json"
+  },
+  "browserNotSupport": {
+    "message": "Browser Anda tidak mendukung tag video.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSummary": {
+    "message": "Ringkasan AI",
+    "description": "aiAssistantzh.json"
+  },
+  "fragmentSummary": {
+    "message": "Ringkasan cuplikan",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitles": {
+    "message": "Subtitle",
+    "description": "aiAssistantzh.json"
+  },
+  "timeline": {
+    "message": "Garis waktu",
+    "description": "aiAssistantzh.json"
+  },
+  "transcripts": {
+    "message": "Transkrip verbatim",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleSrt": {
+    "message": "Subtitle SRT",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleDoc": {
+    "message": "Dokumen subtitle",
+    "description": "aiAssistantzh.json"
+  },
+  "transcriptsDoc": {
+    "message": "Dokumen kata demi kata",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimitTip": {
+    "message": "Jumlah video yang dapat dianalisis (5) untuk hari ini telah habis, jadi silakan gunakan lagi besok.",
+    "description": "aiAssistantzh.json"
+  },
+  "unsupportedFormat": {
+    "message": "Format file yang tidak didukung",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimitTip": {
+    "message": "Ukuran file maksimum tidak boleh melebihi 512 M.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopic": {
+    "message": "Topik",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopicMetrics": {
+    "message": "Menurut analisis isi materi dan persyaratan pertanyaan, isi jawaban siswa memiliki tema yang jelas, mengikuti gagasan sentral materi, dan argumennya akurat, yang sepenuhnya memenuhi persyaratan topik.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructure": {
+    "message": "Logika struktural",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructureMetrics": {
+    "message": "Struktur logis jawaban siswa jelas, ketat, dan hierarkinya jelas.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguage": {
+    "message": "Ekspresi linguistik",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguageMetrics": {
+    "message": "Siswa harus jelas dan fasih berbahasa, dengan tata bahasa yang benar dan kata-kata yang tepat, dan jumlah kata harus memenuhi persyaratan.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContent": {
+    "message": "Kelengkapan dan Akurasi Konten",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContentMetrics": {
+    "message": "Jawaban siswa komprehensif dan akurat, mencakup semua poin yang diperlukan oleh pertanyaan tersebut.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerAccuracyMetrics": {
+    "message": "Opini, fakta, atau angka akurat dan tidak disalahartikan.",
+    "description": "aiAssistantzh.json"
+  },
+  "or": {
+    "message": "atau",
+    "description": "aiAssistantzh.json"
+  }
+}
