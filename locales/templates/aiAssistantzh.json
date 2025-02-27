@@ -1368,7 +1368,7 @@
     "description": "aiAssistantzh.json"
   },
   "resourceRetrievalDesc": {
-    "message": "智能搜索站内外优质教学资源",
+    "message": "智能搜索站内外优质教学资源。",
     "description": "aiAssistantzh.json"
   },
   "searchScope": {
@@ -1504,7 +1504,7 @@
     "description": "aiAssistantzh.json"
   },
   "todayUsedCount": {
-    "message": "今日已用次数{used}/{total}",
+    "message": "今日已用次数：{used}/{total}",
     "description": "aiAssistantzh.json"
   },
   "dailyUsageTip": {
@@ -1577,6 +1577,62 @@
   },
   "deepseek": {
     "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "学习中...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "已学习",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "删除整节内容，确定删除吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "删除要点及要点正文内容，确定删除吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "标题名称不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "标题不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "目录项不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "内容不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "请输入标题",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "请输入副标题",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "结束",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "预览",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "下载",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "欢迎交流{name}中的内容，你可能想问：",
     "description": "aiAssistantzh.json"
   }
 }
