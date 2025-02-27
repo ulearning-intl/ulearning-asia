@@ -1262,5 +1262,321 @@
   "or": {
     "message": "o",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Recuperación de recursos",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "Generación de PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "Tema:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "Volver a generar el contorno",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "Generar un PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "Se está generando el esquema",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "Selecciona una plantilla PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "Por favor, seleccione una plantilla PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "Descargar el PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "La compilación se realizó correctamente",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "Error de compilación",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "Echa un vistazo al esquema",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "Eliminado exitosamente",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "Añadir capítulos",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "Agregar una página interior",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "Añade viñetas",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "Se pueden añadir hasta 8 nudos",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "Puedes añadir hasta 8 páginas",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "Puedes añadir hasta 8 viñetas",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "Por favor, introduzca un título de sección",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "Por favor, introduzca un subtítulo para el capítulo",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "Por favor, introduzca un título para la página interior",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "Por favor, introduzca un subtítulo para la página interior",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "Introduzca un título con viñeta",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "Por favor, introduzca los puntos principales",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "¡Gracias por mirar",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "Busque de forma inteligente recursos didácticos de alta calidad dentro y fuera del sitio",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "Ámbito de búsqueda",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "Recuperación",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "Historial de búsqueda:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "Introduzca la palabra clave del recurso que está buscando",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Por favor, introduzca primero su término de búsqueda",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "Por favor, seleccione primero el ámbito de la búsqueda",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "recursos escolares",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "Biblioteca de Recursos de Cursos Ideológicos y Políticos de la Universidad Popular",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "Historial de búsqueda:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "Análisis terminológico",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "Recuperación inteligente de la extracción",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "Completado",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "Imagen",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "Enlace",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "Publicar en un curso",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "Título del curso:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "Seleccionar todo",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "Ámbito de la liberación de recursos:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "Mi clase",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "Todas las clases del curso (solo para el administrador del curso)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "Por favor seleccione un curso",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "Publicado con éxito",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "Respuestas de la IA",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "Autor:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "Resumen:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "Palabras clave:",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "Bilibili",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "Recomendado para ti",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "recursos escolares",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "Biblioteca de Recursos de Cursos Ideológicos y Políticos de la Universidad Popular",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "Recuento usado de hoy{usado}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT se puede usar para generar {count} veces por día",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "Genere PPT automáticamente en función del tema",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "Por favor, introduzca el nombre del tema PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "Generar un esquema",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "Temas recomendados",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "Cámbialo",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "Has agotado el número de usos ({count}) de hoy, así que por favor úsalos de nuevo mañana.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "Por favor, introduzca el nombre del tema PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "Introduzca un nombre de tema de más de 20 caracteres",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "Título",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "Carpeta",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "Por favor, introduzca un catálogo",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "Añadir un directorio",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "Sección",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "Páginas interiores",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "Mil preguntas en sentido general",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "Bollos de frijoles",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
   }
 }

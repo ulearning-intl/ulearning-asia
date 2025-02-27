@@ -1262,5 +1262,321 @@
   "or": {
     "message": "或",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "資源檢索",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT生成",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "主題：",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "重新生成大綱",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "生成PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "大綱生成中",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "選擇PPT範本",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "請選擇PPT範本",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "下載PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "生成成功",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "生成失敗",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "查看大綱",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "删除成功",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "添加章節",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "添加內頁",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "添加要點",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "最多可添加8節",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "最多可添加8頁",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "最多可添加8項要點",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "請輸入章節標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "請輸入章節副標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "請輸入內頁標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "請輸入內頁副標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "請輸入要點標題",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "請輸入要點內容",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "謝謝觀看",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "智慧搜索站內外優質教學資源",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "檢索範圍",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "檢索",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "檢索歷史：",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "請輸入你想找的資源關鍵詞",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "請先輸入檢索詞",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "請先選擇檢索範圍",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "本校資源",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "人民大思政課資源庫",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "檢索歷史：",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "檢索詞分析",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "智慧提取檢索",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "完成",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "視頻",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "圖片",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "音頻",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "鏈接",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "發佈到課程",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "課程名稱：",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "全選",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "資源發佈範圍：",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "我的班級",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "課程全部班級（僅課程管理員有效）",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "請選擇課程",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "發布成功",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "AI解答",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "作者：",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "摘要：",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "關鍵字：",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "bilibili",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "知網",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "為您推薦",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "本校資源",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "人民大思政課資源庫",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "今日已用次數{used}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "每日可使用PPT生成{count}次",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "根據主題自動生成PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "請輸入PPT主題名稱",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "生成大綱",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "推薦主題",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "換一換",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "今日使用次數（{count}）已使用完，請明天再使用。",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "請輸入PPT主題名稱",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "輸入主題名稱超過20字元",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "標題",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "目錄",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "請輸入目錄",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "添加目錄",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "章節",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "內頁",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "通義千問",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "豆包",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
   }
 }

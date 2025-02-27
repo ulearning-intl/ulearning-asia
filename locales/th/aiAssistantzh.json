@@ -1262,5 +1262,321 @@
   "or": {
     "message": "หรือ",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "การดึงทรัพยากร",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "การสร้าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "คําถามอัตนัย:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "สร้างโครงร่างใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "สร้าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "กําลังสร้างโครงร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "เลือกเทมเพลต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "โปรดเลือกเทมเพลต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "ดาวน์โหลด PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "การสร้างสําเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "การสร้างล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "ดูโครงร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "ลบสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "เพิ่มบท",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "เพิ่มหน้าภายใน",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "เพิ่มสัญลักษณ์แสดงหัวข้อย่อย",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "สามารถเพิ่มได้สูงสุด 8 นอต",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "คุณสามารถเพิ่มได้สูงสุด 8 หน้า",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "คุณสามารถเพิ่มสัญลักษณ์แสดงหัวข้อย่อยได้สูงสุด 8 จุด",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "โปรดป้อนชื่อส่วน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "โปรดป้อนคําบรรยายสําหรับบท",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "โปรดป้อนชื่อสําหรับหน้าด้านใน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "โปรดป้อนคําบรรยายสําหรับหน้าด้านใน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "โปรดป้อนชื่อหัวข้อย่อย",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "กรุณากรอกประเด็นหลัก",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "ขอบคุณสําหรับการรับชม",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "ค้นหาแหล่งข้อมูลการสอนคุณภาพสูงทั้งภายในและภายนอกไซต์อย่างชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "ขอบเขตการค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "เรียก",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "ประวัติการค้นหา:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "โปรดป้อนคําหลักทรัพยากรที่คุณกําลังมองหา",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "โปรดป้อนคําค้นหาของคุณก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "โปรดเลือกขอบเขตการค้นหาก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "ทรัพยากรของโรงเรียนของเรา",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "ห้องสมุดทรัพยากรหลักสูตรอุดมการณ์และการเมืองของมหาวิทยาลัยประชาชน",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "ประวัติการค้นหา:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "การวิเคราะห์คําศัพท์",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "การดึงข้อมูลการสกัดอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "เสร็จสิ้นเรียบร้อย",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "วิดีโอ",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "ภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "เสียง",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "ลิงค์",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "ประกาศไปยังหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "ชื่อหลักสูตร:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "ขอบเขตการเผยแพร่ทรัพยากร:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "ชั้นเรียนของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "ทุกชั้นเรียนของหลักสูตร (สําหรับผู้ดูแลหลักสูตรเท่านั้น)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "กรุณาเลือกหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "ประกาศสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "คําตอบของ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "ผู้แต่ง:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "สรุป:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "คำสำคัญ:",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "บิลิบิลี",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "ซีเอ็นเค",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "สินค้าแนะนํา",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "ทรัพยากรของโรงเรียนของเรา",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "ห้องสมุดทรัพยากรหลักสูตรอุดมการณ์และการเมืองของมหาวิทยาลัยประชาชน",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "จํานวนที่ใช้ของวันนี้{used}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT สามารถใช้เพื่อสร้าง {count} ครั้งต่อวัน",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "สร้าง PPT โดยอัตโนมัติตามหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "กรุณาป้อนชื่อหัวข้อ PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "สร้างเค้าร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "ธีมที่แนะนํา",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "สลับออก",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "คุณได้ใช้จํานวนการใช้งาน ({count}) สําหรับวันนี้จนหมดแล้ว ดังนั้นโปรดใช้อีกครั้งในวันพรุ่งนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "กรุณาป้อนชื่อหัวข้อ PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "ป้อนชื่อหัวข้อที่มีอักขระมากกว่า 20 ตัว",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "ชื่อเรื่อง",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "สารบัญ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "กรุณาป้อนแคตตาล็อก",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "เพิ่มสารบัญ",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "บท",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "หน้าภายใน",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "คําถามนับพันในความหมายทั่วไป",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "ซาลาเปาถั่ว",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
   }
 }

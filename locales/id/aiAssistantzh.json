@@ -1262,5 +1262,321 @@
   "or": {
     "message": "atau",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Pengambilan sumber daya",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "Generasi PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "Topik:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "Meregenerasi garis besar",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "Hasilkan PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "Garis besar sedang dibuat",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "Pilih template PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "Silakan pilih template PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "Unduh PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "Pembangunannya berhasil",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "Build gagal",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "Lihat garis besarnya",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "Berhasil dihapus",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "Tambahkan bab",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "Menambahkan halaman dalam",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "Tambahkan poin-poin",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "Hingga 8 knot dapat ditambahkan",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "Anda dapat menambahkan hingga 8 halaman",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "Anda dapat menambahkan hingga 8 poin-poin",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "Masukkan judul bagian",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "Silakan masukkan subjudul untuk bab tersebut",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "Silakan masukkan judul untuk halaman dalam",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "Silakan masukkan subtitle untuk halaman dalam",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "Silakan masukkan judul poin-poin",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "Silakan masukkan poin-poin utama",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "Terima kasih telah menonton",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "Cari sumber daya pengajaran berkualitas tinggi secara cerdas di dalam dan di luar situs",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "Cakupan pencarian",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "Pengambilan",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "Riwayat pencarian:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "Masukkan kata kunci sumber daya yang Anda cari",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Masukkan istilah pencarian Anda terlebih dahulu",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "Silakan pilih ruang lingkup pencarian terlebih dahulu",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "Sumber universitas ini",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "Perpustakaan Sumber Daya Kursus Ideologis dan Politik Universitas Rakyat",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "Riwayat pencarian:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "Analisis terminologi",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "Pengambilan ekstraksi cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "Selesai",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "Gambar",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "Tautan",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "Rilis ke mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "Judul Kursus:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "Pilih semua",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "Cakupan rilis sumber daya:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "Kelas saya",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "Semua kelas kursus (hanya untuk administrator kursus)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "Pilih mata kuliah",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "Berhasil dirilis",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "Jawaban AI",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "Pengarang:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "Ringkasan:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "Kata kunci:",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "bilibili",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "Direkomendasikan untuk Anda",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "Sumber universitas ini",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "Perpustakaan Sumber Daya Kursus Ideologis dan Politik Universitas Rakyat",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "Jumlah yang digunakan hari ini{digunakan}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT dapat digunakan untuk menghasilkan {hitungan} kali per hari",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "Hasilkan PPT secara otomatis berdasarkan topik",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "Silahkan masukkan nama topik PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "Buat garis besar",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "Tema yang direkomendasikan",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "Tukar",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "Anda telah menggunakan jumlah penggunaan ({count}) untuk hari ini, jadi silakan gunakan lagi besok.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "Silahkan masukkan nama topik PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "Masukkan nama topik lebih dari 20 karakter",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "Judul",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "Daftar isi",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "Silakan masukkan katalog",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "Menambahkan daftar isi",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "bab",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "Halaman dalam",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "Seribu pertanyaan dalam arti umum",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "Roti kacang",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
   }
 }
