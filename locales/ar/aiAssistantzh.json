@@ -1262,5 +1262,321 @@
   "or": {
     "message": "أو",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "استرجاع الموارد",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "جيل PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "موضوع:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "إعادة إنشاء المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "إنشاء PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "يتم إنشاء المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "حدد قالب PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "الرجاء تحديد قالب PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "قم بتنزيل PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "نجح البناء",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "فشل البناء",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "تحقق من المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "إضافة فصول",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "إضافة صفحة داخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "إضافة نقاط نقطية",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "يمكن إضافة ما يصل إلى 8 عقدة",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "يمكنك إضافة ما يصل إلى 8 صفحات",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "يمكنك إضافة ما يصل إلى 8 نقاط",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "الرجاء إدخال عنوان القسم",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي للفصل",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "الرجاء إدخال عنوان للصفحة الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي للصفحة الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "الرجاء إدخال عنوان نقطة",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "الرجاء إدخال النقاط الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "شكرا للمشاهدة",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "ابحث بذكاء عن موارد تعليمية عالية الجودة داخل الموقع وخارجه",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "نطاق البحث",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "استرداد",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "سجل البحث:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "الرجاء إدخال الكلمة الرئيسية للمورد الذي تبحث عنه",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "الرجاء إدخال مصطلح البحث أولا",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "الرجاء تحديد نطاق البحث أولا",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "مصادر أكاديمية",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "مكتبة موارد الدورة الأيديولوجية والسياسية بجامعة الشعب",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "سجل البحث:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "تحليل المصطلحات",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "استرجاع الاستخراج الذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "مكتمل",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "مقطع فيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "الصورة",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "مقاطع صوت",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "رابط",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "نشر لمقرر دراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "عنوان الدورة:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "إختيار الكل",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "نطاق إصدار الموارد:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "فصلي الدراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "جميع فصول المقرر الدراسي (لمسؤول المقرر الدراسي فقط)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "اختر المقرر الدراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "تم النشر بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "إجابات الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "كاتب:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "ملخص:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "الكلمات المفتاحية",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "بيليبيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "موصى به لك",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "مصادر أكاديمية",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "مكتبة موارد الدورة الأيديولوجية والسياسية بجامعة الشعب",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "العدد المستخدم اليوم{مستخدم}/{الإجمالي}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "يمكن استخدام PPT لتوليد {عدد} مرات في اليوم",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "إنشاء PPT تلقائيا بناء على الموضوع",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "الرجاء إدخال اسم موضوع PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "إنشاء مخطط تفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "النسق الموصى بها",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "حاول مرة أخرى",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "لقد استهلكت عدد الاستخدامات ({count}) لهذا اليوم ، لذا يرجى استخدامها مرة أخرى غدا.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "الرجاء إدخال اسم موضوع PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "أدخل اسم موضوع يتكون من أكثر من 20 حرفا",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "العنوان",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "القائمة",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "الرجاء إدخال كتالوج",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "إضافة جدول محتويات",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "فصل",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "الصفحات الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "ألف سؤال بالمعنى العام",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "كعك الفاصوليا",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "ديب سيك-R1",
+    "description": "aiAssistantzh.json"
   }
 }
