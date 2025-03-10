@@ -5190,5 +5190,13 @@
   "saas.settingRangeTip": {
     "message": "La valeur minimale est la quantité totale de ressources occupées par l’organisation actuelle, et la valeur maximale est le crédit de ressource disponible restant",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "Quotas de stockage et de compte",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "Si un quota est défini, les ressources utilisées par l’organisation actuelle ne peuvent pas dépasser le quota maximal\nSi aucun quota n’est défini, l’organisation actuelle partage le quota de ressources disponibles au niveau supérieur",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   }
 }

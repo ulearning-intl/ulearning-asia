@@ -1,0 +1,1582 @@
+{
+  "lang": {
+    "message": "في",
+    "description": "aiAssistantzh.json"
+  },
+  "AIHelp": {
+    "message": "مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "AITools": {
+    "message": "أدوات الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "login": {
+    "message": "تسجيل الدخول",
+    "description": "aiAssistantzh.json"
+  },
+  "logOut": {
+    "message": "تسجيل خروج",
+    "description": "aiAssistantzh.json"
+  },
+  "All": {
+    "message": "الكل",
+    "description": "aiAssistantzh.json"
+  },
+  "enterUsername": {
+    "message": "انقر لإدخال اسم المستخدم",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPassword": {
+    "message": "الرجاء إدخال كلمة المرور",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip": {
+    "message": "اسم مستخدم أو كلمة مرور غير صحيحة",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip1": {
+    "message": "المستخدم غير موجود",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip2": {
+    "message": "لم نتمكن من تسجيل الدخول!",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip3": {
+    "message": "لقد حاولت الدخول ٥ مرات. حاول مرة أخرى بعد ثلاث دقائق.",
+    "description": "aiAssistantzh.json"
+  },
+  "userInfoExpired": {
+    "message": "انتهت صلاحية معلومات المستخدم",
+    "description": "aiAssistantzh.json"
+  },
+  "hello": {
+    "message": "مرحبا ، أنا مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "desc": {
+    "message": "بصفتي مساعدك الذكي في الذكاء الاصطناعي ، يمكنني دعم الأسئلة والأجوبة الذكية ، وتوصية الموارد ، وأسئلة الذكاء الاصطناعي ، وما إلى ذلك.",
+    "description": "aiAssistantzh.json"
+  },
+  "AIAsk": {
+    "message": "سؤال وجواب ذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "guessTip": {
+    "message": "أعتقد أنك تريد أن تسأل:",
+    "description": "aiAssistantzh.json"
+  },
+  "inputPlaceholder": {
+    "message": "يمكنك أن تطرح علي أسئلة بعد تسجيل الدخول",
+    "description": "aiAssistantzh.json"
+  },
+  "askInputTip": {
+    "message": "الرجاء إدخال سؤالك",
+    "description": "aiAssistantzh.json"
+  },
+  "resultIntro": {
+    "message": "يتم إنشاء المحتوى أعلاه بواسطة الذكاء الاصطناعي وهو للإشارة والمرجع فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendation": {
+    "message": "توصيات الموارد",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip": {
+    "message": "مكتبة موارد ضخمة ، توصية دقيقة للموارد",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestion": {
+    "message": "أسئلة من الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestionTip": {
+    "message": "استجواب فعال وذكي لتحسين كفاءة التدريس",
+    "description": "aiAssistantzh.json"
+  },
+  "CommandCenter": {
+    "message": "مركز القيادة",
+    "description": "aiAssistantzh.json"
+  },
+  "selectInstruction": {
+    "message": "الرجاء تحديد أمر",
+    "description": "aiAssistantzh.json"
+  },
+  "newDialogue": {
+    "message": "إنشاء محادثة جديدة",
+    "description": "aiAssistantzh.json"
+  },
+  "history": {
+    "message": "تاريخ",
+    "description": "aiAssistantzh.json"
+  },
+  "thinking": {
+    "message": "فكر...",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeSource": {
+    "message": "مصادر المعرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "answerAgain": {
+    "message": "إعادة الإجابة",
+    "description": "aiAssistantzh.json"
+  },
+  "send": {
+    "message": "نشر",
+    "description": "aiAssistantzh.json"
+  },
+  "copy": {
+    "message": "نسخ",
+    "description": "aiAssistantzh.json"
+  },
+  "copySuccess": {
+    "message": "تم التكرار بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "copyFail": {
+    "message": "لم نتمكن من التكرار",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceInputPlaceholder": {
+    "message": "ما نوع الموارد التي تحتاج إلى التوصية بها؟ تسمية الكلمات الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip2": {
+    "message": "يوصى باستخدام موارد التعلم التالية لك:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeBatch": {
+    "message": "ينعش",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTip": {
+    "message": "قم بإنشاء الأسئلة التالية لك:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionInputPlaceholder": {
+    "message": "ما نوع الأسئلة التي تحتاج إلى طرحها؟ تسمية الكلمات الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantzh.json"
+  },
+  "nationalWebsite": {
+    "message": "National Smart Education Public Service Platform",
+    "description": "aiAssistantzh.json"
+  },
+  "generating": {
+    "message": "توليد...",
+    "description": "aiAssistantzh.json"
+  },
+  "contentInputTip": {
+    "message": "لا يمكن أن يكون المحتوى المرسل فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "requestTip": {
+    "message": "النظام مشغول ، يرجى المحاولة مرة أخرى لاحقا",
+    "description": "aiAssistantzh.json"
+  },
+  "questionType": {
+    "message": "نوع السؤال",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice": {
+    "message": "الاختيار من متعدد",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice": {
+    "message": "إجابات متعددة",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse": {
+    "message": "صواب/خطأ",
+    "description": "aiAssistantzh.json"
+  },
+  "fillBlank": {
+    "message": "تعبئة الفراغ",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNums": {
+    "message": "عدد الأسئلة",
+    "description": "aiAssistantzh.json"
+  },
+  "notFountAI": {
+    "message": "لم يتم العثور على مساعد الذكاء الاصطناعي الحالي",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermission": {
+    "message": "لا يوجد إذن لاستخدامه في الوقت الحالي",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistoryData": {
+    "message": "لا يوجد تاريخ",
+    "description": "aiAssistantzh.json"
+  },
+  "noResource": {
+    "message": "لا توجد موارد موصى بها في الوقت الحالي",
+    "description": "aiAssistantzh.json"
+  },
+  "requestFail": {
+    "message": "لم نتمكن من الطلب",
+    "description": "aiAssistantzh.json"
+  },
+  "noMore": {
+    "message": "نكتفى بهذا القدر",
+    "description": "aiAssistantzh.json"
+  },
+  "loginTip": {
+    "message": "يرجى تسجيل الدخول أولا",
+    "description": "aiAssistantzh.json"
+  },
+  "fromRepository": {
+    "message": "من مكتبة الموارد:",
+    "description": "aiAssistantzh.json"
+  },
+  "fromCourse": {
+    "message": "المصدر: ",
+    "description": "aiAssistantzh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "ULearning Resource Bank",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceKeys": {
+    "message": "توصية الموارد:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeys": {
+    "message": "أسئلة الذكاء الاصطناعي: {type} ، {num} ،",
+    "description": "aiAssistantzh.json"
+  },
+  "noContent": {
+    "message": "لا توجد نتائج حتى الآن ، يرجى تعديل الكلمة الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage1": {
+    "message": "الموضوع غير فارغ",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage2": {
+    "message": "احتفظ بخيارين على الأقل",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage3": {
+    "message": "الاختيارات ليست أكثر من ٢٠",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage4": {
+    "message": "الإجابة الصحيحة ليست فارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage5": {
+    "message": "الإجابة الصحيحة في المحتوى غير فارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage6": {
+    "message": "يرجى ملء الخيارات أو حذف الخيارات الإضافية",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage7": {
+    "message": "يجب ألا يتجاوز عدد الإجابات الصحيحة عدد الاختيارات",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage8": {
+    "message": "لا يمكن أن تظهر عناصر غير اختيارية في الإجابة الصحيحة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage9": {
+    "message": "هناك تكرارات في الإجابة الصحيحة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage10": {
+    "message": "يجب ألا تكون الإجابات المرجعية فارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage11": {
+    "message": "يجب ألا يكون عدد الإجابات الصحيحة أقل من عدد الإجابات الفارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage12": {
+    "message": "إضافة ما يصل إلى 20 عنصرا لملء الفراغات",
+    "description": "aiAssistantzh.json"
+  },
+  "quesOrder": {
+    "message": " سؤال {n}، ",
+    "description": "aiAssistantzh.json"
+  },
+  "correct": {
+    "message": "صحيح",
+    "description": "aiAssistantzh.json"
+  },
+  "incorrect": {
+    "message": "خطأ",
+    "description": "aiAssistantzh.json"
+  },
+  "answer": {
+    "message": "إجابة",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisTit": {
+    "message": "اضغط هنا لإدخال الشرح - ( اختياري )",
+    "description": "aiAssistantzh.json"
+  },
+  "loginInfoInvalid": {
+    "message": "معلومات تسجيل الدخول لم تعد صالحة",
+    "description": "aiAssistantzh.json"
+  },
+  "createTip": {
+    "message": "تم التبديل إلى الجلسة الأخيرة",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceFrom": {
+    "message": "مورد من {type}:",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType1": {
+    "message": "رفع محلي",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType2": {
+    "message": "المقرر",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType3": {
+    "message": "الرسم البياني المعرفي",
+    "description": "aiAssistantzh.json"
+  },
+  "systemSession": {
+    "message": "جلسة النظام",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTip": {
+    "message": "وفقا لإتقان نقاط المعرفة ، خمن أنك قد تحتاج إلى الموارد المتعلقة بالمعرفة التالية:",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTipTea": {
+    "message": "وفقا للرسم البياني المعرفي ، خمن أنك قد تحتاج إلى الموارد المتعلقة بالمعرفة التالية:",
+    "description": "aiAssistantzh.json"
+  },
+  "homework": {
+    "message": "الواجبات",
+    "description": "aiAssistantzh.json"
+  },
+  "utest": {
+    "message": "الامتحانات",
+    "description": "aiAssistantzh.json"
+  },
+  "ua": {
+    "message": "منهج دراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "noRemindData": {
+    "message": "لا توجد جلسات عمل للنظام حتى الآن",
+    "description": "aiAssistantzh.json"
+  },
+  "isTalking": {
+    "message": "تحديد",
+    "description": "aiAssistantzh.json"
+  },
+  "noText": {
+    "message": "النص غير معروف",
+    "description": "aiAssistantzh.json"
+  },
+  "end": {
+    "message": "هذا هو",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermissionTip": {
+    "message": "الرجاء تمكين أذونات التسجيل",
+    "description": "aiAssistantzh.json"
+  },
+  "startRecorder": {
+    "message": "التسجيل قيد التشغيل",
+    "description": "aiAssistantzh.json"
+  },
+  "audioInputOverTimes": {
+    "message": "إذا كنت بحاجة إلى زيادة حد الإدخال الصوتي، فيرجى الاتصال بالمسؤول",
+    "description": "aiAssistantzh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "إذا كنت بحاجة إلى زيادة الحد الأعلى للبث الصوتي، فاتصل بالمسؤول",
+    "description": "aiAssistantzh.json"
+  },
+  "AiWorkbench": {
+    "message": "منضدة الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentify": {
+    "message": "التعرف على الصيغة",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysis": {
+    "message": "تحليلات الفيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "docReading": {
+    "message": "قراءة المستندات",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSet": {
+    "message": "الإعدادات",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarking": {
+    "message": "الدرجات الذكية",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingDesc": {
+    "message": "الدرجات التلقائية للأسئلة الذاتية في الواجبات والامتحانات.",
+    "description": "aiAssistantzh.json"
+  },
+  "workQueTitle": {
+    "message": "الواجبات/الأسئلة التي تم تقديرها",
+    "description": "aiAssistantzh.json"
+  },
+  "reselect": {
+    "message": "أعد التحديد",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQue": {
+    "message": "حدد الواجب/الموضوع",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint": {
+    "message": "ملاحظة: ينطبق التقدير الذكي فقط على الواجبات الفردية التي يقدرها المعلم والاختبارات/الاختبارات التي تحتوي على أسئلة ذات إجابات قصيرة، ويقتصر تقدير الذكاء الاصطناعي على المحتوى النصي، ولا يدعم تقدير المحتوى غير النصي مثل المرفقات والصور التي يرسلها الطلاب.",
+    "description": "aiAssistantzh.json"
+  },
+  "personalHomework": {
+    "message": "المهام الفردية",
+    "description": "aiAssistantzh.json"
+  },
+  "allTeachers": {
+    "message": "كل المعلمين",
+    "description": "aiAssistantzh.json"
+  },
+  "inputHomeworkName": {
+    "message": "أدخل اسم الوظيفة للبحث",
+    "description": "aiAssistantzh.json"
+  },
+  "publisher": {
+    "message": "الناشر: ",
+    "description": "aiAssistantzh.json"
+  },
+  "pendingReview": {
+    "message": "لم يتم تقييمه:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentPeerReview": {
+    "message": "لا تدعم واجبات تقييم الزملاء التقدير الذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "systemScoring": {
+    "message": "لا تدعم تعيينات تقدير النظام التقدير الذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "noData": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "aiAssistantzh.json"
+  },
+  "test": {
+    "message": "اختبار",
+    "description": "aiAssistantzh.json"
+  },
+  "exam": {
+    "message": "الامتحانات",
+    "description": "aiAssistantzh.json"
+  },
+  "scoring": {
+    "message": "في التصنيف ...",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringCompleted": {
+    "message": "اكتمل التقدير",
+    "description": "aiAssistantzh.json"
+  },
+  "loading": {
+    "message": "جارٍ التحميل...",
+    "description": "aiAssistantzh.json"
+  },
+  "source": {
+    "message": "مصدر:",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswer": {
+    "message": "إجابة قصيرة",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreUnit": {
+    "message": "تقسيم",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirement": {
+    "message": "الموضوع/المتطلبات",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirementTip": {
+    "message": "من أجل تحسين دقة الدرجات الذكية ، يمكنك طلب محتوى السؤال / الواجب المنزلي<br/>قم بإجراء ضبط دقيق. يسري التعديل فقط على محتوى التصحيح الحالي ولن يؤثر على المحتوى الأصلي<br/>محتوى الموضوع الأولي/الواجب.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirement": {
+    "message": "يرجى إدخال سؤال / متطلب",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswer": {
+    "message": "الإجابة المرجعية",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswerTip": {
+    "message": "من أجل تحسين دقة الدرجات الذكية ، يمكنك تخصيص ما إذا كنت تريد تعيين معلمات الأساس<br/>يتم تقدير الإجابات، ويمكن ضبط محتوى الإجابات يدويا. اضبط فقط<br/>سيدخل حيز التنفيذ على محتوى التصحيح الحالي ولن يؤثر على محتوى الإجابة الأصلي.",
+    "description": "aiAssistantzh.json"
+  },
+  "useAsScoringBasis": {
+    "message": "كأساس للتسجيل",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswer": {
+    "message": "انقر لإدخال الإجابة المرجعية",
+    "description": "aiAssistantzh.json"
+  },
+  "fullScore": {
+    "message": "الدرجة النهائية",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringRules": {
+    "message": "قاعدة منح الدرجات",
+    "description": "aiAssistantzh.json"
+  },
+  "editRules": {
+    "message": "تحرير القاعدة",
+    "description": "aiAssistantzh.json"
+  },
+  "selectTemplate": {
+    "message": "تحديد القالب",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItem": {
+    "message": "عناصر التقدير",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetrics": {
+    "message": "مقاييس التسجيل",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreValue": {
+    "message": "الدرجات",
+    "description": "aiAssistantzh.json"
+  },
+  "totalScore": {
+    "message": "مجموع الدرجات",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringScale": {
+    "message": "مقياس التسجيل",
+    "description": "aiAssistantzh.json"
+  },
+  "strict": {
+    "message": "صارم",
+    "description": "aiAssistantzh.json"
+  },
+  "moderate": {
+    "message": "المعتدل",
+    "description": "aiAssistantzh.json"
+  },
+  "lenient": {
+    "message": "التراخي",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentComment": {
+    "message": "مراجعات ذكية",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled": {
+    "message": "متاح",
+    "description": "aiAssistantzh.json"
+  },
+  "disabled": {
+    "message": "إغلاق",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled1": {
+    "message": "تم التمكين",
+    "description": "aiAssistantzh.json"
+  },
+  "deactivated": {
+    "message": "إيقاف",
+    "description": "aiAssistantzh.json"
+  },
+  "encouraging": {
+    "message": "شجع",
+    "description": "aiAssistantzh.json"
+  },
+  "gentle": {
+    "message": "متوسط",
+    "description": "aiAssistantzh.json"
+  },
+  "serious": {
+    "message": "جاد",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTest": {
+    "message": "تصنيف الاختبار",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoring": {
+    "message": "بدء التقدير",
+    "description": "aiAssistantzh.json"
+  },
+  "system": {
+    "message": "النظام",
+    "description": "aiAssistantzh.json"
+  },
+  "cancel": {
+    "message": "إلغاء",
+    "description": "aiAssistantzh.json"
+  },
+  "useThisTemplate": {
+    "message": "استخدم هذا القالب",
+    "description": "aiAssistantzh.json"
+  },
+  "addScoringItem": {
+    "message": "إضافة عنصر تقدير",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScore": {
+    "message": "النقاط المتبقية",
+    "description": "aiAssistantzh.json"
+  },
+  "delete": {
+    "message": "حذف",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringItem": {
+    "message": "الرجاء إدخال عنصر التقدير",
+    "description": "aiAssistantzh.json"
+  },
+  "metric": {
+    "message": "فهرس",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringMetric": {
+    "message": "الرجاء إدخال مقياس الدرجات",
+    "description": "aiAssistantzh.json"
+  },
+  "score": {
+    "message": "الدرجات",
+    "description": "aiAssistantzh.json"
+  },
+  "addMetric": {
+    "message": "إضافة مقاييس",
+    "description": "aiAssistantzh.json"
+  },
+  "confirm": {
+    "message": "تأكيد",
+    "description": "aiAssistantzh.json"
+  },
+  "noIntelligentMarkingData": {
+    "message": "لا توجد بيانات للتصحيح الذكي في الوقت الحالي",
+    "description": "aiAssistantzh.json"
+  },
+  "randomPaper": {
+    "message": "لا تدعم اختبارات تكوين الورق العشوائي الدرجات الذكية",
+    "description": "aiAssistantzh.json"
+  },
+  "allPapers": {
+    "message": "كل الامتحانات",
+    "description": "aiAssistantzh.json"
+  },
+  "inputQuizName": {
+    "message": "أدخل اسم اختبار للبحث",
+    "description": "aiAssistantzh.json"
+  },
+  "inputExamName": {
+    "message": "أدخل البحث عن اسم الاختبار",
+    "description": "aiAssistantzh.json"
+  },
+  "selectHomework": {
+    "message": "الرجاء تحديد واجب",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestion": {
+    "message": "الرجاء تحديد موضوع",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTestHint": {
+    "message": "ملاحظة: لن يتم حفظ نتائج الاختبار الذي تم تقديره، ويمكنك اختيار بدء التقدير إذا أكدت أن نتائج التقدير تلبي توقعاتك.",
+    "description": "aiAssistantzh.json"
+  },
+  "question": {
+    "message": "موضوع:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnswer": {
+    "message": "اجابات",
+    "description": "aiAssistantzh.json"
+  },
+  "enterStudentAnswer": {
+    "message": "الرجاء إدخال إجابة الطالب",
+    "description": "aiAssistantzh.json"
+  },
+  "aiScore": {
+    "message": "تسجيل الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgress": {
+    "message": "في التصنيف ...",
+    "description": "aiAssistantzh.json"
+  },
+  "reScoring": {
+    "message": "إعادة التسجيل",
+    "description": "aiAssistantzh.json"
+  },
+  "next": {
+    "message": "التالي",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQueError": {
+    "message": "الرجاء تحديد الموضوع / الواجب المراد تقديره",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirementError": {
+    "message": "يرجى إدخال سؤال / متطلب",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswerError": {
+    "message": "انقر لإدخال الإجابة المرجعية",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoringHint": {
+    "message": "بعد بدء التقدير، سيقوم النظام بتصحيح إجابات الطالب المقدمة بذكاء وفقا لقواعد التقدير التي قمت بتعيينها (لن يؤثر ذلك على تغيير درجة الطالب التي وافق عليها المعلم بالفعل).<br/>من المؤكد أنك ستبدأ في الدرج؟",
+    "description": "aiAssistantzh.json"
+  },
+  "iKnow": {
+    "message": "أعرف",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgressHint": {
+    "message": " تحت التصنيف...<br/><br/>قد تستغرق عملية التسجيل وقتا طويلا ، ويمكنك اختيار إغلاق النافذة المنبثقة ، وسيستمر النظام في التسجيل في الخلفية.",
+    "description": "aiAssistantzh.json"
+  },
+  "useSuccess": {
+    "message": "استخدم بنجاح",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScoreError": {
+    "message": "يجب أن يكون مجموع درجات جميع مؤشرات التسجيل مساويا للدرجة الكاملة.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError": {
+    "message": "يجب أن يتراوح عدد الكلمات في عنصر التقدير {index} بين 2 و500 كلمة",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError1": {
+    "message": "يجب أن يتراوح عدد الكلمات في {subIndex} لعنصر النتيجة {index} بين 2 و 500 كلمة",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetricsAndScoreError": {
+    "message": "لا يمكن أن يكون مؤشر الدرجات وقيمة النتيجة للمؤشر {subIndex} لعنصر النتيجة {index} فارغين",
+    "description": "aiAssistantzh.json"
+  },
+  "maxScoringItemError": {
+    "message": "يمكن إضافة 10 عناصر تسجيل كحد أقصى إلى قاعدة تسجيل النقاط",
+    "description": "aiAssistantzh.json"
+  },
+  "maxMetricError": {
+    "message": "يمكن إضافة 10 مؤشرات تصنيف كحد أقصى إلى بند التصنيف.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNumberError": {
+    "message": "يمكن أن تكون النقاط رقمية فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNegativeError": {
+    "message": "لا يمكن أن تقل النتيجة عن 0",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreDecimalError": {
+    "message": "يمكن أن تكون النقاط منزلة عشرية واحدة فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpen": {
+    "message": "غير ممكّنة",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAI": {
+    "message": "إدارة مساعد الذكاء الاصطناعي الخاص بي",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchDescription": {
+    "message": "تطبيق تعليم الذكاء الاصطناعي الكل في واحد ، وإعداد سهل للدرس والتعلم الفعال",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchAdminTip": {
+    "message": "يجب فتح منضدة عمل الذكاء الاصطناعي من قبل مسؤول المقرر الدراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "openAIWorkbench": {
+    "message": "قم بتشغيل منضدة عمل الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "viewExample": {
+    "message": "انظر مثالا",
+    "description": "aiAssistantzh.json"
+  },
+  "essayQuestions": {
+    "message": "مقال",
+    "description": "aiAssistantzh.json"
+  },
+  "shortQuestions": {
+    "message": "إجابة قصيرة",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiAssistant": {
+    "message": "لم تتم إضافة مساعدي الذكاء الاصطناعي بعد",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantTeacherAdd": {
+    "message": "يحتاج المعلم إلى إضافة مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantAdminManage": {
+    "message": "يمكن لمسؤولي المقرر الدراسي إدارة مساعدي الذكاء الاصطناعي المقترنين بالمقرر الدراسي في قائمة الإعدادات",
+    "description": "aiAssistantzh.json"
+  },
+  "goToSettings": {
+    "message": "إضافة فئة",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSetDescription": {
+    "message": "قم بإعداد مساعدي الذكاء الاصطناعي وأدوات الذكاء الاصطناعي وقاعدة المعرفة المرتبطة بمنضدة عمل الذكاء الاصطناعي.",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbench": {
+    "message": "قم بإيقاف تشغيل منضدة عمل الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbenchConfirm": {
+    "message": "بمجرد إيقاف تشغيل الذكاء الاصطناعي Workbench ، يمكن تشغيله مرة أخرى. هل أنت متأكد من أنه مغلق؟",
+    "description": "aiAssistantzh.json"
+  },
+  "repository": {
+    "message": "معارف",
+    "description": "aiAssistantzh.json"
+  },
+  "addAiAssistant": {
+    "message": "إضافة مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAiAssistant": {
+    "message": "إدارة مساعد الذكاء الاصطناعي الخاص بي",
+    "description": "aiAssistantzh.json"
+  },
+  "permission": {
+    "message": "الصلاحيات",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyTeacher": {
+    "message": "متاح للمعلمين فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyStudent": {
+    "message": "متاح للطلاب فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "teacherAndStudent": {
+    "message": "متاح للمعلمين والطلاب",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteConfirm": {
+    "message": "هل تريد بالتأكيد حذفه؟",
+    "description": "aiAssistantzh.json"
+  },
+  "hint": {
+    "message": "النصائح",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySuccess": {
+    "message": "تم التعديل بنجاح",
+    "description": "aiAssistantzh.json"
+  },
+  "addSuccess": {
+    "message": "تمت الإضافة بنجاح",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistant": {
+    "message": "حدد مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "createdByMe": {
+    "message": "تم إنشاؤها من قبلي",
+    "description": "aiAssistantzh.json"
+  },
+  "sharedBySchool": {
+    "message": "مشتركة من قبل المدرسة",
+    "description": "aiAssistantzh.json"
+  },
+  "search": {
+    "message": "بحث",
+    "description": "aiAssistantzh.json"
+  },
+  "creator": {
+    "message": "المنشئ",
+    "description": "aiAssistantzh.json"
+  },
+  "maxAiAssistant": {
+    "message": "يمكن إضافة 10 مساعدي الذكاء الاصطناعي كحد أقصى إلى كل دورة تدريبية",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistantError": {
+    "message": "الرجاء تحديد مساعد الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "status": {
+    "message": "الحالة",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySettings": {
+    "message": "تعديل الإعدادات",
+    "description": "aiAssistantzh.json"
+  },
+  "saveSettings": {
+    "message": "حفظ الإعدادات",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiToolsEnabled": {
+    "message": "لم يتم تمكين أداة الذكاء الاصطناعي بعد",
+    "description": "aiAssistantzh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "إضافة قاعدة معارف",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyKnowledgeBase": {
+    "message": "إدارة قاعدة معارفي",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "حذف",
+    "description": "aiAssistantzh.json"
+  },
+  "noKnowledgeBase": {
+    "message": "لم تتم إضافة قاعدة المعرفة بعد",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "حدد قاعدة المعارف",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBaseError": {
+    "message": "الرجاء تحديد قاعدة معارف",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadTitle": {
+    "message": "تحميل الملف",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadDescription": {
+    "message": "يرجى تحميل المستندات الخاصة بك",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadHint": {
+    "message": "رفع محلي",
+    "description": "aiAssistantzh.json"
+  },
+  "selectResource": {
+    "message": "إختر مصدر",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoHere": {
+    "message": "قم بسحب الفيديو وإفلاته هنا لتحميله",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimit": {
+    "message": "تم استخدام عدد مقاطع الفيديو القابلة للتحليل (5) لهذا اليوم ، لذا يرجى استخدامها مرة أخرى غدا.",
+    "description": "aiAssistantzh.json"
+  },
+  "videoFormatError": {
+    "message": "يتم دعم تنسيقات الفيديو فقط.",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatError": {
+    "message": "المستندات متاحة فقط بتنسيقات doc و docx و pdf.",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeError": {
+    "message": "لا يمكن أن يتجاوز الحد الأقصى لحجم الملف 512 ميجابايت.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadSuccess": {
+    "message": "تم الرفع بنجاح.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFail": {
+    "message": "لم نتمكن من الرفع",
+    "description": "aiAssistantzh.json"
+  },
+  "selectDocument": {
+    "message": "إدراج مستند",
+    "description": "aiAssistantzh.json"
+  },
+  "myResource": {
+    "message": "مصادري",
+    "description": "aiAssistantzh.json"
+  },
+  "courseResource": {
+    "message": "مصادر المقررات الدراسية",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourses": {
+    "message": "كل المقررات",
+    "description": "aiAssistantzh.json"
+  },
+  "documentName": {
+    "message": "اسم المستند",
+    "description": "aiAssistantzh.json"
+  },
+  "videoName": {
+    "message": "اسم الفيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "size": {
+    "message": "الحجم",
+    "description": "aiAssistantzh.json"
+  },
+  "historyRecord": {
+    "message": "تاريخ",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitle": {
+    "message": "قراءة المستندات",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitleText": {
+    "message": "قم بإنشاء سحابة كلمات تلقائيا على المستندات التي تم تحميلها وإجراء محادثات بناء على محتوى المستند.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDragText": {
+    "message": "اسحب المستند وأفلته هنا ،",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingFormat": {
+    "message": "يتم دعم تنسيقات Word و PDF فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "docUploadLoading": {
+    "message": "يتم تحميل المستند ...",
+    "description": "aiAssistantzh.json"
+  },
+  "docLearningLoading": {
+    "message": "الوثيقة قيد الدراسة",
+    "description": "aiAssistantzh.json"
+  },
+  "reUpload": {
+    "message": "إعادة رفع",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDialogue": {
+    "message": "المحادثات الذكية",
+    "description": "aiAssistantzh.json"
+  },
+  "wordCloud": {
+    "message": "سحابة الكلمات",
+    "description": "aiAssistantzh.json"
+  },
+  "document": {
+    "message": "مستند",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognition": {
+    "message": "التعرف على الصيغة",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognitionDesc": {
+    "message": "حدد تلقائيا صيغ الموضوع المختلفة في الصور وقم بتحويلها إلى صيغ LateX قابلة للتحرير.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImage": {
+    "message": "تحميل صورة",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionResult": {
+    "message": "تحديد النتائج",
+    "description": "aiAssistantzh.json"
+  },
+  "quickCopy": {
+    "message": "النسخ المتماثل السريع",
+    "description": "aiAssistantzh.json"
+  },
+  "recognizing": {
+    "message": "تحديد...",
+    "description": "aiAssistantzh.json"
+  },
+  "noContentRecognized": {
+    "message": "لم يتم التعرف على المحتوى، يرجى تحميله مرة أخرى",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaPreview": {
+    "message": "معاينة الصيغة",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatError": {
+    "message": "لا يمكن استخدام الصور إلا بتنسيقات PNG و JPG و JPEG.",
+    "description": "aiAssistantzh.json"
+  },
+  "imageSizeError": {
+    "message": "لا يمكن أن يتجاوز الحد الأقصى لحجم الصورة 512 مترا.",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionLimitExceeded": {
+    "message": "تم استنفاد عدد مرات التعرف على الصور ، يرجى الاتصال بخدمة العملاء للحصول على المساعدة.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToUpload": {
+    "message": "انقر فوق تحميل",
+    "description": "aiAssistantzh.json"
+  },
+  "dragImageHere": {
+    "message": "اسحب الصورة وأفلتها هنا",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatSupport": {
+    "message": "يتم دعم تنسيقات PNG و JPG و JPEG فقط",
+    "description": "aiAssistantzh.json"
+  },
+  "videoUsageTips": {
+    "message": "نصائح للاستخدام:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoDailyLimit": {
+    "message": "عدد مقاطع الفيديو التي يمكن تحليلها يوميا هو 5",
+    "description": "aiAssistantzh.json"
+  },
+  "videoHistoryRecord": {
+    "message": "تاريخ",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisTitle": {
+    "message": "تحليلات الفيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisDesc": {
+    "message": "قم تلقائيا بإنشاء ملخصات المقاطع والترجمات وسحب الكلمات لمقاطع الفيديو التي تم تحميلها.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoText": {
+    "message": "قم بسحب وإسقاط الفيديو هنا ،",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleVideoName": {
+    "message": "عينة .mp4 الفيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadingVideo": {
+    "message": "يتم تحميل الفيديو ...",
+    "description": "aiAssistantzh.json"
+  },
+  "browserNotSupport": {
+    "message": "متصفحك لا يدعم علامة الفيديو.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSummary": {
+    "message": "ملخص الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "fragmentSummary": {
+    "message": "ملخص المقتطف",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitles": {
+    "message": "عنوان فرعي",
+    "description": "aiAssistantzh.json"
+  },
+  "timeline": {
+    "message": "الجدول الزمني",
+    "description": "aiAssistantzh.json"
+  },
+  "transcripts": {
+    "message": "النص الكامل",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleSrt": {
+    "message": "ترجمة SRT",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleDoc": {
+    "message": "مستند الترجمة",
+    "description": "aiAssistantzh.json"
+  },
+  "transcriptsDoc": {
+    "message": "مستند حرفي",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimitTip": {
+    "message": "تم استخدام عدد مقاطع الفيديو القابلة للتحليل (5) لهذا اليوم ، لذا يرجى استخدامها مرة أخرى غدا.",
+    "description": "aiAssistantzh.json"
+  },
+  "unsupportedFormat": {
+    "message": "تنسيقات الملفات غير المدعومة",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimitTip": {
+    "message": "لا يمكن أن يتجاوز الحد الأقصى لحجم الملف 512 ميجابايت.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopic": {
+    "message": "المواضيع",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopicMetrics": {
+    "message": "وفقا لتحليل محتوى المادة ومتطلبات السؤال ، فإن محتوى إجابات الطلاب له موضوع واضح ، ويتبع عن كثب الفكرة المركزية للمادة ، والحجج دقيقة ، والتي تلبي تماما متطلبات الموضوع.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructure": {
+    "message": "المنطق الهيكلي",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructureMetrics": {
+    "message": "الهيكل المنطقي لإجابات الطلاب واضح وصارم والتسلسل الهرمي واضح.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguage": {
+    "message": "التواصل اللفظي",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguageMetrics": {
+    "message": "يجب أن يكون الطالب واضحا ويجيد اللغة ، مع القواعد الصحيحة والصياغة المناسبة ، ويجب أن يفي عدد الكلمات بالمتطلبات.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContent": {
+    "message": "اكتمال المحتوى ودقته",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContentMetrics": {
+    "message": "كانت إجابات الطلاب شاملة ودقيقة ، وغطت جميع النقاط التي يتطلبها السؤال.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerAccuracyMetrics": {
+    "message": "الآراء أو الحقائق أو الأرقام دقيقة ولا يساء تفسيرها.",
+    "description": "aiAssistantzh.json"
+  },
+  "or": {
+    "message": "أو",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "استرجاع الموارد",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "جيل PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "موضوع:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "إعادة إنشاء المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "إنشاء PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "يتم إنشاء المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "حدد قالب PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "الرجاء تحديد قالب PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "قم بتنزيل PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "نجح البناء",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "فشل البناء",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "تحقق من المخطط التفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "تم الحذف بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "إضافة فصول",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "إضافة صفحة داخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "إضافة نقاط نقطية",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "يمكن إضافة ما يصل إلى 8 عقدة",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "يمكنك إضافة ما يصل إلى 8 صفحات",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "يمكنك إضافة ما يصل إلى 8 نقاط",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "الرجاء إدخال عنوان القسم",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي للفصل",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "الرجاء إدخال عنوان للصفحة الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي للصفحة الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "الرجاء إدخال عنوان نقطة",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "الرجاء إدخال النقاط الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "شكرا للمشاهدة",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "ابحث بذكاء عن موارد تعليمية عالية الجودة داخل الموقع وخارجه",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "نطاق البحث",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "استرداد",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "سجل البحث:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "الرجاء إدخال الكلمة الرئيسية للمورد الذي تبحث عنه",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "الرجاء إدخال مصطلح البحث أولا",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "الرجاء تحديد نطاق البحث أولا",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "مصادر أكاديمية",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "مكتبة موارد الدورة الأيديولوجية والسياسية بجامعة الشعب",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "سجل البحث:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "تحليل المصطلحات",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "استرجاع الاستخراج الذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "مكتمل",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "مقطع فيديو",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "الصورة",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "مقاطع صوت",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "رابط",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "نشر لمقرر دراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "عنوان الدورة:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "إختيار الكل",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "نطاق إصدار الموارد:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "فصلي الدراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "جميع فصول المقرر الدراسي (لمسؤول المقرر الدراسي فقط)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "اختر المقرر الدراسي",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "تم النشر بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "إجابات الذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "كاتب:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "ملخص:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "الكلمات المفتاحية",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "بيليبيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "موصى به لك",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "مصادر أكاديمية",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "مكتبة موارد الدورة الأيديولوجية والسياسية بجامعة الشعب",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "العدد المستخدم اليوم{مستخدم}/{الإجمالي}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "يمكن استخدام PPT لتوليد {عدد} مرات في اليوم",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "إنشاء PPT تلقائيا بناء على الموضوع",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "الرجاء إدخال اسم موضوع PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "إنشاء مخطط تفصيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "النسق الموصى بها",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "حاول مرة أخرى",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "لقد استهلكت عدد الاستخدامات ({count}) لهذا اليوم ، لذا يرجى استخدامها مرة أخرى غدا.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "الرجاء إدخال اسم موضوع PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "أدخل اسم موضوع يتكون من أكثر من 20 حرفا",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "العنوان",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "القائمة",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "الرجاء إدخال كتالوج",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "إضافة جدول محتويات",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "فصل",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "الصفحات الداخلية",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "ألف سؤال بالمعنى العام",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "كعك الفاصوليا",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "ديب سيك-R1",
+    "description": "aiAssistantzh.json"
+  }
+}

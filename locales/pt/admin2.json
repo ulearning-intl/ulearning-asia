@@ -5174,5 +5174,13 @@
   "saas.settingRangeTip": {
     "message": "O valor mínimo é a quantidade total de recursos ocupados pela organização atual, e o valor máximo é o crédito de recurso disponível restante",
     "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "Quotas de armazenamento e de conta",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "Se uma cota for definida, os recursos usados pela organização atual não poderão exceder a cota máxima\nSe nenhuma cota for definida, a organização atual compartilha a cota de recursos disponíveis para o nível superior",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   }
 }
