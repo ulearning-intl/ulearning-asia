@@ -1262,5 +1262,377 @@
   "or": {
     "message": " or ",
     "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Resource retrieval",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT generation",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "Theme:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "Regenerate the outline",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "Generate a PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "The outline is being generated",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "Select a PPT template",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "Please select a PPT template",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "Download the PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "The build succeeded",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "Failed to generate",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "Check out the outline",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "Add chapters",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "Add an inner page",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "Add bullet points",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "Up to 8 knots can be added",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "You can add up to 8 pages",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "You can add up to 8 bullet points",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "Please enter a section title",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "Please enter a subtitle for the chapter",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "Please enter a title for the inner page",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "Please enter a subtitle for the inner page",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "Please enter a bullet point title",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "Please enter the main points",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "Thanks for watching",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "Intelligently search for high-quality teaching resources inside and outside the site.",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "Search scope",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "Retrieval",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "Search History:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "Please enter the resource keyword you are looking for",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Please enter your search term first",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "Please select the search scope first",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "School Resources",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "People's University Ideological and Political Course Resource Library",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "Search History:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "Terminology analysis",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "Intelligent extraction retrieval",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "Completed",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "Image",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "Link",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "Publish to course",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "Course Title:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "Select all",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "Resource release scope:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "My class",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "All classes of the course (only for the course administrator)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "Select Course",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "Published successfully!",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "AI answers",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "Author:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "Summary:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "Keywords: ",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "bilibili",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "Recommended for you",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "School Resources",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "People's University Ideological and Political Course Resource Library",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "Today's used count: {used}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT can be used to generate {count} times per day",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "Automatically generate PPT based on the topic",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "Please enter the name of the PPT topic",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "Generate an outline",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "Recommended themes",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "Try Again",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "You have used up the number of uses ({count}) for today, so please use them again tomorrow.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "Please enter the name of the PPT topic",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "Enter a topic name of more than 20 characters",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "Title",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "Catalog",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "Please enter a catalog",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "add catalog",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "Chapters",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "Inner pages",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "Qwen",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "Doubao (CiCi)",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "Learning...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "Completed",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "Delete the entire section, are you sure you want to delete it?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "Are you sure you are sure to delete the main points and the main body of the main points?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "The title name cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "Title cannot be blank",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "Catalog entries cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": " Content cannot be empty ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "Please enter a title",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "Please enter a subtitle",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "End",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "Preview",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "Download",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "Welcome to chat about the content in {name}! You may want to ask: ",
+    "description": "aiAssistantzh.json"
   }
 }
