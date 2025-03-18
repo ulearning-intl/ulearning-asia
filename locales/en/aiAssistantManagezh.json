@@ -71,8 +71,56 @@
     "message": "Log Out",
     "description": "aiAssistantManagezh.json"
   },
+  "navbar.themeBtn": {
+    "message": "Topic",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "Customization Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "Overall Look and Feel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "Theme Color",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "Page style setting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "Theme Color",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "Open Tags-View",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "Fixed Header",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "Sidebar Logo",
+    "description": "aiAssistantManagezh.json"
+  },
   "tagsView.refresh": {
     "message": "Refresh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "Close",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "Close Others",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "Close All",
     "description": "aiAssistantManagezh.json"
   },
   "login.accountLogin": {
@@ -1439,12 +1487,188 @@
     "message": "ULearning",
     "description": "aiAssistantManagezh.json"
   },
+  "route.contentOperation": {
+    "message": "Content Operations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "PPT template management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Resource retrieval",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "CNKI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "People's University Ideological and Political Course Resource Library",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "School Resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "Resource retrieval scope",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "Please select a resource search scope",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "visitor",
+    "description": "aiAssistantManagezh.json"
+  },
   "websiteSlogan": {
     "message": "Intelligently Enlighten Future Education",
     "description": "aiAssistantManagezh.json"
   },
   "websiteDescription": {
     "message": "AI teaching agents promote the digital transformation of education",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "People.cn Open Courses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "Improve quality with wisdom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "Empower the whole process of ideological and political teaching and help enhance the leadership of ideological and political education",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "All template types",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "Content template management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "Add a content template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "Start sorting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "End sorting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "Template type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "Theme templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "Catalog templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "Inner page templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "Number of items",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "Download",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "Select the content template type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "Content template type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "PPT name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "The PPT name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "The PPT name cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "Edited successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "Failed to edit!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "Add a theme template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "Content templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "Manage all PPT templates generated by PPT in AI tools.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "Folder",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "Image",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "Rich Content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "Link",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "Question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "Exam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "Virtual Simulation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "Others",
     "description": "aiAssistantManagezh.json"
   }
 }
