@@ -7858,5 +7858,257 @@
   "examStatus3": {
     "message": "Not submitted",
     "description": "2.0 course.js"
+  },
+  "programDetailWarning": {
+    "message": "The content entrance has not been set for this resource. Please return to the list and click Edit to add a content entrance!",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "After binding a Google Classroom course, the assignments and materials of the course will be displayed here. You can choose automatic synchronization or manual synchronization when binding, and the synchronized contents will be displayed on the \"Assignments\" and \"Resources\" page of Ulearning.",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "You have not yet bound a Google Classroom course, please log in to your Google account to bind",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "Select the course you want to bind",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "Enter course name to search",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "The course was not found",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*You don't have a course in Google Classroom yet, please create a course first,",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "The content of UATRY and Google Classroom will be automatically synced to each other's platforms",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "You can sync content manually:",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "Go to the UA course page > set up > \"Google Classroom\" or go to the UA course page> \"Resources\" and \"Assignments\" page to sync, or check \"Sync to Google Classroom\" when publishing",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "You have linked Google Classroom:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "Historical data synchronization has been completed! {n} pieces of content were successfully synced",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": ", {n} pieces of content failed to sync due to network issues",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "Network issues are causing historical data synchronization to fail!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "If there is a data conflict, select a data overwrite method to continue syncing",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "{n} pieces of content were successfully synced",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "Sign in to Google",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "Automatic syncing",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "Manual syncing",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "Bind",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "Binding failed",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "Unbind",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "Unbinding failed",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "Unsynced",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "Synced",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "Search by keyword",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "Batch sync",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "Batch unsync",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "One-click synchronization of historical data",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "Sync to Ulearning",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "Sync",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "Cancel the sync",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "It is not synchronized for the time being",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "Data is being synced for you",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "Retry",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "Overwrite old data",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "ignore",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "Synchronized successfully",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "Synchronization failed",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "The unsynchronization was successful",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "Failed to cancel the sync",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "The batch synchronization is successful",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "Batch sync failed",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "Batch unsynchronization is successful",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "Batch unsync failed",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "Google Classroom",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Enter an integral between 1~1000",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "Materials",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Assignment",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "Click to go to Classroom Create",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "The old data that has been synced after unbinding will be retained, and the new data will no longer be synchronized",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirm the unbinding",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Upload VR Content",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "SCORM learning records",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "Uncompleted",
+    "description": "2.0 course.js"
+  },
+  "masteryStatistics": {
+    "message": "Mastery Statistics",
+    "description": "2.0 course.js"
+  },
+  "delVirtual": {
+    "message": "Testing Nodes",
+    "description": "2.0 course.js"
+  },
+  "graphOverview": {
+    "message": "Knowledge Graph Overview",
+    "description": "2.0 course.js"
+  },
+  "knowledgePoints": {
+    "message": "Knowledge Nodes",
+    "description": "2.0 course.js"
+  },
+  "emphasis": {
+    "message": "Key Nodes",
+    "description": "2.0 course.js"
+  },
+  "difficulty": {
+    "message": "Difficult Nodes",
+    "description": "2.0 course.js"
+  },
+  "testPoints": {
+    "message": "Testing Nodes",
+    "description": "2.0 course.js"
+  },
+  "ideologicalPoints": {
+    "message": "Ethics Nodes",
+    "description": "2.0 course.js"
   }
 }

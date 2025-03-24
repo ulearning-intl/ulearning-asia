@@ -1119,10 +1119,6 @@
     "message": "Portefeuilles électroniques",
     "description": "2.0 public.js"
   },
-  "someonesEportfolio": {
-    "message": " ",
-    "description": "2.0 public.js"
-  },
   "ofEportfolio": {
     "message": "' ePortfolios",
     "description": "2.0 public.js"
@@ -2485,6 +2481,90 @@
   },
   "moreOperation": {
     "message": "Actions",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "Utilisateurs respectés : ",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "Votre mot de passe de connexion n'a pas été mis à jour depuis <strong class='text-red'>180</strong> jours !",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": " Afin de protéger la sécurité de votre compte, veuillez modifier le mot de passe de connexion pour éviter qu\\'il ne soit piraté de manière malveillante et améliorer la sécurité de votre compte.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "Modifier le mot de passe",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "La prochaine fois",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "Continuer à utiliser sans modification",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "Votre mot de passe est trop simple. Pour protéger votre compte, veuillez modifier votre mot de passe.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "Le mot de passe doit comporter de 8 à 16 caractères et inclure à la fois des lettres et des chiffres (les mots de passe sont sensibles à la casse)",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": " ",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "Paramètres d'aperçu",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "Sélectionnez une entrée d'aperçu",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "L'entrée d'aperçu n'a pas été définie pour cette ressource, veuillez revenir à la liste et cliquer sur [Modifier] pour définir l'entrée d'aperçu !",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "L'entrée d'aperçu n'a pas été définie pour cette ressource, veuillez contacter l'administrateur pour ajouter une entrée d'aperçu !",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "Le téléchargement est réussi, veuillez compléter les paramètres des ressources !",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "Choisir",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "Simulations interactives",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "Simulations",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "Le mot de passe ne peut prendre en charge que les lettres (sensibles à la casse), les chiffres et les caractères spéciaux (les caractères spéciaux sont la méthode de saisie anglaise !@#$%^&*()-_+={}[] :; ',./<> ?|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "Retour au Centre de gestion",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "L’adhésion au cours a été couronnée de succès",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "Échec de l’inscription au cours",
     "description": "2.0 public.js"
   }
 }

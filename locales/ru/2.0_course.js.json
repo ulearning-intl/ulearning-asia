@@ -7646,5 +7646,225 @@
   "uploaderLoadingTip": {
     "message": "Загрузка, пожалуйста, не закрывайте текущую страницу",
     "description": "2.0 course.js"
+  },
+  "programDetailWarning": {
+    "message": "Запись предварительного просмотра не была установлена для этого ресурса, пожалуйста, вернитесь к списку и нажмите [Изменить], чтобы добавить запись предварительного просмотра!",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "После привязки курса Google Classroom здесь будут отображаться задание и материалы курса. Вы можете выбрать автоматическую синхронизацию или ручную синхронизацию при привязке, и синхронизированные ресурсы будут отображаться на странице \"Задания\" и \"Ресурсы\" UniAcademy.",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "Вы еще не привязали курс Google Classroom, войдите в свою учетную запись Google, чтобы привязать",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "Выберите курс, который вы хотите привязать",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "ввод названия курса поиск",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "Курс не найден",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*У вас еще нет курса в Google Classroom, сначала создайте курс,",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "Контент UATRY и Google Classroom будет автоматически синхронизироваться с платформами друг друга",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "Вы можете синхронизировать контент вручную:",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "Перейдите на страницу курса UA > настройте > \"Google Classroom\" или перейдите на страницу курса UA> страницы \"Ресурсы\" и \"Задания\" для синхронизации, или отметьте галочкой \"Синхронизировать с Google Classroom\" при публикации",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "Вы связали Google Класс:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "Синхронизация исторических данных завершена! {n} фрагментов контента были успешно синхронизированы",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": ", {n} фрагментов контента не удалось синхронизировать из-за проблем с сетью",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "Проблемы с сетью приводят к сбоям синхронизации исторических данных!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "Если есть конфликт данных, выберите метод перезаписи данных, чтобы продолжить синхронизацию",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "{n} фрагментов контента были успешно синхронизированы",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "Войдите в аккаунт Google",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "Автоматическая синхронизация",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "Ручная синхронизация",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "связывать",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "Ошибка привязки",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "Отвязка",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "Отвязать неудача",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "Не выполняется синхронизация",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "Синхронизированы",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "Пожалуйста, введите ключевое слово для поиска",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "Пакетная синхронизация",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "Пакетная отмена синхронизации",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "Синхронизация исторических данных одним щелчком мыши",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "Синхронизация с U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "синхронный",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "Отмена синхронизации",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "Он пока не синхронизирован",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "Данные синхронизируются за вас",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "Сделать еще одну попытку",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "Перезапись старых данных",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "игнорировать",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "Синхронизация успешна",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "Сбой синхронизации",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "Рассинхронизация прошла успешно",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "Не удалось отменить синхронизацию",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "Пакетная синхронизация выполнена успешно",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "Не удалось выполнить пакетную синхронизацию",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "Пакетная рассинхронизация выполнена успешно",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "Не удалось выполнить пакетную рассинхронизацию",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "Google Класс",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Введите целое число от 1 до 1000",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "Материалы",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Домашняя работа",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "Нажмите, чтобы перейти в раздел «Создание класса»",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Старые данные, которые были синхронизированы после отмены привязки, будут сохранены, а новые данные больше не будут синхронизироваться",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Подтвердите отвязку",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Загружайте поддельные ресурсы",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Записи об обучении SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "незавершенный",
+    "description": "2.0 course.js"
   }
 }

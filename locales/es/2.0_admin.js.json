@@ -3866,5 +3866,209 @@
   "systemAdmin.concurrencyNum": {
     "message": "Concurrencia",
     "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "Fecha de Vencimiento del Servicio",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "Fecha de Vencimiento del Archivo",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "Total de Cuentas",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "Cuentas Activas",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "Almacenamiento en la Nube",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "Sala de Reuniones en la Nube",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "Inquilino",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "Total de Cuentas Activas",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "Pantalla Inteligente",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "Inicio",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "Fin",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "Usado",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "Cuota Total",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "Vencido",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "Total",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "Configuración de características",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "Introduzca {msg} para confirmar la operación",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "Introduzca la contraseña de administrador para confirmar las operaciones anteriores",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "Confirmación de la operación",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "Esta operación afectará a todas las organizaciones del sistema, por favor confirme antes de continuar.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "Cambio de característica",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "Confirmar",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Fin",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Cancelar",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Por favor ingrese la contraseña de confirmación",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Gestión de eventos",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Anuncios de Prensa",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Noticias",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Anuncio",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "Publicar",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Nombre de la noticia",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Contenido noticioso",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Introduzca un nombre para las noticias",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Los anuncios se mostrarán en el portal de la escuela y en la Academia UC, las noticias solo se mostrarán en el portal de la escuela",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Subir una vista previa",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "La escala de la imagen se recomienda a las 16:9; el formato de imagen: png, jpg, gif, jpeg, bmp; y el tamaño de la imagen única no debe ser mayor que 2M.",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Cargue la imagen nuevamente después de cargarla para actualizar la imagen",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "El tamaño de la imagen no puede ser mayor que {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "Por favor, suba una imagen",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Personalización",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Para páginas web personalizadas, seleccione esta plantilla",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Gestión de eventos",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Nuevos eventos",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Introducir una búsqueda de título de actividad",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "El título del evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Hora de comienzo del evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "Hora de finalización del evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Contenido del evento",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Enlace de reclutamiento de voluntarios",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Volver al centro de administración",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "La hora de inicio de la actividad no puede ser mayor que la hora de finalización del evento",
+    "description": "2.0 admin.js"
   }
 }

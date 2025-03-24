@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "บัญชีถูกยกเลิกคุณแน่ใจหรือไม่ว่าจะกู้คืนได้?",
+    "message": "รหัสผ่านสามารถรองรับเฉพาะตัวอักษร (คํานึงถึงตัวพิมพ์ใหญ่) ตัวเลข และอักขระพิเศษ (อักขระพิเศษคือวิธีการป้อนข้อมูลภาษาอังกฤษ!@#$%^&*()-_+={}[]:; ',./?<>|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3865,6 +3865,210 @@
   },
   "systemAdmin.concurrencyNum": {
     "message": "การเกิดขึ้นพร้อมกัน",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "วันหมดอายุการบริการ",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "วันหมดอายุการเก็บถาวร",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "จำนวนบัญชีทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "บัญชีที่ใช้งานอยู่",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "พื้นที่เก็บข้อมูลบนคลาวด์",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "ห้องประชุมบนคลาวด์",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "ผู้เช่า",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "บัญชีที่ใช้งานทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "จออัจฉริยะ",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "เริ่ม",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "สิ้นสุด",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "ที่ใช้ไป",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "โควตารวม",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "หมดอายุ",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "จำนวนทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "การตั้งค่าคุณสมบัติ",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "ป้อน {msg} เพื่อยืนยันการดําเนินการ",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "ป้อนรหัสผ่านผู้ดูแลระบบเพื่อยืนยันการดําเนินการข้างต้น",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "การยืนยันการดําเนินการ",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "การดําเนินการนี้จะส่งผลกระทบต่อทุกสถาบันในระบบ กรุณายืนยันและดําเนินการต่อ",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "การเปลี่ยนแปลงคุณสมบัติ",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "ยืนยัน",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "ปิด",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "ยกเลิก",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "กรุณาใส่พาสเวิร์ดยืนยัน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "การจัดการกิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "ข่าว ประชา สัมพันธ์",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "ข่าว",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "ประกาศ",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "ประกาศ",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "ชื่อข่าว",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "เนื้อหาข่าว",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "ป้อนชื่อสําหรับข่าวสาร",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*ประกาศจะแสดงในพอร์ทัลของโรงเรียนและ UC Academy ข่าวสารจะแสดงในพอร์ทัลของโรงเรียนเท่านั้น",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "อัปโหลดตัวอย่าง",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "อัตราส่วนของรูปภาพแนะนำให้เป็น 16:9 รูปแบบภาพ: png, jpg, gif, jpeg, bmp ขนาดของรูปภาพเดียวต้องไม่เกิน 2M",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "อัปโหลดรูปภาพอีกครั้งหลังจากอัปโหลดเพื่ออัปเดตรูปภาพ",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "ขนาดของรูปภาพต้องไม่เกิน {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "กรุณาอัปโหลดภาพ",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "กำหนด เอง",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "สําหรับหน้าเว็บที่กําหนดเอง โปรดเลือกเทมเพลตนี้",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "การจัดการกิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "กิจกรรมใหม่",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "ป้อนการค้นหาชื่อกิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "ชื่องานอีเวนต์",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "เวลาเริ่มต้นกิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "เวลาสิ้นสุดของกิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "เนื้อหากิจกรรม",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "ลิงค์รับสมัครอาสาสมัคร",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "กลับไปยังศูนย์ดูแลการจัดการ",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "เวลาเริ่มต้นกิจกรรมต้องไม่มากกว่าเวลาสิ้นสุดกิจกรรม",
     "description": "2.0 admin.js"
   }
 }

@@ -107,10 +107,6 @@
     "message": "добавить Меню",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "В главное меню можно добавлять максимум 15 элементов",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "добавить примечание",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "Добавить сторонку",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "Количество добавляемых блоков может быть только 0, 3, 6 или 9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": "Все модули",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "Чтение",
-    "description": "UA"
-  },
   "analyze": {
     "message": "парсинг",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "контент статьи",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "Подробности статьи",
-    "description": "UA"
-  },
   "articleName": {
     "message": "Название статьи",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "вложение",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "Задание типа 'Загрузить файл'",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "В случае если названия подчиняются закономерности, то можно автоматически отсортировать от самого маленького к самому большому в соответствии с названием раздела с фотографиями. Пожалуйста, измените название видео перед загрузкой фрагментов. Например: lei_unit1_001, lei_unit1_02...",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "Автоматическое преобразование (MP3-формат с AAC-кодом), сегментирование (воспроизведение с потоковым видео), сжатие",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "Автоматическая транскодировка (формат mp4 с кодом H.264), сегментирование (воспроизведение потокового видео), сжатие (128~1024 кбит/с)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "Аватар",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "вернуться в список",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "Отменить",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "Отменить скрытие",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "снять закрепление",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "Структура каталога нарушена. Создайте каталог следующим образом: глава > раздел > страница",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "Что изучено в этой главе:",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "Текущая глава. Следующая страница не завершена.",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "Показать больше",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "Китайский",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "Индонезийский",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "Свернуть каталог",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "Часто используемые типы вопросов",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "Удаление компонента",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "Подтвердите",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "Введите заголовок статьи",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "Введите контент или добавьте вложение",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "Сначала нужно добавить Меню",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "Выберите меню с типом статьи",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "Не превышать 10 вложений",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "Этот файл был успешно загружен. Удалить?",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "При удалении этого меню будут удалены это меню и его подменю. Подтвердите удаление?",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "Подтвердите удаление элемента?",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "Подтвердите удаление этой папки, ее подпапок и файлов?",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "Подтвердите удаление этого Меню?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "Скрыть это меню скроет его и все его подменю на веб-сайте. Вы уверены, что хотите скрыть его?",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "Подтвердите скрытие этого меню?",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "Продолжить добавлять",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "Продолжить создание",
     "description": "UA"
   },
   "continueSelect": {
@@ -731,10 +639,6 @@
     "message": "Подробное описание",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "Язык Курса",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "Учебные материалы",
     "description": "UA"
@@ -745,10 +649,6 @@
   },
   "courseName2": {
     "message": "Название курса",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "проигрыватель",
     "description": "UA"
   },
   "coursePortal": {
@@ -907,10 +807,6 @@
     "message": "обрезать видео",
     "description": "UA"
   },
-  "dataError": {
-    "message": "Данные неверны",
-    "description": "UA"
-  },
   "totalData": {
     "message": "Всего {n} данных",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +825,6 @@
   },
   "deleteFail": {
     "message": "Ошибка удаления",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "Удалить меню",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +889,6 @@
   },
   "demonstrationPronunciation": {
     "message": "пример произношения",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "Модуль пояснительных материалов",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1071,6 @@
     "message": "Сначала введите заголовок и подтвердите",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "Введите подробную информацию",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "Введите название курса",
     "description": "UA"
@@ -1249,22 +1133,6 @@
   },
   "enterLink": {
     "message": "Введите ссылку",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "Введите правильную ссылку",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "Введите название меню (не более 8 букв)",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "Введите имя меню (максимум 8 иероглифов или 16 букв)",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "Введите имя нового файла",
     "description": "UA"
   },
   "enterPageName": {
@@ -1371,10 +1239,6 @@
     "message": "Ошибка сохранения",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "Рассуждение",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "Пример",
     "description": "UA"
@@ -1385,10 +1249,6 @@
   },
   "exercisesNum": {
     "message": "Количество упражнений",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "Если вы продолжите и выйдете, может оказаться невозможным сохранить историю обучения.",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1303,6 @@
     "message": "Эталон ответа (обязательный)\n1. допускается только ввод на английском, не более 2000 слов\n2. старайтесь, чтобы все подсказки были охвачены, чем больше ответов, тем лучше, желательно более 5, если ответов несколько, разделите их вертикальной чертой (|) \n3. открытая оценка будет включать оценку как содержательности, так и фонетики",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "Для стороны студента текст будет недоступен, система будет оценивать по содержимому данного текста. Необходимо, чтобы текст и произношение соответствовали друг другу, например, 1996 следует преобразовать в nineteen ninety six. Иероглифы не поддерживаются.",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "Причины непрохождения",
     "description": "UA"
@@ -1465,10 +1321,6 @@
   },
   "fileNumLimit1": {
     "message": "файл",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "Переименовать файл",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1423,6 @@
     "message": "файл",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "Задачи с вычислениями по формулам",
-    "description": "UA"
-  },
   "free": {
     "message": "бесплатно",
     "description": "UA"
@@ -1607,10 +1455,6 @@
     "message": "Формат полученных данных неверный, Связаться со службой поддержки",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "В вопросах Множественного выбора оценка выставляется только за полное совпадение с ответом, за невыбранные и неверно выбранные ответы баллы не начисляются",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "При получении контента страницы произошла ошибка",
     "description": "UA"
@@ -1635,10 +1479,6 @@
     "message": "отказаться заполнить",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "Просмотр",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "Понял",
     "description": "UA"
@@ -1661,14 +1501,6 @@
   },
   "hideInWebsite": {
     "message": "Не отображать на веб-сайте",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "Скрыть меню",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "Скрывать страницу, не тратить время",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1559,6 @@
     "message": "Академические часы",
     "description": "UA"
   },
-  "hours1": {
-    "message": "час",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "значения иконок",
-    "description": "UA"
-  },
   "image": {
     "message": "Изображение",
     "description": "UA"
@@ -1763,10 +1587,6 @@
     "message": "Добавить тест",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "Точка вставки должна находится между временем начала и временем окончания",
-    "description": "UA"
-  },
   "institute": {
     "message": "Учебный институт",
     "description": "UA"
@@ -1775,20 +1595,12 @@
     "message": "Переводчик",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "Описание контента",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "Этот курс привязанный к следующим онлайн-курсам",
     "description": "UA"
   },
   "isTop": {
     "message": "Прикрепить наверху",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "вступать в Курс",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1655,6 @@
     "message": "Последнее обновление",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "Время последнего изменения",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "Страница изучения других",
     "description": "UA"
@@ -1879,10 +1687,6 @@
     "message": "Ссылка",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "объективные вопросы",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "загружается Курс",
     "description": "UA"
@@ -1899,10 +1703,6 @@
     "message": "Загрузка с ошибкой, возможны следующие причины:",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "Не удалось загрузить",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "Загрузка завершена",
     "description": "UA"
@@ -1911,16 +1711,8 @@
     "message": "Загрузка...",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "Загрузка.. Немного позже",
-    "description": "UA"
-  },
   "logout": {
     "message": "Выйти из системы",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "Вы не сохранили вопросы, вы уверены, что хотите выйти?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1733,6 @@
   },
   "markRuleTip": {
     "message": "Компонент оценки речи позволяет сравнивать вводимый вами текст с речью пользователя, а также оценивать ее по баллам. В настоящее время поддерживаются три типа оценки: слова/предложения/абзацы. При этом максимальная продолжительность оценки слов составляет 20 с., предложений — 40 с., абзацев — 180 с. По истечении указанного времени, если пользователь еще не закончил чтение, осуществляется автоматическая оценка уже прочитанной части. Обратите внимание на количество слов во вводимом тексте. Система по умолчанию устанавливает Проходной балл в размере 60 баллов. Баллы выше 60 будут отображаться зеленым цветом, ниже 60 — красным.",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "Вопросы на анализ материала",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "Укажите, что этот вариант является правильным ответом",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "Показывает, что вариант неправильный, ответ неверный",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "Пометить этот вариант как правильный ответ, но не выделять",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1793,6 @@
   },
   "multipleChoiceQ": {
     "message": "Множественного выбора",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "Несколько нерегулярных вопросов на заполнение пробелов",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1929,6 @@
   },
   "notUpload10AtOnce": {
     "message": "Вы можете загрузить не более 10 клипов за раз",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "Нельзя загрузить одинаковый файл.",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2223,8 @@
     "message": "Издательство",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "Система управления веб-сайтом премиум-курсов",
-    "description": "UA"
-  },
   "question": {
     "message": "Дао",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "Процент правильных ответов для упражнений:",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "Идентификатор теста：",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2343,6 @@
     "message": "вернуться",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "Заменить видео",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "Советы по проектированию обучения: Согласно первоначально установленным целям обучения, по завершении обучения учебному материалу установите соответствующие вопросы теста. С одной стороны, это поможет учащимся своевременно закрепить полученные знания, а с другой — по ответам можно проверить, достигли ли учащиеся требуемого уровня обучения, что позволит организовать целевой обзор и повторение. Инструмент «Отчёт об успеваемости» можно добавить в конце каждого модуля. Вы можете установить единицы знаний этого модуля и соответствующие упражнения, а система на их основе направит учащимся обратную связь по проценту правильных ответов по каждой единице знаний.",
     "description": "UA"
@@ -2667,24 +2419,12 @@
     "message": "Не удалось сохранить запись об изучении раздела",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "Сохранить запись",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "Не удалось сохранить, произошла неправильный",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "Не удалось удалить, исключение",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "Сохранение успешно!",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "Сохраняется недавно отредактированный контент",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2713,10 +2453,6 @@
   },
   "searchByKeyword": {
     "message": "Поиск по ключевым словам или номеру",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
-    "message": "Поиск по ключевому слову или номеру",
     "description": "UA"
   },
   "searchingKeyword": {
@@ -2773,10 +2509,6 @@
   },
   "selectAllQuestions": {
     "message": "Выбрать все тесты на этой странице",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "Выбрать и создать тест",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2671,6 @@
     "message": "настройки предварительного просмотра раздела",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "Настройки типов вопросов",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "В данный момент только страницы, содержащие упражнения, можно настроить для ответов с ограничением по времени.",
     "description": "UA"
@@ -3047,20 +2775,12 @@
     "message": "упорядочивание",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "Голосовая практика",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "Пожалуйста, нажмите на «Выход из сплит-экрана» после завершения работы и отправьте свои ответы.",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "Оценка устных ответов",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "Компонент оценивания речи нельзя использовать на одной странице с видео, упражнениями, ролевой игрой.",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2847,12 @@
     "message": "(В интерфейсе Студента не отображается)",
     "description": "UA"
   },
-  "study": {
-    "message": "ученые",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "Подача прошла успешно",
     "description": "UA"
   },
   "suchAs": {
     "message": "Например:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "Пройти тест",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2869,6 @@
   },
   "syllabus": {
     "message": "Очертание учебного курса",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "Синтаксис модуль",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +3003,12 @@
     "message": "Итоговая оценка",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "Перевод вопроса",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "Заявление истинности или ложности",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "Веб-сайт ULearning",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "Невозможно подключить к серверу ресурсов:",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3049,6 @@
   },
   "updateWebsiteTips": {
     "message": "Если нужно изменить опубликованный Сайт, пожалуйста, отмените Курс и опубликуйте снова",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "Обновление прошло успешно",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3127,6 @@
     "message": "Не удалось загрузить файл",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "Время загрузки",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "Можно загрузить только srt-формат",
     "description": "UA"
@@ -3453,10 +3145,6 @@
   },
   "uploader": {
     "message": "Загрузивший",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "Изображение Не превышать 2 М",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3221,6 @@
   },
   "viewSelectedQuestion": {
     "message": "Просмотр Выбранный тест",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "Модуль Слов",
     "description": "UA"
   },
   "waitPreview": {
@@ -3661,10 +3345,6 @@
   },
   "codeTip": {
     "message": "Каждая страница методического материала соответствует QR-коду. Если вы удалите страницу курса, доступ к QR-коду станет невозможен!",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "Выбранный{n}",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3487,6 @@
     "message": "Смотреть офлайн",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "скачанный",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "Кэшированный локально",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "завершить ответ",
     "description": "UA"
@@ -3923,10 +3595,6 @@
     "message": "Не удалось удалить, исключение",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "Не удалось сохранить, данные неполные",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "Название роли должно быть не более 10 букв",
     "description": "UA"
@@ -4025,10 +3693,6 @@
   },
   "Results": {
     "message": "Результаты оценивания",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "Приложению не предоставлено право на запись звука!",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3883,6 @@
     "message": "Введите краткое описание контента",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "Вы еще не добавили основные сведения о Курсе, а также информацию об учениках и т. д. Если вам не нужно отображать этот курс на странице веб-сайта, можно пропустить заполнение этого поля.",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "Поиск ключевых слов в файлах ввода",
     "description": "UA"
@@ -4267,88 +3927,8 @@
     "message": "Синхронизированные настройки интро для всех видео данного материала",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "Продолжительность заставки не должна превышать 180 секунд",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "Проектирование обучения",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "Загрузите такие материалы, как демонстрационные ролики и записи занятий в классе",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "Введите контент",
-    "description": "UA"
-  },
   "addFile": {
     "message": "Добавить файл",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "Добавить категорию",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "Добавлять до 10 категорий",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "Открытый урок",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "Примеры педагогического дизайна",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "Методические размышления",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "Учебный материал",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "Микроурок",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "запись занятия",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "Введите название",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "Имя не должно превышать 10 символов",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "У данного учебного материала уже есть категория с таким названием",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "Подтвердите удаление категории?",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "Максимальное количество файлов в каждой категории — 5",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "Подтвердите удаление файла?",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "Выбрать тот же файл нельзя",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "Название категории не может быть пустым",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3979,6 @@
     "message": "Человек участвует",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "частота посещений веб-сайта",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "Техподдержка",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "Рекомендуется для доступа к сайту использовать браузер выше IE8 и разрешение больше 1024*798",
-    "description": "UA"
-  },
   "username": {
     "message": "имя пользователя",
     "description": "UA"
@@ -4449,14 +4017,6 @@
   },
   "iframeErr1": {
     "message": "Введите ifrаmе kod",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "Обложка",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "После публикации курс перейдет в состояние \"Опубликовано\"",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4099,8 @@
     "message": "Ошибка экспорта файла CC",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "После того, как учебник снят с полок, он не может быть использован, а также не может быть переиздан или поставлен на полки. Вы уверены, что удалите обучающие программы?",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "Библиотека предметных ресурсов",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "Добавление ресурса библиотеки тематических ресурсов",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "Вытащил в успешно",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "Имеются дублирующиеся принятые ресурсы",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "Изменить вопросы",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "Транскодируется. Пожалуйста, проверьте немного позже",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "Этот файл не поддерживает онлайн-предварительный просмотр",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "Пожалуйста, скачайте для просмотра",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "Связать единицу знаний",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "Граф знаний",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n} единиц знаний",
-    "description": "UA"
-  },
   "template": {
     "message": "шаблон",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "Вставьте шаблон в свой контент",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "Экспорт PDF-файла",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "Пожалуйста, выберите содержимое каталога, который вы хотите экспортировать",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "Экспорт может занять много времени, пожалуйста, ждите.",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "Если Браузер блокирует всплывающие окна, Выберите всегда разрешать всплывающие окна веб-сайта.",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "Экспорт PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "Отменить экспорт",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "Пожалуйста, выберите название раздела или название страницы",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "Нажмите, чтобы просмотреть",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "Примечание: Для функции [Управление семестром] запись была перенесена в модуль [Объявление курса] на странице списка классов.",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "Контент страницы не может превышать 60 000 символов (примерно 30 000 китайских букв). Если контент вставляется из стороннего редактора, стили также займут определенное количество символов.",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4647,8 +4115,80 @@
     "message": "При экспорте файлов, пожалуйста, не покидайте текущую страницу!",
     "description": "UA"
   },
-  "miniExport": {
-    "message": "Фоновый экспорт",
+  "uploadVMResource": {
+    "message": "Загружайте поддельные ресурсы",
+    "description": "UA"
+  },
+  "VMResource": {
+    "message": "симуляции",
+    "description": "UA"
+  },
+  "VMResourcePreviewSet": {
+    "message": "Предварительный просмотр настроек",
+    "description": "UA"
+  },
+  "selecVMREsource": {
+    "message": "Выберите фейковый ресурс",
+    "description": "UA"
+  },
+  "enterVMResourceKeywordSearch1": {
+    "message": "Введите ключевое слово псевдо-фейкового ресурса для поиска",
+    "description": "UA"
+  },
+  "VMResourceWithoutEntranceTips": {
+    "message": "На ресурсе нет записи для предварительного просмотра, пожалуйста, добавьте запись для предварительного просмотра!",
+    "description": "UA"
+  },
+  "VMResourcePreviewSetting": {
+    "message": "Предварительный просмотр настроек",
+    "description": "UA"
+  },
+  "VMResourceEntrancePlaceholder": {
+    "message": "Пожалуйста, выберите портал предварительного просмотра",
+    "description": "UA"
+  },
+  "back": {
+    "message": "вернуться",
+    "description": "UA"
+  },
+  "currentPosition": {
+    "message": "Текущая позиция:",
+    "description": "UA"
+  },
+  "selectEntrance": {
+    "message": "выбрать",
+    "description": "UA"
+  },
+  "VMResourceUploadSuccessdialogs": {
+    "message": "Фейковый ресурс успешно загружен, пожалуйста, установите вход для предварительного просмотра!",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips": {
+    "message": "Портал предварительного просмотра настроен успешно, пожалуйста, вставьте ресурс еще раз",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips1": {
+    "message": "Портал предварительной версии успешно настроен",
+    "description": "UA"
+  },
+  "VMResourceHoverTips": {
+    "message": "Вставляйте фейковые ресурсы в свой контент",
+    "description": "UA"
+  },
+  "scormAddTipOne": {
+    "message": "Можно добавить только один компонент SCORM",
+    "description": "UA"
+  },
+  "score": {
+    "message": "Дробь:",
+    "description": "UA"
+  },
+  "status": {
+    "message": "Государство:",
+    "description": "UA"
+  },
+  "backToManageCenter": {
+    "message": "Назад в центр управления",
     "description": "UA"
   }
 }

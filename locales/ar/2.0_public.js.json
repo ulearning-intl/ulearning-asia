@@ -1119,10 +1119,6 @@
     "message": "الملف الشخصي",
     "description": "2.0 public.js"
   },
-  "someonesEportfolio": {
-    "message": " ",
-    "description": "2.0 public.js"
-  },
   "ofEportfolio": {
     "message": "'ق المحفظة الإلكترونية",
     "description": "2.0 public.js"
@@ -2485,6 +2481,94 @@
   },
   "moreOperation": {
     "message": "الاجراءات",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "المستخدمون المحترمون: ",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "لم يتم تحديث كلمة مرور تسجيل الدخول الخاصة بك منذ <strong class='text-red'>180</strong> يوما! ",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "من أجل حماية أمان حسابك، يرجى تعديل كلمة مرور تسجيل الدخول لمنع تصدع كلمة المرور بشكل ضار وتحسين أمان حسابك.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "تعديل كلمة المرور",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "المرة القادمة",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "استمر في الاستخدام دون تعديل",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "كلمة المرور الخاصة بك بسيطة للغاية. لحماية حسابك، يرجى تغيير كلمة المرور الخاصة بك.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "يجب أن تتكون كلمة المرور من 8-16 حرفا وتشمل كل من الحروف والأرقام (كلمات المرور حساسة لحالة الأحرف)",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": " ",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "معاينة الإعدادات",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "اختر مدخلة معاينة\n",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "لم يتم تعيين إدخال المعاينة لهذا المورد، يرجى العودة إلى القائمة والنقر فوق [تحرير] لتعيين إدخال المعاينة!",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "لا يحتوي المورد على إدخال معاينة ، يرجى الاتصال بالمسؤول لإضافة إدخال معاينة!",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "تم التحميل بنجاح ، يرجى إكمال إعدادات الموارد!",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "إختر",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "المحاكاة",
+    "description": "2.0 public.js"
+  },
+  "organizationStatusWrong": {
+    "message": "خطأ في حالة المؤسسة، يُرجى الاتصال بمسؤول المؤسسة",
+    "description": "2.0 public.js"
+  },
+  "loginNumberLimit": {
+    "message": "تجاوز عدد المستخدمين المتاح لتسجيل الدخول، يُرجى المحاولة لاحقاً",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "المحاكاة",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "العودة إلى مركز الإدارة",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "كان الانضمام إلى الدورة ناجحا",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "فشل في الانضمام إلى الدورة التدريبية",
     "description": "2.0 public.js"
   }
 }

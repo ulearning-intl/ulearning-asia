@@ -3866,5 +3866,209 @@
   "systemAdmin.concurrencyNum": {
     "message": "توافق",
     "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "تاريخ انتهاء الخدمة",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "وقت انتهاء الأرشفة",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "إجمالي عدد الحسابات",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "الحسابات النشطة",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "تخزين سحابي",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "غرفة الاجتماعات السحابية",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "مستأجر",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "إجمالي الحسابات النشطة",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "شاشة كبيرة ذكية",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "إبدأ",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "‏‏النهاية",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "مستعمل",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "إجمالي الحصة",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "انتهت",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "مجموع",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "إعدادات الميزات",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "إدخال {msg} للتأكيد على العملية",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "أدخل كلمة مرور المسؤول للتأكيد على الإجراء أعلاه",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "تأكيد العمل",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "ستؤثر هذه العملية على جميع المؤسسات في النظام، يرجى التأكيد ثم المتابعة.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "تغيير الميزات",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "التأكيد",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "إلى",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "جميع الكليات",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "الرجاء إدخال كلمة المرور الصحيحة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "إدارة الفعاليات",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "خبر صحفى",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "أخبار",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "إشعارات",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "نشر",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "اسم الخبر",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "محتوى الأخبار",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "أدخل اسما للأخبار",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "* سيتم عرض الإعلانات في بوابة المدرسة وأكاديمية جامعة كاليفورنيا ، وسيتم عرض الأخبار فقط في بوابة المدرسة",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "تحميل معاينة",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "نسبة العرض إلى الارتفاع للصورة الموصى بها: 16:9؛ الأشكال: بابوا غينيا الجديدة، jpg، gif، jpeg، bmp؛ حجم صورة مفردة: حتى 2 ميغابايت",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "قم بتحميل الصورة مرة أخرى بعد تحميلها لتحديث الصورة",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "لا يمكن أن يكون حجم الصورة أكبر من {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "يرجى رفع صورة",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "التخصيص",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "بالنسبة لصفحات الويب المخصصة ، يرجى تحديد هذا القالب",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "إدارة الفعاليات",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "فعاليات جديدة",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "إدخال بحث عن عنوان النشاط",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "عنوان الحدث",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "وقت بدء الحدث",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "وقت انتهاء الحدث",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "محتوى الحدث",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "رابط توظيف المتطوعين",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "العودة إلى مركز الإدارة",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
+    "description": "2.0 admin.js"
   }
 }

@@ -107,10 +107,6 @@
     "message": "添加菜單",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "一級菜單最多添加15個",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "添加註釋",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "添加板塊",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "添加的板塊個數只能是0、3、6、9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": "全部單元",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "閱讀",
-    "description": "UA"
-  },
   "analyze": {
     "message": "解析",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "文章內容",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "文章詳情",
-    "description": "UA"
-  },
   "articleName": {
     "message": "文章名稱",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "附件",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "附件上傳題",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "命名有規律的前提下可按照片段名稱從小到大自動排序，請在上傳片段前修改好視頻的名稱，例如：lei_unit1_001，lei_unit1_02……",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "自動轉碼(AAC編碼的mp3格式)，切片(流媒體播放)，壓縮",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "自動轉碼(H.264編碼的mp4格式)，切片(流媒體播放)，壓縮(128~1024kbps)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "頭像",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "返回列表",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "取消",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "取消隱藏",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "取消置頂",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "目錄結構不合理，請按照章>節>頁面的結構創建目錄！",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "本章已學:",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "本章以下頁面沒有完成",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "查看更多",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "中文",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "印尼文",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "收起目錄",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "常用題型",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "組件在刪除中",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "確定",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "請輸入文章標題",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "請輸入文章內容或者添加附件",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "請先添加菜單",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "請選擇文章類型的菜單",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "附件不能超過10個",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "此檔已上傳完成，確定刪除？",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "刪除該 目錄 後，本目錄及其子目錄都將被刪除。確定刪除？",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "確定刪除本小題？",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "確定刪除該文件夾及其子文件夾和文件？",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "確定刪除本目錄 ?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "隱藏該菜單後，本菜單及其子菜單都將不顯示在網站上。確定隱藏？",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "確定隱藏本菜單？",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "繼續添加",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "繼續創建",
     "description": "UA"
   },
   "continueSelect": {
@@ -731,10 +639,6 @@
     "message": "詳細介紹",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "課程語言",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "開課管理",
     "description": "UA"
@@ -745,10 +649,6 @@
   },
   "courseName2": {
     "message": "課程名稱",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "課程播放機",
     "description": "UA"
   },
   "coursePortal": {
@@ -907,10 +807,6 @@
     "message": "剪切視頻",
     "description": "UA"
   },
-  "dataError": {
-    "message": "數據有誤",
-    "description": "UA"
-  },
   "totalData": {
     "message": "共{n}條數據",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +825,6 @@
   },
   "deleteFail": {
     "message": "刪除失敗",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "刪除菜單",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +889,6 @@
   },
   "demonstrationPronunciation": {
     "message": "示範讀音",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "說明 模組",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1071,6 @@
     "message": "請先輸入標題並確認",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "請輸入詳細介紹",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "請輸入課程名稱",
     "description": "UA"
@@ -1249,22 +1133,6 @@
   },
   "enterLink": {
     "message": "請輸入鏈接地址",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "請輸入正確的鏈接地址",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "請輸入菜單名稱，最多八個字",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "請輸入菜單名稱，最多八個中文或16個字母",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "請輸入新的檔案名",
     "description": "UA"
   },
   "enterPageName": {
@@ -1371,10 +1239,6 @@
     "message": "儲存時出錯",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "論述題",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "示例",
     "description": "UA"
@@ -1385,10 +1249,6 @@
   },
   "exercisesNum": {
     "message": "練習數",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "若繼續退出，則本節學習記錄可能無法保存。",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1303,6 @@
     "message": "參考答案（必填）&#10；1.只能輸入英文，不超過2000個單詞&#10；2.請儘量覆蓋提示資訊，答案數量越多越好，建議5個以上，多個答案請用|分隔&#10；3.開放評測將結合內容和發音綜合評分",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "學生端看不到文本，系統將根據此文本進行評分。要求文本和發音必須完全一致，例如：1996需要轉換成nineteen ninety six. 不支持漢字。",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "未通過理由",
     "description": "UA"
@@ -1465,10 +1321,6 @@
   },
   "fileNumLimit1": {
     "message": "個文件",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "檔重命名",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1423,6 @@
     "message": "的文件",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "公式計算題",
-    "description": "UA"
-  },
   "free": {
     "message": "免費",
     "description": "UA"
@@ -1607,10 +1455,6 @@
     "message": "獲取到的數據格式有誤,聯系客服",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "多選題只有與答案完全匹配才得分，漏選及選錯均不得分",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "獲取頁面內容時報錯",
     "description": "UA"
@@ -1635,10 +1479,6 @@
     "message": "放棄填寫",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "去查看",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "知道了",
     "description": "UA"
@@ -1661,14 +1501,6 @@
   },
   "hideInWebsite": {
     "message": "不顯示在網站上",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "隱藏菜單",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "隱藏頁不計時",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1559,6 @@
     "message": "課時",
     "description": "UA"
   },
-  "hours1": {
-    "message": "小時",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "圖標釋義",
-    "description": "UA"
-  },
   "image": {
     "message": "圖片",
     "description": "UA"
@@ -1763,10 +1587,6 @@
     "message": "插入試題",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "插入點必須在開始時間和結束時間之間",
-    "description": "UA"
-  },
   "institute": {
     "message": "開課院校",
     "description": "UA"
@@ -1775,20 +1595,12 @@
     "message": "譯者",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "內容介紹",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "本課程已綁定以下班課",
     "description": "UA"
   },
   "isTop": {
     "message": "是否置頂",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "加入課程",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1655,6 @@
     "message": "上次更新",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "最近更新時間",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "學習其他頁面",
     "description": "UA"
@@ -1879,10 +1687,6 @@
     "message": "鏈接",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "聽力客觀題",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "加載課程中",
     "description": "UA"
@@ -1899,10 +1703,6 @@
     "message": "加載異常，可能是以下原因導致：",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "加載失敗",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "加載完畢",
     "description": "UA"
@@ -1911,16 +1711,8 @@
     "message": "加載中,請稍侯……",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "加載中，請稍後",
-    "description": "UA"
-  },
   "logout": {
     "message": "退出登入",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "您有題目沒有保存，確定退出嗎?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1733,6 @@
   },
   "markRuleTip": {
     "message": "口語評分組件將您輸入的文本與用戶的發音進行比對，根據用戶的發音得出評價分數的評價方式。目前支援三種評分方式：單詞/句子/段落。其中單詞評分最大時長支持20s，句子評分最大時長支持40秒，段落評分最大時長支持180秒，到達時間後如果用戶還未讀完，會自動對已讀部分進行評分，請註意輸入的文本詞數。系統默認及格分數為60分，超過60分的會顯示綠色，未達到60分的會用紅色表示。",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "材料分析題",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "表示該選項回答正確",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "表示該選項不正確，回答錯誤",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "表示該選項為正確答案，但漏選了",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1793,6 @@
   },
   "multipleChoiceQ": {
     "message": "多選題",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "多個空無順序的填空題",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1929,6 @@
   },
   "notUpload10AtOnce": {
     "message": "一次最多可上傳10個片段",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "不能上傳相同檔",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2223,8 @@
     "message": "出版社",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "精品課網站管理系統",
-    "description": "UA"
-  },
   "question": {
     "message": "道",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "練習正確率：",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "試題ID：",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2343,6 @@
     "message": "返回",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "更換視頻",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "教學設計建議：根據初始設定的學習目標，在教學內容講授結束後，設置相應的測驗題，一方面可以幫助學習者及時強化所學知識，另一方面可以根據答題情況，檢測學習者是否達到了學習目標的要求，從而有針對性地進行複習回顧。【成績報告】工具可以添加於各單元末 ，您可以設置本單元的知識點， 及其對應的練習題，系統將據此提供 學生 各知識點的答題正確率。",
     "description": "UA"
@@ -2667,24 +2419,12 @@
     "message": "小節學習記錄時保存失敗",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "保存記錄",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "保存失敗,發生錯誤",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "刪除失敗,異常",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "保存成功!",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "正在保存剛編輯的內容",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2712,10 +2452,6 @@
     "description": "UA"
   },
   "searchByKeyword": {
-    "message": "按關鍵字或編號搜索",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
     "message": "按關鍵字或編號搜索",
     "description": "UA"
   },
@@ -2773,10 +2509,6 @@
   },
   "selectAllQuestions": {
     "message": "全選本頁試題",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "選擇並創建試題",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2671,6 @@
     "message": "設置試聽章節",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "設置常用題型",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "目前只有包含練習的頁面才可以設置限時答題。",
     "description": "UA"
@@ -3047,20 +2775,12 @@
     "message": "排序題",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "口語模塊",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "請在完成作答後點擊“退出分屏”提交答案。",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "口語評分",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "口語評分組件不能和視頻、練習、角色扮演在同一個頁面",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2847,12 @@
     "message": "（學生端不顯示）",
     "description": "UA"
   },
-  "study": {
-    "message": "學了",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "提交成功",
     "description": "UA"
   },
   "suchAs": {
     "message": "如:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "隨堂",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2869,6 @@
   },
   "syllabus": {
     "message": "教學大綱",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "語法模組",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +3003,12 @@
     "message": "總分",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "翻譯題",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "判斷題",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "優學院網站",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "無法連接到資源服務器：",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3049,6 @@
   },
   "updateWebsiteTips": {
     "message": "如需修改發佈站點，請撤回課程，重新發佈",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "更新成功",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3127,6 @@
     "message": "上傳文件失敗",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "上傳時間",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "只能上傳srt格式",
     "description": "UA"
@@ -3453,10 +3145,6 @@
   },
   "uploader": {
     "message": "上傳者",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "圖片最大不能超過2M",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3221,6 @@
   },
   "viewSelectedQuestion": {
     "message": "查看已選試題",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "詞匯模塊",
     "description": "UA"
   },
   "waitPreview": {
@@ -3661,10 +3345,6 @@
   },
   "codeTip": {
     "message": "課件每個頁面對應一張二維碼，若刪除課程頁面，將導致該二維碼無法訪問！",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "已選{n}項",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3487,6 @@
     "message": "離線觀看",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "已下載",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "已緩存到本地",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "結束答題",
     "description": "UA"
@@ -3923,10 +3595,6 @@
     "message": "刪除失敗,異常",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "保存失敗,數據不完整",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "角色名需要在1-10個字符之間",
     "description": "UA"
@@ -4025,10 +3693,6 @@
   },
   "Results": {
     "message": "的評分結果： ",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "未授予應用錄音權限！ ",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3883,6 @@
     "message": "請輸入內容",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "您還未補全該課程的基本信息，團隊成員等資訊， 如不需在網站頁面顯示該課， 可跳過不填。",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "輸入檔關鍵字搜索",
     "description": "UA"
@@ -4267,88 +3927,8 @@
     "message": "同步設置本課件所有視頻的片頭",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "片頭時長不能超過180秒",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "教學設計",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "上傳說課視頻、課堂實錄等材料",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "請輸入內容",
-    "description": "UA"
-  },
   "addFile": {
     "message": "添加檔",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "添加類別",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "最多添加10個類別",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "說課",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "教學設計案例",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "教學反思",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "授課課件",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "微課",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "課堂實錄",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "請輸入名稱",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "命名不能超過10字元",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "當前課件下已有同名稱類別",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "確定刪除類別嗎？",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "每個類別最多添加5個檔",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "確定刪除檔案嗎？",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "不能選擇相同的檔",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "類別名稱不能為空",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3979,6 @@
     "message": "人參與",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "網站訪問次數",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "技術支援",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "建議使用IE8以上瀏覽器，1024*798以上解析度訪問本站",
-    "description": "UA"
-  },
   "username": {
     "message": "用戶名",
     "description": "UA"
@@ -4449,14 +4017,6 @@
   },
   "iframeErr1": {
     "message": "請輸入iframe代碼",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "封面圖",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "課程發佈后， 課程即會變成【 已發佈】 狀態。",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4099,8 @@
     "message": "匯出CC文件錯誤",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "課件下架後無法使用，也無法重新發佈和上架。 確定下架課件嗎？",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "學科資源庫",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "添加學科資源庫資源",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "引入成功",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "存在重複引入的資源",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "修改題目",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "轉碼中，請稍後查看",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "該檔不支援在線預覽",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "請下載查看",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "關聯知識點",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "知識圖譜",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n}個知識點",
-    "description": "UA"
-  },
   "template": {
     "message": "範本",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "在內容中插入範本",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "匯出PDF",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "請選擇要匯出的目錄內容",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "匯出時間可能較長，請耐心等待。",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "如遇瀏覽器攔截彈窗，請選擇始終允許網站彈出視窗。",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "匯出PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "取消匯出",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "請選擇節名稱或頁面名稱",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "點擊查看",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "提示：【學期管理】功能，入口已遷移至班課列表頁面的【課程申報】模組。",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "每頁內容不能超過10萬字元（漢字5萬字左右）。 如果是從第三方編輯器粘貼過來的內容，樣式也會佔一定的字元量。",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4647,8 +4115,68 @@
     "message": "正在匯出檔，請不要離開當前頁面！",
     "description": "UA"
   },
-  "miniExport": {
-    "message": "後台導出",
+  "uploadVMResource": {
+    "message": "上傳互動式模擬",
+    "description": "UA"
+  },
+  "VMResource": {
+    "message": "互動式模擬",
+    "description": "UA"
+  },
+  "VMResourcePreviewSet": {
+    "message": "預覽設置",
+    "description": "UA"
+  },
+  "selecVMREsource": {
+    "message": "選擇互動式模擬",
+    "description": "UA"
+  },
+  "enterVMResourceKeywordSearch1": {
+    "message": "輸入互動式模擬資源關鍵字搜索",
+    "description": "UA"
+  },
+  "VMResourceWithoutEntranceTips": {
+    "message": "該資源未設置預覽入口，請添加預覽入口！",
+    "description": "UA"
+  },
+  "VMResourcePreviewSetting": {
+    "message": "預覽設置",
+    "description": "UA"
+  },
+  "VMResourceEntrancePlaceholder": {
+    "message": "請選擇預覽入口",
+    "description": "UA"
+  },
+  "VMResourceUploadSuccessdialogs": {
+    "message": "互動式模擬上傳成功，請設置預覽入口！",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips": {
+    "message": "預覽入口設置成功，請重新插入該資源",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips1": {
+    "message": "預覽入口設置成功",
+    "description": "UA"
+  },
+  "VMResourceHoverTips": {
+    "message": "在內容中插入互動式模擬",
+    "description": "UA"
+  },
+  "scormAddTipOne": {
+    "message": "只能添加一個 SCORM 元件",
+    "description": "UA"
+  },
+  "score": {
+    "message": "分數：",
+    "description": "UA"
+  },
+  "status": {
+    "message": "狀態：",
+    "description": "UA"
+  },
+  "backToManageCenter": {
+    "message": "返回管理中心",
     "description": "UA"
   }
 }

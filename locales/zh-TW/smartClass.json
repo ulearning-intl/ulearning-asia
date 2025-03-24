@@ -83,10 +83,6 @@
     "message": "結束失敗",
     "description": "smart-classroom 项目"
   },
-  "common.operateFailed": {
-    "message": "操作失敗",
-    "description": "smart-classroom 项目"
-  },
   "common.operateSuccess": {
     "message": "操作成功",
     "description": "smart-classroom 项目"
@@ -267,10 +263,6 @@
     "message": "刪除成功",
     "description": "smart Class"
   },
-  "classroom.developmentTip": {
-    "message": "功能正在開發中，敬請期待",
-    "description": "smart Class"
-  },
   "classroom.classEnded": {
     "message": "下課了",
     "description": "smart Class"
@@ -289,10 +281,6 @@
   },
   "classroom.interactions": {
     "message": "互動次數",
-    "description": "smart Class"
-  },
-  "classroom.interactionsDesc": {
-    "message": "互動次數=課堂中投票、選人、搶答和打分等活動的參與人次總和",
     "description": "smart Class"
   },
   "classroom.classReport": {
@@ -359,10 +347,6 @@
     "message": "復制失敗",
     "description": "smart-classroom 项目"
   },
-  "classroom.classroomTitle": {
-    "message": "{date}課堂",
-    "description": "smart-classroom 项目"
-  },
   "classroom.noSearchData": {
     "message": "沒有符合條件的內容",
     "description": "smart-classroom 项目"
@@ -385,10 +369,6 @@
   },
   "classroom.time": {
     "message": "上課時間",
-    "description": "smart-classroom 项目"
-  },
-  "classroom.interactionsDesc1": {
-    "message": "互動次數=課堂中投票、選人、搶答、打分和課堂討論的參與人次總和",
     "description": "smart-classroom 项目"
   },
   "login.welcomeTip": {
@@ -691,10 +671,6 @@
     "message": "學生發言較少，暫無可提取的關鍵詞",
     "description": "smart-classroom 项目"
   },
-  "discuss.discussTitle": {
-    "message": "{date}課堂討論",
-    "description": "smart-classroom 项目"
-  },
   "discuss.allDiscuss": {
     "message": "所有討論",
     "description": "smart-classroom 项目"
@@ -735,10 +711,6 @@
     "message": "請輸入評分點",
     "description": "smart Class"
   },
-  "score.score": {
-    "message": "分數：",
-    "description": "smart Class"
-  },
   "score.startNow": {
     "message": "立即開始",
     "description": "smart Class"
@@ -761,10 +733,6 @@
   },
   "score.member": {
     "message": "成員：",
-    "description": "smart Class"
-  },
-  "score.enterObject": {
-    "message": "請輸入評價對象",
     "description": "smart Class"
   },
   "score.allClsses": {
@@ -791,16 +759,8 @@
     "message": "沒有學生評價",
     "description": "smart-classroom 项目"
   },
-  "score.evaluatedScore": {
-    "message": "被評價分數",
-    "description": "smart-classroom 项目"
-  },
   "score.startAgainEvaluation": {
     "message": "再次開啟評價",
-    "description": "smart-classroom 项目"
-  },
-  "score.endEvaluation": {
-    "message": "結束評價",
     "description": "smart-classroom 项目"
   },
   "score.evaluated": {
@@ -907,10 +867,6 @@
     "message": "點擊右側按鈕添加評價對象",
     "description": "smart-classroom 项目"
   },
-  "score.endScore": {
-    "message": "結束打分",
-    "description": "smart-classroom 项目"
-  },
   "score.endedEvaluation": {
     "message": "已結束的評價",
     "description": "smart-classroom 项目"
@@ -945,10 +901,6 @@
   },
   "score.leftScore": {
     "message": "剩余分數",
-    "description": "smart-classroom 项目"
-  },
-  "score.scoreTitle": {
-    "message": "{date}課堂打分",
     "description": "smart-classroom 项目"
   },
   "score.objectNums": {
@@ -1023,10 +975,6 @@
     "message": "默認積分",
     "description": "smart Class"
   },
-  "pick.pickTitle": {
-    "message": "{date}課堂選人",
-    "description": "smart-classroom 项目"
-  },
   "pick.pickFromAttd": {
     "message": "從點名出勤的學生裏選",
     "description": "smart-classroom 项目"
@@ -1063,10 +1011,6 @@
     "message": "二維碼簽到",
     "description": "smart Class"
   },
-  "attendence.phoneScan": {
-    "message": "使用手機掃二維碼",
-    "description": "smart Class"
-  },
   "attendence.phoneScanNew": {
     "message": "僅支持學生使用手機",
     "description": "smart-classroom 项目"
@@ -1099,10 +1043,6 @@
     "message": "查看名單",
     "description": "smart Class"
   },
-  "attendence.endSign": {
-    "message": "結束點名",
-    "description": "smart Class"
-  },
   "attendence.code": {
     "message": "二維碼",
     "description": "smart Class"
@@ -1118,10 +1058,6 @@
   "attendence.peopleNum": {
     "message": "人數",
     "description": "smart Class"
-  },
-  "attendence.attendenceTitle": {
-    "message": "{date}課堂點名",
-    "description": "smart-classroom 项目"
   },
   "attendence.changeStatus": {
     "message": "點擊學生頭像更改簽到狀態",
@@ -1339,28 +1275,12 @@
     "message": "恭喜你被老師選中了！",
     "description": "smart-classroom 项目"
   },
-  "student.discuss1": {
-    "message": "你該如何選擇？",
-    "description": "smart-classroom 项目"
-  },
   "student.submit": {
     "message": "提交",
     "description": "smart-classroom 项目"
   },
-  "student.teamEvaluation": {
-    "message": "實踐課小組評價",
-    "description": "smart-classroom 项目"
-  },
-  "student.howPoints": {
-    "message": "{num}分",
-    "description": "smart-classroom 项目"
-  },
   "student.fullMarks": {
     "message": "滿分：{num}",
-    "description": "smart-classroom 项目"
-  },
-  "student.totalFew": {
-    "message": "共{num}個",
     "description": "smart-classroom 项目"
   },
   "student.combined": {
@@ -1385,10 +1305,6 @@
   },
   "student.finishSuccess": {
     "message": "簽到成功！ 請在教師屏查看結果。",
-    "description": "smart-classroom 项目"
-  },
-  "student.voteErr": {
-    "message": "投票失敗",
     "description": "smart-classroom 项目"
   },
   "student.maxSelectableCount": {
@@ -1459,20 +1375,8 @@
     "message": "本課堂活動記錄",
     "description": "smart-classroom 项目"
   },
-  "student.average": {
-    "message": "平均分",
-    "description": "smart-classroom 项目"
-  },
   "student.myScore": {
     "message": "我的打分",
-    "description": "smart-classroom 项目"
-  },
-  "student.pleaseIndicate": {
-    "message": "請給評價物件打分",
-    "description": "smart-classroom 项目"
-  },
-  "student.iWillGiveScore": {
-    "message": "我給評價物件的打分",
     "description": "smart-classroom 项目"
   },
   "student.deleteUnInvolved": {
@@ -1583,20 +1487,12 @@
     "message": "投票",
     "description": "smart Class"
   },
-  "screen.question": {
-    "message": "試題",
-    "description": "smart Class"
-  },
   "screen.score": {
     "message": "打分",
     "description": "smart Class"
   },
   "screen.resource": {
     "message": "資源",
-    "description": "smart Class"
-  },
-  "screen.homework": {
-    "message": "作業",
     "description": "smart Class"
   },
   "screen.discussion": {
@@ -1613,10 +1509,6 @@
   },
   "screen.collapse": {
     "message": "收起",
-    "description": "smart Class"
-  },
-  "screen.expand": {
-    "message": "展開",
     "description": "smart Class"
   },
   "screen.beginClass": {
@@ -1645,10 +1537,6 @@
   },
   "screen.wordCloud": {
     "message": "詞雲",
-    "description": "smart Class"
-  },
-  "screen.toTop": {
-    "message": "頂部",
     "description": "smart Class"
   },
   "screen.menu": {
@@ -1735,14 +1623,6 @@
     "message": "待搶答",
     "description": "smart-classroom 项目"
   },
-  "screen.history": {
-    "message": "歷史記錄：",
-    "description": "smart-classroom 项目"
-  },
-  "screen.openFromResource": {
-    "message": "從資源中打開",
-    "description": "smart-classroom 项目"
-  },
   "screen.recentOpen": {
     "message": "最近打開",
     "description": "smart-classroom 项目"
@@ -1781,10 +1661,6 @@
   },
   "vote.notMust": {
     "message": "非必填",
-    "description": "smart-classroom 项目"
-  },
-  "vote.must": {
-    "message": "必填",
     "description": "smart-classroom 项目"
   },
   "vote.options": {
@@ -1835,10 +1711,6 @@
     "message": "全部班級",
     "description": "smart-classroom 项目"
   },
-  "vote.endVote": {
-    "message": "結束投票",
-    "description": "smart-classroom 项目"
-  },
   "vote.unVoteNum": {
     "message": "未投人數",
     "description": "smart-classroom 项目"
@@ -1875,14 +1747,6 @@
     "message": "切換班級",
     "description": "smart-classroom 项目"
   },
-  "vote.voteEnded": {
-    "message": "投票已結束",
-    "description": "smart-classroom 项目"
-  },
-  "vote.voteTitle": {
-    "message": "{date}課堂投票",
-    "description": "smart-classroom 项目"
-  },
   "vote.optionsNum": {
     "message": "選項人數",
     "description": "smart-classroom 项目"
@@ -1895,10 +1759,6 @@
     "message": "搶答人數",
     "description": "smart-classroom 项目"
   },
-  "answer.endAnswer": {
-    "message": "結束搶答",
-    "description": "smart-classroom 项目"
-  },
   "answer.endAnswerConfirm": {
     "message": "確認結束搶答嗎？",
     "description": "smart-classroom 项目"
@@ -1909,10 +1769,6 @@
   },
   "answer.noStu": {
     "message": "沒有學生參與",
-    "description": "smart-classroom 项目"
-  },
-  "answer.answerTitle": {
-    "message": "{date}課堂搶答",
     "description": "smart-classroom 项目"
   },
   "answer.selectStu": {
@@ -1949,22 +1805,6 @@
   },
   "live.attdenceLive": {
     "message": "參與直播 （{ count }）",
-    "description": "smart-classroom 项目"
-  },
-  "live.invite": {
-    "message": "邀請",
-    "description": "smart-classroom 项目"
-  },
-  "live.handing": {
-    "message": "舉手中…",
-    "description": "smart-classroom 项目"
-  },
-  "live.allow": {
-    "message": "允許",
-    "description": "smart-classroom 项目"
-  },
-  "live.speaking": {
-    "message": "發言中……",
     "description": "smart-classroom 项目"
   },
   "live.classLive": {
@@ -2139,10 +1979,6 @@
     "message": "聯繫我們",
     "description": "smart-classroom 项目"
   },
-  "multiScreen.activationPrompt1": {
-    "message": "您當前設備未啟動多屏互動功能，如已購買了我們的服務請點擊下方按鈕聯網檢測",
-    "description": "smart-classroom 项目"
-  },
   "multiScreen.detection": {
     "message": "檢測",
     "description": "smart-classroom 项目"
@@ -2207,10 +2043,6 @@
     "message": "優學院2.0APP",
     "description": "smart-classroom 项目"
   },
-  "loginCode.msg3": {
-    "message": "打開「優學院2.0APP」后右上角點擊掃一掃",
-    "description": "smart-classroom 项目"
-  },
   "loginCode.msg4": {
     "message": "請在優學院2.0APP上確認登錄",
     "description": "smart-classroom 项目"
@@ -2253,10 +2085,6 @@
   },
   "candidates.numberRandom": {
     "message": "選人數量",
-    "description": "smart-classroom 项目"
-  },
-  "candidates.studentid": {
-    "message": "學號",
     "description": "smart-classroom 项目"
   },
   "candidates.notPickMember": {
@@ -2349,10 +2177,6 @@
   },
   "faultDetect.msg15": {
     "message": "正常",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg16": {
-    "message": "服務已過期",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg17": {
@@ -2449,10 +2273,6 @@
   },
   "faultDetect.msg40": {
     "message": "小組",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg41": {
-    "message": "無線",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg42": {
@@ -2591,14 +2411,6 @@
     "message": "常用功能最多選6個",
     "description": "smart-classroom 项目"
   },
-  "photoUpload.msg3": {
-    "message": "學生上傳圖片進行課堂展示",
-    "description": "smart-classroom 项目"
-  },
-  "photoUpload.msg4": {
-    "message": "允許學生查看其他學生的圖片/視頻",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg5": {
     "message": "分享給學生",
     "description": "smart-classroom 项目"
@@ -2619,10 +2431,6 @@
     "message": "確定刪除批註？",
     "description": "smart-classroom 项目"
   },
-  "photoUpload.msg10": {
-    "message": "將該圖片或批注分享給課堂裡的所有學生，分享後學生可以在課堂里查看該圖片或批注",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg11": {
     "message": "截圖正在生成中",
     "description": "smart-classroom 项目"
@@ -2637,10 +2445,6 @@
   },
   "photoUpload.msg14": {
     "message": "刪除后，學生提交的圖片將無法找回，需要學生重新提交，確定刪除？ 如果活動已結束，學生將無法重新提交。",
-    "description": "smart-classroom 项目"
-  },
-  "photoUpload.msg15": {
-    "message": "確定結束當前活動嗎？",
     "description": "smart-classroom 项目"
   },
   "photoUpload.msg16": {
@@ -2673,10 +2477,6 @@
   },
   "tencentMeeting.msg1": {
     "message": "自動開啟雲錄製",
-    "description": "smart-classroom 项目"
-  },
-  "tencentMeeting.msg2": {
-    "message": "騰訊會議免費版提供1G雲存儲空間，大約可以錄製3個小時。 錄製重播會保存至優學院，並保留180天。 您可以在騰訊會議中下載保存后，刪除非必要的錄製，以節省錄製空間。",
     "description": "smart-classroom 项目"
   },
   "tencentMeeting.msg3": {
@@ -2719,24 +2519,12 @@
     "message": "正在處理中，請稍後...",
     "description": "smart-classroom 项目"
   },
-  "whiteboard.youNotLogin": {
-    "message": "你未登錄，請登錄后保存到課堂",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.scanAPP": {
-    "message": "使用優學院APP掃一掃",
-    "description": "smart-classroom 项目"
-  },
   "whiteboard.designation": {
     "message": "名稱",
     "description": "smart-classroom 项目"
   },
   "whiteboard.selectClass": {
     "message": "選擇課堂",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.exportImages": {
-    "message": "匯出圖片",
     "description": "smart-classroom 项目"
   },
   "whiteboard.open": {
@@ -2755,18 +2543,6 @@
     "message": "請選擇課堂",
     "description": "smart-classroom 项目"
   },
-  "whiteboard.msg1": {
-    "message": "保存后，教師和學生可以在課堂裡查看板書圖片，教師可以在其他教室下載並打開該板書繼續編輯。",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.msg2": {
-    "message": "您已成功保存板書圖片和源文件到{name}。 學生可以在課堂查看板書的圖片，你可以在其他教室下載並打開該板書繼續編輯。",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.msg3": {
-    "message": "保存到課堂后，您和學生可以在課堂檔中查看板書圖片，您還可以再其他教室下載並打開板書繼續編輯。",
-    "description": "smart-classroom 项目"
-  },
   "whiteboard.msg4": {
     "message": "您已成功保存板書到{name}，現在可以在課堂檔中查看了。",
     "description": "smart-classroom 项目"
@@ -2777,10 +2553,6 @@
   },
   "whiteboard.saveErr": {
     "message": "儲存失敗，無法連接到伺服器",
-    "description": "smart-classroom 项目"
-  },
-  "remark.allCourse": {
-    "message": "全部課程",
     "description": "smart-classroom 项目"
   },
   "remark.remark": {
@@ -2863,58 +2635,6 @@
     "message": "失敗",
     "description": "smart-classroom 项目"
   },
-  "discuss.durationInput": {
-    "message": "請輸入持續時間",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes2": {
-    "message": "2分鐘",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes5": {
-    "message": "5分鐘",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes10": {
-    "message": "10分鐘",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes15": {
-    "message": "15分鐘",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.minutes20": {
-    "message": "20分鐘",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.timeReman": {
-    "message": "剩余時間：",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.sureOpenDis": {
-    "message": "確定在次開啟討論嗎？",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.openScsuss": {
-    "message": "开启成功",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.opnFail": {
-    "message": "開啟失敗",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.sureEndDis": {
-    "message": "確定結束當前討論嗎？",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.endSecess": {
-    "message": "結束成功",
-    "description": "smart-classroom 项目"
-  },
-  "discuss.endFail": {
-    "message": "結束失敗",
-    "description": "smart-classroom 项目"
-  },
   "photoUpload.msg20": {
     "message": "學生上傳圖片/視頻進行課堂展示",
     "description": "smart-classroom 项目"
@@ -2949,10 +2669,6 @@
   },
   "score.inputWeightTip": {
     "message": "比重不能為空",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputWeightTip1": {
-    "message": "請輸入有效的比重",
     "description": "smart-classroom 项目"
   },
   "score.teacherScoreDesc": {
@@ -3009,14 +2725,6 @@
   },
   "score.fullmarks": {
     "message": "滿分",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputFullmarkTip": {
-    "message": "滿分不能為空",
-    "description": "smart-classroom 项目"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "請輸入有效的分值",
     "description": "smart-classroom 项目"
   },
   "score.scoreSettings": {
@@ -3087,10 +2795,6 @@
     "message": "今日無直播",
     "description": "smart-classroom 项目"
   },
-  "welink.bindAccount": {
-    "message": "綁定帳號",
-    "description": "smart-classroom 项目"
-  },
   "welink.bindMsg": {
     "message": "請綁定U-Class帳號，綁定后可以使用welink掃碼登錄",
     "description": "smart-classroom 项目"
@@ -3121,10 +2825,6 @@
   },
   "faultDetect.msg49": {
     "message": "更新IP",
-    "description": "smart-classroom 项目"
-  },
-  "faultDetect.msg50": {
-    "message": "通信埠被佔用，請聯繫我們重新進行配置。",
     "description": "smart-classroom 项目"
   },
   "faultDetect.msg51": {
@@ -3247,10 +2947,6 @@
     "message": "本題有多個正確答案",
     "description": "smart-classroom 项目"
   },
-  "answerSheet.contentNull": {
-    "message": "標題不能為空",
-    "description": "smart-classroom 项目"
-  },
   "answerSheet.scoreCorrectScore": {
     "message": "參與{score}積分，回答正確{correctScore}積分",
     "description": "smart-classroom 项目"
@@ -3347,28 +3043,12 @@
     "message": "分享到課堂",
     "description": "smart-classroom 项目"
   },
-  "wxwb.msg1": {
-    "message": "使用優學院APP/微信掃碼分享板書到課堂",
-    "description": "smart-classroom 项目"
-  },
   "wxwb.msg2": {
     "message": "掃碼帶走",
     "description": "smart-classroom 项目"
   },
-  "wxwb.msg3": {
-    "message": "使用優學院APP/微信掃碼",
-    "description": "smart-classroom 项目"
-  },
   "wxwb.msg4": {
     "message": "點擊這裏手機",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.msg5": {
-    "message": "掃碼帶走板書",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.msg6": {
-    "message": "使用優學院APP/微信掃碼登錄",
     "description": "smart-classroom 项目"
   },
   "wxwb.welink1": {
@@ -3639,14 +3319,6 @@
     "message": "教師正在直播",
     "description": "smart-classroom 项目"
   },
-  "welink.welinkMeeting": {
-    "message": "WeLink網路研討會",
-    "description": "smart-classroom 项目"
-  },
-  "custom.newQrMsg": {
-    "message": "使用微信/優學院APP掃碼進行分享",
-    "description": "smart-classroom 项目"
-  },
   "wx.newMsg": {
     "message": "學生微信/APP掃碼進入課堂",
     "description": "smart-classroom 项目"
@@ -3675,14 +3347,6 @@
     "message": "請輸入出題要求或關鍵詞",
     "description": "smart-classroom 项目"
   },
-  "answerSheet.recordFail": {
-    "message": "未識別到清晰的語音，點擊重新發起語音",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.recordQuestion": {
-    "message": "請說出你的出題要求",
-    "description": "smart-classroom 项目"
-  },
   "answerSheet.startQuestion": {
     "message": "開始答題",
     "description": "smart-classroom 项目"
@@ -3707,14 +3371,6 @@
     "message": "QR代碼今天有效",
     "description": "smart-classroom 项目"
   },
-  "wxwb.newMsg3": {
-    "message": "使用優學院APP/微信掃碼",
-    "description": "smart-classroom 项目"
-  },
-  "wxwb.newMsg6": {
-    "message": "使用優學院APP/微信掃碼登錄",
-    "description": "smart-classroom 项目"
-  },
   "activate.enterActivationCode": {
     "message": "請輸入啟動碼啟動",
     "description": "smart-classroom 项目"
@@ -3733,14 +3389,6 @@
   },
   "integrating.active": {
     "message": "活動",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.stuAddScore": {
-    "message": "給學生加積分",
-    "description": "smart-classroom 项目"
-  },
-  "integrating.groupAddScore": {
-    "message": "給小組加積分",
     "description": "smart-classroom 项目"
   },
   "integrating.addScore": {
@@ -3915,10 +3563,6 @@
     "message": "課堂板書",
     "description": "smart-classroom 项目"
   },
-  "wx.msg1": {
-    "message": "學生APP掃碼進入課堂",
-    "description": "smart-classroom 项目"
-  },
   "screen.others": {
     "message": "其他",
     "description": "smart-classroom 项目"
@@ -3959,132 +3603,20 @@
     "message": "沒有可用雲會議室，請您聯繫學校管理員添加",
     "description": "smart-classroom 项目"
   },
-  "intelligentAssistant": {
-    "message": "智慧助手",
-    "description": "smart-classroom 项目"
-  },
-  "enterQuestion": {
-    "message": "請輸入你的問題",
-    "description": "smart-classroom 项目"
-  },
-  "stopAnswering": {
-    "message": "停止回答",
-    "description": "smart-classroom 项目"
-  },
-  "allLoaded": {
-    "message": "已載入全部",
-    "description": "smart-classroom 项目"
-  },
-  "aILoaing": {
-    "message": "正在思考...",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip1": {
-    "message": "嗨，我是UClass智慧助手。",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip2": {
-    "message": "在這裡你可以隨時提問，我能為你答疑解惑，提供知識和靈感，快來試試吧。",
-    "description": "smart-classroom 项目"
-  },
-  "aIAssistantTip3": {
-    "message": "你可能想問：",
-    "description": "smart-classroom 项目"
-  },
-  "screen.aiResourceSearch": {
-    "message": "資源智慧檢索",
-    "description": "smart-classroom 项目"
-  },
-  "screen.inputKeyword": {
-    "message": "輸入關鍵詞",
-    "description": "smart-classroom 项目"
-  },
-  "screen.pinputKeyword": {
-    "message": "輸入關鍵詞",
-    "description": "smart-classroom 项目"
-  },
-  "screen.inputKeywordTip": {
-    "message": "輸入關鍵字搜尋",
-    "description": "smart-classroom 项目"
-  },
-  "screen.noDataTip": {
-    "message": "暫無搜尋結果~",
-    "description": "smart-classroom 项目"
-  },
-  "screen.mooc": {
-    "message": "MOOC",
-    "description": "smart-classroom 项目"
-  },
-  "screen.smartedu": {
-    "message": "中國國家智慧教學公共服務平臺",
-    "description": "smart-classroom 项目"
-  },
-  "screen.pleaseKeyWord": {
-    "message": "輸入關鍵字搜尋",
-    "description": "smart-classroom 项目"
-  },
-  "screen.abstract": {
-    "message": "摘要：",
-    "description": "smart-classroom 项目"
-  },
-  "screen.uLearn": {
-    "message": "優學院",
-    "description": "smart-classroom 项目"
-  },
-  "screen.noMore": {
-    "message": "沒有更多",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.sendStudents": {
-    "message": "發送給學生",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.beBeingSent": {
-    "message": "傳送中...",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.picture": {
-    "message": "圖片",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.video": {
-    "message": "視頻",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.audio": {
-    "message": "音頻",
-    "description": "smart-classroom 项目"
-  },
-  "whiteboard.document": {
-    "message": "文檔",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.haveBeen": {
-    "message": "已儲存",
-    "description": "smart-classroom 项目"
-  },
-  "answerSheet.doNotSet": {
-    "message": "暫不設置",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.notPreview": {
-    "message": "該檔不支援在線預覽",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.notResourse": {
-    "message": "抱歉，當前暫無資源",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.aiGenerate": {
-    "message": "以下內容由機器自動生成，僅供參考",
-    "description": "smart-classroom 项目"
-  },
-  "aiResourceView.summaryGeneration": {
-    "message": "摘要生成中",
-    "description": "smart-classroom 项目"
-  },
   "whiteboard.whiteBoardTips": {
     "message": "保存到課堂后，您和學生可以在課堂檔中查看批注圖片。 點擊這裏手機",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.unstartTip": {
+    "message": "請等待教師開始課堂",
+    "description": "smart-classroom 项目"
+  },
+  "common.operateFailed": {
+    "message": "操作失敗",
+    "description": "smart-classroom 项目"
+  },
+  "common.noEntrance": {
+    "message": "該資源還未設置預覽入口，請前往資源庫設置預覽入口！",
     "description": "smart-classroom 项目"
   }
 }

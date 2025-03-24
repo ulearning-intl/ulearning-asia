@@ -400,7 +400,7 @@
     "description": "2.0 public.js"
   },
   "confirm": {
-    "message": "determinar",
+    "message": "confirmar",
     "description": "2.0 public.js"
   },
   "cancel": {
@@ -1117,10 +1117,6 @@
   },
   "studyEportfolio": {
     "message": "Archivos de estudio",
-    "description": "2.0 public.js"
-  },
-  "someonesEportfolio": {
-    "message": ".",
     "description": "2.0 public.js"
   },
   "ofEportfolio": {
@@ -2485,6 +2481,98 @@
   },
   "moreOperation": {
     "message": "Acciones",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "Usuarios respetados:",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "¡Su contraseña de inicio de sesión no se ha actualizado en <strong class='text-red'>180</strong> días!",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "Con el fin de proteger la seguridad de su cuenta, modifique la contraseña de inicio de sesión para evitar que la contraseña se rompa maliciosamente y mejorar la seguridad de su cuenta.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "Modificar contraseña",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "La próxima vez'",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "Continúe usando sin modificaciones",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "Su contraseña es demasiado simple. Para proteger su cuenta, cambie su contraseña.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "La contraseña debe ser de 8 a 16 caracteres e incluir tanto letras como números (las contraseñas distinguen entre mayúsculas y minúsculas)",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": ".",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "Vista previa de la configuración",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "Seleccione el portal de vista previa",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "No hay una entrada de vista previa establecida para este recurso, regrese a la lista y haga clic en [Modificar] para agregar una entrada de vista previa.",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "El recurso no tiene una entrada de vista previa, comuníquese con el administrador para agregar una entrada de vista previa.",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "La carga se ha realizado correctamente, complete la configuración del recurso.",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "Seleccionar",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "Recursos de simulación virtual",
+    "description": "2.0 public.js"
+  },
+  "organizationStatusWrong": {
+    "message": "Error de estado de la organización, por favor contacte al administrador de la organización",
+    "description": "2.0 public.js"
+  },
+  "loginNumberLimit": {
+    "message": "El número de inicios de sesión ha excedido el límite, inténtelo de nuevo más tarde",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "Recursos falsos",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "La contraseña solo puede admitir letras (distingue entre mayúsculas y minúsculas), números y caracteres especiales (¡los caracteres especiales son el método de entrada en inglés!@#$%^&*()-_+={}[]:; ',./<>?|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "Regreso al centro de gestión.",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "Participar en el curso fue un éxito",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "No pudo unirse al curso",
     "description": "2.0 public.js"
   }
 }

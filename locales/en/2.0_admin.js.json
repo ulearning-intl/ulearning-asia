@@ -2060,7 +2060,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips1": {
-    "message": "Click to enter the full name",
+    "message": "enter the full name",
     "description": "2.0 admin.js"
   },
   "systemAdmin.password": {
@@ -2068,7 +2068,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips2": {
-    "message": "Click to enter the password",
+    "message": "enter the password",
     "description": "2.0 admin.js"
   },
   "systemAdmin.confirmPassword": {
@@ -2532,11 +2532,11 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips21": {
-    "message": "Click to enter the student ID",
+    "message": "enter the student ID",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips22": {
-    "message": "Click to enter the username",
+    "message": "enter the username",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.email": {
@@ -2544,7 +2544,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips23": {
-    "message": "Click to enter the email",
+    "message": "enter the email",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips24": {
@@ -2568,7 +2568,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips25": {
-    "message": "Click to enter the phone number",
+    "message": "enter the phone number",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips26": {
@@ -2972,7 +2972,7 @@
     "description": "2.0 admin.js"
   },
   "exit": {
-    "message": "Exit",
+    "message": "Logout",
     "description": "2.0 admin.js"
   },
   "teachingTeacher": {
@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "The account has been cancelled, are you sure to restore it?",
+    "message": "The password can only support letters (case-sensitive), numbers, and special characters (special characters are English input method!@#$%^&*()-_+={}[]:; ',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3865,6 +3865,210 @@
   },
   "systemAdmin.concurrencyNum": {
     "message": "Concurrency",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "Service expiration time",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "Archive expiration time",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "Total accounts",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "Active accounts",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "Cloud storage",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "Cloud Meeting Room",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "Tenant",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "Total active accounts",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "Smart screen",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "Start",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "End",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "Used",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "Total quota",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "Expired",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "Total",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "Feature configuration",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "Enter {msg} to confirm the operation",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "Enter the administrator password to confirm the above operations",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "Operation confirmation",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "This operation will affect all orgnizations in the system, please confirm before continuing.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "Feature change",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "Confirm",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Close",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Cancel",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "enter the confirm password",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Event management",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Press release",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "News",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Announcements",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "Publish",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Name of the news",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "News content",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Enter a name for the news",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Announcements will be displayed in the school portal and UC Academy, news will only be displayed in the school portal",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Upload a preview",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Recommended image aspect ratio: 16:9; Formats: png, jpg, gif, jpeg, bmp; Single image size: up to 2 MB",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Upload the image again after uploading it to update the image",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "Image size cannot exceed {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "Please upload an image",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Customization",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "For custom web pages, please select this template",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Event management",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "New Events",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Enter an activity title search",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "The title of the event",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Event start time",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "The end time of the event",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Event content",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Volunteer recruitment link",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Back to Admin Center",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "event start time cannot be greater than the event end time",
     "description": "2.0 admin.js"
   }
 }

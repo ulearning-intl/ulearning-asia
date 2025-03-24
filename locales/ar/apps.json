@@ -8,7 +8,7 @@
     "description": "小应用"
   },
   "init-waiting": {
-    "message": "التحميل الأولي للموارد قد يستغرق بعض الوقت يرجى الإنتظار بصبر",
+    "message": "تحميل الموارد التعليمية لأول مرة قد يستغرق بعض الوقت يرجى الانتظار",
     "description": "小应用"
   },
   "confirm": {
@@ -125,10 +125,6 @@
   },
   "endActivity": {
     "message": "إنهاء النشاط",
-    "description": "小应用"
-  },
-  "restartActivity": {
-    "message": "بدء النشاط مرة أخرى",
     "description": "小应用"
   },
   "saving": {
@@ -895,10 +891,6 @@
     "message": "من أجل ضمان فعالية الحدث ، لا يمكن تعديل المشاركة في نشاط الفصل الدراسي وقواعد منح الدرجات.",
     "description": "小应用"
   },
-  "score.tips": {
-    "message": "يتم اختيار الطلاب أو المجموعات للقيام بالعروض التقديمية ، بينما يقوم الطلاب / المجموعات الأخرى بمراجعة عروضهم التقديمية.",
-    "description": "小应用"
-  },
   "score.activityTypeTips1": {
     "message": "بعد أن يبدأ، أضف الطلاب ، واطلب من الطلاب الآخرين إجراء مراجعة الزملاء للطلاب المضافة.",
     "description": "小应用"
@@ -909,18 +901,6 @@
   },
   "score.activityTypeTips3": {
     "message": "يرجى تحديد الموضوعات التي تحتاج إلى تقييمها في الفصل الدراسي.",
-    "description": "小应用"
-  },
-  "score.pleaseAddStu": {
-    "message": " يرجى إضافة طالب",
-    "description": "小应用"
-  },
-  "score.pleaseAddGroup": {
-    "message": " يرجى إضافة مجموعة ",
-    "description": "小应用"
-  },
-  "score.pleaseAddObject": {
-    "message": " يرجى إضافة أداة تقييم ",
     "description": "小应用"
   },
   "score.noEndEvaluation": {
@@ -957,10 +937,6 @@
   },
   "score.allStuEvaluated": {
     "message": " تم تقييم جميع الطلاب ",
-    "description": "小应用"
-  },
-  "score.member": {
-    "message": "الأعضاء",
     "description": "小应用"
   },
   "score.groupMember": {
@@ -1011,16 +987,8 @@
     "message": "لا توجد مراجعات أقران منتهية",
     "description": "小应用"
   },
-  "score.pleaseMarkTips": {
-    "message": "أدخل الدرجة (من أصل 100 نقطة متاحة) ",
-    "description": "小应用"
-  },
   "score.markPlaceholder": {
     "message": "يرجى إدخال الدرجة",
-    "description": "小应用"
-  },
-  "score.maxTips": {
-    "message": " لا يمكن أن تتجاوز الدرجة 100 درجة",
     "description": "小应用"
   },
   "score.markByItem": {
@@ -1065,10 +1033,6 @@
   },
   "score.confirmDeleteGroup": {
     "message": "هل تريد حذف المجموعة؟",
-    "description": "小应用"
-  },
-  "score.confirmDeleteObj": {
-    "message": "هل تريد حذف أداة التصنيف الحالية؟",
     "description": "小应用"
   },
   "score.evaluatingStudents": {
@@ -1147,16 +1111,8 @@
     "message": " طريقة التوقيع ",
     "description": "小应用"
   },
-  "attendance.screenTips": {
-    "message": "\"تسجيل الدخول باستخدام رمز الاستجابة السريع\"، استخدم عرض الشاشة لإظهار رمز الاستجابة السريع.",
-    "description": "小应用"
-  },
   "attendance.screenTipsNew": {
     "message": "يحتاج \"تسجيل الوصول برمز الاستجابة السريعة\" إلى فتح شاشة العرض وعرض رمز الاستجابة السريعة لتسجيل الوصول على الشاشة الكبيرة. يمكن للطلاب استخدام هواتفهم المحمولة فقط لمسح الرمز ضوئيا لتسجيل الدخول.",
-    "description": "小应用"
-  },
-  "attendance.locationTips": {
-    "message": "لاستخدام تسجيل الدخول عن طريق الموقع ، تحتاج إلى تشغيل وظيفة تتبع الموقع. قد تحتوي بيانات الموقع على درجة معينة من الانحراف (ليست دقيقة كما ينبغي).",
     "description": "小应用"
   },
   "attendance.locationTipsNew": {
@@ -1343,24 +1299,8 @@
     "message": "أنت بعيد جدا عن المعلم! إذا كنت في الفصل الدراسي، يمكنك محاولة التبديل إلى شبكة اتصال مختلفة، ثم تسجيل الدخول مرة أخرى. إذا كان تحديد المواقع لا يزال غير دقيق بعد عدة محاولات، يرجى إبلاغ المعلم و سوف يقوم المعلم يدويا بتغيير حالة تسجيل الوصول الخاص بك. ",
     "description": "小应用"
   },
-  "attendance.mobilePluginTips1": {
-    "message": "يرجى السماح لكليتك باستخدام خدمة الموقع ، ثم حاول مرة أخرى",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips2": {
-    "message": "يرجى تشغيل خدمة الموقع في إعدادات نظام الجوال والسماح لك باستخدام خدمة الموقع",
-    "description": "小应用"
-  },
   "attendance.mobilePluginTips3": {
     "message": "خدمة الموقع غير مستقرة ، وغير قادرة على الحصول على معلومات موقعك ، يمكنك المحاولة مرة أخرى لاحقًا",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips4": {
-    "message": "إذن الألبوم غير مفتوح",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips5": {
-    "message": "يرجى فتح إذن الهاتف",
     "description": "小应用"
   },
   "attendance.numCodeFresh": {
@@ -1433,10 +1373,6 @@
   },
   "attendance.teaEnter": {
     "message": "لم يتم تحديد موقع- لقد دخل المعلم",
-    "description": "小应用"
-  },
-  "announcement.title": {
-    "message": "إشعارات",
     "description": "小应用"
   },
   "announcement.publish": {
@@ -1559,10 +1495,6 @@
     "message": "لا يمكن دعم هذا النوع من المستندات",
     "description": "小应用"
   },
-  "upload.maxFileCount2": {
-    "message": "رفع ما يصل إلى {count} مرفق",
-    "description": "小应用"
-  },
   "upload.video1GLimit": {
     "message": " لا يمكن أن يتجاوز حجم الفيديو 1 جيجابايت",
     "description": "小应用"
@@ -1575,10 +1507,6 @@
     "message": "بدء التنافس على الإجابة",
     "description": "小应用"
   },
-  "answer.contentPlaceholder": {
-    "message": "أدخل تعليمات التنافس على الإجابة (اختياري)",
-    "description": "小应用"
-  },
   "answer.participantsCount": {
     "message": "عدد المشاركون",
     "description": "小应用"
@@ -1589,10 +1517,6 @@
   },
   "answer.classroomAnswer": {
     "message": "تنافس على الإجابة",
-    "description": "小应用"
-  },
-  "answer.deleteConfirm": {
-    "message": "هل أنت متأكد أنك تريد حذف التنافس على الإجابة؟",
     "description": "小应用"
   },
   "answer.backConfirm": {
@@ -1749,10 +1673,6 @@
   },
   "answer.commonScore": {
     "message": "تقدير الكل",
-    "description": "小应用"
-  },
-  "answer.endAnswer": {
-    "message": "إنهاء التنافس للإجابة",
     "description": "小应用"
   },
   "answer.confirmDeleteAnswer": {
@@ -1989,10 +1909,6 @@
   },
   "class.assessmentClass": {
     "message": "تقييم الفصل الدراسي",
-    "description": "小应用"
-  },
-  "class.moveOut": {
-    "message": " أخرج ",
     "description": "小应用"
   },
   "class.count": {
@@ -2283,10 +2199,6 @@
     "message": "العلامة الكاملة للحضور المكتمل، و يتم خصم الغياب",
     "description": "小应用"
   },
-  "class.newStrategyScoreItemTips34": {
-    "message": "درجة، زر متأخر / غادر مبكرا / إجازة مرضية / إجازة بعذر",
-    "description": "小应用"
-  },
   "class.newStrategyScoreItemTips35": {
     "message": "نقاط، مشبك حتى",
     "description": "小应用"
@@ -2345,14 +2257,6 @@
   },
   "resource.detail": {
     "message": "تفاصيل المصدر",
-    "description": "小应用"
-  },
-  "resource.studentData": {
-    "message": " إحصائيات الطلاب ",
-    "description": "小应用"
-  },
-  "resource.delete": {
-    "message": "حذف المصدر",
     "description": "小应用"
   },
   "resource.deleteNoAccess": {
@@ -2421,10 +2325,6 @@
   },
   "resource.fromAlbum": {
     "message": " اختر من الألبوم ",
-    "description": "小应用"
-  },
-  "resource.writtenWordsCount": {
-    "message": "تم كتابة {count} كلمة",
     "description": "小应用"
   },
   "resource.written": {
@@ -2759,10 +2659,6 @@
     "message": "المعلم يدعوك للانضمام إلى الفصل الدراسي",
     "description": "小应用"
   },
-  "course.shareSummary": {
-    "message": " يرجى الانضمام إلى فصل {courseName} الدراسي، معلمك هو {teacherName}",
-    "description": "小应用"
-  },
   "course.qrCode": {
     "message": "رمز الاستجابة السريع للفصل الدراسي",
     "description": "小应用"
@@ -2975,10 +2871,6 @@
     "message": "الأكاديمية/ المؤسسة",
     "description": "小应用"
   },
-  "user.select": {
-    "message": "الرجاء الاختيار",
-    "description": "小应用"
-  },
   "user.notOpen": {
     "message": "ليس للتسجيل",
     "description": "小应用"
@@ -2993,10 +2885,6 @@
   },
   "user.studentIdTip": {
     "message": "يرجى إدخال كود الطالب/ كود العمل",
-    "description": "小应用"
-  },
-  "user.studentId1": {
-    "message": "قد لا يملأ الطلاب والمدرسون خارج الحرم الجامعي",
     "description": "小应用"
   },
   "user.inputOrgTip1": {
@@ -3107,10 +2995,6 @@
     "message": "البريد الإلكتروني غير مسجل",
     "description": "小应用"
   },
-  "user.getSuccess": {
-    "message": "حاول بنجاح",
-    "description": "小应用"
-  },
   "user.getFail": {
     "message": "فشلت المحاولة",
     "description": "小应用"
@@ -3215,10 +3099,6 @@
     "message": "اختر البلد/ المنطقة",
     "description": "小应用"
   },
-  "user.ULearningAccount": {
-    "message": "حساب ULearning",
-    "description": "小应用"
-  },
   "user.inputUserNameTip1": {
     "message": "اسم المستخدم/ رقم الهاتف/ البريد الإلكتروني",
     "description": "小应用"
@@ -3249,10 +3129,6 @@
   },
   "user.userNameUsed": {
     "message": "المستخدم موجود بالفعل",
-    "description": "小应用"
-  },
-  "user.registerFail": {
-    "message": "لم نتمكن من التسجيل",
     "description": "小应用"
   },
   "user.resgisterSuccess": {
@@ -3459,10 +3335,6 @@
     "message": "تكرار أنشطة الفصل للفصول الأخرى",
     "description": "小应用"
   },
-  "classroom.copyTip": {
-    "message": "الأنشطة المكررة غير نشطة. يمكنك تنشيط هذه الأنشطة بعد بدء المحاضرة. لا يمكن تكرار تفقد الأسماء و الاختيار العشوائي",
-    "description": "小应用"
-  },
   "classroom.copyTip1": {
     "message": "بعد نسخ الصف، لا يتم بدء أنشطة مثل التصويت والإجابة، ويمكنك بدء هذه الأنشطة بعد الصف",
     "description": "小应用"
@@ -3585,10 +3457,6 @@
   },
   "classroom.closeSuccess": {
     "message": "تم الإغلاق بنجاح",
-    "description": "小应用"
-  },
-  "classroom.confirmEndPick": {
-    "message": "هل تريد إنهاء الاختيار العشوائي؟",
     "description": "小应用"
   },
   "classroom.actunstart": {
@@ -3927,10 +3795,6 @@
     "message": "السماح بتسجيل الدخول",
     "description": "小应用"
   },
-  "loginCode.screenCode": {
-    "message": "مسح الرمز ضوئيا لإرسال الشاشة",
-    "description": "小应用"
-  },
   "loginCode.msg1": {
     "message": "تسجيل الدخول إلى محطة جهاز أخرى",
     "description": "小应用"
@@ -4151,18 +4015,6 @@
     "message": "تمت مشاركتها بنجاح!",
     "description": "小应用"
   },
-  "photograph.msg1": {
-    "message": "قم بتحميل الصور كما يطلب مدرسك، بحد أقصى 20 صورة",
-    "description": "小应用"
-  },
-  "photograph.msg2": {
-    "message": "الصور المقدمة من طلاب آخرين",
-    "description": "小应用"
-  },
-  "photograph.msg3": {
-    "message": "قدمت الصورة",
-    "description": "小应用"
-  },
   "photograph.msg4": {
     "message": "النشاط المنتهي",
     "description": "小应用"
@@ -4177,18 +4029,6 @@
   },
   "photograph.msg7": {
     "message": "تحميل ما يصل إلى 20 صورة",
-    "description": "小应用"
-  },
-  "photograph.msg8": {
-    "message": "هل تريد بالتأكيد حذفه؟",
-    "description": "小应用"
-  },
-  "photograph.msg9": {
-    "message": "يقوم الطلاب بتحميل الصور للعروض التقديمية في الفصل الدراسي",
-    "description": "小应用"
-  },
-  "photograph.msg10": {
-    "message": "يمكن للطلاب عرض صور الطلاب الآخرين بعد إرسالهم",
     "description": "小应用"
   },
   "photograph.msg11": {
@@ -4371,10 +4211,6 @@
     "message": "هل أنت متأكد من أنك تريد إنهاء هذه المناقشات؟",
     "description": "小应用"
   },
-  "discuss.beginning": {
-    "message": "بدء المناقشات ...",
-    "description": "小应用"
-  },
   "uploadError": {
     "message": "باءت بالفشل!",
     "description": "小应用"
@@ -4423,10 +4259,6 @@
     "message": "لقد أرسلنا بريدا إلكترونيا إلى {email}. يرجى التحقق من صندوق الوارد الخاص بك واتباع التعليمات لإعادة تعيين كلمة المرور الخاصة بك.",
     "description": "小应用"
   },
-  "user.pwd6": {
-    "message": "تم إرسال بريد إلكتروني. يرجى التحقق من صندوق الوارد الخاص بك واتباع التعليمات لإعادة تعيين كلمة المرور الخاصة بك.",
-    "description": "小应用"
-  },
   "user.pwd7": {
     "message": "عودة إلى",
     "description": "小应用"
@@ -4441,14 +4273,6 @@
   },
   "user.pwd10": {
     "message": "عنوان البريد الإلكتروني غير موجود ، يرجى إعادة إدخاله",
-    "description": "小应用"
-  },
-  "user.pwd11": {
-    "message": "الحساب في انتظار التفعيل",
-    "description": "小应用"
-  },
-  "user.pwd12": {
-    "message": "تم إلغاء تنشيط الحساب",
     "description": "小应用"
   },
   "user.pwd13": {
@@ -4527,10 +4351,6 @@
     "message": "نسبة تقييمات المعلمين",
     "description": "小应用"
   },
-  "score.teacherWeightTip": {
-    "message": "الرجاء إدخال عدد صحيح بين ١ - ١٠٠",
-    "description": "小应用"
-  },
   "score.scoreTip": {
     "message": "{n} المراجعات، متوسط الدرجات{score}",
     "description": "小应用"
@@ -4573,14 +4393,6 @@
   },
   "score.fullmarks": {
     "message": "الدرجة النهائية",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip": {
-    "message": "لا يمكن أن تكون النتيجة المثالية فارغة",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "الرجاء إدخال قيمة نقطة صحيحة",
     "description": "小应用"
   },
   "score.scoreSettings": {
@@ -4681,14 +4493,6 @@
   },
   "remind.repeatRemindTips": {
     "message": "يمكن للمورد نفسه إرسال تذكير مرة واحدة فقط في اليوم. لقد تم تذكيره اليوم ، حاول مرة أخرى غدا ~",
-    "description": "小应用"
-  },
-  "user.websitHomepage": {
-    "message": "الصفحة الرئيسية",
-    "description": "小应用"
-  },
-  "user.contactCustomerService": {
-    "message": "الاتصال بموظفي خدمة العملاء",
     "description": "小应用"
   },
   "user.bindTips": {
@@ -4847,14 +4651,6 @@
     "message": "إجابتك: ",
     "description": "小应用"
   },
-  "answerQue.correct": {
-    "message": "صحيح",
-    "description": "小应用"
-  },
-  "answerQue.error": {
-    "message": "خطأ",
-    "description": "小应用"
-  },
   "answerQue.viewStudentList": {
     "message": "عرض قائمة بالطلاب",
     "description": "小应用"
@@ -4871,20 +4667,12 @@
     "message": "انتقل إلى حدث تحميل الصور",
     "description": "小应用"
   },
-  "classroom.discussDetails": {
-    "message": "تفاصيل المناقشة",
-    "description": "小应用"
-  },
   "classroom.reverseOrder": {
     "message": "من الاحدث الى الأقدم",
     "description": "小应用"
   },
   "classroom.positiveOrder": {
     "message": "ترتيب إيجابي",
-    "description": "小应用"
-  },
-  "loginCode.tip10": {
-    "message": "بعد تسجيل الدخول على الشاشة الكبيرة ، يمكنك إجراء تدريس الربط",
     "description": "小应用"
   },
   "loginCode.tip11": {
@@ -4997,10 +4785,6 @@
   },
   "stuList.yourAnswer": {
     "message": "إجابتك",
-    "description": "小应用"
-  },
-  "stuList.notJoin": {
-    "message": "لم يشارك",
     "description": "小应用"
   },
   "stuList.notChoose": {

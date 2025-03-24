@@ -7886,5 +7886,281 @@
   "programDetailWarning": {
     "message": "该资源尚未设置预览入口，请返回列表，点击【修改】添加预览入口！",
     "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "绑定谷歌课堂课程后，这里将显示课程的assignment、material。您可以在绑定时选择自动同步或手动同步，同步后的资源将显示在优学院“作业”“资源”页面。",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "您还未绑定谷歌课堂课程，请登陆谷歌账号进行绑定",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "选择需要绑定的课程",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "输入课程名称搜索",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "未找到该课程",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*您的谷歌课堂还没有课程，请先创建课程，",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "优学院和谷歌课堂的内容将自动同步至对方平台",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "您可以手动同步内容：",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "前往优学院课程页面>设置>“谷歌课堂”或前往优学院课程页面>“资源”“作业”页面中进行同步，或在发布时勾选“同步至谷歌课堂”",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "您已绑定谷歌课堂：",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "已经完成历史数据同步！成功同步 {n} 条内容",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": "，由于网络问题 {n} 条内容同步失败",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "网络问题导致历史数据同步失败！",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "存在数据冲突，请选择数据覆盖方式以继续同步",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "已成功同步 {n} 条内容",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "登录谷歌",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "自动同步",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "手动同步",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "绑定",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "绑定失败",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "解绑",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "解绑失败",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "未同步",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "已同步",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "请输入关键字搜索",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "批量同步",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "批量取消同步",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "一键同步历史数据",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "同步到优学院",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "同步",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "取消同步",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "暂不同步",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "正在为您同步数据",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "重试",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "覆盖旧数据",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "忽略",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "同步成功",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "同步失败",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "取消同步成功",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "取消同步失败",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "批量同步成功",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "批量同步失败",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "批量取消同步成功",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "批量取消同步失败",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "谷歌课堂",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "请输入1-1000的整数",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "资料",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "作业",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "点击前往谷歌课堂创建",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "解绑后已同步的旧数据保留，新数据将不再同步",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "确定解绑",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "上传虚仿资源",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "SCORM学习记录",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "未完成",
+    "description": "2.0 course.js"
+  },
+  "advancedSetup": {
+    "message": "高级设置",
+    "description": "2.0 course.js"
+  },
+  "AITeaAssistant": {
+    "message": "AI助教",
+    "description": "2.0 course.js"
+  },
+  "masteryStatistics": {
+    "message": "掌握度统计",
+    "description": "2.0 course.js"
+  },
+  "importVirtual": {
+    "message": "导入实验",
+    "description": "2.0 course.js"
+  },
+  "virtualKeywordSearch": {
+    "message": "输入实验名称搜索",
+    "description": "2.0 course.js"
+  },
+  "delVirtual": {
+    "message": "移除实验",
+    "description": "2.0 course.js"
+  },
+  "graphOverview": {
+    "message": "图谱概览",
+    "description": "2.0 course.js"
+  },
+  "knowledgePoints": {
+    "message": "知识点",
+    "description": "2.0 course.js"
+  },
+  "emphasis": {
+    "message": "重点",
+    "description": "2.0 course.js"
+  },
+  "difficulty": {
+    "message": "难点",
+    "description": "2.0 course.js"
+  },
+  "testPoints": {
+    "message": "考点",
+    "description": "2.0 course.js"
+  },
+  "ideologicalPoints": {
+    "message": "思政点",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryUpdateTips1": {
+    "message": "掌握度每天凌晨自动更新，上次更新时间：",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc": {
+    "message": "掌握度是根据知识点测验成绩，以及关联的课件练习、作业、考试成绩综合评价所得。",
+    "description": "2.0 course.js"
+  },
+  "pleaseChooseGraph": {
+    "message": "请选择图谱",
+    "description": "2.0 course.js"
   }
 }

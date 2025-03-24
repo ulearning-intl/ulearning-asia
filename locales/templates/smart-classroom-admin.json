@@ -8,11 +8,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.recordedClass": {
-    "message": "录播巡课",
+    "message": "录直播巡课",
     "description": "smart-classroom-admin 项目"
   },
   "route.recording": {
-    "message": "实时画面",
+    "message": "线上听课",
     "description": "smart-classroom-admin 项目"
   },
   "route.playback": {
@@ -1436,7 +1436,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.evaluation": {
-    "message": "评教数据",
+    "message": "评教分析",
     "description": "smart-classroom-admin 项目"
   },
   "route.basicData": {
@@ -2016,7 +2016,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "courseManage.byCourse": {
-    "message": "按课程",
+    "message": "按教学班",
     "description": "smart-classroom-admin 项目"
   },
   "courseManage.allColleges": {
@@ -4372,7 +4372,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "resourcePortal.dragInstruction": {
-    "message": "最多6个菜单，拖拽调整顺序",
+    "message": "最多{num}个菜单，拖拽调整顺序",
     "description": "smart-classroom-admin 项目"
   },
   "resourcePortal.link": {
@@ -4772,7 +4772,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.tip1": {
-    "message": "在视频中将师生的行为标注出来。此功能为附加功能，不会课堂行为分析造成影响。在视频中标注姿态非常占用算力，系统不会自动对视频进行标注，如果有需要请管理员在任务管理中手动选择视频开始标注。",
+    "message": "在视频中将师生的行为标注出来。此功能为附加功能，不会对课堂行为分析造成影响。在视频中标注姿态非常占用算力，系统不会自动对视频进行标注，如果有需要请管理员在任务管理中手动选择视频开始标注。",
     "description": "smart-classroom-admin 项目"
   },
   "videoPlayer.tip2": {
@@ -5096,7 +5096,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.descOrder": {
-    "message": "倒叙",
+    "message": "倒序",
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.analysisReport": {
@@ -5132,7 +5132,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.content4": {
-    "message": "根据语义识别，可以在管理后台设置要识别的教学行为已经对应的语义库。",
+    "message": "根据语义识别，可以在管理后台设置要识别的教学行为以及对应的语义库。",
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.tip1": {
@@ -5797,6 +5797,2198 @@
   },
   "resourcePortal.pictureLoading": {
     "message": "图片正在加载中...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.multiWindowClassTour": {
+    "message": "多视窗巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.superviseTaskManage": {
+    "message": "督导管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.roleManagement": {
+    "message": "角色管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.taskManagement": {
+    "message": "任务管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.evaluationRecord": {
+    "message": "评价记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.nonInAttendance": {
+    "message": "考勤详情",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teachEvaluation": {
+    "message": "教学评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.studyRecord": {
+    "message": "学习记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.offlineListen": {
+    "message": "线下听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.recordingPage": {
+    "message": "实时画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.liveListen": {
+    "message": "录直播听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.supervisors": {
+    "message": "督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.recordedClassroom": {
+    "message": "录播课堂",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.listenCourse": {
+    "message": "听课评议",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.changePassword": {
+    "message": "修改密码",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.evaHistory": {
+    "message": "评课记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.systemSetting": {
+    "message": "系统设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.videoWatermark": {
+    "message": "视频水印",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.floor": {
+    "message": "楼层",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.enterFloorTip1": {
+    "message": "请输入楼层",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.enterFloorTip2": {
+    "message": "请输入正整数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.search": {
+    "message": "查询",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.startTimeToEndTime": {
+    "message": "{startTime} 至 {endTime}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.schoolAdmin": {
+    "message": "校级管理员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.collegeAdmin1": {
+    "message": "院系管理员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.havingClassCollege": {
+    "message": "课程所在学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.teacherInCollege": {
+    "message": "教师所在学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.allCampus": {
+    "message": "全部校区",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.inClass": {
+    "message": "上课中：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.noClass": {
+    "message": "无课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.courseScheduling": {
+    "message": "排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.building": {
+    "message": "楼宇",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.courseList": {
+    "message": "课程列表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.tourByCourse": {
+    "message": "按课程巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.unit": {
+    "message": "单位：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.allSchool": {
+    "message": "全校",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.classTour": {
+    "message": "巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classEnded": {
+    "message": "已下课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.classRealTime": {
+    "message": "教室实时画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordingPlan.classScheduleManagement": {
+    "message": "请在“课表管理”里",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.CourseMap": {
+    "message": "课程图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.SearchingKnowledgePoints": {
+    "message": "搜索知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.Import": {
+    "message": "导入",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.ideologicalView": {
+    "message": "思政元素视图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.teachingRoutelView": {
+    "message": "教学路径视图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay1": {
+    "message": "显示级数: 1",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay2": {
+    "message": "显示级数: 2",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay3": {
+    "message": "显示级数: 3",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay4": {
+    "message": "显示级数: 4",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay5": {
+    "message": "显示级数: 5",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay6": {
+    "message": "显示级数: 6",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay7": {
+    "message": "显示级数: 7",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.NumberDisplay8": {
+    "message": "显示级数: 8",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.importGraph": {
+    "message": "导入图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.removeGraph": {
+    "message": "移除图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.graphName": {
+    "message": "图谱名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.creatorName": {
+    "message": "创建人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.removeGraphTips": {
+    "message": "确定移除本课程绑定的图谱吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.preview": {
+    "message": "预览",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.mouseTips": {
+    "message": "滚动鼠标滑轮放大/缩小",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.noMatchedPoint": {
+    "message": "没有匹配的知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.defaultView": {
+    "message": "默认视图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.numOfKnowledgePoints": {
+    "message": "{num}个知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.teachingStart": {
+    "message": "教学起点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.teachingEnd": {
+    "message": "教学终点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.teachingStartAndEnd": {
+    "message": "教学起点/终点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.graphNullTips": {
+    "message": "请选择一个图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.classroomPrefix": {
+    "message": "课堂：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.graphLoadingTips": {
+    "message": "正在加载图谱...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.superviseTour": {
+    "message": "督导巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.videoAndLive": {
+    "message": "录直播",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationRecordTime": {
+    "message": "评价时间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.myEvaluationRecord": {
+    "message": "我的评价记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.tourInputTip1": {
+    "message": "课程、教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.liveListen": {
+    "message": "录直播听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.offlineListen": {
+    "message": "线下听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.myEvaluation": {
+    "message": "我的评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inSchoolSupervisor": {
+    "message": "校内督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.outSchoolSupervisor": {
+    "message": "校外督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addRole": {
+    "message": "添加角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editRole": {
+    "message": "修改角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.deleteRole": {
+    "message": "删除角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.schoolSupervisor": {
+    "message": "校级督导员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.collegeSupervisor": {
+    "message": "院级督导员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.schoolLeader": {
+    "message": "校领导",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.roleTip1": {
+    "message": "请输入角色名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.roleTip2": {
+    "message": "角色名称不能为空",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.roleTip3": {
+    "message": "不超过20个字",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.roleTip4": {
+    "message": "确定删除该角色？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addAdmin": {
+    "message": "添加管理员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addAdminTip": {
+    "message": "输入教师姓名/工号搜索教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.searchNameTip": {
+    "message": "该教职工不存在",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addInSupervisor": {
+    "message": "添加校内督导员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addOutSupervisor": {
+    "message": "添加外部人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.leaderEvaluation": {
+    "message": "领导评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.peerEvaluation": {
+    "message": "同行互评",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.studentEvaluation": {
+    "message": "学生评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noTaskData": {
+    "message": "暂无任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indexGroup": {
+    "message": "指标组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indicatorPrompt": {
+    "message": "一份评价表可包括不同的指标组，例如“教学态度”、“教学能力”等；您可创建不同的指标组，并为指标组增加题目。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.taskType": {
+    "message": "任务类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.showScore": {
+    "message": "分值展示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisorsScoreTip": {
+    "message": "督导人员可以查看选项分值",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatorsScoreTip": {
+    "message": "评价人员可以查看选项分值",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.studentScoreTip": {
+    "message": "评价学生可以查看选项分值",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisors": {
+    "message": "督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluators": {
+    "message": "督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.lecturesNum": {
+    "message": "听课次数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.lecturesNumTip": {
+    "message": "不少于{n}次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classScope": {
+    "message": "听课范围",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classScopeOption1": {
+    "message": "全校教师互评",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classScopeOption2": {
+    "message": "同学院教师互评",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classScopeOption3": {
+    "message": "仅评价自己选修的课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teacherNum": {
+    "message": "参与评价教师：{count}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.stuNum": {
+    "message": "参与评价学生：{count}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationRecords": {
+    "message": "评价记录：{count}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationProgress": {
+    "message": "评价进度",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.progress": {
+    "message": "进度",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationScoring": {
+    "message": "评价打分",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.task": {
+    "message": "任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scale": {
+    "message": "量表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.selectedNum": {
+    "message": "已选 {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.maxScoreTip": {
+    "message": "最高分{score}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addSupervisor1": {
+    "message": "添加督导人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.supervisorGroup": {
+    "message": "督导组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addScaleTemplate": {
+    "message": "添加模板",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.copyTask": {
+    "message": "复制任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.deleteScaleTip": {
+    "message": "当前评价表已存在记录，删除评价表会清除之前的记录，确定删除?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.changeTo": {
+    "message": "切换至",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.plsCheckRole": {
+    "message": "请选择角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.changeRole": {
+    "message": "切换角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.score1": {
+    "message": "{score}分",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluators1": {
+    "message": "评价人员：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationTime": {
+    "message": "评价时间：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noEvaluation": {
+    "message": "未评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.groupTip": {
+    "message": "请输入指标组名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.priceTemplateTip": {
+    "message": "评价模板不能超过{n}个",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputTaskNameTip": {
+    "message": "请输入任务名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputTaskRequestTip": {
+    "message": "请输入任务要求",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.byClassSchedule": {
+    "message": "按课表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.changeScale": {
+    "message": "更改量表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.voiceTip": {
+    "message": "当前已静音，点击打开",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.answerTip": {
+    "message": "主观作答字数不得低于80字，请重新填写主观评价！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleNeedAnswer": {
+    "message": "量表必答",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleNeedAnswer1": {
+    "message": "指标必答",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hideScaleIndex": {
+    "message": "隐藏量表序号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hideScaleType": {
+    "message": "隐藏量表指标类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hideScaleType1": {
+    "message": "隐藏指标类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleLimitNum": {
+    "message": "限制作答字数（{num}）字",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleCommentTitle": {
+    "message": "主观评价题-限制作答字数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleCommentContent1": {
+    "message": "主观作答字数不低于",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scaleCommentContent2": {
+    "message": "字",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.limitNumError": {
+    "message": "必须为正整数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.submit1": {
+    "message": "递交",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.tempSave": {
+    "message": "暂时保存",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluateEndTime": {
+    "message": "评价结束时间为",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addTeacher": {
+    "message": "添加教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.belongCollege": {
+    "message": "所属院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teacherCollege": {
+    "message": "教师院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teacherSearchTip": {
+    "message": "请输入教师姓名或工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluateStatus": {
+    "message": "评价状态",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaClass": {
+    "message": "教学班",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaLocation": {
+    "message": "上课地点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaHistory": {
+    "message": "评课记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaHistoryTip": {
+    "message": "查看已经递交和暂时保存的评课记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaConfirmErrorTip": {
+    "message": "主观作答字数不得低于{num}字，请重新填写主观评价 ！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.thisSchool": {
+    "message": "本校",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.external": {
+    "message": "外聘",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.retirement": {
+    "message": "离退休",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.cruisableLessons": {
+    "message": "可巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.underConstruction": {
+    "message": "建设中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.premium": {
+    "message": "精品",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.useUsedEquipment": {
+    "message": "利旧",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.standardExamination": {
+    "message": "标考",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.voicelessness": {
+    "message": "无声音",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluateStatus1": {
+    "message": "评课状态",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hasSubmit1": {
+    "message": "已递交",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.continueAnswer": {
+    "message": "继续作答",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allHistory": {
+    "message": "全部记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.oneType": {
+    "message": "条",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.noVideoTip": {
+    "message": "当前教室没有{role}画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluation": {
+    "message": "修改评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus1": {
+    "message": "提交后不可撤回修改",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus2": {
+    "message": "可撤回修改",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus2Tip1": {
+    "message": "24小时内",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus2Tip2": {
+    "message": "两天内",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus2Tip3": {
+    "message": "一周内",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editEvaluationStatus2Tip4": {
+    "message": "任务结束前",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.canRevoke": {
+    "message": "可撤回",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.revoke": {
+    "message": "撤回",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.columnClassification": {
+    "message": "栏目分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.settingAndShare": {
+    "message": "设置/分享",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.show": {
+    "message": "展示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.showInPortal": {
+    "message": "在门户展示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.maxAddColumn": {
+    "message": "最多可添加20个栏目",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.copySuc": {
+    "message": "复制成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.copyErr": {
+    "message": "复制失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.shareColumn": {
+    "message": "分享栏目",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.moveUp": {
+    "message": "上移",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.moveDown": {
+    "message": "下移",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.newAdd": {
+    "message": "新增",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addColumn": {
+    "message": "添加栏目",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.editColumn": {
+    "message": "修改栏目",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.revokeSuccess": {
+    "message": "撤回成功！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.revokeError": {
+    "message": "撤回失败！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingInstitution": {
+    "message": "教学单位",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.other": {
+    "message": "其他",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.openMode": {
+    "message": "打开方式",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.curWindow": {
+    "message": "当前页面打开",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.newWindow": {
+    "message": "新页面打开",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hide": {
+    "message": "隐藏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.column": {
+    "message": "栏目",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.msg36": {
+    "message": "当前直播不公开，请先登录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.msg37": {
+    "message": "去登录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.noCourseLook": {
+    "message": "当前没有课程正在上课。您可以在上课前5分钟开始督导，请等待课堂开始上课。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.view": {
+    "message": "立即观看",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip1": {
+    "message": "结果由AI生成，仅作参考",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip2": {
+    "message": "大模型根据教师讲授的内容自动生成摘要，可快速了解教师在本堂课的讲授内容。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip3": {
+    "message": "由大模型生成，仅作参考",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip4": {
+    "message": "系统可识别出课堂上不同的发言人，根据发言人之间的互动以及行为识别判断出教师讲授、师生问答、学生展示等多种教学场景。<br/>注：各教学行为时长之后不等于课堂总时长。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip5": {
+    "message": "系统通过语义理解和关键词模糊匹配的方式识别出教师在当前时间点开展的教学环节。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip6": {
+    "message": "系统采用S-T教学分析法对课堂教学模式进行分析。<br/>T表示当前时间点教师行为占主导，例如教师讲授。S表示当前时间点有学生参与，例如师生问答、学生讨论、学生展示/发言。转化率Ch=S和T之间转换次数/总采样数。<br/>练习型：Rt <= 0.3 <br/>讲授型：Rt >= 0.7<br/>对话型：Ch >= 0.4<br/>混合型：0.3 < Rt < 0.7，Ch < 0.4",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip7": {
+    "message": "教师迟到早退：系统通过对教师讲授行为、讲台区域人物识别等多种方式综合判断教师是否有上课迟到和早退现象。迟到或早退超过{num}分钟会进行提示。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip8": {
+    "message": "系统可识别出课堂中心学生的人数，每分钟清点1次并生成学生出勤变化曲线。<br/>实到=教室内峰值学生数<br/>缺勤=应到人数-实到人数<br/>迟到/早退=上课后/下课前2分钟时，应到人数-当前人数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip9": {
+    "message": "系统通过图像识别学生的行为，每秒种识别一次。<br/>抬头率=当前时间，（听课+举手+站立）学生数/总学生数<br/>读写率=当前时间，读写学生数/总学生数<br/>趴桌率=当前时间，趴桌学生数/总学生数<br/>注：学生的部分行为可能无法被系统识别或未被统计，抬头率+读写率+趴桌率并不完全等于100%",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.aiTip10": {
+    "message": "系统通过识别学生的行为特征，判断学生的行为。系统每秒种识别一次，统计出学生各类行为的占比。<br/>注：由于可能会存在遮挡、视频不清晰、行为特征不明显等原因，行为识别存在一定的误差，分析的结果仅作参考。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.watermarkShow": {
+    "message": "展示水印",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.watermarkHide": {
+    "message": "不展示水印",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.watermarkSet": {
+    "message": "水印设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.userName": {
+    "message": "用户姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.jobId": {
+    "message": "工号/学号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.customContent": {
+    "message": "自定义内容",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.showBefore": {
+    "message": "显示在最前面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.showAfter": {
+    "message": "显示在最后面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.textSize": {
+    "message": "文字尺寸",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.small": {
+    "message": "小",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.medium": {
+    "message": "中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.big": {
+    "message": "大",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.max": {
+    "message": "最大",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.color": {
+    "message": "颜色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.shallow": {
+    "message": "浅",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.neutral": {
+    "message": "中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.dark": {
+    "message": "深",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.apply": {
+    "message": "应用",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.forReferenceOnly": {
+    "message": "仅供参考，以实际效果为准",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.forReferenceOnlySuccess": {
+    "message": "应用成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "watermark.msg": {
+    "message": "不超过10个字",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.bannerTip": {
+    "message": "建议尺寸1920*200px，不超过2M，最多10个banner，拖拽调整顺序。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.addBanner": {
+    "message": "添加banner",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.maxBannerTip": {
+    "message": "最多只能添加10张轮播图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.minBannerTip": {
+    "message": "至少保留1张轮播图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.selecTopic": {
+    "message": "添加专题",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.show": {
+    "message": "显示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.uploading": {
+    "message": "上传中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.uploadErrTip": {
+    "message": "上传图片大小不能超过 2MB!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.scheduleAttendance": {
+    "message": "按课表听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.courseAttendance": {
+    "message": "按课程听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.dailySchedule": {
+    "message": "查看每日每个节次的排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.selectCoursesScheduleCourses": {
+    "message": "选择课程查看该课程所有的排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.listeningEvaluatingLessons": {
+    "message": "听评课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.mine": {
+    "message": "我的",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.noScheduleClassesToday": {
+    "message": "今日无排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.courseScheduling": {
+    "message": "排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.inClass": {
+    "message": "上课中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.noReplay": {
+    "message": "暂无回放",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.scaleEvaluation": {
+    "message": "量表评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.taskHasEnded": {
+    "message": "任务已结束",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.noEvaluationTasks": {
+    "message": "本学期暂无评价任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.noScheduleClasses": {
+    "message": "当前无排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.classroomLecture": {
+    "message": "按教室听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.chooseClassroomAttend": {
+    "message": "选择楼宇教室进行听课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.rated": {
+    "message": "已评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.viewClass": {
+    "message": "查看课堂",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.teaType": {
+    "message": "教师类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.liveLose": {
+    "message": "获取直播信息失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.specialist": {
+    "message": "专家指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classAssignment": {
+    "message": "按教学班指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomAssignment": {
+    "message": "按教室指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.assignmentDetails": {
+    "message": "指派详情",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.assignedListening": {
+    "message": "指派听评",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.assignmentRecord": {
+    "message": "指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.globalSetting": {
+    "message": "全局设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.aiConfig": {
+    "message": "AI服务设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.beEvaluatedRecord": {
+    "message": "被评记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.resourceManagement": {
+    "message": "资源管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.manageData": {
+    "message": "管理材料",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.resourceUpload": {
+    "message": "资源上传",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.readSource": {
+    "message": "调阅资源",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teachingEvaluation": {
+    "message": "教学评估",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.basicMenuSettings": {
+    "message": "基础菜单设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.week": {
+    "message": "周",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.saveFail": {
+    "message": "保存失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.teachingSupervisor": {
+    "message": "教学主管",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.realTimeCourses": {
+    "message": "实时巡课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.fullScreen": {
+    "message": "全屏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.cancelFullScreen": {
+    "message": "取消全屏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.directBroadcastingClassroom": {
+    "message": "直录播教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.nodirectBroadcastingClassroom": {
+    "message": "非直录播教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.readWriteRate": {
+    "message": "读写率",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.avgReadWriteRate": {
+    "message": "平均读写率",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.classNumber": {
+    "message": "上课班号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.courseStudentAuthority": {
+    "message": "选修本课程的学生可以观看",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.allStudentAuthority": {
+    "message": "本校全部学生可以观看",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.allVideos": {
+    "message": "全部视频",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.publicVideoOnly": {
+    "message": "仅公开视频",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.noCourseInformation": {
+    "message": "没有获取你的选课信息，可以前往录播资源门户查看本校公开的课程进行学习",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.notFindCourse": {
+    "message": "找不到课程",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.findCoursePrompt1": {
+    "message": "1.本界面展示选修课程的课堂回放，部分没有录制的课程将不会在界面上展示。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.findCoursePrompt2": {
+    "message": "2.观看课堂回放需要任课教师开启观看权限，如果教师未开启观看权限，该课程也不会在界面上展示。可以前往门户查看本校公开的课程。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.inClassStuView": {
+    "message": "班内学生观看",
+    "description": "smart-classroom-admin 项目"
+  },
+  "myCourse.schoolDisclosure": {
+    "message": "本校公开",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.taskID": {
+    "message": "任务ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "permisSubtitle.deleteTask": {
+    "message": "删除任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inClass1": {
+    "message": "上课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.showOnPortal": {
+    "message": "在门户展示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedEvaluationRecord": {
+    "message": "导出评价记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedRange": {
+    "message": "导出范围",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.derivedHiddenFraction": {
+    "message": "导出表格时隐藏分数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.statisticalDimension": {
+    "message": "选择统计维度",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationStatistics": {
+    "message": "评价课堂统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classroomDimension": {
+    "message": "包含评价类型、学年学期、教师信息、课程信息、时间、地点、督导信息、总分数等信息",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indexStatistics": {
+    "message": "评价指标详情统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.indexDimension": {
+    "message": "包含评价类型、学年学期、教师信息、课程信息、时间、地点、督导信息、总分数、单项指标分数等信息",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaStatistics": {
+    "message": "评价教师统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaDimension": {
+    "message": "包含教师信息、总分数、单项指标分数等信息",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseStatistics": {
+    "message": "评价课程统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseDimension": {
+    "message": "包含课程信息、总分数、单项指标分数等信息",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.exportPermission": {
+    "message": "导出权限设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.effectiveInstruction": {
+    "message": "设置后只针对院系管理员、教学主管角色生效",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teaDepartment": {
+    "message": "按被评教师院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatorDepartment": {
+    "message": "按评价人院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.curriculumDepartment": {
+    "message": "按被评课程院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.instructorRecord": {
+    "message": "管理的院系内全部授课教师的被评记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatorRecord": {
+    "message": "管理的院系内全部评价人的作答记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.courseRecord": {
+    "message": "管理院系内全部课程的被评记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.saveSettings": {
+    "message": "保存设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.exportSuccessfully": {
+    "message": "导出成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scoreNum": {
+    "message": "分数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.sectionNum": {
+    "message": "第{n}节",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.hasReplay": {
+    "message": "已生成回放",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.recordExport": {
+    "message": "评课记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.check": {
+    "message": "至少勾选一个",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.aiConfigTip": {
+    "message": "更改设置后，系统在执行新的分析任务时会使用新的规则，部分旧数据不会按照新规则修改。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingSegmentSetting": {
+    "message": "教学环节设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.identificationMethod": {
+    "message": "识别方式",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.segmentTip": {
+    "message": "大模型根据语义识别教学环节，填写关键词可以增加模型对语义识别的准确性。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inputTip3": {
+    "message": "请输入关键词，以“;”隔开",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setKeyword": {
+    "message": "设置关键词",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluator": {
+    "message": "评价人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTeacher": {
+    "message": "被评教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip1": {
+    "message": "允许被评教师查看结果",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip2": {
+    "message": "隐藏评价人信息",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluatedTip3": {
+    "message": "隐藏评价分数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.evaluationType": {
+    "message": "评价类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewDetail": {
+    "message": "查看详情",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.yes": {
+    "message": "是",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.no": {
+    "message": "否",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.buildingOverview": {
+    "message": "楼宇概览",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.emptyClassroom": {
+    "message": "空闲教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.classroomSearch": {
+    "message": "教室检索",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.scheduleSearch": {
+    "message": "课表查询",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.inClass": {
+    "message": "上课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.teachingDynamicSchedule": {
+    "message": "教学动态课表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekSchedule": {
+    "message": "周课表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.year": {
+    "message": "年",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.bigScreenLocation": {
+    "message": "大屏端地址",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.totalVisitNum": {
+    "message": "总访问量",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dailyVisitNum": {
+    "message": "日访问量",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.holiday": {
+    "message": "假期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekSchedule1": {
+    "message": "本周课表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dynamicClass": {
+    "message": "教学动态课表",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.usePhoneScan": {
+    "message": "手机扫码查看",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.todayCourseEnd": {
+    "message": "本日课程已结束",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.allBuilding": {
+    "message": "全部教学楼",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.weekNum": {
+    "message": "第{n}周",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.collegeManagement": {
+    "message": "院系管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.collegeResource": {
+    "message": "院系资源",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.resourceClass": {
+    "message": "资源分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.createResourceClass": {
+    "message": "创建资源分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.creator": {
+    "message": "创建者",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dataUploader": {
+    "message": "资料上传人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.dataReader": {
+    "message": "资料调阅人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewUploader": {
+    "message": "查看上传人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewReader": {
+    "message": "查看调阅人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadedFile": {
+    "message": "已上传的文件",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setRead": {
+    "message": "设置调阅",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.setUpload": {
+    "message": "设置上传",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.searchNamePlaceholder": {
+    "message": "请输入姓名或工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addUserTip1": {
+    "message": "已添加材料调阅人：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addUserTip2": {
+    "message": "已添加材料上传人：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadFileError2": {
+    "message": "文件不能超过{size}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadFileError3": {
+    "message": "不支持该类型文件",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.size": {
+    "message": "大小",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.uploadTime": {
+    "message": "上传时间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.viewCollege": {
+    "message": "查看院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.sourceNameNotEmpty": {
+    "message": "资源分类名称不能为空！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.addSourceTip": {
+    "message": "说明：添加新的资源分类成功后可为其设置上传人、调阅人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.transcodeTip": {
+    "message": "文件正在转码，请稍后再播放。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.mute": {
+    "message": "静音",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.unMute": {
+    "message": "取消静音",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.play": {
+    "message": "播放",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.fullScreen": {
+    "message": "全屏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.openUrl": {
+    "message": "访问该网站",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.unPreviewTip": {
+    "message": "该文件不支持在线预览",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.roleMenuManagement": {
+    "message": "角色基础菜单管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "translation.functionSetting": {
+    "message": "功能设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.exportPdf": {
+    "message": "导出pdf",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.exportexcel": {
+    "message": "导出excel",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.thisWeek": {
+    "message": "本周",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.currentMonth": {
+    "message": "本月",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.thisSemester": {
+    "message": "本学期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.showClassDetails": {
+    "message": "显示班级详情",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.dataItemSetting": {
+    "message": "数据项设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.openingSchool": {
+    "message": "开课学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.facultyMemberDepartment": {
+    "message": "教师所在院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip1": {
+    "message": "课程总知识点：课程知识图谱里的知识点的总数。由教师创建或Ai通过教学大纲/关键词生成。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip2": {
+    "message": "点亮知识点：教师在课堂授课时讲到的知识点，该知识点和课程知识图谱相匹配。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip3": {
+    "message": "高频知识点：多个课堂里讲到的知识点。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip4": {
+    "message": "未点亮知识点：在课程知识图谱中存在，但是教师在课堂上没有讲到的知识点。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgeTip5": {
+    "message": "计划外知识点：Ai对课堂视频进行分析提取教师讲授的知识点，该知识点在课程的知识图谱中未出现过。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.totalclassKnowledge": {
+    "message": "课堂总知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.lightUpKnowledge": {
+    "message": "点亮知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.unplannedKnowledge": {
+    "message": "计划外知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.classroomTeachingPath": {
+    "message": "课堂教学路径",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.knowledgePointStatistics": {
+    "message": "知识点统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.multipleKnowledgePoints": {
+    "message": "高频知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.unilluminatedKnowledge": {
+    "message": "未点亮知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints1": {
+    "message": "无高频知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints2": {
+    "message": "无未被点亮的知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.notMultipleKnowledgePoints3": {
+    "message": "无计划外知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "intelligentAnalysis.totalCourseKnowledge": {
+    "message": "课程总知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.pictureType": {
+    "message": "文件类型不正确，请选择支持的图片格式",
+    "description": "smart-classroom-admin 项目"
+  },
+  "resourcePortal.personalSpace": {
+    "message": "个人空间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.peopleNum": {
+    "message": "已选评价人（{num}人）",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignedByClassMsg": {
+    "message": "筛选教学班内的课程节次指派给已勾选的评价人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.classroomAssignmentMsg": {
+    "message": "进入教室后选择课程节次指派给已勾选的评价人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.enterYourNameJobNumber": {
+    "message": "请输入姓名/工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.supervisionClassification": {
+    "message": "督导组分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.outsideExpert": {
+    "message": "校外专家督导组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectAssignmentType": {
+    "message": "选择指派类型",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.batchAssignment": {
+    "message": "批量指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.reviewerName": {
+    "message": "评价人姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.evaluatorId": {
+    "message": "评价人身份",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.reviewerID": {
+    "message": "评价人工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.classDate": {
+    "message": "上课日期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignTime": {
+    "message": "指派时间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignedSource": {
+    "message": "指派来源",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appointor": {
+    "message": "指派者",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.owningGroup": {
+    "message": "所属督导组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseEvaluation": {
+    "message": "评课范围",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appraisedTeacher": {
+    "message": "被评教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseFaculty": {
+    "message": "课程院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.pleaseInput": {
+    "message": "请输入",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseSession": {
+    "message": "课程节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endAssignment": {
+    "message": "结束指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endLastAssignment": {
+    "message": "结束上次指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.clickEndPrompt": {
+    "message": "完成指派节次后，请点击“结束指派”！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignSessionsBatches": {
+    "message": "批量指派节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.courseNumber": {
+    "message": "课程编号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectSegment": {
+    "message": "选择节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.selectClassSegment": {
+    "message": "选择教室节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSession": {
+    "message": "是否确定指派节次？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSessionBatch": {
+    "message": "是否确定批量指派节次？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAssignSessionBatchClass": {
+    "message": "是否确定批量指派已勾选教学班下的全部节次？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherWithdrawRecord": {
+    "message": "是否确定撤回该条指派记录？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.whetherAllWithdrawRecord": {
+    "message": "是否确定撤回全部指派记录？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.retractionRecord": {
+    "message": "撤回指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.retractionAllRecord": {
+    "message": "撤回全部指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSession": {
+    "message": "指派节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.definitiveWithdrawal": {
+    "message": "确定撤回",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyWithdrawn": {
+    "message": "已成功撤回指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyWithdrawnSection": {
+    "message": "已成功撤回指派节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.successfullyAllWithdrawn": {
+    "message": "已成功撤回全部指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSessionBatch": {
+    "message": "批量指派节次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.definitiveAssignment": {
+    "message": "确定指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSuccess": {
+    "message": "指派成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSingleSuccess": {
+    "message": "指派成功，是否继续指派该教室的节次？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentMultipleleSuccess": {
+    "message": "批量指派成功，是否继续指派该教室的节次？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.startTips": {
+    "message": "开启本次指派前，请先结束上次指派任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endAssignmentTips": {
+    "message": "已结束上次指派记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.furtherAssignment": {
+    "message": "继续指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentError": {
+    "message": "指派失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentSuccessBatch": {
+    "message": "批量指派成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.assignmentErrorBatch": {
+    "message": "批量指派失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.appraiser": {
+    "message": "评价人",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.teaName": {
+    "message": "教师姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.beenAssigned": {
+    "message": "已指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.endDesignate": {
+    "message": "已结束指派",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.withdrawn": {
+    "message": "已撤回",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.withdrawAll": {
+    "message": "撤回全部",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.isWithdrawAll": {
+    "message": "已撤回全部",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.returnUpperLevel": {
+    "message": "返回上一级",
+    "description": "smart-classroom-admin 项目"
+  },
+  "assignedListening.pleaseCheck": {
+    "message": "请勾选",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.pictureEvaluation": {
+    "message": "图片评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.screenshotAnnotation": {
+    "message": "截图批注",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.selectScreenshot": {
+    "message": "选择截图",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.inputComments": {
+    "message": "请输入评语，不超过{num}字",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.upCross": {
+    "message": "上传中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.uploadPictures": {
+    "message": "请上传图片!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.revisionEvaluation": {
+    "message": "修改评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.lossPictureQuality": {
+    "message": "该文件画质受损，请选择其他文件",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.basicMenuSettingsForRole": {
+    "message": "{role}基础菜单设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.rename": {
+    "message": "重命名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.show": {
+    "message": "显示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.hide": {
+    "message": "隐藏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.PC": {
+    "message": "PC端",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.mobile": {
+    "message": "移动端",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.language": {
+    "message": "多语言",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.menuTitleTips": {
+    "message": "不能超过{n}个字符",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.roleMenuSettings": {
+    "message": "{role}功能设置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.checkedMenuTip": {
+    "message": "至少保留1个菜单",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.hideMenuTip": {
+    "message": "该菜单不能被隐藏",
+    "description": "smart-classroom-admin 项目"
+  },
+  "menuSettings.deleteUserTip": {
+    "message": "该角色下有用户，删除该用户将失去该角色，确定删除？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.appraisalTask": {
+    "message": "评教任务",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teaResearchGroup": {
+    "message": "教研组管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.leadershipEvaluation": {
+    "message": "领导评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.PeerReview": {
+    "message": "同行评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.studentEvaluationTeaching": {
+    "message": "学生评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.teacherEducationManagement": {
+    "message": "评教量表管理",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.liveEnd": {
+    "message": "本节课已结束",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.nextClass": {
+    "message": "下一节",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchGroup": {
+    "message": "教研组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.personnel": {
+    "message": "人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchRoom": {
+    "message": "教研室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingResearchRoom": {
+    "message": "添加教研组",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.nameResearchRoom": {
+    "message": "请输入教研组名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingResearchInstitute": {
+    "message": "请选择教研组所属院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teacherAcademy": {
+    "message": "请选择教师院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.selectedTeacher": {
+    "message": "已选教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.scopeTeaching": {
+    "message": "评教范围",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.noLimit": {
+    "message": "不限制",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.allFaculty": {
+    "message": "学院里的所有教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.groupTea": {
+    "message": "同教研组的其他教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.studentElectiveTea": {
+    "message": "学生选修课程的老师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.viewScore": {
+    "message": "评教时可以查看选项分值",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.classificationTeachingTasks": {
+    "message": "评教任务分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.addTeachingTasks": {
+    "message": "添加评教任务分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.keepAnswering": {
+    "message": "继续作答",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluate": {
+    "message": "评价",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.courseTaught": {
+    "message": "所授课程",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluatorDepartment": {
+    "message": "评价人院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.beRatedTea": {
+    "message": "被评教师学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationGrading": {
+    "message": "校级管理员评价全校，院级管理员评价本学院",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationLearningNumber": {
+    "message": "评价人学号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaGroupNotEmpty": {
+    "message": "教研组名称不为空！",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teaTaskRemoveTip": {
+    "message": "如果此评教任务下产生了评价记录，删除评教任务会同步将评价记录删除。确定删除吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.enterTeaName": {
+    "message": "请输入教师姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.deleteScalePrompt": {
+    "message": "当前评价表已存在记录，修改评价表会清除之前的记录，确定修改？",
     "description": "smart-classroom-admin 项目"
   }
 }

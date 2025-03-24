@@ -7726,5 +7726,217 @@
   "uploaderLoadingTip": {
     "message": "Mengunggah, jangan tutup halaman saat ini",
     "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "Setelah mengikat kursus Google Classroom, tugas dan materi kursus akan ditampilkan di sini. Anda dapat memilih sinkronisasi otomatis atau sinkronisasi manual saat mengikat, dan sumber daya yang disinkronkan akan ditampilkan di halaman \"Tugas\" dan \"Sumber Daya\" UniAcademy.",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "Anda belum mengikat kursus Google Classroom, silakan masuk ke akun Google Anda untuk mengikat",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "Pilih kursus yang ingin Anda ikat",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "Masukkan nama kursus untuk dicari",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "Kursus tidak ditemukan",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*Anda belum memiliki kursus di Google Classroom, silakan buat kursus terlebih dahulu,",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "Konten UATRY dan Google Classroom akan secara otomatis disinkronkan ke platform masing-masing",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "Anda dapat menyinkronkan konten secara manual:",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "Buka halaman kursus UA > siapkan > \"Google Classroom\" atau buka halaman kursus UA> halaman \"Sumber daya\" dan \"Tugas\" untuk menyinkronkan, atau centang \"Sinkronkan ke Google Classroom\" saat memublikasikan",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "Anda telah menautkan Google Classroom:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "Sinkronisasi data historis telah selesai! {n} bagian konten berhasil disinkronkan",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": ", {n} bagian konten gagal disinkronkan karena masalah jaringan",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "Masalah jaringan menyebabkan sinkronisasi data historis gagal!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "Jika ada konflik data, pilih metode pentimpaan data untuk melanjutkan sinkronisasi",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "{n} bagian konten berhasil disinkronkan",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "Login ke Google",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "Sinkronisasi otomatis",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "Sinkronisasi manual",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "mengikat",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "Gagal mengikat",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "Melepas pasangan",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "Gagal melepaskan",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "Tidak menyinkronkan",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "Disinkronkan",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "Silakan masukkan kata kunci untuk mencari",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "Sinkronisasi batch",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "Tidak sinkronisasi batch",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "Sinkronisasi data historis sekali klik",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "Sinkronkan ke U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "Sinkron",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "Membatalkan sinkronisasi",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "Itu tidak disinkronkan untuk saat ini",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "Data sedang disinkronkan untuk Anda",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "Coba lagi",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "Menimpa data lama",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "mengabaikan",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "Berhasil sinkronisasi",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "Sinkronisasi gagal",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "Unsinkronisasi berhasil",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "Gagal membatalkan sinkronisasi",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "Sinkronisasi batch berhasil",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "Sinkronisasi batch gagal",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "Pembatalan sinkronisasi batch berhasil",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "Pembatalan sinkronisasi batch gagal",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "Kelas Google",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Mengunggah, jangan tutup halaman saat ini",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "Data",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Tugas",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "Klik untuk membuka Classroom Create",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Data lama yang telah disinkronkan setelah melepas pengikatan akan dipertahankan, dan data baru tidak akan lagi disinkronkan",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Konfirmasikan pelepasan ikatan",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Catatan pembelajaran SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "Belum selesai",
+    "description": "2.0 course.js"
   }
 }
