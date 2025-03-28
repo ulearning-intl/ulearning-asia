@@ -1670,5 +1670,177 @@
   "other": {
     "message": "其他",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "智能体广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "添加目录模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "添加内页模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "请输入DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "DeepSeek-R1每日量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT生成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "请输入PPT生成总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "PPT生成总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "次/天",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "输入关键词搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "共享到智能体广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "全部智能体广场权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "智能体广场权限状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "智能体广场权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "智能体广场权限按机构开通，不支持按单个用户开通。\n开通后，当前机构用户可将创建的AI助手共享到智能体广场进行展示。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "资源内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "添加切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "保存",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "请输入内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "暂无资源切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "请先保存切片内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "静音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "取消静音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "暂停",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "转码中，请稍后查看",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "访问该网址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "该文件不支持在线预览",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "课程团队",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "课程简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "上传尚未完成，是否取消上传？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "取消上传",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "继续上传",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "正在上传{count}项",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "发布到智能广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "已发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "未发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "设置失败",
+    "description": "aiAssistantManagezh.json"
   }
 }
