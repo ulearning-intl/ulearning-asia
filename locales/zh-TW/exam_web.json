@@ -99,12 +99,8 @@
     "message": "考試有效期",
     "description": "考试快捷地址"
   },
-  "openApp": {
-    "message": "前往【優學院2.0】APP參加考試",
-    "description": "考试快捷地址"
-  },
   "downloadApp": {
-    "message": "下載【優學院2.0】APP",
+    "message": "下載【優學院】APP",
     "description": "考试快捷地址"
   },
   "pc": {
@@ -147,10 +143,6 @@
     "message": "{n}分鐘",
     "description": "考试快捷地址"
   },
-  "allowedTimes": {
-    "message": "允許答題次數",
-    "description": "考试快捷地址"
-  },
   "notLimit": {
     "message": "不限制",
     "description": "考试快捷地址"
@@ -161,10 +153,6 @@
   },
   "score": {
     "message": "{n}分",
-    "description": "考试快捷地址"
-  },
-  "usedTimes": {
-    "message": "已用答題次數",
     "description": "考试快捷地址"
   },
   "examTime": {
@@ -379,10 +367,6 @@
     "message": "已結束",
     "description": "考试快捷地址"
   },
-  "joinTypes": {
-    "message": "電腦網頁端 / 手機APP / 電腦鎖屏客戶端",
-    "description": "考试快捷地址"
-  },
   "resultsNotAnnounce": {
     "message": "本次考試不公佈成績",
     "description": "考试快捷地址"
@@ -439,10 +423,6 @@
     "message": "如果需要通過手機APP/鎖屏客戶端參加考試，請使用U-Test帳號登錄。 你的用戶名為：{loginName}，初始密碼與用戶名一致。",
     "description": "考试快捷地址"
   },
-  "ltiTip2": {
-    "message": "通過手機APP/鎖屏用戶端參加考試，請使用U-Test帳號登錄。 你的用戶名為：{loginName}，初始密碼與用戶名一致。 登錄后在帳號管理中可以修改密碼或完善個人資訊。",
-    "description": "考试快捷地址"
-  },
   "toUpdatePsd": {
     "message": "去修改密碼",
     "description": "考试快捷地址"
@@ -452,7 +432,7 @@
     "description": "考试快捷地址"
   },
   "accountTipContent": {
-    "message": "歡迎使用優學院考試系統。 我們已為你註冊優學院帳號，如果你需要使用手機參加考試，請先下載【優學院2.0】APP，並使用優學院帳號登錄。",
+    "message": "歡迎使用優學院考試系統。 我們已為你註冊優學院帳號，如果你需要使用手機參加考試，請先下載【優學院】APP，並使用優學院帳號登錄。",
     "description": "考试快捷地址"
   },
   "userInfo": {
@@ -476,11 +456,11 @@
     "description": "考试快捷地址"
   },
   "openAppTip": {
-    "message": "如果沒有成功啟動【優學院2.0】APP，請確認是否已安裝。 如果還沒有安裝，請先下載並安裝。",
+    "message": "如果沒有成功啟動【優學院】APP，請確認是否已安裝。 如果還沒有安裝，請先下載並安裝。",
     "description": "考试快捷地址"
   },
   "openAppBtn": {
-    "message": "啟動【優學院2.0】APP",
+    "message": "啟動【優學院】APP",
     "description": "考试快捷地址"
   },
   "save": {
@@ -769,10 +749,6 @@
   },
   "referenceAnswer": {
     "message": "參考答案",
-    "description": "考试快捷地址"
-  },
-  "examUploadTip": {
-    "message": "選擇檔時，系統將暫時退出全屏狀態，請在30秒內完成選擇附件的操作並返回考試介面，然後點擊頁面任意空白位置回到全屏狀態，否則系統會將本次操作記錄為離開考試。",
     "description": "考试快捷地址"
   },
   "uploadFailTip": {
@@ -1275,10 +1251,6 @@
     "message": "網路異常，試卷提交失敗！",
     "description": "考试快捷地址"
   },
-  "networkErrorTip1": {
-    "message": "系統已將答題記錄暫存在本地，請勿離開或關閉頁面，稍後再次嘗試手動提交。",
-    "description": "考试快捷地址"
-  },
   "leftTimeTip": {
     "message": "時間已不足1分鐘",
     "description": "考试快捷地址"
@@ -1613,10 +1585,6 @@
   },
   "importBank": {
     "message": "匯出題庫",
-    "description": "考试快捷地址"
-  },
-  "importBankOverNum": {
-    "message": "題目匯出數量超出上限。",
     "description": "考试快捷地址"
   },
   "importLoadMsg": {
@@ -2235,10 +2203,6 @@
     "message": "下一題",
     "description": "考试快捷地址"
   },
-  "finallyQue": {
-    "message": "已經到底了",
-    "description": "考试快捷地址"
-  },
   "quitExam": {
     "message": "退出考試",
     "description": "考试快捷地址"
@@ -2307,10 +2271,6 @@
     "message": "連結已過期",
     "description": "考试快捷地址"
   },
-  "selectImg": {
-    "message": "從相冊選擇",
-    "description": "考试快捷地址"
-  },
   "selectFile": {
     "message": "選擇文件",
     "description": "考试快捷地址"
@@ -2341,10 +2301,6 @@
   },
   "codeUploadTip2": {
     "message": "每次最多上傳{num}個檔",
-    "description": "考试快捷地址"
-  },
-  "codeUploadTip3": {
-    "message": "手機端上傳檔大小不能超過{size}",
     "description": "考试快捷地址"
   },
   "codeUploadTip4": {
@@ -2399,10 +2355,6 @@
     "message": "考試移動監控台",
     "description": "考试快捷地址"
   },
-  "codeInvalid": {
-    "message": "驗證碼已失效",
-    "description": "考试快捷地址"
-  },
   "answerTimeLimit": {
     "message": "答題限時",
     "description": "考试快捷地址"
@@ -2437,10 +2389,6 @@
   },
   "notSubmitted": {
     "message": "未提交",
-    "description": "考试快捷地址"
-  },
-  "examViewTip": {
-    "message": "請從電腦端查看和批閱試卷",
     "description": "考试快捷地址"
   },
   "selectBatch": {
@@ -2571,10 +2519,6 @@
     "message": "系統自動補交",
     "description": "考试快捷地址"
   },
-  "commitExamTip4": {
-    "message": "答題時間用盡，系統自動收卷",
-    "description": "考试快捷地址"
-  },
   "signinCode": {
     "message": "考試簽到碼",
     "description": "考试快捷地址"
@@ -2592,7 +2536,7 @@
     "description": "考试快捷地址"
   },
   "signinCodeTip": {
-    "message": "1. 請登錄【優學院2.0】APP 掃碼簽到。 {br} 2. 簽到后，請使用簽到的設備進入考試答題，中途不能更換設備，特殊情況請向監考老師索取驗證碼更換。",
+    "message": "1. 請登錄【優學院】APP 掃碼簽到。 {br} 2. 簽到后，請使用簽到的設備進入考試答題，中途不能更換設備，特殊情況請向監考老師索取驗證碼更換。",
     "description": "考试快捷地址"
   },
   "examVerificationCode": {
@@ -2759,10 +2703,6 @@
     "message": "已答人數",
     "description": "考试快捷地址"
   },
-  "averageAnsweredNum": {
-    "message": "平均答題次數",
-    "description": "考试快捷地址"
-  },
   "firstAccuracy": {
     "message": "首次正確率",
     "description": "考试快捷地址"
@@ -2865,10 +2805,6 @@
   },
   "questionDeleteFail": {
     "message": "題目移除失敗",
-    "description": "考试快捷地址"
-  },
-  "noQuestionTip": {
-    "message": "暫無題目",
     "description": "考试快捷地址"
   },
   "trainPageTip": {
@@ -2983,10 +2919,6 @@
     "message": "輸入內容",
     "description": "考试快捷地址"
   },
-  "roate": {
-    "message": "旋轉",
-    "description": "考试快捷地址"
-  },
   "showDetail": {
     "message": "查看詳情",
     "description": "考试快捷地址"
@@ -3067,36 +2999,12 @@
     "message": "平均提交次數",
     "description": "考试快捷地址"
   },
-  "selectFileByCamera": {
-    "message": "拍照",
-    "description": "考试快捷地址"
-  },
   "ps": {
     "message": "{n}條/頁",
     "description": "考试快捷地址"
   },
   "openLockScreenError": {
     "message": "未檢測到鎖屏用戶端，請先確認是否已正確安裝。 如果已安裝仍然無法啟動，可以嘗試卸載后重新安裝最新版本。",
-    "description": "考试快捷地址"
-  },
-  "changeLastTime1": {
-    "message": "上次修改時間",
-    "description": "考试快捷地址"
-  },
-  "enteredExamTip2": {
-    "message": "如果確定沒有同時打開多個答題頁面，或已經關閉其他頁面，仍然出現此提示，請先{closeBrowser}，然後重新進入考試。",
-    "description": "考试快捷地址"
-  },
-  "closeBrowser": {
-    "message": "關閉瀏覽器",
-    "description": "考试快捷地址"
-  },
-  "enteredExamTip3": {
-    "message": "如遇其他異常情況，也可以向教師索取驗證碼，使用驗證碼進入考試。",
-    "description": "考试快捷地址"
-  },
-  "banks": {
-    "message": "試卷/題庫",
     "description": "考试快捷地址"
   },
   "paperBank": {
@@ -3131,6 +3039,182 @@
     "message": "自動組卷",
     "description": "考试快捷地址"
   },
+  "name": {
+    "message": "名稱",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "封存",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "解封",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "擁有者",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "全部學院",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "學院",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "試卷數量",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "移動到",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "試卷已經在考試中使用過，不能刪除。",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "刪除試卷",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "刪除資料夾",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "重新加載",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "身份驗證",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "電子郵件",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "圖形驗證碼",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "再次輸入",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "試卷",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "統計",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "來源",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "舊版入口",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "內測",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "前往【優學院】APP參加考試",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "允許答題次數",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "已用答題次數",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "電腦網頁端 / 手機APP / 電腦鎖屏客戶端",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "通過手機APP/鎖屏用戶端參加考試，請使用U-Test帳號登錄。 你的用戶名為：{loginName}，初始密碼與用戶名一致。 登錄后在帳號管理中可以修改密碼或完善個人資訊。",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "選擇檔時，系統將暫時退出全屏狀態，請在30秒內完成選擇附件的操作並返回考試介面，然後點擊頁面任意空白位置回到全屏狀態，否則系統會將本次操作記錄為離開考試。",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "系統已將答題記錄暫存在本地，請勿離開或關閉頁面，稍後再次嘗試手動提交。",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "題目匯出數量超出上限。",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "上次修改時間",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "已經到底了",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "從相冊選擇",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "手機端上傳檔大小不能超過{size}",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "驗證碼已失效",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "請從電腦端查看和批閱試卷",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "答題時間用盡，系統自動收卷",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "平均答題次數",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "暫無題目",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip2": {
+    "message": "如果確定沒有同時打開多個答題頁面，或已經關閉其他頁面，仍然出現此提示，請先{closeBrowser}，然後重新進入考試。",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "關閉瀏覽器",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "如遇其他異常情況，也可以向教師索取驗證碼，使用驗證碼進入考試。",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "旋轉",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "拍照",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "試卷/題庫",
+    "description": "考试快捷地址"
+  },
   "searchPaper": {
     "message": "搜索資料夾/試卷",
     "description": "考试快捷地址"
@@ -3143,20 +3227,8 @@
     "message": "更新時間",
     "description": "考试快捷地址"
   },
-  "name": {
-    "message": "名稱",
-    "description": "考试快捷地址"
-  },
   "shareFolder": {
     "message": "共用資料夾",
-    "description": "考试快捷地址"
-  },
-  "lock": {
-    "message": "封存",
-    "description": "考试快捷地址"
-  },
-  "unLock": {
-    "message": "解封",
     "description": "考试快捷地址"
   },
   "inputFolderTip": {
@@ -3223,24 +3295,12 @@
     "message": "添加成員",
     "description": "考试快捷地址"
   },
-  "owner": {
-    "message": "擁有者",
-    "description": "考试快捷地址"
-  },
-  "allCollege": {
-    "message": "全部學院",
-    "description": "考试快捷地址"
-  },
   "searchTeachers": {
     "message": "搜索教師",
     "description": "考试快捷地址"
   },
   "jobNumber": {
     "message": "工號",
-    "description": "考试快捷地址"
-  },
-  "college": {
-    "message": "學院",
     "description": "考试快捷地址"
   },
   "removeMember": {
@@ -3263,24 +3323,12 @@
     "message": "創建時間",
     "description": "考试快捷地址"
   },
-  "paperNum": {
-    "message": "試卷數量",
-    "description": "考试快捷地址"
-  },
-  "moveTo": {
-    "message": "移動到",
-    "description": "考试快捷地址"
-  },
   "moveTip": {
     "message": "移動的物件包含其他人創建的試卷或資料夾，僅支援在當前共用資料夾內部移動。",
     "description": "考试快捷地址"
   },
   "questionMoveTip": {
     "message": "移動的物件包含其他人創建的題目或資料夾，僅支援在當前共用資料夾內部移動。",
-    "description": "考试快捷地址"
-  },
-  "deletePaperTip": {
-    "message": "試卷已經在考試中使用過，不能刪除。",
     "description": "考试快捷地址"
   },
   "deletePaperTip1": {
@@ -3293,14 +3341,6 @@
   },
   "deletePaperTip3": {
     "message": "{name}不存在",
-    "description": "考试快捷地址"
-  },
-  "deletePaper": {
-    "message": "刪除試卷",
-    "description": "考试快捷地址"
-  },
-  "deleteFolder": {
-    "message": "刪除資料夾",
     "description": "考试快捷地址"
   },
   "deleteFolderIntro1": {
@@ -3359,10 +3399,6 @@
     "message": "網路異常，請點擊{reload}",
     "description": "考试快捷地址"
   },
-  "reload": {
-    "message": "重新加載",
-    "description": "考试快捷地址"
-  },
   "copySuccess2": {
     "message": "復制成功",
     "description": "考试快捷地址"
@@ -3403,24 +3439,12 @@
     "message": "忘記密碼",
     "description": "考试快捷地址"
   },
-  "authentication": {
-    "message": "身份驗證",
-    "description": "考试快捷地址"
-  },
   "authenticationMethods": {
     "message": "驗證方式",
     "description": "考试快捷地址"
   },
   "mobileSMS": {
     "message": "手機簡訊",
-    "description": "考试快捷地址"
-  },
-  "email": {
-    "message": "電子郵件",
-    "description": "考试快捷地址"
-  },
-  "captcha": {
-    "message": "圖形驗證碼",
     "description": "考试快捷地址"
   },
   "emailCaptcha": {
@@ -3461,10 +3485,6 @@
   },
   "deleteLockPw": {
     "message": "刪除封存密碼",
-    "description": "考试快捷地址"
-  },
-  "inputAgain": {
-    "message": "再次輸入",
     "description": "考试快捷地址"
   },
   "setLockPwTip": {
@@ -3519,10 +3539,6 @@
     "message": "請再次輸入密碼",
     "description": "考试快捷地址"
   },
-  "paper": {
-    "message": "試卷",
-    "description": "考试快捷地址"
-  },
   "teamsMaxCount": {
     "message": "最多添加{n}個成員",
     "description": "考试快捷地址"
@@ -3551,10 +3567,6 @@
     "message": "全部試卷",
     "description": "考试快捷地址"
   },
-  "statistics": {
-    "message": "統計",
-    "description": "考试快捷地址"
-  },
   "bankSortTypes[0]": {
     "message": "默認排序",
     "description": "考试快捷地址"
@@ -3573,10 +3585,6 @@
   },
   "searchBank": {
     "message": "搜索題庫",
-    "description": "考试快捷地址"
-  },
-  "from": {
-    "message": "來源",
     "description": "考试快捷地址"
   },
   "questionNums": {
@@ -3633,10 +3641,6 @@
   },
   "paperUpdateDesc": {
     "message": "原【本校試卷】和【共用試卷】功能已下線，教師團隊共用試卷請使用【我的試卷】中的【共享資料夾】。",
-    "description": "考试快捷地址"
-  },
-  "link": {
-    "message": "舊版入口",
     "description": "考试快捷地址"
   },
   "questionUpdateDesc": {
@@ -3797,10 +3801,6 @@
   },
   "AIQuestionTip": {
     "message": "產生題目，請稍候...",
-    "description": "考试快捷地址"
-  },
-  "beta": {
-    "message": "內測",
     "description": "考试快捷地址"
   },
   "maxCountTip": {
