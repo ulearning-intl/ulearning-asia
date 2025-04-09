@@ -127,10 +127,6 @@
     "message": "結束活動",
     "description": "小应用"
   },
-  "restartActivity": {
-    "message": "再次開啟活動",
-    "description": "小应用"
-  },
   "saving": {
     "message": "保存中",
     "description": "小应用"
@@ -895,10 +891,6 @@
     "message": "為保證活動的有效性，活動參與班級和評分規則不能修改。 ",
     "description": "小应用"
   },
-  "score.tips": {
-    "message": "選學生/小組做課堂展示，其他同學為他們打分",
-    "description": "小应用"
-  },
   "score.activityTypeTips1": {
     "message": "發起後，在活動界面添加學生。其他學生為選中的學生進行打分評價。",
     "description": "小应用"
@@ -909,18 +901,6 @@
   },
   "score.activityTypeTips3": {
     "message": "請在課堂上為學生指定需要評價的對象。 ",
-    "description": "小应用"
-  },
-  "score.pleaseAddStu": {
-    "message": "請添加學生",
-    "description": "小应用"
-  },
-  "score.pleaseAddGroup": {
-    "message": "請添加小組",
-    "description": "小应用"
-  },
-  "score.pleaseAddObject": {
-    "message": "請添加評價對象",
     "description": "小应用"
   },
   "score.noEndEvaluation": {
@@ -957,10 +937,6 @@
   },
   "score.allStuEvaluated": {
     "message": "學生已全部評價",
-    "description": "小应用"
-  },
-  "score.member": {
-    "message": "成員",
     "description": "小应用"
   },
   "score.groupMember": {
@@ -1011,16 +987,8 @@
     "message": "無已結束的打分",
     "description": "小应用"
   },
-  "score.pleaseMarkTips": {
-    "message": "請打分，滿分100分",
-    "description": "小应用"
-  },
   "score.markPlaceholder": {
     "message": "請輸入分數",
-    "description": "小应用"
-  },
-  "score.maxTips": {
-    "message": "分數不能超過100分",
     "description": "小应用"
   },
   "score.markByItem": {
@@ -1065,10 +1033,6 @@
   },
   "score.confirmDeleteGroup": {
     "message": "确定删除当前小组？",
-    "description": "小应用"
-  },
-  "score.confirmDeleteObj": {
-    "message": "确定删除当前评价对象？",
     "description": "小应用"
   },
   "score.evaluatingStudents": {
@@ -1147,16 +1111,8 @@
     "message": "簽到方式",
     "description": "小应用"
   },
-  "attendance.screenTips": {
-    "message": "“二維碼簽到”需開啟投屏，在大屏幕上展示簽到二維碼。",
-    "description": "小应用"
-  },
   "attendance.screenTipsNew": {
     "message": "“二維碼簽到”需開啟投屏，在大螢幕上展示簽到二維碼。 學生僅能使用手機掃碼簽到。",
-    "description": "小应用"
-  },
-  "attendance.locationTips": {
-    "message": "\"位置簽到\"需開啟定位。 由於4G網路基站和網路穩定情況的影響，位置數據會有一定的誤差。",
     "description": "小应用"
   },
   "attendance.locationTipsNew": {
@@ -1343,24 +1299,8 @@
     "message": "妳距離老師太遠啦！如果妳在教室裏，可以嘗試切換不同的網絡後重新簽到。如果多次嘗試後仍然定位不準確，請告知老師，由老師手動更改妳的簽到狀態。",
     "description": "小应用"
   },
-  "attendance.mobilePluginTips1": {
-    "message": "請允許優學院使用定位服務，允許後重試",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips2": {
-    "message": "請在手機系統的設定中開啟定位服務，並允許優學院使用定位服務",
-    "description": "小应用"
-  },
   "attendance.mobilePluginTips3": {
     "message": "定位服務不穩定，無法獲取你的位置資訊，你可以稍後重試",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips4": {
-    "message": "相册許可權未打開",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips5": {
-    "message": "請打開手機許可權",
     "description": "小应用"
   },
   "attendance.numCodeFresh": {
@@ -1433,10 +1373,6 @@
   },
   "attendance.teaEnter": {
     "message": "無位置，教師錄入",
-    "description": "小应用"
-  },
-  "announcement.title": {
-    "message": "公告",
     "description": "小应用"
   },
   "announcement.publish": {
@@ -1559,10 +1495,6 @@
     "message": "不支持此類型的文件",
     "description": "小应用"
   },
-  "upload.maxFileCount2": {
-    "message": "最多上傳{count}個附件",
-    "description": "小应用"
-  },
   "upload.video1GLimit": {
     "message": "視頻不能超過1G",
     "description": "小应用"
@@ -1575,10 +1507,6 @@
     "message": "發起搶答",
     "description": "小应用"
   },
-  "answer.contentPlaceholder": {
-    "message": "請輸入搶答內容，非必填",
-    "description": "小应用"
-  },
   "answer.participantsCount": {
     "message": "參與人數",
     "description": "小应用"
@@ -1589,10 +1517,6 @@
   },
   "answer.classroomAnswer": {
     "message": "課堂搶答",
-    "description": "小应用"
-  },
-  "answer.deleteConfirm": {
-    "message": "確定刪除本條課堂搶答？ ",
     "description": "小应用"
   },
   "answer.backConfirm": {
@@ -1749,10 +1673,6 @@
   },
   "answer.commonScore": {
     "message": "统一打分",
-    "description": "小应用"
-  },
-  "answer.endAnswer": {
-    "message": "结束抢答",
     "description": "小应用"
   },
   "answer.confirmDeleteAnswer": {
@@ -1989,10 +1909,6 @@
   },
   "class.assessmentClass": {
     "message": "考核班級",
-    "description": "小应用"
-  },
-  "class.moveOut": {
-    "message": "移出",
     "description": "小应用"
   },
   "class.count": {
@@ -2283,10 +2199,6 @@
     "message": "全勤為滿分，缺勤一次扣",
     "description": "小应用"
   },
-  "class.newStrategyScoreItemTips34": {
-    "message": "分，遲到/早退/病假/事假扣",
-    "description": "小应用"
-  },
   "class.newStrategyScoreItemTips35": {
     "message": "分，扣完為止",
     "description": "小应用"
@@ -2345,14 +2257,6 @@
   },
   "resource.detail": {
     "message": "資源詳情",
-    "description": "小应用"
-  },
-  "resource.studentData": {
-    "message": "學生統計",
-    "description": "小应用"
-  },
-  "resource.delete": {
-    "message": "刪除資源",
     "description": "小应用"
   },
   "resource.deleteNoAccess": {
@@ -2421,10 +2325,6 @@
   },
   "resource.fromAlbum": {
     "message": "從本機選擇",
-    "description": "小应用"
-  },
-  "resource.writtenWordsCount": {
-    "message": "已寫{count}個字",
     "description": "小应用"
   },
   "resource.written": {
@@ -2759,16 +2659,12 @@
     "message": "教師邀請你加入班課",
     "description": "小应用"
   },
-  "course.shareSummary": {
-    "message": "請加入班課{courseName}，任課教師{teacherName}",
-    "description": "小应用"
-  },
   "course.qrCode": {
     "message": "班課二維碼",
     "description": "小应用"
   },
   "course.qrCodeJoin": {
-    "message": "請使用優學院2.0APP掃碼加入班課",
+    "message": "請使用優學院APP掃碼加入班課",
     "description": "小应用"
   },
   "course.creator": {
@@ -2975,10 +2871,6 @@
     "message": "學校/機构",
     "description": "小应用"
   },
-  "user.select": {
-    "message": "請選擇",
-    "description": "小应用"
-  },
   "user.notOpen": {
     "message": "不開放註冊",
     "description": "小应用"
@@ -2993,10 +2885,6 @@
   },
   "user.studentIdTip": {
     "message": "請輸入學號/工號",
-    "description": "小应用"
-  },
-  "user.studentId1": {
-    "message": "非在校學生或教師可不填",
     "description": "小应用"
   },
   "user.inputOrgTip1": {
@@ -3103,10 +2991,6 @@
     "message": "郵箱未注册",
     "description": "小应用"
   },
-  "user.getSuccess": {
-    "message": "獲取成功",
-    "description": "小应用"
-  },
   "user.getFail": {
     "message": "獲取失敗",
     "description": "小应用"
@@ -3211,10 +3095,6 @@
     "message": "選擇國家/地區",
     "description": "小应用"
   },
-  "user.ULearningAccount": {
-    "message": "優學院帳號",
-    "description": "小应用"
-  },
   "user.inputUserNameTip1": {
     "message": "用戶名 / 手機號 / 郵箱",
     "description": "小应用"
@@ -3245,10 +3125,6 @@
   },
   "user.userNameUsed": {
     "message": "用戶已存在",
-    "description": "小应用"
-  },
-  "user.registerFail": {
-    "message": "注册失敗",
     "description": "小应用"
   },
   "user.resgisterSuccess": {
@@ -3455,10 +3331,6 @@
     "message": "复制课堂活动到其他班级",
     "description": "小应用"
   },
-  "classroom.copyTip": {
-    "message": "复制后活动为未开始状态，您可以在上课后开始这些活动，点名/选人活动不能被复制",
-    "description": "小应用"
-  },
   "classroom.copyTip1": {
     "message": "複製課堂后，投票和搶答等活動為未開始狀態，您可以在上課后開始這些活動",
     "description": "小应用"
@@ -3581,10 +3453,6 @@
   },
   "classroom.closeSuccess": {
     "message": "关闭成功",
-    "description": "小应用"
-  },
-  "classroom.confirmEndPick": {
-    "message": "确定结束选人吗？",
     "description": "小应用"
   },
   "classroom.actunstart": {
@@ -3923,10 +3791,6 @@
     "message": "允許登錄",
     "description": "小应用"
   },
-  "loginCode.screenCode": {
-    "message": "掃碼投屏",
-    "description": "小应用"
-  },
   "loginCode.msg1": {
     "message": "正在其它設備終端登錄",
     "description": "小应用"
@@ -4147,18 +4011,6 @@
     "message": "分享成功",
     "description": "小应用"
   },
-  "photograph.msg1": {
-    "message": "按照教師要求上傳照片，最多上傳20張圖片",
-    "description": "小应用"
-  },
-  "photograph.msg2": {
-    "message": "其他同學提交的圖片",
-    "description": "小应用"
-  },
-  "photograph.msg3": {
-    "message": "我提交的圖片",
-    "description": "小应用"
-  },
   "photograph.msg4": {
     "message": "活動已結束",
     "description": "小应用"
@@ -4173,18 +4025,6 @@
   },
   "photograph.msg7": {
     "message": "最多上傳20張",
-    "description": "小应用"
-  },
-  "photograph.msg8": {
-    "message": "確定刪除？ ",
-    "description": "小应用"
-  },
-  "photograph.msg9": {
-    "message": "學生上傳圖片進行課堂展示",
-    "description": "小应用"
-  },
-  "photograph.msg10": {
-    "message": "學生提交后可以查看其他學生的圖片",
     "description": "小应用"
   },
   "photograph.msg11": {
@@ -4367,10 +4207,6 @@
     "message": "確定結束本次討論嗎",
     "description": "小应用"
   },
-  "discuss.beginning": {
-    "message": "正在開始討論",
-    "description": "小应用"
-  },
   "uploadError": {
     "message": "失敗",
     "description": "小应用"
@@ -4419,10 +4255,6 @@
     "message": "我們已經向 {email} 發送了一封電子郵件。 請檢查您的收件匣並按照說明重置密碼。",
     "description": "小应用"
   },
-  "user.pwd6": {
-    "message": "發送了一封電子郵件。 請檢查您的收件匣並按照說明重置密碼。",
-    "description": "小应用"
-  },
   "user.pwd7": {
     "message": "返回到",
     "description": "小应用"
@@ -4437,14 +4269,6 @@
   },
   "user.pwd10": {
     "message": "郵件位址不存在，請重新輸入",
-    "description": "小应用"
-  },
-  "user.pwd11": {
-    "message": "賬號處於待激活狀態",
-    "description": "小应用"
-  },
-  "user.pwd12": {
-    "message": "帳號被停用",
     "description": "小应用"
   },
   "user.pwd13": {
@@ -4523,10 +4347,6 @@
     "message": "教師評分所佔比重",
     "description": "小应用"
   },
-  "score.teacherWeightTip": {
-    "message": "請輸入0-100的整數",
-    "description": "小应用"
-  },
   "score.scoreTip": {
     "message": "{n}人評價，平均分{score}",
     "description": "小应用"
@@ -4569,14 +4389,6 @@
   },
   "score.fullmarks": {
     "message": "滿分",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip": {
-    "message": "滿分不能為空",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "請輸入有效的分值",
     "description": "小应用"
   },
   "score.scoreSettings": {
@@ -4677,14 +4489,6 @@
   },
   "remind.repeatRemindTips": {
     "message": "同一資源每天只能發送一次提醒。 今天已經提醒過了，明天再試吧~",
-    "description": "小应用"
-  },
-  "user.websitHomepage": {
-    "message": "網站首頁",
-    "description": "小应用"
-  },
-  "user.contactCustomerService": {
-    "message": "聯繫客服",
     "description": "小应用"
   },
   "user.bindTips": {
@@ -4843,14 +4647,6 @@
     "message": "你的答案：",
     "description": "小应用"
   },
-  "answerQue.correct": {
-    "message": "正確",
-    "description": "小应用"
-  },
-  "answerQue.error": {
-    "message": "錯誤",
-    "description": "小应用"
-  },
   "answerQue.viewStudentList": {
     "message": "查看學生清單",
     "description": "小应用"
@@ -4867,20 +4663,12 @@
     "message": "進入拍照上傳活動",
     "description": "小应用"
   },
-  "classroom.discussDetails": {
-    "message": "進討論詳情",
-    "description": "小应用"
-  },
   "classroom.reverseOrder": {
     "message": "倒序",
     "description": "小应用"
   },
   "classroom.positiveOrder": {
     "message": "正序",
-    "description": "小应用"
-  },
-  "loginCode.tip10": {
-    "message": "大屏端登錄后即可進行聯動授課",
     "description": "小应用"
   },
   "loginCode.tip11": {
@@ -4993,10 +4781,6 @@
   },
   "stuList.yourAnswer": {
     "message": "你的答案",
-    "description": "小应用"
-  },
-  "stuList.notJoin": {
-    "message": "未參加",
     "description": "小应用"
   },
   "stuList.notChoose": {
