@@ -3340,7 +3340,7 @@
     "description": "UA"
   },
   "scanMode2Tip": {
-    "message": "需登錄【優學院】或【優學院】APP掃碼學習，可保存學習記錄",
+    "message": "需登入【優學院】或【優學院2.0】APP掃碼學習，可保存學習記錄",
     "description": "UA"
   },
   "codeTip": {
@@ -4177,6 +4177,10 @@
   },
   "backToManageCenter": {
     "message": "返回管理中心",
+    "description": "UA"
+  },
+  "scormErrorTip": {
+    "message": "SCORM僅支持1.2和2004版本",
     "description": "UA"
   }
 }
