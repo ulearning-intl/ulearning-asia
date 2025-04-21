@@ -1578,5 +1578,177 @@
   "deepseek": {
     "message": "DeepSeek-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "การเรียนรู้   ",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "คงแก่เรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "ลบทั้งส่วน คุณแน่ใจหรือว่าต้องการลบ?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "คุณแน่ใจหรือไม่ว่าคุณแน่ใจว่าจะลบประเด็นหลักและเนื้อหาหลักของประเด็นหลัก?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "ชื่อเรื่องต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "ชื่อเรื่องห้ามเว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "รายการแค็ตตาล็อกต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "เนื้อหาต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "กรุณากรอกหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "กรุณาป้อนคําบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "เสร็จสิ้น",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "แสดงตัวอย่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "อย่าลังเลที่จะแลกเปลี่ยนเนื้อหาของ {name} คุณอาจต้องการถาม:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "สร้าง   ",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "ตัวอย่าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT กําลังถูกสร้างขึ้น...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "ชื่อบทต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "ชื่อของหน้าภายในต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "ชื่อหัวข้อย่อยต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "เนื้อหาสัญลักษณ์แสดงหัวข้อย่อยต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT กําลังถูกสร้างขึ้น...<br/><br/>คุณสามารถปิดหน้าต่างป๊อปอัปและดูผลลัพธ์การสร้างในภายหลังในประวัติของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "สร้างอย่างชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "ไม่จําเป็นต้องกังวลเกี่ยวกับการสอนบทเรียน และการสร้างอัจฉริยะจะช่วยแก้ปัญหาความกังวลได้",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "การเลือกเทมเพลต",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "สามารถเลือกเทมเพลต PPT ได้ตามต้องการ และการนําเสนอที่สร้างสรรค์ก็ไม่ใช่เรื่องยาก",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "การประยุกต์ใช้การสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "ชั้นเรียนบทเรียนจะถูกส่งได้ด้วยคลิกเดียว และการเชื่อมต่อการสอนเป็นไปอย่างราบรื่น",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "ตัวแทนสแควร์",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "ที่เก็บโมเดล",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "ที่ฉันสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "คอลเลกชันของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "ศูนย์นักพัฒนา",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "ไปที่ สร้างตัวแทน",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "ไม่มีข้อมูลชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "ตัวแทนของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "การปรับแต่งโมเดลอย่างละเอียด",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "คําอธิบายการเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "ยังไม่มีรายการโปรด",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "ไปที่ Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "ตัวแทนที่ยังไม่ได้สร้าง",
+    "description": "aiAssistantzh.json"
   }
 }

@@ -1,0 +1,1754 @@
+{
+  "lang": {
+    "message": "ru",
+    "description": "aiAssistantzh.json"
+  },
+  "AIHelp": {
+    "message": "ИИ-помощник",
+    "description": "aiAssistantzh.json"
+  },
+  "AITools": {
+    "message": "Инструменты искусственного интеллекта",
+    "description": "aiAssistantzh.json"
+  },
+  "login": {
+    "message": "войти",
+    "description": "aiAssistantzh.json"
+  },
+  "logOut": {
+    "message": "Выйти из системы",
+    "description": "aiAssistantzh.json"
+  },
+  "All": {
+    "message": "все",
+    "description": "aiAssistantzh.json"
+  },
+  "enterUsername": {
+    "message": "Введите имя пользователя",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPassword": {
+    "message": "Введите пароль",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip": {
+    "message": "Неправильное имя пользователя/пароль",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip1": {
+    "message": "Пользователь не найден",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip2": {
+    "message": "Сбой при входе в систему",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip3": {
+    "message": "Вы сделали ошибку пять раз, пожалуйста, попробуйте еще раз три минуты спустя.",
+    "description": "aiAssistantzh.json"
+  },
+  "userInfoExpired": {
+    "message": "Срок действия информации о пользователе истек",
+    "description": "aiAssistantzh.json"
+  },
+  "hello": {
+    "message": "Здравствуйте, я помощник с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "desc": {
+    "message": "Как ваш интеллектуальный помощник с искусственным интеллектом, я могу поддержать интеллектуальные вопросы и ответы, рекомендации по ресурсам, вопросы по искусственному интеллекту и т. д.",
+    "description": "aiAssistantzh.json"
+  },
+  "AIAsk": {
+    "message": "Интеллектуальные вопросы и ответы",
+    "description": "aiAssistantzh.json"
+  },
+  "guessTip": {
+    "message": "Предположим, вы хотите спросить:",
+    "description": "aiAssistantzh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Вы можете задать мне вопросы после входа в систему",
+    "description": "aiAssistantzh.json"
+  },
+  "askInputTip": {
+    "message": "Пожалуйста, введите Ваш вопрос",
+    "description": "aiAssistantzh.json"
+  },
+  "resultIntro": {
+    "message": "Приведенный выше контент создан искусственным интеллектом и предназначен только для справки",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Рекомендации по ресурсам",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip": {
+    "message": "Обширная библиотека ресурсов, точные рекомендации по ресурсам",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestion": {
+    "message": "Автоматическая генерация вопросов с помощью искусственного интеллекта",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestionTip": {
+    "message": "Эффективный и интеллектуальный опрос для повышения эффективности преподавания",
+    "description": "aiAssistantzh.json"
+  },
+  "CommandCenter": {
+    "message": "Командный центр",
+    "description": "aiAssistantzh.json"
+  },
+  "selectInstruction": {
+    "message": "Пожалуйста, выберите команду",
+    "description": "aiAssistantzh.json"
+  },
+  "newDialogue": {
+    "message": "Создание новой беседы",
+    "description": "aiAssistantzh.json"
+  },
+  "history": {
+    "message": "История",
+    "description": "aiAssistantzh.json"
+  },
+  "thinking": {
+    "message": "Мыслящий...",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeSource": {
+    "message": "Источники знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "answerAgain": {
+    "message": "Повторный ответ",
+    "description": "aiAssistantzh.json"
+  },
+  "send": {
+    "message": "опубликовать",
+    "description": "aiAssistantzh.json"
+  },
+  "copy": {
+    "message": "Копировать",
+    "description": "aiAssistantzh.json"
+  },
+  "copySuccess": {
+    "message": "Скопировано успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "copyFail": {
+    "message": "Копировать неудача",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceInputPlaceholder": {
+    "message": "Какие ресурсы вам нужно порекомендовать? Назовите ключевые слова",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip2": {
+    "message": "Вам рекомендуются следующие учебные ресурсы:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeBatch": {
+    "message": "Обновить",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTip": {
+    "message": "Сгенерируйте для себя следующие вопросы:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionInputPlaceholder": {
+    "message": "Какие вопросы вам нужно придумать? Назовите ключевые слова",
+    "description": "aiAssistantzh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantzh.json"
+  },
+  "nationalWebsite": {
+    "message": "Государственная платформа образовательных госуслуг",
+    "description": "aiAssistantzh.json"
+  },
+  "generating": {
+    "message": "Видео в стадии генерации...",
+    "description": "aiAssistantzh.json"
+  },
+  "contentInputTip": {
+    "message": "Отправленное содержимое не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "requestTip": {
+    "message": "Система занята, пожалуйста, повторите попытку позже",
+    "description": "aiAssistantzh.json"
+  },
+  "questionType": {
+    "message": "Тип вопроса",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice": {
+    "message": "вопрос с выбором одного варианта ответа",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice": {
+    "message": "Множественного выбора",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse": {
+    "message": "Заявление истинности или ложности",
+    "description": "aiAssistantzh.json"
+  },
+  "fillBlank": {
+    "message": "заполнение пробела",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNums": {
+    "message": "Количество вопросов",
+    "description": "aiAssistantzh.json"
+  },
+  "notFountAI": {
+    "message": "Текущий помощник с искусственным интеллектом не найден",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermission": {
+    "message": "В настоящее время нет разрешения на его использование",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistoryData": {
+    "message": "Истории нет",
+    "description": "aiAssistantzh.json"
+  },
+  "noResource": {
+    "message": "В настоящее время нет рекомендуемых ресурсов",
+    "description": "aiAssistantzh.json"
+  },
+  "requestFail": {
+    "message": "Запрос не выполнен",
+    "description": "aiAssistantzh.json"
+  },
+  "noMore": {
+    "message": "Больше нет",
+    "description": "aiAssistantzh.json"
+  },
+  "loginTip": {
+    "message": "Войдите в систему",
+    "description": "aiAssistantzh.json"
+  },
+  "fromRepository": {
+    "message": "Из библиотеки ресурсов:",
+    "description": "aiAssistantzh.json"
+  },
+  "fromCourse": {
+    "message": "Из курса:",
+    "description": "aiAssistantzh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Большая библиотека идеологических и политических ресурсов",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceKeys": {
+    "message": "Рекомендации по ресурсам",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeys": {
+    "message": "Вопросы AI: {type}, {num} вопросы,",
+    "description": "aiAssistantzh.json"
+  },
+  "noContent": {
+    "message": "Пока нет результатов, пожалуйста, измените ключевое слово",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage1": {
+    "message": "вопросы Обязательное для заполнения",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage2": {
+    "message": "Менее двух вариантов",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage3": {
+    "message": "Варианты Не превышать 20 шт.",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage4": {
+    "message": "Правильный ответ Обязательное для заполнения",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage5": {
+    "message": "Контент поля «Правильный ответ» не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage6": {
+    "message": "заполнить содержание вопроса или удалить ненужный вариант",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage7": {
+    "message": "Количество правильных ответов не может превышать количество вариантов",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage8": {
+    "message": "Правильный ответ не должен содержать невариантных элементов",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage9": {
+    "message": "Правильный ответ содержит дубликаты",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage10": {
+    "message": "Контент эталона ответа не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage11": {
+    "message": "Количество правильных ответов не должно быть меньше количества пустых",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage12": {
+    "message": "Добавить не более 20 вопросов с заполняемым полем",
+    "description": "aiAssistantzh.json"
+  },
+  "quesOrder": {
+    "message": "Вопрос {n},",
+    "description": "aiAssistantzh.json"
+  },
+  "correct": {
+    "message": "правильный",
+    "description": "aiAssistantzh.json"
+  },
+  "incorrect": {
+    "message": "неправильный",
+    "description": "aiAssistantzh.json"
+  },
+  "answer": {
+    "message": "Ответ",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisTit": {
+    "message": "Здесь заполните парсинг, если нет, не заполняйте",
+    "description": "aiAssistantzh.json"
+  },
+  "loginInfoInvalid": {
+    "message": "Данные для входа в систему больше не действительны",
+    "description": "aiAssistantzh.json"
+  },
+  "createTip": {
+    "message": "Переключились на последнюю сессию",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceFrom": {
+    "message": "Ресурс из {type}:",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType1": {
+    "message": "Загрузка с локального компьютера",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType2": {
+    "message": "Курс",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType3": {
+    "message": "Граф знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "systemSession": {
+    "message": "Системный сеанс",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTip": {
+    "message": "В зависимости от уровня владения знаниями, возможно, вам понадобятся следующие ресурсы, связанные со знаниями:",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTipTea": {
+    "message": "Согласно графу знаний, предположите, что вам могут понадобиться следующие ресурсы, связанные со знаниями:",
+    "description": "aiAssistantzh.json"
+  },
+  "homework": {
+    "message": "Домашняя работа",
+    "description": "aiAssistantzh.json"
+  },
+  "utest": {
+    "message": "Экзамен",
+    "description": "aiAssistantzh.json"
+  },
+  "ua": {
+    "message": "учебный материал",
+    "description": "aiAssistantzh.json"
+  },
+  "noRemindData": {
+    "message": "Системных сессий пока нет",
+    "description": "aiAssistantzh.json"
+  },
+  "isTalking": {
+    "message": "Определение",
+    "description": "aiAssistantzh.json"
+  },
+  "noText": {
+    "message": "Текст не распознан",
+    "description": "aiAssistantzh.json"
+  },
+  "end": {
+    "message": "Ну вот",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermissionTip": {
+    "message": "Пожалуйста, включите разрешения на запись",
+    "description": "aiAssistantzh.json"
+  },
+  "startRecorder": {
+    "message": "Запись включена",
+    "description": "aiAssistantzh.json"
+  },
+  "audioInputOverTimes": {
+    "message": "Если вам необходимо увеличить лимит голосового ввода, обратитесь к своему администратору",
+    "description": "aiAssistantzh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "Если вам необходимо увеличить верхний предел голосовой трансляции, обратитесь к администратору",
+    "description": "aiAssistantzh.json"
+  },
+  "AiWorkbench": {
+    "message": "Верстак с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentify": {
+    "message": "Распознавание формул",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysis": {
+    "message": "Видеоаналитика",
+    "description": "aiAssistantzh.json"
+  },
+  "docReading": {
+    "message": "Чтение документов",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSet": {
+    "message": "настройки",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarking": {
+    "message": "Интеллектуальная оценка",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingDesc": {
+    "message": "Автоматическая оценка субъективных вопросов в заданиях и экзаменах.",
+    "description": "aiAssistantzh.json"
+  },
+  "workQueTitle": {
+    "message": "Оцениваемые задания/вопросы",
+    "description": "aiAssistantzh.json"
+  },
+  "reselect": {
+    "message": "Выбрать тему снова",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQue": {
+    "message": "Выберите задание/тему",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint": {
+    "message": "Примечание: Интеллектуальная оценка применима только к индивидуальным заданиям, оцениваемым преподавателем, и викторинам/экзаменам с короткими ответами, а оценка AI ограничена текстовым содержимым и не поддерживает оценку нетекстового содержимого, такого как вложения и изображения, отправленные учащимися.",
+    "description": "aiAssistantzh.json"
+  },
+  "personalHomework": {
+    "message": "индивидуальное задание",
+    "description": "aiAssistantzh.json"
+  },
+  "allTeachers": {
+    "message": "Все учителя",
+    "description": "aiAssistantzh.json"
+  },
+  "inputHomeworkName": {
+    "message": "Введите название задания для поиска",
+    "description": "aiAssistantzh.json"
+  },
+  "publisher": {
+    "message": "Издателя:",
+    "description": "aiAssistantzh.json"
+  },
+  "pendingReview": {
+    "message": "Для пометки:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentPeerReview": {
+    "message": "Задания взаимного оценивания не поддерживают интеллектуальное оценивание",
+    "description": "aiAssistantzh.json"
+  },
+  "systemScoring": {
+    "message": "Задания взаимного оценивания не поддерживают интеллектуальное оценивание",
+    "description": "aiAssistantzh.json"
+  },
+  "noData": {
+    "message": "пока нет данных",
+    "description": "aiAssistantzh.json"
+  },
+  "test": {
+    "message": "Тест",
+    "description": "aiAssistantzh.json"
+  },
+  "exam": {
+    "message": "Экзамен",
+    "description": "aiAssistantzh.json"
+  },
+  "scoring": {
+    "message": "В рейтинге...",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringCompleted": {
+    "message": "Сортировка завершена",
+    "description": "aiAssistantzh.json"
+  },
+  "loading": {
+    "message": "Загрузка...",
+    "description": "aiAssistantzh.json"
+  },
+  "source": {
+    "message": "Источник:",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswer": {
+    "message": "Вопрос с кратким ответом",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreUnit": {
+    "message": "делить",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirement": {
+    "message": "Тема/Требования",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirementTip": {
+    "message": "Для того, чтобы повысить точность интеллектуального выставления оценок, вы можете спросить содержание вопроса/домашнего задания<br/>Произведите тонкую настройку. Корректировка действует только на текущее содержимое коррекции и не повлияет на исходное<br/>Исходное содержание темы/задания.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirement": {
+    "message": "Пожалуйста, введите вопрос/требование",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswer": {
+    "message": "Эталон ответа",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswerTip": {
+    "message": "Чтобы повысить точность интеллектуального оценивания, вы можете настроить возможность установки базовых параметров<br/>Ответы оцениваются, а содержание ответов можно настроить вручную. Только настройка<br/>Он вступит в силу с текущим содержанием исправления и не повлияет на исходное содержание ответа.",
+    "description": "aiAssistantzh.json"
+  },
+  "useAsScoringBasis": {
+    "message": "Как основа для скоринга",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswer": {
+    "message": "Введите эталон ответа",
+    "description": "aiAssistantzh.json"
+  },
+  "fullScore": {
+    "message": "Полные оценки:",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringRules": {
+    "message": "Система оценивания",
+    "description": "aiAssistantzh.json"
+  },
+  "editRules": {
+    "message": "Редактирование правила",
+    "description": "aiAssistantzh.json"
+  },
+  "selectTemplate": {
+    "message": "Выбрать шаблон",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItem": {
+    "message": "Критерий оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetrics": {
+    "message": "критерии оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreValue": {
+    "message": "балл",
+    "description": "aiAssistantzh.json"
+  },
+  "totalScore": {
+    "message": "Итоговая оценка",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringScale": {
+    "message": "Шкала оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "strict": {
+    "message": "строгий",
+    "description": "aiAssistantzh.json"
+  },
+  "moderate": {
+    "message": "умеренный",
+    "description": "aiAssistantzh.json"
+  },
+  "lenient": {
+    "message": "слабый",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentComment": {
+    "message": "Умные отзывы",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled": {
+    "message": "включить",
+    "description": "aiAssistantzh.json"
+  },
+  "disabled": {
+    "message": "Закрывать",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled1": {
+    "message": "Включен",
+    "description": "aiAssistantzh.json"
+  },
+  "deactivated": {
+    "message": "Деактивация",
+    "description": "aiAssistantzh.json"
+  },
+  "encouraging": {
+    "message": "ободрять",
+    "description": "aiAssistantzh.json"
+  },
+  "gentle": {
+    "message": "Легкая",
+    "description": "aiAssistantzh.json"
+  },
+  "serious": {
+    "message": "серьёзный",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTest": {
+    "message": "Оцените тест",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoring": {
+    "message": "Начать оценивание",
+    "description": "aiAssistantzh.json"
+  },
+  "system": {
+    "message": "система",
+    "description": "aiAssistantzh.json"
+  },
+  "cancel": {
+    "message": "Отменить",
+    "description": "aiAssistantzh.json"
+  },
+  "useThisTemplate": {
+    "message": "Использовать этот шаблон",
+    "description": "aiAssistantzh.json"
+  },
+  "addScoringItem": {
+    "message": "Добавление элемента оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScore": {
+    "message": "Остаточная оценка",
+    "description": "aiAssistantzh.json"
+  },
+  "delete": {
+    "message": "удалить",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringItem": {
+    "message": "Пожалуйста, введите элемент оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "metric": {
+    "message": "Индикатор",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringMetric": {
+    "message": "Введите оценивание",
+    "description": "aiAssistantzh.json"
+  },
+  "score": {
+    "message": "балл",
+    "description": "aiAssistantzh.json"
+  },
+  "addMetric": {
+    "message": "Добавление метрик",
+    "description": "aiAssistantzh.json"
+  },
+  "confirm": {
+    "message": "Подтвердите",
+    "description": "aiAssistantzh.json"
+  },
+  "noIntelligentMarkingData": {
+    "message": "Данных для интеллектуальной коррекции в настоящее время нет",
+    "description": "aiAssistantzh.json"
+  },
+  "randomPaper": {
+    "message": "Экзамены с произвольным формированием бумаги не поддерживают интеллектуальную оценку",
+    "description": "aiAssistantzh.json"
+  },
+  "allPapers": {
+    "message": "Все экзамены",
+    "description": "aiAssistantzh.json"
+  },
+  "inputQuizName": {
+    "message": "Введите название теста для поиска",
+    "description": "aiAssistantzh.json"
+  },
+  "inputExamName": {
+    "message": "Введите поиск по названию экзамена",
+    "description": "aiAssistantzh.json"
+  },
+  "selectHomework": {
+    "message": "Пожалуйста, выберите задание",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestion": {
+    "message": "Пожалуйста, выберите тему",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTestHint": {
+    "message": "Примечание: Результаты оцениваемого теста не будут сохранены, и вы можете начать оценивание, если подтвердите, что результаты оценивания соответствуют вашим ожиданиям.",
+    "description": "aiAssistantzh.json"
+  },
+  "question": {
+    "message": "Тема:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnswer": {
+    "message": "ответы учащихся",
+    "description": "aiAssistantzh.json"
+  },
+  "enterStudentAnswer": {
+    "message": "Пожалуйста, введите ответ студента",
+    "description": "aiAssistantzh.json"
+  },
+  "aiScore": {
+    "message": "Оценка с помощью ИИ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgress": {
+    "message": "В рейтинге...",
+    "description": "aiAssistantzh.json"
+  },
+  "reScoring": {
+    "message": "пересмотреть оценку",
+    "description": "aiAssistantzh.json"
+  },
+  "next": {
+    "message": "Следующий",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQueError": {
+    "message": "Пожалуйста, выберите тему/задание для оценки",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirementError": {
+    "message": "Пожалуйста, введите вопрос/требование",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswerError": {
+    "message": "Введите эталон ответа",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoringHint": {
+    "message": "После начала выставления оценок система интеллектуально исправит отправленные учеником ответы в соответствии с установленными вами правилами выставления оценок (это не повлияет на изменение балла ученика, которое уже утвердил преподаватель).<br/>Уверены, что начнете оценивать?",
+    "description": "aiAssistantzh.json"
+  },
+  "iKnow": {
+    "message": "Я знаю",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgressHint": {
+    "message": " В разделе «Рейтинг»...<br/><br/>Процесс подсчета очков может занять много времени, вы можете закрыть всплывающее окно, и система продолжит подсчет очков в фоновом режиме.",
+    "description": "aiAssistantzh.json"
+  },
+  "useSuccess": {
+    "message": "Успешное использование",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScoreError": {
+    "message": "Сумма баллов по всем показателям подсчета баллов должна быть равна полному баллу.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError": {
+    "message": "Количество слов в элементе оценки {индекс} должно быть от 2 до 500 слов",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError1": {
+    "message": "Количество слов в {subIndex} элемента оценки {index} должно быть от 2 до 500 слов",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetricsAndScoreError": {
+    "message": "Индекс и значение балла индикатора {subIndex} элемента балла {index} не могут быть пустыми",
+    "description": "aiAssistantzh.json"
+  },
+  "maxScoringItemError": {
+    "message": "В правило подсчета очков можно добавить не более 10 предметов для подсчета очков",
+    "description": "aiAssistantzh.json"
+  },
+  "maxMetricError": {
+    "message": "К элементу рейтинга можно добавить не более 10 показателей рейтинга.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNumberError": {
+    "message": "Баллы могут быть только числовыми",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNegativeError": {
+    "message": "Счет не может быть меньше 0",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreDecimalError": {
+    "message": "Точки могут быть только с одним знаком после запятой",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpen": {
+    "message": "неактивный",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAI": {
+    "message": "Управление моим помощником с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchDescription": {
+    "message": "Универсальное приложение для обучения с искусственным интеллектом, простая подготовка к урокам и эффективное обучение",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchAdminTip": {
+    "message": "AI Workbench должен быть открыт администратором курса",
+    "description": "aiAssistantzh.json"
+  },
+  "openAIWorkbench": {
+    "message": "Включите верстак с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "viewExample": {
+    "message": "Посмотреть пример",
+    "description": "aiAssistantzh.json"
+  },
+  "essayQuestions": {
+    "message": "Рассуждение",
+    "description": "aiAssistantzh.json"
+  },
+  "shortQuestions": {
+    "message": "Вопрос с кратким ответом",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiAssistant": {
+    "message": "Помощники с искусственным интеллектом еще не добавлены",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantTeacherAdd": {
+    "message": "Помощник с искусственным интеллектом должен быть добавлен преподавателем",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantAdminManage": {
+    "message": "Администраторы курса могут управлять помощниками с искусственным интеллектом, связанными с курсом, в меню «Настройки»",
+    "description": "aiAssistantzh.json"
+  },
+  "goToSettings": {
+    "message": "В настройки",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSetDescription": {
+    "message": "Настройте помощников ИИ, инструменты ИИ и базу знаний, связанные с AI Workbench.",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbench": {
+    "message": "Выключите верстак AI",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbenchConfirm": {
+    "message": "После выключения AI Workbench его можно включить снова. Вы уверены, что он закрыт?",
+    "description": "aiAssistantzh.json"
+  },
+  "repository": {
+    "message": "база знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "addAiAssistant": {
+    "message": "Помощники с искусственным интеллектом еще не добавлены",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAiAssistant": {
+    "message": "Управление моим помощником с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "permission": {
+    "message": "право",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyTeacher": {
+    "message": "Доступно только для преподавателей",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyStudent": {
+    "message": "Доступно только для студентов",
+    "description": "aiAssistantzh.json"
+  },
+  "teacherAndStudent": {
+    "message": "Доступно для преподавателей и студентов",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteConfirm": {
+    "message": "Подтвердите удаление?",
+    "description": "aiAssistantzh.json"
+  },
+  "hint": {
+    "message": "подсказка",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySuccess": {
+    "message": "Изменено успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "addSuccess": {
+    "message": "Добавлено успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistant": {
+    "message": "Выберите AI Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "createdByMe": {
+    "message": "Мой созданный",
+    "description": "aiAssistantzh.json"
+  },
+  "sharedBySchool": {
+    "message": "Совместно используется школой",
+    "description": "aiAssistantzh.json"
+  },
+  "search": {
+    "message": "поиск",
+    "description": "aiAssistantzh.json"
+  },
+  "creator": {
+    "message": "автор",
+    "description": "aiAssistantzh.json"
+  },
+  "maxAiAssistant": {
+    "message": "В каждый курс можно добавить не более 10 помощников с искусственным интеллектом",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistantError": {
+    "message": "Пожалуйста, выберите AI Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "status": {
+    "message": "состояние",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySettings": {
+    "message": "Изменение настроек",
+    "description": "aiAssistantzh.json"
+  },
+  "saveSettings": {
+    "message": "сохранить настройки",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiToolsEnabled": {
+    "message": "Инструмент искусственного интеллекта еще не включен",
+    "description": "aiAssistantzh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Добавьте базу знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyKnowledgeBase": {
+    "message": "Управление моей базой знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "удалить",
+    "description": "aiAssistantzh.json"
+  },
+  "noKnowledgeBase": {
+    "message": "База знаний еще не добавлена",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Выберите базу знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBaseError": {
+    "message": "Пожалуйста, выберите базу знаний",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadTitle": {
+    "message": "Загрузка файлов",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadDescription": {
+    "message": "Пожалуйста, загрузите свои документы",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadHint": {
+    "message": "Загрузка с локального компьютера",
+    "description": "aiAssistantzh.json"
+  },
+  "selectResource": {
+    "message": "Выбрать ресурсы",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoHere": {
+    "message": "Перетащите видео сюда, чтобы загрузить его",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimit": {
+    "message": "Количество анализируемых видео (5) на сегодня было исчерпано, поэтому, пожалуйста, используйте его снова завтра.",
+    "description": "aiAssistantzh.json"
+  },
+  "videoFormatError": {
+    "message": "Поддерживаются только видеоформаты.",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatError": {
+    "message": "Документы доступны только в форматах doc, docx и pdf.",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeError": {
+    "message": "Максимальный размер файла не может превышать 512 Мб.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadSuccess": {
+    "message": "Загружено успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFail": {
+    "message": "Ошибка загрузки",
+    "description": "aiAssistantzh.json"
+  },
+  "selectDocument": {
+    "message": "Выберите документ",
+    "description": "aiAssistantzh.json"
+  },
+  "myResource": {
+    "message": "Мои ресурсы",
+    "description": "aiAssistantzh.json"
+  },
+  "courseResource": {
+    "message": "учебные материалы",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourses": {
+    "message": "Все курсы",
+    "description": "aiAssistantzh.json"
+  },
+  "documentName": {
+    "message": "Название статьи",
+    "description": "aiAssistantzh.json"
+  },
+  "videoName": {
+    "message": "Название видео",
+    "description": "aiAssistantzh.json"
+  },
+  "size": {
+    "message": "Размер",
+    "description": "aiAssistantzh.json"
+  },
+  "historyRecord": {
+    "message": "История",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitle": {
+    "message": "Чтение документов",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitleText": {
+    "message": "Автоматически создавайте облако слов на загруженных документах и общайтесь на основе содержимого документа.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDragText": {
+    "message": "Перетащите документ сюда,",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingFormat": {
+    "message": "Поддерживаются только форматы Word и PDF",
+    "description": "aiAssistantzh.json"
+  },
+  "docUploadLoading": {
+    "message": "Документ загружается...",
+    "description": "aiAssistantzh.json"
+  },
+  "docLearningLoading": {
+    "message": "Документ находится на проработке",
+    "description": "aiAssistantzh.json"
+  },
+  "reUpload": {
+    "message": "Загрузить снова",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDialogue": {
+    "message": "Умные разговоры",
+    "description": "aiAssistantzh.json"
+  },
+  "wordCloud": {
+    "message": "облако слов",
+    "description": "aiAssistantzh.json"
+  },
+  "document": {
+    "message": "Документ",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognition": {
+    "message": "Распознавание формул",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognitionDesc": {
+    "message": "Автоматически определяйте различные тематические формулы на изображениях и преобразуйте их в редактируемые формулы LateX.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImage": {
+    "message": "Загрузить изображение",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionResult": {
+    "message": "Определите результаты",
+    "description": "aiAssistantzh.json"
+  },
+  "quickCopy": {
+    "message": "Быстрая репликация",
+    "description": "aiAssistantzh.json"
+  },
+  "recognizing": {
+    "message": "Определение...",
+    "description": "aiAssistantzh.json"
+  },
+  "noContentRecognized": {
+    "message": "Контент не распознан, пожалуйста, загрузите его снова",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaPreview": {
+    "message": "Предварительный просмотр формулы",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatError": {
+    "message": "Изображения можно использовать только в форматах PNG, JPG и JPEG.",
+    "description": "aiAssistantzh.json"
+  },
+  "imageSizeError": {
+    "message": "Максимальный размер файла не может превышать 512 Мб.",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionLimitExceeded": {
+    "message": "Количество времени распознавания изображений исчерпано, обратитесь за помощью в службу поддержки клиентов.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToUpload": {
+    "message": "Нажмите Загрузить",
+    "description": "aiAssistantzh.json"
+  },
+  "dragImageHere": {
+    "message": "Перетащите изображение сюда",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatSupport": {
+    "message": "Поддерживаются только форматы PNG, JPG и JPEG",
+    "description": "aiAssistantzh.json"
+  },
+  "videoUsageTips": {
+    "message": "Советы по применению:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoDailyLimit": {
+    "message": "Количество видео, которые можно проанализировать в день, равно 5",
+    "description": "aiAssistantzh.json"
+  },
+  "videoHistoryRecord": {
+    "message": "История",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisTitle": {
+    "message": "Видеоаналитика",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisDesc": {
+    "message": "Автоматически создавайте краткие описания клипов, субтитры и облака слов для загруженных видео.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoText": {
+    "message": "Перетащите видео сюда,",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleVideoName": {
+    "message": "Пример видео .mp4",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadingVideo": {
+    "message": "Видео выкладывает...",
+    "description": "aiAssistantzh.json"
+  },
+  "browserNotSupport": {
+    "message": "Ваш браузер не поддерживает тег video.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSummary": {
+    "message": "Резюме AI",
+    "description": "aiAssistantzh.json"
+  },
+  "fragmentSummary": {
+    "message": "Краткое содержание сниппета",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitles": {
+    "message": "субтитры",
+    "description": "aiAssistantzh.json"
+  },
+  "timeline": {
+    "message": "Хронология",
+    "description": "aiAssistantzh.json"
+  },
+  "transcripts": {
+    "message": "Стенограмма",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleSrt": {
+    "message": "Субтитры SRT",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleDoc": {
+    "message": "Субтитры doc",
+    "description": "aiAssistantzh.json"
+  },
+  "transcriptsDoc": {
+    "message": "Verbatim doc",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimitTip": {
+    "message": "Количество анализируемых видео (5) на сегодня было исчерпано, поэтому, пожалуйста, используйте его снова завтра.",
+    "description": "aiAssistantzh.json"
+  },
+  "unsupportedFormat": {
+    "message": "Неподдерживаемые форматы файлов",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimitTip": {
+    "message": "Максимальный размер файла не может превышать 512 Мб.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopic": {
+    "message": "Темы",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopicMetrics": {
+    "message": "Согласно анализу содержания материала и требований вопроса, содержание ответов студентов имеет четкую тему, близко следует центральной идее материала, а аргументы точны, что полностью соответствует требованиям темы.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructure": {
+    "message": "Структурная логика",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructureMetrics": {
+    "message": "Логическая структура ответов учащихся ясна, строга, а иерархия ясна.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguage": {
+    "message": "Языковое выражение",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguageMetrics": {
+    "message": "Студенты должны четко и свободно владеть языком, с правильной грамматикой и соответствующими формулировками, а количество слов должно соответствовать требованиям.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContent": {
+    "message": "Полнота и точность контента",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContentMetrics": {
+    "message": "Ответы студентов были исчерпывающими и точными, охватывающими все моменты, необходимые для вопроса.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerAccuracyMetrics": {
+    "message": "Мнения, факты или цифры точны и не истолкованы неправильно.",
+    "description": "aiAssistantzh.json"
+  },
+  "or": {
+    "message": "или",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Извлечение ресурсов",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "Генерация PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "Тема:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "Повторное создание контура",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "Создание PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "Создается контур",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "Выберите шаблон PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "Пожалуйста, выберите шаблон PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "Скачать PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "Сборка удалась",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "Сгенерировать неудачу",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "Ознакомьтесь с планом",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "Удаление прошло успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "Добавление глав",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "Добавьте внутреннюю страницу",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "Добавление маркированных пунктов",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "Можно добавить до 8 узлов",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "Вы можете добавить до 8 страниц",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "Вы можете добавить до 8 пунктов списка",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "Пожалуйста, введите название раздела",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "Пожалуйста, введите подзаголовок главы",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "Пожалуйста, введите заголовок для внутренней страницы",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "Пожалуйста, введите подзаголовок для внутренней страницы",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "Пожалуйста, введите заголовок маркированного списка",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "Пожалуйста, укажите основные моменты",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "Спасибо за просмотр",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "Интеллектуальный поиск высококачественных учебных ресурсов внутри и за пределами сайта.",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "Область поиска",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "Возвращение",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "История поиска:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "Пожалуйста, введите ключевое слово ресурса, которое вы ищете",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Пожалуйста, сначала введите поисковый запрос",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "Пожалуйста, сначала выберите область поиска",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "Ресурсы нашего учебного заведения",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "Библиотека ресурсных материалов по идеологическим и политическим курсам Народного университета",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "История поиска:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "Терминологический анализ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "Интеллектуальное извлечение данных",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "Завершить",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "видео",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "Изображение",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "аудио",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "Ссылка",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "Публикация на курс",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "Название курса:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "Выбрать все",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "Область публикации ресурсов:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "Мой классный коллектив",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "Все классы курса (доступно только для администраторов курса)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "Выберите курс",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "Опубликовано успешно",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "Ответы ИИ",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "Автор:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "Сводка:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "ключевые слова:",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "Билибили",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "Рекомендуется для вас",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "Ресурсы нашего учебного заведения",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "Библиотека ресурсных материалов по идеологическим и политическим курсам Народного университета",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "Количество использованных материалов на сегодня: {использовано}/{всего}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT можно использовать для генерации {count} раз в день",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "Автоматическая генерация PPT на основе темы",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "Пожалуйста, введите название темы PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "Создание плана",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "Рекомендуемые темы",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "Поменяйте его местами",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "Вы израсходовали количество использований ({count}) на сегодня, поэтому, пожалуйста, используйте их снова завтра.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "Пожалуйста, введите название темы PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "Введите название темы длиной более 20 символов",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "Заголовок",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "каталог",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "Пожалуйста, войдите в каталог",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "Добавить оглавление",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "раздел",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "Внутренние страницы",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "Тысяча вопросов в общем смысле",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "Булочки с фасолью",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "Технология DeepSeek-R1",
+    "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "Учение...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "Учёный",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "Удалите весь раздел, вы уверены, что хотите его удалить?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "Вы уверены, что наверняка удалите основные пункты и основную часть основных пунктов?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "Название заголовка не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "Заголовок не должен быть Пустой",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "Записи в каталоге не могут быть пустыми",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "Контент не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "Введите заголовок",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "Пожалуйста, введите подзаголовок",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "завершить",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "Предварительный просмотр",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "Скачать",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "Не стесняйтесь обмениваться содержимым {name}, вы можете спросить:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "Порождающий...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "Предварительный просмотр PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "сгенерирован",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT генерируется...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "Название главы не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "Заголовок внутренней страницы не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "Заголовок маркированного списка не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "Содержимое маркированного списка не может быть пустым",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT генерируется...<br/><br/>Вы можете закрыть всплывающее окно и просмотреть результаты сборки позже в своей истории.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "Создавайте умные",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "Нет необходимости беспокоиться об обучении курсовому программному обеспечению, а интеллектуальное поколение решает проблемы",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "Выбор шаблона",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "Шаблоны PPT можно выбрать как угодно, а креативная подача не составит труда",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "Педагогическое применение",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "Учебный курс отправляется одним щелчком мыши, а подключение к преподаванию происходит без проблем",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "Агентская площадь",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "Репозитории моделей",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "Мой созданный",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "Моя коллекция",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "Центр разработчиков",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Введите ключевое слово для поиска",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "Перейти к созданию агента",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "пока нет данных",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "Мой агент",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "Тонкая настройка модели",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "Описание вызова API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "Фаворитов пока нет",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "Отправляйтесь в Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "Агенты, которые еще не созданы",
+    "description": "aiAssistantzh.json"
+  }
+}

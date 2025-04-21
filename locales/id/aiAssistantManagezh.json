@@ -1670,5 +1670,253 @@
   "other": {
     "message": "Lainnya",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "Agen Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Menambahkan templat katalog",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Menambahkan templat halaman dalam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "Jumlah Harian DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Silakan masukkan jumlah harian DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "Jumlah harian DeepSeek-R1 harus numerik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "Generasi PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Silakan masukkan total margin yang dihasilkan dalam PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "Total margin yang dihasilkan oleh PPT harus berupa angka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "waktu/hari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Masukkan kata kunci",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "Cari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Bagikan ke Agen Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Izin Square Agen Penuh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "Status izin Agen Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Izin Agen Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "Izin Smarttwin Square dapat diaktifkan oleh organisasi, dan tidak dapat diaktifkan oleh satu pengguna.\nSetelah aktivasi, pengguna institusional saat ini dapat membagikan asisten AI yang dibuat ke Smart Twink Square untuk ditampilkan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Konten sumber",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Tambahkan irisan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "iris",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "Simpan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Silahkan masukkan konten",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "Belum ada irisan sumber daya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Simpan konten irisan terlebih dahulu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "Yakin untuk hapus?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "bisu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Menyalakan suara",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "Mainkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "Berhenti sementara",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "Layar penuh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Transcoding, silakan periksa nanti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Kunjungi URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "File tidak mendukung pratinjau online",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Tim pelajaran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Ringkasan mata kuliah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "Unggahan belum selesai, apakah Anda ingin membatalkan unggahan?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Batalkan unggahan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Lanjut unggah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "Mengunggah item {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Publikasikan ke Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "Telah dirilis",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "Belum dirilis",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Pengaturan gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Manajemen klasifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Tambahkan saudara kandung",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Tambahkan anak-anak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "Ubah kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "Hapus kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Nama",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "Silahkan masukkan nama kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Batalkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "OK",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "Semua",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Uncategorized",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "Semua status yang dipublikasikan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "Anda telah memilih basis pengetahuan {num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "Masukkan nama",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "Kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Pilih semua",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Buka Buat Agen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Menyiapkan klasifikasi",
+    "description": "aiAssistantManagezh.json"
   }
 }

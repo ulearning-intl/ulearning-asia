@@ -1670,5 +1670,253 @@
   "other": {
     "message": "Otros",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "Agente Cuadrado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Agregar una plantilla de catálogo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Agregar una plantilla de página interior",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 Cantidad diaria",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Introduzca la cantidad diaria de DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "La cantidad diaria de DeepSeek-R1 debe ser numérica",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "Generación de PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Ingrese el margen total generado en PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "El margen total generado por el PPT debe ser un número",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "Horas/Día",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Ingrese la búsqueda de palabras clave",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "Buscar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Compartir en Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Permisos completos de Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "Estado de los permisos de Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Permisos de Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "Los permisos de Smarttwin Square pueden ser activados por organización, y no pueden ser activados por un solo usuario.\nDespués de la activación, los usuarios institucionales actuales pueden compartir el asistente de IA creado con Smart Twink Square para su visualización.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Contenido de recursos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Agrega rebanadas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "loncha",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "Guardar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Por favor, ingrese contenido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "Todavía no hay segmentos de recursos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Guarde primero el contenido del sector",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "¿Eliminarlo seguro?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "Mutación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Activar el silencio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "Reproducir",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "Detener",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "Pantalla completa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Transcodificación, compruébelo más tarde",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Visita la URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "El archivo no es compatible con la vista previa en línea",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Equipo del curso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Introducción al curso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "La carga no se ha completado, ¿desea cancelar la carga?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Cancelar carga",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Continuar subiendo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "Carga de elementos {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Publicar en Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "Publicado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "Sin publicar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Configuración fallida",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Gestión de clasificaciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Añadir hermano",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Agregar elementos secundarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "modificar clasificación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "eliminar clasificación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Nombre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "¿introduzca nombre de clasificación?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Cancelar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "aceptar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "Todos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Sin categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "Todos los estados publicados",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "Ha seleccionado {num} bases de conocimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "introducir el nombre para buscar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "Categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Seleccionar todo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Vaya a Crear agente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Configurar clasificaciones",
+    "description": "aiAssistantManagezh.json"
   }
 }
