@@ -1578,5 +1578,209 @@
   "deepseek": {
     "message": "ديب سيك-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "التعلم...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "المستفاده",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "احذف القسم بأكمله ، هل أنت متأكد من أنك تريد حذفه؟",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "هل أنت متأكد من أنك متأكد من حذف النقاط الرئيسية والنص الرئيسي للنقاط الرئيسية؟",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "لا يمكن أن يكون اسم العنوان فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "لا يمكن أن يكون العنوان فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "لا يمكن أن تكون إدخالات الكتالوج فارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "لا يمكن أن يكون المحتوى فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": " يرجى إدخال العنوان ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "‏‏النهاية",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "لا تتردد في تبادل محتويات {name} ، قد ترغب في السؤال:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "توليد...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "معاينة PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "انشاء",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "يتم إنشاء PPT ...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان الفصل فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان الصفحة الداخلية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان النقطة النقطية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "لا يمكن أن يكون محتوى النقطة النقطية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "يتم إنشاء PPT ...<br/><br/>يمكنك إغلاق النافذة المنبثقة وعرض نتائج الإنشاء لاحقا في سجلك.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "إنشاء ذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "لا داعي للقلق بشأن تدريس المناهج الدراسية ، والتوليد الذكي يحل المخاوف",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "اختيار القالب",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "يمكن اختيار قوالب PPT كما تريد ، والعرض الإبداعي ليس بالأمر الصعب",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "التطبيقات التربوية",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "يتم إرسال فصل المناهج الدراسية بنقرة واحدة ، ويكون اتصال التدريس سلسا",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "وكيل سكوير",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "مستودعات النماذج",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "تم إنشاؤها من قبلي",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "مجموعتي",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "مركز المطورين",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "أدخل كلمة رئيسية للبحث",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "انتقل إلى إنشاء وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "وكيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "الضبط الدقيق للنموذج",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "وصف استدعاء واجهة برمجة التطبيقات",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "لا توجد مفضلات حتى الآن",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "اذهب إلى سمارت توينز بلازا",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "الوكلاء الذين لم يتم إنشاؤهم بعد",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "الفرز الشامل",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "المجموعات الشعبية",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "الوصول الشعبي",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "انسخ الرمز",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "مثال على استجابة للمكالمة",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "المتطلبات المسبقه",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "لقد حصلت على مفتاح واجهة برمجة التطبيقات، والذي يستخدم لمصادقة استدعاء واجهة برمجة التطبيقات.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "الحصول على اسم النموذج لاستدعاء النموذج",
+    "description": "aiAssistantzh.json"
   }
 }

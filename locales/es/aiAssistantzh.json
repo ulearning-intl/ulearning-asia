@@ -1578,5 +1578,209 @@
   "deepseek": {
     "message": "DeepSeek-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "Aprendizaje...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "Docto",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "Elimina toda la sección, ¿estás seguro de que quieres eliminarla?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "¿Está seguro de que va a eliminar los puntos principales y el cuerpo principal de los puntos principales?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "El nombre del título no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "El título no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "Las entradas de catálogo no pueden estar vacías",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "El contenido del anuncio no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "Por favor, introduzca el título",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "Por favor, introduzca un subtítulo",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "Fin",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "Vista previa",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "Descargar.",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "Siéntase libre de intercambiar el contenido de {nombre}, es posible que desee preguntar:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "Generador...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "Vista previa de PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "Generado",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "Generando...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "El título del capítulo no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "El título de la página interior no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "El título de la viñeta no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "El contenido de la viñeta no puede estar vacío",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT se está generando...<br/><br/>Puede cerrar la ventana emergente y ver los resultados de la compilación más adelante en su historial.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "Crea de forma inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "No hay necesidad de preocuparse por enseñar material didáctico, y la generación inteligente resuelve las preocupaciones",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "Selección de plantillas",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "Las plantillas PPT se pueden elegir como desee, y la presentación creativa no es difícil",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "Aplicaciones pedagógicas",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "La clase de material didáctico se envía con un solo clic y la conexión de enseñanza es perfecta",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "Agente Cuadrado",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "Repositorios de modelos",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "Mis creaciones",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "Mis favoritos",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "Centro de desarrolladores",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Ingrese la búsqueda de palabras clave",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "Vaya a Crear agente",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "Sin datos",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "Mi agente",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "Ajuste fino del modelo",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "Descripción de la llamada a la API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "Todavía no hay favoritos",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "Ir a la Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "Agentes que aún no se han creado",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Clasificación integral",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Colecciones populares",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Acceso popular",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Copia el código",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Un ejemplo de una respuesta de llamada",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Prerrequisitos",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Ha obtenido una clave API, que se utiliza para la autenticación de llamadas API.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Obtener el nombre del modelo para la llamada al modelo",
+    "description": "aiAssistantzh.json"
   }
 }

@@ -1670,5 +1670,253 @@
   "other": {
     "message": "其他",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "智慧體廣場",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "添加目錄範本",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "添加內頁範本",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "請輸入DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "DeepSeek-R1每日量必須為數位",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT生成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "請輸入PPT生成總餘量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "PPT生成總餘量必須為數位",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "次/天",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "輸入關鍵字搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "搜尋",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "共用到智慧體廣場",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "全部智慧體廣場許可權",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "智慧體廣場許可權狀態",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "智慧體廣場許可權",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "智慧體廣場許可權按機構開通，不支援按單個用戶開通。\n開通后，當前機構使用者可將創建的AI助手共用到智慧體廣場進行展示。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "資源內容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "添加切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "保存",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "請輸入內容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "暫無資源切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "請先保存切片內容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "確定刪除嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "靜音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "取消靜音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "暫停",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "轉碼中，請稍後查看",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "訪問該網址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "該檔不支援在線預覽",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "課程團隊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "課程簡介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "上傳尚未完成，是否取消上傳？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "取消上傳",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "繼續上傳",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "正在上傳{count}項",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "發佈到智能廣場",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "已發布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "未發布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "設置失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "分類管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "添加同級",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "添加子級",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "修改分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "删除分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "請輸入分類名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "確定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "全部",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "未分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "全部發佈狀態",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "您已選擇{num}個知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "輸入名稱搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "所屬分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "全選",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "前往創建智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "設置分類",
+    "description": "aiAssistantManagezh.json"
   }
 }

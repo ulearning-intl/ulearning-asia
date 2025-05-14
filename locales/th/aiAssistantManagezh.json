@@ -1670,5 +1670,253 @@
   "other": {
     "message": "อื่นๆ",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "ตัวแทนสแควร์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "เพิ่มเทมเพลตแค็ตตาล็อก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "เพิ่มเทมเพลตหน้าภายใน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 ปริมาณรายวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "โปรดป้อนจํานวน DeepSeek-R1 รายวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "ปริมาณ DeepSeek-R1 รายวันต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "การสร้าง PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "โปรดป้อนมาร์จิ้นทั้งหมดที่สร้างขึ้นใน PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "มาร์จิ้นทั้งหมดที่สร้างขึ้นโดย PPT ต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "เวลา/วัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "ค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "แชร์ไปยัง Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "สิทธิ์ Agent Square เต็มรูปแบบ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "สถานะการอนุญาตของ Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "สิทธิ์การอนุญาตของ Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "การอนุญาตของ Smarttwin Square สามารถเปิดใช้งานได้โดยองค์กร และไม่สามารถเปิดใช้งานโดยผู้ใช้คนเดียวได้\nหลังจากเปิดใช้งาน ผู้ใช้สถาบันปัจจุบันสามารถแชร์ผู้ช่วย AI ที่สร้างขึ้นไปยัง Smart Twink Square เพื่อแสดงผลได้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "เนื้อหาทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "เพิ่มสไลซ์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "ชิ้น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "บันทึก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "กรุณาใส่เนื้อหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "ยังไม่มีส่วนของทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "บันทึกเนื้อหาของชิ้นก่อน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "ยืนยันที่จะลบ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "ใบ้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "เปิดเสียง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "เล่น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "หยุด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "เต็มหน้าจอ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "การแปลงรหัสโปรดตรวจสอบในภายหลัง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "ไปที่ URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "ไฟล์ไม่รองรับการแสดงตัวอย่างออนไลน์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "ทีมหลักสูตร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "แนะนำหลักสูตร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "การอัปโหลดยังไม่เสร็จสมบูรณ์ คุณต้องการยกเลิกการอัปโหลดหรือไม่?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "ยกเลิกการอัปโหลด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "อัปโหลดต่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "การอัปโหลดรายการ {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "เผยแพร่ไปยัง Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "ประกาศแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "ไม่ได้เผยแพร่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "ตั้งค่าไม่สำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "การจัดการการจําแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "เพิ่มพี่น้อง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "เพิ่มเด็ก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "แก้ไขประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "ลบการแบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "ชื่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "กรุณาใส่ชื่อการแบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "ยกเลิก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "ตกลง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "ทั้งหมดเลย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "ไม่มีหมวดหมู่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "สถานะที่เผยแพร่ทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "คุณได้เลือกฐานความรู้ {num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "ใส่ชื่อเพื่อค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "แบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "แบ่งประเภทตามสังกัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "ไปที่ สร้างตัวแทน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "ตั้งค่าการจัดประเภท",
+    "description": "aiAssistantManagezh.json"
   }
 }
