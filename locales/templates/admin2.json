@@ -1791,6 +1791,10 @@
     "message": "操作",
     "description": "新版管理后台 zh.json"
   },
+  "users.accountTable7": {
+    "message": "批量修改密码",
+    "description": "新版管理后台 zh.json"
+  },
   "users.accountTableAction1": {
     "message": "编辑",
     "description": "新版管理后台 zh.json"
@@ -5011,6 +5015,14 @@
     "message": "活动管理",
     "description": "新版管理后台 zh.json"
   },
+  "routers.memberRegistration": {
+    "message": "成员申请信息",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "资源库",
+    "description": "新版管理后台 zh.json"
+  },
   "common.allStatus": {
     "message": "全部状态",
     "description": "新版管理后台 zh.json"
@@ -5241,6 +5253,246 @@
   },
   "notice.noticeRequireError": {
     "message": "机构默认语言的标题和内容不可以为空",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.pla": {
+    "message": "输入院校名搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "院校名",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "英语院校名",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "国际/地区",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "联系人",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "联系电话",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "邮箱",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "申请时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLang": {
+    "message": "机构名称设置多语言",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLangError": {
+    "message": "默认语言的机构名称为必填项",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "成员申请信息详情",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "返回",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "机构LOGO",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "机构名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "英文机构名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "国家/地区",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "创办年份",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "大学地址",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "法人",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "大学网站",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "联系人",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "电话号码",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "电子邮件",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "大学/学院简介",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "文件夹",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "压缩包",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "其他",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "虚仿资源",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "链接",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "资源名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "创建人",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "类型",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "大小",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "创建时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "请输入创建人或资源名称筛选搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "资源统计",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "资源数量",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "上传资源人数",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "资源查看量",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "排序方式：",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "请选择排序方式",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "操作日志",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "操作时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "操作人",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "复制人",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·当前查看文件",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "系统设置",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "批量修改密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "密码过期天数",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "设置用户在多少天未修改密码后，系统将弹出对话框提示用户修改密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "设置用户在系统弹出对话框提示用户修改密码时，是否可以跳过修改密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "重置后默认密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "成功修改账号{successNum}个；失败修改账号{failNum}个",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "此操作将永久删除该文件, 是否继续?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "密码过期是否可跳过",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "请输入密码过期天数",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "请输入重置后的默认密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "密码不能少于8位",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "修改成功",
     "description": "新版管理后台 zh.json"
   }
 }

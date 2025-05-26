@@ -1791,6 +1791,10 @@
     "message": "Операция",
     "description": "新版管理后台 zh.json"
   },
+  "users.accountTable7": {
+    "message": "Пакетное изменение пароля",
+    "description": "新版管理后台 zh.json"
+  },
   "users.accountTableAction1": {
     "message": "Редактирование",
     "description": "新版管理后台 zh.json"
@@ -5003,6 +5007,14 @@
     "message": "Организация мероприятий",
     "description": "新版管理后台 zh.json"
   },
+  "routers.memberRegistration": {
+    "message": "Регистрация членов",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "Библиотека ресурсов",
+    "description": "新版管理后台 zh.json"
+  },
   "common.allStatus": {
     "message": "все состояния",
     "description": "新版管理后台 zh.json"
@@ -5171,6 +5183,26 @@
     "message": "Компилировать символы",
     "description": "新版管理后台 zh.json"
   },
+  "notice.step1": {
+    "message": "Шаг 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "Варианты интернационализации",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "Шаг 2", 
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "Общие параметры",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "Заголовки и содержимое языка по умолчанию не могут быть пустыми",
+    "description": "新版管理后台 zh.json"
+  },
   "organization.addProxyOrganization": {
     "message": "Добавить агентство",
     "description": "新版管理后台 zh.json"
@@ -5210,5 +5242,245 @@
   "organization.resourceTip2": {
     "message": "Если квота установлена, то ресурсы, используемые текущей организацией, не могут превышать максимальную квоту\nЕсли квота не установлена, текущая организация предоставляет общий доступ к квоте ресурсов, доступных для верхнего уровня",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "Введите название школы для поиска",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "Название школы",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "Название школы на английском",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "Страна/Регион",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "Контактное лицо",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "Контактный телефон",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "Эл. почта",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "Время регистрации",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLang": {
+    "message": "Настройки языка названия организации",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLangError": {
+    "message": "Требуется название организации на языке по умолчанию",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "Информация о заявке участника",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "Назад",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "Логотип учебного заведения",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "Название учебного заведения",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "Название учебного заведения на английском",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "Страна/Регион",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Год основания",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Адрес университета",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "Ответственное лицо",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Веб-сайт университета",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Контактное лицо",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Номер телефона",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "Электронная почта",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "Краткое описание университета/колледжа",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "Папка",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "Архив",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "Другое",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "Виртуальный ресурс",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "Ссылка",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "Название ресурса",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "Создатель",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "Тип",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "Размер",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "Время создания",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "Введите создателя или название ресурса для фильтрации поиска",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "Статистика ресурсов",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "Количество ресурсов",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "Количество людей, загрузивших ресурсы",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "Количество просмотров ресурсов",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "Сортировка по :",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "Выберите способ сортировки",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "Журнал операций",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "Время операции",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "Пользователь",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "Копировщик",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·Текущий просматриваемый файл",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "Настройки системы",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "Массовая смена пароля",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "Количество дней до истечения срока действия пароля",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "Установите количество дней до истечения срока действия пароля, после которого пользователь будет уведомлен о необходимости смены пароля",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "Установите, может ли пользователь пропустить смену пароля, когда будет уведомлен о необходимости смены",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "Пароль по умолчанию после сброса",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "Успешная смена пароля для {successNum} учетных записей; неудачная смена пароля для {failNum} учетных записей",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "Эта операция будет постоянно удалять этот файл, хотите продолжить?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "Можно ли пропустить истечение срока действия пароля",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "Введите количество дней до истечения срока действия пароля",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "Введите пароль по умолчанию после сброса",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "Пароль должен быть не менее 8 символов",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "Смена пароля успешна",
+    "description": "新版管理后台 zh.json"
   }
 }

@@ -1791,6 +1791,10 @@
     "message": "Action",
     "description": "新版管理后台 zh.json"
   },
+  "users.accountTable7": {
+    "message": "Batch password modification",
+    "description": "新版管理后台 zh.json"
+  },
   "users.accountTableAction1": {
     "message": "Modify",
     "description": "新版管理后台 zh.json"
@@ -5011,6 +5015,14 @@
     "message": "Event management",
     "description": "新版管理后台 zh.json"
   },
+  "routers.memberRegistration": {
+    "message": "Member Registration Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "Resource library",
+    "description": "新版管理后台 zh.json"
+  },
   "common.allStatus": {
     "message": "All status",
     "description": "新版管理后台 zh.json"
@@ -5179,6 +5191,26 @@
     "message": "Compiled character",
     "description": "新版管理后台 zh.json"
   },
+  "notice.step1": {
+    "message": "Step 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "Internationalization options", 
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "Step 2",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "General Options",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "The title and content of the default language of the institution cannot be empty",
+    "description": "新版管理后台 zh.json"
+  },
   "organization.addProxyOrganization": {
     "message": "Add an agency",
     "description": "新版管理后台 zh.json"
@@ -5218,5 +5250,249 @@
   "organization.resourceTip2": {
     "message": "If a quota is set, the resources used by the current organization cannot exceed the maximum quota\nIf no quota is set, the current organization shares the quota of resources available to the upper level",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "Enter school name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "School Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "School Name in English", 
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "Country/Region",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "Contact Person",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "Contact Phone",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "Email",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "Application Time",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLang": {
+    "message": "Organization Name Language Settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLangError": {
+    "message": "Organization name in default language is required",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "Member Application Information Details",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "Back",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "Institution LOGO",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "Institution name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "English Institution name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "Country/Region",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Founding year",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "University address",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "Legal person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "University website",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Contact person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Phone number",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "E-mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "Brief university introduction/College introduction",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "Folder",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "Compressed",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "Other",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "Imitation resource",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "Link",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "Resource name",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "Creator",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "Size",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "Creation time",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "Enter the creator or resource name to filter search",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "Resource statistics",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "Number of resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "Number of people who uploaded resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "Number of resource views",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "Sort by:",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "Please select the sorting method",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "Operation log",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "Operation time",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "User",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "Copy Person",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·Current Viewing File",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "System settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "Bulk change password",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "Password expiration days",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "Set the number of days before the user is prompted to change the password",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "Set whether the user can skip changing the password when prompted",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "Default password after reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "Successfully changed {successNum} accounts; failed to change {failNum} accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "This operation will permanently delete this file, do you want to continue?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "Can the password expiration be skipped",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "Enter the number of days for password expiration",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "Enter the default password after reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "The password must be at least 8 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "Successfully changed",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.deleteTip": {
+    "message": "",
+    "description": "新版管理后台 zh.json"
   }
 }
