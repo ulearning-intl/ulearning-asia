@@ -1,0 +1,1922 @@
+{
+  "route.aiManage": {
+    "message": "Управление помощником на основе ИИ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManage": {
+    "message": "Управление базой знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meManage": {
+    "message": "Моя база знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.systemManage": {
+    "message": "Управление системой",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.webManage": {
+    "message": "Управление Веб-сайтом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.digitalHuman": {
+    "message": "Цифровые люди",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.manageKnowledge": {
+    "message": "Управляйте своей базой знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistant": {
+    "message": "ИИ-помощник",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.fullKnowledgeBase": {
+    "message": "Все базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.orgManage": {
+    "message": "Управление организациями",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.userManage": {
+    "message": "Управление пользователями",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meAiAssistant": {
+    "message": "Мой помощник с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.allAiAssistant": {
+    "message": "Все помощники с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManage": {
+    "message": "Управление инструкциями",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.myInstructions": {
+    "message": "Мои инструкции",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.groupingManage": {
+    "message": "Управление группой",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.dataStatistics": {
+    "message": "Информационная статистика",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.logOut": {
+    "message": "Выйти из системы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeBtn": {
+    "message": "тема",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "Персонализация темы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "Общие настройки стиля",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "Цветовая тема",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "Расположение элементов интерфейса системы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "Цветовая тема",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "включить Просмотр тегов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "Фиксированный верхний колонтитул",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "логотип боковой панели",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.refresh": {
+    "message": "Обновить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "Закрывать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "Закрыть другие",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "Закрыть все",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.accountLogin": {
+    "message": "войти в систему под своей учетной записью",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.logIn": {
+    "message": "войти",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.username": {
+    "message": "имя пользователя",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.password": {
+    "message": "Пароль",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.casLogin": {
+    "message": "Вход в систему Campus Unified Identity and Access Authentication (IDAM)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip1": {
+    "message": "Ваша информация не существует в системе!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip2": {
+    "message": "Пожалуйста, свяжитесь с администратором, чтобы подтвердить, что ваша личная информация была синхронизирована с системой. Если у вас есть учетная запись в этой системе, пожалуйста, привяжите свою учетную запись.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.pleseusername": {
+    "message": "Введите имя пользователя",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.plesepwd": {
+    "message": "Введите пароль",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTitle": {
+    "message": "Система управления агентами на основе искусственного интеллекта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.smartRecord": {
+    "message": "Запись мудрости",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.easyManage": {
+    "message": "Простота в управлении",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTip": {
+    "message": "Запись в нескольких классах, проверка класса в режиме реального времени и осаждение ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.casTitle": {
+    "message": "Единая система идентификации и верификации личности",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.reset": {
+    "message": "сброс",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestError": {
+    "message": "Запрос не выполнен",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Введите ключевое слово",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagement": {
+    "message": "Управление группой",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagementHint": {
+    "message": "Управление группами команд под текущим счетом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "search": {
+    "message": "запрос",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addingGroups": {
+    "message": "добавлять группу",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editGroup": {
+    "message": "Редактирование группировки",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupName": {
+    "message": "Название группы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGroupName": {
+    "message": "Пожалуйста, введите название группы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainSpaces": {
+    "message": "Вы не можете просто содержать пробелы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameRequired": {
+    "message": "Имя группы не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameMaxLength": {
+    "message": "Имя группы не может превышать 200 символов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSuccess": {
+    "message": "Успешно создано",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirm": {
+    "message": "Подтвердите удаление?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSuccess": {
+    "message": "Удаление прошло успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "edit": {
+    "message": "Редактирование",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hint": {
+    "message": "подсказка",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operation": {
+    "message": "операция",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createInstruction": {
+    "message": "Создание директив",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editInstruction": {
+    "message": "Измените инструкцию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteInstruction": {
+    "message": "Удалите инструкцию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noData": {
+    "message": "пока нет данных",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitle": {
+    "message": "Название команды",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescription": {
+    "message": "Инструкция Описание",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContent": {
+    "message": "Длинная инструкция",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContent": {
+    "message": "Содержание краткой инструкции",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectGroup": {
+    "message": "Выберите группу",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleLongInstruction": {
+    "message": "Примеры: Пожалуйста, расскажите подробнее о понятии [содержание, например, корпускулярно-волновом дуализме в квантовой механике], его историческом контексте, основных экспериментальных доказательствах и его применении в современных технологиях, а также проанализируйте возможные будущие направления исследований.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleShortInstruction": {
+    "message": "Пример: Пожалуйста, расскажите подробнее о понятии [содержание, например, корпускулярно-волновой дуализм в квантовой механике].",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Введите [ ], чтобы вставить поле ввода.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myInstructions": {
+    "message": "Мои инструкции",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions": {
+    "message": "Управление всеми командами, созданными и управляемыми в рамках текущего счета",
+    "description": "aiAssistantManagezh.json"
+  },
+  "delete": {
+    "message": "удалить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancel": {
+    "message": "Отменить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirm": {
+    "message": "Подтвердите",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainOnlySpaces": {
+    "message": "Вы не можете просто содержать пробелы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotBeEmpty": {
+    "message": "Название команды не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotExceed200Characters": {
+    "message": "Название инструкции не может превышать 200 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotBeEmpty": {
+    "message": "Описание инструкции не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotExceed200Characters": {
+    "message": "Описание инструкции не может превышать 200 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotBeEmpty": {
+    "message": "Содержимое длинной команды не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotExceed1000Characters": {
+    "message": "Длинные инструкции не могут превышать 1 000 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContentCannotExceed1000Characters": {
+    "message": "Краткая инструкция не может превышать 1 000 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectGroup": {
+    "message": "Выберите группу",
+    "description": "aiAssistantManagezh.json"
+  },
+  "all": {
+    "message": "все",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestion": {
+    "message": "Стандартные вопросы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creator": {
+    "message": "автор",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTime": {
+    "message": "Дата создания",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableStatus": {
+    "message": "Статус включено",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enabled": {
+    "message": "Включен",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpen": {
+    "message": "Деактивация",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewDetails": {
+    "message": "Посмотреть подробности",
+    "description": "aiAssistantManagezh.json"
+  },
+  "name": {
+    "message": "Название",
+    "description": "aiAssistantManagezh.json"
+  },
+  "type": {
+    "message": "Тип",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSize": {
+    "message": "Размер файла",
+    "description": "aiAssistantManagezh.json"
+  },
+  "source": {
+    "message": "Источник ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "status": {
+    "message": "состояние",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studying": {
+    "message": "Обучения",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learned": {
+    "message": "Учёный",
+    "description": "aiAssistantManagezh.json"
+  },
+  "document": {
+    "message": "Документ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "localUpload": {
+    "message": "Загрузка с локального компьютера",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseware": {
+    "message": "учебный материал",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Граф знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRepository": {
+    "message": "Репозиторий ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resources": {
+    "message": "ресурсы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionAnswer": {
+    "message": "Пара вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentKnowledgeBaseData": {
+    "message": "Управляйте всеми данными текущей базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBase": {
+    "message": "Ознакомьтесь с базой знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllKnowledgeBase": {
+    "message": "Просмотр всех баз знаний, созданных в текущей организации.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onMyOwn": {
+    "message": "Я сам",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResources": {
+    "message": "Импорт учебных ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibrary": {
+    "message": "Репозиторий ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputCoursewareName": {
+    "message": "Введите название учебного курса для поиска",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coursewareCount": {
+    "message": "количество учебных материалов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noCourseware": {
+    "message": "Пока нет учебного материала",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceName": {
+    "message": "Введите имя ресурса для поиска",
+    "description": "aiAssistantManagezh.json"
+  },
+  "availableResources": {
+    "message": "Дополнительные ресурсы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResources": {
+    "message": "Ресурсов нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputKnowledgeGraphName": {
+    "message": "Введите имя графа знаний для поиска",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraphCount": {
+    "message": "Количество графов знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noKnowledgeGraph": {
+    "message": "Графа знаний пока нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceLibraryName": {
+    "message": "Введите имя репозитория для поиска",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibraryCount": {
+    "message": "Количество репозиториев",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceLibrary": {
+    "message": "В настоящее время библиотека ресурсов отсутствует",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loading": {
+    "message": "Загрузка...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMore": {
+    "message": "Больше нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedResourcesCount": {
+    "message": "Вы выбрали {num} ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "queAnswerInfoTitle": {
+    "message": "Пары вопросов и ответов для получения подробной информации",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestion": {
+    "message": "Похожие проблемы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answer": {
+    "message": "Ответ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allEnableStatus": {
+    "message": "Статус «Все включено»",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allGroups": {
+    "message": "все группы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQuestionAnswer": {
+    "message": "Создание пары вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editQuestionAnswer": {
+    "message": "Изменение пары вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionRequired": {
+    "message": "Стандартные вопросы не могут быть пустыми",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionMaxLength": {
+    "message": "Стандартные вопросы не могут превышать 200 символов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotOnlyContainSpaces": {
+    "message": "Вы не можете просто содержать пробелы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionRequired": {
+    "message": "Похожие вопросы, которые были добавлены, не могут быть пустыми",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionMaxLength": {
+    "message": "Длина подобных вопросов не должна превышать 200 символов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionLimit": {
+    "message": "Добавьте до 10 похожих вопросов в каждую пару вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerRequired": {
+    "message": "Ответ обязательное для заполнения",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerMaxLength": {
+    "message": "Длина ответов не может превышать 2000 символов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterStandardQuestion": {
+    "message": "Пожалуйста, введите стандартный вопрос",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSimilarQuestion": {
+    "message": "Пожалуйста, введите аналогичный вопрос",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAnswer": {
+    "message": "Введите ответ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSimilarQuestion": {
+    "message": "Добавить похожий вопрос",
+    "description": "aiAssistantManagezh.json"
+  },
+  "group": {
+    "message": "Группировать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelect": {
+    "message": "Выберите",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSimilarQuestions": {
+    "message": "Добавьте до 10 похожих вопросов в каждую пару вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dragIcon": {
+    "message": "Автоматическая сортировка",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addGroup": {
+    "message": "добавлять группу",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyGroup": {
+    "message": "Изменить группировку",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseDesc": {
+    "message": "База знаний поддерживает добавление ресурсов и пар вопросов и ответов для поддержки интеллектуальных вопросов и ответов на вопросы и искусственный интеллект, повышая точность вопросов и ответов и вопросов и ответов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resource": {
+    "message": "ресурсы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myKnowledgeBase": {
+    "message": "Моя база знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase": {
+    "message": "Управляйте всеми базами знаний, созданными и управляемыми по текущему счету",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createKnowledgeBase": {
+    "message": "Создание базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyKnowledgeBase": {
+    "message": "Изменение базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageKnowledgeBase": {
+    "message": "Управляйте своей базой знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeBaseName": {
+    "message": "Введите название",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseName": {
+    "message": "Название базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameRequired": {
+    "message": "Пожалуйста, введите имя базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameMaxLength": {
+    "message": "Имя базы знаний не может превышать 100 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBaseConfirm": {
+    "message": "Если я удалю {name}, я не смогу связать базу знаний с AI-помощником.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistants": {
+    "message": "Все помощники с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllAiAssistantsInOrg": {
+    "message": "Просмотр всех помощников ИИ, созданных в текущей организации.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultKnowledgeBase": {
+    "message": "База знаний по умолчанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsDefault": {
+    "message": "сделать по умолчанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preview": {
+    "message": "Предварительный просмотр",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAiAssistantSettings": {
+    "message": "Настройки AI assistant по умолчанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmSetAsDefault": {
+    "message": "Вы уверены, что установите текущее {name} по умолчанию?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceAiAssistant": {
+    "message": "Замените помощника с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmReplaceAiAssistant": {
+    "message": "{oldName} уже используется, вы уверены, что замените его на {newName}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSuccessfully": {
+    "message": "Успешно установить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shared": {
+    "message": "делиться",
+    "description": "aiAssistantManagezh.json"
+  },
+  "default": {
+    "message": "по умолчанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataStatistics": {
+    "message": "Информационная статистика",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherAiAssistant": {
+    "message": "ИИ-помощник для подготовки учителей к урокам",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewCurrentAiAssistantUsage": {
+    "message": "Просмотр текущего использования помощника с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitorCount": {
+    "message": "Количество посетителей",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDialogueRounds": {
+    "message": "Общее количество раундов разговора",
+    "description": "aiAssistantManagezh.json"
+  },
+  "averageDialogueRounds": {
+    "message": "Средние обороты разговора",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalQaWords": {
+    "message": "Общее количество слов в разделе \"Вопросы и ответы\"",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitationTrends": {
+    "message": "Тенденции доступа",
+    "description": "aiAssistantManagezh.json"
+  },
+  "day": {
+    "message": "день",
+    "description": "aiAssistantManagezh.json"
+  },
+  "week": {
+    "message": "неделя",
+    "description": "aiAssistantManagezh.json"
+  },
+  "month": {
+    "message": "месяц",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frequentQuestions": {
+    "message": "Вопросы высокой частоты",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueDetails": {
+    "message": "Детали разговора",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionId": {
+    "message": "Идентификатор сеанса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "user": {
+    "message": "пользователь",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userRole": {
+    "message": "Роли пользователей",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueContent": {
+    "message": "Содержание беседы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueRounds": {
+    "message": "Раунды разговоров",
+    "description": "aiAssistantManagezh.json"
+  },
+  "qaWordCount": {
+    "message": "Подсчет слов в вопросах и ответах",
+    "description": "aiAssistantManagezh.json"
+  },
+  "time": {
+    "message": "время",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionDetails": {
+    "message": "Сведения о сеансе",
+    "description": "aiAssistantManagezh.json"
+  },
+  "comingSoon": {
+    "message": "Я иду!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement": {
+    "message": "Управление помощником на основе ИИ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants": {
+    "message": "Управляйте всеми AI-помощниками, созданными текущим аккаунтом.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createAiAssistant": {
+    "message": "Создание помощника с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAiAssistant": {
+    "message": "Изменение помощника с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanSettings": {
+    "message": "Цифровые настройки человека",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAvatar": {
+    "message": "Выберите фотографию профиля",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadAvatar": {
+    "message": "Загрузить аватар",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements": {
+    "message": "Он поддерживает форматы jpg, jpeg и png, а размер не превышает 2M. Рекомендуемый размер: 400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantName": {
+    "message": "Дайте имя помощнику с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntro": {
+    "message": "Краткое описание",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessage": {
+    "message": "Пожалуйста, введите приветственное сообщение",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterOpeningRemarks": {
+    "message": "Пожалуйста, введите свои начальные титры",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultWelcomeMessage": {
+    "message": "Здравствуйте, я помощник с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameRequired": {
+    "message": "Имя помощника AI не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameMaxLength": {
+    "message": "Имя помощника ИИ не может превышать 100 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "introMaxLength": {
+    "message": "Бриф AI assistant не может превышать 200 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeRequired": {
+    "message": "Приветственное сообщение не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMaxLength": {
+    "message": "Приветственное сообщение не должно превышать 200 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength": {
+    "message": "Вступительное заявление не может превышать 200 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired": {
+    "message": "Пожалуйста, загрузите фотографию профиля",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRequired": {
+    "message": "Пожалуйста, выберите большую модель",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginRequired": {
+    "message": "Пожалуйста, выберите плагин AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHuman": {
+    "message": "Пожалуйста, выберите цифрового человека",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirmation": {
+    "message": "Если я удалю {name}, я не смогу использовать AI-помощника, могу ли я его удалить?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultConfirmation": {
+    "message": "Вы уверены, что установите текущее {name} по умолчанию?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceConfirmation": {
+    "message": "{oldName} уже используется, вы уверены, что замените его на {newName}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noPermission": {
+    "message": "Нет разрешений",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInput": {
+    "message": "Голосовой ввод",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcast": {
+    "message": "Голосовая трансляция",
+    "description": "aiAssistantManagezh.json"
+  },
+  "associatedInstructions": {
+    "message": "Директивы корреляции",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showShortInstructions": {
+    "message": "Отображается короткими командами",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharingScope": {
+    "message": "Предоставить общий доступ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlySelf": {
+    "message": "Частная",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareWithOthers": {
+    "message": "Поделиться с другими учителями в учреждении",
+    "description": "aiAssistantManagezh.json"
+  },
+  "firstChoiceModel": {
+    "message": "Предпочтение отдается крупным моделям",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiPlugins": {
+    "message": "Плагины для искусственного интеллекта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQa": {
+    "message": "Интеллектуальные вопросы и ответы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Рекомендации по ресурсам",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiQuestions": {
+    "message": "Автоматическая генерация вопросов с помощью искусственного интеллекта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningReminder": {
+    "message": "Напоминания об обучении",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceSettings": {
+    "message": "Настройки голоса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessage": {
+    "message": "Добро пожаловать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarks": {
+    "message": "Открытие",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntroHint": {
+    "message": "Кратко представьте ИИ-помощника и покажите его пользователю",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSettings": {
+    "message": "Настройки большой модели",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccess": {
+    "message": "Загрузка успешна!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageTooBig": {
+    "message": "Размер изображения не может превышать 2 МБ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileTypeNotSupported": {
+    "message": "Типы файлов не поддерживаются",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAssistant": {
+    "message": "Помощник ИИ по умолчанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModel": {
+    "message": "Большая модель",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modify": {
+    "message": "Изменить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatar": {
+    "message": "Аватар",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelType": {
+    "message": "Большой тип модели",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelTongyi": {
+    "message": "Тысяча вопросов в общем смысле",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "Булочки с фасолью",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "Предупреждение",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "Загружено успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "Изменено успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "Добавлено успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "Изменение помощника с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "Если я удалю {name}, я не смогу использовать AI-помощника, могу ли я его удалить?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "Копировать ссылку",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "Отсканируйте QR-код, чтобы поделиться помощником с искусственным интеллектом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "поделиться",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "Скопировано успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "Управление Веб-сайтом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "Управление базовой конфигурацией текущего сайта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "Название веб-сайта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "Логотип сайта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "Он поддерживает форматы jpg, jpeg и png, а размер не превышает 2M. Рекомендуемый размер: 300 * 60",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "Пожалуйста, введите название сайта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "Максимальная длина заголовка сайта – 50 слов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "Пожалуйста, загрузите логотип вашего сайта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "Поддержка искусственного интеллекта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "Управление организациями",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "Настройка AI-помощника для управления организациями и т.д",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "Полные привилегии входа в систему",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "Все разрешения на создание AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "Статус разрешения на вход",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "AI-помощник создает статусы разрешений",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "Настройка разрешений",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "Функциональная конфигурация",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "Базовая конфигурация",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "Большая модель",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "Тысяча вопросов в общем смысле",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "Булочки с фасолью",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "Ежедневное количество пакетиков фасоли",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "Пожалуйста, введите ежедневное количество пакетов с бобами",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "Ежедневное количество бобов должно быть числом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "токен/день",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "Сегодняшняя маржа:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "Общая используемая организация:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "Настройка AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "Общий запас для голосового ввода",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "Пожалуйста, введите общую маржу для голосового ввода",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "слово",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "Учебные заведения использовали:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "Общая маржа голосового вещания",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "Пожалуйста, введите общую маржу для голосовых объявлений",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "Цифровые люди",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "Выберите Цифровой человек",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "Настройка инструментов ИИ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "Инструменты искусственного интеллекта",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "Интеллектуальная оценка",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "Видеоаналитика",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "Чтение документов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "Распознавание формул",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "Общая маржа на анализ видео",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "Пожалуйста, введите общую маржу для анализа видео",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "Общий запас для анализа видео должен быть числовым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "минута",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "Источники знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "Формула определяет общую маржу",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "Пожалуйста, введите формулу для определения общей маржи",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "Формула признает, что общая маржа должна быть числом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "раз",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "Механизм настройки:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "Разрешение на вход для агентов ИИ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "После того как разрешение на вход в систему агента ИИ будет включено, все администраторы и преподаватели в организации смогут войти в систему управления агентом ИИ.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "Разрешения на создание AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "После включения разрешения на создание помощника ИИ все администраторы или преподаватели в организации могут создавать помощников ИИ.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "После того как разрешение на вход в систему агента ИИ будет включено, администратор или преподаватель сможет войти в систему управления агентом ИИ.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "После включения разрешения на создание помощника ИИ администратор или преподаватель может создать помощника ИИ.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "включить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "активирован",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "неактивный",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "Управление пользователями",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "Управляйте конфигурацией разрешений пользовательского помощника с искусственным интеллектом.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "все организации",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "все Роли",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "учетная запись",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "Роль",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "учитель",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "Администратор",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "Организация",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "Настройка прав пользователя",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "Закрывать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "Общий запас для голосового ввода должен быть числовым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "Общее поле для голосовых объявлений должно быть числовым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "Название организации",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "Поиск содержимого беседы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "Студент",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "время начала",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "Окончание",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "достигать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "пользователь",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "Роли пользователей",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "Время начала сеанса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "Время окончания сеанса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "Присоединяйтесь к паре вопросов и ответов базы знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Выберите базу знаний",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "Больше нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "Добавить ресурс",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "быть",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "не",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "Срезы ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "Ресурсы не разрезаются:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "Текстовое содержимое ресурса существует в виде целого, которое можно извлечь только в более общем виде, и более точно определить его местонахождение затруднительно.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "Срезы ресурсов:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "Текстовое содержимое ресурса разделено на несколько небольших фрагментов, а интеллектуальные функции «Вопросы и ответы» могут быть извлечены независимо для разных секторов для повышения точности и эффективности поиска.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "Резать или нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "Импорт выполнен успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "Вы уверены, что хотите удалить ресурс?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "Размер файла не может превышать 500 МБ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "Вам рекомендуются следующие учебные ресурсы:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Большая библиотека идеологических и политических ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "Государственная платформа образовательных госуслуг",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.contentOperation": {
+    "message": "Операции с контентом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "Управление шаблонами PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Извлечение ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "CNKI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "Библиотека ресурсных материалов по идеологическим и политическим курсам Народного университета",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "Ресурсы нашего учебного заведения",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "Область извлечения ресурсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "Пожалуйста, выберите область поиска ресурса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "посетитель",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSlogan": {
+    "message": "Просветите будущее образования",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteDescription": {
+    "message": "Обучающие агенты на основе искусственного интеллекта в колледжах и университетах способствуют цифровой и интеллектуальной трансформации образования",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "Народные открытые курсы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "Повышайте качество с помощью мудрости",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "Расширить возможности всего процесса идеологического и политического обучения и способствовать укреплению лидерства в идеологическом и политическом образовании",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "Все типы шаблонов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "Управление шаблонами контента",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "Добавление шаблона контента",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "Начать сортировку",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "Сортировка по окончанию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "Тип шаблона",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "Шаблоны тем",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "Шаблоны каталогов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "Шаблоны внутренних страниц",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "Количество наименований",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "Скачать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "Выбор типа шаблона контента",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "Тип шаблона содержимого",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "Имя PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "Имя PPT не может быть пустым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "Имя PPT не может превышать 200 символов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "Изменено успешно",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "Изменение не удалось",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "Добавление шаблона темы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "Шаблоны контента",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "Управляйте всеми шаблонами PPT, созданными PPT, в инструментах искусственного интеллекта.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "папка",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "Видео",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "аудио",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "Изображение",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "Визуальный",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "Ссылка",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "тест",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "экзаменационная работа",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "Виртуальное моделирование",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "другие",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "Агентская площадь",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Добавление шаблона каталога",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Добавление шаблона внутренней страницы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 Суточная норма",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Пожалуйста, введите ежедневное количество DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "Ежедневное количество DeepSeek-R1 должно быть числовым",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "Генерация PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Пожалуйста, введите общую маржу, сгенерированную в PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "Общая маржа, генерируемая PPT, должна быть числом",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "время/день",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Введите ключевое слово для поиска",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "поиск",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Поделиться на Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Полные разрешения Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "Статус разрешений на Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Разрешения Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "Разрешения Smarttwin Square могут быть активированы организацией и не могут быть активированы одним пользователем.\nПосле активации текущие институциональные пользователи могут поделиться созданным AI-помощником с Smart Twink Square для отображения.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Ресурсный контент",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Добавление ломтиков",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "ломтик",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "сохранить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Введите контент",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "Срезов ресурсов пока нет",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Сначала сохраните содержимое среза",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "Подтвердите удаление?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "Отключить звук",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Отменить беззвучный режим",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "воспроизводить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "Пауза",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "на весь экран",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Транскодируется. Пожалуйста, проверьте немного позже",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Перейти на URL-адрес",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "Этот файл не поддерживает онлайн-предварительный просмотр",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Команда курса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Краткое описание курса",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "Загрузка не завершена, вы хотите отменить загрузку?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Отменить загрузку",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Продолжить загрузку",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "Загрузка элементов {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Публикация в Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "Опубликовано",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "Не опубликовано",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Не удалось установить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Управление классификацией",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Добавление братьев и сестер",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Добавить детей",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "Изменить классификацию",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "Удалить классифицировать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Название",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "Введите название раздела",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Отменить",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "Подтвердите",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "все",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Без рубрики",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "Все опубликованные статусы",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "Вы выбрали базы знаний {num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "Ввод название поиск",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "классифицировать",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Классификация курсов",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Выбрать все",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Перейти к созданию агента",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Настройка классификаций",
+    "description": "aiAssistantManagezh.json"
+  }
+}

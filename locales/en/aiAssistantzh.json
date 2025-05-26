@@ -396,11 +396,11 @@
     "description": "aiAssistantzh.json"
   },
   "audioInputOverTimes": {
-    "message": "The voice input limit has been reached. If you need to increase the limit, please contact the admin.",
+    "message": "The voice input limit has been reached. If you need to increase the voice input, please contact the admin.",
     "description": "aiAssistantzh.json"
   },
   "audioPlayOverTimes": {
-    "message": "The speech limit has been reached. If you need to increase the limit, please contact the admin.",
+    "message": "The speech limit has been reached. If you need to increase the speech, please contact the admin.",
     "description": "aiAssistantzh.json"
   },
   "AiWorkbench": {
@@ -1633,6 +1633,318 @@
   },
   "welcomeDiscuss": {
     "message": "Welcome to chat about the content in {name}! You may want to ask: ",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "Generating...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "PPT preview",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "Generated",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT is being generated...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "Chapter title cannot be blank",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "Inside page title cannot be blank",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "Gist title cannot be blank",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "Gist content cannot be blank",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT is being generated...<br/><br/>You can close the pop-up window and view the build results later in your history.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "Intelligent Creation",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "There is no need to worry about teaching courseware, and intelligent generation solves worries",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "Template selection",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "PPT templates can be chosen as you like, and creative presentation is not difficult",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "Pedagogical applications",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "The courseware class is sent with one click, and the teaching connection is seamless",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "Agent Square",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "Model repository",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "Created by me",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "My collection",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "Developer Center",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Enter keyword to search",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "Go to Create Agent",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "No data found",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "My Agent",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "Model fine-tuning",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "API call description",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "There are no collected agents",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "Go to Agent Square",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "There are no created agents",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Rankings",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Favorites",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Hot",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Copy the code",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "An example of a call response",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Prerequisites",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "You have obtained an API key, which is used for API call authentication.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Get the model name for model calling",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "Application Square",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "New page access intelligent agent",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "Go to the intelligent agent",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "ALL",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "Drag and drop to customize sorting",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "up-to-date",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "The hottest",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "Not yet open, please stay tuned",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "return",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "Collected",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "collect",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "Enter the title to search",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "All classes",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "To solve the problem of PPT generation in various scenarios, quickly and automatically generate according to the theme, and improve the efficiency of PPT production.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "Support uploading documents, conducting Q&A, question setting, and generating word clouds based on document content.",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "Upload handwritten formula images, support extracting and converting formulas from the images into LateX code.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "Click to log in",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "AI Capability Center",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "Intelligent application",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "Open the AI Capability Center",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "Collected intelligent agents",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "more",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "Classroom intelligent assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Ai Dialogue Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "Dialogue Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "Starting ..",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "I am a conversation assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "I am listening",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "pause",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "stop",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "Closed Captioning",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "Discussion ends",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "Q&A Assistant\n\n",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "Allow AI to play designated roles and engage in deep conversations with students",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "Historical Discussion Record",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "Screenshot Search",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "Screenshot quiz",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "Classroom intelligent agent",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "Get photos",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "Leave the room",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "Enable intelligent agent voice",
     "description": "aiAssistantzh.json"
   }
 }

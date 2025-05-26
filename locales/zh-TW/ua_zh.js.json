@@ -3340,7 +3340,7 @@
     "description": "UA"
   },
   "scanMode2Tip": {
-    "message": "需登錄【優學院】或【優學院2.0】APP掃碼學習，可保存學習記錄",
+    "message": "需登入【優學院】或【優學院2.0】APP掃碼學習，可保存學習記錄",
     "description": "UA"
   },
   "codeTip": {
@@ -4147,6 +4147,22 @@
     "message": "請選擇預覽入口",
     "description": "UA"
   },
+  "rarPreview": {
+    "message": "現時僅支持RAR4版本預覽，或發生其他錯誤，請重繪重試或者下載查看",
+    "description": "UA"
+  },
+  "back": {
+    "message": "返回",
+    "description": "UA"
+  },
+  "currentPosition": {
+    "message": "當前位置：",
+    "description": "UA"
+  },
+  "selectEntrance": {
+    "message": "選擇",
+    "description": "UA"
+  },
   "VMResourceUploadSuccessdialogs": {
     "message": "互動式模擬上傳成功，請設置預覽入口！",
     "description": "UA"
@@ -4177,6 +4193,10 @@
   },
   "backToManageCenter": {
     "message": "返回管理中心",
+    "description": "UA"
+  },
+  "scormErrorTip": {
+    "message": "SCORM僅支持1.2和2004版本",
     "description": "UA"
   }
 }

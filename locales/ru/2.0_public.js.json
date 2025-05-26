@@ -2511,6 +2511,10 @@
     "message": "Пароль должен состоять из 8-16 символов и содержать как буквы, так и цифры (пароли чувствительны к регистру)",
     "description": "2.0 public.js"
   },
+  "loginTipsMsg4": {
+    "message": "Пароль может поддерживать только буквы (различный регистр), цифры и специальные символы (специальные символы под английским методом ввода! @ # $% ^ & * () - + = {} []: ',... / <??",
+    "description": "2.0 public.js"
+  },
   "someonesEportfolio": {
     "message": "None",
     "description": "2.0 public.js"
@@ -2569,6 +2573,18 @@
   },
   "joinCourseFailure": {
     "message": "Не смог присоединиться к курсу",
+    "description": "2.0 public.js"
+  },
+  "AiWorkbench": {
+    "message": "Рабочий стол",
+    "description": "2.0 public.js"
+  },
+  "notOpen": {
+    "message": "Не открывается",
+    "description": "2.0 public.js"
+  },
+  "AIIframeLoading": {
+    "message": "Загрузить позже...",
     "description": "2.0 public.js"
   }
 }

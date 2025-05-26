@@ -1578,5 +1578,373 @@
   "deepseek": {
     "message": "DeepSeek-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "การเรียนรู้   ",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "คงแก่เรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "ลบทั้งส่วน คุณแน่ใจหรือว่าต้องการลบ?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "คุณแน่ใจหรือไม่ว่าคุณแน่ใจว่าจะลบประเด็นหลักและเนื้อหาหลักของประเด็นหลัก?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "ชื่อเรื่องต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "ชื่อเรื่องห้ามเว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "รายการแค็ตตาล็อกต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "เนื้อหาต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "กรุณากรอกหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "กรุณาป้อนคําบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "เสร็จสิ้น",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "แสดงตัวอย่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "อย่าลังเลที่จะแลกเปลี่ยนเนื้อหาของ {name} คุณอาจต้องการถาม:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "สร้าง   ",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "ตัวอย่าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT กําลังถูกสร้างขึ้น...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "ชื่อบทต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "ชื่อของหน้าภายในต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "ชื่อหัวข้อย่อยต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "เนื้อหาสัญลักษณ์แสดงหัวข้อย่อยต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT กําลังถูกสร้างขึ้น...<br/><br/>คุณสามารถปิดหน้าต่างป๊อปอัปและดูผลลัพธ์การสร้างในภายหลังในประวัติของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "สร้างอย่างชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "ไม่จําเป็นต้องกังวลเกี่ยวกับการสอนบทเรียน และการสร้างอัจฉริยะจะช่วยแก้ปัญหาความกังวลได้",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "การเลือกเทมเพลต",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "สามารถเลือกเทมเพลต PPT ได้ตามต้องการ และการนําเสนอที่สร้างสรรค์ก็ไม่ใช่เรื่องยาก",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "การประยุกต์ใช้การสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "ชั้นเรียนบทเรียนจะถูกส่งได้ด้วยคลิกเดียว และการเชื่อมต่อการสอนเป็นไปอย่างราบรื่น",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "ตัวแทนสแควร์",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "ที่เก็บโมเดล",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "ที่ฉันสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "คอลเลกชันของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "ศูนย์นักพัฒนา",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "ไปที่ สร้างตัวแทน",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "ไม่มีข้อมูลชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "ตัวแทนของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "การปรับแต่งโมเดลอย่างละเอียด",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "คําอธิบายการเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "ยังไม่มีรายการโปรด",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "ไปที่ Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "ตัวแทนที่ยังไม่ได้สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "จัดลำดับรวม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "คอลเลกชันยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "การเข้าถึงยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "คัดลอกรหัส",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "ตัวอย่างการตอบกลับการโทร",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "ข้อกําหนดเบื้องต้น",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "คุณได้รับคีย์ API ซึ่งใช้สําหรับการตรวจสอบสิทธิ์การเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "รับชื่อรุ่นสําหรับการเรียกแบบจําลอง",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "ใบสมัคร สแควร์",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "หน้าใหม่เข้าถึงร่างกายสมาร์ท",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "ไปที่ Smart Body",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "ดูทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "ลาก เรียงลำดับที่ปรับแต่งได้",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "ล่าสุด",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "ร้อนแรงที่สุด",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "ยังไม่เปิดให้บริการในขณะนี้โปรดติดตาม",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "กลับ",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "คอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "คอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "ป้อนชื่อหัวข้อการค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "ชั้นเรียนทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "เพื่อแก้ปัญหาการสร้าง PPT ของฉากต่าง ๆ ให้สร้างได้อย่างรวดเร็วโดยอัตโนมัติตามหัวข้อเพื่อปรับปรุงประสิทธิภาพการผลิต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "รองรับการอัปโหลดเอกสารคำถามและคำตอบการออกคำถามการสร้างเมฆคำ ฯลฯ ตามเนื้อหาของเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "อัปโหลดรูปภาพสูตรที่เขียนด้วยลายมือสนับสนุนการแยกและแปลงสูตรจากภาพเป็นรหัส LateX",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "คลิกเพื่อเข้าสู่ระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "ศูนย์ศักยภาพ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "แอปพลิเคชันอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "เปิดศูนย์ความสามารถ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "สมาร์ทบอดี้สำหรับคอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "มากกว่า",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "ผู้ช่วยอัจฉริยะในห้องเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Ai สนทนาผู้ช่วย",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "ผู้ช่วยสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "กำลังเปิดตัว ..",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "ฉันเป็นผู้ช่วยสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "ฉันกำลังฟัง",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "หยุดชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "หยุด",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "ปิดคำบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "สิ้นสุดการอภิปราย",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "ผู้ช่วยตอบคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "ให้ AI มีบทบาทที่กำหนดและการสนทนาเชิงลึกของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "บันทึกการอภิปรายทางประวัติศาสตร์",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "ค้นหาภาพหน้าจอ",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "ภาพหน้าจอตอบคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "สมาร์ทบอดี้ในห้องเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "รับภาพโอ้",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "ออกจากห้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "เปิด Smart Body Voice",
+    "description": "aiAssistantzh.json"
   }
 }

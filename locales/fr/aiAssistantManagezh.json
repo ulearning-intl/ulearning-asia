@@ -1,0 +1,1922 @@
+{
+  "route.aiManage": {
+    "message": "Gestion d’un assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManage": {
+    "message": "Gestion de la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meManage": {
+    "message": "Ma base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.systemManage": {
+    "message": "Paramètres du système",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.webManage": {
+    "message": "Paramètres du site",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.digitalHuman": {
+    "message": "Humains numériques",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.manageKnowledge": {
+    "message": "Gérez votre base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistant": {
+    "message": "Assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.fullKnowledgeBase": {
+    "message": "Toutes les bases de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.orgManage": {
+    "message": "Administrateur de l’organisation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.userManage": {
+    "message": "Gestion des utilisateurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meAiAssistant": {
+    "message": "Mon assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.allAiAssistant": {
+    "message": "Tous les assistants IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManage": {
+    "message": "Gestion des instructions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.myInstructions": {
+    "message": "Mes instructions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.groupingManage": {
+    "message": "Gestion de groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.dataStatistics": {
+    "message": "Données de cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.logOut": {
+    "message": "Se déconnecter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeBtn": {
+    "message": "Objet",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "Personnalisation du thème",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "Paramètres de style généraux",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "Couleur du thème",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "Paramètre de style de page",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "Couleur du thème",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "Ouvrir tags-View",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "En-tête fixe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "Logo de la barre latérale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.refresh": {
+    "message": "Actualiser",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "Proche",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "Fermer Les autres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "Fermer tout",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.accountLogin": {
+    "message": "Connexion au compte",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.logIn": {
+    "message": "Connexion",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.username": {
+    "message": "Nom d’utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.password": {
+    "message": "Mot de passe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.casLogin": {
+    "message": "Connexion à l’authentification unifiée d’identité et d’accès (IDAM) du campus",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip1": {
+    "message": "Vos informations n’existent pas dans le système !",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip2": {
+    "message": "Veuillez contacter l’administrateur pour confirmer que vos informations personnelles ont été synchronisées avec le système. Si vous avez un compte avec ce système, veuillez lier votre compte.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.pleseusername": {
+    "message": "Cliquez pour entrer le nom d’utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.plesepwd": {
+    "message": "Veuillez entrer le mot de passe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTitle": {
+    "message": "Système de gestion d’agents IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.smartRecord": {
+    "message": "Enregistrement de la sagesse",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.easyManage": {
+    "message": "Facile à gérer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTip": {
+    "message": "Enregistrement multi-classes, inspection de classe en temps réel et précipitation des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.casTitle": {
+    "message": "Identité unifiée et vérification de l’identité",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.reset": {
+    "message": "Réinitialiser",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestError": {
+    "message": "La demande a échoué !",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Veuillez saisir un mot-clé",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagement": {
+    "message": "Gestion de groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagementHint": {
+    "message": "Gérer les groupes de commandes sous le compte courant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "search": {
+    "message": "rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addingGroups": {
+    "message": "Note: La modification des regroupements de devoirs n'affecte pas les regroupements de classe.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editGroup": {
+    "message": "Modifier le regroupement",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupName": {
+    "message": "Nom du groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGroupName": {
+    "message": "Entrez un nom de groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainSpaces": {
+    "message": "Vous ne pouvez pas simplement contenir des espaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameRequired": {
+    "message": "Le nom du groupe ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameMaxLength": {
+    "message": "Le nom du groupe ne peut pas dépasser 200 caractères",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSuccess": {
+    "message": "Créé avec succès!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirm": {
+    "message": "Êtes-vous sûr de vouloir le supprimer?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSuccess": {
+    "message": "Supprimé avec succès !",
+    "description": "aiAssistantManagezh.json"
+  },
+  "edit": {
+    "message": "Modifier",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hint": {
+    "message": "Alerte",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operation": {
+    "message": "Action",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createInstruction": {
+    "message": "Créer des directives",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editInstruction": {
+    "message": "Modifier l’instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteInstruction": {
+    "message": "Supprimer l’instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noData": {
+    "message": "Aucune donnée trouvée",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitle": {
+    "message": "Titre de la commande",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescription": {
+    "message": "Description de l’instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContent": {
+    "message": "Contenu d’instruction long",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContent": {
+    "message": "Le contenu de la courte instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectGroup": {
+    "message": "Veuillez sélectionner un groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleLongInstruction": {
+    "message": "Exemples : Veuillez développer le concept de [contenu, par exemple, la dualité onde-particule en mécanique quantique], son contexte historique, les principales preuves expérimentales et son application dans la technologie moderne, et analyser les orientations futures possibles de la recherche.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleShortInstruction": {
+    "message": "Exemple : S’il vous plaît, élaborez le concept de [contenu, par exemple, la dualité onde-particule en mécanique quantique].",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Entrez [ ] pour insérer une zone de saisie.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myInstructions": {
+    "message": "Mes instructions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions": {
+    "message": "Gérez toutes les commandes créées et gérées sous le compte courant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "delete": {
+    "message": "Supprimer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancel": {
+    "message": "Annuler",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirm": {
+    "message": "Confirmer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainOnlySpaces": {
+    "message": "Vous ne pouvez pas simplement contenir des espaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotBeEmpty": {
+    "message": "Le titre de la commande ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotExceed200Characters": {
+    "message": "Le titre de l’instruction ne peut pas dépasser 200 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotBeEmpty": {
+    "message": "La description de l’instruction ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotExceed200Characters": {
+    "message": "La description de l’instruction ne doit pas dépasser 200 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotBeEmpty": {
+    "message": "Le contenu d’une commande longue ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotExceed1000Characters": {
+    "message": "Les instructions longues ne peuvent pas dépasser 1 000 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContentCannotExceed1000Characters": {
+    "message": "L’instruction courte ne peut pas dépasser 1 000 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectGroup": {
+    "message": "Veuillez sélectionner un groupe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "all": {
+    "message": "Tous",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestion": {
+    "message": "Questions standard",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creator": {
+    "message": "Créateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTime": {
+    "message": "Date de création",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableStatus": {
+    "message": "État Activé",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enabled": {
+    "message": "Activé",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpen": {
+    "message": "Abandonné",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewDetails": {
+    "message": "Afficher les détails",
+    "description": "aiAssistantManagezh.json"
+  },
+  "name": {
+    "message": "Nom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "type": {
+    "message": "Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSize": {
+    "message": "Taille du fichier",
+    "description": "aiAssistantManagezh.json"
+  },
+  "source": {
+    "message": "Source des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "status": {
+    "message": "Statut",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studying": {
+    "message": "Apprentissage",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learned": {
+    "message": "Instruit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "document": {
+    "message": "Document",
+    "description": "aiAssistantManagezh.json"
+  },
+  "localUpload": {
+    "message": "Téléchargement local",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseware": {
+    "message": "Didacticiel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Graphe de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRepository": {
+    "message": "Bibliothèque de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resources": {
+    "message": "Ressource",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionAnswer": {
+    "message": "Paire de questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentKnowledgeBaseData": {
+    "message": "Gérer toutes les données de la base de connaissances actuelle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBase": {
+    "message": "Consultez la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllKnowledgeBase": {
+    "message": "Affichez toutes les bases de connaissances créées sous l’organisation actuelle.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onMyOwn": {
+    "message": "Moi-même",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResources": {
+    "message": "Importer des ressources pédagogiques",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibrary": {
+    "message": "Bibliothèque de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputCoursewareName": {
+    "message": "Entrez le nom du didacticiel à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coursewareCount": {
+    "message": "Total No. de Courseware",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noCourseware": {
+    "message": "Il n’y a pas de didacticiel à l’heure actuelle ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceName": {
+    "message": "Entrez un nom de ressource à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "availableResources": {
+    "message": "Ressources facultatives",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResources": {
+    "message": "Aucune ressource n’est disponible",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputKnowledgeGraphName": {
+    "message": "Entrez le nom du graphe de connaissances à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraphCount": {
+    "message": "Nombre de graphes de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noKnowledgeGraph": {
+    "message": "Il n’existe pas encore de graphe de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceLibraryName": {
+    "message": "Entrez le nom du référentiel à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibraryCount": {
+    "message": "Nombre de dépôts",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceLibrary": {
+    "message": "Il n’y a pas de bibliothèque de ressources pour le moment",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loading": {
+    "message": "Chargement...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMore": {
+    "message": "Aucun",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedResourcesCount": {
+    "message": "Vous avez sélectionné {num} ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "queAnswerInfoTitle": {
+    "message": "Paires de questions-réponses pour plus de détails",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestion": {
+    "message": "Problèmes similaires",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answer": {
+    "message": "Réponse",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allEnableStatus": {
+    "message": "État Tous activés",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allGroups": {
+    "message": "Regrouper tous",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQuestionAnswer": {
+    "message": "Créer une paire de questions et de réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editQuestionAnswer": {
+    "message": "Modifier la paire question-réponse",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionRequired": {
+    "message": "Les questions standard ne peuvent pas être vides",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionMaxLength": {
+    "message": "Les questions standard ne peuvent pas dépasser 200 caractères",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotOnlyContainSpaces": {
+    "message": "Vous ne pouvez pas simplement contenir des espaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionRequired": {
+    "message": "Les questions similaires qui ont été ajoutées ne peuvent pas être vides",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionMaxLength": {
+    "message": "Les questions similaires ne peuvent pas dépasser 200 caractères",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionLimit": {
+    "message": "Ajoutez jusqu’à 10 questions similaires par paire de questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerRequired": {
+    "message": "La réponse ne peut pas être vide de sens",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerMaxLength": {
+    "message": "Les réponses ne doivent pas dépasser 2000 caractères",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterStandardQuestion": {
+    "message": "Veuillez saisir une question standard",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSimilarQuestion": {
+    "message": "Veuillez saisir une question similaire",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAnswer": {
+    "message": "Veuillez entrer le mot de passe",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSimilarQuestion": {
+    "message": "Ajouter une question similaire",
+    "description": "aiAssistantManagezh.json"
+  },
+  "group": {
+    "message": "Groupes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelect": {
+    "message": "S’il vous plaît sélectionner",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSimilarQuestions": {
+    "message": "Ajoutez jusqu’à 10 questions similaires par paire de questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dragIcon": {
+    "message": "Faites glisser pour trier",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addGroup": {
+    "message": "Note: La modification des regroupements de devoirs n'affecte pas les regroupements de classe.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyGroup": {
+    "message": "Modifier le regroupement",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseDesc": {
+    "message": "La base de connaissances prend en charge l’ajout de ressources et de paires de questions-réponses pour prendre en charge les questions-réponses intelligentes et les questions-réponses de l’IA, améliorant ainsi la précision des questions-réponses et des questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resource": {
+    "message": "Ressource",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myKnowledgeBase": {
+    "message": "Ma base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase": {
+    "message": "Gérer toutes les bases de connaissances créées et gérées dans le cadre du compte courant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createKnowledgeBase": {
+    "message": "Créer une base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyKnowledgeBase": {
+    "message": "Modifier la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageKnowledgeBase": {
+    "message": "Gérez votre base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeBaseName": {
+    "message": "Sélectionnez le package SCORM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseName": {
+    "message": "Le nom de la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameRequired": {
+    "message": "Entrez un nom de base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameMaxLength": {
+    "message": "Le nom de la base de connaissances ne doit pas dépasser 100 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBaseConfirm": {
+    "message": "Si je supprime {name}, je ne peux pas lier la base de connaissances à l’assistant IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistants": {
+    "message": "Tous les assistants IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllAiAssistantsInOrg": {
+    "message": "Voir tous les assistants IA créés dans l’organisation actuelle.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultKnowledgeBase": {
+    "message": "Base de connaissances par défaut",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsDefault": {
+    "message": "Définir par défaut",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preview": {
+    "message": "Aperçu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAiAssistantSettings": {
+    "message": "Paramètres par défaut de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmSetAsDefault": {
+    "message": "Êtes-vous sûr de définir le {name} actuel par défaut ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceAiAssistant": {
+    "message": "Remplacer l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmReplaceAiAssistant": {
+    "message": "{oldName} est déjà utilisé, êtes-vous sûr de le remplacer par {newName} ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSuccessfully": {
+    "message": "Réglez avec succès!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shared": {
+    "message": "Partager",
+    "description": "aiAssistantManagezh.json"
+  },
+  "default": {
+    "message": "Par défaut",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataStatistics": {
+    "message": "Données de cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherAiAssistant": {
+    "message": "Assistant IA pour la préparation des cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewCurrentAiAssistantUsage": {
+    "message": "Voir l’utilisation actuelle de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitorCount": {
+    "message": "Nombre de visiteurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDialogueRounds": {
+    "message": "Nombre total de tours de conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "averageDialogueRounds": {
+    "message": "Une conversation moyenne tourne",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalQaWords": {
+    "message": "Le nombre total de mots dans les questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitationTrends": {
+    "message": "Accéder aux tendances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "day": {
+    "message": "jour",
+    "description": "aiAssistantManagezh.json"
+  },
+  "week": {
+    "message": "semaine",
+    "description": "aiAssistantManagezh.json"
+  },
+  "month": {
+    "message": "mois",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frequentQuestions": {
+    "message": "Questions fréquentes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueDetails": {
+    "message": "Détails de la conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionId": {
+    "message": "Session ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "user": {
+    "message": "Utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userRole": {
+    "message": "Rôles de l'utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueContent": {
+    "message": "Le contenu de la conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueRounds": {
+    "message": "Rondes de conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "qaWordCount": {
+    "message": "Nombre de mots de questions-réponses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "time": {
+    "message": "Heure",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionDetails": {
+    "message": "Détails de la session",
+    "description": "aiAssistantManagezh.json"
+  },
+  "comingSoon": {
+    "message": "J’arrive!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement": {
+    "message": "Gestion d’un assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants": {
+    "message": "Gérez tous les assistants IA créés par le compte courant.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createAiAssistant": {
+    "message": "Créer un assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAiAssistant": {
+    "message": "Modifier l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanSettings": {
+    "message": "Paramètres humains numériques",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAvatar": {
+    "message": "Sélectionner une image pour le profil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadAvatar": {
+    "message": "Télécharger avatar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements": {
+    "message": "Il prend en charge les formats jpg, jpeg et png, et la taille ne dépasse pas 2M. Taille suggérée : 400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantName": {
+    "message": "Donnez un nom à l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntro": {
+    "message": "Description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessage": {
+    "message": "Veuillez saisir un message de bienvenue",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterOpeningRemarks": {
+    "message": "Veuillez entrer votre générique de début",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultWelcomeMessage": {
+    "message": "Bonjour, je suis assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameRequired": {
+    "message": "Le nom de l’assistant IA ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameMaxLength": {
+    "message": "Le nom de l’assistant IA ne doit pas dépasser 100 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "introMaxLength": {
+    "message": "Le brief de l’assistant IA ne peut pas dépasser 200 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeRequired": {
+    "message": "Le message de bienvenue ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMaxLength": {
+    "message": "Le message de bienvenue ne doit pas dépasser 200 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength": {
+    "message": "La déclaration d’ouverture ne doit pas dépasser 200 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired": {
+    "message": "Veuillez télécharger une photo de profil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRequired": {
+    "message": "Veuillez sélectionner un grand modèle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginRequired": {
+    "message": "Veuillez sélectionner un plug-in AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHuman": {
+    "message": "Veuillez sélectionner un humain numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirmation": {
+    "message": "Si je supprime {name}, je ne peux pas utiliser l’assistant IA, puis-je le supprimer ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultConfirmation": {
+    "message": "Êtes-vous sûr de définir le {name} actuel par défaut ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceConfirmation": {
+    "message": "{oldName} est déjà utilisé, êtes-vous sûr de le remplacer par {newName} ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noPermission": {
+    "message": "Aucune autorisation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInput": {
+    "message": "Saisie vocale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcast": {
+    "message": "Diffusion vocale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "associatedInstructions": {
+    "message": "Directives de corrélation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showShortInstructions": {
+    "message": "Affiché par des commandes courtes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharingScope": {
+    "message": "Partager",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlySelf": {
+    "message": "Privé",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareWithOthers": {
+    "message": "Partager avec les enseignants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "firstChoiceModel": {
+    "message": "Les grands modèles sont privilégiés",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiPlugins": {
+    "message": "Plug-ins d’IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQa": {
+    "message": "Q&R intelligent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Recommandations de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiQuestions": {
+    "message": "Questions par l'IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningReminder": {
+    "message": "Rappels d’apprentissage",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceSettings": {
+    "message": "Paramètres vocaux",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessage": {
+    "message": "Bienvenue",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarks": {
+    "message": "Ouverture",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntroHint": {
+    "message": "Présentez brièvement l’assistant IA et montrez-le à l’utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSettings": {
+    "message": "Grands paramètres du modèle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccess": {
+    "message": "Téléchargement réussi !",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageTooBig": {
+    "message": "La taille de l’image ne peut pas dépasser 2 Mo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileTypeNotSupported": {
+    "message": "Les types de fichiers ne sont pas pris en charge",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAssistant": {
+    "message": "Paramètres par défaut de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModel": {
+    "message": "Grand modèle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modify": {
+    "message": "Modifier",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatar": {
+    "message": "Avatar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelType": {
+    "message": "Type de modèle grand",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelTongyi": {
+    "message": "Mille questions au sens général",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "Petits pains aux haricots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "Avertissement",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "Téléchargé avec succès",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "Modifié avec succès",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "Ajouté avec succès",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "Modifier l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "Si je supprime {name}, je ne peux pas utiliser l’assistant IA, puis-je le supprimer ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "Copier le lien",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "Scannez le code QR pour partager l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "Partager",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "Dupliqué avec succès!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "Paramètres du site",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "Gérer la configuration de base du site courant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "Nom du site",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "Logo du site web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "Il prend en charge les formats jpg, jpeg et png, et la taille ne dépasse pas 2M. Taille suggérée : 300*60",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "Veuillez saisir le titre d’un site Web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "La longueur maximale du titre du site Web est de 50 mots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "Veuillez télécharger le logo de votre site Web",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "Renforcé par l’IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "Administrateur de l’organisation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "Configuration d’un assistant IA pour les organisations de gestion, etc.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "Privilèges de connexion complets",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "Toutes les autorisations de création de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "État de l’autorisation de connexion",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "L’assistant IA crée des statuts d’autorisation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "Configuration des autorisations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "Configuration fonctionnelle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "Configuration de base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "Grand modèle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "Mille questions au sens général",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "Petits pains aux haricots",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "Quantité quotidienne de sachets de grains",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "Veuillez entrer la quantité quotidienne de sachets de grains",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "La quantité quotidienne de haricots doit être un nombre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "jeton/jour",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "Marge d’aujourd’hui :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "Organisation totale utilisée :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "Configuration de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "Marge totale pour la saisie vocale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "Veuillez saisir la marge totale pour la saisie vocale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "mot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "Organisation totale utilisée :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "La marge totale de la diffusion vocale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "Veuillez saisir la marge totale pour les annonces vocales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "Humains numériques",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "Sélectionnez Humain numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "Configuration de l’outil d’IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "Outils d’IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "Classement intelligent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "Analyse vidéo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "Lecture de documents",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "Reconnaissance de formule",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "Marge totale pour l’analyse vidéo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "Veuillez saisir la marge totale pour l’analyse vidéo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "La marge totale pour l’analyse vidéo doit être numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "Min",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "Sources de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "La formule identifie la marge totale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "Veuillez entrer une formule pour identifier la marge totale",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "La formule reconnaît que la marge totale doit être un nombre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "fois",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "Mécanisme de configuration :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "Autorisation de connexion pour les agents IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "Une fois l’autorisation de connexion de l’agent AI activée, tous les administrateurs et enseignants de l’organisation peuvent se connecter au système de gestion de l’agent AI.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "Toutes les autorisations de création de l’assistant IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "Une fois l’autorisation de création d’assistant IA activée, tous les administrateurs ou enseignants de l’organisation peuvent créer des assistants IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "Une fois l’autorisation de connexion de l’agent AI activée, l’administrateur/enseignant peut se connecter au système de gestion de l’agent AI.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "Une fois l’autorisation de création de l’assistant IA activée, l’administrateur/enseignant peut créer un assistant IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "Ouvert",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "Ouvert",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "Non activé",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "Gestion des utilisateurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "Gérer la configuration des autorisations de l’assistant IA de l’utilisateur.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "Tous les instituts",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "Tous les rôles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "Compte",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "Rôle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "Enseignant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "Administrateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "Institut appartenait à",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "Utilisateur de configuration des autorisations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "Proche",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "La marge totale pour la saisie vocale doit être numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "La marge totale pour les annonces vocales doit être numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "Nom de l’institut",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "Rechercher le contenu de la conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "Étudiant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "Heure de début",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "Heure de fin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "atteindre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "Utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "Rôles de l'utilisateur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "Heure de début de la session",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "Heure de fin de session",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "Rejoignez la paire Q&R de la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Sélectionner la base de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "Aucun",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "Ajouter des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "être",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "non",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "Tranches de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "Les ressources ne sont pas découpées :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "Le contenu textuel de la ressource existe sous la forme d’un tout, qui ne peut être récupéré que de manière plus générale, et il est difficile de le localiser plus finement.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "Tranches de ressources :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "Le contenu textuel de la ressource est divisé en plusieurs petites tranches, et les questions-réponses intelligentes peuvent être récupérées indépendamment pour différentes tranches afin d’améliorer la précision et l’efficacité de la récupération.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "Trancher ou non",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "Importé avec succès!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "Voulez-vous vraiment supprimer une ressource ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "La taille du fichier ne peut pas dépasser 500 Mo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "Les ressources d’apprentissage suivantes sont recommandées pour vous :",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Grande bibliothèque de ressources idéologiques et politiques",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "Plateforme nationale de service public de l’éducation intelligente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.contentOperation": {
+    "message": "Opérations de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "Gestion des modèles PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Récupération des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "CNKI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "Bibliothèque de ressources pour les cours idéologiques et politiques de l’Université populaire",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "Ressources scolaires",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "Étendue de l’extraction des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "Sélectionnez une étendue de recherche de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "visiteur",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSlogan": {
+    "message": "Éclairer l’avenir de l’éducation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteDescription": {
+    "message": "Les agents d’enseignement de l’IA dans les collèges et les universités favorisent la transformation numérique et intelligente de l’éducation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "Cours ouverts",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "Améliorer la qualité grâce à la sagesse",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "Renforcer l’ensemble du processus d’enseignement idéologique et politique et aider à renforcer le leadership de l’éducation idéologique et politique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "Tous les types de modèles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "Gestion des modèles de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "Ajouter un modèle de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "Commencer le tri",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "Fin du tri",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "Type de modèle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "Modèles de thèmes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "Modèles de catalogue",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "Modèles de page intérieure",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "Nombre d’articles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "Télécharger",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "Sélectionnez le type de modèle de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "Type de modèle de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "Nom PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "Le nom PPT ne peut pas être vide",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "Le nom PPT ne doit pas dépasser 200 caractères",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "Modifié avec succès",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "Échec de la modification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "Ajouter un modèle de thème",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "Modèles de contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "Gérez tous les modèles PPT générés par PPT dans les outils d’IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "Dossier",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "Vidéo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "Image",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "Contenu riche",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "Lien",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "Question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "Document d’examen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "Simulation virtuelle",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "Autres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Ajouter un modèle de catalogue",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Ajouter un modèle de page intérieure",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 Quantité quotidienne",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Veuillez entrer le montant quotidien de DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "La quantité quotidienne de DeepSeek-R1 doit être numérique",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "Génération de PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Veuillez saisir la marge totale générée en PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "La marge totale générée par le PPT doit être un nombre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "Heures/Jour",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Entrez le mot-clé à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "Rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Partager sur Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Autorisations complètes de l’agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "État de l’autorisation Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Autorisations de l’Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "Les autorisations de Smarttwin Square peuvent être activées par l’organisation et ne peuvent pas être activées par un seul utilisateur.\nAprès l’activation, les utilisateurs institutionnels actuels peuvent partager l’assistant IA créé avec le Smart Twink Square pour l’affichage.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Contenu des ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Ajouter des tranches",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "tranche",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "Enregistrer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Clé dans le contenu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "Il n’y a pas encore de tranches de ressources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Enregistrez d’abord le contenu de la tranche",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "Êtes-vous sûr de vouloir le supprimer?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "Mutation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Activer le son",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "Jouer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "Pause",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "Plein écran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Transcodage, veuillez le vérifier plus tard",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Visitez l’URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "Le fichier ne prend pas en charge l’aperçu en ligne",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Équipe de cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Introduction de cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "Le téléchargement n’a pas été terminé, souhaitez-vous annuler le téléchargement ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Annuler le téléchargement",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Ajouter plus d’audio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "Téléchargement de {count} éléments",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Publier sur Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "Publié",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "Inédit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Échec de la mise en jeu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Gestion de la classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Ajouter des frères et sœurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Ajouter des enfants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "Modifier la catégorie",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "Supprimer la classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Nom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "Veuillez entrer le nom de classification.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Annuler",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "Confirmer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "Tous",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Sans catégorie",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "Tous les statuts publiés",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "Vous avez sélectionné {num} bases de connaissances",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "Entrez le nom à rechercher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "Classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Classification des cours",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Sélectionner tout",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Allez dans Créer un agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Paramétrer les classifications",
+    "description": "aiAssistantManagezh.json"
+  }
+}
