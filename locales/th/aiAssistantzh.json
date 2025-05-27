@@ -1,0 +1,1950 @@
+{
+  "lang": {
+    "message": "zh",
+    "description": "aiAssistantzh.json"
+  },
+  "AIHelp": {
+    "message": "ผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "AITools": {
+    "message": "เครื่องมือ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "login": {
+    "message": "ลงชื่อเข้าใช้",
+    "description": "aiAssistantzh.json"
+  },
+  "logOut": {
+    "message": "ออกจากระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "All": {
+    "message": "ทั้งหมดเลย",
+    "description": "aiAssistantzh.json"
+  },
+  "enterUsername": {
+    "message": "กรุณาใส่ชื่อผู้ใช้",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPassword": {
+    "message": "กรุณาใส่รหัสผ่าน",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip": {
+    "message": "ชื่อบัญชี/พาสเวิร์ดไม่ถูกต้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip1": {
+    "message": "ไม่มีผู้ใช้อยู่",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip2": {
+    "message": "การเข้าสู่ระบบล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip3": {
+    "message": "ท่านทำรายการผิดติดต่อกัน5ครั้งแล้ว อีก3นาทีกรุณาทดลองใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "userInfoExpired": {
+    "message": "ข้อมูลผู้ใช้หมดอายุ",
+    "description": "aiAssistantzh.json"
+  },
+  "hello": {
+    "message": "สวัสดี ฉันเป็นผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "desc": {
+    "message": "ในฐานะผู้ช่วยอัจฉริยะ AI ของคุณ ฉันสามารถรองรับการถาม & คําตอบอัจฉริยะ คําแนะนําทรัพยากร คําถาม AI เป็นต้น",
+    "description": "aiAssistantzh.json"
+  },
+  "AIAsk": {
+    "message": "ถาม & ตอบอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "guessTip": {
+    "message": "เดาว่าคุณต้องการถาม:",
+    "description": "aiAssistantzh.json"
+  },
+  "inputPlaceholder": {
+    "message": "คุณสามารถถามคําถามฉันได้หลังจากเข้าสู่ระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "askInputTip": {
+    "message": "กรุณากรอกคําถามของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "resultIntro": {
+    "message": "เนื้อหาข้างต้นสร้างโดย AI และใช้สําหรับอ้างอิงและอ้างอิงเท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendation": {
+    "message": "คําแนะนําทรัพยากร",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip": {
+    "message": "ไลบรารีทรัพยากรขนาดใหญ่ คําแนะนําทรัพยากรที่แม่นยํา",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestion": {
+    "message": "คำถามโดย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestionTip": {
+    "message": "การตั้งคําถามที่มีประสิทธิภาพและชาญฉลาดเพื่อปรับปรุงประสิทธิภาพการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "CommandCenter": {
+    "message": "ศูนย์บัญชาการ",
+    "description": "aiAssistantzh.json"
+  },
+  "selectInstruction": {
+    "message": "โปรดเลือกคําสั่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "newDialogue": {
+    "message": "สร้างการสนทนาใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "history": {
+    "message": "ประวัติที่บันทึกไว้:",
+    "description": "aiAssistantzh.json"
+  },
+  "thinking": {
+    "message": "ความคิด   ",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeSource": {
+    "message": "แหล่งที่มาของความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "answerAgain": {
+    "message": "ตอบใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "send": {
+    "message": "ประกาศ",
+    "description": "aiAssistantzh.json"
+  },
+  "copy": {
+    "message": "คัดลอก",
+    "description": "aiAssistantzh.json"
+  },
+  "copySuccess": {
+    "message": "คัดลอกสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "copyFail": {
+    "message": "คัดลอกล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceInputPlaceholder": {
+    "message": "คุณต้องแนะนําแหล่งข้อมูลประเภทใด ตั้งชื่อคําหลัก",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip2": {
+    "message": "แนะนําให้ใช้แหล่งข้อมูลการเรียนรู้ต่อไปนี้สําหรับคุณ:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeBatch": {
+    "message": "รีเฟรช",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTip": {
+    "message": "สร้างคําถามต่อไปนี้สําหรับคุณ:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionInputPlaceholder": {
+    "message": "คุณต้องมีคําถามประเภทใดบ้าง? ตั้งชื่อคําหลัก",
+    "description": "aiAssistantzh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantzh.json"
+  },
+  "nationalWebsite": {
+    "message": "National Smart Education Public Service Platform",
+    "description": "aiAssistantzh.json"
+  },
+  "generating": {
+    "message": "สร้าง   ",
+    "description": "aiAssistantzh.json"
+  },
+  "contentInputTip": {
+    "message": "เนื้อหาที่ส่งต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "requestTip": {
+    "message": "ระบบไม่ว่าง โปรดลองอีกครั้งในภายหลัง",
+    "description": "aiAssistantzh.json"
+  },
+  "questionType": {
+    "message": "ประเภทคําถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice": {
+    "message": "คําถามตัวเลือกเดียว",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice": {
+    "message": "คำถามปรนัย",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse": {
+    "message": "คำถามแบบถูกหรือผิด",
+    "description": "aiAssistantzh.json"
+  },
+  "fillBlank": {
+    "message": "คำถามประเภทเติมคำลงในช่องว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNums": {
+    "message": "จํานวนคําถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "notFountAI": {
+    "message": "ไม่พบผู้ช่วย AI ปัจจุบัน",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermission": {
+    "message": "ยังไม่ได้รับอนุญาตให้ใช้ในขณะนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistoryData": {
+    "message": "ไม่มีประวัติ",
+    "description": "aiAssistantzh.json"
+  },
+  "noResource": {
+    "message": "ไม่มีแหล่งข้อมูลที่แนะนําในขณะนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "requestFail": {
+    "message": "การร้องขอล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "noMore": {
+    "message": "ไม่มีเพิ่มเติมแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "loginTip": {
+    "message": "กรุณาเข้าสู่ระบบก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "fromRepository": {
+    "message": "แหล่งที่มา: ",
+    "description": "aiAssistantzh.json"
+  },
+  "fromCourse": {
+    "message": "แหล่งที่มา: ",
+    "description": "aiAssistantzh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "ULearning Resource Bank",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceKeys": {
+    "message": "คําแนะนําทรัพยากร:",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeys": {
+    "message": "คําถาม AI: คําถาม {type}, {num} คําถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "noContent": {
+    "message": "ยังไม่มีผลลัพธ์ โปรดแก้ไขคําหลัก",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage1": {
+    "message": "ชื่อเรื่องห้ามเว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage2": {
+    "message": "มีน้อยกว่าสองตัวเลือก",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage3": {
+    "message": "ต้องมีตัวเลือกไม่เกิน 20 ตัวเลือก",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage4": {
+    "message": "คําตอบที่ถูกต้องต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage5": {
+    "message": "เนื้อหาในตัวเลือกคําตอบที่ถูกต้องต้องไม่เว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage6": {
+    "message": "กรุณากรอกข้อมูลในตัวเลือกหรือลบตัวเลือกส่วนเกิน",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage7": {
+    "message": "จํานวนคําตอบที่ถูกต้องต้องไม่เกินจํานวนตัวเลือก",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage8": {
+    "message": "คำตอบที่ถูกต้องต้องไม่ปรากฎในรายการที่ไม่ถูกเลือก",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage9": {
+    "message": "มีรายการที่ซ้ำกันในคําตอบที่ถูกต้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage10": {
+    "message": "เนื้อหาของคําตอบอ้างอิงต้องไม่เว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage11": {
+    "message": "จํานวนคําตอบที่ถูกต้องต้องไม่น้อยกว่าจํานวนที่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage12": {
+    "message": "เพิ่มรายการกรอกข้อมูลในช่องว่างได้สูงสุด 20 รายการ",
+    "description": "aiAssistantzh.json"
+  },
+  "quesOrder": {
+    "message": "คําถามที่ {n}",
+    "description": "aiAssistantzh.json"
+  },
+  "correct": {
+    "message": "ถูกต้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "incorrect": {
+    "message": "ข้อผิดพลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "answer": {
+    "message": "คําตอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisTit": {
+    "message": "กรอกความละเอียดที่นี่ไม่มีไม่กรอก",
+    "description": "aiAssistantzh.json"
+  },
+  "loginInfoInvalid": {
+    "message": "ข้อมูลการเข้าสู่ระบบไม่ถูกต้องอีกต่อไป",
+    "description": "aiAssistantzh.json"
+  },
+  "createTip": {
+    "message": "เปลี่ยนเป็นเซสชันล่าสุด",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceFrom": {
+    "message": "ทรัพยากรจาก {type}:",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType1": {
+    "message": "อัปโหลดภายในเครื่อง",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType2": {
+    "message": "หลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType3": {
+    "message": "กราฟความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "systemSession": {
+    "message": "เซสชันระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTip": {
+    "message": "ตามความเชี่ยวชาญของจุดความรู้ เดาว่าคุณอาจต้องการแหล่งข้อมูลที่เกี่ยวข้องกับความรู้ต่อไปนี้:",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTipTea": {
+    "message": "ตามกราฟความรู้ เดาว่าคุณอาจต้องการแหล่งข้อมูลที่เกี่ยวข้องกับความรู้ต่อไปนี้:",
+    "description": "aiAssistantzh.json"
+  },
+  "homework": {
+    "message": "การบ้าน",
+    "description": "aiAssistantzh.json"
+  },
+  "utest": {
+    "message": "สอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "ua": {
+    "message": "สื่อการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "noRemindData": {
+    "message": "ยังไม่มีเซสชันระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "isTalking": {
+    "message": "ระบุ",
+    "description": "aiAssistantzh.json"
+  },
+  "noText": {
+    "message": "ไม่รู้จักข้อความ",
+    "description": "aiAssistantzh.json"
+  },
+  "end": {
+    "message": "แค่นั้นแหละ",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermissionTip": {
+    "message": "โปรดเปิดใช้งานสิทธิ์การบันทึก",
+    "description": "aiAssistantzh.json"
+  },
+  "startRecorder": {
+    "message": "เปิดการบันทึกอยู่",
+    "description": "aiAssistantzh.json"
+  },
+  "audioInputOverTimes": {
+    "message": "หากคุณต้องการเพิ่มขีดจํากัดการป้อนข้อมูลด้วยเสียง โปรดติดต่อผู้ดูแลระบบของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "หากคุณต้องการเพิ่มขีดจํากัดบนของการออกอากาศด้วยเสียง โปรดติดต่อผู้ดูแลระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "AiWorkbench": {
+    "message": "โต๊ะทํางาน AI",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentify": {
+    "message": "การรับรู้สูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysis": {
+    "message": "การวิเคราะห์วิดีโอ",
+    "description": "aiAssistantzh.json"
+  },
+  "docReading": {
+    "message": "การอ่านเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSet": {
+    "message": "ตั้งค่า",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarking": {
+    "message": "การให้คะแนนอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingDesc": {
+    "message": "การให้คะแนนคําถามอัตนัยโดยอัตโนมัติในงานที่ได้รับมอบหมายและการสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "workQueTitle": {
+    "message": "งาน/คําถามที่ให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "reselect": {
+    "message": "เลือกอีกครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQue": {
+    "message": "เลือกงาน/หัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint": {
+    "message": "หมายเหตุ: การให้คะแนนอัจฉริยะใช้ได้กับงานที่ได้รับมอบหมายและแบบทดสอบ/ข้อสอบที่ครูให้คะแนนเฉพาะคําถามคําตอบสั้น ๆ และการให้คะแนน AI จะจํากัดเฉพาะเนื้อหาข้อความ และไม่รองรับการให้คะแนนเนื้อหาที่ไม่ใช่ข้อความ เช่น ไฟล์แนบและรูปภาพที่นักเรียนส่งมา",
+    "description": "aiAssistantzh.json"
+  },
+  "personalHomework": {
+    "message": "การบ้านรายบุคคล",
+    "description": "aiAssistantzh.json"
+  },
+  "allTeachers": {
+    "message": "อาจารย์ทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "inputHomeworkName": {
+    "message": "ป้อนชื่องานเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "publisher": {
+    "message": "ผู้ประกาศ：",
+    "description": "aiAssistantzh.json"
+  },
+  "pendingReview": {
+    "message": "รอตรวจ：",
+    "description": "aiAssistantzh.json"
+  },
+  "studentPeerReview": {
+    "message": "การมอบหมายการประเมินโดยเพื่อนไม่รองรับการให้คะแนนอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "systemScoring": {
+    "message": "การมอบหมายการให้คะแนนของระบบไม่รองรับการให้คะแนนอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "noData": {
+    "message": "ไม่มีข้อมูลชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "test": {
+    "message": "แบบทดสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "exam": {
+    "message": "สอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoring": {
+    "message": "ในการให้คะแนน...",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringCompleted": {
+    "message": "การให้คะแนนเสร็จสมบูรณ์",
+    "description": "aiAssistantzh.json"
+  },
+  "loading": {
+    "message": "กําลังโหลด...",
+    "description": "aiAssistantzh.json"
+  },
+  "source": {
+    "message": "ที่มา:",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswer": {
+    "message": "คําตอบสั้น ๆ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreUnit": {
+    "message": "แบ่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirement": {
+    "message": "หัวข้อ/ข้อกําหนด",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirementTip": {
+    "message": "เพื่อปรับปรุงความแม่นยําของการให้คะแนนอัจฉริยะ คุณสามารถสอบถามเนื้อหาของคําถาม/การบ้านได้<br/>ทําการปรับแต่งอย่างละเอียด การปรับมีผลเฉพาะกับเนื้อหาการแก้ไขปัจจุบันและจะไม่ส่งผลต่อเนื้อหาต้นฉบับ<br/>เนื้อหาหัวข้อ/งานเริ่มต้น",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirement": {
+    "message": "กรุณากรอกคําถาม/ข้อกําหนด",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswer": {
+    "message": "คำตอบอ้างอิง",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswerTip": {
+    "message": "เพื่อปรับปรุงความแม่นยําของการให้คะแนนอัจฉริยะคุณสามารถปรับแต่งได้ว่าจะตั้งค่าพารามิเตอร์พื้นฐานหรือไม่<br/>คําตอบจะถูกให้คะแนน และสามารถปรับเนื้อหาของคําตอบได้ด้วยตนเอง ปรับเท่านั้น<br/>จะมีผลกับเนื้อหาการแก้ไขปัจจุบันและจะไม่ส่งผลต่อเนื้อหาคําตอบเดิม",
+    "description": "aiAssistantzh.json"
+  },
+  "useAsScoringBasis": {
+    "message": "เป็นพื้นฐานในการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswer": {
+    "message": "กรุณากรอกคำตอบอ้างอิง",
+    "description": "aiAssistantzh.json"
+  },
+  "fullScore": {
+    "message": "คะแนนเต็ม:",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringRules": {
+    "message": "เกณฑ์การให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "editRules": {
+    "message": "แก้ไขกฎ",
+    "description": "aiAssistantzh.json"
+  },
+  "selectTemplate": {
+    "message": "เลือกแม่แบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItem": {
+    "message": "รายการการจัดอันดับ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetrics": {
+    "message": "เมตริกการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreValue": {
+    "message": "คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "totalScore": {
+    "message": "คะแนนรวม",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringScale": {
+    "message": "มาตราส่วนการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "strict": {
+    "message": "เข้มงวด",
+    "description": "aiAssistantzh.json"
+  },
+  "moderate": {
+    "message": "ปานกลาง",
+    "description": "aiAssistantzh.json"
+  },
+  "lenient": {
+    "message": "หย่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentComment": {
+    "message": "บทวิจารณ์ที่ชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled": {
+    "message": "เปิดใช้งาน",
+    "description": "aiAssistantzh.json"
+  },
+  "disabled": {
+    "message": "ปิด",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled1": {
+    "message": "ใช้งานแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "deactivated": {
+    "message": "หยุดใช้งานแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "encouraging": {
+    "message": "ส่งเสริม",
+    "description": "aiAssistantzh.json"
+  },
+  "gentle": {
+    "message": "เล็กน้อย",
+    "description": "aiAssistantzh.json"
+  },
+  "serious": {
+    "message": "ร้ายแรง",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTest": {
+    "message": "ให้คะแนนการทดสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoring": {
+    "message": "เริ่มให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "system": {
+    "message": "ระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "cancel": {
+    "message": "ยกเลิก",
+    "description": "aiAssistantzh.json"
+  },
+  "useThisTemplate": {
+    "message": "ใช้เทมเพลตนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "addScoringItem": {
+    "message": "เพิ่มรายการการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScore": {
+    "message": "คะแนนที่เหลือ",
+    "description": "aiAssistantzh.json"
+  },
+  "delete": {
+    "message": "ลบ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringItem": {
+    "message": "โปรดป้อนรายการการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "metric": {
+    "message": "ดัชนี",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringMetric": {
+    "message": "โปรดป้อนเมตริกการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "score": {
+    "message": "คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "addMetric": {
+    "message": "เพิ่มเมตริก",
+    "description": "aiAssistantzh.json"
+  },
+  "confirm": {
+    "message": "ตกลง",
+    "description": "aiAssistantzh.json"
+  },
+  "noIntelligentMarkingData": {
+    "message": "ยังไม่มีข้อมูลสําหรับการแก้ไขอัจฉริยะในขณะนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "randomPaper": {
+    "message": "การสอบแบบสุ่มไม่รองรับการให้คะแนนอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "allPapers": {
+    "message": "ข้อสอบทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "inputQuizName": {
+    "message": "ป้อนชื่อแบบทดสอบเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "inputExamName": {
+    "message": "ป้อนการค้นหาชื่อข้อสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "selectHomework": {
+    "message": "โปรดเลือกงาน",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestion": {
+    "message": "กรุณาเลือกหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTestHint": {
+    "message": "หมายเหตุ: ผลการทดสอบที่ให้คะแนนจะไม่ถูกบันทึก และคุณสามารถเลือกที่จะเริ่มการให้คะแนนได้หากคุณยืนยันว่าผลการให้คะแนนตรงตามความคาดหวังของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "question": {
+    "message": "หัวข้อ:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnswer": {
+    "message": "คําตอบของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterStudentAnswer": {
+    "message": "กรุณากรอกคําตอบของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiScore": {
+    "message": "การให้คะแนน AI",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgress": {
+    "message": "ในการให้คะแนน...",
+    "description": "aiAssistantzh.json"
+  },
+  "reScoring": {
+    "message": "ให้คะแนนใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "next": {
+    "message": "คนต่อไป",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQueError": {
+    "message": "โปรดเลือกหัวข้อ/งานที่จะให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirementError": {
+    "message": "กรุณากรอกคําถาม/ข้อกําหนด",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswerError": {
+    "message": "กรุณากรอกคำตอบอ้างอิง",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoringHint": {
+    "message": "หลังจากเริ่มการให้คะแนน ระบบจะแก้ไขคําตอบที่ส่งมาของนักเรียนอย่างชาญฉลาดตามกฎการให้คะแนนที่คุณตั้งไว้ (จะไม่ส่งผลต่อการเปลี่ยนแปลงคะแนนของนักเรียนที่ครูอนุมัติแล้ว)<br/>แน่ใจว่าจะเริ่มให้คะแนน?",
+    "description": "aiAssistantzh.json"
+  },
+  "iKnow": {
+    "message": "ฉันเข้าใจแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgressHint": {
+    "message": " อยู่ในระหว่างการให้คะแนน...<br/><br/>กระบวนการให้คะแนนอาจใช้เวลานานคุณสามารถเลือกปิดหน้าต่างป๊อปอัปและระบบจะยังคงให้คะแนนในพื้นหลัง",
+    "description": "aiAssistantzh.json"
+  },
+  "useSuccess": {
+    "message": "ใช้สําเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScoreError": {
+    "message": "ผลรวมของคะแนนของตัวบ่งชี้การให้คะแนนทั้งหมดต้องเท่ากับคะแนนเต็ม",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError": {
+    "message": "จํานวนคําในรายการให้คะแนน {index} ต้องอยู่ระหว่าง 2 ถึง 500 คํา",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError1": {
+    "message": "จํานวนคําใน {subIndex} ของรายการคะแนน {index} ต้องอยู่ระหว่าง 2 ถึง 500 คํา",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetricsAndScoreError": {
+    "message": "ดัชนีคะแนนและค่าคะแนนของตัวบ่งชี้ {subIndex} ของรายการคะแนน {index} ต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "maxScoringItemError": {
+    "message": "สามารถเพิ่มรายการให้คะแนนได้สูงสุด 10 รายการในกฎการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "maxMetricError": {
+    "message": "สามารถเพิ่มตัวบ่งชี้การให้คะแนนได้สูงสุด 10 ตัวในรายการการให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNumberError": {
+    "message": "คะแนนสามารถเป็นตัวเลขได้เท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNegativeError": {
+    "message": "คะแนนต้องไม่น้อยกว่า 0",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreDecimalError": {
+    "message": "คะแนนสามารถเป็นทศนิยมได้เพียงตําแหน่งเดียว",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpen": {
+    "message": "ไม่ได้เปิดอยู่",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAI": {
+    "message": "จัดการผู้ช่วย AI ของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchDescription": {
+    "message": "แอปพลิเคชั่นการสอน AI แบบครบวงจร เตรียมบทเรียนที่ง่ายดาย และการเรียนรู้ที่มีประสิทธิภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchAdminTip": {
+    "message": "ผู้ดูแลระบบหลักสูตรต้องเปิด AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "openAIWorkbench": {
+    "message": "เปิด AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "viewExample": {
+    "message": "ดูตัวอย่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "essayQuestions": {
+    "message": "ข้อสอบแบบบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "shortQuestions": {
+    "message": "คําตอบสั้น ๆ",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiAssistant": {
+    "message": "ยังไม่ได้เพิ่มผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantTeacherAdd": {
+    "message": "ครูต้องเพิ่มผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantAdminManage": {
+    "message": "ผู้ดูแลระบบหลักสูตรสามารถจัดการผู้ช่วย AI ที่เชื่อมโยงกับหลักสูตรได้ในเมนูการตั้งค่า",
+    "description": "aiAssistantzh.json"
+  },
+  "goToSettings": {
+    "message": "ไปที่ตั้งค่า",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSetDescription": {
+    "message": "ตั้งค่าผู้ช่วย AI เครื่องมือ AI และฐานความรู้ที่เกี่ยวข้องกับ AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbench": {
+    "message": "ปิด AI Workbench",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbenchConfirm": {
+    "message": "เมื่อปิด AI Workbench แล้ว จะสามารถเปิดได้อีกครั้ง คุณแน่ใจหรือว่าปิดแล้ว?",
+    "description": "aiAssistantzh.json"
+  },
+  "repository": {
+    "message": "ฐานความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "addAiAssistant": {
+    "message": "เพิ่มผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAiAssistant": {
+    "message": "จัดการผู้ช่วย AI ของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "permission": {
+    "message": "สิทธิ์",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyTeacher": {
+    "message": "มีให้สําหรับครูเท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyStudent": {
+    "message": "มีให้สําหรับนักเรียนเท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "teacherAndStudent": {
+    "message": "มีให้สําหรับครูและนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteConfirm": {
+    "message": "ยืนยันที่จะลบ?",
+    "description": "aiAssistantzh.json"
+  },
+  "hint": {
+    "message": "เคล็ดลับ",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySuccess": {
+    "message": "แก้ไขสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "addSuccess": {
+    "message": "เพิ่มสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistant": {
+    "message": "เลือก AI Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "createdByMe": {
+    "message": "ที่ฉันสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "sharedBySchool": {
+    "message": "ใช้ร่วมกันโดยโรงเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "search": {
+    "message": "ค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "creator": {
+    "message": "ผู้สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "maxAiAssistant": {
+    "message": "สามารถเพิ่มผู้ช่วย AI ได้สูงสุด 10 คนในแต่ละหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistantError": {
+    "message": "โปรดเลือก AI Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "status": {
+    "message": "สถานะ",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySettings": {
+    "message": "แก้ไขการตั้งค่า",
+    "description": "aiAssistantzh.json"
+  },
+  "saveSettings": {
+    "message": "ตั้งค่าบันทึก",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiToolsEnabled": {
+    "message": "ยังไม่ได้เปิดใช้งานเครื่องมือ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "เพิ่มฐานความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyKnowledgeBase": {
+    "message": "จัดการฐานความรู้ของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "ลบ",
+    "description": "aiAssistantzh.json"
+  },
+  "noKnowledgeBase": {
+    "message": "ยังไม่ได้เพิ่มฐานความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "เลือกฐานความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBaseError": {
+    "message": "โปรดเลือกฐานความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadTitle": {
+    "message": "อัปโหลดไฟล์",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadDescription": {
+    "message": "โปรดอัปโหลดเอกสารของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadHint": {
+    "message": "อัปโหลดภายในเครื่อง",
+    "description": "aiAssistantzh.json"
+  },
+  "selectResource": {
+    "message": "เลือกทรัพยากร",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoHere": {
+    "message": "ลากและวางวิดีโอที่นี่เพื่ออัปโหลด",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimit": {
+    "message": "จํานวนวิดีโอที่วิเคราะห์ได้ (5) สําหรับวันนี้ถูกใช้จนหมดแล้ว ดังนั้นโปรดใช้อีกครั้งในวันพรุ่งนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "videoFormatError": {
+    "message": "รองรับเฉพาะรูปแบบวิดีโอเท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatError": {
+    "message": "เอกสารมีให้บริการในรูปแบบ doc, docx และ pdf เท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeError": {
+    "message": "ขนาดไฟล์สูงสุดต้องไม่เกิน 512 ม.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadSuccess": {
+    "message": "อัพโหลดสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFail": {
+    "message": "การอัปโหลดล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "selectDocument": {
+    "message": "เลือกเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "myResource": {
+    "message": "ทรัพยากรของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "courseResource": {
+    "message": "ทรัพยากรหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourses": {
+    "message": "หลักสูตรทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "documentName": {
+    "message": "ชื่อของเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "videoName": {
+    "message": "ชื่อสื่อวิดิทัศน์",
+    "description": "aiAssistantzh.json"
+  },
+  "size": {
+    "message": "ขนาด",
+    "description": "aiAssistantzh.json"
+  },
+  "historyRecord": {
+    "message": "ประวัติที่บันทึกไว้:",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitle": {
+    "message": "การอ่านเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitleText": {
+    "message": "สร้าง word cloud โดยอัตโนมัติบนเอกสารที่อัปโหลดและสนทนาตามเนื้อหาของเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDragText": {
+    "message": "ลากและวางเอกสารที่นี่",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingFormat": {
+    "message": "รองรับเฉพาะรูปแบบ Word และ PDF เท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "docUploadLoading": {
+    "message": "กําลังอัปโหลดเอกสาร...",
+    "description": "aiAssistantzh.json"
+  },
+  "docLearningLoading": {
+    "message": "เอกสารกําลังศึกษาอยู่",
+    "description": "aiAssistantzh.json"
+  },
+  "reUpload": {
+    "message": "อัปโหลดอีกครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDialogue": {
+    "message": "การสนทนาอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "wordCloud": {
+    "message": "คลาวด์คำศัพท์",
+    "description": "aiAssistantzh.json"
+  },
+  "document": {
+    "message": "เอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognition": {
+    "message": "การรับรู้สูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognitionDesc": {
+    "message": "ระบุสูตรวัตถุต่างๆ ในรูปภาพโดยอัตโนมัติและแปลงเป็นสูตร LateX ที่แก้ไขได้",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImage": {
+    "message": "อัปโหลดรูปภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionResult": {
+    "message": "ระบุผลลัพธ์",
+    "description": "aiAssistantzh.json"
+  },
+  "quickCopy": {
+    "message": "การจําลองแบบที่รวดเร็ว",
+    "description": "aiAssistantzh.json"
+  },
+  "recognizing": {
+    "message": "ระบุ   ",
+    "description": "aiAssistantzh.json"
+  },
+  "noContentRecognized": {
+    "message": "ไม่รู้จักเนื้อหา โปรดอัปโหลดอีกครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaPreview": {
+    "message": "ตัวอย่างสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatError": {
+    "message": "รูปภาพสามารถใช้ได้ในรูปแบบ PNG, JPG และ JPEG เท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "imageSizeError": {
+    "message": "ขนาดสูงสุดของภาพต้องไม่เกิน 512 ม.",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionLimitExceeded": {
+    "message": "จํานวนครั้งในการจดจําภาพหมดลง โปรดติดต่อฝ่ายบริการลูกค้าเพื่อขอความช่วยเหลือ",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToUpload": {
+    "message": "คลิกอัปโหลด",
+    "description": "aiAssistantzh.json"
+  },
+  "dragImageHere": {
+    "message": "ลากและวางรูปภาพที่นี่",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatSupport": {
+    "message": "รองรับเฉพาะรูปแบบ PNG, JPG และ JPEG เท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "videoUsageTips": {
+    "message": "เคล็ดลับการใช้งาน:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoDailyLimit": {
+    "message": "จํานวนวิดีโอที่สามารถวิเคราะห์ได้ต่อวันคือ 5",
+    "description": "aiAssistantzh.json"
+  },
+  "videoHistoryRecord": {
+    "message": "ประวัติที่บันทึกไว้:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisTitle": {
+    "message": "การวิเคราะห์วิดีโอ",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisDesc": {
+    "message": "สร้างบทสรุปคลิป คําบรรยาย และเมฆคําสําหรับวิดีโอที่อัปโหลดโดยอัตโนมัติ",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoText": {
+    "message": "ลากและวางวิดีโอที่นี่",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleVideoName": {
+    "message": "ตัวอย่างวิดีโอ.mp4",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadingVideo": {
+    "message": "วิดีโอกําลังอัปโหลด...",
+    "description": "aiAssistantzh.json"
+  },
+  "browserNotSupport": {
+    "message": "เบราว์เซอร์ของคุณไม่รองรับแท็กวิดีโอ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSummary": {
+    "message": "สรุป AI",
+    "description": "aiAssistantzh.json"
+  },
+  "fragmentSummary": {
+    "message": "สรุปตัวอย่างข้อมูล",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitles": {
+    "message": "คําบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "timeline": {
+    "message": "ไทม์ไลน์",
+    "description": "aiAssistantzh.json"
+  },
+  "transcripts": {
+    "message": "การถอดเสียงแบบคําต่อคํา",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleSrt": {
+    "message": "คําบรรยาย SRT",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleDoc": {
+    "message": "คําบรรยาย doc",
+    "description": "aiAssistantzh.json"
+  },
+  "transcriptsDoc": {
+    "message": "คําต่อคํา doc",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimitTip": {
+    "message": "จํานวนวิดีโอที่วิเคราะห์ได้ (5) สําหรับวันนี้ถูกใช้จนหมดแล้ว ดังนั้นโปรดใช้อีกครั้งในวันพรุ่งนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "unsupportedFormat": {
+    "message": "รูปแบบไฟล์ที่ไม่รองรับ",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimitTip": {
+    "message": "ขนาดไฟล์สูงสุดต้องไม่เกิน 512 ม.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopic": {
+    "message": "หัว ข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopicMetrics": {
+    "message": "จากการวิเคราะห์เนื้อหาของเนื้อหาและข้อกําหนดของคําถามเนื้อหาของคําตอบของนักเรียนมีธีมที่ชัดเจนปฏิบัติตามแนวคิดหลักของเนื้อหาอย่างใกล้ชิดและข้อโต้แย้งมีความถูกต้องซึ่งตรงตามข้อกําหนดของหัวข้ออย่างเต็มที่",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructure": {
+    "message": "ตรรกะโครงสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructureMetrics": {
+    "message": "โครงสร้างเชิงตรรกะของคําตอบของนักเรียนมีความชัดเจนเข้มงวดและลําดับชั้นมีความชัดเจน",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguage": {
+    "message": "การแสดงออกทางภาษา",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguageMetrics": {
+    "message": "นักเรียนควรมีความชัดเจนและคล่องแคล่วในภาษา ด้วยไวยากรณ์ที่ถูกต้องและถ้อยคําที่เหมาะสม และจํานวนคําควรเป็นไปตามข้อกําหนด",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContent": {
+    "message": "ความสมบูรณ์และความถูกต้องของเนื้อหา",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContentMetrics": {
+    "message": "คําตอบของนักเรียนนั้นครอบคลุมและถูกต้องครอบคลุมทุกประเด็นที่คําถามต้องการ",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerAccuracyMetrics": {
+    "message": "ความคิดเห็น ข้อเท็จจริง หรือตัวเลขถูกต้องและไม่ถูกตีความผิด",
+    "description": "aiAssistantzh.json"
+  },
+  "or": {
+    "message": "หรือ",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "การดึงทรัพยากร",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "การสร้าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "คําถามอัตนัย:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "สร้างโครงร่างใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "สร้าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "กําลังสร้างโครงร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "เลือกเทมเพลต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "โปรดเลือกเทมเพลต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "ดาวน์โหลด PowerPoint",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "การสร้างสําเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "การสร้างล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "ดูโครงร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "ลบสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "เพิ่มบท",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "เพิ่มหน้าภายใน",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "เพิ่มสัญลักษณ์แสดงหัวข้อย่อย",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "สามารถเพิ่มได้สูงสุด 8 นอต",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "คุณสามารถเพิ่มได้สูงสุด 8 หน้า",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "คุณสามารถเพิ่มสัญลักษณ์แสดงหัวข้อย่อยได้สูงสุด 8 จุด",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "โปรดป้อนชื่อส่วน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "โปรดป้อนคําบรรยายสําหรับบท",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "โปรดป้อนชื่อสําหรับหน้าด้านใน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "โปรดป้อนคําบรรยายสําหรับหน้าด้านใน",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "โปรดป้อนชื่อหัวข้อย่อย",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "กรุณากรอกประเด็นหลัก",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "ขอบคุณสําหรับการรับชม",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "ค้นหาแหล่งข้อมูลการสอนคุณภาพสูงทั้งภายในและภายนอกไซต์อย่างชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "ขอบเขตการค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "เรียก",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "ประวัติการค้นหา:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "โปรดป้อนคําหลักทรัพยากรที่คุณกําลังมองหา",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "โปรดป้อนคําค้นหาของคุณก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "โปรดเลือกขอบเขตการค้นหาก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "ทรัพยากรของโรงเรียนของเรา",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "ห้องสมุดทรัพยากรหลักสูตรอุดมการณ์และการเมืองของมหาวิทยาลัยประชาชน",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "ประวัติการค้นหา:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "การวิเคราะห์คําศัพท์",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "การดึงข้อมูลการสกัดอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "เสร็จสิ้นเรียบร้อย",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "วิดีโอ",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "ภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "เสียง",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "ลิงค์",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "ประกาศไปยังหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "ชื่อหลักสูตร:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "ขอบเขตการเผยแพร่ทรัพยากร:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "ชั้นเรียนของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "ทุกชั้นเรียนของหลักสูตร (สําหรับผู้ดูแลหลักสูตรเท่านั้น)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "กรุณาเลือกหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "ประกาศสำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "คําตอบของ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "ผู้แต่ง:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "สรุป:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "คำสำคัญ:",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "บิลิบิลี",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "ซีเอ็นเค",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "สินค้าแนะนํา",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "ทรัพยากรของโรงเรียนของเรา",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "ห้องสมุดทรัพยากรหลักสูตรอุดมการณ์และการเมืองของมหาวิทยาลัยประชาชน",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "จํานวนที่ใช้ของวันนี้{used}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "PPT สามารถใช้เพื่อสร้าง {count} ครั้งต่อวัน",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "สร้าง PPT โดยอัตโนมัติตามหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "กรุณาป้อนชื่อหัวข้อ PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "สร้างเค้าร่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "ธีมที่แนะนํา",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "สลับออก",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "คุณได้ใช้จํานวนการใช้งาน ({count}) สําหรับวันนี้จนหมดแล้ว ดังนั้นโปรดใช้อีกครั้งในวันพรุ่งนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "กรุณาป้อนชื่อหัวข้อ PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "ป้อนชื่อหัวข้อที่มีอักขระมากกว่า 20 ตัว",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "ชื่อเรื่อง",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "สารบัญ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "กรุณาป้อนแคตตาล็อก",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "เพิ่มสารบัญ",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "บท",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "หน้าภายใน",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "คําถามนับพันในความหมายทั่วไป",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "ซาลาเปาถั่ว",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "การเรียนรู้   ",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "คงแก่เรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "ลบทั้งส่วน คุณแน่ใจหรือว่าต้องการลบ?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "คุณแน่ใจหรือไม่ว่าคุณแน่ใจว่าจะลบประเด็นหลักและเนื้อหาหลักของประเด็นหลัก?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "ชื่อเรื่องต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "ชื่อเรื่องห้ามเว้นว่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "รายการแค็ตตาล็อกต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "เนื้อหาต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "กรุณากรอกหัวข้อ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "กรุณาป้อนคําบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "เสร็จสิ้น",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "แสดงตัวอย่าง",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "อย่าลังเลที่จะแลกเปลี่ยนเนื้อหาของ {name} คุณอาจต้องการถาม:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "สร้าง   ",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "ตัวอย่าง PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT กําลังถูกสร้างขึ้น...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "ชื่อบทต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "ชื่อของหน้าภายในต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "ชื่อหัวข้อย่อยต้องว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "เนื้อหาสัญลักษณ์แสดงหัวข้อย่อยต้องไม่ว่างเปล่า",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT กําลังถูกสร้างขึ้น...<br/><br/>คุณสามารถปิดหน้าต่างป๊อปอัปและดูผลลัพธ์การสร้างในภายหลังในประวัติของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "สร้างอย่างชาญฉลาด",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "ไม่จําเป็นต้องกังวลเกี่ยวกับการสอนบทเรียน และการสร้างอัจฉริยะจะช่วยแก้ปัญหาความกังวลได้",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "การเลือกเทมเพลต",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "สามารถเลือกเทมเพลต PPT ได้ตามต้องการ และการนําเสนอที่สร้างสรรค์ก็ไม่ใช่เรื่องยาก",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "การประยุกต์ใช้การสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "ชั้นเรียนบทเรียนจะถูกส่งได้ด้วยคลิกเดียว และการเชื่อมต่อการสอนเป็นไปอย่างราบรื่น",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "ตัวแทนสแควร์",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "ที่เก็บโมเดล",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "ที่ฉันสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "คอลเลกชันของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "ศูนย์นักพัฒนา",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "ไปที่ สร้างตัวแทน",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "ไม่มีข้อมูลชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "ตัวแทนของฉัน",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "การปรับแต่งโมเดลอย่างละเอียด",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "คําอธิบายการเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "ยังไม่มีรายการโปรด",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "ไปที่ Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "ตัวแทนที่ยังไม่ได้สร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "จัดลำดับรวม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "คอลเลกชันยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "การเข้าถึงยอดนิยม",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "คัดลอกรหัส",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "ตัวอย่างการตอบกลับการโทร",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "ข้อกําหนดเบื้องต้น",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "คุณได้รับคีย์ API ซึ่งใช้สําหรับการตรวจสอบสิทธิ์การเรียก API",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "รับชื่อรุ่นสําหรับการเรียกแบบจําลอง",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "ใบสมัคร สแควร์",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "หน้าใหม่เข้าถึงร่างกายสมาร์ท",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "ไปที่ Smart Body",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "ดูทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "ลาก เรียงลำดับที่ปรับแต่งได้",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "ล่าสุด",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "ร้อนแรงที่สุด",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "ยังไม่เปิดให้บริการในขณะนี้โปรดติดตาม",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "กลับ",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "คอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "คอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "ป้อนชื่อหัวข้อการค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "ชั้นเรียนทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "เพื่อแก้ปัญหาการสร้าง PPT ของฉากต่าง ๆ ให้สร้างได้อย่างรวดเร็วโดยอัตโนมัติตามหัวข้อเพื่อปรับปรุงประสิทธิภาพการผลิต PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "รองรับการอัปโหลดเอกสารคำถามและคำตอบการออกคำถามการสร้างเมฆคำ ฯลฯ ตามเนื้อหาของเอกสาร",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "อัปโหลดรูปภาพสูตรที่เขียนด้วยลายมือสนับสนุนการแยกและแปลงสูตรจากภาพเป็นรหัส LateX",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "คลิกเพื่อเข้าสู่ระบบ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "ศูนย์ศักยภาพ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "แอปพลิเคชันอัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "เปิดศูนย์ความสามารถ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "สมาร์ทบอดี้สำหรับคอลเลกชัน",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "มากกว่า",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "ผู้ช่วยอัจฉริยะในห้องเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Ai สนทนาผู้ช่วย",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "ผู้ช่วยสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "กำลังเปิดตัว ..",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "ฉันเป็นผู้ช่วยสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "ฉันกำลังฟัง",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "หยุดชั่วคราว",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "หยุด",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "ปิดคำบรรยาย",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "สิ้นสุดการอภิปราย",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "ผู้ช่วยตอบคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "ให้ AI มีบทบาทที่กำหนดและการสนทนาเชิงลึกของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "บันทึกการอภิปรายทางประวัติศาสตร์",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "ค้นหาภาพหน้าจอ",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "ภาพหน้าจอตอบคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "สมาร์ทบอดี้ในห้องเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "รับภาพโอ้",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "ออกจากห้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "เปิด Smart Body Voice",
+    "description": "aiAssistantzh.json"
+  }
+}

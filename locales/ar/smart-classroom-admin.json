@@ -8,15 +8,15 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.recordedClass": {
-    "message": "مراقبة الدروس المسجلة",
+    "message": "مراجعة المحاضرات",
     "description": "smart-classroom-admin 项目"
   },
   "route.recording": {
-    "message": "بث مباشر",
+    "message": "البث المباشر",
     "description": "smart-classroom-admin 项目"
   },
   "route.playback": {
-    "message": "إعادة تشغيل الدرس",
+    "message": "المحاضرات المسجلة",
     "description": "smart-classroom-admin 项目"
   },
   "route.setUp": {
@@ -36,11 +36,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.classroomManage": {
-    "message": "إدارة قاعات الدراسة",
+    "message": "قاعات الدراسة",
     "description": "smart-classroom-admin 项目"
   },
   "route.equipmentManage": {
-    "message": "إدارة الأجهزة",
+    "message": "الأجهزة",
     "description": "smart-classroom-admin 项目"
   },
   "route.controlCenter": {
@@ -52,7 +52,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.scheduleManage": {
-    "message": "إدارة جداول المحاضرات",
+    "message": "جدول المحاضرات",
     "description": "smart-classroom-admin 项目"
   },
   "route.academicYear": {
@@ -60,11 +60,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.courseManage": {
-    "message": "إدارة المقررات الدراسية",
+    "message": "المقررات الدراسية",
     "description": "smart-classroom-admin 项目"
   },
   "route.recordingPlan": {
-    "message": "جدول التسجيل",
+    "message": "جدولة التسجيلات",
     "description": "smart-classroom-admin 项目"
   },
   "route.hostSettings": {
@@ -72,15 +72,15 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.accountManage": {
-    "message": "إدارة الحسابات",
+    "message": "المستخدمين",
     "description": "smart-classroom-admin 项目"
   },
   "route.teaAccount": {
-    "message": "إدارة المعلمين",
+    "message": "المعلمين",
     "description": "smart-classroom-admin 项目"
   },
   "route.stuAccount": {
-    "message": "إدارة الطلاب",
+    "message": "الطلاب",
     "description": "smart-classroom-admin 项目"
   },
   "route.equipmentManageList": {
@@ -92,7 +92,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.arranging": {
-    "message": "إحصاءات الجدول الدراسي",
+    "message": "إحصائيات الجدولة",
     "description": "smart-classroom-admin 项目"
   },
   "route.attendance": {
@@ -252,7 +252,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "common.num": {
-    "message": "الكمية",
+    "message": "العدد",
     "description": "smart-classroom-admin 项目"
   },
   "common.videoBeingGenerated": {
@@ -1332,7 +1332,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "dashboard.ArrangingNum": {
-    "message": "عدد المحاضرات المجدولة",
+    "message": "المحضرات المجدولة",
     "description": "smart-classroom-admin 项目"
   },
   "dashboard.aNum": {
@@ -1408,7 +1408,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.classPlayback": {
-    "message": "إعادة تشغيل المحاضرة",
+    "message": "المحاضرات المسجلة",
     "description": "smart-classroom-admin 项目"
   },
   "route.superviseTask": {
@@ -1432,19 +1432,19 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.supervisorManagement": {
-    "message": "إدارة المراجعون",
+    "message": "المراجعون",
     "description": "smart-classroom-admin 项目"
   },
   "route.evaluation": {
-    "message": "البيانات التقييم",
+    "message": "بيانات المراجعة",
     "description": "smart-classroom-admin 项目"
   },
   "route.basicData": {
-    "message": "المعلومات الأساسية",
+    "message": "المعلومات الاساسية",
     "description": "smart-classroom-admin 项目"
   },
   "route.evaluationScale": {
-    "message": "معايير التقييم",
+    "message": "معايير المراجعة",
     "description": "smart-classroom-admin 项目"
   },
   "route.createScale": {
@@ -1452,7 +1452,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.supervisoryGroup": {
-    "message": "إدارة فرق المراجعة",
+    "message": "فرق المراجعة",
     "description": "smart-classroom-admin 项目"
   },
   "common.card": {
@@ -2036,7 +2036,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "courseManage.havingClass": {
-    "message": "في المحاضرة",
+    "message": "قيد الاستخدام",
     "description": "smart-classroom-admin 项目"
   },
   "dashboard.classRoomState": {
@@ -2048,7 +2048,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "equipmentManage.recordedByManual": {
-    "message": "تسجيلات مجدولة",
+    "message": "تسجيل مجدول",
     "description": "smart-classroom-admin 项目"
   },
   "attendance.msg1": {
@@ -2876,7 +2876,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.administrator": {
-    "message": "المدير",
+    "message": "المسؤولون",
     "description": "smart-classroom-admin 项目"
   },
   "translation.upTo200Words": {
@@ -3036,7 +3036,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.supervisorNum": {
-    "message": "عدد مرات المراجعة",
+    "message": "المراجعات",
     "description": "smart-classroom-admin 项目"
   },
   "translation.averageScore": {
@@ -3072,7 +3072,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.indicator": {
-    "message": "فهرس",
+    "message": "المؤشر",
     "description": "smart-classroom-admin 项目"
   },
   "translation.lower": {
@@ -3092,7 +3092,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.courseTea": {
-    "message": "معلم المقرر",
+    "message": "المحاضرين",
     "description": "smart-classroom-admin 项目"
   },
   "translation.warningNumber": {
@@ -3144,7 +3144,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.addSupervisionGroup": {
-    "message": "إضافة مشرف",
+    "message": "إضافة فريق مراجعة",
     "description": "smart-classroom-admin 项目"
   },
   "translation.editSupervisionGroup": {
@@ -3256,7 +3256,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg24": {
-    "message": "تحليل مؤشرات التقييم",
+    "message": "تحليل مؤشرات المراجعة",
     "description": "smart-classroom-admin 项目"
   },
   "translation.msg25": {
@@ -3416,7 +3416,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "translation.pleaseSelectEndTime": {
-    "message": "وقت الانتهاء",
+    "message": "وقت النهاية",
     "description": "smart-classroom-admin 项目"
   },
   "translation.networkError": {
@@ -3884,11 +3884,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.liveEvent": {
-    "message": "البث عبر الإنترنت",
+    "message": "البث عبر الانترنت",
     "description": "smart-classroom-admin 项目"
   },
   "route.equipmentInspection": {
-    "message": "فحص الجهاز",
+    "message": "فحص الإجهزة",
     "description": "smart-classroom-admin 项目"
   },
   "route.systemLog": {
@@ -3904,7 +3904,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.portalManagement": {
-    "message": "إدارة البوابة",
+    "message": "بوابة الفيديو عند الطلب (VOD)",
     "description": "smart-classroom-admin 项目"
   },
   "route.courseProject": {
@@ -4188,7 +4188,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "live.liveEvent": {
-    "message": "أنشطة البث المباشر",
+    "message": "البث عبر الانترنت",
     "description": "smart-classroom-admin 项目"
   },
   "live.seeMore": {
@@ -4224,7 +4224,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "live.courseSchedule": {
-    "message": "المراجعة حسب الجدول الزمني للفصل",
+    "message": "المراجعة حسب جدول المحاضرات",
     "description": "smart-classroom-admin 项目"
   },
   "live.classSchedule": {
@@ -4692,11 +4692,11 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.intelligentAnalysis": {
-    "message": "التحليل الذكي للفيديو",
+    "message": "تحليل الفيديو بالذكاء الاصطناعي",
     "description": "smart-classroom-admin 项目"
   },
   "route.classAnalysisStatistics": {
-    "message": "إحصائيات تحليل المحاضرة",
+    "message": "إحصائيات تحليل الجلسات",
     "description": "smart-classroom-admin 项目"
   },
   "route.classroomDetail": {
@@ -5168,7 +5168,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.recordLive": {
-    "message": "إدارة التسجيل والبث",
+    "message": "التسجيل والبث",
     "description": "smart-classroom-admin 项目"
   },
   "route.maintenanceInspection": {
@@ -5176,7 +5176,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "route.basicInfoManage": {
-    "message": "إدارة المعلومات الأساسية",
+    "message": "الاإعدادات",
     "description": "smart-classroom-admin 项目"
   },
   "login.loginType1": {

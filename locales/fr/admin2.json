@@ -35,10 +35,6 @@
     "message": "Bientôt expiré",
     "description": "新版管理后台 zh.json"
   },
-  "organization.discontinued": {
-    "message": "Désactiver",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.suspend": {
     "message": "Désactiver",
     "description": "新版管理后台 zh.json"
@@ -65,10 +61,6 @@
   },
   "organization.action": {
     "message": "Action",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.view": {
-    "message": "Vue",
     "description": "新版管理后台 zh.json"
   },
   "organization.edit": {
@@ -263,6 +255,26 @@
     "message": "Sauvegarder avec succès!",
     "description": "新版管理后台 zh.json"
   },
+  "organization.organizationText": {
+    "message": "des sous-institutions",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.proxyOrganization": {
+    "message": "agence",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step10": {
+    "message": "Définir les principes de base du {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step11": {
+    "message": "Configurer les ressources disponibles pour le {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step12": {
+    "message": "Créer un super administrateur pour le {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
   "login.title": {
     "message": "Connexion",
     "description": "新版管理后台 zh.json"
@@ -321,10 +333,6 @@
   },
   "routers.courseStatistics": {
     "message": "Statistiques des cours",
-    "description": "新版管理后台 zh.json"
-  },
-  "routers.courseAnalysis": {
-    "message": "Analyse des cours",
     "description": "新版管理后台 zh.json"
   },
   "routers.examManage": {
@@ -471,14 +479,6 @@
     "message": "Institutions concernées",
     "description": "新版管理后台 zh.json"
   },
-  "permission.addCharacteristicFormitem6": {
-    "message": "Autorisations",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.addCharacteristicplaceholder6": {
-    "message": "Spécifie les autorisations associées à la propriété et, lorsque la propriété est désactivée, aucun rôle de l’institution ne peut accéder à ces ressources de privilèges.",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addCharacteristicFormitem7": {
     "message": "S’il est activé",
     "description": "新版管理后台 zh.json"
@@ -517,10 +517,6 @@
   },
   "permission.delete": {
     "message": "Supprimer",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.requierTip": {
-    "message": "Élément requis",
     "description": "新版管理后台 zh.json"
   },
   "permission.repeatTip": {
@@ -569,10 +565,6 @@
   },
   "permission.confirmBtn": {
     "message": "Confirmer",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.features": {
-    "message": "caractéristique",
     "description": "新版管理后台 zh.json"
   },
   "permission.deleteBtn": {
@@ -727,10 +719,6 @@
     "message": "Description",
     "description": "新版管理后台 zh.json"
   },
-  "permission.permissionGropuFormItemPlaceholder7": {
-    "message": "Entrez une description",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.deletePermissionGroupConfirmTitle": {
     "message": "Confirmation de l’opération",
     "description": "新版管理后台 zh.json"
@@ -741,10 +729,6 @@
   },
   "permission.deletePermissionGroupConfirmTitle1": {
     "message": "Avertissement",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.deletePermissionGroupConfirmBtn": {
-    "message": "Proche",
     "description": "新版管理后台 zh.json"
   },
   "permission.deletePermissionGroupConfirmDesc1": {
@@ -769,10 +753,6 @@
   },
   "permission.saveSuccess": {
     "message": "Sauvegarder avec succès!",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManageradd": {
-    "message": "Ajouter",
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerPlaceload1": {
@@ -852,10 +832,6 @@
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerFormItemPlaceholder1": {
-    "message": "Entrez un nom de rôle",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManagerFormItemPlaceholder2": {
     "message": "Entrez un nom de rôle",
     "description": "新版管理后台 zh.json"
   },
@@ -955,10 +931,6 @@
     "message": "La mise à jour du rôle a réussi",
     "description": "新版管理后台 zh.json"
   },
-  "permission.isConfirmText5": {
-    "message": "Annuler la mise à jour du rôle",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addRoleSuccess": {
     "message": "Le rôle a été ajouté avec succès",
     "description": "新版管理后台 zh.json"
@@ -1035,10 +1007,6 @@
     "message": "Exportation en vrac",
     "description": "新版管理后台 zh.json"
   },
-  "common.exportDesc": {
-    "message": "Vous pouvez exporter une plage spécifiée de données à la fois",
-    "description": "新版管理后台 zh.json"
-  },
   "common.exportTip": {
     "message": "Définir la plage de données à exporter",
     "description": "新版管理后台 zh.json"
@@ -1073,10 +1041,6 @@
   },
   "notice.successUpload": {
     "message": "Fichier téléchargé avec succès!",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.errUpload": {
-    "message": "La limite actuelle sélectionne {0} fichiers, et cette fois {1} fichiers sont sélectionnés, pour un total de {2} fichiers",
     "description": "新版管理后台 zh.json"
   },
   "notice.delUpload": {
@@ -1263,10 +1227,6 @@
     "message": "Veuillez définir la méthode d’affichage",
     "description": "新版管理后台 zh.json"
   },
-  "notice.errForm": {
-    "message": "Les informations sur l’annonce sont incomplètes",
-    "description": "新版管理后台 zh.json"
-  },
   "notice.successPub": {
     "message": "L’annonce a été couronnée de succès",
     "description": "新版管理后台 zh.json"
@@ -1407,10 +1367,6 @@
     "message": "Toutes les années",
     "description": "新版管理后台 zh.json"
   },
-  "course.allOrg": {
-    "message": "Tous les instituts",
-    "description": "新版管理后台 zh.json"
-  },
   "course.allState": {
     "message": "Tous les statuts",
     "description": "新版管理后台 zh.json"
@@ -1509,10 +1465,6 @@
   },
   "course.setTheClassTypeOfTheSchoolClass": {
     "message": "Ajouter/Modifier les catégories de cours",
-    "description": "新版管理后台 zh.json"
-  },
-  "course.delete": {
-    "message": "Supprimer",
     "description": "新版管理后台 zh.json"
   },
   "course.addContinue": {
@@ -1643,10 +1595,6 @@
     "message": "comprend les examens",
     "description": "新版管理后台 zh.json"
   },
-  "course.requireTip": {
-    "message": "Exiger",
-    "description": "新版管理后台 zh.json"
-  },
   "course.lengthTip": {
     "message": "Longueur 2-200",
     "description": "新版管理后台 zh.json"
@@ -1669,10 +1617,6 @@
   },
   "exams.filterPlaceholder1": {
     "message": "Entrez la recherche de nom d’examen / enseignant",
-    "description": "新版管理后台 zh.json"
-  },
-  "exams.filterPlaceholder2": {
-    "message": "Récupérer la plage de temps",
     "description": "新版管理后台 zh.json"
   },
   "exams.filterPlaceholder3": {
@@ -1848,15 +1792,11 @@
     "description": "新版管理后台 zh.json"
   },
   "users.accountTable7": {
-    "message": "Listes de diffusion",
+    "message": "Modifier le mot de passe en masse",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction1": {
     "message": "Modifier",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.accountTableAction2": {
-    "message": "Modifier le mot de passe",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction3": {
@@ -1931,38 +1871,6 @@
     "message": "Au moins 8 chiffres du mot de passe, y compris les lettres et les chiffres",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormPlaceholder6": {
-    "message": "Votre nom complet, qui sera utilisé dans le certificat et le rapport officiel",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder7": {
-    "message": "Votre nom complet, qui sera utilisé dans le certificat et le rapport officiel",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder8": {
-    "message": "Votre nom complet, qui sera utilisé dans le certificat et le rapport officiel",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr1": {
-    "message": "Le nom complet est requis",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr2": {
-    "message": "La longueur du texte ne dépasse pas 128 caractères",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr3": {
-    "message": "Un nom d’affichage est requis",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr4": {
-    "message": "Le texte ne peut pas dépasser 64 caractères",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr5": {
-    "message": "La longueur du texte ne dépasse pas 128 caractères",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr6": {
     "message": "L’adresse e-mail est requise",
     "description": "新版管理后台 zh.json"
@@ -1975,16 +1883,8 @@
     "message": "L’adresse e-mail est incorrecte",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormErr9": {
-    "message": "Le mot de passe doit comporter au moins 8 chiffres",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr10": {
     "message": "Le mot de passe est composé de 8 à 20 chiffres et contient des lettres et des chiffres",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr11": {
-    "message": "Un mot de passe est requis",
     "description": "新版管理后台 zh.json"
   },
   "users.createFormErr12": {
@@ -2147,10 +2047,6 @@
     "message": "Recherche par nom et adresse e-mail",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerfilter2": {
-    "message": "Tout le statut",
-    "description": "新版管理后台 zh.json"
-  },
   "users.registerfilter3": {
     "message": "Tous les rôles",
     "description": "新版管理后台 zh.json"
@@ -2197,22 +2093,6 @@
   },
   "users.registerTableAction1": {
     "message": "Modifier",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction2": {
-    "message": "Supprimer l’utilisateur",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction3": {
-    "message": "Résultats d’apprentissage",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction4": {
-    "message": "Journal d’enseignement",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction5": {
-    "message": "Gérer les journaux",
     "description": "新版管理后台 zh.json"
   },
   "users.registerFormTitle": {
@@ -2299,16 +2179,8 @@
     "message": "La relation d’enregistrement du compte {mail} a été modifiée",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerAccountRet": {
-    "message": "{mail} et autres comptes {count} enregistrement terminé",
-    "description": "新版管理后台 zh.json"
-  },
   "users.inviteUserErr": {
     "message": "Le nombre de comptes a atteint le nombre maximum de comptes de l’institution, et il n’est pas possible de créer un nouveau compte, veuillez contacter l’administrateur pour acheter un nouveau compte.",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.inviteUserSuccess": {
-    "message": "Une invitation d’inscription a été envoyée à {mail} et à d’autres boîtes aux lettres {count}.",
     "description": "新版管理后台 zh.json"
   },
   "users.passwordSuccess": {
@@ -2317,10 +2189,6 @@
   },
   "users.passwordFail": {
     "message": "Echec de la modification du mot de passe",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.activeAccountErr": {
-    "message": "Le nombre de comptes actifs a atteint le maximum et aucun nouveau compte actif ne peut être ajouté, veuillez contacter l’administrateur pour acheter un nouveau compte actif",
     "description": "新版管理后台 zh.json"
   },
   "users.accountOver": {
@@ -2333,10 +2201,6 @@
   },
   "users.delRegisterRole2": {
     "message": "Gestion des inscriptions",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.loadingText1": {
-    "message": "En cours, soyez patient...",
     "description": "新版管理后台 zh.json"
   },
   "users.loadingText2": {
@@ -2659,10 +2523,6 @@
     "message": "Entrez la recherche de nom en direct / enseignant",
     "description": "新版管理后台 zh.json"
   },
-  "live.filterPlaceholder2": {
-    "message": "Récupérer la plage de temps",
-    "description": "新版管理后台 zh.json"
-  },
   "live.filterPlaceholder3": {
     "message": "Tous les statuts",
     "description": "新版管理后台 zh.json"
@@ -2879,10 +2739,6 @@
     "message": "La salle de réunion est supprimée avec succès",
     "description": "新版管理后台 zh.json"
   },
-  "live.selctTea": {
-    "message": "Sélectionnez un enseignant",
-    "description": "新版管理后台 zh.json"
-  },
   "live.setMeetingRoomTitle": {
     "message": "Configurer des salles cloud",
     "description": "新版管理后台 zh.json"
@@ -2913,10 +2769,6 @@
   },
   "saas.used": {
     "message": "Utilisé",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.max": {
-    "message": "max",
     "description": "新版管理后台 zh.json"
   },
   "saas.expired": {
@@ -3043,10 +2895,6 @@
     "message": "Modifications des ressources",
     "description": "新版管理后台 zh.json"
   },
-  "saas.confirm5": {
-    "message": "Envoyer un e-mail de notification à l’administrateur du site",
-    "description": "新版管理后台 zh.json"
-  },
   "saas.confirm6": {
     "message": "Confirmer",
     "description": "新版管理后台 zh.json"
@@ -3105,10 +2953,6 @@
   },
   "saas.tips12": {
     "message": "Toutes les salles de réunion ont expiré et ne peuvent pas être utilisées, veuillez contacter votre gestionnaire de compte pour renouveler votre contrat à temps",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.rule1": {
-    "message": "Ce champ est obligatoire",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule2": {
@@ -3187,10 +3031,6 @@
     "message": "Institutions internes",
     "description": "新版管理后台 zh.json"
   },
-  "organization.stepTitle": {
-    "message": "Créer un nouveau client",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.step1": {
     "message": "Paramètres de base",
     "description": "新版管理后台 zh.json"
@@ -3237,10 +3077,6 @@
   },
   "organization.stepBtn2": {
     "message": "Précédent",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.stepBtn3": {
-    "message": "Créer un client",
     "description": "新版管理后台 zh.json"
   },
   "organization.stepBtn4": {
@@ -3331,10 +3167,6 @@
     "message": "Le nom est déjà pris, veuillez utiliser un nom différent",
     "description": "新版管理后台 zh.json"
   },
-  "organization.addRuleErr1": {
-    "message": "Élément requis",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.addRuleErr2": {
     "message": "Le texte ne peut pas dépasser {num} caractères",
     "description": "新版管理后台 zh.json"
@@ -3365,10 +3197,6 @@
   },
   "routers.rolePermissionSetting": {
     "message": "Configurer les autorisations",
-    "description": "新版管理后台 zh.json"
-  },
-  "routers.homePage": {
-    "message": "Accueil",
     "description": "新版管理后台 zh.json"
   },
   "saas.baseResourceSettingSuccess": {
@@ -3443,10 +3271,6 @@
     "message": "Le nom de domaine est déjà occupé, veuillez entrer un nom différent",
     "description": "新版管理后台 zh.json"
   },
-  "common.batchAdd": {
-    "message": "Ajouter en bloc",
-    "description": "新版管理后台 zh.json"
-  },
   "common.uploaderTitle": {
     "message": "Sélectionner un fichier",
     "description": "新版管理后台 zh.json"
@@ -3465,10 +3289,6 @@
   },
   "common.backStepBtn": {
     "message": "Précédent",
-    "description": "新版管理后台 zh.json"
-  },
-  "common.nextStepBtn": {
-    "message": "prochain",
     "description": "新版管理后台 zh.json"
   },
   "common.continueBtn": {
@@ -3927,16 +3747,8 @@
     "message": "AuthnContextClassRef",
     "description": "新版管理后台 zh.json"
   },
-  "auth.spSetting": {
-    "message": "Paramètres SP",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.downloadSPXML": {
     "message": "Télécharger le code XML des métadonnées SP",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.XMLDownloadTips": {
-    "message": "Veuillez le télécharger après avoir terminé la configuration de l’IDP",
     "description": "新版管理后台 zh.json"
   },
   "auth.emailIdpAttr": {
@@ -4009,14 +3821,6 @@
   },
   "auth.sso48": {
     "message": "Règles de cartographie institutionnelle",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.IdpAttrVal": {
-    "message": "Valeur de l’attribut IdP",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.sso50": {
-    "message": "Agence LMS",
     "description": "新版管理后台 zh.json"
   },
   "auth.createSSOOption1": {
@@ -4151,10 +3955,6 @@
     "message": "Veuillez saisir la destination de redirection IDP",
     "description": "新版管理后台 zh.json"
   },
-  "auth.creatSSOErr3": {
-    "message": "Entrez le nom de l’attribut d’identité du sujet SAML",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.creatSSOErr4": {
     "message": "Veuillez saisir le certificat public X.509",
     "description": "新版管理后台 zh.json"
@@ -4189,10 +3989,6 @@
   },
   "auth.testSSO7": {
     "message": "Quitter le test",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.testSSO8": {
-    "message": "Suivez ces étapes pour tester la sortie de l’authentification unique",
     "description": "新版管理后台 zh.json"
   },
   "auth.testSSO9": {
@@ -4399,10 +4195,6 @@
     "message": "L’activation de ce paramètre permet aux utilisateurs de se connecter à l’aide de connexions SSO, y compris les connexions initiées par le fournisseur de services et initiées par l’IDP. Cliquez sur le bouton Confirmer pour continuer",
     "description": "新版管理后台 zh.json"
   },
-  "auth.activeSSOBtn": {
-    "message": "Activer",
-    "description": "新版管理后台 zh.json"
-  },
   "routers.cloudStorage": {
     "message": "Stockage en nuage",
     "description": "新版管理后台 zh.json"
@@ -4487,10 +4279,6 @@
     "message": "Réinitialiser avec succès",
     "description": "新版管理后台 zh.json"
   },
-  "saas.LVCMax": {
-    "message": "Concurrence LVC",
-    "description": "新版管理后台 zh.json"
-  },
   "saas.forever": {
     "message": "Valable pour toujours",
     "description": "新版管理后台 zh.json"
@@ -4505,6 +4293,1182 @@
   },
   "organization.defaultLanguage": {
     "message": "Langue par défaut",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.college": {
+    "message": "Collège",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.attendanceTotalNum": {
+    "message": "Appels:",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteTotalNum": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "Connectez-vous avec un compte administrateur",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherLoginTrend": {
+    "message": "Tendances de connexion des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "Tendances de connexion des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "Connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "Connexions des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "Nombre total d’affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.personalHomework": {
+    "message": "Affectations individuelles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.groupHomework": {
+    "message": "Affectations de groupe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTest": {
+    "message": "Quiz",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examAnalysis": {
+    "message": "Analyse des examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "Distribution des types de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingDynamic": {
+    "message": "Instantanés de données",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseWorking": {
+    "message": "Analyse des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "Analyse d’activité",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "L’instantané d’aujourd’hui",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "Se rafraîchit toutes les 5 minutes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "Enseignants connectés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "Connexions des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "Étudiants connectés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "Connexions des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": "Affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "Examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": "Appels: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "Choix aléatoires: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "Rivalisez pour répondre: ",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "Examens par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "Aperçu des 2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "Exporter des rapports pour obtenir des données plus détaillées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "Rapport quotidien des 2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport2": {
+    "message": "Rapport hebdomadaire semestriel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "Rapport mensuel semestriel",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "Meilleures activités",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "2 dernières semaines",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "Top 5 des cours les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "Top 5 des enseignants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": "Top 5 des étudiants les plus actifs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.generalStatistics": {
+    "message": "Aperçu",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runCourseNum": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.useCoursewareTotalNum": {
+    "message": "Didacticiel utilisé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaAverageTeachCourseNum": {
+    "message": "Cours enseignés par enseignant",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseNum": {
+    "message": "Cours inscrits par étudiant",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseCount": {
+    "message": "Nombre total d’inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseSizeDistribution": {
+    "message": "Taille et distribution des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips2": {
+    "message": "Données basées sur les cours créés à des dates sélectionnées, à l’exclusion des cours avec 10 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips3": {
+    "message": "Cours avec plus de 1000 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips4": {
+    "message": "Cours avec 201-1000 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips5": {
+    "message": "Cours avec 51-200 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips6": {
+    "message": "Cours avec 50- Inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingModeAnalysis": {
+    "message": "Analyse du mode d’enseignement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips7": {
+    "message": "Cours d’auto-apprentissage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips8": {
+    "message": "Les activités (autres que les annonces, les didacticiels et les ressources) sont inférieures à 5",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips9": {
+    "message": "Cours dirigés par des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips10": {
+    "message": " Les activités (devoirs, discussions, sessions en direct et activités en classe) sont plus de 20 et 80% d’entre elles sont des sessions en direct et des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips11": {
+    "message": "Cours hybrides",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips12": {
+    "message": "  Les activités (au moins 3 types différents de devoirs, de discussions, de sessions en direct et d’activités en classe) sont supérieures à 20, tandis que les sessions en direct et les activités en classe sont inférieures à 50%.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips13": {
+    "message": "Autres types de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips14": {
+    "message": "Cours non inclus dans les trois premières catégories",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseEvaluationAnalysis": {
+    "message": "Analyse de la notation des cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips15": {
+    "message": "Données basées sur les cours créés à des dates sélectionnées, à l’exclusion des cours avec 10 inscriptions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips16": {
+    "message": "% de cours avec examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips17": {
+    "message": "% de cours avec des règles de notation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips18": {
+    "message": "Parmi eux :",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips19": {
+    "message": "compte uniquement l’apprentissage des didacticiels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips20": {
+    "message": "y compris les appels téléphoniques et la participation (Random Pick and Compete to Answer)",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips21": {
+    "message": "y compris les examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityTotalNum": {
+    "message": "Total des activités",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips22": {
+    "message": "Compte uniquement les activités publiées à des dates sélectionnées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityAnalysis": {
+    "message": "Analyse des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pickTotalNum": {
+    "message": "Nombre de choix aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.responderTotalNum": {
+    "message": "Nombre de réponses concurrentes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.scoreTotalNum": {
+    "message": "Nombre d’évaluations par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendanceTeaNum": {
+    "message": "Enseignants qui ont lancé l’appel nominal",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVoteTeaNum": {
+    "message": "Enseignants qui ont lancé un sondage",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPickTeaNum": {
+    "message": "Enseignants qui ont lancé random pick",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswerTeaNum": {
+    "message": "Les enseignants qui se sont lancés rivalisent pour répondre",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScoreTeaNum": {
+    "message": "Enseignants qui ont lancé l’examen par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuSignStatusDistribution": {
+    "message": "Répartition de la fréquentation étudiante",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips23": {
+    "message": "Compte les appels nominaux avec un taux de présence de plus de 80 % seulement",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips24": {
+    "message": "Top 5 des enseignants - La plupart des activités publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips25": {
+    "message": "Top 5 des cours - Lancement de la plupart des activités en classe",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceAnalysis": {
+    "message": "Analyse des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips26": {
+    "message": "Ressources téléchargées dans la bibliothèque de ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips27": {
+    "message": "Ressources publiées dans les cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips28": {
+    "message": "Enseignants qui ont publié des ressources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips29": {
+    "message": "Vues de ressources par les étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips30": {
+    "message": "Ne compte que les ressources téléchargées par les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips31": {
+    "message": "Top 5 des enseignants - La plupart des ressources publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips32": {
+    "message": "Top 5 des cours - La plupart des ressources publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkAnalysis": {
+    "message": "Analyse des affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeaNum": {
+    "message": "Enseignants qui ont publié un devoir",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuCommitHomeworkNum": {
+    "message": "Soumissions d’affectation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaMarkHomeworkNum": {
+    "message": "Devoirs notés par les enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTypeDistribution": {
+    "message": "Distribution du type d’affectation",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips33": {
+    "message": "Top 5 des enseignants - La plupart des devoirs publiés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips34": {
+    "message": "Top 5 des cours - La plupart des devoirs publiés",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionAnalysis": {
+    "message": "Analyse des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTotalNum": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTeaNum": {
+    "message": "Enseignants qui ont publié des discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuReplyTotalNum": {
+    "message": "Réponses des étudiants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaReplyTotalNum": {
+    "message": "Réponses des enseignants",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTypeDistribution": {
+    "message": "Distribution des types de discussion",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips35": {
+    "message": "Top 5 des enseignants - La plupart des discussions publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips36": {
+    "message": "Top 5 des cours - La plupart des discussions publiées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveAnalysis": {
+    "message": "Analyse de session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTotalNum": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTeaNum": {
+    "message": "Enseignants qui ont donné une session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleLiveViewNum": {
+    "message": "Participants simultanés à la session la plus fréquentée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveViewNum": {
+    "message": "Nombre total de participants à toutes les sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.hour": {
+    "message": "Heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveDuration": {
+    "message": "Durée totale de toutes les sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveDuration": {
+    "message": "Durée de la session en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips37": {
+    "message": "Top 5 des enseignants - La plupart des sessions en direct livrées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips38": {
+    "message": "Top 5 des cours - La plupart des sessions en direct livrées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips39": {
+    "message": "Compte uniquement les examens de cours publiés aux dates sélectionnées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTotalNum": {
+    "message": "Examens de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examBatch": {
+    "message": "Sessions d’examen de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleExamPeopleNum": {
+    "message": "Candidats de la session la plus fréquentée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeExamPeopleNum": {
+    "message": "Nombre total de candidats de toutes les sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExamTeaNum": {
+    "message": "Examen des enseignants ayant publié un cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.questionTotalNum": {
+    "message": "Questions d’examen dans la banque de questions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips40": {
+    "message": "Nombre total de questions d’examen créées par les enseignants dans la banque de questions - non limité par les dates que vous avez sélectionnées.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPaperTotalNum": {
+    "message": "Examens utilisés dans l’examen de cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips41": {
+    "message": "Nombre total d’examens créés par les enseignants dans la Banque d’examens - non limité par les dates que vous avez sélectionnées.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeDistribution": {
+    "message": "Distribution des types d’examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceDistribution": {
+    "message": "Distribution des périphériques d’accès aux examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips42": {
+    "message": "Top 5 des sessions d’examen les plus fréquentées",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData0": {
+    "message": "Annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData1": {
+    "message": "Affectations",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData2": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData3": {
+    "message": "Sessions en direct",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData4": {
+    "message": "Examens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData5": {
+    "message": "Appels",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData6": {
+    "message": "Sondages",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData7": {
+    "message": "Rivalisez pour répondre:",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData8": {
+    "message": "Choix aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData9": {
+    "message": "Examens par les pairs",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData0": {
+    "message": "Absent",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData1": {
+    "message": "En retard",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData2": {
+    "message": "Congé anticipé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData3": {
+    "message": "Congé excusé",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData4": {
+    "message": "Congé de maladie",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData5": {
+    "message": "Présent",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData0": {
+    "message": "Liens",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData1": {
+    "message": "Micro Cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData2": {
+    "message": "Images",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData3": {
+    "message": "Contenu riche",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData4": {
+    "message": "Autre",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData5": {
+    "message": "Documents",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData6": {
+    "message": "Audios",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData7": {
+    "message": "Vidéos",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData0": {
+    "message": "Discussion - Limite de temps",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData1": {
+    "message": "Discussion - Pas de limite de temps",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData0": {
+    "message": "Dans l’heure 1",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData1": {
+    "message": "1-2 heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData2": {
+    "message": "Plus de 2 heures",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData0": {
+    "message": "Examens prédéfinis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData1": {
+    "message": "Examens aléatoires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData1": {
+    "message": "Appareils mobiles",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.schoolCreatedCourse": {
+    "message": "Cours scolaires",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.externalIntroduction": {
+    "message": "Cours externes",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCExe": {
+    "message": "Navigateur de verouillage ULearning",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCweb": {
+    "message": "Web",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncement2": {
+    "message": "Annonces",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.noData": {
+    "message": "Aucune donnée trouvée",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.thisSemester": {
+    "message": "Semestre en cours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.all": {
+    "message": "Tous",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.course": {
+    "message": "Cours",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "à",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "Tous les collèges",
+    "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "Centre de données",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate6": {
+    "message": "Personnalisation",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate7": {
+    "message": "Pour les pages Web personnalisées, veuillez sélectionner ce modèle",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.newsNotice": {
+    "message": "Communiqué de presse",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.event": {
+    "message": "Gestion d’événements",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.memberRegistration": {
+    "message": "Informations d'inscription des membres",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "Bibliothèque de ressources",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.allStatus": {
+    "message": "Tout le statut",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.notStarted": {
+    "message": "Non démarré",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.inProgress": {
+    "message": "En cours",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.ended": {
+    "message": "Terminé",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.createTitme": {
+    "message": "Date de création",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.status": {
+    "message": "Statut",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.edit": {
+    "message": "Modifier",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickDate": {
+    "message": "Veuillez sélectionner une date",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickTime": {
+    "message": "Sélectionnez l’heure",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.orderNumber": {
+    "message": "non.",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip1": {
+    "message": "Rapport d’aspect d’image recommandé: 16: 9; Formats: png, jpg, gif, jpeg, bmp; Taille d’image unique : jusqu’à 2 Mo",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip2": {
+    "message": "Téléchargez à nouveau l’image après l’avoir téléchargée pour mettre à jour l’image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip3": {
+    "message": "La taille de l’image ne peut pas être supérieure à {size}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip4": {
+    "message": "S’il vous plaît télécharger une image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.urlErrorTip": {
+    "message": "Veuillez saisir l’URL correcte",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNotice": {
+    "message": "Communiqué de presse",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.news": {
+    "message": "Nouvelles",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.notice": {
+    "message": "annonce",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publish": {
+    "message": "Publier",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNews": {
+    "message": "Publier des actualités",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsTitle": {
+    "message": "Manchettes",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsContent": {
+    "message": "Contenu d’actualités",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.uploadThumbnail": {
+    "message": "Télécharger un aperçu",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsSuccess": {
+    "message": "Publiez les nouvelles avec succès",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsFailure": {
+    "message": "Échec de la publication des nouvelles",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip1": {
+    "message": "Veuillez saisir un titre d’actualité",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip2": {
+    "message": "Veuillez saisir le contenu de l’actualité",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip3": {
+    "message": "Veuillez sélectionner l’organisation dont vous souhaitez recevoir les nouvelles",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventManagement": {
+    "message": "Gestion d’événements",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.addEvent": {
+    "message": "Nouveaux événements",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.searchByEventTitle": {
+    "message": "Entrez une recherche de titre d’activité",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventTitle": {
+    "message": "Le titre de l’événement",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventStartDateTime": {
+    "message": "Heure de début de l'événement",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventEndDateTime": {
+    "message": "Heure de fin de l'événement",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventContent": {
+    "message": "Contenu de l’événement",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Lien de recrutement de bénévoles",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.searchNewsAnno": {
+    "message": "Veuillez entrer le titre du communiqué de presse pour effectuer la recherche",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.title2": {
+    "message": "Le titre de l’annonce de presse",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNoticeDesc": {
+    "message": "*Les annonces seront affichées dans le portail de l’école et par le collège, les nouvelles ne seront affichées que sur le portail de l’école",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "L’heure de début de l’activité ne peut pas être supérieure à l’heure de fin de l’événement",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.secondDomain": {
+    "message": "Noms de domaine de deuxième niveau",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.zf": {
+    "message": "Compilation des caractères",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Ajouter une agence",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Supprimer une organisation",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "Si vous supprimez l’organisation actuelle, l’organisation subordonnée sera également supprimée",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Confirmez la suppression",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "Ne doit pas être inférieur à {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "Ne doit pas être supérieur à {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "Peut être défini à {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "La valeur minimale est la quantité totale de ressources occupées par l’organisation actuelle, et la valeur maximale est le crédit de ressource disponible restant",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "Quotas de stockage et de compte",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "Si un quota est défini, les ressources utilisées par l’organisation actuelle ne peuvent pas dépasser le quota maximal\nSi aucun quota n’est défini, l’organisation actuelle partage le quota de ressources disponibles au niveau supérieur",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "Entrez le nom de l'école pour rechercher",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "Nom de l'école",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "Nom de l'école en anglais", 
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "Pays/Région",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "Contact",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "Téléphone",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "Email",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "Date de demande",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLang": {
+    "message": "Paramètres de langue du nom de l'organisation",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLangError": {
+    "message": "Le nom de l'organisation dans la langue par défaut est requis",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "Détails des informations de demande de membre",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "Retour",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "Logo de l'institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "Nom de l'institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "Nom de l'institution en anglais",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "Pays/Région",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Année de fondation",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Adresse de l'université",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "Personne morale",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Site web de l'université",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Personne à contacter",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Numéro de téléphone",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "E-mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "Brève présentation de l'université/collège",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "Dossier",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "Compressé",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "Autre",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "Ressource virtuelle",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "Lien",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "Nom de la ressource",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "Créateur",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "Taille",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "Temps de création",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "Entrez le nom du créateur ou le nom de la ressource pour filtrer la recherche",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "Statistiques des ressources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "Nombre de ressources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "Nombre de personnes ayant téléchargé des ressources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "Nombre de vues des ressources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "Trier par :",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "Veuillez sélectionner le mode de tri",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "Journal des opérations",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "Temps de l'opération",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "Utilisateur",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "Copieur",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": " · fichiers actuellement consultés",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "Paramètres du système",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "Modification en masse du mot de passe",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "Jours d'expiration du mot de passe",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "Définissez le nombre de jours avant que l'utilisateur ne soit invité à changer son mot de passe",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "Définissez si l'utilisateur peut passer outre le changement du mot de passe lorsqu'il est invité à le faire",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "Mot de passe par défaut après réinitialisation",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "Modification réussie de {successNum} comptes ; échec de modification de {failNum} comptes",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "Cette opération supprimera définitivement ce fichier, souhaitez-vous continuer ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "Le mot de passe peut-il être passé outre",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "Entrez le nombre de jours d'expiration du mot de passe",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "Entrez le mot de passe par défaut après réinitialisation",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "Le mot de passe doit avoir au moins 8 caractères",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "Modification réussie",
     "description": "新版管理后台 zh.json"
   }
 }

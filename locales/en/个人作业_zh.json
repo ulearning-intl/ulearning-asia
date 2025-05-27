@@ -139,14 +139,6 @@
     "message": "Please choose",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": " Upload at most ",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": " attachments",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": " Video should not exceed 1G ",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "Score: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": " No comments left",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": " The student did not leave a comment. ",
     "description": "个人作业zh_js"
@@ -743,12 +731,40 @@
     "message": "Assign",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "This type of assignment cannot be opened in the APP, please continue with browser.",
+  "m.syncGoogleClassroom": {
+    "message": "Sync to Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "Open in browser",
+  "m.syncTip1": {
+    "message": "*Please bind the Google Classroom course first,",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "Go to Bundle Course",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*If checked, the content will be synced to the Google Classroom course. Some settings may not be synchronized successfully.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "For details, please refer to the help documentation",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(Synchronization Successful)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(Sync Failed)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "Draft content will not be synced",
+    "description": "个人作业zh_js"
+  },
+  "m.UpError4": {
+    "message": "Upload up to {max} attachments",
     "description": "个人作业zh_js"
   }
 }

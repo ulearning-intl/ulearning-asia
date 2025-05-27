@@ -1,0 +1,2610 @@
+{
+  "route.aiManage": {
+    "message": "AI助手管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManage": {
+    "message": "知识库管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meManage": {
+    "message": "我的知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.systemManage": {
+    "message": "系统管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.webManage": {
+    "message": "网站管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.digitalHuman": {
+    "message": "数字人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.manageKnowledge": {
+    "message": "管理知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistant": {
+    "message": "AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.fullKnowledgeBase": {
+    "message": "全部知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.orgManage": {
+    "message": "机构管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.userManage": {
+    "message": "用户管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meAiAssistant": {
+    "message": "我的AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.allAiAssistant": {
+    "message": "全部AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManage": {
+    "message": "指令管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.myInstructions": {
+    "message": "我的指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.groupingManage": {
+    "message": "分组管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.dataStatistics": {
+    "message": "数据统计",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.logOut": {
+    "message": "退出登录",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeBtn": {
+    "message": "主题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "主题个性化设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "整体风格设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "主题色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "系统布局配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "主题色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "开启 Tags-View",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "固定 Header",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "侧边栏 Logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.refresh": {
+    "message": "刷新",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "关闭",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "关闭其它",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "关闭所有",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.accountLogin": {
+    "message": "账号登录",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.logIn": {
+    "message": "登录",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.username": {
+    "message": "用户名",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.password": {
+    "message": "密码",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.casLogin": {
+    "message": "校园统一身份认证登录",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip1": {
+    "message": "你的信息在系统中不存在！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip2": {
+    "message": "请联系管理员，确认个人信息已同步至本系统。如果您有本系统账号，请绑定账号。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.pleseusername": {
+    "message": "请输入用户名",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.plesepwd": {
+    "message": "请输入密码",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTitle": {
+    "message": "AI智能体管理系统",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.smartRecord": {
+    "message": "智慧录播",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.easyManage": {
+    "message": "轻松管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTip": {
+    "message": "多教室录播，实时巡课与资源沉淀",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.casTitle": {
+    "message": "统一身份认证",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.reset": {
+    "message": "重置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestError": {
+    "message": "请求失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "请输入关键字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagement": {
+    "message": "分组管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagementHint": {
+    "message": "管理当前账号下指令分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "search": {
+    "message": "查询",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addingGroups": {
+    "message": "添加分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editGroup": {
+    "message": "编辑分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupName": {
+    "message": "分组名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGroupName": {
+    "message": "请输入分组名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainSpaces": {
+    "message": "不能只包含空格",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameRequired": {
+    "message": "分组名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameMaxLength": {
+    "message": "分组名称不能超过200个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSuccess": {
+    "message": "创建成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirm": {
+    "message": "确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSuccess": {
+    "message": "删除成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "edit": {
+    "message": "编辑",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hint": {
+    "message": "提示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operation": {
+    "message": "操作",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createInstruction": {
+    "message": "创建指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editInstruction": {
+    "message": "修改指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteInstruction": {
+    "message": "删除指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noData": {
+    "message": "暂无数据",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitle": {
+    "message": "指令标题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescription": {
+    "message": "指令说明",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContent": {
+    "message": "长指令内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContent": {
+    "message": "短指令内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectGroup": {
+    "message": "请选择分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleLongInstruction": {
+    "message": "示例：请详细阐述[内容，如：量子力学中波粒二象性]的概念、历史发展脉络、主要实验证据以及其在现代科技中的应用，并分析未来可能的研究方向。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleShortInstruction": {
+    "message": "示例：请详细阐述[内容，如：量子力学中波粒二象性]的概念。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputPlaceholder": {
+    "message": "输入[ ]可插入输入框。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myInstructions": {
+    "message": "我的指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions": {
+    "message": "管理当前账号下创建和管理的全部指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "delete": {
+    "message": "删除",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirm": {
+    "message": "确定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainOnlySpaces": {
+    "message": "不能只包含空格",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotBeEmpty": {
+    "message": "指令标题不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotExceed200Characters": {
+    "message": "指令标题不能超过200个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotBeEmpty": {
+    "message": "指令说明不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotExceed200Characters": {
+    "message": "指令说明不能超过200个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotBeEmpty": {
+    "message": "长指令内容不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotExceed1000Characters": {
+    "message": "长指令内容不能超过1000个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContentCannotExceed1000Characters": {
+    "message": "短指令内容不能超过1000个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectGroup": {
+    "message": "请选择分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "all": {
+    "message": "全部",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestion": {
+    "message": "标准问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creator": {
+    "message": "创建人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTime": {
+    "message": "创建时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableStatus": {
+    "message": "启用状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enabled": {
+    "message": "已启用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpen": {
+    "message": "已停用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewDetails": {
+    "message": "查看详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "name": {
+    "message": "名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "type": {
+    "message": "类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSize": {
+    "message": "文件大小",
+    "description": "aiAssistantManagezh.json"
+  },
+  "source": {
+    "message": "资源来源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "status": {
+    "message": "状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studying": {
+    "message": "学习中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learned": {
+    "message": "已学习",
+    "description": "aiAssistantManagezh.json"
+  },
+  "document": {
+    "message": "文档",
+    "description": "aiAssistantManagezh.json"
+  },
+  "localUpload": {
+    "message": "本地上传",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseware": {
+    "message": "课件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraph": {
+    "message": "知识图谱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRepository": {
+    "message": "资源库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resources": {
+    "message": "资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionAnswer": {
+    "message": "问答对",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentKnowledgeBaseData": {
+    "message": "管理当前知识库的全部数据",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBase": {
+    "message": "查看知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllKnowledgeBase": {
+    "message": "查看当前机构下创建的全部知识库。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onMyOwn": {
+    "message": "我自己",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResources": {
+    "message": "导入教学资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibrary": {
+    "message": "资源库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputCoursewareName": {
+    "message": "输入课件名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coursewareCount": {
+    "message": "课件数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noCourseware": {
+    "message": "暂无课件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceName": {
+    "message": "输入资源名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "availableResources": {
+    "message": "可选资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResources": {
+    "message": "暂无资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputKnowledgeGraphName": {
+    "message": "输入知识图谱名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraphCount": {
+    "message": "知识图谱数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noKnowledgeGraph": {
+    "message": "暂无知识图谱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceLibraryName": {
+    "message": "输入资源库名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibraryCount": {
+    "message": "资源库数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceLibrary": {
+    "message": "暂无资源库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loading": {
+    "message": "加载中...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMore": {
+    "message": "没有更多了",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedResourcesCount": {
+    "message": "您已选择 {num} 个资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "queAnswerInfoTitle": {
+    "message": "问答对详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestion": {
+    "message": "相似问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answer": {
+    "message": "答案",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allEnableStatus": {
+    "message": "全部启用状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allGroups": {
+    "message": "全部分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQuestionAnswer": {
+    "message": "创建问答对",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editQuestionAnswer": {
+    "message": "修改问答对",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionRequired": {
+    "message": "标准问题不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionMaxLength": {
+    "message": "标准问题不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotOnlyContainSpaces": {
+    "message": "不能只包含空格",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionRequired": {
+    "message": "已添加的相似问题不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionMaxLength": {
+    "message": "相似问题不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionLimit": {
+    "message": "每个问答对最多添加10个相似问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerRequired": {
+    "message": "答案不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerMaxLength": {
+    "message": "答案不能超过2000字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterStandardQuestion": {
+    "message": "请输入标准问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSimilarQuestion": {
+    "message": "请输入相似问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAnswer": {
+    "message": "请输入答案",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSimilarQuestion": {
+    "message": "添加相似问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "group": {
+    "message": "分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelect": {
+    "message": "请选择",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSimilarQuestions": {
+    "message": "每个问答对最多添加10个相似问题 ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dragIcon": {
+    "message": "拖动排序",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addGroup": {
+    "message": "添加分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyGroup": {
+    "message": "修改分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseDesc": {
+    "message": "知识库支持添加资源和问答对，以支撑智能问答、AI出题等，提高问答、出题准确性",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resource": {
+    "message": "资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myKnowledgeBase": {
+    "message": "我的知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase": {
+    "message": "管理当前账号下创建和管理的全部知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createKnowledgeBase": {
+    "message": "创建知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyKnowledgeBase": {
+    "message": "修改知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageKnowledgeBase": {
+    "message": "管理知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeBaseName": {
+    "message": "请输入名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseName": {
+    "message": "知识库名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameRequired": {
+    "message": "请输入知识库名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameMaxLength": {
+    "message": "知识库名称不能超过100个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBaseConfirm": {
+    "message": "删除{name}后，将不可在AI助手中关联该知识库，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistants": {
+    "message": "全部AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllAiAssistantsInOrg": {
+    "message": "查看当前机构下创建的全部AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultKnowledgeBase": {
+    "message": "默认知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsDefault": {
+    "message": "设为默认",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preview": {
+    "message": "预览",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAiAssistantSettings": {
+    "message": "默认AI助手设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmSetAsDefault": {
+    "message": "确定将当前{name}设置为默认吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceAiAssistant": {
+    "message": "替换AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmReplaceAiAssistant": {
+    "message": "已有{oldName}在使用，确定替换为{newName}吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSuccessfully": {
+    "message": "设置成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shared": {
+    "message": "共享",
+    "description": "aiAssistantManagezh.json"
+  },
+  "default": {
+    "message": "默认",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataStatistics": {
+    "message": "数据统计",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherAiAssistant": {
+    "message": "教师备课AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewCurrentAiAssistantUsage": {
+    "message": "查看当前AI助手的使用情况",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitorCount": {
+    "message": "访客人数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDialogueRounds": {
+    "message": "总对话轮次",
+    "description": "aiAssistantManagezh.json"
+  },
+  "averageDialogueRounds": {
+    "message": "平均对话轮次",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalQaWords": {
+    "message": "问答总字数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitationTrends": {
+    "message": "访问趋势",
+    "description": "aiAssistantManagezh.json"
+  },
+  "day": {
+    "message": "日",
+    "description": "aiAssistantManagezh.json"
+  },
+  "week": {
+    "message": "周",
+    "description": "aiAssistantManagezh.json"
+  },
+  "month": {
+    "message": "月",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frequentQuestions": {
+    "message": "高频问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueDetails": {
+    "message": "对话详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionId": {
+    "message": "会话ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "user": {
+    "message": "用户",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userRole": {
+    "message": "用户角色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueContent": {
+    "message": "对话内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueRounds": {
+    "message": "对话轮次",
+    "description": "aiAssistantManagezh.json"
+  },
+  "qaWordCount": {
+    "message": "问答字数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "time": {
+    "message": "时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionDetails": {
+    "message": "会话详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "comingSoon": {
+    "message": "我来啦!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement": {
+    "message": "AI助手管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants": {
+    "message": "管理当前账号创建的全部AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createAiAssistant": {
+    "message": "创建AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAiAssistant": {
+    "message": "修改AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanSettings": {
+    "message": "数字人设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAvatar": {
+    "message": "选择头像",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadAvatar": {
+    "message": "上传头像",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements": {
+    "message": "支持jpg、jpeg、png格式，大小不超过2M。建议尺寸：400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantName": {
+    "message": "给AI助手起个名字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntro": {
+    "message": "简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessage": {
+    "message": "请输入欢迎语",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterOpeningRemarks": {
+    "message": "请输入开场白",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultWelcomeMessage": {
+    "message": "嗨，我是AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameRequired": {
+    "message": "AI助手名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameMaxLength": {
+    "message": "AI助手名称不能超过100字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "introMaxLength": {
+    "message": "AI助手简介不能超过200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeRequired": {
+    "message": "欢迎语不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMaxLength": {
+    "message": "欢迎语不能超过200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength": {
+    "message": "开场白不能超过200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired": {
+    "message": "请上传头像",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRequired": {
+    "message": "请选择大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginRequired": {
+    "message": "请选择AI插件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHuman": {
+    "message": "请选择数字人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirmation": {
+    "message": "删除{name}后，将不可使用该AI助手，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultConfirmation": {
+    "message": "确定将当前{name}设置为默认吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceConfirmation": {
+    "message": "已有{oldName}在使用，确定替换为{newName}吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noPermission": {
+    "message": "暂无权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInput": {
+    "message": "语音输入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcast": {
+    "message": "语音播报",
+    "description": "aiAssistantManagezh.json"
+  },
+  "associatedInstructions": {
+    "message": "关联指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showShortInstructions": {
+    "message": "按短指令展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharingScope": {
+    "message": "共享范围",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlySelf": {
+    "message": "仅自己",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareWithOthers": {
+    "message": "共享给本单位其他老师",
+    "description": "aiAssistantManagezh.json"
+  },
+  "firstChoiceModel": {
+    "message": "首选大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiPlugins": {
+    "message": "AI插件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQa": {
+    "message": "智能问答",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRecommendation": {
+    "message": "资源推荐",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiQuestions": {
+    "message": "AI出题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningReminder": {
+    "message": "学习提醒",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceSettings": {
+    "message": "语音设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessage": {
+    "message": "欢迎语",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarks": {
+    "message": "开场白",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntroHint": {
+    "message": "简单介绍AI助手，展示给使用者",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSettings": {
+    "message": "大模型设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccess": {
+    "message": "上传成功！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageTooBig": {
+    "message": "图片大小不能超过2MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileTypeNotSupported": {
+    "message": "文件类型不支持",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAssistant": {
+    "message": "默认AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModel": {
+    "message": "大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modify": {
+    "message": "修改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatar": {
+    "message": "头像",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelType": {
+    "message": "大模型类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelTongyi": {
+    "message": "通义千问",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "豆包",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "警告",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "上传成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "修改成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "添加成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "修改AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "删除{name}后，将不可使用该AI助手，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "复制链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "扫码分享AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "分享",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "复制成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "网站管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "管理当前网站的基本配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "网站名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "网站Logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "支持jpg、jpeg、png格式，大小不超过2M。建议尺寸：300*60",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "请输入网站标题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "网站标题最多50个字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "请上传网站logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "AI赋能",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "机构管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "管理机构的AI助手配置等",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "全部登录权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "全部AI助手创建权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "登录权限状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "AI助手创建权限状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "权限配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "功能配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "基础配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "通义千问",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "豆包",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "豆包每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "请输入豆包每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "豆包每日量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "token/天",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "今日余量：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "机构总已使用：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "AI助手配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "语音输入总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "请输入语音输入总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "机构已使用：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "语音播报总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "请输入语音播报总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "数字人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "选择数字人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "AI工具配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "AI工具",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "智能批改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "视频分析",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "文档阅读",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "公式识别",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "视频分析总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "请输入视频分析总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "视频分析总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "分钟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "知识来源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "公式识别总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "请输入公式识别总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "公式识别总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "次",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "配置机构：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "AI智能体登录权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "AI智能体登录权限开启后，则机构下的所有管理员、教师均可登录AI智能体管理系统。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "AI助手创建权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "AI助手创建权限开启后，则该机构下所有管理员/教师均可创建AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "AI智能体登录权限开启后，则该管理员/教师可登录AI智能体管理系统。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "AI助手创建权限开启后，则该管理员/教师可创建AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "开启",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "已开启",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "未开启",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "用户管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "管理用户的AI助手的权限配置。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "全部机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "全部角色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "账号",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "角色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "教师",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "管理员",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "所属机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "权限配置用户",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "关闭",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "语音输入总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "语音播报总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "机构名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "搜索会话内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "学生",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "开始时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "结束时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "至",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "用户",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "用户角色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "会话开始时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "会话结束时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "加入知识库问答对",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "选择知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "没有更多了",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "添加资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "是",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "否",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "资源切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "资源不切片：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "资源的文本内容以一个整体的形式存在，只能进行较为笼统的检索，难以进行更精细的定位。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "资源切片：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "资源文本内容被划分成多个小的切片，智能问答时，可以针对不同的切片进行独立的检索，提高检索的准确性和效率。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "是否切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "导入成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "确定删除资源吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "文件大小不能超过500MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "为您推荐以下学习资源：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "大思政资源库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "国家智慧教育公共服务平台",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "优学院",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.contentOperation": {
+    "message": "内容运营",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "PPT模板管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "优学院",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "资源检索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "知网",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "人民大思政课资源库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "本校资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "资源检索范围",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "请选择资源检索范围",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "访客",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSlogan": {
+    "message": "智启未来教育",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteDescription": {
+    "message": "高校AI教学智能体，推动教育数智化转型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "人民公开课",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "以智提质",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "赋能思政教学全流程 助力增强思政引领力",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "全部模板类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "内容模板管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "添加内容模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "开始排序",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "结束排序",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "模板类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "主题模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "目录模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "内页模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "项数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "下载",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "选择内容模板类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "内容模板类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "PPT名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "PPT名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "PPT名称不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "修改成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "修改失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "添加主题模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "内容模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "管理AI工具中PPT生成的全部PPT模板。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "文件夹",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "视频",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "音频",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "图片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "图文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "试题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "试卷",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "虚拟仿真",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "其他",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "智能体广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "添加目录模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "添加内页模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "请输入DeepSeek-R1每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "DeepSeek-R1每日量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT生成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "请输入PPT生成总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "PPT生成总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "次/天",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "输入关键词搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "共享到智能体广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "全部智能体广场权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "智能体广场权限状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "智能体广场权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "智能体广场权限按机构开通，不支持按单个用户开通。\n开通后，当前机构用户可将创建的AI助手共享到智能体广场进行展示。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "资源内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "添加切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "保存",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "请输入内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "暂无资源切片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "请先保存切片内容",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "静音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "取消静音",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "暂停",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "转码中，请稍后查看",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "访问该网址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "该文件不支持在线预览",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "课程团队",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "课程简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "上传尚未完成，是否取消上传？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "取消上传",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "继续上传",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "正在上传{count}项",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "发布到智能广场",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "已发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "未发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "设置失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "分类管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "添加同级",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "添加子级",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "修改分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "删除分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "请输入分类名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "确定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "全部",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "未分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "全部发布状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "您已选择{num}个知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "输入名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "所属分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "全选",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "前往创建智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "设置分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "个人空间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "模型训练",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "AI助手管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "知识库管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "应用管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "创建指令模板，为智能体提供快捷提示词。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "建设教学知识库，为智能体提供专业知识来源。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "我的AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "创建和编排基于大模型的AI智能体应用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "支持jpg、jpeg、png、gif格式，大小不超过2M。建议尺寸：400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "模型训练",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "系统提供垂直领域模型训练工具，在这里可以使用已有的数据集进行模型训练，训练生成的模型支持导出后部署应用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "基础模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "训练类型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "取消任务",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "查看日志",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "删除任务",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "下载模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "等待中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "训练中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "已完成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "已取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "创建任务",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "创建训练任务",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "任务名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "数据集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "上传数据",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "下载示例",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "训练参数配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "输入文本的最大长度（Max Length）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "批次训练数量（Batch Size）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "数据遍历轮次（Epoch）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "梯度累计步数（Gradient Accumulation Steps）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "学习率（Learming Rate）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "学习率预热比例（Warm-Up Ratio）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "查看任务详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "训练任务日志",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "开始训练",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "SFT全参训练",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "LoRA微调",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "关键词",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "暂无训练任务",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "请输入任务名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "任务名称应为1-{n}字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "请上传数据集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "数据集文件不能超过{n}M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "最多上传{n}个数据集数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "确定取消任务吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "取消成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "取消失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "确定删除任务吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "删除失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "保存成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "保存失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "上传失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "有文件正在上传，请稍后提交",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "基础模型不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "暂无日志",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "压缩中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "模型文件较大，下载地址将通过邮件发送到你的邮箱。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "邮箱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "请输入邮箱地址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "请输入正确的邮箱地址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "验证码",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "请输入验证码",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "已提交下载任务，稍后请查收邮件。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "我知道了",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "当前版本仅供演示！开通后机构所有用户可见，正式机构不开通。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "录播课程",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "录播课程数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "输入录播课程名称搜索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "暂无录播课程",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "总时长(分钟)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "请输入每天可用次数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "总次数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "每天次数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "机构已使用总时长",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "机构已使用总次数",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "数据不得小于0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "不能小于0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "Excel导入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "批量导入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "下载Excel模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "上传文件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "正在导入，请勿关闭弹窗或页面…",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "导入成功，已导入{num}个指令！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "文件存在以下问题，请检查修改后重新上传：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "修改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "资源名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "资源名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "资源名称不能超过200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "请输入资源名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "全部智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "内部智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "外部智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "添加外部智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "修改外部智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "智能体名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "请输入智能体名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "智能体简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "请输入智能体简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "请输入外部智能体链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "发布人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "请输入发布人信息",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "跳转方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "当前页",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "新页面",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "名称不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "应用简介不能超过2000字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "链接不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "链接不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "链接格式不正确",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "发布人不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "跳转方式不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "置顶",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "取消置顶",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "修改成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "添加成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "AI助手：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "创建人：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "分类方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "您已选择 {num} 个分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "对机构创建的全部智能体进行分类管理。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "添加",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "添加分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "分类名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "修改分类方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "添加分类方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "请输入分类方式名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "所属分类方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "分类不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "分类不可超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "分类方式不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "分类方式不可超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "分类方式下的分类会同步删除，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "分类下的AI助手将取消与当前分类关联，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "分类管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "对PPT主题模板的分类进行管理。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "分类下的PPT主题模板将取消与当前分类关联，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "分类设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "PPT主题模版：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "您已选择 {num} 个分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "修改成功！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "主题色设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "主题色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "管理当前机构的内部和外部应用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "全部应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "内部应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "外部应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "添加外部应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "修改外部应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "应用名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "请输入应用名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "应用名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "应用名称不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "应用简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "请输入应用简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "应用简介不能超过2000字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "请输入外部应用链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "封面",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "应用封面不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "支持jpg、jpeg、png格式，大小不超过50M。建议尺寸：640px*360px（16:9）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "跳转方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "跳转方式不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "图片大小超过50M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "发布成功",
+    "description": "aiAssistantManagezh.json"
+  }
+}

@@ -107,10 +107,6 @@
     "message": "Tambah menu",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "Menu level 1 maksimal menambah 15 buah",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "Tambah catatan",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "Tambah plate",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "Jumlah plate yang ditambah hanya dapat berupa 0, 3, 6, 9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": "Semua unit",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "Baca",
-    "description": "UA"
-  },
   "analyze": {
     "message": "Analisa",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "Konten artikel",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "Rincian artikel",
-    "description": "UA"
-  },
   "articleName": {
     "message": "Nama artikel",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "Lampiran",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "Soal unggahan lampiran",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "Penamaan yang teratur dapat diurutkan secara otomatis dari kecil ke besar sesuai dengan nama foto, silahkan ubah nama video terlebih dahulu sebelum mengunggahnya, misalnya: lei_unit1_001, lei_unit1_02……",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "Transcoding otomatis (Format mp3 yang dibuat oleh AAC), pemotongan video (pemutaran media streaming), kompresi",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "Transcoding otomatis (Format mp4 yang dibuat oleh H.264), pemotongan video (pemutaran media streaming), kompresi (128~1024kbps)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "Foto",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "Kembali ke daftar",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "Batalkan",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "Batalkan penyembunyian",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "Batalkan sticky post",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "Struktur daftar isi tidak cocok, silahkan buat daftar isi sesuai dengan struktur bab > bagian > halaman! ",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "Bab ini telah dipelajari:",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "Halaman-halaman di bawah dari bab ini belum diselesaikan",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "Lihat lebih banyak",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "Mandarin",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "Indonesia",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "Simpan daftar isi",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "Jenis soal yang sering dipakai",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "Sedang dalam proses penghapusan komponen",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "OK",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "Silahkan masukkan judul artikel",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "Silahkan masukkan isi konten artikel atau tambah lampiran",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "Silahkan tambah menu terlebih dahulu",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "Silahkan pilih menu jenis artikel",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "Lampiran tidak boleh lebih dari 10 buah",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "Dokumen ini telah selesai diunggah, yakin untuk hapus?",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "Setelah menu dihapus, menu ini beserta dengan sub-menu nya juga akan terhapus. Yakin untuk hapus?",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "Yakin untuk hapus soal ini?",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "Yakin untuk hapus folder tersebut beserta dengan sub-folder dan dokumen-dokumennya?",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "Yakin untuk hapus menu ini?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "Setelah menu disembunyikan, menu ini beserta dengan sub-menu nya tidak akan ditampilkan di situs web. Yakin untuk sembunyikan?",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "Yakin untuk sembunyikan menu ini?",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "Lanjut tambah",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "Lanjut buat",
     "description": "UA"
   },
   "continueSelect": {
@@ -731,10 +639,6 @@
     "message": "Rincian",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "Bahasa mata kuliah",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "Pengelolaan pembukaan kelas",
     "description": "UA"
@@ -745,10 +649,6 @@
   },
   "courseName2": {
     "message": "Nama mata kuliah",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "Player mata kuliah",
     "description": "UA"
   },
   "coursePortal": {
@@ -907,10 +807,6 @@
     "message": "Potong video",
     "description": "UA"
   },
-  "dataError": {
-    "message": "Data salah",
-    "description": "UA"
-  },
   "totalData": {
     "message": "Total {n} data",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +825,6 @@
   },
   "deleteFail": {
     "message": "Gagal menghapus",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "Hapus menu",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +889,6 @@
   },
   "demonstrationPronunciation": {
     "message": "Pengucapan demonstrasi",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "Modul penjelasan",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1071,6 @@
     "message": "Silahkan masukkan judul terlebih dahulu dan konfirmasi",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "Silahkan masukkan rincian pengenalan",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "Silahkan masukkan nama mata kuliah",
     "description": "UA"
@@ -1249,22 +1133,6 @@
   },
   "enterLink": {
     "message": "Silahkan masukkan alamat tautan",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "Silahkan masukkan alamat tautan yang benar",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "Silahkan masukkan nama menu, maks. 8 kata",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "Silahkan masukkan nama menu, maks. 16 huruf",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "Silahkan masukkan nama dokumen baru",
     "description": "UA"
   },
   "enterPageName": {
@@ -1371,10 +1239,6 @@
     "message": "Terjadi kesalahan saat menyimpan",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "Soal esai",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "Contoh",
     "description": "UA"
@@ -1385,10 +1249,6 @@
   },
   "exercisesNum": {
     "message": "Jumlah latihan",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "Apabila anda meneruskan untuk keluar, maka catatan pembelajaran bagian ini mungkin tidak dapat disimpan.",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1303,6 @@
     "message": "Jawaban referensi (harus diisi) &#10;1. Hanya bisa memasukkan bahasa Inggris, tidak lebih dari 2000 kata &#10;2. Silahkan masukkan informasi pengingat secepatnya, akan lebih baik apabila memiliki jumlah jawaban yang lebih banyak, disarankan untuk memiliki lebih dari 5 buah jawaban, jawaban yang lebih dari satu menggunakan tanda | untuk memisahkannya &#10;3. Evaluasi terbuka akan menggabungkan penilaian terpadu antara isi konten dengan pengucapan",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "Teks tidak bisa terlihat dalam tampilan versi mahasiswa, sistem akan melaksanakan penilaian sesuai dengan teks ini. Teks dan pengucapan harus sama persis, misalnya: 1996 harus diubah menjadi nineteen ninety six. Tidak mendukung tulisan Mandarin",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "Alasan gagal",
     "description": "UA"
@@ -1465,10 +1321,6 @@
   },
   "fileNumLimit1": {
     "message": "dokumen",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "Penamaan ulang dokumen",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1423,6 @@
     "message": "dokumen",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "Rumus",
-    "description": "UA"
-  },
   "free": {
     "message": "Gratis",
     "description": "UA"
@@ -1607,10 +1455,6 @@
     "message": "Terjadi kesalahan pada format data yang didapat, hubungi layanan pelanggan",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "Dalam pertanyaan Pilih Lebih Dari 1, hanya akan mendapatkan poin apabila cocok dengan jawaban, apabila tidak memilih dan salah memilih, maka tidak akan mendapatkan poin",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "Terjadi kesalahan pada saat mendapatkan isi konten halaman",
     "description": "UA"
@@ -1635,10 +1479,6 @@
     "message": "Tidak jadi mengisi",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "Cek",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "Saya sudah tahu",
     "description": "UA"
@@ -1661,14 +1501,6 @@
   },
   "hideInWebsite": {
     "message": "Tidak ditampilkan di situs web",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "Sembunyikan Menu",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "Halaman tersembunyi tidak menghitung waktu",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1559,6 @@
     "message": "jam mata kuliah",
     "description": "UA"
   },
-  "hours1": {
-    "message": "jam",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "Penjelasan gambar icon",
-    "description": "UA"
-  },
   "image": {
     "message": "Gambar",
     "description": "UA"
@@ -1763,10 +1587,6 @@
     "message": "Masukkan soal",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "Titik masuk harus berada di antara waktu mulai dan waktu selesai",
-    "description": "UA"
-  },
   "institute": {
     "message": "Universitas",
     "description": "UA"
@@ -1775,20 +1595,12 @@
     "message": "Penerjemah",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "Perkenalan isi konten",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "Mata kuliah ini telah mengikat mata kuliah kelas di bawah ini",
     "description": "UA"
   },
   "isTop": {
     "message": "Apakah mau melakukan sticky post",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "Ikut bergabung dalam mata kuliah",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1655,6 @@
     "message": "Pembaruan terakhir",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "Waktu pembaruan terakhir",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "Belajar halaman lainnya",
     "description": "UA"
@@ -1879,10 +1687,6 @@
     "message": "Tautan",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "Soal pendengaran",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "Sedang memuat mata kuliah",
     "description": "UA"
@@ -1899,10 +1703,6 @@
     "message": "Terjadi kesalahan pada pemuatan, mungkin disebabkan oleh penyebab di bawah ini:",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "Pemuatan gagal",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "Pemuatan selesai",
     "description": "UA"
@@ -1911,16 +1711,8 @@
     "message": "Sedang dalam proses pemuatan, mohon menunggu……",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "Sedang dalam proses pemuatan, mohon menunggu",
-    "description": "UA"
-  },
   "logout": {
     "message": "Keluar",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "Anda masih memiliki topik yang belum disimpan, yakin untuk keluar?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1733,6 @@
   },
   "markRuleTip": {
     "message": "Komponen penilaian percakapan akan melaksanakan perbandingan antara teks yang anda masukkan dengan pengucapan pengguna, cara evaluasi nilai didapat sesuai dengan pengucapan pengguna. Saat ini telah mendukung 3 macam cara penilaian: kata/kalimat/paragraf. Diantaranya, durasi terbesar untuk penilaian kata adalah 20 detik, durasi terbesar untuk penilaian kalimat adalah 40 detik, sedangkan durasi terbesar untuk penilaian paragraf adalah 180 detik, apabila waktu sudah selesai namun pengguna masih belum selesai membaca, maka akan secara otomatis menilai bagian yang telah dibaca, mohon untuk perhatikan kata-kata teks yang dimasukkan. Sistem akan secara otomatis menganggap bahwa nilai lolos adalah 60 poin, untuk nilai di atas 60, akan ditampilkan dalam bentuk warna hijau, sedangkan untuk nilai di bawah 60, akan ditampilkan dalam bentuk warna merah.",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "Soal analisa materi",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "Berarti jawaban untuk pilihan tersebut benar",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "Berarti pilihan tersebut tidak benar, jawaban salah",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "Berarti pilihan tersebut adalah jawaban tepat, namun terlewat",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1793,6 @@
   },
   "multipleChoiceQ": {
     "message": "Pilih lebih dari 1",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "Banyak soal isian tanpa urutan ",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1929,6 @@
   },
   "notUpload10AtOnce": {
     "message": "1 kali maks. unggah 10 bagian",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "Tidak dapat mengunggah dokumen yang sama",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2223,8 @@
     "message": "Penerbit",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "Sistem pengelolaan situs web mata kuliah terpilih",
-    "description": "UA"
-  },
   "question": {
     "message": "soal",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "Tingkat ketepatan latihan",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "ID soal ujian:",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2343,6 @@
     "message": "Kembali",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "Ganti video",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "Desain pengajaran menyarankan: Sesuai dengan target pembelajaran yang ditentukan di awal, setelah isi konten pengajaran selesai dijelaskan, maka akan dibuatkan kuis yang sesuai dengan materi tersebut. Di satu sisi, hal ini dapat membantu mahasiswa untuk segera memperkuat pengetahuan yang dipelajarinya, di sisi lain juga dapat memantau apakah mahasiswa telah mencapai persyaratan target pembelajaran sesuai dengan kondisi jawaban pertanyaannya. Alat [Laporan nilai] dapat ditambah di bagian paling belakang setiap unit, anda dapat mengatur poin pengetahuan dari unit ini, serta mengatur soal latihan yang sesuai, sistem akan memberikan masukkan kepada para mahasiswa sesuai dengan pengaturan tersebut mengenai persentase ketepatan jawaban pertanyaan dari setiap poin pengetahuan.",
     "description": "UA"
@@ -2667,24 +2419,12 @@
     "message": "Penyimpanan gagal pada saat mencatat pembelajaran bagian kecil",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "Simpan catatan",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "Penyimpanan gagal, terjadi kesalahan",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "Penghapusan gagal, terjadi kesalahan",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "Berhasil disimpan",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "Sedang menyimpan isi konten yang baru diedit",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2712,10 +2452,6 @@
     "description": "UA"
   },
   "searchByKeyword": {
-    "message": "Cari sesuai dengan kata kunci atau no. kode",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
     "message": "Cari sesuai dengan kata kunci atau no. kode",
     "description": "UA"
   },
@@ -2773,10 +2509,6 @@
   },
   "selectAllQuestions": {
     "message": "Pilih semua soal di halaman ini",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "Pilih dan buat soal",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2671,6 @@
     "message": "Atur bab percobaan",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "Atur jenis soal yang sering digunakan",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "Saat ini hanya bisa mengatur batas waktu menjawab untuk halaman yang memiliki latihan.",
     "description": "UA"
@@ -3047,20 +2775,12 @@
     "message": "Urutan",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "Modul percakapan",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "Setelah selesai menjawab, silahkan klik \"Keluar dari layar terpisah\" untuk mengumpulkan jawaban.",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "Penilaian percakapan",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "Komponen penilaian percakapan tidak boleh berada di halaman yang sama dengan video, latihan, peranan",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2847,12 @@
     "message": "(Tidak ditampilkan di versi mahasiswa)",
     "description": "UA"
   },
-  "study": {
-    "message": "Sudah belajar",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "Berhasil dikumpulkan",
     "description": "UA"
   },
   "suchAs": {
     "message": "Misalnya:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "Latihan di kelas",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2869,6 @@
   },
   "syllabus": {
     "message": "Garis besar pengajaran",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "Modul tata bahasa",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +3003,12 @@
     "message": "Total nilai",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "Soal terjemahan",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "Benar atau salah",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "Situs web ULearn",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "Tidak bisa tersambung ke server sumber：",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3049,6 @@
   },
   "updateWebsiteTips": {
     "message": "Apabila perlu untuk merubah tempat perilisan, silahkan tarik kembali mata kuliah dan lakukan perilisan ulang",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "Berhasil diperbarui",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3127,6 @@
     "message": "Gagal mengunggah dokumen",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "Waktu unggah",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "Hanya bisa mengunggah format srt",
     "description": "UA"
@@ -3453,10 +3145,6 @@
   },
   "uploader": {
     "message": "Pengunggah",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "Gambar tidak boleh lebih dari 2M",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3221,6 @@
   },
   "viewSelectedQuestion": {
     "message": "Lihat soal yang telah dipilih",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "Modul kosakata",
     "description": "UA"
   },
   "waitPreview": {
@@ -3661,10 +3345,6 @@
   },
   "codeTip": {
     "message": "Setiap halaman bahan mata kuliah memiliki satu lembar kode QR, apabila menghapus halaman mata kuliah, maka kode QR tersebut tidak akan bisa diakses!",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "{n} item dipilih",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3487,6 @@
     "message": "Tonton secara offline",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "Telah diunduh",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "Telah disimpan ke lokal",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "Selesai menjawab",
     "description": "UA"
@@ -3923,10 +3595,6 @@
     "message": "Penghapusan gagal, terjadi kesalahan",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "Gagal menyimpan, data tidak lengkap",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "Nama peranan harus berada di antara 1-10 karakter",
     "description": "UA"
@@ -4025,10 +3693,6 @@
   },
   "Results": {
     "message": "Hasil penilaian: ",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "Belum diberikan akses penggunaan rekaman. ",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3883,6 @@
     "message": "Silahkan masukkan konten",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "Jika Anda belum menyelesaikan informasi dasar kursus, anggota tim, dan informasi lainnya, jika Anda tidak perlu menampilkan pelajaran di halaman situs web, Anda dapat melewatinya.",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "Masukkan kata kunci untuk mencari",
     "description": "UA"
@@ -4267,88 +3927,8 @@
     "message": "Atur judul semua video dalam courseware ini secara sinkron",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "Kredit pembuka tidak boleh melebihi 180 detik",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "Desain instruksional",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "Unggah video kuliah, transkrip kelas, dan materi lainnya",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "Silakan masukkan konten",
-    "description": "UA"
-  },
   "addFile": {
     "message": "Menambahkan file",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "Menambahkan kategori",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "Menambahkan hingga 10 kategori",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "Kuliah",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "Kasus desain instruksional",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "Refleksi pedagogis",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "Courseware kuliah",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "Kelas mikro",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "Transkrip kuliah",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "Silakan masukkan nama",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "Nama tidak boleh melebihi 10 karakter",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "Sudah ada kategori dengan nama yang sama di bawah courseware saat ini",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "Apakah Anda yakin ingin menghapus kategori?",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "Menambahkan hingga 5 file per kategori",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "Apakah Anda yakin ingin menghapus file?",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "Anda tidak dapat memilih file yang sama",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "Nama kategori tidak boleh kosong",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3979,6 @@
     "message": "orang berpartisipasi",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "Jumlah kunjungan situs web",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "Dukungan teknis",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "Disarankan untuk menggunakan browser IE8 atau di atasnya, resolusi 1024 * 798 atau lebih tinggi untuk mengakses situs ini",
-    "description": "UA"
-  },
   "username": {
     "message": "Nama pengguna",
     "description": "UA"
@@ -4449,14 +4017,6 @@
   },
   "iframeErr1": {
     "message": "Silakan masukkan kode iframe",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "Gambar sampul",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "Ketika kursus diterbitkan, itu berubah menjadi status Diterbitkan.",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4099,8 @@
     "message": "Mengekspor kesalahan file CC",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "Setelah courseware dikeluarkan dari rak, courseware tidak dapat digunakan, dan tidak dapat diterbitkan ulang atau diletakkan di rak. Apakah Anda yakin untuk menghapus courseware?",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "Kumpulan sumber mata kuliah",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "Menambahkan sumber daya pustaka sumber daya subjek",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "Pengantaran berhasil",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "Ada sumber daya duplikat yang diserap",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "Revisi soal",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "Transcoding, silakan periksa nanti",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "File tidak mendukung pratinjau online",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "Silakan unduh dan lihat",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "Kaitkan poin pengetahuan",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "Grafik Pengetahuan",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n} poin pengetahuan",
-    "description": "UA"
-  },
   "template": {
     "message": "templat",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "Menyisipkan templat ke konten Anda",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "Ekspor PDF",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "Silakan pilih konten katalog yang ingin Anda ekspor",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "Waktu ekspor mungkin panjang, harap bersabar.",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "Jika browser memblokir jendela pop-up, pilih Selalu izinkan pop-up situs web.",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "Mengekspor PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "Membatalkan ekspor",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "Silakan pilih nama bagian atau nama halaman",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "Klik untuk lihat",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "Catatan: Untuk fungsi [Manajemen Semester], entri telah dimigrasikan ke modul [Pernyataan Mata Kuliah] di halaman daftar kelas.",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "Konten setiap halaman tidak boleh melebihi 100.000 karakter. Jika konten disisipkan dari editor pihak ketiga, gaya juga akan mengambil sejumlah karakter.",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4647,8 +4115,88 @@
     "message": "Mengekspor file, jangan tinggalkan halaman saat ini!",
     "description": "UA"
   },
-  "miniExport": {
-    "message": "Ekspor latar belakang",
+  "uploadVMResource": {
+    "message": "Unggah Simulasi",
+    "description": "UA"
+  },
+  "VMResource": {
+    "message": "simulasi",
+    "description": "UA"
+  },
+  "VMResourcePreviewSet": {
+    "message": "Pratinjau pengaturan",
+    "description": "UA"
+  },
+  "selecVMREsource": {
+    "message": "Pilih simulasi",
+    "description": "UA"
+  },
+  "enterVMResourceKeywordSearch1": {
+    "message": "Masukkan kata kunci untuk mencari simulasi",
+    "description": "UA"
+  },
+  "VMResourceWithoutEntranceTips": {
+    "message": "Entri pratinjau belum ditetapkan untuk sumber daya ini, silakan pilih entri pratinjau!",
+    "description": "UA"
+  },
+  "VMResourcePreviewSetting": {
+    "message": "Pratinjau pengaturan",
+    "description": "UA"
+  },
+  "VMResourceEntrancePlaceholder": {
+    "message": "Silakan pilih entri pratinjau",
+    "description": "UA"
+  },
+  "rarPreview": {
+    "message": "Saat ini, hanya pratonton versi RAR4 didukung, atau ada kesalahan lain. Silakan segar-segar dan coba ulang atau mengunduh untuk melihat",
+    "description": "UA"
+  },
+  "back": {
+    "message": "Kembali",
+    "description": "UA"
+  },
+  "currentPosition": {
+    "message": "Posisi saat ini: ",
+    "description": "UA"
+  },
+  "selectEntrance": {
+    "message": "Pilih",
+    "description": "UA"
+  },
+  "VMResourceUploadSuccessdialogs": {
+    "message": "Simulasi telah berhasil diunggah, silakan atur entri pratinjau!",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips": {
+    "message": "Entri pratinjau telah berhasil ditetapkan, silakan masukkan simulasi lagi",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips1": {
+    "message": "Entri pratinjau telah berhasil ditetapkan",
+    "description": "UA"
+  },
+  "VMResourceHoverTips": {
+    "message": "Masukkan simulasi ke dalam konten Anda",
+    "description": "UA"
+  },
+  "scormAddTipOne": {
+    "message": "Hanya satu komponen SCORM yang dapat ditambahkan",
+    "description": "UA"
+  },
+  "score": {
+    "message": "Nilai:",
+    "description": "UA"
+  },
+  "status": {
+    "message": "Negara:",
+    "description": "UA"
+  },
+  "backToManageCenter": {
+    "message": "Kembali",
+    "description": "UA"
+  },
+  "scormErrorTip": {
+    "message": "SCORM hanya mendukung versi 1.2 dan 2004",
     "description": "UA"
   }
 }

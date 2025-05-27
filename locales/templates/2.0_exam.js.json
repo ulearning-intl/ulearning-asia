@@ -3700,7 +3700,7 @@
     "description": "2.0 exam.js"
   },
   "mobileMonitorCodeIntro": {
-    "message": "考试签到码为动态二维码，请使用【优学院2.0】APP进入考试查看，或使用手机扫描下方二维码，进入移动监控台查看。",
+    "message": "考试签到码为动态二维码，请使用【优学院】APP进入考试查看，或使用手机扫描下方二维码，进入移动监控台查看。",
     "description": "2.0 exam.js"
   },
   "mobileMonitorCodeTip": {
@@ -3760,7 +3760,7 @@
     "description": "2.0 exam.js"
   },
   "exportType": {
-    "message": "导出方式：",
+    "message": "导出方式",
     "description": "2.0 exam.js"
   },
   "exportType1": {
@@ -4012,7 +4012,7 @@
     "description": "2.0 exam.js"
   },
   "signInTip": {
-    "message": "1.请登录【优学院2.0】 APP扫码签到。{br}2.签到后，请使用签到设备进入考试答题，中途不能更换设备，特殊情况请向监考老师索取验证码签到。",
+    "message": "1.请登录【优学院】 APP扫码签到。{br}2.签到后，请使用签到设备进入考试答题，中途不能更换设备，特殊情况请向监考老师索取验证码签到。",
     "description": "2.0 exam.js"
   },
   "attachmentHelpDescNew": {
@@ -4145,6 +4145,298 @@
   },
   "exportTip8": {
     "message": "请选择导出项",
+    "description": "2.0 exam.js"
+  },
+  "draft": {
+    "message": "草稿",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeIntro1": {
+    "message": "考试签到码为动态二维码，请使用【优学院】APP进入考试查看，或使用手机扫描下方二维码，进入移动监控台查看。",
+    "description": "2.0 exam.js"
+  },
+  "signInTip1": {
+    "message": "1.请登录【优学院】 APP扫码签到。{br}2.签到后，请使用签到设备进入考试答题，中途不能更换设备，特殊情况请向监考老师索取验证码签到。",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew1": {
+    "message": "1. 上传附件，支持图片、文档、视频、音频等常见格式；每道题最多上传10个附件；电脑端单个文件不超过500M，手机端单个文件不超过200M。{br}{link}{br1}2. 手机端可单独选择是否允许从本机/相册选择文件上传。如不允许，则手机端仅支持拍照上传图片；如果允许，会存在学生通过查看本机文件作弊的风险，请酌情选择。{br2}3. 电脑端答题可以从本地选择文件，或者使用手机扫码上传。",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew2": {
+    "message": "1. 上传附件，支持图片、文档、视频、音频等常见格式；每道题最多上传10个附件；电脑端单个文件不超过500M。{br}{link}{br1}2. 电脑端答题可以从本地选择文件，或者使用手机扫码上传。",
+    "description": "2.0 exam.js"
+  },
+  "electronicSignature": {
+    "message": "电子签名",
+    "description": "2.0 exam.js"
+  },
+  "scanCodeSignature": {
+    "message": "扫码签名",
+    "description": "2.0 exam.js"
+  },
+  "allowUploadFromMobile": {
+    "message": "手机端允许从本机/相册选择文件上传",
+    "description": "2.0 exam.js"
+  },
+  "importExamRoomInfo": {
+    "message": "导入排考信息",
+    "description": "2.0 exam.js"
+  },
+  "downloadTemplate": {
+    "message": "下载模板",
+    "description": "2.0 exam.js"
+  },
+  "downloadTip": {
+    "message": "下载Excel模板,并按照模板要求填写学生考场信息",
+    "description": "2.0 exam.js"
+  },
+  "uploadExamRoomInfoExcel": {
+    "message": "上传文件",
+    "description": "2.0 exam.js"
+  },
+  "uploadFileTip": {
+    "message": "上传填写完成的Excel文件",
+    "description": "2.0 exam.js"
+  },
+  "invigilator1": {
+    "message": "监考教师",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber1": {
+    "message": "座位号",
+    "description": "2.0 exam.js"
+  },
+  "seatNumberN": {
+    "message": "座位号：{n}",
+    "description": "2.0 exam.js"
+  },
+  "downloadFail": {
+    "message": "下载失败",
+    "description": "2.0 exam.js"
+  },
+  "importSuccess": {
+    "message": "导入成功",
+    "description": "2.0 exam.js"
+  },
+  "importError": {
+    "message": "导入错误",
+    "description": "2.0 exam.js"
+  },
+  "importErrorTip1": {
+    "message": "文件中部分排考信息不规范，请检查修改后再上传。",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom1": {
+    "message": "考场：{n}",
+    "description": "2.0 exam.js"
+  },
+  "examRoomImportTip": {
+    "message": "正在导入，请稍后...",
+    "description": "2.0 exam.js"
+  },
+  "canUseCalculator": {
+    "message": "允许使用计算器",
+    "description": "2.0 exam.js"
+  },
+  "useCalculatorTip": {
+    "message": "开启后考生答题过程中可以使用计算器辅助计算，满足加、减、乘、除、平方、ln、根号等最基本的计算功能。",
+    "description": "2.0 exam.js"
+  },
+  "aiBatchScore": {
+    "message": "智能评分",
+    "description": "2.0 exam.js"
+  },
+  "question": {
+    "message": "题目",
+    "description": "2.0 exam.js"
+  },
+  "noReAiScore": {
+    "message": "本题正在AI智能评分中，请勿重复评分。",
+    "description": "2.0 exam.js"
+  },
+  "hasEvaluation": {
+    "message": "已评",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip1": {
+    "message": "正在评分中，请耐心等待....",
+    "description": "2.0 exam.js"
+  },
+  "tempAnswer": {
+    "message": "参考答案",
+    "description": "2.0 exam.js"
+  },
+  "generate": {
+    "message": "生成",
+    "description": "2.0 exam.js"
+  },
+  "scoreRule": {
+    "message": "评分规则",
+    "description": "2.0 exam.js"
+  },
+  "scoreRuleTip": {
+    "message": "系统会根据参考答案内容自动解析评分点。答案内容清晰罗列要点，每个要点用序号/句号/分号分隔，可增加评分点识别准确度。 {br}例：1. 坚持中国特色社会主义 2. 坚持党的领导 或 坚持中国特色社会主义；坚持党的领导。",
+    "description": "2.0 exam.js"
+  },
+  "scorePoint": {
+    "message": "得分点",
+    "description": "2.0 exam.js"
+  },
+  "scoreNum": {
+    "message": "分值",
+    "description": "2.0 exam.js"
+  },
+  "addScorePoint": {
+    "message": "添加得分点",
+    "description": "2.0 exam.js"
+  },
+  "scoreMeasure": {
+    "message": "评分尺度",
+    "description": "2.0 exam.js"
+  },
+  "scoreMeasureTip": {
+    "message": "选择不同的评分尺度在AI智能评分中代表不同的严厉程度。 {br}严格：学生答案中评分点完全正确给满分，不完全正确不给分。 {br1}适中：根据答案中学生作答评分点情况适当给分。 {br2}宽松：学生答案中提及评分点就给分。",
+    "description": "2.0 exam.js"
+  },
+  "strict": {
+    "message": "严格",
+    "description": "2.0 exam.js"
+  },
+  "moderate": {
+    "message": "适中",
+    "description": "2.0 exam.js"
+  },
+  "loose": {
+    "message": "宽松",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswer": {
+    "message": "学生答案",
+    "description": "2.0 exam.js"
+  },
+  "changeStu": {
+    "message": "更换学生",
+    "description": "2.0 exam.js"
+  },
+  "aiScore": {
+    "message": "AI评分",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip2": {
+    "message": "评分测试的结果不会保存，确认评分结果符合预期可以点击【开始评分】。",
+    "description": "2.0 exam.js"
+  },
+  "scoreInfo": {
+    "message": "得分情况",
+    "description": "2.0 exam.js"
+  },
+  "noScoreTip": {
+    "message": "AI评分适用于有参考答案的半开放式主观题，在左侧设置好参考答案和评分规则后，点击【测试评分】，可以随机抽取学生答案，预览评分效果。",
+    "description": "2.0 exam.js"
+  },
+  "testScore": {
+    "message": "测试评分",
+    "description": "2.0 exam.js"
+  },
+  "aiScore1": {
+    "message": "AI智能评分",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreContent": {
+    "message": "选择AI智能评分后，系统会按照已设置的评分规则对本次考试中学生该题目所提交的答案进行AI智能评分（AI智能评分不会影响更改教师已批阅过学生的分数）。",
+    "description": "2.0 exam.js"
+  },
+  "confirmScore": {
+    "message": "确定开始评分吗？",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswerTip": {
+    "message": "无学生作答题目，请输入学生答案后开始测试。",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswerTip1": {
+    "message": "请输入学生答案",
+    "description": "2.0 exam.js"
+  },
+  "rightAnswerTip": {
+    "message": "请输入参考答案",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip": {
+    "message": "各得分点之和应等于满分。",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip1": {
+    "message": "请填写得分点",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip2": {
+    "message": "得分点分值最多保留1位小数",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip3": {
+    "message": "请填写得分",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip4": {
+    "message": "未解析到评分点",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip1": {
+    "message": "满分需要在1-100之间",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip2": {
+    "message": "满分最多保留1位小数",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip": {
+    "message": "请输入题目满分",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip3": {
+    "message": "请核对题目满分值",
+    "description": "2.0 exam.js"
+  },
+  "generating": {
+    "message": "生成中...",
+    "description": "2.0 exam.js"
+  },
+  "remarking": {
+    "message": "重新评分中...",
+    "description": "2.0 exam.js"
+  },
+  "marking": {
+    "message": "评分中",
+    "description": "2.0 exam.js"
+  },
+  "plsEnter": {
+    "message": "请输入内容",
+    "description": "2.0 exam.js"
+  },
+  "aiGenerateTip": {
+    "message": "生成失败，请手动输入内容",
+    "description": "2.0 exam.js"
+  },
+  "errTip": {
+    "message": "出错了，请联系管理员",
+    "description": "2.0 exam.js"
+  },
+  "intelligentReview": {
+    "message": "智能点评",
+    "description": "2.0 exam.js"
+  },
+  "encouragement": {
+    "message": "鼓励",
+    "description": "2.0 exam.js"
+  },
+  "gentle": {
+    "message": "温和",
+    "description": "2.0 exam.js"
+  },
+  "serious": {
+    "message": "严肃",
     "description": "2.0 exam.js"
   }
 }

@@ -35,10 +35,6 @@
     "message": "قارب على الانتهاء",
     "description": "新版管理后台 zh.json"
   },
-  "organization.discontinued": {
-    "message": "إيقاف",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.suspend": {
     "message": "إيقاف",
     "description": "新版管理后台 zh.json"
@@ -65,10 +61,6 @@
   },
   "organization.action": {
     "message": "عمل",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.view": {
-    "message": "عرض",
     "description": "新版管理后台 zh.json"
   },
   "organization.edit": {
@@ -263,6 +255,26 @@
     "message": "تم الحفظ بنجاح",
     "description": "新版管理后台 zh.json"
   },
+  "organization.organizationText": {
+    "message": "الآلية الفرعية",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.proxyOrganization": {
+    "message": "وكالة",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step10": {
+    "message": "مجموعة معلومات أساسية عن { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step11": {
+    "message": "تكوين الموارد المتاحة { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step12": {
+    "message": "إنشاء سوبر مدير لهذا { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
   "login.title": {
     "message": "تسجيل الدخول",
     "description": "新版管理后台 zh.json"
@@ -321,10 +333,6 @@
   },
   "routers.courseStatistics": {
     "message": "إحصاءات المقرر",
-    "description": "新版管理后台 zh.json"
-  },
-  "routers.courseAnalysis": {
-    "message": "تحليل المادة الدراسية",
     "description": "新版管理后台 zh.json"
   },
   "routers.examManage": {
@@ -471,14 +479,6 @@
     "message": "المؤسسات ذات الصلة",
     "description": "新版管理后台 zh.json"
   },
-  "permission.addCharacteristicFormitem6": {
-    "message": "الصلاحيات",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.addCharacteristicplaceholder6": {
-    "message": "قم بتعيين الصلاحيات المرتبطة بالميزة، فعند إغلاق الميزة، لا يمكن لأي دور في المؤسسة الوصول إلى مصادر هذه الصلاحيات.",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addCharacteristicFormitem7": {
     "message": "هل تمكين",
     "description": "新版管理后台 zh.json"
@@ -517,10 +517,6 @@
   },
   "permission.delete": {
     "message": "حذف",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.requierTip": {
-    "message": "حقل مطلوب",
     "description": "新版管理后台 zh.json"
   },
   "permission.repeatTip": {
@@ -569,10 +565,6 @@
   },
   "permission.confirmBtn": {
     "message": "التأكيد",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.features": {
-    "message": "ميزات",
     "description": "新版管理后台 zh.json"
   },
   "permission.deleteBtn": {
@@ -727,10 +719,6 @@
     "message": "الوصف",
     "description": "新版管理后台 zh.json"
   },
-  "permission.permissionGropuFormItemPlaceholder7": {
-    "message": "إدخال معلومات الوصف",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.deletePermissionGroupConfirmTitle": {
     "message": "تأكيد العمل",
     "description": "新版管理后台 zh.json"
@@ -741,10 +729,6 @@
   },
   "permission.deletePermissionGroupConfirmTitle1": {
     "message": "تحذير",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.deletePermissionGroupConfirmBtn": {
-    "message": "أغلق",
     "description": "新版管理后台 zh.json"
   },
   "permission.deletePermissionGroupConfirmDesc1": {
@@ -769,10 +753,6 @@
   },
   "permission.saveSuccess": {
     "message": "حفظ ناجح",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManageradd": {
-    "message": "إضافة",
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerPlaceload1": {
@@ -853,10 +833,6 @@
   },
   "permission.roleManagerFormItemPlaceholder1": {
     "message": "إدخال اسم الدور",
-    "description": "新版管理后台 zh.json"
-  },
-  "permission.roleManagerFormItemPlaceholder2": {
-    "message": "أدخل اسم الدور",
     "description": "新版管理后台 zh.json"
   },
   "permission.roleManagerSettingPermission": {
@@ -955,10 +931,6 @@
     "message": "تم تحديث الدور بنجاح",
     "description": "新版管理后台 zh.json"
   },
-  "permission.isConfirmText5": {
-    "message": "إلغاء تحديث الدور",
-    "description": "新版管理后台 zh.json"
-  },
   "permission.addRoleSuccess": {
     "message": "أضيف الدور بنجاح",
     "description": "新版管理后台 zh.json"
@@ -1035,10 +1007,6 @@
     "message": "تصدير دفعة",
     "description": "新版管理后台 zh.json"
   },
-  "common.exportDesc": {
-    "message": "يمكن تصدير البيانات المحددة لنطاق مرة واحدة",
-    "description": "新版管理后台 zh.json"
-  },
   "common.exportTip": {
     "message": "الرجاء إعداد نطاق البيانات المطلوب تصديره",
     "description": "新版管理后台 zh.json"
@@ -1073,10 +1041,6 @@
   },
   "notice.successUpload": {
     "message": "تم رفع الملف بنجاح!",
-    "description": "新版管理后台 zh.json"
-  },
-  "notice.errUpload": {
-    "message": "يسمح بحد أقصى بتحديد {0} ملف، لقد حددت {1} ملف، المجموع {2}",
     "description": "新版管理后台 zh.json"
   },
   "notice.delUpload": {
@@ -1263,10 +1227,6 @@
     "message": "الرجاء تعيين طريقة العرض",
     "description": "新版管理后台 zh.json"
   },
-  "notice.errForm": {
-    "message": "لم تتم تعبئة معلومات الإعلان بشكل كامل",
-    "description": "新版管理后台 zh.json"
-  },
   "notice.successPub": {
     "message": "تم نشر الإعلان بنجاح",
     "description": "新版管理后台 zh.json"
@@ -1407,10 +1367,6 @@
     "message": "الكل",
     "description": "新版管理后台 zh.json"
   },
-  "course.allOrg": {
-    "message": "الكل مؤسسة",
-    "description": "新版管理后台 zh.json"
-  },
   "course.allState": {
     "message": "جميع الحالات",
     "description": "新版管理后台 zh.json"
@@ -1509,10 +1465,6 @@
   },
   "course.setTheClassTypeOfTheSchoolClass": {
     "message": "إعدادات نوع المادة الدراسية لدروس جماعية في جامعتنا",
-    "description": "新版管理后台 zh.json"
-  },
-  "course.delete": {
-    "message": "حذف",
     "description": "新版管理后台 zh.json"
   },
   "course.addContinue": {
@@ -1643,10 +1595,6 @@
     "message": "دمج درجات الامتحان لاختبار",
     "description": "新版管理后台 zh.json"
   },
-  "course.requireTip": {
-    "message": "مطلوب ملؤه",
-    "description": "新版管理后台 zh.json"
-  },
   "course.lengthTip": {
     "message": "الطول 2-200",
     "description": "新版管理后台 zh.json"
@@ -1669,10 +1617,6 @@
   },
   "exams.filterPlaceholder1": {
     "message": "إدخال اسم معلم أو امتحان للبحث",
-    "description": "新版管理后台 zh.json"
-  },
-  "exams.filterPlaceholder2": {
-    "message": "نطاق وقت الاسترجاع",
     "description": "新版管理后台 zh.json"
   },
   "exams.filterPlaceholder3": {
@@ -1848,15 +1792,11 @@
     "description": "新版管理后台 zh.json"
   },
   "users.accountTable7": {
-    "message": "قائمة الإيميلات",
+    "message": "دفعة تعديل كلمة السر",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction1": {
     "message": "تعديل",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.accountTableAction2": {
-    "message": "تغيير كلمة المرور",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction3": {
@@ -1931,38 +1871,6 @@
     "message": "على الأقل 8 أحرف من كلمة المرور تتضمن حروف وأرقام",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormPlaceholder6": {
-    "message": "اسمك الكامل الذي سيستخدم في الشهادة والتقرير الرسمي",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder7": {
-    "message": "اسمك الكامل، سيستخدم في الشهادة والتقرير الرسمي",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormPlaceholder8": {
-    "message": "اسمك الكامل سيستخدم في الشهادة والتقرير الرسمي",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr1": {
-    "message": "يجب عليك ملء الاسم بالكامل",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr2": {
-    "message": "طول النص لا يزيد عن 128 حرف",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr3": {
-    "message": "يجب ملء اسم العرض",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr4": {
-    "message": "لا يمكن أن يكون محتوى النص أكثر من 64 حرف",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr5": {
-    "message": "يجب ألا يتجاوز طول النص 128 حرفًا",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr6": {
     "message": "يجب ملء عنوان البريد الإلكتروني",
     "description": "新版管理后台 zh.json"
@@ -1975,16 +1883,8 @@
     "message": "عنوان البريد الإلكتروني غير صحيح",
     "description": "新版管理后台 zh.json"
   },
-  "users.createFormErr9": {
-    "message": "كلمة المرور على الأقل 8 أحرف",
-    "description": "新版管理后台 zh.json"
-  },
   "users.createFormErr10": {
     "message": "كلمة المرور بين 8-20 حرف، تحتوي على حروف وأرقام",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.createFormErr11": {
-    "message": "يجب ملء كلمة المرور",
     "description": "新版管理后台 zh.json"
   },
   "users.createFormErr12": {
@@ -2147,10 +2047,6 @@
     "message": "استرجاع حسب الإسم أو عنوان البريد الإلكتروني",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerfilter2": {
-    "message": "الكل",
-    "description": "新版管理后台 zh.json"
-  },
   "users.registerfilter3": {
     "message": "الكل الدور",
     "description": "新版管理后台 zh.json"
@@ -2197,22 +2093,6 @@
   },
   "users.registerTableAction1": {
     "message": "تعديل",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction2": {
-    "message": "حذف المستخدم",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction3": {
-    "message": "نتائج التعليم",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction4": {
-    "message": "سِجِل التدريس",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.registerTableAction5": {
-    "message": "إدارة السِّجِل",
     "description": "新版管理后台 zh.json"
   },
   "users.registerFormTitle": {
@@ -2299,16 +2179,8 @@
     "message": "تم تعديل العلاقة المسجلة لحساب المستخدم {mail}",
     "description": "新版管理后台 zh.json"
   },
-  "users.registerAccountRet": {
-    "message": "حسابات مثل {mail} {count} إلخ تم إنشاءها",
-    "description": "新版管理后台 zh.json"
-  },
   "users.inviteUserErr": {
     "message": "وصل عدد الحسابات الحد الأقصى لحسابات المؤسسة، لا يمكن إنشاء حسابات جديدة، يرجى التواصل مع مسؤول النظام لشراء حسابات جديدة.",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.inviteUserSuccess": {
-    "message": "تم إرسال دعوة تسجيل إلى {count} من عناوين البريد الإلكتروني مثل {mail}.",
     "description": "新版管理后台 zh.json"
   },
   "users.passwordSuccess": {
@@ -2317,10 +2189,6 @@
   },
   "users.passwordFail": {
     "message": "فشل تعديل كلمة المرور",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.activeAccountErr": {
-    "message": "لقد وصل عدد الحسابات النشطة إلى أقصى حد، ولا يمكن إضافة أي حسابات نشطة جديدة، يرجى الاتصال بمسؤول النظام لشراء حسابات نشطة جديدة",
     "description": "新版管理后台 zh.json"
   },
   "users.accountOver": {
@@ -2333,10 +2201,6 @@
   },
   "users.delRegisterRole2": {
     "message": "إدارة التسجيل",
-    "description": "新版管理后台 zh.json"
-  },
-  "users.loadingText1": {
-    "message": "قيد المعالجة، يرجى الانتظار...",
     "description": "新版管理后台 zh.json"
   },
   "users.loadingText2": {
@@ -2659,10 +2523,6 @@
     "message": "إدخال اسم المعلم/البث المباشر بحث",
     "description": "新版管理后台 zh.json"
   },
-  "live.filterPlaceholder2": {
-    "message": "استرجاع نطاق الوقت",
-    "description": "新版管理后台 zh.json"
-  },
   "live.filterPlaceholder3": {
     "message": "جميع الحالات",
     "description": "新版管理后台 zh.json"
@@ -2879,10 +2739,6 @@
     "message": "تم حذف غرفة الاجتماع بنجاح",
     "description": "新版管理后台 zh.json"
   },
-  "live.selctTea": {
-    "message": "إختر معلم",
-    "description": "新版管理后台 zh.json"
-  },
   "live.setMeetingRoomTitle": {
     "message": "إعداد غرفة اجتماعات السحابة",
     "description": "新版管理后台 zh.json"
@@ -2913,10 +2769,6 @@
   },
   "saas.used": {
     "message": "مستعمل",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.max": {
-    "message": "أقصى",
     "description": "新版管理后台 zh.json"
   },
   "saas.expired": {
@@ -3043,10 +2895,6 @@
     "message": "تغيير المصادر",
     "description": "新版管理后台 zh.json"
   },
-  "saas.confirm5": {
-    "message": "إرسال إيميل إشعار إلى مسؤول النظام للمؤسسة",
-    "description": "新版管理后台 zh.json"
-  },
   "saas.confirm6": {
     "message": "التأكيد",
     "description": "新版管理后台 zh.json"
@@ -3105,10 +2953,6 @@
   },
   "saas.tips12": {
     "message": "جميع غرف الاجتماعات منتهية الصلاحية لا يمكن استخدامها، يرجى التواصل مع مدير الحساب لتجديدها في الوقت المناسب",
-    "description": "新版管理后台 zh.json"
-  },
-  "saas.rule1": {
-    "message": "حقل مطلوب",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule2": {
@@ -3187,10 +3031,6 @@
     "message": "مؤسسة معتمدة",
     "description": "新版管理后台 zh.json"
   },
-  "organization.stepTitle": {
-    "message": "إنشاء مستأجر جديد",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.step1": {
     "message": "إعدادات",
     "description": "新版管理后台 zh.json"
@@ -3237,10 +3077,6 @@
   },
   "organization.stepBtn2": {
     "message": "العودة إلى الصفحة السابقة",
-    "description": "新版管理后台 zh.json"
-  },
-  "organization.stepBtn3": {
-    "message": "إنشاء المستأجر",
     "description": "新版管理后台 zh.json"
   },
   "organization.stepBtn4": {
@@ -3331,10 +3167,6 @@
     "message": "اسم المستخدم مستخدم، الرجاء استخدام اسم آخر",
     "description": "新版管理后台 zh.json"
   },
-  "organization.addRuleErr1": {
-    "message": "أدخل المعلومات المطلوبة",
-    "description": "新版管理后台 zh.json"
-  },
   "organization.addRuleErr2": {
     "message": "يجب ألا يتجاوز النص {num} أحرف",
     "description": "新版管理后台 zh.json"
@@ -3365,10 +3197,6 @@
   },
   "routers.rolePermissionSetting": {
     "message": "تكوين الصلاحيات",
-    "description": "新版管理后台 zh.json"
-  },
-  "routers.homePage": {
-    "message": "الصفحة الرئيسية",
     "description": "新版管理后台 zh.json"
   },
   "saas.baseResourceSettingSuccess": {
@@ -3443,10 +3271,6 @@
     "message": "اسم النطاق هذا مشغول، يُرجى إدخال اسم مختلف",
     "description": "新版管理后台 zh.json"
   },
-  "common.batchAdd": {
-    "message": "إضافة الدفعة",
-    "description": "新版管理后台 zh.json"
-  },
   "common.uploaderTitle": {
     "message": "إختر ملف",
     "description": "新版管理后台 zh.json"
@@ -3465,10 +3289,6 @@
   },
   "common.backStepBtn": {
     "message": "العودة إلى الصفحة السابقة",
-    "description": "新版管理后台 zh.json"
-  },
-  "common.nextStepBtn": {
-    "message": "التالي",
     "description": "新版管理后台 zh.json"
   },
   "common.continueBtn": {
@@ -3927,16 +3747,8 @@
     "message": "AuthnContextClassRef",
     "description": "新版管理后台 zh.json"
   },
-  "auth.spSetting": {
-    "message": "إعدادات SP",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.downloadSPXML": {
     "message": "تنزيل SP Metadata XML",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.XMLDownloadTips": {
-    "message": "الرجاء تنزيل بعد إكمال إعدادات المعرف",
     "description": "新版管理后台 zh.json"
   },
   "auth.emailIdpAttr": {
@@ -4009,14 +3821,6 @@
   },
   "auth.sso48": {
     "message": "قواعد تخطيط المؤسسات",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.IdpAttrVal": {
-    "message": "قيمة سمة IdP",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.sso50": {
-    "message": "مؤسسة نظام إدارة التعلم",
     "description": "新版管理后台 zh.json"
   },
   "auth.createSSOOption1": {
@@ -4151,10 +3955,6 @@
     "message": "أدخل نقطة نهاية إعادة توجيه IDP",
     "description": "新版管理后台 zh.json"
   },
-  "auth.creatSSOErr3": {
-    "message": "أدخل اسم الخاصية الشخصية لموضوع SAML",
-    "description": "新版管理后台 zh.json"
-  },
   "auth.creatSSOErr4": {
     "message": "أدخل شهادة X.509 العامة",
     "description": "新版管理后台 zh.json"
@@ -4189,10 +3989,6 @@
   },
   "auth.testSSO7": {
     "message": "خروج",
-    "description": "新版管理后台 zh.json"
-  },
-  "auth.testSSO8": {
-    "message": "اتبع هذه الخطوات لاختبار خروج SSO",
     "description": "新版管理后台 zh.json"
   },
   "auth.testSSO9": {
@@ -4399,10 +4195,6 @@
     "message": "تتيح لك هذه الإعدادات تمكين المستخدم من تسجيل الدخول باستخدام SSO، بما في ذلك التسجيل الذي بدأه موفر الخدمة وتسجيل الدخول الذي بدأه موفر الهوية. انقر فوق زر التأكيد للمتابعة",
     "description": "新版管理后台 zh.json"
   },
-  "auth.activeSSOBtn": {
-    "message": "تمكين",
-    "description": "新版管理后台 zh.json"
-  },
   "routers.cloudStorage": {
     "message": "تخزين سحابي",
     "description": "新版管理后台 zh.json"
@@ -4487,10 +4279,6 @@
     "message": "تم إعادة تعيين بنجاح",
     "description": "新版管理后台 zh.json"
   },
-  "saas.LVCMax": {
-    "message": "توافق LVC",
-    "description": "新版管理后台 zh.json"
-  },
   "saas.forever": {
     "message": "صالح إلى الأبد",
     "description": "新版管理后台 zh.json"
@@ -4505,6 +4293,1202 @@
   },
   "organization.defaultLanguage": {
     "message": "اللغة الافتراضية",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.college": {
+    "message": "معهد",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.attendanceTotalNum": {
+    "message": "أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteTotalNum": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "تسجيل الدخول باستخدام حساب المشرف",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherLoginTrend": {
+    "message": "سلوك تسجيل دخول المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "سلوك تسجيل دخول الطالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "تسجيلات دخول للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "مجموع المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.personalHomework": {
+    "message": "المهام الفردية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.groupHomework": {
+    "message": " مهام جماعيه",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTest": {
+    "message": "اختبار",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examAnalysis": {
+    "message": "تحليلات امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "توزيع نوع المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingDynamic": {
+    "message": "لقطات البيانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseWorking": {
+    "message": "تحليل بيانات المقرر الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "تحليلات النشاط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "لقطة اليوم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "أعِد التحميل كل 5 دقائق",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "معلم سجلوا دخولهم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "تسجيلات دخول للمعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "طالب سجلوا دخولهم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "تسجيلات دخول للطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": " الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "امتحانات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": "أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "اختيارات عشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "لقطة الأسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "صدر التقارير للحصول على بيانات أكثر تفصيلاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "التقرير اليومي عن الأسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport2": {
+    "message": "تقرير أسبوعي عن الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "تقرير الفصل الدراسي الشهري",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "أعلي الأنشطة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "الاسبوعين الماضيين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "أعلي 5 دورات أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "أعلي 5 معلمين أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": " أعلي 5 طلاب أكثر نشاطاً",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.generalStatistics": {
+    "message": "‏‏نظرة عامة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runCourseNum": {
+    "message": "الدورات التدريبية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.useCoursewareTotalNum": {
+    "message": " البرامج الدراسية المستخدمة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaAverageTeachCourseNum": {
+    "message": "المقررات التي تدرس لكل معلم",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseNum": {
+    "message": "المقررات الدراسية المقيدة لكل طالب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseCount": {
+    "message": "مجموع ما تم الانضمام له",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseSizeDistribution": {
+    "message": "حجم الدورة التدريبية والتوزيع",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips2": {
+    "message": " البيانات المستندة إلى المقررات التي تم إنشاؤها في تواريخ محددة، باستثناء المقررات التي تضم 10- تسجيلات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips3": {
+    "message": "دورات مع 1000+ تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips4": {
+    "message": "دورات مع 201-1000 تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips5": {
+    "message": "دورات مع 51-200 تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips6": {
+    "message": "دورات مع 50- تسجيل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingModeAnalysis": {
+    "message": "تحليل وضع التدريس",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips7": {
+    "message": "دورات الدراسة الذاتية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips8": {
+    "message": "الأنشطة (بخلاف الإعلانات والبرامج الدراسية و المصادر) أقل من 5",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips9": {
+    "message": "الدورات التي يقودها المعلمون",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips10": {
+    "message": "الأنشطة (المهام والمناقشات والمحاضرات الحية و أنشطة الفصول الدراسية) أكثر من 20 و80٪ منها هي محاضرات حية وأنشطة الفصول الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips11": {
+    "message": "دورات دراسية مدمجة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips12": {
+    "message": "الأنشطة (على الأقل 3 أنواع مختلفة من المهام والمناقشات والمحاضرات الحية و انشطة الفصول الدراسية) أكثر من 20، في حين أن الجلسات الحية وانشطة الفصول الدراسية أقل من 50٪",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips13": {
+    "message": "أنواع أخرى من المقررات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips14": {
+    "message": "الدورات غير المدرجة في الفئات الثلاث الأولى",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseEvaluationAnalysis": {
+    "message": "تحليل تقدير الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips15": {
+    "message": "البيانات المستندة إلى المقررات التي تم إنشاؤها في تواريخ محددة، باستثناء المقررات التي تضم 10- تسجيلات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips16": {
+    "message": "النسبة المئوية للدورات التي تحتوي على امتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips17": {
+    "message": "النسبة المئوية من المقررات الدراسية التي لها قواعد تقدير",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips18": {
+    "message": "ومن بينها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips19": {
+    "message": "يعد تعلم المناهج التعليمية  فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips20": {
+    "message": "يتضمن اسماء الحضور والمشاركة (اختيار عشوائي والتنافس على الإجابة)",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips21": {
+    "message": "يتضمن الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityTotalNum": {
+    "message": "مجموع الأنشطة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips22": {
+    "message": "حساب الأنشطة المنشورة ضمن تواريخ محددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityAnalysis": {
+    "message": "تحليل بيانات نشاط الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pickTotalNum": {
+    "message": "عدد الاختيارات العشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.responderTotalNum": {
+    "message": "عدد التنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.scoreTotalNum": {
+    "message": "عدد مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendanceTeaNum": {
+    "message": "المعلمون الذين أطلقوا اسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVoteTeaNum": {
+    "message": "المعلمون الذين أطلقوا استطلاع الرأي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPickTeaNum": {
+    "message": "المعلمون الذين أطلقوا اختيار عشوائي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswerTeaNum": {
+    "message": "المعلمون الذين أطلقوا المنافسة على الإجابة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScoreTeaNum": {
+    "message": "المعلمون الذين أطلقوا مراجعة الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuSignStatusDistribution": {
+    "message": "توزيع حضور الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips23": {
+    "message": "حساب قوائم نسبة الحضور مع معدل الحضور 80٪+ فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips24": {
+    "message": "أعلي 5 معلمين من حيث الأنشطة المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips25": {
+    "message": "أعلي 5 دورات من حيث الأنشطة الصفية التي تم إطلاقها",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceAnalysis": {
+    "message": "تحليل المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips26": {
+    "message": "المصادر التي تم رفعها إلى مكتبة المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips27": {
+    "message": "المصادر المنشورة في المقررات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips28": {
+    "message": "المعلمون الذين نشروا المصادر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips29": {
+    "message": "مشاهدة المصادر من الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips30": {
+    "message": "حساب المصادر التي تم رفعها من قبل المعلمين فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips31": {
+    "message": "أفضل 5 معلمين - من حيث المصادر المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips32": {
+    "message": "أعلي 5 دورات - من حيث المصادر المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkAnalysis": {
+    "message": "تحليل المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeaNum": {
+    "message": "المعلمون الذين نشروا المهمة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuCommitHomeworkNum": {
+    "message": "عمليات تسليم الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaMarkHomeworkNum": {
+    "message": "الواجبات التي تم تقديرها من قبل المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTypeDistribution": {
+    "message": "توزيع نوع المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips33": {
+    "message": "أعلي 5 معلمين من حيث المهام المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips34": {
+    "message": "أعلي 5 دورات من حيث المهام المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionAnalysis": {
+    "message": "تحليل المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTotalNum": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTeaNum": {
+    "message": "المعلمون الذين نشروا المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuReplyTotalNum": {
+    "message": "ردود الطلاب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaReplyTotalNum": {
+    "message": "ردود المعلمين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTypeDistribution": {
+    "message": "توزيع نوع المناقشة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips35": {
+    "message": "أعلي 5 معلمين - معظم المناقشات المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips36": {
+    "message": "أعلي 5 دورات من حيث المناقشات المنشورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveAnalysis": {
+    "message": "تحليل محاضره مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTotalNum": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTeaNum": {
+    "message": "المعلمون الذين قدّم محاضرة مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleLiveViewNum": {
+    "message": "المشاركون المتزامنون في المحاضرات التي حضرها أعلى الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveViewNum": {
+    "message": "مجموع المشاركين في جميع المحاضرات الحية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.hour": {
+    "message": "ساعات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveDuration": {
+    "message": "إجمالي مدة زمن جميع الجلسات المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveDuration": {
+    "message": "مدة المحاضرة المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips37": {
+    "message": "أعلي 5 معلمين من حيث المحاضرات المباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips38": {
+    "message": "أعلي 5 دورات - من حيث جلسات البث المباشر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips39": {
+    "message": "عدد امتحانات الدورة التي يتم نشرها خلال تواريخ محددة فقط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTotalNum": {
+    "message": "امتحانات الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examBatch": {
+    "message": "محاضرات اختبار الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleExamPeopleNum": {
+    "message": "الممتحنون من الجلسة الأعلى حضورا",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeExamPeopleNum": {
+    "message": "مجموع الممتحنون لجميع الدورات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExamTeaNum": {
+    "message": "المعلمون الذين نشروا امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.questionTotalNum": {
+    "message": "أسئلة الامتحان في بنك السؤال",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips40": {
+    "message": "العدد الإجمالي لأسئلة الامتحانات التي تم إنشاؤها من قبل المعلمين في بنك الأسئلة - غير مقيد بالتواريخ التي حددتها.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPaperTotalNum": {
+    "message": "الامتحانات المستخدمة في امتحان الدورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips41": {
+    "message": "العدد الإجمالي للامتحانات التي تم إنشاؤها من قبل المعلمين في بنك الامتحان - غير مقيد بالتواريخ التي حددتها.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeDistribution": {
+    "message": "توزيع نوع الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceDistribution": {
+    "message": "توزيع نوع الامتحان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips42": {
+    "message": "أعلي 5 جلسات امتحان نمن حيث الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData0": {
+    "message": "اعلانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData1": {
+    "message": "المهام",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData2": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData3": {
+    "message": "محاضرات مباشرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData4": {
+    "message": "الامتحانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData5": {
+    "message": "أسماء الحضور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData6": {
+    "message": "استطلاعات الراي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData7": {
+    "message": "تنافس على الإجابات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData8": {
+    "message": "اختيارات عشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData9": {
+    "message": "مراجعات الأقران",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData0": {
+    "message": "غائب",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData1": {
+    "message": "متأخرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData2": {
+    "message": "الإجازة المبكرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData3": {
+    "message": "إجازة معذورة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData4": {
+    "message": "إجازة مرضية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData5": {
+    "message": "حاضر",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData0": {
+    "message": "الروابط",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData1": {
+    "message": "دورات صغيرة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData2": {
+    "message": "الصور",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData3": {
+    "message": "المحتوى الغني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData4": {
+    "message": "أخرى",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData5": {
+    "message": "المستندات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData6": {
+    "message": "مقاطع صوت",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData7": {
+    "message": "مقاطع الفيديو",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData0": {
+    "message": "مناقشة - الحد الزمني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData1": {
+    "message": "المناقشة - لا يوجد حد زمني",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData0": {
+    "message": "خلال 1 ساعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData1": {
+    "message": "1-2 ساعة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData2": {
+    "message": "أكثر من ساعتين",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData0": {
+    "message": "امتحانات محددة مسبقا",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData1": {
+    "message": "الامتحانات العشوائية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData1": {
+    "message": "الأجهزة المحمولة",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.schoolCreatedCourse": {
+    "message": "الدورات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.externalIntroduction": {
+    "message": "الدورات الخارجية",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCExe": {
+    "message": "ULearning تأمين متصفح",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCweb": {
+    "message": "الموقع",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncement2": {
+    "message": "نشر الإعلان",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.noData": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.thisSemester": {
+    "message": "الفصل الدراسي الحالي",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.all": {
+    "message": "الكل",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.course": {
+    "message": "بالطَبْعِ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "إلى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "جميع الكليات",
+    "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "مركز البيانات",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate6": {
+    "message": "التخصيص",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate7": {
+    "message": "بالنسبة لصفحات الويب المخصصة ، يرجى تحديد هذا القالب",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.newsNotice": {
+    "message": "خبر صحفى",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.event": {
+    "message": "إدارة الفعاليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.memberRegistration": {
+    "message": "معلومات تسجيل الأعضاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "قاعدة بيانات الموارد",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.allStatus": {
+    "message": "كافة الحالات",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.notStarted": {
+    "message": "لم يبدأ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.inProgress": {
+    "message": "قيد التنفيذ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.ended": {
+    "message": "تم الإنهاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.createTitme": {
+    "message": "تاريخ الإنشاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.status": {
+    "message": "الحالة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.edit": {
+    "message": "تعديل",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickDate": {
+    "message": "اختر التاريخ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickTime": {
+    "message": "اختر الوقت",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.orderNumber": {
+    "message": "رقم",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip1": {
+    "message": "نسبة العرض إلى الارتفاع للصورة الموصى بها: 16:9؛ الأشكال: بابوا غينيا الجديدة، jpg، gif، jpeg، bmp؛ حجم صورة مفردة: حتى 2 ميغابايت",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip2": {
+    "message": "قم بتحميل الصورة مرة أخرى بعد تحميلها لتحديث الصورة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip3": {
+    "message": "لا يمكن أن يكون حجم الصورة أكبر من {size}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip4": {
+    "message": "يرجى رفع صورة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.urlErrorTip": {
+    "message": "الرجاء إدخال عنوان URL الصحيح",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNotice": {
+    "message": "خبر صحفى",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.news": {
+    "message": "خبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.notice": {
+    "message": "إشعارات",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publish": {
+    "message": "نشر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNews": {
+    "message": "نشر الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsTitle": {
+    "message": "عناوين الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsContent": {
+    "message": "محتوى الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.uploadThumbnail": {
+    "message": "تحميل معاينة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsSuccess": {
+    "message": "نشر الأخبار بنجاح",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsFailure": {
+    "message": "فشل في نشر الأخبار",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip1": {
+    "message": "الرجاء إدخال عنوان الخبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip2": {
+    "message": "الرجاء إدخال محتوى الخبر",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip3": {
+    "message": "يرجى تحديد المؤسسة التي تريد تلقي الأخبار منها",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventManagement": {
+    "message": "إدارة الفعاليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.addEvent": {
+    "message": "فعاليات جديدة",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.searchByEventTitle": {
+    "message": "إدخال بحث عن عنوان النشاط",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventTitle": {
+    "message": "عنوان الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventStartDateTime": {
+    "message": "وقت بدء الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventEndDateTime": {
+    "message": "وقت انتهاء الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventContent": {
+    "message": "محتوى الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "رابط توظيف المتطوعين",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.searchNewsAnno": {
+    "message": "الرجاء إدخال عنوان البيان الصحفي للبحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.title2": {
+    "message": "عنوان الإعلان الإخباري",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNoticeDesc": {
+    "message": "*سيتم عرض الإعلانات في بوابة المدرسة ومن قبل الكلية، وسيتم عرض الأخبار فقط في بوابة المدرسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.secondDomain": {
+    "message": "أسماء نطاقات المستوى الثاني",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.zf": {
+    "message": "تجميع الأحرف",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1": {
+    "message": "خطوة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "خيارات التدويل",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "الخطوة الثانية", 
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "خيارات عامة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "عنوان ومحتوى اللغة الافتراضية لا يمكن أن تكون فارغة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "إضافة وكالة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "حذف مؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "إذا قمت بحذف المؤسسة الحالية، أيضا حذف المؤسسة التابعة",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "تأكيد الحذف",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "يجب ألا يقل عن {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "يجب ألا يكون أكبر من {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "يمكن ضبطه على {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "الحد الأدنى للقيمة هو المبلغ الإجمالي للموارد التي تشغلها المؤسسة الحالية، والحد الأقصى للقيمة هو رصيد الموارد المتبقي المتاح",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "حصص التخزين والحساب",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "إذا تم تعيين حصة نسبية، فلا يمكن أن تتجاوز الموارد المستخدمة من قبل المؤسسة الحالية الحد الأقصى للحصة النسبية\nإذا لم يتم تعيين حصة نسبية، تشارك المؤسسة الحالية الحصة النسبية للموارد المتاحة للمستوى الأعلى",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "أدخل اسم المدرسة للبحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "اسم المدرسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "اسم المدرسة باللغة الإنجليزية",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "البلد/المنطقة",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "الشخص المسؤول",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "رقم الهاتف",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "البريد الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "وقت التسجيل",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLang": {
+    "message": "إعدادات لغة اسم المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLangError": {
+    "message": "اسم المؤسسة باللغة الافتراضية مطلوب",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "تفاصيل معلومات طلب العضوية",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "رجوع",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "شعار المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "اسم المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "اسم المؤسسة باللغة الإنجليزية",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "البلد/المنطقة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "سنة التأسيس",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "عنوان الجامعة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "الشخص القانوني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "موقع الجامعة الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "الشخص المسؤول",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "رقم الهاتف",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "البريد الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "نبذة مختصرة عن الجامعة/الكلية",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "مجلد",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "مضغوط",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "أخرى",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "مصدر افتراضي",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "رابط",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "اسم المصدر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "المُنشئ",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "النوع",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "الحجم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "وقت الإنشاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "أدخل اسم المُنشئ أو اسم المصدر لتصفية البحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "إحصاءات المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "عدد المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "عدد الأشخاص الذين قاموا بتحميل المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "عدد مشاهدات المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "طريقة الترتيب：",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "من فضلك اختر طريقة التعليم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "سجل العمليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "وقت العملية",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "المُستخدم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "ناسخ",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·ملف العرض الحالي",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "إعدادات النظام",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "تغيير كلمة المرور بالجملة",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "أيام انتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "إعداد عدد الأيام التي يجب أن تمر قبل أن يُطلب من المستخدم تغيير كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "إعداد ما إذا كان يمكن للمستخدم تجاوز تغيير كلمة المرور عندما يُطلب منه ذلك",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "كلمة المرور الافتراضية بعد إعادة تعيينها",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "تم تغيير {successNum} حساب بنجاح؛ فشل تغيير {failNum} حساب",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "هذه العملية ستقوم بحذف هذا الملف بشكل دائم، هل تريد الاستمرار؟",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "هل يمكن تجاوز انتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "أدخل عدد الأيام لانتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "أدخل كلمة المرور الافتراضية بعد إعادة تعيينها",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "كلمة المرور يجب أن لا تقل عن 8 أحرف",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "تم التغيير بنجاح",
     "description": "新版管理后台 zh.json"
   }
 }

@@ -214,5 +214,177 @@
   "uploadVideoTip1": {
     "message": "หากไม่สามารถแยกวิเคราะห์รูปแบบการเข้ารหัสไฟล์ได้ ให้ลองแปลงรหัสเป็น MP4 ก่อนอัปโหลด",
     "description": "2.0 portal.js"
+  },
+  "moduleType4": {
+    "message": "ชั้นเรียนการนําเสนอ",
+    "description": "2.0 portal.js"
+  },
+  "inputNameOrContent": {
+    "message": "ป้อนชื่อหรือคีย์เวิร์ดเนื้อหา",
+    "description": "2.0 portal.js"
+  },
+  "search": {
+    "message": "ค้นหา",
+    "description": "2.0 portal.js"
+  },
+  "reset": {
+    "message": "รี เซ็ต",
+    "description": "2.0 portal.js"
+  },
+  "showHomeState": {
+    "message": "จะแสดงหน้าแรกหรือไม่",
+    "description": "2.0 portal.js"
+  },
+  "yes": {
+    "message": "คือ",
+    "description": "2.0 portal.js"
+  },
+  "no": {
+    "message": "ไม่",
+    "description": "2.0 portal.js"
+  },
+  "enabledState": {
+    "message": "สถานะเปิดใช้งาน",
+    "description": "2.0 portal.js"
+  },
+  "enable": {
+    "message": "ใช้งาน",
+    "description": "2.0 portal.js"
+  },
+  "disable": {
+    "message": "ห้ามใช้งาน",
+    "description": "2.0 portal.js"
+  },
+  "orderType": {
+    "message": "เรียงตาม",
+    "description": "2.0 portal.js"
+  },
+  "createTime": {
+    "message": "เวลาที่สร้าง",
+    "description": "2.0 portal.js"
+  },
+  "weight": {
+    "message": "น้ําหนัก",
+    "description": "2.0 portal.js"
+  },
+  "setClassify": {
+    "message": "ตั้งค่าการจัดประเภท",
+    "description": "2.0 portal.js"
+  },
+  "add": {
+    "message": "ใหม่",
+    "description": "2.0 portal.js"
+  },
+  "serialNumber": {
+    "message": "หมาย เลข",
+    "description": "2.0 portal.js"
+  },
+  "name": {
+    "message": "ชื่อ",
+    "description": "2.0 portal.js"
+  },
+  "content": {
+    "message": "เนื้อหา",
+    "description": "2.0 portal.js"
+  },
+  "orderIndex": {
+    "message": "จัดเรียงน้ําหนัก",
+    "description": "2.0 portal.js"
+  },
+  "operate": {
+    "message": "การดําเนินการ",
+    "description": "2.0 portal.js"
+  },
+  "edit": {
+    "message": "แก้ไข",
+    "description": "2.0 portal.js"
+  },
+  "remove": {
+    "message": "ลบ",
+    "description": "2.0 portal.js"
+  },
+  "customModuleTip1": {
+    "message": "โมดูลที่กําหนดเอง (คลิก \"ไปดูตัวอย่าง\" เพื่อดูเอฟเฟกต์การแสดงผล)",
+    "description": "2.0 portal.js"
+  },
+  "customModuleTip2": {
+    "message": "จํานวนโมดูลแสดงผลถึงขีดจํากัดบนแล้วและไม่สามารถสร้างได้",
+    "description": "2.0 portal.js"
+  },
+  "inputName": {
+    "message": "กรุณากรอกชื่อ",
+    "description": "2.0 portal.js"
+  },
+  "uploadTip1": {
+    "message": "อัตราส่วนที่แนะนําคือ 9:16; รูปแบบรูปภาพ: png, jpg, gif, jpeg, bmp; ขนาดของภาพเดียวต้องไม่เกิน 2 MB",
+    "description": "2.0 portal.js"
+  },
+  "uploadTip2": {
+    "message": "ขนาดของรูปภาพต้องไม่เกิน {size}",
+    "description": "2.0 portal.js"
+  },
+  "uploadTip3": {
+    "message": "กรุณาอัปโหลดภาพ",
+    "description": "2.0 portal.js"
+  },
+  "synopsis": {
+    "message": "ข้อมูลเบื้องต้น",
+    "description": "2.0 portal.js"
+  },
+  "inputSynopsis": {
+    "message": "โปรดป้อนข้อมูลโปรไฟล์ของคุณ",
+    "description": "2.0 portal.js"
+  },
+  "orderIndexPlaceholder": {
+    "message": "ป้อนจํานวนเต็มตั้งแต่ 0 ถึง 999 ยิ่งตัวเลขสูงเท่าใดการแสดงผลก็จะยิ่งสูงขึ้นเท่านั้น",
+    "description": "2.0 portal.js"
+  },
+  "showHome": {
+    "message": "แสดงบนหน้าแรก",
+    "description": "2.0 portal.js"
+  },
+  "selectClassify": {
+    "message": "เลือกประเภท",
+    "description": "2.0 portal.js"
+  },
+  "inputRequired": {
+    "message": "กรุณากรอก {label}",
+    "description": "2.0 portal.js"
+  },
+  "addClassify": {
+    "message": "เพิ่มการแบ่งประเภท",
+    "description": "2.0 portal.js"
+  },
+  "moduleName": {
+    "message": "ชื่อเท็มเพลต",
+    "description": "2.0 portal.js"
+  },
+  "moduleStyle": {
+    "message": "รูปแบบการนําเสนอ",
+    "description": "2.0 portal.js"
+  },
+  "moduleStyleType1": {
+    "message": "อาจารย์",
+    "description": "2.0 portal.js"
+  },
+  "moduleStyleType2": {
+    "message": "หมวดหมู่โลโก้โรงเรียน",
+    "description": "2.0 portal.js"
+  },
+  "addData": {
+    "message": "เพิ่มข้อมูล",
+    "description": "2.0 portal.js"
+  },
+  "classifyTip1": {
+    "message": "ชื่อการจัดประเภทซ้ํากัน",
+    "description": "2.0 portal.js"
+  },
+  "classifyTip2": {
+    "message": "หมวดหมู่เชื่อมโยงกับเนื้อหาอยู่แล้วและไม่สามารถลบได้",
+    "description": "2.0 portal.js"
+  },
+  "toPreview": {
+    "message": "ไปที่การแสดงตัวอย่าง",
+    "description": "2.0 portal.js"
   }
 }

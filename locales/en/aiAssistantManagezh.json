@@ -1,0 +1,2610 @@
+{
+  "route.aiManage": {
+    "message": "AI Assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManage": {
+    "message": "Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meManage": {
+    "message": "My Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.systemManage": {
+    "message": "System Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.webManage": {
+    "message": "Site Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.digitalHuman": {
+    "message": "Digital Human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.manageKnowledge": {
+    "message": "Manage",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistant": {
+    "message": "AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.fullKnowledgeBase": {
+    "message": "All Knowledge Bases",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.orgManage": {
+    "message": "Organizations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.userManage": {
+    "message": "Users",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meAiAssistant": {
+    "message": "My Assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.allAiAssistant": {
+    "message": "All Assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManage": {
+    "message": "Commands",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.myInstructions": {
+    "message": "My Commands",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.groupingManage": {
+    "message": "Groups",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.dataStatistics": {
+    "message": "Statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.logOut": {
+    "message": "Log Out",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeBtn": {
+    "message": "Topic",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "Customization Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "Overall Look and Feel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "Theme Color",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "Page style setting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "Theme Color",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "Open Tags-View",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "Fixed Header",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "Sidebar Logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.refresh": {
+    "message": "Refresh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "Close",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "Close Others",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "Close All",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.accountLogin": {
+    "message": "User Login",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.logIn": {
+    "message": "Log In",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.username": {
+    "message": "Username",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.password": {
+    "message": "Password",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.casLogin": {
+    "message": "School SSO Login",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip1": {
+    "message": "Your information does not exist in the system!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip2": {
+    "message": "Contact the admin to confirm that your personal information has been synchronized to this system. If you have an account in this system, link your account.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.pleseusername": {
+    "message": "Enter your username",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.plesepwd": {
+    "message": "Enter your password",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTitle": {
+    "message": "AI Agent Admin System",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.smartRecord": {
+    "message": "Smart Recording",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.easyManage": {
+    "message": "Easy management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTip": {
+    "message": "Multi-classroom recording, real-time lecture review, and learning resource accumulation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.casTitle": {
+    "message": "Unified Identity Verification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.reset": {
+    "message": "Reset",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestError": {
+    "message": "Request failed!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Enter a keyword",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagement": {
+    "message": "Groups",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagementHint": {
+    "message": "Manage your command groups",
+    "description": "aiAssistantManagezh.json"
+  },
+  "search": {
+    "message": "Search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addingGroups": {
+    "message": "Add Group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editGroup": {
+    "message": "Edit Group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupName": {
+    "message": "Group name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGroupName": {
+    "message": "Enter the group name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainSpaces": {
+    "message": "Cannot contain only spaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameRequired": {
+    "message": "Group name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameMaxLength": {
+    "message": "Group name cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSuccess": {
+    "message": "Created successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirm": {
+    "message": "Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "edit": {
+    "message": "Edit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hint": {
+    "message": "Alert",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operation": {
+    "message": "Actions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createInstruction": {
+    "message": "Create Command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editInstruction": {
+    "message": "Edit Command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteInstruction": {
+    "message": "Delete Command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noData": {
+    "message": "No data found",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitle": {
+    "message": "Command title",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescription": {
+    "message": "Command description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContent": {
+    "message": "Long command content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContent": {
+    "message": "Short command content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectGroup": {
+    "message": "Select group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleLongInstruction": {
+    "message": "Example: Please elaborate on the concept of [content placeholder, such as: wave-particle duality in quantum mechanics], its historical development timeline, main experimental evidences, and its application in modern science and technology, and analyze possible future research directions.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleShortInstruction": {
+    "message": "Example: Please elaborate on the concept of [content placeholder, such as: wave-particle duality in quantum mechanics].",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Enter [ ] to insert an input box",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myInstructions": {
+    "message": "My Commands",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions": {
+    "message": "Manage all commands created by you",
+    "description": "aiAssistantManagezh.json"
+  },
+  "delete": {
+    "message": "Delete",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirm": {
+    "message": "Confirm",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainOnlySpaces": {
+    "message": "Cannot contain only spaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotBeEmpty": {
+    "message": "Command title cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotExceed200Characters": {
+    "message": "Command title cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotBeEmpty": {
+    "message": "Command description cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotExceed200Characters": {
+    "message": "Command description cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotBeEmpty": {
+    "message": "Long command content cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotExceed1000Characters": {
+    "message": "Long command content cannot exceed 1000 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContentCannotExceed1000Characters": {
+    "message": "Short command content cannot exceed 1000 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectGroup": {
+    "message": "Select group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "all": {
+    "message": "All",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestion": {
+    "message": "Standard Question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creator": {
+    "message": "Creator",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTime": {
+    "message": "Created at",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableStatus": {
+    "message": "On/Off",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enabled": {
+    "message": "Enabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpen": {
+    "message": "Disabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewDetails": {
+    "message": "View Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "name": {
+    "message": "Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "type": {
+    "message": "Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSize": {
+    "message": "File Size",
+    "description": "aiAssistantManagezh.json"
+  },
+  "source": {
+    "message": "Source",
+    "description": "aiAssistantManagezh.json"
+  },
+  "status": {
+    "message": "Status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studying": {
+    "message": "Learning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learned": {
+    "message": "Completed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "document": {
+    "message": "Documents",
+    "description": "aiAssistantManagezh.json"
+  },
+  "localUpload": {
+    "message": "Local Upload",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseware": {
+    "message": "Courseware",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Knowledge Graph",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRepository": {
+    "message": "Learning Resource Library",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resources": {
+    "message": "Resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionAnswer": {
+    "message": "Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentKnowledgeBaseData": {
+    "message": "Manage all the data of knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBase": {
+    "message": "View Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllKnowledgeBase": {
+    "message": "View all knowledge bases created under the organization",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onMyOwn": {
+    "message": "Me",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResources": {
+    "message": "Import Learning Resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibrary": {
+    "message": "Learning Resource Library",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputCoursewareName": {
+    "message": "Enter courseware name to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coursewareCount": {
+    "message": "Number of courseware",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noCourseware": {
+    "message": "No courseware found",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceName": {
+    "message": "Enter resource name to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "availableResources": {
+    "message": "Available resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResources": {
+    "message": "No resources found",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputKnowledgeGraphName": {
+    "message": "Enter knowledge graph name to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraphCount": {
+    "message": "Number of knowledge graphs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noKnowledgeGraph": {
+    "message": "No knowledge graphs found",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceLibraryName": {
+    "message": "Enter learning resource library name to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibraryCount": {
+    "message": "Number of learning resource libraries",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceLibrary": {
+    "message": "No learning resource libraries found",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loading": {
+    "message": "Loading...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMore": {
+    "message": "No more",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedResourcesCount": {
+    "message": "You've selected {num} resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "queAnswerInfoTitle": {
+    "message": "Q&A Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestion": {
+    "message": "Similar questions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answer": {
+    "message": "Answer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allEnableStatus": {
+    "message": "All status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allGroups": {
+    "message": "All groups",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQuestionAnswer": {
+    "message": "Create Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editQuestionAnswer": {
+    "message": "Edit Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionRequired": {
+    "message": "Standard question cannot be empty ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionMaxLength": {
+    "message": "Standard question cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotOnlyContainSpaces": {
+    "message": "Cannot contain only spaces",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionRequired": {
+    "message": "The added similar questions cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionMaxLength": {
+    "message": "Similar question cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionLimit": {
+    "message": "Add up to 10 similar questions per Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerRequired": {
+    "message": "Answer cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerMaxLength": {
+    "message": "Answer cannot exceed 2000 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterStandardQuestion": {
+    "message": "Enter the standard question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSimilarQuestion": {
+    "message": "Enter the similar question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAnswer": {
+    "message": "Enter the answer",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSimilarQuestion": {
+    "message": "Add Similar Question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "group": {
+    "message": "Group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelect": {
+    "message": "Select",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSimilarQuestions": {
+    "message": "Add up to 10 similar questions per Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dragIcon": {
+    "message": "Drag to sort",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addGroup": {
+    "message": "Add Group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyGroup": {
+    "message": "Edit Group",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseDesc": {
+    "message": "The knowledge base supports adding resources and Q&A to support AI Q&A, AI quiz questions, etc., which can improve the accuracy of AI Q&A and AI quiz questions.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resource": {
+    "message": "Resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myKnowledgeBase": {
+    "message": "My Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase": {
+    "message": "Manage all knowledge bases created by you",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createKnowledgeBase": {
+    "message": "Create Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyKnowledgeBase": {
+    "message": "Edit Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageKnowledgeBase": {
+    "message": "Manage",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeBaseName": {
+    "message": "Enter the name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseName": {
+    "message": "Knowledge base name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameRequired": {
+    "message": "Enter the knowledge base name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameMaxLength": {
+    "message": "Knowledge base name cannot exceed 10 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBaseConfirm": {
+    "message": "After deleting {name}, you will no longer be able to link an AI assistant to this knowledge base. Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistants": {
+    "message": "All Assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllAiAssistantsInOrg": {
+    "message": "View all AI assistants created under the organization",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultKnowledgeBase": {
+    "message": "Default Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsDefault": {
+    "message": "Set as Default",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preview": {
+    "message": "Preview",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAiAssistantSettings": {
+    "message": "Set Default AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmSetAsDefault": {
+    "message": "Are you sure you want to set {name} as default AI assistant?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceAiAssistant": {
+    "message": "Replace AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmReplaceAiAssistant": {
+    "message": "{oldName} is already in use. Are you sure to replace it with {newName}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSuccessfully": {
+    "message": "Set successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shared": {
+    "message": "Share",
+    "description": "aiAssistantManagezh.json"
+  },
+  "default": {
+    "message": "Default",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataStatistics": {
+    "message": "Statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherAiAssistant": {
+    "message": "Teacher AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewCurrentAiAssistantUsage": {
+    "message": "View the usage of this AI assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitorCount": {
+    "message": "Visitors",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDialogueRounds": {
+    "message": "Total Conversations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "averageDialogueRounds": {
+    "message": "Avg Conversations per Visitor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalQaWords": {
+    "message": "Total Words",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitationTrends": {
+    "message": "Visit Trends",
+    "description": "aiAssistantManagezh.json"
+  },
+  "day": {
+    "message": "Daily",
+    "description": "aiAssistantManagezh.json"
+  },
+  "week": {
+    "message": "Weekly",
+    "description": "aiAssistantManagezh.json"
+  },
+  "month": {
+    "message": "Monthly",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frequentQuestions": {
+    "message": "High-Frequency Questions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueDetails": {
+    "message": "Conversation Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionId": {
+    "message": "Chat ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "user": {
+    "message": "User",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userRole": {
+    "message": "User role",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueContent": {
+    "message": "Conversation content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueRounds": {
+    "message": "Conversations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "qaWordCount": {
+    "message": "Words",
+    "description": "aiAssistantManagezh.json"
+  },
+  "time": {
+    "message": "Time",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionDetails": {
+    "message": "Chat Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "comingSoon": {
+    "message": "Here I come!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement": {
+    "message": "AI Assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants": {
+    "message": "Manage all AI assistants created by you",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createAiAssistant": {
+    "message": "Create AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAiAssistant": {
+    "message": "Edit AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanSettings": {
+    "message": "Digital Human Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAvatar": {
+    "message": "Select Profile Photo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadAvatar": {
+    "message": "Upload Profile Photo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements": {
+    "message": "It supports jpg, jpeg, and png formats, up to 2 MB. Width x Height: 400x400 px is recommended.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantName": {
+    "message": "Enter a name for the AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntro": {
+    "message": "Description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessage": {
+    "message": "Enter the welcome message",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterOpeningRemarks": {
+    "message": "Enter the opening remarks",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultWelcomeMessage": {
+    "message": "Hi, I'm your AI assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameRequired": {
+    "message": "AI assistant name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameMaxLength": {
+    "message": "AI ​​assistant name cannot exceed 100 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "introMaxLength": {
+    "message": "AI ​​assistant description cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeRequired": {
+    "message": "Welcome message cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMaxLength": {
+    "message": "Welcome message cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength": {
+    "message": "Opening remarks cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired": {
+    "message": "Upload profile photo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRequired": {
+    "message": "Select LLM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginRequired": {
+    "message": "Select AI plugins",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHuman": {
+    "message": "Select a digital human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirmation": {
+    "message": "After deleting {name}, you will no longer be able to use this AI assistant. Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultConfirmation": {
+    "message": "Are you sure you want to set {name} as default?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceConfirmation": {
+    "message": "{oldName} is already in use, are you sure to replace it with {newName}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noPermission": {
+    "message": "No access yet",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInput": {
+    "message": "Voice input",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcast": {
+    "message": "Speech",
+    "description": "aiAssistantManagezh.json"
+  },
+  "associatedInstructions": {
+    "message": "Link command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showShortInstructions": {
+    "message": "Show by short command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharingScope": {
+    "message": "Share",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlySelf": {
+    "message": "Only me",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareWithOthers": {
+    "message": "Share with school teachers",
+    "description": "aiAssistantManagezh.json"
+  },
+  "firstChoiceModel": {
+    "message": "Preferred LLM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiPlugins": {
+    "message": "AI plugins",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQa": {
+    "message": "AI Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Resource recommendations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiQuestions": {
+    "message": "AI Quiz Questions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningReminder": {
+    "message": "Learning reminders",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceSettings": {
+    "message": "Voice settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessage": {
+    "message": "Welcome message",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarks": {
+    "message": "Opening remarks",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntroHint": {
+    "message": "Briefly introduce the AI ​​assistant for the users",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSettings": {
+    "message": "LLM Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccess": {
+    "message": "Uploaded successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageTooBig": {
+    "message": "Image size cannot exceed 2MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileTypeNotSupported": {
+    "message": "File type not supported",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAssistant": {
+    "message": "Default AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModel": {
+    "message": "LLM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modify": {
+    "message": "Edit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatar": {
+    "message": "Profile Photo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelType": {
+    "message": "LLM Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelTongyi": {
+    "message": "Qwen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "Doubao (CiCi)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "Alert",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "Uploaded successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "Edited successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "Added successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "Edit AI Assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "After deleting {name}, you will no longer be able to use this AI assistant. Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "Copy Link",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "Scan QR to Share this AI assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "Share",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "Copied successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "Site Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "Manage the basic settings of this site",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "Site name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "Site logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "Support jpg, jpeg, and png formats, up to 2 MB. Width x Height: 300x60 px is recommended.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "Enter the site name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "Site name can be up to 50 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "Upload the site logo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "AI-Powered",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "Organizations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "Manage configuration/settings of AI assistants for all organizations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "Access on/off - all",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "Assistant creation on/off - all",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "Access",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "AI Assistant Creation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "Permissions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "Functions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "General Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "LLM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "Qwen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "Doubao (CiCi)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "Doubao daily limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "Enter the daily amount of tokens for Doubao",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "Doubao daily token limit must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "tokens/day",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "Today's remaining: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "Used: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "AI Assistant Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "Voice input limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "Enter the voice input limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "Used: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "Speech limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "Enter the speech limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "Digital Human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "Select Digital Human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "AI Tool Seetings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "AI tools",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "Smart Grading",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "Video AI Analysis",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "Document Reading",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "Formula Recognition",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "Video analysis limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "Enter the video analysis limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "Video analysis limit must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "minutes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "knowledge Source",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "Formula recognition limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "Enter the formula recognition limit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "The formula recognition limit must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "times",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "Organization: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "AI Agent Admin Access",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "After the access permission is enabled, all admins and teachers of the organization can access to the AI ​​Agent Admin system.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "AI Assistant Creation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "Once the creation permission is enabled, all admins and teachers of the organization can create AI assistants.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "After the access permission is enabled, the admin/teacher can access to the AI ​​Agent Admin system.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "Once the creation permission is enabled, the admin/teacher can create AI assistants.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "Enable",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "Enabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "Not enabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "Users",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "Manage the permission settings of an user's AI assistants",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "All organizations",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "All roles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "Username",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "Role",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "Teacher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "Admin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "Organization",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "User",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "Disable",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "The voice input limit must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "The speech limit must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "Organization Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "Search chat content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "Student",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "Start time",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "End time",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "to",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "User",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "User role",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "Chat start time",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "Chat end time",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "Add to knowledge base as Q&A",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Select Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "No more",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "Add Resource",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "Yes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "No",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "Resource Slicing",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "Not slicing: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "The resource content exists in a whole form, and can only be searched in a relatively general manner, making it difficult to fine-locate the information.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "Slicing: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "The resource content is chunked into multiple small slices. During AI Q&A, independent searches can be performed on different slices to improve the accuracy and efficiency of the search.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "Slicing?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "Imported successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "The file cannot exceed 500MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "The following learning resources are recommended for you:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Ethics Resource Library",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "Smart Education of China",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.contentOperation": {
+    "message": "Content Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "PPT Templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Resource Search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "CNKI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "moocpeople.cn",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "Internal Resources",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "Where to Search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "Please select where to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "Visitor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSlogan": {
+    "message": "Intelligently Enlighten Future Education",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteDescription": {
+    "message": "AI teaching agents promote the digital transformation of education",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "People.cn Open Courses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "Improve quality with wisdom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "Empower the whole process of ideological and political teaching and help enhance the leadership of ideological and political education",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "All template types",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "Content template management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "Add Content Template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "Sort",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "Unsort",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "Template Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "Title Templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "TOC Templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "Content Templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "TOC Items",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "Download",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "Select the content template type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "Content template type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "PPT Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "PPT name cannot be empty!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "PPT name cannot exceed 200 characters!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "Edited successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "Failed to edit!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "Add a theme template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "Content templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "Manage all PPT templates used by the PPT generator.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "Folder",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "Image",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "Rich Content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "Link",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "Question",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "Exam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "Virtual Simulation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "Others",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "AI Agent Plaza",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Add a catalog template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Add an inner page template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 Daily Amount",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Please enter the daily amount of DeepSeek-R1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "The daily amount of DeepSeek-R1 must be numeric",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT generation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Please enter the total margin generated in PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "The total margin generated by the PPT must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "times/day",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Enter keyword to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "Search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Share to AI Agent Plaza",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Full Agent Square permissions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "Agent Square permission status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Agent Square permissions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "The permissions of Agent Square can be activated by organization, and cannot be activated by a single user.\nAfter activation, current institutional users can share the created AI assistant to the Agent Square for display.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Resource Content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Add slices",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "slice",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "Save",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Please enter content",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "There are no resource slices yet",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Save the slice content first",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "Are you sure you want to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "Mute",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Unmute",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "Play",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "Pause",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "Full Screen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Transcoding, please check it later",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Visit this website",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "The file does not support online preview",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Course Team",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Course Introduction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "The upload has not been completed, do you want to cancel the upload?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Cancel upload",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Continue to upload",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "Uploading {count} items",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Publish to AI Agent Plaza",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "Published",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "Unpublished",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Setting failed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Classification management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Add Sibling",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Add Child",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "Edit Category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "Delete Category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "Please enter the category name.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Cancel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "Confirm",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "All",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Uncategorized",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "All published status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "You have selected {num} knowledge bases",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "Enter name to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "Category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Category Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Select all",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Go to Create Agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Set up categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "Personal Space",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "model training",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "AI Assistant Management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "Knowledge Base Management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "Application management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "link",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "Create instruction templates to provide quick prompts for agents.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "Building a teaching knowledge base to provide professional knowledge sources for intelligent agents.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "My AI assistant",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "Create and choreograph AI agent applications based on large models.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "It supports jpg, jpeg, and png formats, up to 2 MB. Width x Height: 400x400 px is recommended.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "model training",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "The system provides vertical domain model training tools, where existing datasets can be used for model training. The generated models can be exported and deployed for application.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "base model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "Training type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "Cancel Task",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "view log",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "Delete Task",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "Download Template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "Waiting...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "During training",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "Failed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "Completed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "Canceled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "Create task",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "Create training tasks",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "Task Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "data set",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "No. of Uploads",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "Download Example",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "Training parameter configuration",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "Maximum length of input text (Max Length):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "Batch training quantity (Batch Size):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "Data traversal epochs (Epoch):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "Gradient Accumulation Steps:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "Learning rate:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "Warm Up Ratio for Learning Rate:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "View task details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "Training Task Log",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "started training",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "SFT full participation training",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "LoRA fine-tuning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "keyword",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "There are currently no training tasks available",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "Enter the task name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "The task name should be 1- {n} characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "Please upload the dataset",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "The dataset file cannot exceed {n}M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "Up to {n} datasets can be uploaded",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "Are you sure to cancel the task?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "Cancel successfully",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "Cancel failed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "Are you sure to delete the task?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "Delete failed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "Saved successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "Failed to save!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "Upload failed!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "The file is still uploading, please wait.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "The basic model cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "No logs available at the moment",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "In compression",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "The model file is relatively large, and the download address will be sent to your email via email.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "email",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "Please enter your email address",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "Please enter a valid email",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "Verification code",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "Please enter the verification code",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "The download task has been submitted. Please check your email later.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "Got It!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "The current version is for demonstration only! After activation, all users of the institution will be visible, while formal institutions will not be activated.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "Recorded courses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "Recorded courses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "Enter the name of the recorded course to search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "There are currently no recorded courses available",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "Total time (min)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "Please enter the number of available times per day",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "Total count",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "Daily frequency",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "The total duration of usage by the institution",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "The total number of times the institution has been used",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "The data must not be less than 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "Cannot be less than 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "Import via Excel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "Batch Import",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "Download the Excel template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "Upload File",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "Importing, please do not close the pop-up window or page...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "Import successful, {num} instructions have been imported!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "The file has the following problems, please modify and re-upload:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "Edit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "Resource Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "The resource name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "The resource name cannot exceed 200 words",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "Please enter Resource Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "All agents",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "Internal agents",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "External agents",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "Add External Agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "Edit External Agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "Agent Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "Enter the AI agent name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "Agent Description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "Enter the AI agent description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "Enter the link for the external AI agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "Publisher",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "Enter the publisher information",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "Open in",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "Current window",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "New window",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "Name cannot be empty!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "Name cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "Description cannot exceed 2000 characters!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "Link cannot be empty!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "Link cannot exceed 200 characters!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "Incorrect link format!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "Publisher cannot exceed 200 characters!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "Open method cannot be empty!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "Pin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "Unpin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "Edited successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "Added successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "AI Assistant:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "Creator：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "Classification Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "You have selected {num} categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "Manage AI agent classifications",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "Add",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "Add Category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "Category Name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "Edit Classification Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "Add Classification Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "Enter the classification type name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "Classification Type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "Classification cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "Classification cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "The classification method cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "The classification method cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "The categories under the classification method will be synchronously deleted. Are you sure to delete them?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "The AI agents under this category will be unlinked from this category. Are you sure to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "Classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "Manage the classification of PPT theme templates.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "The PPT theme template under the category will be unlinked from the current category. Are you sure to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "Classification settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "PPT Theme Template:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "Classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "You have selected {num} categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "Edited successfully!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "Theme color setting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "Theme Color",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "Manage the internal and external applications of the current organization.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "All apps",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "Internal Apps",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "External applications",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "Add external application",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "Modify external applications",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "apply name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "Please enter the application name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "The application name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "The application name cannot exceed 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "Application Introduction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "Please enter the application introduction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "The application introduction cannot exceed 2000 characters\n\n",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "Please enter the external application link",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "Cover",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "The application cover cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "Supports JPG, JPEG, PNG formats, with a size not exceeding 50M. Recommended size: 640px 360px (16:9)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "Jump method",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "The jump method cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "The image size exceeds 50M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "Published successfully!",
+    "description": "aiAssistantManagezh.json"
+  }
+}

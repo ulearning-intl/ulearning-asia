@@ -1119,10 +1119,6 @@
     "message": "Arsip akademik",
     "description": "2.0 public.js"
   },
-  "someonesEportfolio": {
-    "message": "Arsip akademik ",
-    "description": "2.0 public.js"
-  },
   "ofEportfolio": {
     "message": "Arsip pembelajaran",
     "description": "2.0 public.js"
@@ -2485,6 +2481,114 @@
   },
   "moreOperation": {
     "message": "Tindakan",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "Pengguna yang dihormati: ",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "Kata sandi masuk Anda belum diperbarui dalam <strong class='text-red'>180</strong> hari!",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "Untuk melindungi keamanan akun Anda, harap ubah kata sandi masuk untuk mencegah kata sandi diretas dengan jahat dan meningkatkan keamanan akun Anda.",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "Ubah kata sandi",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "Lain kali",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "Terus gunakan tanpa modifikasi",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "Kata sandi Anda terlalu sederhana. Untuk melindungi akun Anda, harap ubah kata sandi Anda.",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "Kata sandi harus 8-16 karakter dan menyertakan huruf dan angka (kata sandi peka huruf besar/kecil)",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "Kata sandi masuk Anda belum diperbarui dalam <strong class='text-red'>{dayNum}</strong> hari!",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": "Arsip akademik ",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "Pratinjau pengaturan",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "Pilih entri pratinjau",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "Entri pratinjau belum ditetapkan untuk sumber daya ini, silakan kembali ke daftar dan klik [Edit] untuk menetapkan entri pratinjau!",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "Entri pratinjau belum ditetapkan untuk sumber daya ini, silakan hubungi administrator untuk menambahkan entri pratinjau!",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "Pengunggahan berhasil, silakan selesaikan pengaturan sumber daya!",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "Pilih",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "Simulasi Interaktif",
+    "description": "2.0 public.js"
+  },
+  "organizationStatusWrong": {
+    "message": "Kesalahan status organisasi, harap hubungi administrator organisasi",
+    "description": "2.0 public.js"
+  },
+  "loginNumberLimit": {
+    "message": "Jumlah login telah melebihi batas, harap coba lagi nanti",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "Simulasi",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "Kata sandi hanya dapat mendukung huruf (peka huruf besar/kecil), angka, dan karakter khusus (karakter khusus adalah metode input bahasa Inggris!@#$%^&*()-_+={}[]:; ',./?<>|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "Kembali",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "Bergabung dengan kursus ini berhasil",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "Gagal bergabung dengan kursus",
+    "description": "2.0 public.js"
+  },
+  "AiWorkbench": {
+    "message": "bangku kerja",
+    "description": "2.0 public.js"
+  },
+  "notOpen": {
+    "message": "tidak terbuka",
+    "description": "2.0 public.js"
+  },
+  "AIIframeLoading": {
+    "message": "Memuatkan, tolong tunggu...",
     "description": "2.0 public.js"
   }
 }

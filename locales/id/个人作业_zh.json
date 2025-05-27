@@ -139,14 +139,6 @@
     "message": "Silahkan pilih",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "Paling banyak mengunggah",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "lampiran",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": "Video tidak boleh lebih dari 1G",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "Skor: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": "Tidak meninggalkan komen",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": "Siswa tersebut tidak meninggalkan komen",
     "description": "个人作业zh_js"
@@ -743,12 +731,40 @@
     "message": "Menetapkan",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "Jenis tugas ini tidak dapat terbuka di aplikasi, silakan lanjutkan dengan browser.",
+  "m.syncGoogleClassroom": {
+    "message": "Sinkronkan ke Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "Buka di browser",
+  "m.syncTip1": {
+    "message": "*Harap ikat kursus Google Classroom terlebih dahulu,",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "Pergi ke Kursus Bundel",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*Jika dicentang, konten akan disinkronkan ke kursus Google Classroom. Beberapa pengaturan mungkin tidak berhasil disinkronkan.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "Untuk detailnya, silakan lihat dokumentasi bantuan",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(Sinkronisasi Berhasil)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(Sinkronisasi Gagal)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "Konten draf tidak akan disinkronkan",
+    "description": "个人作业zh_js"
+  },
+  "m.UpError4": {
+    "message": "Mengunggah hingga {max} lampiran",
     "description": "个人作业zh_js"
   }
 }

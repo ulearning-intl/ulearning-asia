@@ -95,10 +95,6 @@
     "message": "允许学生上传附件",
     "description": "个人作业zh_part.json"
   },
-  "EnterHomeworkRequirements": {
-    "message": "请输入作业要求",
-    "description": "个人作业zh_part.json"
-  },
   "ClickToStartRecording": {
     "message": "点击开始录音",
     "description": "个人作业zh_part.json"
@@ -107,7 +103,7 @@
     "message": "发布",
     "description": "个人作业zh_part.json"
   },
-  "submissionDeadline": {
+  "submissionEnd": {
     "message": "提交截止",
     "description": "个人作业zh_part.json"
   },
@@ -121,10 +117,6 @@
   },
   "save": {
     "message": "保存",
-    "description": "个人作业zh_part.json"
-  },
-  "pleaseSelectDate": {
-    "message": "请选择日期",
     "description": "个人作业zh_part.json"
   },
   "selectDate": {
@@ -147,16 +139,12 @@
     "message": "加载中...",
     "description": "个人作业zh_part.json"
   },
-  "determine": {
+  "ok": {
     "message": "确定",
     "description": "个人作业zh_part.json"
   },
   "title:": {
     "message": "标题:",
-    "description": "个人作业zh_part.json"
-  },
-  "hour": {
-    "message": "小时",
     "description": "个人作业zh_part.json"
   },
   "EvaluationMethod": {
@@ -179,27 +167,19 @@
     "message": "保存草稿",
     "description": "个人作业zh_part.json"
   },
-  "GrowthValue": {
-    "message": "成长值",
-    "description": "个人作业zh_part.json"
-  },
-  "StartingTimeOfHomework": {
+  "HomeworkStartingTime": {
     "message": "作业开始时间",
     "description": "个人作业zh_part.json"
   },
-  "SubmissionDeadline": {
+  "SubmissionEndTime": {
     "message": "提交截止时间",
     "description": "个人作业zh_part.json"
   },
-  "doMyHomework": {
+  "doHomework": {
     "message": "写作业",
     "description": "个人作业zh_part.json"
   },
-  "PleaseChooseParticipateClass": {
-    "message": "请选择参与班级",
-    "description": "个人作业zh_part.json"
-  },
-  "ChooseParticipateClass": {
+  "ParticipateClass": {
     "message": "参与班级",
     "description": "个人作业zh_part.json"
   },
@@ -209,10 +189,6 @@
   },
   "submitted": {
     "message": "已提交",
-    "description": "个人作业zh_part.json"
-  },
-  "submitTo": {
-    "message": "提交",
     "description": "个人作业zh_part.json"
   },
   "notSubmitted": {
@@ -247,32 +223,24 @@
     "message": "没有更多数据",
     "description": "个人作业zh_part.json"
   },
-  "DuringRecording, clickOnTheRippleToStop": {
+  "clickRippleStopRecording": {
     "message": "录音中，点击波纹停止",
     "description": "个人作业zh_part.json"
   },
-  "rerecording": {
+  "reRecording": {
     "message": "重录",
     "description": "个人作业zh_part.json"
   },
-  "ReUpload": {
+  "reUpload": {
     "message": "重新上传",
     "description": "个人作业zh_part.json"
   },
-  "RemarksNonMandatory": {
+  "Remark0": {
     "message": "备注，非必填，不超过200字",
     "description": "个人作业zh_part.json"
   },
   "select": {
     "message": "选择",
-    "description": "个人作业zh_part.json"
-  },
-  "AlbumPermissionNotOpened": {
-    "message": "相册权限未打开",
-    "description": "个人作业zh_part.json"
-  },
-  "OpenPhonePermissions": {
-    "message": "请打开手机权限",
     "description": "个人作业zh_part.json"
   },
   "InRecordingAndTryAgainLater": {
@@ -343,10 +311,6 @@
     "message": "作业附件中的内容无法被查重",
     "description": "个人作业zh_part.json"
   },
-  "Remark6": {
-    "message": "语法检测可以检测作业里英语语法错误",
-    "description": "个人作业zh_part.json"
-  },
   "MutualEvaluationDeadline": {
     "message": "互评截止时间",
     "description": "个人作业zh_part.json"
@@ -371,10 +335,6 @@
     "message": "对作业内容进行查重",
     "description": "个人作业zh_part.json"
   },
-  "info2": {
-    "message": "允许学生使用语法检查",
-    "description": "个人作业zh_part.json"
-  },
   "info3": {
     "message": "附件上传中，请等待上传完成再提交",
     "description": "个人作业zh_part.json"
@@ -383,7 +343,7 @@
     "message": "作业已开始，不能修改成长值",
     "description": "个人作业zh_part.json"
   },
-  "retransmission": {
+  "reUpload2": {
     "message": "重传",
     "description": "个人作业zh_part.json"
   },
@@ -391,7 +351,7 @@
     "message": "其他类型附件请使用电脑登录网站提交",
     "description": "个人作业zh_part.json"
   },
-  "max20Annex2": {
+  "max20Annex": {
     "message": "最多添加20个附件",
     "description": "个人作业zh_part.json"
   },
@@ -495,10 +455,6 @@
     "message": "请选择开始时间",
     "description": "个人作业zh_part.json"
   },
-  "selectTime4": {
-    "message": "发布时间不能大于截止时间",
-    "description": "个人作业zh_part.json"
-  },
   "selectTime5": {
     "message": "设置作业时间",
     "description": "个人作业zh_part.json"
@@ -515,7 +471,7 @@
     "message": "截止日期不能小于发布日期",
     "description": "个人作业zh_part.json"
   },
-  "submitJob": {
+  "submitHomework": {
     "message": "提交作业",
     "description": "个人作业zh_part.json"
   },
@@ -559,7 +515,7 @@
     "message": "无学生评价",
     "description": "个人作业zh_part.json"
   },
-  "jobList": {
+  "homeworlList": {
     "message": "作业列表",
     "description": "个人作业zh_part.json"
   },
@@ -627,28 +583,12 @@
     "message": "按成绩排",
     "description": "个人作业zh_part.json"
   },
-  "SortbystudentID2": {
-    "message": "按学号排序",
-    "description": "个人作业zh_part.json"
-  },
-  "SortByGrades2": {
-    "message": "按成绩排序",
-    "description": "个人作业zh_part.json"
-  },
-  "AssignHomework": {
-    "message": "布置作业",
-    "description": "个人作业zh_part.json"
-  },
-  "schoolAssignment": {
+  "homework": {
     "message": "作业",
     "description": "个人作业zh_part.json"
   },
   "PleaseSelect": {
     "message": "请选择",
-    "description": "个人作业zh_part.json"
-  },
-  "advancedSetting": {
-    "message": "高级设置",
     "description": "个人作业zh_part.json"
   },
   "delete": {
@@ -731,10 +671,6 @@
     "message": "至少输入10个单词",
     "description": "个人作业zh_part.json"
   },
-  "GrammarDetectionInProgress": {
-    "message": "语法检测中",
-    "description": "个人作业zh_part.json"
-  },
   "NoProblem": {
     "message": "很棒，你的文章没有检测出问题",
     "description": "个人作业zh_part.json"
@@ -747,14 +683,6 @@
     "message": "经检测，你的作业与其他同学的作业相似度为{n}%，请修改后再次提交",
     "description": "学生 -> 写作业 -> 查重 (要求教师布置作业时，设置查重)"
   },
-  "goodUP": {
-    "message": "还不错，放心提交吧",
-    "description": "个人作业zh_part.json"
-  },
-  "needUpdataUP": {
-    "message": "最好稍作修改后再提交",
-    "description": "个人作业zh_part.json"
-  },
   "uploadAnnexFail": {
     "message": "上传附件失败",
     "description": "个人作业zh_part.json"
@@ -765,10 +693,6 @@
   },
   "SubmittedSuccessfully": {
     "message": "提交成功",
-    "description": "个人作业zh_part.json"
-  },
-  "SaveErrorOccurred": {
-    "message": "保存出错了",
     "description": "个人作业zh_part.json"
   },
   "ThereWasAnErrorInObtainingTheAssignment": {
@@ -847,7 +771,7 @@
     "message": "等{num}个班级",
     "description": "个人作业zh_part.json"
   },
-  "max20Annex": {
+  "max20Annex2": {
     "message": "最多上传20个附件",
     "description": "个人作业zh_part.json"
   },
@@ -863,7 +787,7 @@
     "message": "作业等级",
     "description": "个人作业zh_part.json"
   },
-  "sumNoUptotal score": {
+  "sumNoUptotalScore": {
     "message": "各项累计不能超过总分",
     "description": "个人作业zh_part.json"
   },
@@ -1203,20 +1127,8 @@
     "message": "批注",
     "description": "个人作业zh_part.json"
   },
-  "SubmissionDeadline2": {
-    "message": "提交截止",
-    "description": "个人作业zh_part.json"
-  },
   "addClass": {
     "message": "添加班级",
-    "description": "个人作业zh_part.json"
-  },
-  "updataHomeworkTime": {
-    "message": "修改作业时间",
-    "description": "个人作业zh_part.json"
-  },
-  "deletClass": {
-    "message": "删除班级",
     "description": "个人作业zh_part.json"
   },
   "Scoringpoints": {
@@ -1259,7 +1171,7 @@
     "message": "跟读文本含有不支持的字符",
     "description": "个人作业zh_part.json"
   },
-  "sort": {
+  "SortBySimilar": {
     "message": "按相似度排序",
     "description": "个人作业zh_part.json"
   },
@@ -1413,6 +1325,10 @@
   },
   "Tip11": {
     "message": "该类型作业无法在APP中打开，请在浏览器中打开继续使用",
+    "description": "个人作业zh_part.json"
+  },
+  "ASSIGNTITLE": {
+    "message": "布置作业",
     "description": "个人作业zh_part.json"
   }
 }

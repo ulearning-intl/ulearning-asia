@@ -139,14 +139,6 @@
     "message": "يرجى الاختيار",
     "description": "个人作业zh_js"
   },
-  "m.UpAttachInfo1": {
-    "message": "الرفع لا يتجاوز",
-    "description": "个人作业zh_js"
-  },
-  "m.UpAttachInfo2": {
-    "message": "المرفقات",
-    "description": "个人作业zh_js"
-  },
   "m.UpAttachError1": {
     "message": " يجب ألا يتجاوز حجم الفيديو 1 غيغابايت",
     "description": "个人作业zh_js"
@@ -479,10 +471,6 @@
     "message": "النتيجة: {score}",
     "description": "移动端 -> 教师端 -> 学生提交作业列表 -> 评价任务 (需要作业是互评作业) \n PC -> 学生 -> 评价任务 -> 评价结束后显示"
   },
-  "m.commentEmpty": {
-    "message": " لم يتبقى تعليقات",
-    "description": "个人作业zh_js"
-  },
   "m.stuCommentEmpty": {
     "message": " لم يترك الطالب تعليق. ",
     "description": "个人作业zh_js"
@@ -743,12 +731,40 @@
     "message": "تعيين",
     "description": "个人作业zh_js"
   },
-  "m.openBrowserContinue": {
-    "message": "لا يمكن فتح هذا النوع من المهمة في التطبيق ، يرجى متابعة المتصفح.",
+  "m.syncGoogleClassroom": {
+    "message": "المزامنة مع Google Classroom",
     "description": "个人作业zh_js"
   },
-  "m.openInBrowser": {
-    "message": "مفتوح في المتصفح",
+  "m.syncTip1": {
+    "message": "* يرجى ربط دورة Google Classroom أولا ،",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip2": {
+    "message": "انتقل إلى دورة الحزمة",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip3": {
+    "message": "*إذا تم تحديد ذلك، فستتم مزامنة المحتوى مع دورة Google Classroom التدريبية. قد لا تتم مزامنة بعض الإعدادات بنجاح.",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip4": {
+    "message": "لمزيد من التفاصيل، يرجى الرجوع إلى وثائق المساعدة",
+    "description": "个人作业zh_js"
+  },
+  "m.syncSuccess": {
+    "message": "(تمت المزامنة بنجاح)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncFailure": {
+    "message": "(فشلت المزامنة)",
+    "description": "个人作业zh_js"
+  },
+  "m.syncTip5": {
+    "message": "لن تتم مزامنة محتوى المسودة",
+    "description": "个人作业zh_js"
+  },
+  "m.UpError4": {
+    "message": "تحميل ما يصل إلى {max} مرفقا",
     "description": "个人作业zh_js"
   }
 }

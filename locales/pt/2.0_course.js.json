@@ -7654,5 +7654,225 @@
   "uploaderLoadingTip": {
     "message": "Carregando, por favor não feche a página atual",
     "description": "2.0 course.js"
+  },
+  "programDetailWarning": {
+    "message": "A entrada de pré-visualização não foi definida para este recurso, volte à lista e clique em [Modificar] para adicionar uma entrada de pré-visualização!",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip1": {
+    "message": "Depois de vincular um curso do Google Classroom, a tarefa e o material do curso serão exibidos aqui. Você pode escolher a sincronização automática ou a sincronização manual ao vincular, e os recursos sincronizados serão exibidos na página \"Atribuições\" e \"Recursos\" da UniAcademy.",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip2": {
+    "message": "Você ainda não vinculou um curso do Google Classroom, faça login na sua Conta do Google para vincular",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip3": {
+    "message": "Selecione o curso que deseja vincular",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip4": {
+    "message": "Insira o nome do curso para pesquisar",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip5": {
+    "message": "O curso não foi encontrado",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip6": {
+    "message": "*Você ainda não tem um curso no Google Classroom, crie um curso primeiro,",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip7": {
+    "message": "O conteúdo do UATRY e do Google Classroom será sincronizado automaticamente com as plataformas um do outro",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip8": {
+    "message": "Você pode sincronizar o conteúdo manualmente:",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip9": {
+    "message": "Vá para a página do curso UA > configurar > \"Google Classroom\" ou vá para a página do curso UA> página \"Recursos\" e \"Tarefas\" para sincronizar, ou marque \"Sincronizar com o Google Classroom\" ao publicar",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip10": {
+    "message": "Você vinculou o Google Classroom:",
+    "description": "2.0 course.js"
+  },
+  "syncTip1": {
+    "message": "A sincronização de dados históricos foi concluída! {n} partes de conteúdo foram sincronizadas com êxito",
+    "description": "2.0 course.js"
+  },
+  "syncTip2": {
+    "message": ", {n} partes do conteúdo não conseguiram sincronizar devido a problemas de rede",
+    "description": "2.0 course.js"
+  },
+  "syncTip3": {
+    "message": "Problemas de rede estão fazendo com que a sincronização de dados históricos falhe!",
+    "description": "2.0 course.js"
+  },
+  "syncTip4": {
+    "message": "Se houver um conflito de dados, selecione um método de substituição de dados para continuar a sincronização",
+    "description": "2.0 course.js"
+  },
+  "syncTip5": {
+    "message": "{n} partes de conteúdo foram sincronizadas com êxito",
+    "description": "2.0 course.js"
+  },
+  "loginGoogle": {
+    "message": "Iniciar sessão no Google",
+    "description": "2.0 course.js"
+  },
+  "autoSync": {
+    "message": "Sincronização automática",
+    "description": "2.0 course.js"
+  },
+  "manualSync": {
+    "message": "Sincronização manual",
+    "description": "2.0 course.js"
+  },
+  "googleBind": {
+    "message": "Associar",
+    "description": "2.0 course.js"
+  },
+  "googleBindFailure": {
+    "message": "Falha ao Associar",
+    "description": "2.0 course.js"
+  },
+  "googleUnbind": {
+    "message": "desvincular",
+    "description": "2.0 course.js"
+  },
+  "googleUnbindFailure": {
+    "message": "desvinculamento Falha",
+    "description": "2.0 course.js"
+  },
+  "unsynced": {
+    "message": "Não sincronização",
+    "description": "2.0 course.js"
+  },
+  "synced": {
+    "message": "Sincronizado",
+    "description": "2.0 course.js"
+  },
+  "searchByKeyword": {
+    "message": "Digite uma palavra-chave para pesquisar",
+    "description": "2.0 course.js"
+  },
+  "batchSync": {
+    "message": "Sincronização em lote",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSync": {
+    "message": "Dessincronização de lotes",
+    "description": "2.0 course.js"
+  },
+  "syncHistoricalData": {
+    "message": "Sincronização de dados históricos com um clique",
+    "description": "2.0 course.js"
+  },
+  "syncToUlearning": {
+    "message": "Sincronizar com a U Academy",
+    "description": "2.0 course.js"
+  },
+  "sync": {
+    "message": "síncrono",
+    "description": "2.0 course.js"
+  },
+  "cancelSync": {
+    "message": "Cancelar a sincronização",
+    "description": "2.0 course.js"
+  },
+  "notSyncingYet": {
+    "message": "Por enquanto, não está sincronizado",
+    "description": "2.0 course.js"
+  },
+  "syncingYourData": {
+    "message": "Os dados estão sendo sincronizados para você",
+    "description": "2.0 course.js"
+  },
+  "retry": {
+    "message": "Tentar novamente",
+    "description": "2.0 course.js"
+  },
+  "overwriteOldData": {
+    "message": "Substituir dados antigos",
+    "description": "2.0 course.js"
+  },
+  "ignore": {
+    "message": "ignorar",
+    "description": "2.0 course.js"
+  },
+  "syncSuccess": {
+    "message": "Sincronizar Sucesso",
+    "description": "2.0 course.js"
+  },
+  "syncFailure": {
+    "message": "Falha na sincronização",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncSuccess": {
+    "message": "A dessincronização foi bem-sucedida",
+    "description": "2.0 course.js"
+  },
+  "cancelSyncFailure": {
+    "message": "Falha ao cancelar a sincronização",
+    "description": "2.0 course.js"
+  },
+  "batchSyncSuccess": {
+    "message": "A sincronização em lote foi bem-sucedida",
+    "description": "2.0 course.js"
+  },
+  "batchSyncFailure": {
+    "message": "Falha na sincronização em lote",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncSuccess": {
+    "message": "A dessincronização em lote foi bem-sucedida",
+    "description": "2.0 course.js"
+  },
+  "batchCancelSyncFailure": {
+    "message": "Falha na dessincronização do lote",
+    "description": "2.0 course.js"
+  },
+  "googleClassroom": {
+    "message": "Google Sala de Aula",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips39": {
+    "message": "Digite um número inteiro entre 1 e 1000",
+    "description": "2.0 course.js"
+  },
+  "material": {
+    "message": "Materiais",
+    "description": "2.0 course.js"
+  },
+  "assignment": {
+    "message": "Tarefa",
+    "description": "2.0 course.js"
+  },
+  "googleclassroomTip11": {
+    "message": "Clique para ir para Criar sala de aula",
+    "description": "2.0 course.js"
+  },
+  "unboundTip": {
+    "message": "Os dados antigos que foram sincronizados após a desvinculação serão retidos e os novos dados não serão mais sincronizados",
+    "description": "2.0 course.js"
+  },
+  "confirmUnbound": {
+    "message": "Confirme a desvinculação",
+    "description": "2.0 course.js"
+  },
+  "uploaderVMResource": {
+    "message": "Insira simulações em seu conteúdo",
+    "description": "2.0 course.js"
+  },
+  "scormdetailedResults": {
+    "message": "Registos de aprendizagem SCORM",
+    "description": "2.0 course.js"
+  },
+  "incomplete": {
+    "message": "pendente",
+    "description": "2.0 course.js"
   }
 }

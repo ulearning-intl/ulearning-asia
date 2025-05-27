@@ -3866,5 +3866,393 @@
   "systemAdmin.concurrencyNum": {
     "message": "併發數",
     "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "服務到期時間",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "存檔到期時間",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "總帳戶數",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "活躍帳號數",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "雲儲存",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "雲會議室",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "租戶",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "總活躍帳號",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "智慧大屏",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "開始",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "結束",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "已用",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "總配額",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "已到期",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "總數",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "特性設置",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "輸入{msg}確認操作",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "輸入管理員密碼以確認以上操作",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "操作確認",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "這個操作將會影響系統中全部機構，請確認後繼續。",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "特性變更",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "確認",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "關閉",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "取消",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "請輸入確認密碼",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "活動管理",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "新聞公告",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "新聞",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "公告",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "發布",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "新聞名稱",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "新聞內容",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "輸入新聞名稱",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*公告將展示在學校門戶和優學院中，新聞僅展示在學校門戶中",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "上傳預覽圖",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "圖片的比例建議采用 16:9；圖片格式：png, jpg, gif, jpeg, bmp；單張圖片大小不可大於2M",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "上傳圖片后再次上傳，更新圖片",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "圖片大小不可大於{size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "請上傳圖片",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "定製化",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "定製化網頁請選擇該範本",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "活動管理",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "新增活動",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "輸入活動標題搜索",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "活動標題",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "啟用開始時間",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "啟用結束時間",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "活動內容",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "志願者招募連結",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "返回管理中心",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "啟用開始時間不能大於活動結束時間",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "多語言設置",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "網站名稱多語言設置", 
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "請輸入{lang}語言",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "默認語言的值不能為空",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "成員申請",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "英語院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "國家/地區",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "聯繫人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "聯繫電話",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "郵箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "申請時間",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "查看詳情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "輸入院校名搜索",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "成員申請信息詳情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< 返回",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "機構LOGO",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "LOGO預覽",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "機構名稱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "英文機構名稱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "創立年份",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "大學地址",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "聯繫人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "大學網站",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "電話號碼",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "電子郵箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "大學簡介/學院簡介",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "資源名稱",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "創建人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "複製人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·當前查看文件夾",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "所屬機構",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "類型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "大小",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "創建時間",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "文件夾",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "壓縮包",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "虛仿資源",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "鏈接",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "刪除後無法恢復，是否刪除",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "排序方式：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "操作日誌",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "請輸入創建人或文件名篩選",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "資源庫",
+    "description": "2.0 admin.js"
   }
 }

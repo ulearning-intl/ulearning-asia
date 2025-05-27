@@ -107,10 +107,6 @@
     "message": "Ajouter un menu",
     "description": "UA"
   },
-  "addMenuNumErrTip": {
-    "message": "Ajouter jusqu’à 15 éléments au menu de 1er niveau",
-    "description": "UA"
-  },
   "addNotes": {
     "message": "Ajouter une légende ou des notes",
     "description": "UA"
@@ -125,10 +121,6 @@
   },
   "addPlate": {
     "message": "Ajouter un module",
-    "description": "UA"
-  },
-  "addPlateErrTip": {
-    "message": "Nombre de modules ajoutés ne peut être que 0, 3, 6, 9",
     "description": "UA"
   },
   "addPlateTip": {
@@ -199,10 +191,6 @@
     "message": " Toutes les unités ",
     "description": "UA"
   },
-  "amountOfReading": {
-    "message": "Lecture",
-    "description": "UA"
-  },
   "analyze": {
     "message": "Rétroaction",
     "description": "UA"
@@ -223,10 +211,6 @@
     "message": "Contenu de l’article",
     "description": "UA"
   },
-  "articleDetail": {
-    "message": "Détails de l’article",
-    "description": "UA"
-  },
   "articleName": {
     "message": "Nom de l’article",
     "description": "UA"
@@ -241,10 +225,6 @@
   },
   "attachment": {
     "message": "Pièce jointe",
-    "description": "UA"
-  },
-  "attachmentUploadQ": {
-    "message": "Téléchargement de fichiers",
     "description": "UA"
   },
   "audio": {
@@ -287,20 +267,8 @@
     "message": "Utilisez la règle de nommage, afin que le nom de la vidéo puisse être trié automatiquement de petit à grand. Veuillez modifier le nom de la vidéo avant de la télécharger, par exemple : lei_unit1_001, lei_unit1_02...",
     "description": "UA"
   },
-  "automaticTranscodingMp3": {
-    "message": "Transcodage automatique (format MP3 codé AAC), découpage (lecture multimédia en streaming), compression",
-    "description": "UA"
-  },
-  "automaticTranscodingMp4": {
-    "message": "Transcodage automatique (format mp4 codé H.264), découpage (lecture multimédia en streaming), compression (128 ~ 1024kbps)",
-    "description": "UA"
-  },
   "avatar": {
     "message": "Avatar",
-    "description": "UA"
-  },
-  "backList": {
-    "message": "Retour à la liste",
     "description": "UA"
   },
   "backToCourse": {
@@ -379,10 +347,6 @@
     "message": "Annuler",
     "description": "UA"
   },
-  "cancelHide": {
-    "message": "Afficher",
-    "description": "UA"
-  },
   "cancelTop": {
     "message": "Annuler collant au sommet",
     "description": "UA"
@@ -419,10 +383,6 @@
     "message": "La structure du catalogue est déraisonnable. Veuillez créer un catalogue selon la structure du chapitre > section > page!",
     "description": "UA"
   },
-  "chapterStudyProgress": {
-    "message": "Contenu du chapitre appris :",
-    "description": "UA"
-  },
   "chapterUnfinishedPage": {
     "message": "Vous n’avez pas encore terminé d’apprendre les pages suivantes de ce chapitre",
     "description": "UA"
@@ -437,14 +397,6 @@
   },
   "checkMore": {
     "message": "En savoir plus",
-    "description": "UA"
-  },
-  "chinese": {
-    "message": "Chinois",
-    "description": "UA"
-  },
-  "indonesian": {
-    "message": "Indonésien",
     "description": "UA"
   },
   "defaultLang": {
@@ -519,10 +471,6 @@
     "message": "Réduire le catalogue",
     "description": "UA"
   },
-  "commonlyUsedQuestions": {
-    "message": "Types de questions fréquemment utilisés",
-    "description": "UA"
-  },
   "componentBeingDeleted": {
     "message": "Suppression de composants",
     "description": "UA"
@@ -541,26 +489,6 @@
   },
   "confirm": {
     "message": "Confirmer",
-    "description": "UA"
-  },
-  "confirmArticleErrTip": {
-    "message": "Veuillez saisir le titre de l’article",
-    "description": "UA"
-  },
-  "confirmArticleErrTip1": {
-    "message": "Veuillez saisir le contenu de l’article ou ajouter une pièce jointe",
-    "description": "UA"
-  },
-  "confirmArticleErrTip2": {
-    "message": "S’il vous plaît ajouter le menu d’abord",
-    "description": "UA"
-  },
-  "confirmArticleErrTip3": {
-    "message": "Veuillez sélectionner le menu du type d’article",
-    "description": "UA"
-  },
-  "confirmArticleErrTip4": {
-    "message": "Pas plus de 10 pièces jointes",
     "description": "UA"
   },
   "confirmBatchDelete": {
@@ -595,10 +523,6 @@
     "message": "Ce fichier a été téléchargé. Confirmer pour supprimer??",
     "description": "UA"
   },
-  "confirmDeleteMenu": {
-    "message": "Ce menu et ses sous-menus seront supprimés lorsque le menu sera supprimé. Confirmer pour supprimer?",
-    "description": "UA"
-  },
   "confirmDeleteQ": {
     "message": "Voulez-vous vraiment supprimer cette rubrique ?",
     "description": "UA"
@@ -609,18 +533,6 @@
   },
   "confirmDeleteTheFolder": {
     "message": "Voulez-vous vraiment supprimer le dossier et ses sous-dossiers et fichiers ?",
-    "description": "UA"
-  },
-  "confirmDeleteTheMenu": {
-    "message": "Êtes-vous sûr de vouloir supprimer ce menu ?",
-    "description": "UA"
-  },
-  "confirmHideMenu": {
-    "message": "Après avoir caché ce menu, ce menu et ses sous-menus ne seront pas affichés sur le site Web. Êtes-vous sûr de vous cacher?",
-    "description": "UA"
-  },
-  "confirmHideTheMenu": {
-    "message": "Êtes-vous sûr de vouloir masquer ce menu?",
     "description": "UA"
   },
   "confirmLeave": {
@@ -653,10 +565,6 @@
   },
   "continueAdd": {
     "message": "Ajouter plus de test",
-    "description": "UA"
-  },
-  "continueCreate": {
-    "message": "Continuer à créer",
     "description": "UA"
   },
   "continueSelect": {
@@ -731,10 +639,6 @@
     "message": "Informations sur les didacticiels",
     "description": "UA"
   },
-  "courseLanguage": {
-    "message": "Langue du cours",
-    "description": "UA"
-  },
   "courseManager": {
     "message": "Gestion du début des cours",
     "description": "UA"
@@ -745,10 +649,6 @@
   },
   "courseName2": {
     "message": "Nom du cours",
-    "description": "UA"
-  },
-  "coursePlayer": {
-    "message": "Joueur de cours",
     "description": "UA"
   },
   "coursePortal": {
@@ -907,10 +807,6 @@
     "message": "Couper la vidéo",
     "description": "UA"
   },
-  "dataError": {
-    "message": "Données incorrectes",
-    "description": "UA"
-  },
   "totalData": {
     "message": "Total: {n} ",
     "description": "UA -> 教师 -> 首页"
@@ -929,10 +825,6 @@
   },
   "deleteFail": {
     "message": "Impossible de supprimer !",
-    "description": "UA"
-  },
-  "deleteMenu": {
-    "message": "Menu Supprimer",
     "description": "UA"
   },
   "deletePageTip": {
@@ -997,10 +889,6 @@
   },
   "demonstrationPronunciation": {
     "message": "Démonstration de pronunciaition",
-    "description": "UA"
-  },
-  "descriptionModule": {
-    "message": "Module de description",
     "description": "UA"
   },
   "deselect": {
@@ -1183,10 +1071,6 @@
     "message": "Veuillez d’abord entrer le titre et confirmer",
     "description": "UA"
   },
-  "enterCourseIntroduction": {
-    "message": "Veuillez entrer une introduction détaillée",
-    "description": "UA"
-  },
   "enterCourseName": {
     "message": "Cliquez pour entrer le nom du didacticiel",
     "description": "UA"
@@ -1249,22 +1133,6 @@
   },
   "enterLink": {
     "message": " Veuillez entrer l’adresse du lien ",
-    "description": "UA"
-  },
-  "enterLinkErrTip": {
-    "message": "Veuillez entrer l’adresse correcte du lien",
-    "description": "UA"
-  },
-  "enterMenuName": {
-    "message": "Veuillez entrer le nom du menu, jusqu’à huit mots",
-    "description": "UA"
-  },
-  "enterMenuNameErrTip": {
-    "message": "Veuillez entrer le nom du menu, jusqu’à huit caractères chinois ou 16 lettres",
-    "description": "UA"
-  },
-  "enterNewFileName": {
-    "message": "Veuillez entrer un nouveau nom de fichier",
     "description": "UA"
   },
   "enterPageName": {
@@ -1371,10 +1239,6 @@
     "message": "Erreur lors de l’enregistrement",
     "description": "UA"
   },
-  "essayQ": {
-    "message": "question écrit",
-    "description": "UA"
-  },
   "exampleText": {
     "message": "Voir un exemple",
     "description": "UA"
@@ -1385,10 +1249,6 @@
   },
   "exercisesNum": {
     "message": "Nombre d’exercices",
-    "description": "UA"
-  },
-  "exitSaveRecordFaile2": {
-    "message": "Si vous continuez à quitter, l’enregistrement d’apprentissage de cette section peut ne pas être enregistré.",
     "description": "UA"
   },
   "exitSaveRecordFailed": {
@@ -1443,10 +1303,6 @@
     "message": "Cliquez pour entrer la réponse de référence (obligatoire) \n 1. Anglais seulement, jusqu’à 2000 mots \n 2. Plus il y a de chevauchement avec la description et le contexte du scénario et plus de réponses (5+) répertoriées, mieux c’est. Utilisation | pour séparer chaque réponse \n 3. Le score du test ouvert est basé sur la qualité de la prononciation et la pertinence du contenu",
     "description": "UA"
   },
-  "explanationInfo1": {
-    "message": "L’élève ne peut pas voir le texte et le système marquera en fonction de ce texte. Le texte et la prononciation doivent être exactement les mêmes. Par exemple, 1996 devrait s’écrire comme dix-neuf quatre-vingt-seize. Les caractères chinois ne sont pas pris en charge.",
-    "description": "UA"
-  },
   "failedReason": {
     "message": "Raisons de l’échec",
     "description": "UA"
@@ -1465,10 +1321,6 @@
   },
   "fileNumLimit1": {
     "message": "Fichiers",
-    "description": "UA"
-  },
-  "fileRename": {
-    "message": "Renommer le fichier",
     "description": "UA"
   },
   "fileSizeLimit": {
@@ -1571,10 +1423,6 @@
     "message": "du fichier",
     "description": "UA"
   },
-  "formulaCalc": {
-    "message": "Formule calculée",
-    "description": "UA"
-  },
   "free": {
     "message": "Gratuit",
     "description": "UA"
@@ -1607,10 +1455,6 @@
     "message": "Le format de données obtenu est incorrect, veuillez contacter le service client",
     "description": "UA"
   },
-  "getFullScoreTip": {
-    "message": "Pour les questions à choix multiples, les points ne seront donnés que lorsque les réponses correspondent parfaitement. Aucune note ne sera donnée aux réponses manquées ou mal sélectionnées.",
-    "description": "UA"
-  },
   "getPageContentErr": {
     "message": "Erreur lors de l’obtention du contenu de la page",
     "description": "UA"
@@ -1635,10 +1479,6 @@
     "message": "Abandonner pour remplir",
     "description": "UA"
   },
-  "goToCheck": {
-    "message": "Vérifiez maintenant!",
-    "description": "UA"
-  },
   "gotIt": {
     "message": "Reçus!",
     "description": "UA"
@@ -1661,14 +1501,6 @@
   },
   "hideInWebsite": {
     "message": "Ne pas afficher sur le site Web",
-    "description": "UA"
-  },
-  "hideMenu": {
-    "message": "Masquer le menu",
-    "description": "UA"
-  },
-  "hidePageTip": {
-    "message": "Les pages masquées ne sont pas chronométrées",
     "description": "UA"
   },
   "hideReason": {
@@ -1727,14 +1559,6 @@
     "message": "Heures d’apprentissage",
     "description": "UA"
   },
-  "hours1": {
-    "message": "Heures",
-    "description": "UA"
-  },
-  "iconExplanation": {
-    "message": "Explication de l’icône",
-    "description": "UA"
-  },
   "image": {
     "message": "Images",
     "description": "UA"
@@ -1763,10 +1587,6 @@
     "message": "Insérer",
     "description": "UA"
   },
-  "insertionPointPositionTip": {
-    "message": "Le point d’insertion doit se situer entre l’heure de début et l’heure de fin",
-    "description": "UA"
-  },
   "institute": {
     "message": "École",
     "description": "UA"
@@ -1775,20 +1595,12 @@
     "message": "Translator",
     "description": "UA"
   },
-  "introductionLabel": {
-    "message": "Aperçu",
-    "description": "UA"
-  },
   "isBindingBanke": {
     "message": "Ce cours a été lié à la classe suivante",
     "description": "UA"
   },
   "isTop": {
     "message": "Réglé comme un dessus collant?",
-    "description": "UA"
-  },
-  "joinCourse": {
-    "message": "Rejoindre le cours",
     "description": "UA"
   },
   "jpkTip": {
@@ -1843,10 +1655,6 @@
     "message": "Dernière mise à jour",
     "description": "UA"
   },
-  "lastUpdateTime": {
-    "message": "Heure de mise à jour la plus récente",
-    "description": "UA"
-  },
   "learnOtherPage": {
     "message": "Apprendre d’autres pages",
     "description": "UA"
@@ -1879,10 +1687,6 @@
     "message": "Lien",
     "description": "UA"
   },
-  "listeningObjectiveQ": {
-    "message": "Question sur les objectifs d’écoute",
-    "description": "UA"
-  },
   "loadCourse": {
     "message": "Chargement du cours",
     "description": "UA"
@@ -1899,10 +1703,6 @@
     "message": "Chargement abormal, qui peut être causé par les raisons suivantes:",
     "description": "UA"
   },
-  "loadFail": {
-    "message": "Échec du chargement",
-    "description": "UA"
-  },
   "loadFinish": {
     "message": "Chargement terminé!",
     "description": "UA"
@@ -1911,16 +1711,8 @@
     "message": "Chargement, veuillez patienter un instant...",
     "description": "UA"
   },
-  "loadingWait": {
-    "message": "Chargement, veuillez patienter un instant...",
-    "description": "UA"
-  },
   "logout": {
     "message": "Déconnexion",
-    "description": "UA"
-  },
-  "logoutTip": {
-    "message": "Vous avez des questions non enregistrées, êtes-vous sûr de vouloir arrêter?",
     "description": "UA"
   },
   "longestSupport": {
@@ -1941,22 +1733,6 @@
   },
   "markRuleTip": {
     "message": "La composante de notation orale en anglais compare le texte d’entrée avec la prononciation de l’utilisateur et est noté en fonction de la prononciation de l’utilisateur. À l’heure actuelle, trois méthodes de notation sont prises en charge : les mots/phrases/paragraphes. Parmi eux, la durée maximale de la notation des mots est de 20 s, la durée maximale de la notation des phrases est de 40 s et la durée maximale de la notation des paragraphes est de 180. Après avoir atteint la limite de temps et si l’utilisateur n’a pas lu, la partie lue sera notée automatiquement. Veuillez faire attention au nombre de texte saisi. Le score de passage par défaut du système est de 60 points. Le système affichera des marques de couleur verte lors de l’eceeding 60 marks. Lorsque moins de 60 points, le système affichera des marques de couleur rouge.",
-    "description": "UA"
-  },
-  "materialAnalysisQ": {
-    "message": "Analyse",
-    "description": "UA"
-  },
-  "meansAnswersCorrectly": {
-    "message": "Indique que la réponse à cette option est correcte.",
-    "description": "UA"
-  },
-  "meansAnswersError": {
-    "message": "Indique que cette option est incorrecte. Mauvaise réponse.",
-    "description": "UA"
-  },
-  "meansAnswersMissed": {
-    "message": "Indique que cette option est la bonne réponse, mais qu’elle est manquante.",
     "description": "UA"
   },
   "medium": {
@@ -2017,10 +1793,6 @@
   },
   "multipleChoiceQ": {
     "message": "Réponse multiple",
-    "description": "UA"
-  },
-  "multipleNoOrderBlanksQ": {
-    "message": "Plusieurs questions à remplir sans ordre",
     "description": "UA"
   },
   "myCourse": {
@@ -2157,10 +1929,6 @@
   },
   "notUpload10AtOnce": {
     "message": "Téléchargez jusqu’à 10 clips à chaque fois",
-    "description": "UA"
-  },
-  "notUploadSameFile": {
-    "message": "Impossible de télécharger le même fichier",
     "description": "UA"
   },
   "note": {
@@ -2455,20 +2223,8 @@
     "message": "Éditeur",
     "description": "UA"
   },
-  "qualityCourseSystem": {
-    "message": "Système de gestion pour un site Web de cours de qualité supérieure",
-    "description": "UA"
-  },
   "question": {
     "message": " question(s)",
-    "description": "UA"
-  },
-  "questionCorrectRate": {
-    "message": "Taux de précision des réponses à l’exercice :",
-    "description": "UA"
-  },
-  "questionID": {
-    "message": "ID de la question :",
     "description": "UA"
   },
   "questionId": {
@@ -2587,10 +2343,6 @@
     "message": "Précédent",
     "description": "UA"
   },
-  "replaceVideo": {
-    "message": "Modifier la vidéo",
-    "description": "UA"
-  },
   "reportEditTip": {
     "message": "Suggestions pour la conception pédagogique: Selon les objectifs d’apprentissage initiaux, une fois le contenu de l’enseignement terminé, vous pouvez définir les questions de test correspondantes. D’une part, il peut aider les apprenants à renforcer leurs connaissances à temps. D’autre part, selon les résultats finaux, il peut détecter si les apprenants ont satisfait aux exigences des objectifs d’apprentissage, afin que les étudiants puissent réviser de manière pertinente. L’outil Rapport de résultats peut être ajouté à la fin de chaque unité. Vous pouvez configurer les points de connaissances de cette unité et les exercices correspondants. Le système fournira des commentaires aux étudiants sur le taux d’exactitude des réponses de chaque point de connaissance en conséquence.",
     "description": "UA"
@@ -2667,24 +2419,12 @@
     "message": "Échec de l’enregistrement des enregistrements d’apprentissage de section",
     "description": "UA"
   },
-  "saveRecords": {
-    "message": "Sauvegarde de l’enregistrement",
-    "description": "UA"
-  },
   "saveRoleError": {
     "message": "Échec de l’enregistrement, une erreur s’est produite",
     "description": "UA"
   },
-  "saveRoletip": {
-    "message": "Échec de la suppression, état anormal",
-    "description": "UA"
-  },
   "savedSuccessfully": {
     "message": "Sauvegarder avec succès!",
-    "description": "UA"
-  },
-  "savingEdit": {
-    "message": "Enregistrement du contenu nouvellement modifié",
     "description": "UA"
   },
   "schoolCurriculumWebsite": {
@@ -2712,10 +2452,6 @@
     "description": "UA"
   },
   "searchByKeyword": {
-    "message": "Entrez le mot-clé ou le numéro de question à rechercher",
-    "description": "UA"
-  },
-  "searchUsingKeyword": {
     "message": "Entrez le mot-clé ou le numéro de question à rechercher",
     "description": "UA"
   },
@@ -2773,10 +2509,6 @@
   },
   "selectAllQuestions": {
     "message": "Sélectionnez tout sur cette page",
-    "description": "UA"
-  },
-  "selectAndCreateQ": {
-    "message": "Sélectionner et créer des questions de test",
     "description": "UA"
   },
   "selectAudio": {
@@ -2939,10 +2671,6 @@
     "message": "Sélectionnez Aperçu du contenu",
     "description": "UA"
   },
-  "setCommonlyUsedQuestions": {
-    "message": "Définition des questions couramment utilisées",
-    "description": "UA"
-  },
   "setLimitTimeAnswerCondition": {
     "message": "Vous pouvez définir une limite de temps uniquement pour les pages avec des questions d’exercice.",
     "description": "UA"
@@ -3047,20 +2775,12 @@
     "message": "Séquence",
     "description": "UA"
   },
-  "speakingModule": {
-    "message": "Module d’expression orale",
-    "description": "UA"
-  },
   "splitScreenTip": {
     "message": "Veuillez cliquer sur « Quitter l’écran » pour soumettre votre réponse après avoir complété la réponse.",
     "description": "UA"
   },
   "spokenAutomated": {
     "message": "Test d’anglais parlé",
-    "description": "UA"
-  },
-  "spokenAutomatedNote": {
-    "message": "La composante de notation orale en anglais ne peut pas être dans la même page que la vidéo, l’exercice et le jeu de rôle",
     "description": "UA"
   },
   "spokenAutomatedTip": {
@@ -3127,20 +2847,12 @@
     "message": "(Le côté étudiant ne s’affiche pas)",
     "description": "UA"
   },
-  "study": {
-    "message": "Étudié",
-    "description": "UA"
-  },
   "submitSuccessfully": {
     "message": "Soumis avec succès!",
     "description": "UA"
   },
   "suchAs": {
     "message": "Comme:",
-    "description": "UA"
-  },
-  "suitang": {
-    "message": "Avec la classe",
     "description": "UA"
   },
   "supportDecimalPlace": {
@@ -3157,10 +2869,6 @@
   },
   "syllabus": {
     "message": "Programme",
-    "description": "UA"
-  },
-  "syntaxModule": {
-    "message": "Module de syntaxe",
     "description": "UA"
   },
   "systemMark": {
@@ -3295,20 +3003,12 @@
     "message": "Score total",
     "description": "UA"
   },
-  "translationQ": {
-    "message": "Question de traduction",
-    "description": "UA"
-  },
   "trueorFalse": {
     "message": "Vrai/Faux",
     "description": "UA"
   },
   "ulearningWebsite": {
     "message": "Portail ULearning",
-    "description": "UA"
-  },
-  "unableConnectResourceServer": {
-    "message": "Impossible de se connecter au serveur de ressources :",
     "description": "UA"
   },
   "unbind": {
@@ -3349,10 +3049,6 @@
   },
   "updateWebsiteTips": {
     "message": "Si vous devez modifier le site de publication, veuillez retirer le cours et le republier.",
-    "description": "UA"
-  },
-  "updatedSuccessfully": {
-    "message": "Mise à jour réussie!",
     "description": "UA"
   },
   "upload": {
@@ -3431,10 +3127,6 @@
     "message": "Impossible de télécharger le fichier!",
     "description": "UA"
   },
-  "uploadTime": {
-    "message": "Temps de téléchargement",
-    "description": "UA"
-  },
   "uploadTrackTip": {
     "message": "Prise en charge du format de fichier SRT uniquement",
     "description": "UA"
@@ -3453,10 +3145,6 @@
   },
   "uploader": {
     "message": "Téléchargeur",
-    "description": "UA"
-  },
-  "uploagImgSizeTip": {
-    "message": "La taille maximale de l’image ne doit pas dépasser 2M",
     "description": "UA"
   },
   "uplodeFile": {
@@ -3533,10 +3221,6 @@
   },
   "viewSelectedQuestion": {
     "message": "Afficher la question sélectionnée",
-    "description": "UA"
-  },
-  "vocabularyModule": {
-    "message": "Module de vocabulaire",
     "description": "UA"
   },
   "waitPreview": {
@@ -3656,15 +3340,11 @@
     "description": "UA"
   },
   "scanMode2Tip": {
-    "message": "Analyser le code de l’application pour l’apprentissage dans l’application ULearning - Les enregistrements d’apprentissage sont enregistrés",
+    "message": "Analyser le code de l’application pour l’apprentissage dans l’application ULearning 2.0 - Les enregistrements d’apprentissage sont enregistrés",
     "description": "UA"
   },
   "codeTip": {
     "message": "Chaque didacticiel se voit attribuer un code QR. Si le didacticiel est supprimé, la numérisation du code QR ne pourra pas accéder au didacticiel.",
-    "description": "UA"
-  },
-  "hasChoosen": {
-    "message": "Éléments {n} sélectionnés",
     "description": "UA"
   },
   "allResource": {
@@ -3807,14 +3487,6 @@
     "message": "Affichage hors ligne",
     "description": "UA"
   },
-  "downloaded": {
-    "message": "Téléchargé",
-    "description": "UA"
-  },
-  "cachedLocally": {
-    "message": "Mis en cache localement",
-    "description": "UA"
-  },
   "stopAnswer": {
     "message": "Fin de la réponse",
     "description": "UA"
@@ -3923,10 +3595,6 @@
     "message": "Échec de la suppression, état anormal",
     "description": "UA"
   },
-  "saveRoleError2": {
-    "message": "Échec de l’enregistrement, les données sont incomplètes",
-    "description": "UA"
-  },
   "prviewRoleTips2": {
     "message": "Le nom Roleole doit être compris entre 1 et 10 lettres.",
     "description": "UA"
@@ -4025,10 +3693,6 @@
   },
   "Results": {
     "message": "résultat de la notation de :",
-    "description": "UA"
-  },
-  "noPermission": {
-    "message": "Non autorisé à utiliser l’enregistrement audio ",
     "description": "UA"
   },
   "checkDoc": {
@@ -4219,10 +3883,6 @@
     "message": "Veuillez saisir une brève description du contenu",
     "description": "UA"
   },
-  "publishCourseTip3": {
-    "message": "Si vous n’avez pas complété les informations de base du cours, des membres de l’équipe et d’autres informations, si vous n’avez pas besoin d’afficher la leçon sur la page du site Web, vous pouvez l’ignorer.",
-    "description": "UA"
-  },
   "inputFileName": {
     "message": "Entrez un mot-clé pour rechercher",
     "description": "UA"
@@ -4267,88 +3927,8 @@
     "message": "Définir les titres de toutes les vidéos de ce didacticiel de manière synchrone",
     "description": "UA"
   },
-  "videoHeadLengthTip": {
-    "message": "Le générique d’ouverture ne peut pas dépasser 180 secondes",
-    "description": "UA"
-  },
-  "courseDesign": {
-    "message": "Conception pédagogique",
-    "description": "UA"
-  },
-  "courseDesignDesc": {
-    "message": "Téléchargez des vidéos de cours, des relevés de notes et d’autres documents",
-    "description": "UA"
-  },
-  "inputContent": {
-    "message": "Veuillez saisir le contenu",
-    "description": "UA"
-  },
   "addFile": {
     "message": "Ajouter des fichiers",
-    "description": "UA"
-  },
-  "addDesignType": {
-    "message": "Ajouter une catégorie",
-    "description": "UA"
-  },
-  "addDesignTypeTip": {
-    "message": "Ajouter jusqu’à 10 catégories",
-    "description": "UA"
-  },
-  "designType1": {
-    "message": "Conférences",
-    "description": "UA"
-  },
-  "designType2": {
-    "message": "Cas de conception pédagogique",
-    "description": "UA"
-  },
-  "designType3": {
-    "message": "Réflexion pédagogique",
-    "description": "UA"
-  },
-  "designType4": {
-    "message": "Didacticiel de cours magistraux",
-    "description": "UA"
-  },
-  "designType5": {
-    "message": "Micro Cours",
-    "description": "UA"
-  },
-  "designType6": {
-    "message": "Transcriptions de cours",
-    "description": "UA"
-  },
-  "inputTypeName": {
-    "message": "Sélectionnez le package SCORM",
-    "description": "UA"
-  },
-  "inputTypeNameTip": {
-    "message": "Le nom ne peut pas dépasser 10 caractères",
-    "description": "UA"
-  },
-  "inputTypeNameTip1": {
-    "message": "Il existe déjà une catégorie portant le même nom sous le didacticiel actuel",
-    "description": "UA"
-  },
-  "deleteTypeNameTip": {
-    "message": "Voulez-vous vraiment supprimer une catégorie ?",
-    "description": "UA"
-  },
-  "addDesignResourceTip1": {
-    "message": "Ajouter jusqu’à 5 fichiers par catégorie",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip": {
-    "message": "Voulez-vous vraiment supprimer le fichier ?",
-    "description": "UA"
-  },
-  "deleteDesignResourceTip1": {
-    "message": "Vous ne pouvez pas sélectionner le même fichier",
-    "description": "UA"
-  },
-  "inputTypeNameTip2": {
-    "message": "Le nom de la catégorie ne peut pas être vide",
     "description": "UA"
   },
   "otherSetting": {
@@ -4399,18 +3979,6 @@
     "message": "Participer",
     "description": "UA"
   },
-  "websiteVisits": {
-    "message": "Nombre de visites du site Web",
-    "description": "UA"
-  },
-  "providedBy": {
-    "message": "Soutien technique",
-    "description": "UA"
-  },
-  "ie8Tip": {
-    "message": "Il est recommandé d’utiliser IE8 ou un navigateur supérieur, une résolution de 1024 * 798 ou supérieure pour accéder à ce site",
-    "description": "UA"
-  },
   "username": {
     "message": "Nom d’utilisateur",
     "description": "UA"
@@ -4449,14 +4017,6 @@
   },
   "iframeErr1": {
     "message": "Veuillez saisir le code iframe",
-    "description": "UA"
-  },
-  "courseCoverImage": {
-    "message": "Image de couverture",
-    "description": "UA"
-  },
-  "publishCourseTip4": {
-    "message": "Lorsqu’un cours est publié, il passe à l’état Publié.",
     "description": "UA"
   },
   "folderNameExistTips": {
@@ -4539,100 +4099,8 @@
     "message": "Erreur d’exportation de fichier CC",
     "description": "UA"
   },
-  "confirmTakeOffCourse": {
-    "message": "Une fois que le didacticiel est retiré des étagères, il ne peut pas être utilisé, et il ne peut pas être republié ou mis sur les étagères. Êtes-vous sûr de supprimer les didacticiels ?",
-    "description": "UA"
-  },
-  "subjectBank": {
-    "message": "Bibliothèque de ressources de sujet",
-    "description": "UA"
-  },
-  "subjectDialogTitle": {
-    "message": "Ajouter une ressource de bibliothèque de ressources thématiques",
-    "description": "UA"
-  },
-  "importSuccess": {
-    "message": "Importé avec succès!",
-    "description": "UA"
-  },
-  "importRepeat": {
-    "message": "Il existe des ressources ingérées en double",
-    "description": "UA"
-  },
-  "editQuestion": {
-    "message": "Réviser la question",
-    "description": "UA"
-  },
-  "transcodingTips": {
-    "message": "Transcodage, veuillez le vérifier plus tard",
-    "description": "UA"
-  },
-  "fileUnsupportPreviewdTips": {
-    "message": "Le fichier ne prend pas en charge l’aperçu en ligne",
-    "description": "UA"
-  },
-  "downloadForViewTips": {
-    "message": "S’il vous plaît télécharger et voir",
-    "description": "UA"
-  },
-  "relateKnowledgePoints": {
-    "message": "S’associer à des points de connaissance",
-    "description": "UA"
-  },
-  "knowledgeGraph": {
-    "message": "Graphe de connaissances",
-    "description": "UA"
-  },
-  "numOfKnowledgePoints": {
-    "message": "{n} points de connaissance",
-    "description": "UA"
-  },
   "template": {
     "message": "Projet",
-    "description": "UA"
-  },
-  "slotTemplateIntoContent": {
-    "message": "Insérez un modèle dans votre contenu",
-    "description": "UA"
-  },
-  "exportPdf": {
-    "message": "Exporter le PDF",
-    "description": "UA"
-  },
-  "exportPdfTips1": {
-    "message": "Veuillez sélectionner le contenu du catalogue que vous souhaitez exporter",
-    "description": "UA"
-  },
-  "exportPdfTips2": {
-    "message": "Soyez patient car le temps d’exportation peut être long.",
-    "description": "UA"
-  },
-  "exportPdfTips3": {
-    "message": "Si votre navigateur bloque les fenêtres contextuelles, veuillez le configurer pour qu’il autorise toujours les fenêtres contextuelles.",
-    "description": "UA"
-  },
-  "exportPdfTips4": {
-    "message": "Exportation de PDF...",
-    "description": "UA"
-  },
-  "cancelExport": {
-    "message": "Annuler l’exportation",
-    "description": "UA"
-  },
-  "exportPdfWarning": {
-    "message": "Veuillez sélectionner un nom de section ou un nom de page",
-    "description": "UA"
-  },
-  "clickToView": {
-    "message": "Cliquez pour afficher",
-    "description": "UA"
-  },
-  "courseDeclarationTips": {
-    "message": "Remarque : Pour la fonction [Gestion semestrielle], l’entrée a été migrée vers le module [Déclaration de cours] sur la page de liste des cours.",
-    "description": "UA"
-  },
-  "eachPageWordsTip2": {
-    "message": "Le contenu de chaque page ne peut pas dépasser 100 000 caractères (environ 50 000 caractères chinois). Si le contenu est collé à partir d’un éditeur tiers, le style occupera également un certain nombre de caractères.",
     "description": "UA"
   },
   "pleaseSelectFile": {
@@ -4647,8 +4115,88 @@
     "message": "Exportation de fichiers, veuillez ne pas quitter la page actuelle !",
     "description": "UA"
   },
-  "miniExport": {
-    "message": "Exportation en arrière-plan",
+  "uploadVMResource": {
+    "message": "Télécharger des simulations",
+    "description": "UA"
+  },
+  "VMResource": {
+    "message": "Simulations",
+    "description": "UA"
+  },
+  "VMResourcePreviewSet": {
+    "message": "Paramètres d'aperçu",
+    "description": "UA"
+  },
+  "selecVMREsource": {
+    "message": "Sélectionnez une simulation",
+    "description": "UA"
+  },
+  "enterVMResourceKeywordSearch1": {
+    "message": "Entrez des mots-clés pour rechercher une simulation",
+    "description": "UA"
+  },
+  "VMResourceWithoutEntranceTips": {
+    "message": "L'entrée d'aperçu n'a pas été définie pour cette ressource, veuillez sélectionner une entrée d'aperçu !",
+    "description": "UA"
+  },
+  "VMResourcePreviewSetting": {
+    "message": "Paramètres d'aperçu",
+    "description": "UA"
+  },
+  "VMResourceEntrancePlaceholder": {
+    "message": "Veuillez sélectionner une entrée d'aperçu",
+    "description": "UA"
+  },
+  "rarPreview": {
+    "message": "Actuellement, seuls les aperçus de version rar4 sont pris en charge, ou d'autres erreurs se produisent, s'il vous plaît rafraîchir réessayer ou télécharger pour voir",
+    "description": "UA"
+  },
+  "back": {
+    "message": "Précédent",
+    "description": "UA"
+  },
+  "currentPosition": {
+    "message": "Position actuelle:",
+    "description": "UA"
+  },
+  "selectEntrance": {
+    "message": "Sélectionnez",
+    "description": "UA"
+  },
+  "VMResourceUploadSuccessdialogs": {
+    "message": "La simulation a été téléchargée avec succès, veuillez définir l'entrée d'aperçu !",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips": {
+    "message": "L'entrée d'aperçu a été définie avec succès, veuillez réinsérer la simulation",
+    "description": "UA"
+  },
+  "VMResourceEntranceSelectSuccessTips1": {
+    "message": "L'entrée d'aperçu a été définie avec succès",
+    "description": "UA"
+  },
+  "VMResourceHoverTips": {
+    "message": "Insérer des simulations dans votre contenu",
+    "description": "UA"
+  },
+  "scormAddTipOne": {
+    "message": "Un seul composant SCORM peut être ajouté",
+    "description": "UA"
+  },
+  "score": {
+    "message": "Scores: ",
+    "description": "UA"
+  },
+  "status": {
+    "message": "État:",
+    "description": "UA"
+  },
+  "backToManageCenter": {
+    "message": "Retour au Centre de gestion",
+    "description": "UA"
+  },
+  "scormErrorTip": {
+    "message": "Scorm ne prend en charge que les versions 1.2 et 2004",
     "description": "UA"
   }
 }

@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Esta conta foi cancelada. Confirmar restauração?",
+    "message": "A senha só pode suportar letras (diferencia maiúsculas de minúsculas), números e caracteres especiais (caracteres especiais são o método de entrada em inglês!@#$%^&*()-_+={}[]:; «,./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3861,6 +3861,398 @@
   },
   "systemAdmin.forever": {
     "message": "Válido para sempre",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.concurrencyNum": {
+    "message": "Número de transações simultâneas",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "Data de Expiração do Serviço",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "Data de Expiração do Arquivo",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "Total de Contas",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "Contas Ativas",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "Armazenamento em Nuvem",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "Sala de Reunião em Nuvem",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "Inquilino",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "Total de Contas Ativas",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "Tela Inteligente",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "Início",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "Fim",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "Usado",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "Quota Total",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "Expirado",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "Total",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "Configurações de Recursos",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "Digite '{msg}' para confirmar a operação",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "Digite a senha do administrador para confirmar a operação acima",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "Confirmação da operação",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "Esta operação vai afetar todas as instituições no Sistema. Por favor, Confirme e Continue.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "Alterações de recursos",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "Confirmar",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Fechar",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Cancelar",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Digite a senha correta",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Gestão de eventos",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Comunicado de imprensa",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Notícias",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Anúncio",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "Publicar",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Nome da notícia",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Conteúdo noticioso",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Insira um nome para a notícia",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Os anúncios serão exibidos no portal da escola e na UC Academy, as notícias só serão exibidas no portal da escola",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Carregar uma pré-visualização",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Recomenda-se o uso de uma proporção de 16:9 para imagens; Formatos de imagem: png, jpg, gif, jpeg, bmp; O tamanho de cada imagem não pode ser maior que 2 MB",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Carregue a imagem novamente depois de carregá-la para atualizar a imagem",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "O tamanho da imagem não pode ser maior que {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "Por favor, carregue uma imagem",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Personalização",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Para páginas da Web personalizadas, selecione este modelo",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Gestão de eventos",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Novos Eventos",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Insira uma pesquisa de título de atividade",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "O título do evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Hora de início do evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "A hora de fim do evento",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Conteúdo do evento",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Link de recrutamento de voluntários",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Regressar ao centro de administração",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "A hora de início da atividade não pode ser maior do que a hora de término do evento",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Configurações multilíngues",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Configurações multilíngues de nome de site",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Por favor, insira {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "O valor do idioma padrão não pode estar vazio",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "Pedido de Adesão",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "Nome da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "Nome da Instituição em Inglês",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "País/Região",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "Pessoa de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "Telefone de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "E-mail",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "Hora do Pedido",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "Ver Detalhes",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "Pesquisar por nome da instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "Detalhes do Pedido de Adesão",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< Voltar",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "Logo da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "Pré-visualização do Logo",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "Nome da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "Nome da Instituição em Inglês",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Ano de Fundação",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Endereço da Universidade",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Pessoa de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Site da Universidade",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Número de Telefone",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "Endereço de E-mail",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "Introdução à Universidade/Faculdade",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "Nome da Biblioteca de Recursos",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "Pessoa que compartilha",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "Pessoa que copia",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  · Pasta de arquivos atualmente visível",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "Organização pertencente",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "Tipo",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "Tamanho",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "Hora de criação",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "Pasta",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "Pacote compactado",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "Outros",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "Recurso virtual",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "Link",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "Após a exclusão, não pode ser recuperado, deseja excluir?",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "Método de ordenação：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "Registro de operações",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "Insira o nome do criador ou o nome do arquivo para filtrar",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "Base de recursos",
     "description": "2.0 admin.js"
   }
 }

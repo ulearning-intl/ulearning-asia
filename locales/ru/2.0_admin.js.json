@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Данная учетная запись была аннулирована, Подтвердите восстановление?",
+    "message": "Пароль может поддерживать только буквы (с учетом регистра), цифры и специальные символы (специальные символы - это английский метод ввода!@#$%^&*()-_+={}[]:; ',./<>?|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3865,6 +3865,394 @@
   },
   "systemAdmin.concurrencyNum": {
     "message": "Количество одновременных транзакций",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "Срок Действия Услуги",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "Срок Действия Архива",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "Всего Учетных Записей",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "Активные Учетные Записи",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "Облачное Хранилище",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "Облачная Переговорная",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "Арендатор",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "Всего Активных Учетных Записей",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "Умный Экран",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "Начало",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "Конец",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "Использовано",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "Общая Квота",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "Истек",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "Общее Количество",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "функциональные настройки",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "Введите '{msg}' для подтверждения операции",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "Ввести пароль администратора для подтверждения операции",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "Подтверждение операции",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "Эта операция повлияет на все организации в системе, пожалуйста, подтвердите и продолжайте.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "Изменения свойств",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "Подтвердить",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Закрывать",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Отменить",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Пожалуйста, введите правильный пароль",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Организация мероприятий",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Пресс-релиз",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Новости",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Объявление",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "опубликовать",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Название новости",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Новостной контент",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Введите название новости",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Объявления будут отображаться на школьном портале и в UC Academy, новости будут отображаться только на школьном портале",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Загрузить предварительный просмотр",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Рекомендуется использовать пропорции 16:9 для изображений; форматы изображений: png, jpg, gif, jpeg, BMP; Максимальный размер одного изображения не должен превышать 2 МБ",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Загрузите изображение еще раз после его загрузки, чтобы обновить изображение",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "Размер изображения не может быть больше {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "загружайте Изображение",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Настройка",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Для пользовательских веб-страниц, пожалуйста, выберите этот шаблон",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Организация мероприятий",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Новые события",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Введите поиск по названию мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "Название мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Время начала мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "Время окончания мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Содержание мероприятия",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Ссылка на набор волонтеров",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Возврат в Центр администрирования",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "Время начала действия не может быть больше времени окончания события",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Многоязычные настройки",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Многоязычные настройки названия сайта",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Пожалуйста, введите {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Значение языка по умолчанию не может быть пустым",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "Заявка на членство",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "Название учреждения",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "Название учреждения на английском",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "Страна/Регион",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "Контактное лицо",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "Контактный телефон",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "Электронная почта",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "Время подачи заявки",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "Подробности",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "Поиск по названию учреждения",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "Подробности заявки на членство",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< Назад",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "Логотип учреждения",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "Предварительный просмотр логотипа",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "Название учреждения",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "Название учреждения на английском",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Год основания",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Адрес университета",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Контактное лицо",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Веб-сайт университета",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Номер телефона",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "Адрес электронной почты",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "Знакомство с университетом/факультетом",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "Название библиотеки ресурсов",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "Человек, который делится",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "Человек, который копирует",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·Текущая папка файлов",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "Принадлежащая организация",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "Тип",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "Размер",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "Время создания",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "Папка",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "Архив",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "Другие",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "Виртуальный ресурс",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "Ссылка",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "После удаления, восстановить невозможно, хотите удалить?",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "Способ сортировки：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "Журнал операций",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "Введите имя создателя или имя файла для фильтрации",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "Библиотека ресурсов",
     "description": "2.0 admin.js"
   }
 }

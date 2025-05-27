@@ -3640,7 +3640,7 @@
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips21": {
-    "message": "Akun telah dibatalkan, apakah Anda yakin untuk memulihkannya?",
+    "message": "Kata sandi hanya dapat mendukung huruf (peka huruf besar/kecil), angka, dan karakter khusus (karakter khusus adalah metode input bahasa Inggris!@#$%^&*()-_+={}[]:; ',./?<>|）",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.cancelled": {
@@ -3865,6 +3865,346 @@
   },
   "systemAdmin.concurrencyNum": {
     "message": "Kesesuaian",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "Tanggal Kedaluwarsa Layanan",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "Tanggal Kedaluwarsa Arsip",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "Total Akun",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "Akun Aktif",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "Penyimpanan Awan",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "Ruang Rapat Awan",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "Penyewa",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "Total Akun Aktif",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "Layar Pintar",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "Mulai",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "Akhir",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "Digunakan",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "Kuota Total",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "Kedaluwarsa",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "Total",
+    "description": "2.0 admin.js"
+  },
+  "txgl": {
+    "message": "Konfigurasi fitur",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTip": {
+    "message": "Masukkan {msg} untuk mengonfirmasi operas",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "Masukkan kata sandi administrator untuk mengonfirmasi operasi di atas",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "Konfirmasi operasi",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "Operasi ini akan mempengaruhi semua organisasi dalam sistem, harap konfirmasi sebelum melanjutkan.",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "Perubahan fitur",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "Konfirmasi",
+    "description": "2.0 admin.js"
+  },
+  "common.closeBtn": {
+    "message": "Tutup",
+    "description": "2.0 admin.js"
+  },
+  "common.cancelBtn": {
+    "message": "Membatalkan",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "Silahkan masukkan kata sandi yang dikonfirmasi",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "Manajemen acara",
+    "description": "2.0 admin.js"
+  },
+  "newsNotice": {
+    "message": "Berita dan pengumuman",
+    "description": "2.0 admin.js"
+  },
+  "news": {
+    "message": "Berita",
+    "description": "2.0 admin.js"
+  },
+  "notice": {
+    "message": "Pengumuman",
+    "description": "2.0 admin.js"
+  },
+  "publish": {
+    "message": "Rilis",
+    "description": "2.0 admin.js"
+  },
+  "newsName": {
+    "message": "Nama berita",
+    "description": "2.0 admin.js"
+  },
+  "newsContent": {
+    "message": "Konten berita",
+    "description": "2.0 admin.js"
+  },
+  "inputNewsName": {
+    "message": "Masukkan nama untuk berita",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip1": {
+    "message": "*Pengumuman akan ditampilkan di portal sekolah dan UC Academy, berita hanya akan ditampilkan di portal sekolah",
+    "description": "2.0 admin.js"
+  },
+  "newsNoticeTip2": {
+    "message": "Mengunggah pratinjau",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip1": {
+    "message": "Proporsi gambar yang disarankan menggunakan 16:9; Format gambar: png, jpg, git, jpeg, bmp; Ukuran setiap gambar tidak lebih dari 2M",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip2": {
+    "message": "Unggah gambar lagi setelah mengunggahnya untuk memperbarui gambar",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip3": {
+    "message": "Ukuran gambar tidak boleh lebih besar dari {size}",
+    "description": "2.0 admin.js"
+  },
+  "uploadTip4": {
+    "message": "Silahkan unggah gambar",
+    "description": "2.0 admin.js"
+  },
+  "customTemplate": {
+    "message": "Kustomisasi",
+    "description": "2.0 admin.js"
+  },
+  "customTemplateTip": {
+    "message": "Untuk halaman web khusus, silakan pilih template ini",
+    "description": "2.0 admin.js"
+  },
+  "event.eventManagement": {
+    "message": "Manajemen acara",
+    "description": "2.0 admin.js"
+  },
+  "event.addEvent": {
+    "message": "Acara Baru",
+    "description": "2.0 admin.js"
+  },
+  "event.searchByEventTitle": {
+    "message": "Masukkan pencarian judul aktivitas",
+    "description": "2.0 admin.js"
+  },
+  "event.eventTitle": {
+    "message": "Judul acara",
+    "description": "2.0 admin.js"
+  },
+  "event.eventStartDateTime": {
+    "message": "Waktu mulai acara",
+    "description": "2.0 admin.js"
+  },
+  "event.eventEndDateTime": {
+    "message": "Waktu akhir acara",
+    "description": "2.0 admin.js"
+  },
+  "event.eventContent": {
+    "message": "Konten acara",
+    "description": "2.0 admin.js"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Tautan perekrutan sukarelawan",
+    "description": "2.0 admin.js"
+  },
+  "backToManagementCenter": {
+    "message": "Kembali ke pusat admin",
+    "description": "2.0 admin.js"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "Waktu mulai aktivitas tidak boleh lebih besar dari waktu akhir acara",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Pengaturan Multi Bahasa",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Pengaturan Multi Bahasa Nama Situs", 
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Silakan masukkan {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Nilai bahasa default tidak boleh kosong",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "Aplikasi Keanggotaan",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "Nama Institusi",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "Nama Institusi dalam Bahasa Inggris",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "Negara/Wilayah",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "Kontak Orang",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "Telepon Kontak",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "Email",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "Waktu Aplikasi",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "Lihat Detail",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "Cari berdasarkan nama institusi",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "Detail Aplikasi Keanggotaan",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< Kembali",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "Logo Institusi",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "Pratinjau Logo",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "Nama Institusi",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "Nama Institusi dalam Bahasa Inggris",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Tahun Pendirian",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Alamat Universitas",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Kontak Orang",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Situs Web Universitas",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Nomor Telepon",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "Alamat Email",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "Pengenalan Universitas/Fakultas",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "Nama sumber daya",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "Orang yang membagikan",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "Orang yang menyalin",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·Folder file yang sedang dilihat",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "Organisasi yang dimiliki",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "Tipe",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "Ukuran",
     "description": "2.0 admin.js"
   }
 }
