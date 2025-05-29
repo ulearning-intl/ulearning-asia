@@ -255,6 +255,26 @@
     "message": "Salvo com sucesso",
     "description": "新版管理后台 zh.json"
   },
+  "organization.organizationText": {
+    "message": "uma Suborganização",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.proxyOrganization": {
+    "message": "uma agência",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step10": {
+    "message": "Configurações das informações básicas {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step11": {
+    "message": "Configurar recursos disponíveis para o {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step12": {
+    "message": "Criar um Superadministrador para este {user}",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
   "login.title": {
     "message": "Entrar",
     "description": "新版管理后台 zh.json"
@@ -1769,6 +1789,10 @@
   },
   "users.accountTable6": {
     "message": "operação",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable7": {
+    "message": "Modificar senha em lote",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction1": {
@@ -4975,6 +4999,14 @@
     "message": "Gestão de eventos",
     "description": "新版管理后台 zh.json"
   },
+  "routers.memberRegistration": {
+    "message": "Informações de Registo do Membro",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "Base de recursos",
+    "description": "新版管理后台 zh.json"
+  },
   "common.allStatus": {
     "message": "Todos os estados",
     "description": "新版管理后台 zh.json"
@@ -5143,6 +5175,26 @@
     "message": "Compilação de caracteres",
     "description": "新版管理后台 zh.json"
   },
+  "notice.step1": {
+    "message": "Passo 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "Opções de internacionalização",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "Passo 2",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "Opções Gerais",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "O título e o conteúdo do idioma padrão da instituição não podem estar vazios",
+    "description": "新版管理后台 zh.json"
+  },
   "organization.addProxyOrganization": {
     "message": "Adicionar uma agência",
     "description": "新版管理后台 zh.json"
@@ -5182,5 +5234,245 @@
   "organization.resourceTip2": {
     "message": "Se uma cota for definida, os recursos usados pela organização atual não poderão exceder a cota máxima\nSe nenhuma cota for definida, a organização atual compartilha a cota de recursos disponíveis para o nível superior",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "Digite o nome da escola para pesquisar",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "Nome da Escola",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "Nome da Escola em Inglês",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "País/Região",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "Pessoa de Contato",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "Telefone de Contato",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "Email",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "Data de Inscrição",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLang": {
+    "message": "Configurações de Idioma do Nome da Organização",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLangError": {
+    "message": "Nome da organização no idioma padrão é obrigatório",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "Detalhes da Informação de Aplicação de Membro",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "Voltar",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "Logo da Instituição",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "Nome da Instituição",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "Nome da Instituição em Inglês",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "País/Região",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Ano de Fundação",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Endereço da Universidade",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "Pessoa Jurídica",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Site da Universidade",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Pessoa de Contato",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Número de Telefone",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "E-mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "Breve introdução da universidade/faculdade",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "Todos os tipos",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "Comprimido",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "Outro",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "Recurso virtual",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "Link",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "Nome do recurso",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "Criador",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "Tipo",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "Tamanho",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "Hora de criação",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "Digite o nome do criador ou o nome do recurso para filtrar a pesquisa",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "Estatísticas de recursos",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "Número de recursos",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "Número de pessoas que baixaram recursos",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "Número de visualizações de recursos",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "Ordenar por :",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "Por favor, selecione o modo de classificação",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "Log de operações",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "Hora da operação",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "Usuário",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "Pessoa de Cópia",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·Arquivo Atualmente Visualizado",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "Configurações do sistema",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "Alteração em massa da senha",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "Dias de expiração da senha",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "Defina o número de dias antes que o usuário seja solicitado a alterar a senha",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "Defina se o usuário pode ignorar a alteração da senha quando solicitado a fazê-lo",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "Senha padrão após a redefinição",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "Alteração bem-sucedida de {successNum} contas ; falha na alteração de {failNum} contas",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "Esta operação excluirá permanentemente este arquivo, deseja continuar ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "A senha pode ser ignorada",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "Digite o número de dias de expiração da senha",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "Digite a senha padrão após a redefinição",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "A senha deve ter pelo menos 8 caracteres",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "Alteração bem-sucedida",
+    "description": "新版管理后台 zh.json"
   }
 }

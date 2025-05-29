@@ -1918,5 +1918,693 @@
   "setSort": {
     "message": "Menyiapkan klasifikasi",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "Ruang pribadi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "Pelatihan Model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "Manajemen asisten AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "Manajemen basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "Pengelolaan aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "Tautan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "Buat template perintah untuk memberikan petunjuk cepat kepada badan cerdas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "Membangun basis pengetahuan pengajaran untuk menyediakan sumber keahlian bagi tubuh cerdas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "Asisten AI saya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "Membuat dan mengatur aplikasi AI berbasis model besar.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "Mendukung format jpg, jpeg, png, gif, ukuran tidak lebih dari 2M. Rekomendasi ukuran: 400 * 400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "Pelatihan Model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "Sistem ini menyediakan alat pelatihan model di bidang vertikal, di mana pelatihan model dapat dilakukan menggunakan kumpulan data yang ada, dan model yang dihasilkan oleh pelatihan mendukung aplikasi setelah mengekspor.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "Model Dasar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "Jenis pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "Jenis pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "Lihat Log",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "Hapus tugas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "Unduh Model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "Sedang menunggu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "Dalam pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "Gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "Telah selesai",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "Telah dibatalkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "Membuat Tugas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "Membuat tugas pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "Nama Tugas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "kumpulan data",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "Mengunggah Data",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "Unduh Contoh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "Konfigurasi parameter pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "Masukkan Panjang Maksimal (Max Length):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "Jumlah Pelatihan Batch (Batch Size):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "Periode Perjalanan Data (Epoch):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "Langkah-langkah akumulasi gradien (Gradient Accumulation Steps):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "Tingkat Pembelajaran (Learming Rate):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "Rasio Pemanasan Belajar (Warm-Up Ratio):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "Lihat rincian tugas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "Log tugas pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "Mulai pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "Pelatihan SFT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "Pengatur LoRA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "Kata kunci",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "Tidak ada tugas pelatihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "Masukkan nama tugas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "Nama tugas harus 1-{n} karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "Silakan upload dataset",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "File data tidak dapat melebihi {n}M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "Jumlah maksimal {n} set data yang diunggah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "Kau yakin membatalkan misinya?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "Pembatalan berhasil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "Pembatalan gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "Apakah Anda yakin menghapus tugas?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "Gagal menghapus",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "Berhasil disimpan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "Gagal menyimpan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "Unggahan gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "Ada file yang diunggah, silakan kirimkan nanti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "Model dasar tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "Tidak ada log",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "Kompresi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "File model lebih besar dan alamat download akan dikirim ke kotak surat Anda melalui email.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "Email",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "Masukkan alamat Email",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "Silakan masukkan alamat email yang benar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "No. verifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "Silahkan masukkan no. verifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "Tugas download telah dikirimkan, silakan periksa email nanti.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "Saya sudah tahu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "Versi saat ini hanya untuk demo! Setelah dibuka lembaga dapat dilihat oleh semua pengguna, lembaga resmi tidak dibuka.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "Pelajaran Rekaman",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "Jumlah kursus siaran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "Masukkan nama pelajaran untuk pencarian",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "Tidak ada kursus siaran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "Total waktu (menit)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "Silakan masukkan jumlah yang tersedia setiap hari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "Jumlah total",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "Jumlah kali sehari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "Lembaga telah menggunakan total waktu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "Jumlah total organisasi yang digunakan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "Data tidak boleh kurang dari 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "Tidak kurang dari 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "Impor Excel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "Impor secara batch",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "Unduh template Excel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "Unggah dokumen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "Mengimpor, jangan tutup jendela pop-up atau halaman ...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "Impor berhasil, perintah diimpor!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "Ada masalah berikut dengan file, silakan periksa modifikasi dan unggah ulang:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "Ubah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "Nama sumber",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "Nama sumber daya tidak boleh kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "Nama sumber daya tidak boleh lebih dari 200 kata",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "Silahkan masukkan nama sumber",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "Semua tubuh cerdas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "Kecerdasan Internal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "Kecerdasan eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "Menambahkan Smart Body Eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "Mengubah Smart External",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "Nama badan cerdas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "Silakan masukkan nama objek cerdas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "Profil tubuh cerdas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "Silakan masukkan profil Smart Body",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "Silakan masukkan tautan eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "Perilis",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "Silakan masukkan informasi penerbit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "Cara melompat",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "Halaman saat ini",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "Halaman Baru",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "Nama tidak boleh kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "Nama tidak boleh melebihi 200 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "Profil aplikasi tidak boleh lebih dari 2000 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "Link tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "Link tidak boleh lebih dari 200 karakter.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "Format tautan tidak benar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "Penerbit tidak boleh lebih dari 200 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "Langkah melompat tidak bisa kosong.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "Paling atas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "Batalkan sticky post",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "Berhasil diubah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "Berhasil ditambah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "Asisten AI:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "Pembuat: ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "Klasifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "Anda telah memilih {num} kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "Pengelolaan klasifikasi seluruh entitas cerdas yang dibuat oleh lembaga.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "Tambah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "Tambah kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "Nama kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "Ubah Klasifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "Tambahkan kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "Masukkan nama kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "Klasifikasi milik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "Kategori tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "Kategori tidak boleh lebih dari 200 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "Klasifikasi tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "Klasifikasi tidak boleh lebih dari 200 karakter.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "Kategori dalam kategori akan dihapus secara sinkron, apakah Anda yakin akan dihapus?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "Asisten AI di bawah kategori akan dihapus dari asosiasi dengan kategori saat ini, apakah Anda yakin menghapusnya?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "Manajemen klasifikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "Mengelola kategorisasi template tema PPT.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "Templat tema PPT di bawah kategori akan dihapus dari asosiasi dengan kategori saat ini, apakah Anda yakin akan dihapus?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "Pengaturan Kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "Templat Tema PPT:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "Kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "Anda telah memilih {num} kategori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "Berhasil diubah!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "Pengaturan warna tema",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "Warna aksen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "Mengelola aplikasi internal dan eksternal organisasi saat ini.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "Semua Aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "Aplikasi internal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "Aplikasi eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "Menambahkan aplikasi eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "Mengubah aplikasi eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "Nama Aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "Silakan masukkan nama aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "Nama aplikasi tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "Nama aplikasi tidak boleh lebih dari 200 karakter.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "Pengantar Aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "Silakan masukkan profil aplikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "Profil aplikasi tidak boleh lebih dari 2000 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "Silakan masukkan link aplikasi eksternal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "Halaman depan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "Sampul aplikasi tidak bisa kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "Sampul aplikasi tidak dapat mendukung format jpg, jpeg, png kosong, ukuran tidak lebih dari 50M. Ukuran yang direkomendasikan: 640px * 360px (16:9)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "Cara melompat",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "Langkah melompat tidak bisa kosong.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "Ukuran gambar lebih dari 50m",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "Berhasil dirilis",
+    "description": "aiAssistantManagezh.json"
   }
 }

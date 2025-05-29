@@ -4070,5 +4070,189 @@
   "event.startTImenotGreaterThanEndTime": {
     "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
     "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "إعدادات متعددة اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "إعدادات اسم الموقع متعدد اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "الرجاء إدخال {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "لا يمكن أن تكون قيمة اللغة الافتراضية فارغة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "طلب العضوية",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "اسم المؤسسة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "اسم المؤسسة باللغة الإنجليزية",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "البلد/المنطقة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "جهة الاتصال",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "هاتف الاتصال",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "البريد الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "وقت التقديم",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "عرض التفاصيل",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "البحث عن طريق اسم المؤسسة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "تفاصيل طلب العضوية",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< رجوع",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "شعار المؤسسة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "معاينة الشعار",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "اسم المؤسسة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "اسم المؤسسة باللغة الإنجليزية",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "سنة التأسيس",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "عنوان الجامعة",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "جهة الاتصال",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "موقع الجامعة الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "رقم الهاتف",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "عنوان البريد الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "تعريف الجامعة/الكلية",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "اسم المصدر",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "شخص الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "شخص النسخ",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·مجلد الملفات الحالية",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "المنظمة التابعة لها",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "النوع",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "الحجم",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "وقت الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "مجلد",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "مجلد مضغوط",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "أخرى",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "مصدر افتراضي",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "رابط",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "بعد الحذف، لا يمكن استعادة الملف، هل تريد الحذف؟",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "طريقة الترتيب：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "سجل العمليات",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "يرجى إدخال اسم الشخص الذي أنشأه أو اسم الملف لتصفية",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "قاعدة بيانات الموارد",
+    "description": "2.0 admin.js"
   }
 }

@@ -4894,5 +4894,289 @@
   "classroom.jumpNotSupported": {
     "message": "该链接暂不支持跳转，请复制后在浏览器中打开",
     "description": "小应用"
+  },
+  "restartActivity": {
+    "message": "再次开启",
+    "description": "小应用"
+  },
+  "score.tips": {
+    "message": "选学生/小组做课堂展示，其他同学为他们打分",
+    "description": "小应用"
+  },
+  "score.pleaseAddStu": {
+    "message": "请添加学生",
+    "description": "小应用"
+  },
+  "score.pleaseAddGroup": {
+    "message": "请添加小组",
+    "description": "小应用"
+  },
+  "score.pleaseAddObject": {
+    "message": "请添加评价对象",
+    "description": "小应用"
+  },
+  "score.member": {
+    "message": "成员",
+    "description": "小应用"
+  },
+  "score.pleaseMarkTips": {
+    "message": "请打分，满分100分",
+    "description": "小应用"
+  },
+  "score.maxTips": {
+    "message": "分数不能超过100分",
+    "description": "小应用"
+  },
+  "score.confirmDeleteObj": {
+    "message": "确定删除当前评价对象？",
+    "description": "小应用"
+  },
+  "score.teacherWeightTip": {
+    "message": "请输入0～100的整数",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip": {
+    "message": "满分不能为空",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip1": {
+    "message": "请输入有效的分值",
+    "description": "小应用"
+  },
+  "attendance.screenTips": {
+    "message": "“二维码签到”需开启投屏，在大屏幕上展示签到二维码。",
+    "description": "小应用"
+  },
+  "attendance.locationTips": {
+    "message": "“位置签到”需开启定位。由于4G网络基站和网络稳定情况的影响，位置数据会有一定的误差。",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips1": {
+    "message": "请允许优学院使用定位服务，允许后重试",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips2": {
+    "message": "请在手机系统的设置中开启定位服务，并允许优学院使用定位服务",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips4": {
+    "message": "相册权限未打开",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips5": {
+    "message": "请打开手机权限",
+    "description": "小应用"
+  },
+  "announcement.title": {
+    "message": "公告",
+    "description": "小应用"
+  },
+  "upload.maxFileCount2": {
+    "message": "最多上传{count}个附件",
+    "description": "小应用"
+  },
+  "upload.maxSizeTips": {
+    "message": "文件不能超过{size}",
+    "description": "小应用"
+  },
+  "upload.typeTips": {
+    "message": "不支持该类型文件",
+    "description": "小应用"
+  },
+  "upload.revertTips": {
+    "message": "文件编码格式无法解析，请尝试转码成mp4后再上传。",
+    "description": "小应用"
+  },
+  "answer.contentPlaceholder": {
+    "message": "请输入抢答内容，非必填",
+    "description": "小应用"
+  },
+  "answer.deleteConfirm": {
+    "message": "确定删除本条课堂抢答？",
+    "description": "小应用"
+  },
+  "answer.endAnswer": {
+    "message": "结束抢答",
+    "description": "小应用"
+  },
+  "class.moveOut": {
+    "message": "移出",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips34": {
+    "message": "分，迟到/早退/病假/事假扣",
+    "description": "小应用"
+  },
+  "resource.studentData": {
+    "message": "学生统计",
+    "description": "小应用"
+  },
+  "resource.delete": {
+    "message": "删除资源",
+    "description": "小应用"
+  },
+  "resource.writtenWordsCount": {
+    "message": "已写{count}个字",
+    "description": "小应用"
+  },
+  "resource.saveRecordTips1": {
+    "message": "学习进度每隔2分钟系统自动保存一次，学习完成请手动保存后再退出页面，以防学习数据丢失。",
+    "description": "小应用"
+  },
+  "resource.saveRecordTips2": {
+    "message": "保存进度",
+    "description": "小应用"
+  },
+  "discuss.beginning": {
+    "message": "正在开始讨论",
+    "description": "小应用"
+  },
+  "course.shareSummary": {
+    "message": "请加入班课{courseName}，任课教师{teacherName}",
+    "description": "小应用"
+  },
+  "group.member2": {
+    "message": "小组成员",
+    "description": "小应用"
+  },
+  "user.select": {
+    "message": "请选择",
+    "description": "小应用"
+  },
+  "user.studentId1": {
+    "message": "非在校学生或教师可不填",
+    "description": "小应用"
+  },
+  "user.getSuccess": {
+    "message": "获取成功",
+    "description": "小应用"
+  },
+  "user.ULearningAccount": {
+    "message": "优学院账号",
+    "description": "小应用"
+  },
+  "user.registerFail": {
+    "message": "注册失败",
+    "description": "小应用"
+  },
+  "user.websitHomepage": {
+    "message": "网站首页",
+    "description": "小应用"
+  },
+  "user.contactCustomerService": {
+    "message": "联系客服",
+    "description": "小应用"
+  },
+  "user.pwd11": {
+    "message": "账号处于待激活状态",
+    "description": "小应用"
+  },
+  "user.pwd12": {
+    "message": "账号被停用",
+    "description": "小应用"
+  },
+  "answerQue.correct": {
+    "message": "正确",
+    "description": "小应用"
+  },
+  "answerQue.error": {
+    "message": "错误",
+    "description": "小应用"
+  },
+  "answerQue.doNotSet": {
+    "message": "暂不设置",
+    "description": "小应用"
+  },
+  "answerQue.trueAnswer": {
+    "message": "正确答案",
+    "description": "小应用"
+  },
+  "classroom.copyTip": {
+    "message": "复制后活动为未开始状态，您可以在上课后开始这些活动，点名/选人活动不能被复制",
+    "description": "小应用"
+  },
+  "classroom.confirmEndPick": {
+    "message": "确定结束选人吗？",
+    "description": "小应用"
+  },
+  "classroom.discussDetails": {
+    "message": "进讨论详情",
+    "description": "小应用"
+  },
+  "loginCode.screenCode": {
+    "message": "扫码投屏",
+    "description": "小应用"
+  },
+  "loginCode.msg9": {
+    "message": "站点不一致",
+    "description": "小应用"
+  },
+  "loginCode.msg10": {
+    "message": "当前软件为{appDomain}站点，大屏端为{currentDomain}站点，请修改站点后再次扫码登录",
+    "description": "小应用"
+  },
+  "loginCode.msg11": {
+    "message": "二维码过期",
+    "description": "小应用"
+  },
+  "loginCode.msg12": {
+    "message": "请重新扫描二维码登录",
+    "description": "小应用"
+  },
+  "loginCode.msg13": {
+    "message": "操作超时",
+    "description": "小应用"
+  },
+  "loginCode.msg14": {
+    "message": "扫码成功，正在登录",
+    "description": "小应用"
+  },
+  "loginCode.tip10": {
+    "message": "大屏端登录后即可进行联动授课",
+    "description": "小应用"
+  },
+  "photograph.msg1": {
+    "message": "按照教师要求上传照片/视频，最多上传20张图片或视频",
+    "description": "小应用"
+  },
+  "photograph.msg2": {
+    "message": "其他同学提交的图片/视频",
+    "description": "小应用"
+  },
+  "photograph.msg3": {
+    "message": "我提交的图片/视频",
+    "description": "小应用"
+  },
+  "photograph.msg8": {
+    "message": "确定删除？",
+    "description": "小应用"
+  },
+  "photograph.msg9": {
+    "message": "学生上传图片/视频进行课堂展示",
+    "description": "小应用"
+  },
+  "photograph.msg10": {
+    "message": "学生提交后可以查看其他学生的图片/视频",
+    "description": "小应用"
+  },
+  "custom.scanCode": {
+    "message": "扫码",
+    "description": "小应用"
+  },
+  "stuList.notJoin": {
+    "message": "未参加",
+    "description": "小应用"
+  },
+  "stuList.msg1": {
+    "message": "链接已复制，请在浏览器中打开",
+    "description": "小应用"
+  },
+  "welink.msg1": {
+    "message": "welink轻应用暂不支持位置签到，请使用优学院APP完成位置签到",
+    "description": "小应用"
+  },
+  "welink.msg2": {
+    "message": "手机浏览器暂不支持位置签到，请使用优学院APP完成位置签到",
+    "description": "小应用"
   }
 }

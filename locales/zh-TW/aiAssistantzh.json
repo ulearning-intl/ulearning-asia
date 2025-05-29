@@ -1750,5 +1750,201 @@
   "emptyCreatedAgent": {
     "message": "還沒有創建的智慧體",
     "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "綜合排序",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Popular Collections",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Popular access",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Copy the code",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "An example of a call response",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Prerequisites",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "You have obtained an API key, which is used for API call authentication.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Get the model name for model calling",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "應用廣場",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "新頁面訪問智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "前往智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "查看全部",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "拖拽可自定義排序",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "最新",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "最熱",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "暫未開放，敬請期待",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "返回",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "已收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "輸入題目名稱蒐索",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "全部班級",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "為解决各場景PPT生成問題，根據主題快速自動生成，提高PPT製作效率。",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "支持上传文档，基于文档内容进行问答、出题、生成词云等。",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "上传手写公式图片，支持将图片中的公式提取并转化成LateX代码。",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "点击登录",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "AI能力中心",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "智慧應用",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "打開AI能力中心",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "收藏的智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "更多",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "課堂智能助手",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Ai对话助手",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "對話助手",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "啟動中. ..",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "我是對話助手",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "我正在聽",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "暫停",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "停止",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "關閉字幕",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "討論結束",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "問答助手",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "讓AI扮演指定角色和學生深度對話",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "歷史討論記錄",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "截圖蒐索",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "截圖答題",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "課堂智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "獲取照片哦",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "離開房間",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "開啟智慧體語音",
+    "description": "aiAssistantzh.json"
   }
 }

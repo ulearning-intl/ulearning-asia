@@ -1918,5 +1918,693 @@
   "setSort": {
     "message": "設置分類",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "個人空間",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "模型訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "AI助手管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "知識庫管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "應用管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "鏈接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "創建指令模板，為智能體提供快捷提示詞。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "建設教學知識庫，為智能體提供專業知識來源。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "我的AI助手",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "創建和編排基於大模型的AI智慧體應用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "支持jpg、jpeg、png、gif格式，大小不超過2M。建議尺寸：400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "模型訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "系統提供垂直領域模型訓練工具，在這裡可以使用已有的數据集進行模型訓練，訓練生成的模型支持匯出後部署應用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "基礎模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "訓練類型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "取消任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "查看紀錄",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "删除任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "下載模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "等待中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "訓練中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "已完成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "已取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "創建任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "創建訓練任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "任務名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "數据集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "上傳數據",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "下載示例",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "訓練參數配寘",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "輸入文字的最大長度（Max Length）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "批次訓練數量（Batch Size）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "數據遍歷輪次（Epoch）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "梯度累計步數（Gradient Accumulation Steps）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "學習率（Learming Rate）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "學習率預熱比例（Warm-Up Ratio）：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "查看任務詳情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "訓練任務日誌",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "開始訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "SFT全參訓練",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "LoRA微調",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "關鍵字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "暫無訓練任務",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "請輸入任務名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "任務名稱應為1-{n}字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "請上傳數据集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "數据集檔案不能超過 {n}M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "最多上傳{n}個數據集數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "確定取消任務嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "取消成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "取消失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "確定删除任務嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "刪除失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "保存成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "保存失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "上傳失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "有檔正在上傳，請稍後提交",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "基礎模型不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "暫無日誌",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "壓縮中",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "模型檔案較大，下載地址將通過郵件發送到你的郵箱。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "郵箱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "請輸入郵箱地址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "請輸入正確的郵箱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "驗證碼",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "請輸入驗證碼",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "已提交下載任務，稍後請查收郵件。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "我知道了",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "當前版本僅供演示！ 開通後機构所有用戶可見，正式機构不開通。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "錄播課程",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "錄播課程數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "輸入錄播課程名稱蒐索",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "暫無錄播課程",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "總時長(分鐘)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "請輸入每天可用次數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "總次數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "每天次數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "機构已使用總時長",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "機构已使用總次數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "數據不得小於0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "不能小於0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "Excel匯入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "批量導入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "下載Excel範本",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "上傳文件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "正在匯入，請勿關閉彈窗或頁面...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "導入成功，已導入{num}個指令！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "檔案存在以下問題，請檢查修改後重新上傳：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "修改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "資源名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "資源名稱不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "資源名稱不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "請輸入資源名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "全部智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "內部智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "外部智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "添加外部智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "修改外部智慧體",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "智慧體名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "請輸入智慧體名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "智慧體簡介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "請輸入智慧體簡介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "請輸入外部智慧體連結",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "發佈人",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "請輸入發佈人資訊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "跳轉管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "當前頁",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "新頁面",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "名稱不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "名稱不能超過200字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "應用簡介不能超過2000字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "連結不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "連結不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "連結格式不正確",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "發佈人不能超過200字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "跳轉管道不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "置頂",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "取消置頂",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "修改成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "添加成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "AI助手：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "創建人：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "分類管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "您已選擇{num}個分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "對機构創建的全部智慧體進行分類管理。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "添加",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "添加分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "分類名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "修改分類管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "添加分類管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "請輸入分類管道名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "所屬分類管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "分類不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "分類不可超過200字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "分類管道不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "分類管道不可超過200字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "分類管道下的分類會同步删除，確定删除嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "分類下的AI助手將取消與當前分類關聯，確定删除嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "分類管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "對PPT主題範本的分類進行管理。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "分類下的PPT主題範本將取消與當前分類關聯，確定删除嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "分類設定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "PPT主題模版：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "您已選擇{num}個分類",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "修改成功!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "主題色設定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "主題色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "管理當前機构的內部和外部應用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "全部應用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "內部應用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "外部應用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "添加外部應用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "修改外部應用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "應用名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "請輸入應用名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "應用名稱不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "應用名稱不能超過200字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "應用簡介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "请输入应用简介",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "應用簡介不能超過2000字元",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "請輸入外部應用連結",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "封面",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "應用封面不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "支持jpg、jpeg、png格式，大小不超過50M。建議尺寸：640px*360px（16:9）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "跳轉管道",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "跳轉管道不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "圖片大小超過50M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "發布成功",
+    "description": "aiAssistantManagezh.json"
   }
 }
