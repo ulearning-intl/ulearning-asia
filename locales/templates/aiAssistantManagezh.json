@@ -1828,7 +1828,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "publishToAgentSquare": {
-    "message": "发布到智能广场",
+    "message": "发布到智能体广场",
     "description": "aiAssistantManagezh.json"
   },
   "published": {
@@ -2605,6 +2605,202 @@
   },
   "publishSuccess": {
     "message": "发布成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "指令集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "工作流编排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "请求成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "支持jpg、jpeg、png、gif格式，大小不超过2M。建议比例：1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name}每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "请输入{name}每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{name}每日量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "上传附件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "上传图片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "上传图片，需多模态大模型理解图片内容。<br /> 开启上传图片功能，需同步开启多模态大模型。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "多模态大模型支持理解图片内容，包括设计稿等无文字图片，支持基于图片内容进行问答。<br /> 勾选多模态大模型，将同步开启上传图片功能。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "多模态大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "开通后机构所有管理员、教师用户均可使用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "工作流是一种通过可视化流程编排，实现自动化任务处理的工具。工作流可以发布成独立应用，也可以作为智能体插件，在对话中通过语言指令调用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "创建工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "修改工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "编排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "访问",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "图标",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "描述",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "请输入工作流名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "名称应为1-200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "访问设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "简体中文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "繁体中文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "访问地址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "未启用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "已启用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "复制",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "功能设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "运行时隐藏工作流详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "访问权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "允许登录后访问，不限范围",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "允许登录后访问，仅限本校用户",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "允许公开访问，不需要登录",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "删除工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "删除工作流，将同步删除所有访问记录，确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "暂无访问权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "服务未开启，暂无访问权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "选择图标",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "上传图标",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "草稿",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "界面语言",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "图片大小不能超过2M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "请上传图标",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "请输入工作流描述",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "裁剪图标",
     "description": "aiAssistantManagezh.json"
   }
 }
