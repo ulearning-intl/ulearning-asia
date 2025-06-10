@@ -1946,5 +1946,177 @@
   "startVoiceChat": {
     "message": "เปิด Smart Body Voice",
     "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "ดูการสนทนาในการบันทึก",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "เริ่มการสนทนาใหม่",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "การจัดการสมาร์ท",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "เริ่มการทำงานของสมอง",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "คุณปิดเสียง",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "บันทึกการสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "ไม่มีการบันทึกการสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "สรุปความคิดเห็นของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "มิติของความคิด",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "ข้อดี",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "เพิ่มขึ้นอีกนิด",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "ความยาวของการสนทนา:{num}นาที",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "จำนวนครั้ง ที่พูดถึง:{num}ครั้ง ที่สอง",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "จำนวนคำ:{num}字",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "บันทึกการสนทนา",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "ความคิดเห็น",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "ผู้ช่วยอภิปราย",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "โปรแกรม aiName",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "อัจฉริยะ",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "มีรูปภาพ ที่อัปโหลดอยู่โปรดลองใหม่อีกครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "สามารถอัปโหลดได้ครั้งละ {n}ภาพเท่านั้น",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "ขนาดภาพไม่เกิน {n} เมตร",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "ไม่รองรับไฟล์ประเภทนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "ไม่รองรับรูปภาพสำหรับรุ่นใหญ่นี้",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "ทั้งหมด {num} แท่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "ต้นฉบับของเนื้อหา",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "กำลังทำการวิเคราะห์อยู่ค่ะรอสักครู่นะคะ",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "กำลังเลือกคุณ...",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "แสดงตัวอย่างหน้าต่างของทรัพยากร",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "เข้าใช้ ที่อยู่ URL นี้",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "ทีมหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "แนะนำหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "ไฟล์ไม่รองรับการแสดงตัวอย่างออนไลน์",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "การแปลงรหัสโปรดตรวจสอบในภายหลัง",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "ใบ้",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "เปิดเสียง",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "เล่น",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "เต็มหน้าจอ",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "ปิด",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "ไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "บริการยังไม่เปิด และยังไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "กรุณาเข้าสู่ระบบเพื่อรับชม",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantzh.json"
   }
 }
