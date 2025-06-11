@@ -2606,5 +2606,201 @@
   "publishSuccess": {
     "message": "تم النشر بنجاح!",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "معارف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "مجموعة التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "تخطيط سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "تمت الشكوى بنجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "دعم JPG ، JPEG ، بابوا نيو غينيا ، GIF الشكل ، حجم لا يتجاوز 2M .",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "المبلغ اليومي { name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "من فضلك أدخل { name} الكمية اليومية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{ name} الكمية اليومية يجب أن تكون رقمية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "رفع المرفقات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "تحميل صورة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "تحميل الصور ، تحتاج إلى نموذج كبير متعدد الوسائط لفهم محتوى الصورة . < / br > فتح تحميل الصور ، تحتاج إلى فتح نموذج كبير متعدد الوسائط بشكل متزامن .",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "الوسائط المتعددة نموذج كبير يدعم فهم محتوى الصورة ، بما في ذلك تصميم النص وغيرها من الصور ، ودعم محتوى الصورة على أساس الأسئلة والأجوبة . < / br > التحقق من نموذج كبير متعدد الوسائط ، سيتم تشغيل متزامن تحميل الصور .",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "نموذج متعدد الوسائط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "جميع المديرين والمعلمين يمكن استخدامها بعد الافتتاح .",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "سير العمل هو نوع من أداة لتحقيق التشغيل الآلي تجهيز المهام من خلال تصور عملية التخطيط . سير العمل يمكن أن تنشر في تطبيقات مستقلة ، أو وكيل المكونات الإضافية ، ودعا من خلال تعليمات اللغة في الحوار .",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "إنشاء سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "تعديل سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "ترتيب",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "رمز",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "الوصف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "الرجاء إدخال اسم سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "يجب أن يكون الاسم 1-200 كلمة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "إعدادات الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "‏‏الإنجليزية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "الصينية التقليدية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "عنوان الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "‏‏معطل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "تم التمكين",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "نسخ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "إعدادات الوظيفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "إخفاء تفاصيل سير العمل في وقت التشغيل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "إذن الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "يسمح بالوصول بعد تسجيل الدخول ، غير محدود النطاق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "السماح بالوصول بعد تسجيل الدخول ، فقط للمستخدمين",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "السماح بالوصول العام ، لا تحتاج إلى تسجيل الدخول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "حذف سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "حذف سير العمل ، سيتم حذف جميع سجلات الوصول بشكل متزامن ، هل أنت متأكد من أنك تريد حذف ؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "إذن الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "الخدمة ليست مفتوحة ، لا حقوق الوصول",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "اختيار الرموز",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "تحميل الايقونات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "مسودة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "واجهة اللغة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "حجم الصورة لا يمكن أن يتجاوز 2M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "يرجى تحميل الرمز",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "من فضلك أدخل وصف سير العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "لقطة أيقونة",
+    "description": "aiAssistantManagezh.json"
   }
 }
