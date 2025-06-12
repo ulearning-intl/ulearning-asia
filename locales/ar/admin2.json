@@ -255,6 +255,26 @@
     "message": "تم الحفظ بنجاح",
     "description": "新版管理后台 zh.json"
   },
+  "organization.organizationText": {
+    "message": "الآلية الفرعية",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.proxyOrganization": {
+    "message": "وكالة",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step10": {
+    "message": "مجموعة معلومات أساسية عن { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step11": {
+    "message": "تكوين الموارد المتاحة { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step12": {
+    "message": "إنشاء سوبر مدير لهذا { user }",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
   "login.title": {
     "message": "تسجيل الدخول",
     "description": "新版管理后台 zh.json"
@@ -1769,6 +1789,10 @@
   },
   "users.accountTable6": {
     "message": "عمل",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable7": {
+    "message": "دفعة تعديل كلمة السر",
     "description": "新版管理后台 zh.json"
   },
   "users.accountTableAction1": {
@@ -4991,6 +5015,14 @@
     "message": "إدارة الفعاليات",
     "description": "新版管理后台 zh.json"
   },
+  "routers.memberRegistration": {
+    "message": "معلومات تسجيل الأعضاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "قاعدة بيانات الموارد",
+    "description": "新版管理后台 zh.json"
+  },
   "common.allStatus": {
     "message": "كافة الحالات",
     "description": "新版管理后台 zh.json"
@@ -5159,6 +5191,26 @@
     "message": "تجميع الأحرف",
     "description": "新版管理后台 zh.json"
   },
+  "notice.step1": {
+    "message": "خطوة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "خيارات التدويل",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "الخطوة الثانية", 
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "خيارات عامة",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "عنوان ومحتوى اللغة الافتراضية لا يمكن أن تكون فارغة",
+    "description": "新版管理后台 zh.json"
+  },
   "organization.addProxyOrganization": {
     "message": "إضافة وكالة",
     "description": "新版管理后台 zh.json"
@@ -5198,5 +5250,245 @@
   "organization.resourceTip2": {
     "message": "إذا تم تعيين حصة نسبية، فلا يمكن أن تتجاوز الموارد المستخدمة من قبل المؤسسة الحالية الحد الأقصى للحصة النسبية\nإذا لم يتم تعيين حصة نسبية، تشارك المؤسسة الحالية الحصة النسبية للموارد المتاحة للمستوى الأعلى",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "memberRegistration.pla": {
+    "message": "أدخل اسم المدرسة للبحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "اسم المدرسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "اسم المدرسة باللغة الإنجليزية",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "البلد/المنطقة",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "الشخص المسؤول",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "رقم الهاتف",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "البريد الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "وقت التسجيل",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLang": {
+    "message": "إعدادات لغة اسم المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.websiteNameLangError": {
+    "message": "اسم المؤسسة باللغة الافتراضية مطلوب",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "تفاصيل معلومات طلب العضوية",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "رجوع",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "شعار المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "اسم المؤسسة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "اسم المؤسسة باللغة الإنجليزية",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "البلد/المنطقة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "سنة التأسيس",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "عنوان الجامعة",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "الشخص القانوني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "موقع الجامعة الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "الشخص المسؤول",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "رقم الهاتف",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "البريد الإلكتروني",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "نبذة مختصرة عن الجامعة/الكلية",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "مجلد",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "مضغوط",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "أخرى",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "مصدر افتراضي",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "رابط",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "اسم المصدر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "المُنشئ",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "النوع",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "الحجم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "وقت الإنشاء",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "أدخل اسم المُنشئ أو اسم المصدر لتصفية البحث",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "إحصاءات المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "عدد المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "عدد الأشخاص الذين قاموا بتحميل المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "عدد مشاهدات المصادر",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "طريقة الترتيب：",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "من فضلك اختر طريقة التعليم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "سجل العمليات",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "وقت العملية",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "المُستخدم",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "ناسخ",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·ملف العرض الحالي",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "إعدادات النظام",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "تغيير كلمة المرور بالجملة",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "أيام انتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "إعداد عدد الأيام التي يجب أن تمر قبل أن يُطلب من المستخدم تغيير كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "إعداد ما إذا كان يمكن للمستخدم تجاوز تغيير كلمة المرور عندما يُطلب منه ذلك",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "كلمة المرور الافتراضية بعد إعادة تعيينها",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "تم تغيير {successNum} حساب بنجاح؛ فشل تغيير {failNum} حساب",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "هذه العملية ستقوم بحذف هذا الملف بشكل دائم، هل تريد الاستمرار؟",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "هل يمكن تجاوز انتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "أدخل عدد الأيام لانتهاء كلمة المرور",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "أدخل كلمة المرور الافتراضية بعد إعادة تعيينها",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "كلمة المرور يجب أن لا تقل عن 8 أحرف",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "تم التغيير بنجاح",
+    "description": "新版管理后台 zh.json"
   }
 }

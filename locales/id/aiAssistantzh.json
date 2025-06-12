@@ -1578,5 +1578,373 @@
   "deepseek": {
     "message": "DeepSeek-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "Belajar...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "Arif",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "Hapus seluruh bagian, apakah Anda yakin ingin menghapusnya?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "Apakah Anda yakin akan menghapus poin utama dan badan utama poin utama?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "Nama judul tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "Judul tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "Entri katalog tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "Konten tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "Silahkan masukkan judul",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "Silakan masukkan subtitle",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "Selesai",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "Pra-tinjau",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "Unduh",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "Jangan ragu untuk menukar isi {name}, Anda mungkin ingin bertanya:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "Menghasilkan...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "Pratinjau PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "Dihasilkan",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT sedang dihasilkan...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "Judul bab tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "Judul halaman dalam tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "Judul poin poin tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "Konten poin-poin tidak boleh kosong",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT sedang dihasilkan...<br/><br/>Anda dapat menutup jendela pop-up dan melihat hasil build nanti dalam riwayat Anda.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "Ciptakan cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "Tidak perlu khawatir tentang mengajar courseware, dan generasi cerdas memecahkan kekhawatiran",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "Pemilihan templat",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "Template PPT dapat dipilih sesuka Anda, dan presentasi kreatif tidak sulit",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "Aplikasi pedagogis",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "Kelas courseware dikirim dengan satu klik, dan koneksi pengajaran lancar",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "Agen Square",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "Repositori model",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "Yang saya buat",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "Koleksi saya",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "Pusat Pengembang",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Masukkan kata kunci",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "Buka Buat Agen",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "Belum ada data",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "Agen saya",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "Penyetelan model",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "Deskripsi panggilan API",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "Belum ada favorit",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "Pergi ke Smart Twins Plaza",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "Agen yang belum dibuat",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Pengurutan",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Koleksi Populer",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Akses populer",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Salin kode",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Contoh respons panggilan",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Prasyarat",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Anda telah memperoleh kunci API, yang digunakan untuk autentikasi panggilan API.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Mendapatkan nama model untuk pemanggilan model",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "Lapangan Aplikasi",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "Akses halaman baru ke Smart Body",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "Perjalanan ke Smart Body",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "Lihat Semua",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "Seret dan drag dapat disesuaikan",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "Terbaru",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "Terpanas",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "Belum dibuka, silakan tunggu-tunggu.",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "Kembali",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "Sudah dikumpulkan",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "Koleksi",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "Masukkan nama topik untuk pencarian",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "Semua kelas",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "Untuk mengatasi masalah pembangunan PPT dalam berbagai skenario, secara otomatis dan cepat dihasilkan berdasarkan tema untuk meningkatkan efisiensi pembuatan PPT.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "Dukungan untuk mengunggah dokumen, bertanya dan jawab berdasarkan konten dokumen, mengajukan pertanyaan, menghasilkan awan kata, dll.",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "Mengunggah gambar rumus tulisan tangan yang mendukung mengekstrak rumus dari gambar dan mengubahnya menjadi kode LateX.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "Klik untuk masuk",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "Pusat Kompetensi AI",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "Aplikasi cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "Buka Pusat Kompetensi AI",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "Koleksi Kecerdasan",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "Lebih lanjut",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "Asisten Cerdas Kelas",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Asisten Percakapan AI",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "Pembantu Dialog",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "Memulai. ..",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "Aku asisten percakapan.",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "Aku mendengarkan.",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "Tunggu",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "Hentikan!",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "Tutup subtitle",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "Diskusi berakhir",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "Tanyakan Asisten",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "Membuat AI memainkan peran yang ditentukan dan dialog mendalam siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "Catatan diskusi sejarah",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "Pencarian screenshot",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "Jawaban screenshot",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "Kelas cerdas",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "Dapatkan foto.",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "Keluar dari kamar.",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "Aktifkan suara cerdas",
+    "description": "aiAssistantzh.json"
   }
 }

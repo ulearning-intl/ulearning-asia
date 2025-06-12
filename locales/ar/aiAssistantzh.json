@@ -1578,5 +1578,545 @@
   "deepseek": {
     "message": "ديب سيك-R1",
     "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "التعلم...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "المستفاده",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "احذف القسم بأكمله ، هل أنت متأكد من أنك تريد حذفه؟",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "هل أنت متأكد من أنك متأكد من حذف النقاط الرئيسية والنص الرئيسي للنقاط الرئيسية؟",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "لا يمكن أن يكون اسم العنوان فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "لا يمكن أن يكون العنوان فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "لا يمكن أن تكون إدخالات الكتالوج فارغة",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "لا يمكن أن يكون المحتوى فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": " يرجى إدخال العنوان ",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "الرجاء إدخال عنوان فرعي",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "‏‏النهاية",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "معاينة",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "تنزيل",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "لا تتردد في تبادل محتويات {name} ، قد ترغب في السؤال:",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "توليد...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "معاينة PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "انشاء",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "يتم إنشاء PPT ...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان الفصل فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان الصفحة الداخلية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "لا يمكن أن يكون عنوان النقطة النقطية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "لا يمكن أن يكون محتوى النقطة النقطية فارغا",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "يتم إنشاء PPT ...<br/><br/>يمكنك إغلاق النافذة المنبثقة وعرض نتائج الإنشاء لاحقا في سجلك.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "إنشاء ذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "لا داعي للقلق بشأن تدريس المناهج الدراسية ، والتوليد الذكي يحل المخاوف",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "اختيار القالب",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "يمكن اختيار قوالب PPT كما تريد ، والعرض الإبداعي ليس بالأمر الصعب",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "التطبيقات التربوية",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "يتم إرسال فصل المناهج الدراسية بنقرة واحدة ، ويكون اتصال التدريس سلسا",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "وكيل سكوير",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "مستودعات النماذج",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "تم إنشاؤها من قبلي",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "مجموعتي",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "مركز المطورين",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "أدخل كلمة رئيسية للبحث",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "انتقل إلى إنشاء وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "لم يتم العثور على بيانات",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "وكيلي",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "الضبط الدقيق للنموذج",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "وصف استدعاء واجهة برمجة التطبيقات",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "لا توجد مفضلات حتى الآن",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "اذهب إلى سمارت توينز بلازا",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "الوكلاء الذين لم يتم إنشاؤهم بعد",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "الفرز الشامل",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "المجموعات الشعبية",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "الوصول الشعبي",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "انسخ الرمز",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "مثال على استجابة للمكالمة",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "المتطلبات المسبقه",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "لقد حصلت على مفتاح واجهة برمجة التطبيقات، والذي يستخدم لمصادقة استدعاء واجهة برمجة التطبيقات.",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "الحصول على اسم النموذج لاستدعاء النموذج",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "تطبيق مربع",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "صفحة جديدة وصول وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "عرض جميع",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "سحب وإسقاط تخصيص نوع",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "أحدث",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "سخونة",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "لم تفتح بعد ، يرجى نتطلع إلى",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "رد : .",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "جمع",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "جمع",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "أدخل عنوان البحث",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "جميع الطبقات",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "من أجل حل مشكلة توليد جزء لكل تريليون في كل مشهد ، جزء لكل تريليون يمكن أن تتولد تلقائيا وفقا للموضوع ، وبالتالي تحسين كفاءة الإنتاج .",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "دعم تحميل الوثائق ، استنادا إلى محتوى الوثيقة الإجابة على الأسئلة ، أسئلة ، مثل توليد كلمة سحابة .",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "تحميل صيغة مكتوبة بخط اليد صور دعم صيغة استخراج الصور وتحويلها إلى اللاتكس رمز .",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "انقر على تسجيل الدخول",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "منظمة العفو الدولية مركز القدرة",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "تطبيق ذكي",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "منظمة العفو الدولية مركز القدرة",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "جمع وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "أكثر .",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "مساعد ذكي في الصف",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "اي حوار مساعد",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "مساعد المحادثة",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "بدء التشغيل . . . . ـ",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "أنا مساعد المحادثة",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "أنا أستمع",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "وقفة",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "توقف",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "إغلاق الترجمة",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "اختتام المناقشة",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "سؤال وجواب مساعد",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "دع منظمة العفو الدولية تلعب دور محدد في عمق الحوار مع الطلاب",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "مناقشة تاريخية",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "لقطة البحث",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "لقطة",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "الفصول الدراسية وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "الحصول على الصور",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "مغادرة الغرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "صوت العميل",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "عرض وقائع المناقشة",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "بدء حوار جديد",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "وكيل إدارة",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "بدء وكيل",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "كنت صامتا",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "سجل الحوار",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "سجل الحوار",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "ملخص آراء الطلاب",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "أبعاد التفكير",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "ميزة",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "كذلك رفع نقطة",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "مدة المناقشة : { num }",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "عدد المناقشات : { num }",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "عدد الكلمات : { num }",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "سجل الحوار",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "منظمة العفو الدولية",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "مناقشة مساعد",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "منظمة العفو الدولية تطبيق",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "اي سمارت",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "الصور التي يتم تحميلها ، يرجى المحاولة مرة أخرى في وقت لاحق",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "تحميل الصور فقط { n } في وقت واحد",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "حجم الصورة لا يمكن أن يتجاوز {n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "هذا النوع من الملفات غير مدعوم",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "هذا النموذج الكبير لا يدعم الصور",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "مجموع { num }",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "مصدر المحتوى",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "منظمة العفو الدولية في التحليل ، يرجى الانتظار",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "اختيار بعناية بالنسبة لك .",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "معاينة الموارد",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "انتقل إلى عنوان URL",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "فريق المقرر",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "مقدمة المقرر",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "الملف لا يدعم المعاينة عبر الإنترنت",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "تحويل الترميز ، يرجى التحقق من ذلك لاحقا",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "أخرس",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "إلغاء كتم الصوت",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "تشغيل",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "ملء الشاشة",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "إغلاق",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "إذن الوصول",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "الخدمة ليست مفتوحة ، لا حقوق الوصول",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "يرجى تسجيل الدخول بعد عرض",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "سير العمل",
+    "description": "aiAssistantzh.json"
   }
 }

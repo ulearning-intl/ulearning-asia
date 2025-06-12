@@ -1128,7 +1128,7 @@
     "description": "aiAssistantzh.json"
   },
   "recognitionLimitExceeded": {
-    "message": "图片识别次数已用尽，请联络客服获取帮助。",
+    "message": "公式识别次数已用尽，请联络客服获取帮助。",
     "description": "aiAssistantzh.json"
   },
   "clickToUpload": {
@@ -1712,7 +1712,7 @@
     "description": "aiAssistantzh.json"
   },
   "depCenter": {
-    "message": "开发者中心",
+    "message": "AI能力中心",
     "description": "aiAssistantzh.json"
   },
   "enterKeywordSearch": {
@@ -1749,6 +1749,374 @@
   },
   "emptyCreatedAgent": {
     "message": "还没有创建的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "综合排序",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "热门收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "人气访问",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "复制代码",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "调用响应示例",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "前提条件",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "您已获取到API Key， 用于API调用鉴权，",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "获取模型名称用于模型调用",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "应用广场",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "新页面访问智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "前往智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "查看全部",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "拖拽可自定义排序",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "最新",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "最热",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "暂未开放，敬请期待",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "返回",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "已收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "输入题目名称搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "全部班级",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "为解决各场景PPT生成问题，根据主题快速自动生成，提高PPT制作效率。",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "支持上传文档，基于文档内容进行问答、出题、生成词云等。",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "上传手写公式图片，支持将图片中的公式提取并转化成LateX代码。",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "点击登录",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "AI能力中心",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "智能应用",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "打开AI能力中心",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "收藏的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "更多",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "课堂智能助手",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Ai对话助手",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "对话助手",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "启动中...",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "我是对话助手",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "我正在听",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "暂停",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "停止",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "关闭字幕",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "讨论结束",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "问答助手",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "让AI扮演指定角色和学生深度对话",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "历史讨论记录",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "截图搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "截图答题",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "课堂智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "获取照片哦",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "离开房间",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "开启智能体语音",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "查看讨论实录",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "发起新对话",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "智能体管理",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "启动智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "你已静音",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "对话记录",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "暂无对话记录",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "学生的观点总结",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "思考的维度",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "优点",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "进一步提升点",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "讨论时长：{num}分钟",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "讨论次数：{num}次",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "字数：{num}字",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "对话实录",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "AI点评",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "讨论助手",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "AI 应用",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "AI智能",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "有图片正在上传，请稍后再试",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "一次仅可上传{n}张图片",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "图片大小不能超过{n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "不支持该类型文件",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "该大模型不支持图片",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "总共{num}条",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "内容源",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "AI正在分析中，请稍等",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "正在为您精心挑选…",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "资源预览弹窗",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "访问该网址",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "课程团队",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "课程简介",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "该文件不支持在线预览",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "转码中，请稍后查看",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "静音",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "取消静音",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "关闭",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "暂无访问权限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "服务未开启，暂无访问权限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "请登录后查看",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "工作流",
     "description": "aiAssistantzh.json"
   }
 }

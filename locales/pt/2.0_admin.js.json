@@ -4070,5 +4070,189 @@
   "event.startTImenotGreaterThanEndTime": {
     "message": "A hora de início da atividade não pode ser maior do que a hora de término do evento",
     "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Configurações multilíngues",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Configurações multilíngues de nome de site",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Por favor, insira {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "O valor do idioma padrão não pode estar vazio",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "Pedido de Adesão",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "Nome da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "Nome da Instituição em Inglês",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "País/Região",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "Pessoa de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "Telefone de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "E-mail",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "Hora do Pedido",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "Ver Detalhes",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "Pesquisar por nome da instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "Detalhes do Pedido de Adesão",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< Voltar",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "Logo da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "Pré-visualização do Logo",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "Nome da Instituição",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "Nome da Instituição em Inglês",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Ano de Fundação",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Endereço da Universidade",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Pessoa de Contato",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Site da Universidade",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Número de Telefone",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "Endereço de E-mail",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "Introdução à Universidade/Faculdade",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "Nome da Biblioteca de Recursos",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "Pessoa que compartilha",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "Pessoa que copia",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  · Pasta de arquivos atualmente visível",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "Organização pertencente",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "Tipo",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "Tamanho",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "Hora de criação",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "Pasta",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "Pacote compactado",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "Outros",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "Recurso virtual",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "Link",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "Após a exclusão, não pode ser recuperado, deseja excluir?",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "Método de ordenação：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "Registro de operações",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "Insira o nome do criador ou o nome do arquivo para filtrar",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "Base de recursos",
+    "description": "2.0 admin.js"
   }
 }

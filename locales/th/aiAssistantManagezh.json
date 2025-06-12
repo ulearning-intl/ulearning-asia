@@ -1670,5 +1670,1137 @@
   "other": {
     "message": "อื่นๆ",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "ตัวแทนสแควร์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "เพิ่มเทมเพลตแค็ตตาล็อก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "เพิ่มเทมเพลตหน้าภายใน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 ปริมาณรายวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "โปรดป้อนจํานวน DeepSeek-R1 รายวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "ปริมาณ DeepSeek-R1 รายวันต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "การสร้าง PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "โปรดป้อนมาร์จิ้นทั้งหมดที่สร้างขึ้นใน PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "มาร์จิ้นทั้งหมดที่สร้างขึ้นโดย PPT ต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "เวลา/วัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "ใส่คำสำคัญเพื่อค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "ค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "แชร์ไปยัง Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "สิทธิ์ Agent Square เต็มรูปแบบ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "สถานะการอนุญาตของ Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "สิทธิ์การอนุญาตของ Agent Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "การอนุญาตของ Smarttwin Square สามารถเปิดใช้งานได้โดยองค์กร และไม่สามารถเปิดใช้งานโดยผู้ใช้คนเดียวได้\nหลังจากเปิดใช้งาน ผู้ใช้สถาบันปัจจุบันสามารถแชร์ผู้ช่วย AI ที่สร้างขึ้นไปยัง Smart Twink Square เพื่อแสดงผลได้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "เนื้อหาทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "เพิ่มสไลซ์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "ชิ้น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "บันทึก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "กรุณาใส่เนื้อหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "ยังไม่มีส่วนของทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "บันทึกเนื้อหาของชิ้นก่อน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "ยืนยันที่จะลบ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "ใบ้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "เปิดเสียง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "เล่น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "หยุด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "เต็มหน้าจอ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "การแปลงรหัสโปรดตรวจสอบในภายหลัง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "ไปที่ URL",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "ไฟล์ไม่รองรับการแสดงตัวอย่างออนไลน์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "ทีมหลักสูตร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "แนะนำหลักสูตร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "การอัปโหลดยังไม่เสร็จสมบูรณ์ คุณต้องการยกเลิกการอัปโหลดหรือไม่?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "ยกเลิกการอัปโหลด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "อัปโหลดต่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "การอัปโหลดรายการ {count}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "เผยแพร่ไปยัง Smart Square",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "ประกาศแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "ไม่ได้เผยแพร่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "ตั้งค่าไม่สำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "การจัดการการจําแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "เพิ่มพี่น้อง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "เพิ่มเด็ก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "แก้ไขประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "ลบการแบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "ชื่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "กรุณาใส่ชื่อการแบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "ยกเลิก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "ตกลง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "ทั้งหมดเลย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "ไม่มีหมวดหมู่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "สถานะที่เผยแพร่ทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "คุณได้เลือกฐานความรู้ {num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "ใส่ชื่อเพื่อค้นหา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "แบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "แบ่งประเภทตามสังกัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "ไปที่ สร้างตัวแทน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "ตั้งค่าการจัดประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "พื้นที่ส่วนตัว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "แบบฝึกหัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "การจัดการผู้ช่วย AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "การจัดการฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "การจัดการแอปพลิเคชัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "ลิงค์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "สร้างเทมเพลตคำสั่งที่ให้คำใบ้ทางลัดสำหรับร่างกายอัจฉริยะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "สร้างฐานความรู้การสอนเพื่อเป็นแหล่งความรู้เฉพาะสำหรับร่างกายอัจฉริยะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "ผู้ช่วย AI ของฉัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "สร้างและจัดเรียงแอปพลิเคชัน AI Intelligent Body โดยใช้โมเดลขนาดใหญ่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "รองรับรูปแบบ jpg, jpeg, png, gif ขนาดไม่เกิน 2m ขนาดที่แนะนำ: 400 * 400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "แบบฝึกหัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "ระบบมีเครื่องมือการฝึกอบรมรูปแบบสนามแนวตั้งซึ่งสามารถฝึกแบบจำลองโดยใช้ชุดข้อมูลที่มีอยู่แล้วและรูปแบบที่สร้างขึ้นโดยการฝึกอบรมรองรับการใช้งานหลังการส่งออก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "รุ่นพื้นฐาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "ประเภทการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "ยกเลิกงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "ดูบันทึก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "ลบงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "ดาวน์โหลดรุ่น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "รออยู่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "ในการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "ล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "เสร็จสมบูรณ์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "ยกเลิกแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "สร้างงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "สร้างงานการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "ชื่องาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "ชุดข้อมูล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "อัพโหลดข้อมูล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "ดาวน์โหลดตัวอย่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "การกำหนดค่าพารามิเตอร์การฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "ความยาวสูงสุดของข้อความที่ป้อน (Max Length):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "จำนวนการฝึกแบทช์ (ขนาดแบทช์):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "ข้อมูลผ่านรอบ (ยุค):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "จำนวนขั้นตอนสะสมการไล่ระดับสี (ขั้นตอนการเร่งรัด):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "อัตราการเรียนรู้ (Learming Rate):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "อัตราการเรียนรู้อัตราส่วนอุ่นเครื่อง (Warm-Up Ratio):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "ดูรายละเอียดงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "บันทึกการฝึกอบรมงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "เริ่มต้นการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "SFT Full โสมการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "SFT Full โสมการฝึกอบรม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "คำสำคัญ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "ไม่มีภารกิจฝึกซ้อมชั่วคราว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "请输入任务名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "ชื่องานควรเป็นตัวอักษร 1-{n}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "กรุณาอัพโหลดชุดข้อมูล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "ชุดข้อมูลไฟล์ต้องไม่เกิน {n}M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "อัปโหลดได้สูงสุด {n} ชุดข้อมูล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "แน่ใจเหรอว่าจะยกเลิกภารกิจ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "ยกเลิกสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "การยกเลิกล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "แน่ใจเกี่ยวกับการลบงาน?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "การลบล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "บันทึกสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "การบันทึกล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "การอัปโหลดล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "มีไฟล์ที่กําลังอัปโหลดโปรดส่งในภายหลัง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "รุ่นพื้นฐานไม่สามารถว่างได้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "ไม่มีการบันทึกชั่วคราว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "ในการบีบอัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "ไฟล์รุ่นมีขนาดใหญ่และที่อยู่ที่ดาวน์โหลดจะถูกส่งทางไปรษณีย์ไปยังกล่องจดหมายของคุณ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "กล่องจดหมาย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "โปรดป้อนที่อยู่อีเมลของคุณ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "กรุณาใส่ที่อยู่อีเมลที่ถูกต้อง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "รหัสยืนยัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "กรุณาใส่รหัสยืนยัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "ส่งงานดาวน์โหลดแล้ว โปรดตรวจสอบอีเมลในภายหลัง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "ฉันเข้าใจแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "รุ่นปัจจุบันเป็นเพียงการสาธิต! หลังจากเปิดสถานประกอบการผู้ใช้ทุกคนสามารถมองเห็นได้และสถานประกอบการอย่างเป็นทางการไม่ได้เปิด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "หลักสูตรการบันทึกเสียง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "จำนวนบทเรียน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "ป้อนรายการค้นหาชื่อหลักสูตร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "ไม่มีหลักสูตรออกอากาศชั่วคราว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "ระยะเวลาทั้งหมด (นาที)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "กรุณากรอกจำนวนครั้งต่อวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "จำนวนครั้งทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "จำนวนครั้งต่อวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "หน่วยงานได้ใช้ระยะเวลาทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "สถานประกอบการใช้จำนวนครั้งทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "ข้อมูลต้องไม่น้อยกว่า 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "ต้องไม่น้อยกว่า 0",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "การนําเข้า Excel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "การนําเข้าจํานวนมาก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "ดาวน์โหลดเทมเพลต Excel",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "อัปโหลดไฟล์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "การนําเข้า โปรดอย่าปิดหน้าต่างหรือหน้าป๊อปอัป...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "นำเข้าสำเร็จ, นำเข้า {num} คำสั่ง!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "ไฟล์มีปัญหาดังต่อไปนี้โปรดตรวจสอบการอัพโหลดใหม่หลังจากแก้ไข:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "แก้ไข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "ชื่อทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "ชื่อทรัพยากรต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "COPY LINKNEXTPREVIOUS\nชื่อทรัพยากร ไม่เกิน 200 คำ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "กรุณาใส่ชื่อทรัพยากร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "ร่างกายสมาร์ททั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "ร่างกายอัจฉริยะภายใน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "ร่างกายสมาร์ทภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "เพิ่มสติปัญญาภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "ปรับเปลี่ยนร่างกายอัจฉริยะภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "ชื่อร่างกายอัจฉริยะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "กรุณาใส่ชื่อสมาร์ทบอดี้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "แนะนำสั้น ๆ ของร่างกายอัจฉริยะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "โปรดป้อนโปรไฟล์ Smart Body",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "โปรดป้อนลิงค์ภายนอกร่างกายสมาร์ท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "ผู้ประกาศ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "กรุณากรอกข้อมูลของผู้เผยแพร่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "วิธีกระโดด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "หน้าปัจจุบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "หน้าใหม่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "ชื่อห้ามเว้นว่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "ชื่อต้องไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "โปรไฟล์การสมัครต้องไม่เกิน 2,000 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "ลิงก์ต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "ลิงก์ต้องไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "รูปแบบการเชื่อมโยงไม่ถูกต้อง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "ผู้เผยแพร่ต้องไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "วิธีกระโดดต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "ด้านบน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "ยกเลิกทอพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "แก้ไขสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "เพิ่มสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "ผู้ช่วย AI:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "ผู้สร้าง:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "วิธีการจำแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "คุณได้เลือกหมวดหมู่{num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "การจัดการจำแนกประเภทของร่างกายอัจฉริยะทั้งหมดที่สร้างขึ้นโดยสถาบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "เพิ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "เพิ่มการแบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "การแบ่งประเภทรายชื่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "แก้ไขวิธีการจำแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "เพิ่มวิธีการจัดหมวดหมู่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "โปรดป้อนชื่อวิธีการจำแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "วิธีการจำแนกสังกัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "การจัดหมวดหมู่ต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "จำแนกได้ไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "วิธีการจำแนกต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "จำแนกประเภทได้ไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "การจำแนกประเภทภายใต้วิธีการจำแนกจะลบซิงโครนัสแน่นอนลบ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "ผู้ช่วย AI ภายใต้การจัดหมวดหมู่จะยกเลิกการเชื่อมโยงกับการจัดหมวดหมู่ในปัจจุบันตกลงที่จะลบ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "การจัดการการจําแนกประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "จัดการหมวดหมู่ของแม่แบบธีม PPT",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "เทมเพลตธีม PPT ภายใต้การจำแนกประเภทจะยกเลิกความสัมพันธ์กับการจำแนกประเภทปัจจุบันตกลงที่จะลบ?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "การตั้งค่าการจัดหมวดหมู่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "แม่แบบธีม PPT:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "แบ่งประเภท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "คุณได้เลือกหมวดหมู่{num}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "แก้ไขสำเร็จ！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "การตั้งค่าสีของธีม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "สีของธีม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "บริหารจัดการการใช้งานทั้งภายในและภายนอกหน่วยงานปัจจุบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "การใช้งานทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "แอปพลิเคชันภายใน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "การใช้งานภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "เพิ่มการใช้งานภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "ปรับเปลี่ยนการใช้งานภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "ชื่อสมัคร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "กรุณาใส่ชื่อสมัคร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "ชื่อแอปพลิเคชันต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "ชื่อสมัคร ไม่เกิน 200 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "แนะนำการใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "กรุณากรอกรายละเอียดการสมัคร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "โปรไฟล์การสมัครต้องไม่เกิน 2,000 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "โปรดป้อนลิงก์แอปพลิเคชันภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "หน้าปก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "ปกใบสมัครต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "รองรับรูปแบบ jpg, jpeg, png ขนาดไม่เกิน 50M ขนาดที่แนะนำ: 640px * 360px (16: 9)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "วิธีกระโดด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "วิธีกระโดดต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "ขนาดภาพ มากกว่า 50M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "ประกาศสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "ชุดคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "การร้องขอเสร็จเรียบร้อยแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "รองรับรูปแบบ jpg, jpeg, png, gif ขนาดไม่เกิน 2m ขนาดที่แนะนำ: 400 * 400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name}ปริมาณประจำวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "เชิญเข้ามา{name}ปริมาณประจำวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{name}ปริมาณต่อวันจะต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "อัปโหลดไฟล์แนบ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "อัปโหลดรูปภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "อัพโหลดรูปภาพต้องใช้แบบจำลองขนาดใหญ่เพื่อเข้าใจเนื้อหาของภาพ<br /> เปิดการทำงานของคุณสมบัติการอัปโหลดรูปภาพ ที่จะต้องทำการประสานกับรุ่นขนาดใหญ่หลายรุ่น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "แบบจำลองขนาดใหญ่สนับสนุนการทำความเข้าใจเนื้อหาของภาพรวมถึงรูปภาพ ที่ไม่มีข้อความ เช่น ร่างการออกแบบ ที่รองรับการตอบคำถามตามเนื้อหาในรูปภาพ<br />เลือกแบบจำลองขนาดใหญ่ ที่จะปรับเทียบกับการเปิดใช้งานคุณสมบัติการอัปโหลดภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "แบบจำลองขนาด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "เมื่อเปิดแล้วจะสามารถใช้สำหรับผู้ดูแลระบบ และผู้ใช้ครูทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "เวิร์กโฟลว์เป็นเครื่องมือในการทำงานอัตโนมัติผ่านกระบวนการสร้างภาพเวิร์กโฟสต์สามารถเผยแพร่เป็นแอปพลิเคชั่นอิสระ และสามารถใช้เป็นโปรแกรมเสริมอัจฉริยะได้ในการเรียกใช้คำสั่งภาษาในการสนทนา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "สร้างเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "ปรับปรุงเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "การจัดเรียง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "เข้าใช้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "ภาพไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "คำอธิบาย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "กรุณาใส่ชื่อเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "ชื่อควรจะเป็น 1-200 คำ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "ตั้งค่าการเข้าถึง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "จีนย่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "ภาษาจีนดั้งเดิม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "ที่อยู่ ที่เข้าใช้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "ยังไม่ได้ใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "ใช้งานแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "คัดลอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "ตั้งค่าการทำงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "รายละเอียดของเวิร์กโฟลว์ ที่ซ่อนอยู่ขณะทำงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "สิทธิ์การเข้าถึง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "อนุญาตให้เข้าถึงได้หลังจากล็อกอินขอบเขตไม่ จำกัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "อนุญาตให้เข้าใช้ได้หลังจากล็อกอินเท่านั้น ผู้ใช้โรงเรียนเท่านั้น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "อนุญาตให้เข้าถึงได้โดยไม่ต้องล็อกอิน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "&ลบเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "ลบเวิร์กโฟลว์ออกจากซิงค์เพื่อลบบันทึกการเข้าถึงทั้งหมดคุณแน่ใจ หรือไม่ว่า จะลบทิ้ง?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "ไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "บริการยังไม่เปิด และยังไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "เลือกรูปภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "โปรดอัปโหลดไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "แบบร่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "ภาษาส่วนติดต่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "ขนาดของภาพต้องไม่เกิน 2MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "โปรดอัปโหลดไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "กรุณาป้อนคำอธิบายของเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "ตัดภาพไอคอน",
+    "description": "aiAssistantManagezh.json"
   }
 }
