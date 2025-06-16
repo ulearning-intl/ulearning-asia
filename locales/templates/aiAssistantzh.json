@@ -1148,7 +1148,7 @@
     "description": "aiAssistantzh.json"
   },
   "videoDailyLimit": {
-    "message": "每天可分析视频个数为5个",
+    "message": "每天可分析视频个数为{num}个",
     "description": "aiAssistantzh.json"
   },
   "videoHistoryRecord": {
@@ -2577,6 +2577,22 @@
   },
   "learningDurationRankFirst": {
     "message": "课件学习时长 {time}，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "进度",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "小组作业",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "完成数",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "总数",
     "description": "aiAssistantzh.json"
   }
 }
