@@ -1148,7 +1148,7 @@
     "description": "aiAssistantzh.json"
   },
   "videoDailyLimit": {
-    "message": "จํานวนวิดีโอที่สามารถวิเคราะห์ได้ต่อวันคือ 5",
+    "message": "วิดีโอสามารถวิเคราะห์ได้วันละ {num} วิดีโอ",
     "description": "aiAssistantzh.json"
   },
   "videoHistoryRecord": {
@@ -2117,6 +2117,22 @@
   },
   "workflow": {
     "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "สมองกล ที่ผมสร้างขึ้นมา",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "อัจฉริยะ ที่ฉันสะสมไว้",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "เลือกประเภท",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "รี เซ็ต",
     "description": "aiAssistantzh.json"
   }
 }
