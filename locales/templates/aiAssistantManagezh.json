@@ -3028,11 +3028,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "confirmDeleteInstruction": {
-    "message": "确实删除 {title} 指令吗？",
+    "message": "确定删除 {title} 指令吗？",
     "description": "aiAssistantManagezh.json"
   },
   "confirmDeleteGroup": {
-    "message": "确实删除 {name} 分组吗？",
+    "message": "确定删除 {name} 分组吗？",
     "description": "aiAssistantManagezh.json"
   },
   "groupNameCannotBeEmpty": {
@@ -3053,6 +3053,26 @@
   },
   "maxFiftyGroups": {
     "message": "最多只能添加50个分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "可根据AI助手的特点设置技能，打造特色AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "对话方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "设置知识库，大模型可基于知识库回答用户问题，提高问答的精准度。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "设置快捷指令，可根据AI助手的特点，设置特色指令，打造AI助手特色。也可将常用的指令预设到AI助手中，方便用户快速调用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "表单验证失败",
     "description": "aiAssistantManagezh.json"
   }
 }
