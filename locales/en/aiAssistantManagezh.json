@@ -2606,5 +2606,201 @@
   "publishSuccess": {
     "message": "Published successfully!",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "Knowledge Bases",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "Instruction set",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "Workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "Workflow orchestration",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "Request successful",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "Supports jpg, jpeg, png and gif formats, with a size not exceeding 2M. Suggested ratio: 1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name} Daily dosage",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "Please enter the daily quantity of {name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "The daily quantity of {name} must be a number",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "Upload Attachment",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "Upload image",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "When uploading pictures, a multimodal large model is required to understand the content of the pictures.<br />To enable the image upload function, the multimodal large model needs to be enabled simultaneously.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "Multimodal large models support understanding the content of images, including design drafts and other text-free images, and support question-and-answer based on the content of the images. <br />Check the multi-modal large model, and the image upload function will be enabled simultaneously.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "Multimodal large model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "After activation, all administrators and teacher users of the institution can use it.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "After activation, all administrators and teacher users of the institution can use it.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "Create a workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "Modify the workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "Edit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "Visit",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "Icon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "Description",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "Please enter the name of the workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "The name should be 1 to 200 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "Access Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "Simplified Chinese",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "Traditional Chinese",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "Access address",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "Not enabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "Enabled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "Copy",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "Permissions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "Hide the workflow details at runtime",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "Access permission",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "Access is allowed after logging in, with no restrictions on the scope",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "Access after login is allowed. Only users of this school are permitted",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "Public access is allowed without the need for login",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "Delete the workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "Deleting the workflow will synchronously delete all access records. Are you sure to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "No access permission for the moment",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "The service is not enabled and there is no access permission for the time being",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "Select icon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "Please upload the icon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "Draft",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "Interface language",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "Image size cannot exceed 2MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "Please upload the icon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "Please enter the name of the workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "Crop the icon",
+    "description": "aiAssistantManagezh.json"
   }
 }

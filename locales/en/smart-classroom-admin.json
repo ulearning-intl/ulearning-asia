@@ -7990,5 +7990,125 @@
   "appraisalTask.deleteScalePrompt": {
     "message": "The rubric already has records. Deleting the rubric will clear the previous records. Are you sure to delete?",
     "description": "smart-classroom-admin 项目"
+  },
+  "route.dynamicClassSchedule": {
+    "message": "Class Schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.loanApproval": {
+    "message": "Reservation approval",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.borrowSetting": {
+    "message": "Reservation setting",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.scheduleSearch": {
+    "message": "Schedule inquiry",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.thirdPartyPlatform": {
+    "message": "Third party platform integration",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomTour": {
+    "message": "Classroom patrol",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.failureLog": {
+    "message": "Fault record",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.equipmentManage1": {
+    "message": "Equipment maintenance",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.equipmentRunLog": {
+    "message": "Equipment operation log",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.dashboardSetting": {
+    "message": "Data dashboard settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.controlBtnSetting": {
+    "message": "Control button settings",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.websiteTitle1": {
+    "message": "Intelligent control platform",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.noPermission": {
+    "message": "No access permission",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.noPermissionTip": {
+    "message": "The current role does not have access permission. If you have any questions, please contact the school management personnel",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.respectUser": {
+    "message": "Dear user",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.timePassword": {
+    "message": "Your login password has not been updated for more than {num} days!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.timePassWordTip": {
+    "message": "To protect the security of your account, please change your login password to prevent malicious cracking and enhance the security of your account.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.talkNext": {
+    "message": "Next time",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.continueUseOldPassword": {
+    "message": "Continue using the current password",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.loginExpirationPrompt": {
+    "message": "Login has expired, please log in again",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.expirationTime": {
+    "message": "{num} seconds, it will automatically return to the login page or manually click",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.schoolAdminText": {
+    "message": "school",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.collegeAdminText": {
+    "message": "Institute",
+    "description": "smart-classroom-admin 项目"
+  },
+  "accountManage.level": {
+    "message": "level",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.effectiveClassroom": {
+    "message": "Normal classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.ineffectiveClassroom": {
+    "message": "Empty Classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.classRoomTip": {
+    "message": "Classes with fewer than 5 people identified in the classroom video will be deemed invalid by the system and will not be included in AI analysis and statistical data. Support manual modification to a valid classroom or direct deletion",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.picture": {
+    "message": "Image",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.setValid": {
+    "message": "Set as normal classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.setInvalid": {
+    "message": "Set as empty classroom",
+    "description": "smart-classroom-admin 项目"
   }
 }
