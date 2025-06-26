@@ -588,7 +588,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "answerMaxLength": {
-    "message": "答案不能超过2000字符",
+    "message": "答案不能超过5000字符",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterStandardQuestion": {
@@ -2656,7 +2656,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "multimodalLargeModelIntro": {
-    "message": "多模态大模型支持理解图片内容，包括设计稿等无文字图片，支持基于图片内容进行问答。<br /> 勾选多模态大模型，将同步开启上传图片功能。",
+    "message": "多模态大模型支持理解图片内容，包括设计稿等无文字图片，支持基于图片内容进行问答。<br/>勾选多模态大模型，将同步开启上传图片功能。",
     "description": "aiAssistantManagezh.json"
   },
   "multimodalLargeModel": {
@@ -2801,6 +2801,258 @@
   },
   "cropIcon": {
     "message": "裁剪图标",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "指令模板管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "AI编排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "批量导入指令模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "批量导入问答对模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "创建时间：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "存为草稿",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "保存并发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "模型配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "多模态大模型支持理解图片内容，包括设计稿等无文字图片，支持基于图片内容进行问答。<br/>勾选多模态大模型，将同步开启上传图片功能。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "多模态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "首选大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "设为首选",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "调试与预览",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "保存并预览",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "角色设定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "欢迎语与开场白不能为空，填写完成后，才可预览。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "可能想问不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "更新",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "知识",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "技能",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "请选择状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "统计",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "个",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "全部状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "开场白不能超过1000字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "欢迎语与开场白",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "请输入欢迎语与开场白，帮助引导快速了解AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "输入使用者可能想问的问题，引导用户开启对话",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "添加问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "数字人形象",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "请选择数字人形象",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "请填写角色设定提示词，用于设置AI的人设和回复逻辑，以及对回复做出一系列约束。\n  示例：\n  # 角色\n  你是一位教中国近现代史纲要课程的大学教师。\n  # 任务\n  为我做中国近现代史纲要课程备课做支持。\n  # 要求\n  与中国近现代史纲要课程无关的内容直接回复：我不支持回答与中国近现代史纲要课程无关的内容。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "删除操作已取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "最多只能添加5个问题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "批量删除",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "添加知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "共 {count} 个知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "展示知识来源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "开启展示知识来源：在进行问答时，将展示知识库中的资源名称到知识来源中。<br/>不开启展示知识来源：在进行问答时，将直接展示知识库名称，不展示知识库中的资源名称到知识来源中。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "立即添加知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "您已选择",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "个知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "确定删除 {name} 知识库吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "快捷指令展示设置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "按长指令展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "按短指令展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "添加指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "选择指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "全部（{count}）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "指令详情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "个指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "我创建的",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "共享模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "请输入指令标题",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "请输入指令说明",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "确实删除 {title} 指令吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "确实删除 {name} 分组吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "分组名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "请至少选择一个指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "指令添加成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "添加指令失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "最多只能添加50个分组",
     "description": "aiAssistantManagezh.json"
   }
 }
