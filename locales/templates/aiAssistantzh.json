@@ -444,7 +444,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentMarkingHint": {
-    "message": "注：智能批改适用于教师评分的个人作业及含简答题的测验/考试，批改范围包括答案文本和附件中图片、文档(pdf/word/txt)。其他格式的附件暂不支持自动批阅。",
+    "message": "注：智能批改仅适用于教师评分的个人作业及含简答题的测验/考试，且AI评分仅限于文本内容，暂不支持对学生提交的附件、图片等非文本内容进行评分。",
     "description": "aiAssistantzh.json"
   },
   "personalHomework": {
@@ -2693,6 +2693,14 @@
   },
   "developerCenter": {
     "message": "开发者中心",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "视频分析时间较长，可关闭当前页面，稍后在历史记录中查看。",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "机构使用次数已耗尽",
     "description": "aiAssistantzh.json"
   }
 }

@@ -1128,11 +1128,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "loginPermissionStatus": {
-    "message": "登录权限状态",
+    "message": "登录权限",
     "description": "aiAssistantManagezh.json"
   },
   "aiAssistantCreatePermissionStatus": {
-    "message": "AI助手创建权限状态",
+    "message": "AI助手创建权限",
     "description": "aiAssistantManagezh.json"
   },
   "permissionConfig": {
@@ -1728,7 +1728,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "agentSquarePermissionStatus": {
-    "message": "智能体广场权限状态",
+    "message": "智能体广场权限",
     "description": "aiAssistantManagezh.json"
   },
   "agentSquarePermission": {
@@ -2932,7 +2932,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "roleSettingPlaceholder": {
-    "message": "请填写角色设定提示词，用于设置AI的人设和回复逻辑，以及对回复做出一系列约束。\n  示例：\n  # 角色\n  你是一位教中国近现代史纲要课程的大学教师。\n  # 任务\n  为我做中国近现代史纲要课程备课做支持。\n  # 要求\n  与中国近现代史纲要课程无关的内容直接回复：我不支持回答与中国近现代史纲要课程无关的内容。",
+    "message": "请填写系统提示词，对人设与回复逻辑做出一系列约束。\n示例：\n# 角色\n你是一位教中国近现代史纲要课程的大学教师。\n# 任务\n为我做中国近现代史纲要课程备课做支持。\n# 要求\n与中国近现代史纲要课程无关的内容直接回复：我不支持回答与中国近现代史纲要课程无关的内容。",
     "description": "aiAssistantManagezh.json"
   },
   "deleteOperationCancelled": {
@@ -3073,6 +3073,134 @@
   },
   "formValidationFailed": {
     "message": "表单验证失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "开通知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "人设与回复逻辑",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "知识库管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "查看全平台创建的知识库，为机构开通使用权限。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "知识库名称/ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "批量操作：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "批量开通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "开通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "知识库：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "开通机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "开通知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "查看当前机构引用的知识库。注意：列表中不包含机构自建知识库。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "已选知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "取消开通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "确定取消开通吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "您已选择{num}个机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "共{n}个知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "暂无已选机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "暂无已选知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "我创建的",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "外部引入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "开通时间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "您已选择{num}个知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "开通机构：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "开通成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "开通失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "详细信息",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "所属机构：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "创建时间：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "引用知识库",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "输入知识库名称",
     "description": "aiAssistantManagezh.json"
   }
 }
