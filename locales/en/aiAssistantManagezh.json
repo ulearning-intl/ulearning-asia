@@ -2802,5 +2802,277 @@
   "cropIcon": {
     "message": "Crop the icon",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "Instruction Template Management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "AI orchestration",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "Batch import instruction templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "Batch import question-and-answer pair templates",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "Created time：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "Save as Draft",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "Save And Publish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "Model configuration",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "Multimodal large models support understanding the content of images, including design drafts and other text-free images, and support question-and-answer based on the content of the images. <br />Check the multi-modal large model, and the image upload function will be enabled simultaneously.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "Multimodal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "Preferred LLM",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "Set as the first choice",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "Debugging and Preview",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "Save and preview",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "Character setting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "The welcome message and opening remarks cannot be left blank. They can be previewed only after being filled in.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "Perhaps one might want to ask that it cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "Update",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "Instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "Knowledge",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "Skill",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "Select the status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "Statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "a",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "All status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "Opening remarks cannot exceed 1000 characters",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "Welcome words and opening remarks",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "Please enter the welcome message and opening remarks to help guide you to quickly understand the AI assistant.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "Enter the questions that the user might want to ask to guide the user to start the conversation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "Add Problem",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "Digital human image",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "Select a digital human",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "Please fill in the character setting prompt words, which are used to set the character design and response logic of the AI, as well as to impose a series of constraints on the responses. ¶\n· Example: ¶\n· # Character ¶\nYou are a university teacher who teaches the course Outline of Modern and Contemporary Chinese History. ¶\n· # Task ¶\nSupport my lesson preparation for the course \"Outline of Modern and Contemporary Chinese History\". ¶\n· # Requirements ¶\nI do not support answering questions that are not related to the Outline of Modern and Contemporary Chinese History course.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "The deletion operation has been cancelled",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "A maximum of five questions can be added",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "Delete in bulk",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Add Knowledge Base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "There are {count} knowledge bases in total",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "Show the source of knowledge",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "Enable the display of knowledge sources: During question-and-answer sessions, the names of resources in the knowledge base will be displayed in the knowledge sources. When answering questions, the name of the knowledge base will be directly displayed, and the names of the resources in the knowledge base will not be shown in the knowledge source.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "Add the knowledge base immediately",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "Selected",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "A knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "Are you sure to delete the {name} knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "Shortcut command display Settings",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "Display by pressing the long command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "Show by short command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "Add instructions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "Select a command",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "All ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "Instruction Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "An instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "Created by me",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "Shared template",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "Please enter the instruction title",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "Please enter the instruction instructions",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "Are you sure to delete the {title} directive?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "Are you sure to delete the {name} group?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "The group name cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "Please select at least one instruction",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "The instruction was added successfully.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "The addition instruction failed.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "A maximum of 50 groups can be added",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "Skills can be set according to the characteristics of the AI assistant to create a distinctive AI assistant.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "Dialogue mode",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "Set up a knowledge base, and the large model can answer users' questions based on the knowledge base, improving the accuracy of question answering.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "Set up shortcut commands. According to the characteristics of the AI assistant, you can set special commands to create the unique features of the AI assistant. Commonly used instructions can also be preset in the AI assistant to facilitate users' quick invocation.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "Form validation failed",
+    "description": "aiAssistantManagezh.json"
   }
 }

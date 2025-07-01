@@ -444,7 +444,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentMarkingHint": {
-    "message": "Note: Smart grading is only applicable to individual assignments graded by teachers and quizzes/exams with short-answer questions. AI grading is limited to text content and does not currently support grading of non-text content such as attachments and pictures submitted by students.",
+    "message": "Note: Intelligent marking is applicable to individual assignments marked by teachers and quizzes/exams containing short-answer questions. The marking scope includes the answer text and pictures and documents (pdf/word/txt) in the attachments. Attachments in other formats do not support automatic review for the time being.",
     "description": "aiAssistantzh.json"
   },
   "personalHomework": {
@@ -2621,6 +2621,78 @@
   },
   "appNotAllowed": {
     "message": "The current institution has not launched this AI application/tool",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "Teaching Design",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "Learning Objectives",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "Analysis of Students' Learning Situation and Teaching Materials",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "Teaching content",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "Teaching methods and means",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "Teaching process",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "Homework and blackboard writing",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "Innovation and Literacy",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "The goals are clear and specific, reflecting the core literacy of the subject/the integration of three-dimensional goals, in line with the requirements of the curriculum standards and the actual situation of students, and taking into account both the overall and individual development.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "Accurately grasp students' knowledge base, ability level and learning characteristics, predict learning difficulties and formulate targeted strategies. Clearly explain the status of the teaching materials, the logic of knowledge and their connection with the curriculum standards, and handle the teaching content reasonably",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "The knowledge points are scientific and complete, with prominent key points and clear difficulties. The selection of materials is close to students, taking into account both fundamentality and extensibility, and reflecting the ideological methods of the discipline.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "The method is in line with the characteristics of the discipline and students' cognition, emphasizing inspiring exploration. The means (teaching AIDS, techniques, etc.) are appropriately applied to effectively break through the key and difficult points.",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "The design of the links: The introduction, new instruction, practice, summary and other links are complete, the logic is coherent, and the time allocation is reasonable.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "Student participation: Highlight the student's main role, design interactive exploration activities, provide timely feedback and evaluation, and handle pre-assumptions and generation.",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "Ability cultivation: Emphasize the guidance of subject thinking and learning methods, and demonstrate the process of knowledge construction.",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "The homework design is well-stratified, moderate in quantity, diverse in form, and in line with the teaching objectives. The blackboard writing clearly presents the knowledge framework; The summary is concise, highlighting key points and guiding reflection.",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "The homework design is well-stratified, moderate in quantity, diverse in form, and in line with the teaching objectives. The blackboard writing clearly presents the knowledge framework; The summary is concise, highlighting key points and guiding reflection.",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "Developer Center",
     "description": "aiAssistantzh.json"
   }
 }
