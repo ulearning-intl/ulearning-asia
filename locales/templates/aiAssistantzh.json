@@ -1148,7 +1148,7 @@
     "description": "aiAssistantzh.json"
   },
   "videoDailyLimit": {
-    "message": "每天可分析视频个数为5个",
+    "message": "每天可分析视频个数为{num}个",
     "description": "aiAssistantzh.json"
   },
   "videoHistoryRecord": {
@@ -1945,6 +1945,762 @@
   },
   "startVoiceChat": {
     "message": "开启智能体语音",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "查看讨论实录",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "发起新对话",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "智能体管理",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "启动智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "你已静音",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "对话记录",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "暂无对话记录",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "学生的观点总结",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "思考的维度",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "优点",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "进一步提升点",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "讨论时长：{num}分钟",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "讨论次数：{num}次",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "字数：{num}字",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "对话实录",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "AI点评",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "讨论助手",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "AI 应用",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "AI智能",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "有图片正在上传，请稍后再试",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "一次仅可上传{n}张图片",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "图片大小不能超过{n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "不支持该类型文件",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "该大模型不支持图片",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "总共{num}条",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "内容源",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "AI正在分析中，请稍等",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "正在为您精心挑选…",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "资源预览弹窗",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "访问该网址",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "课程团队",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "课程简介",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "该文件不支持在线预览",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "转码中，请稍后查看",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "静音",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "取消静音",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "全屏",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "关闭",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "暂无访问权限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "服务未开启，暂无访问权限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "请登录后查看",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "工作流",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "我创建的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "我收藏的智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "选择分类",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "重置",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "课霸",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "作业扛把子",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "考神附体",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "回帖狂魔",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "AI头号玩家",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "神秘访客",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "潜力股",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "知识旱区",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "打卡特困生",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "划水大师",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "作业绝缘体",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "挂科边缘人",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "吃瓜群众",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "AI萌新",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "访问课程 {count} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "作业平均分 {grade} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "考试平均分 {grade} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "讨论发帖 {count} 次，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "AI助手使用 {chatCount} 次，AI工具使用 {toolCount} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "当前综合成绩 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "掌握度60%以下的知识点数量 {count} 个",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "课堂平均出勤率 {rate} %",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "课件学习时长 {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "作业平均分 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "考试平均分 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "讨论发帖 {count} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "全部学生",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "输入姓名/学号搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "没有更多数据了",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "未搜索到相关内容",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "学习任务",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "知识掌握",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "课堂表现",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "考核成绩",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "AI助学",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "知识点",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "平均掌握度",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "掌握度较好",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "掌握度一般",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "掌握度较差",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "未测验",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "能力目标",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "平均达成度：",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "薄弱知识点",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "查看详情",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "该学生",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "等 {num} 个知识点掌握情况较差，请及时关注学生知识掌握情况。",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "问题类型",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "提问次数",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "自由提问",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "指令提问",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "常用指令",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "问题关键词",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "整体排名：",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "签到率",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "考勤",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "已签到",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "缺勤",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "病假",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "事假",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "迟到",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "早退",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "课堂互动",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "参与次数：",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "总积分：",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "积分",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "投票",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "抢答",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "选人",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "打分",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "拍照上传",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "答题",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "课件学习",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "学习进度：",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "作业/考试",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "完成数：",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "切换学生",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "学号：",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "班级：",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "学院：",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "导出",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "课程综合表现",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "暂无可分析的数据",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "AI助手使用",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "正在生成PDF，请稍候...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "学生画像系统",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "学生学习画像报告",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "无法找到要导出的内容",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "PDF导出成功",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "PDF导出失败",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "课件：",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "作业：",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "考试：",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "AI助手：",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "AI工具：",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "次",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "课堂出勤率：",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "课堂互动参与率：",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "知识掌握度：",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "能力目标达成度：",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "最终成绩：",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "智能学生画像，助力个性化教学",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "查看全部学生",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "满分战神",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "当前综合成绩 {grade} 分，排名第 {rank} ",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "知识点金手",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "掌握度超过80%的知识点数量 {count} 个，排名第 {rank} ",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "课堂C位",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "课堂互动获得总积分 {points} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "时长卷王",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "课件学习时长 {time}，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "进度",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "小组作业",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "完成数",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "总数",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "学生画像",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "AI分析",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "学生画像",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "当前机构未开通AI能力",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "您还没有创建智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "您还没有创建智能体，前往智能体广场创建您专属的智能体吧",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "当前机构未开通该AI应用/工具",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "教学设计",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "教学目标",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "学情与教材分析",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "教学内容",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "教学方法与手段",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "教学过程",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "作业与板书",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "创新与素养",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "目标明确具体，体现学科核心素养/三维目标整合，符合课标要求与学生实际，兼顾全体与个性发展。",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "准确把握学生知识基础、能力水平及学习特点，预见学习难点并制定针对性策略。  清晰说明教材地位、知识逻辑及与课标的关联，合理处理教学内容",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "知识点科学完整，重点突出、难点明确；素材选取贴近学生，兼顾基础性与拓展性，体现学科思想方法。",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "方法贴合学科特点与学生认知，注重启发探究；手段（教具、技术等）运用恰当，有效突破重难点。",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "环节设计：导入、新授、练习、小结等环节完整，逻辑连贯，时间分配合理。",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "学生参与：突出学生主体，设计互动探究活动，及时反馈评价，处理预设与生成。",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "能力培养：注重学科思维与学习方法指导，展现知识建构过程。",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "作业设计分层合理、量适中，形式多样，对接教学目标。  板书清晰呈现知识框架；小结简明梳理重点，引导反思。",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "教学设计有新意，体现课程理念；教师教态自然，专业素养（如表达、示范等）良好。",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "开发者中心",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "视频分析时间较长，可关闭当前页面，稍后在历史记录中查看。",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "机构使用次数已耗尽",
     "description": "aiAssistantzh.json"
   }
 }

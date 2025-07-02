@@ -128,7 +128,7 @@
     "description": "新版管理后台 zh.json"
   },
   "organization.serverErrorDesc": {
-    "message": "There is a server error, you didn’t submit the data. Please click the “Try again” to re-submit, or click “Cancel” to close the popup and try later",
+    "message": "There is a server error, you didn't submit the data. Please click the “Try again” to re-submit, or click “Cancel” to close the popup and try later",
     "description": "新版管理后台 zh.json"
   },
   "organization.tryAgain": {
@@ -2964,7 +2964,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule4": {
-    "message": "最大账号数量不能小于100",
+    "message": "最大账号数量不能小于1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule5": {
@@ -2972,7 +2972,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule6": {
-    "message": "最大活跃账号数量不能小于100",
+    "message": "最大活跃账号数量不能小于1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule7": {
@@ -5493,6 +5493,614 @@
   },
   "userSetting.notice1": {
     "message": "修改成功",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step13": {
+    "message": "设置租期",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step14": {
+    "message": "剩余{number}可用",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepDesc2": {
+    "message": "{user}创建后，向相关人发送邮件通知，告知本{user}详细信息。邮件将会发送给{user}管理员与系统管理员。如果需要发送给其他相关人，在下方输入邮件地址。",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepSuccess2": {
+    "message": "{user}创建成功，点击下方关闭按钮回到原页面，点击以下链接地址，继续对该{user}进行设置",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp4_2": {
+    "message": "{user}名称: ",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step15": {
+    "message": "资源不足，创建失败",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.serviceSystem": {
+    "message": "客服系统",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.courseArea": {
+    "message": "课程域管理",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.moreBtn": {
+    "message": "更多",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveSuccess": {
+    "message": "保存成功",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveFail": {
+    "message": "保存失败",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteSuccess": {
+    "message": "删除成功",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteFail": {
+    "message": "删除失败",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.noData": {
+    "message": "暂无数据",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.tipTitle": {
+    "message": "提示",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.download": {
+    "message": "下载",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadFile": {
+    "message": "上传文件",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule8": {
+    "message": "{type}不能超过{number}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule9": {
+    "message": "请输入数字",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.title": {
+    "message": "成员申请信息详情",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.back": {
+    "message": "返回",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionLogo": {
+    "message": "机构LOGO",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionName": {
+    "message": "机构名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.englishInstitutionName": {
+    "message": "英文机构名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.countryRegion": {
+    "message": "国家/地区",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.foundingYear": {
+    "message": "创办年份",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityAddress": {
+    "message": "大学地址",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.legalPerson": {
+    "message": "法人",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityWebsite": {
+    "message": "大学网站",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.contactPerson": {
+    "message": "联系人",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.phoneNumber": {
+    "message": "电话号码",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.email": {
+    "message": "电子邮件",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.introduction": {
+    "message": "大学/学院简介",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.listSerachPlaceholder": {
+    "message": "输入课程域名称搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaTitle": {
+    "message": "域名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaList": {
+    "message": "课程域",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaOrg": {
+    "message": "所属机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.deleteBtn": {
+    "message": "管理课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.createBtn": {
+    "message": "创建课程域",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.editBtn": {
+    "message": "修改课程域",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseAreaTitle": {
+    "message": "课程域名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseAreaTitlePlaceholder": {
+    "message": "请输入课程域名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.allCourses": {
+    "message": "所有课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.selectedCourses": {
+    "message": "已选课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseListFilterPlaceholder": {
+    "message": "输入课程名称搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.settingCourseArea": {
+    "message": "所属课程域",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.deleteCourseAreaTip": {
+    "message": "确定删除课程域{coursearea}吗？",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.tab1": {
+    "message": "用户操作",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.tab2": {
+    "message": "小工具",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userName": {
+    "message": "用户名",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.realname": {
+    "message": "姓名",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.studentId": {
+    "message": "学号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.phone": {
+    "message": "手机号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.email": {
+    "message": "邮箱",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.search": {
+    "message": "搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.orgName": {
+    "message": "机构名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.usersActions": {
+    "message": "相关操作",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetDefaultPwd": {
+    "message": "修改密码(默认{defaultPwd})",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetUserPwd": {
+    "message": "修改密码(自定义密码)",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleCourse": {
+    "message": "更改或注销课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleOrg": {
+    "message": "更换机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayStudentStudy": {
+    "message": "延长学生的学习期限",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse": {
+    "message": "开通课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleRole": {
+    "message": "更换用户角色",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.restartCount": {
+    "message": "解冻账号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.learningRecord": {
+    "message": "学习记录日志",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.deletePhone": {
+    "message": "解绑手机号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetCount": {
+    "message": "注销账号恢复",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.switchUserPage": {
+    "message": "切换用户界面",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changePwdTip": {
+    "message": "确定将用户 <strong>{username}</strong> 的密码重置为 <strong>{password}</strong> 吗？",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changePwdPlcaeholder": {
+    "message": "请输入新密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changeOrgPlcaeholder": {
+    "message": "请选择机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.withoutUserTip": {
+    "message": "请先选择需要操作的用户",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetCountTip": {
+    "message": "确定将已注销用户 <strong>{username}</strong> 账号恢复吗？",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.restartCountTip": {
+    "message": "确定将已冻结用户 <strong>{username}</strong> 账号恢复吗？",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.deletePhoneTip": {
+    "message": "确定将用户 <strong>{username}</strong> 绑定的手机号解绑吗？",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userOrgs": {
+    "message": "所属机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleTea": {
+    "message": "教师",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleStu": {
+    "message": "学生",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleAdmin": {
+    "message": "管理员",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleEditor": {
+    "message": "编辑",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.role": {
+    "message": "角色",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseDeadline": {
+    "message": "当前到期时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseNewDeadline": {
+    "message": "修改到期时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseListTitle": {
+    "message": "<strong> {userName} </strong> 的所有课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle1": {
+    "message": "账号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle2": {
+    "message": "考试",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool1": {
+    "message": "合并学生账号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool2": {
+    "message": "批量加班",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool3": {
+    "message": "批量为学生开课/延长学习期限",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool4": {
+    "message": "批量重置密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool5": {
+    "message": "考试安排监控（查看所有考试）",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool6": {
+    "message": "小工具",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool7": {
+    "message": "小工具集",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips": {
+    "message": "操作说明：输入两个需要合并的帐号A、B的“用户名”，可分别对帐号进行检查是否存在。确认用户存在后，选择要保留的帐号。点击“确定”执行。",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentUserA": {
+    "message": "账户A",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentUserB": {
+    "message": "账户B",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.checkAccount": {
+    "message": "检查账户",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixDerection": {
+    "message": "将帐号合并至",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userInfoName": {
+    "message": "姓名：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userInfoUserId": {
+    "message": "用户ID：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseList": {
+    "message": "课程：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userOrgLabel": {
+    "message": "机构：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips1": {
+    "message": "请输入账户A",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips2": {
+    "message": "请输入账户B",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips3": {
+    "message": "没有通过该用户名找到对应的账户信息！请仔细核对",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips4": {
+    "message": "请选择合并对象",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdTitle": {
+    "message": "批量重置密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod": {
+    "message": "重置密码方式：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod1": {
+    "message": "按机构重置密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod2": {
+    "message": "按班级编码重置学生密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod3": {
+    "message": "按班课id重置学生密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.orgSearchPlaceholder": {
+    "message": "请输入关键字选择机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdByClass": {
+    "message": "班级编码：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdByClassPlaceholder": {
+    "message": "请输入班级编码，多个班级编码用英文逗号分隔",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseId": {
+    "message": "班课id：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseIdPlaceholder": {
+    "message": "请输入班课ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTargetLabel": {
+    "message": "重置密码对象：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTarget1": {
+    "message": "教师",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTarget2": {
+    "message": "学生",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting": {
+    "message": "新密码设置：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting1": {
+    "message": "重置为学号",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting2": {
+    "message": "自定义新密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSettingPlaceholder": {
+    "message": "请输入新密码",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClass": {
+    "message": "批量加班",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips1": {
+    "message": "注意事项：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips2": {
+    "message": "1、请先选择文件，然后再导入",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips3": {
+    "message": "2、导入的文件为excel文件，请按模板中的样式制表",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips4": {
+    "message": "3、请将excel文件中的单元格格式中的数字设为文本（格式->单元格->数字）",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips5": {
+    "message": "4、请认真检查excel文件中的学员信息，以免造成错误数据",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel1": {
+    "message": "第一步：下载文件模版",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel2": {
+    "message": "第二步：选择机构",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel3": {
+    "message": "第三步：在本地修改后选择导入",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel1": {
+    "message": "开课方式：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel2": {
+    "message": "学习期限：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel3": {
+    "message": "选择课程：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel4": {
+    "message": "操作：",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod1": {
+    "message": "按机构开课",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod2": {
+    "message": "按班级开课",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod3": {
+    "message": "按学习卡策略开课",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod4": {
+    "message": "按班课ID开课",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDays": {
+    "message": "延长指定的天数",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDaysPlaceholder": {
+    "message": "请输入指定的天数",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDate": {
+    "message": "延长到具体日期",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDatePlaceholder": {
+    "message": "请选择日期",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.days": {
+    "message": "天",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourse": {
+    "message": "输入课程名称搜索课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourseByOrgPlaceholder": {
+    "message": "选择机构筛选",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourseByKeywordPlaceholder": {
+    "message": "输入课程名称搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse1": {
+    "message": "对未开通的学生开通学习期限",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse2": {
+    "message": "对已开通的学生延长学习期限",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.uploadFilePlaceholder": {
+    "message": "请选择文件",
     "description": "新版管理后台 zh.json"
   }
 }

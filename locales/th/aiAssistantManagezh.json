@@ -2606,5 +2606,201 @@
   "publishSuccess": {
     "message": "ประกาศสำเร็จ",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "ชุดคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "เวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "การร้องขอเสร็จเรียบร้อยแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "รองรับรูปแบบ jpg, jpeg, png, gif ขนาดไม่เกิน 2m ขนาดที่แนะนำ: 400 * 400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name}ปริมาณประจำวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "เชิญเข้ามา{name}ปริมาณประจำวัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{name}ปริมาณต่อวันจะต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "อัปโหลดไฟล์แนบ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "อัปโหลดรูปภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "อัพโหลดรูปภาพต้องใช้แบบจำลองขนาดใหญ่เพื่อเข้าใจเนื้อหาของภาพ<br /> เปิดการทำงานของคุณสมบัติการอัปโหลดรูปภาพ ที่จะต้องทำการประสานกับรุ่นขนาดใหญ่หลายรุ่น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "แบบจำลองขนาดใหญ่สนับสนุนการทำความเข้าใจเนื้อหาของภาพรวมถึงรูปภาพ ที่ไม่มีข้อความ เช่น ร่างการออกแบบ ที่รองรับการตอบคำถามตามเนื้อหาในรูปภาพ<br />เลือกแบบจำลองขนาดใหญ่ ที่จะปรับเทียบกับการเปิดใช้งานคุณสมบัติการอัปโหลดภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "แบบจำลองขนาด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "เมื่อเปิดแล้วจะสามารถใช้สำหรับผู้ดูแลระบบ และผู้ใช้ครูทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "เวิร์กโฟลว์เป็นเครื่องมือในการทำงานอัตโนมัติผ่านกระบวนการสร้างภาพเวิร์กโฟสต์สามารถเผยแพร่เป็นแอปพลิเคชั่นอิสระ และสามารถใช้เป็นโปรแกรมเสริมอัจฉริยะได้ในการเรียกใช้คำสั่งภาษาในการสนทนา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "สร้างเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "ปรับปรุงเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "การจัดเรียง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "เข้าใช้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "ภาพไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "คำอธิบาย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "กรุณาใส่ชื่อเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "ชื่อควรจะเป็น 1-200 คำ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "ตั้งค่าการเข้าถึง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "จีนย่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "ภาษาจีนดั้งเดิม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "ที่อยู่ ที่เข้าใช้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "ยังไม่ได้ใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "ใช้งานแล้ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "คัดลอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "ตั้งค่าการทำงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "รายละเอียดของเวิร์กโฟลว์ ที่ซ่อนอยู่ขณะทำงาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "สิทธิ์การเข้าถึง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "อนุญาตให้เข้าถึงได้หลังจากล็อกอินขอบเขตไม่ จำกัด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "อนุญาตให้เข้าใช้ได้หลังจากล็อกอินเท่านั้น ผู้ใช้โรงเรียนเท่านั้น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "อนุญาตให้เข้าถึงได้โดยไม่ต้องล็อกอิน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "&ลบเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "ลบเวิร์กโฟลว์ออกจากซิงค์เพื่อลบบันทึกการเข้าถึงทั้งหมดคุณแน่ใจ หรือไม่ว่า จะลบทิ้ง?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "ไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "บริการยังไม่เปิด และยังไม่มีสิทธิ์ในการเข้าใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "เลือกรูปภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "โปรดอัปโหลดไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "แบบร่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "ภาษาส่วนติดต่อ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "ขนาดของภาพต้องไม่เกิน 2MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "โปรดอัปโหลดไอคอน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "กรุณาป้อนคำอธิบายของเวิร์กโฟลว์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "ตัดภาพไอคอน",
+    "description": "aiAssistantManagezh.json"
   }
 }

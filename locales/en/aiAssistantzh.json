@@ -444,7 +444,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentMarkingHint": {
-    "message": "Note: Smart grading is only applicable to individual assignments graded by teachers and quizzes/exams with short-answer questions. AI grading is limited to text content and does not currently support grading of non-text content such as attachments and pictures submitted by students.",
+    "message": "Note: Intelligent marking is only applicable to individual assignments scored by teachers and quizzes/exams containing short-answer questions. Moreover, AI marking is limited to text content and does not currently support marking attachments, pictures, and other non-text content submitted by students.",
     "description": "aiAssistantzh.json"
   },
   "personalHomework": {
@@ -1696,19 +1696,19 @@
     "description": "aiAssistantzh.json"
   },
   "agentSquare": {
-    "message": "Agent Square",
+    "message": "AI Agent Plaza",
     "description": "aiAssistantzh.json"
   },
   "modelRepository": {
-    "message": "Model repository",
+    "message": "LLM Warehouse",
     "description": "aiAssistantzh.json"
   },
   "ICreated": {
-    "message": "Created by me",
+    "message": "Created by Me",
     "description": "aiAssistantzh.json"
   },
   "myCollection": {
-    "message": "My collection",
+    "message": "My Favorites",
     "description": "aiAssistantzh.json"
   },
   "depCenter": {
@@ -1728,19 +1728,19 @@
     "description": "aiAssistantzh.json"
   },
   "myAgent": {
-    "message": "My Agent",
+    "message": "My AI Agents",
     "description": "aiAssistantzh.json"
   },
   "modleFineTuning": {
-    "message": "Model fine-tuning",
+    "message": "Model Fine-Tuning",
     "description": "aiAssistantzh.json"
   },
   "APICallDescription": {
-    "message": "API call description",
+    "message": "API Documentation",
     "description": "aiAssistantzh.json"
   },
   "emptyCollectionAgent": {
-    "message": "There are no collected agents",
+    "message": "There are no favorite AI agents yet!",
     "description": "aiAssistantzh.json"
   },
   "goToAgentSquare": {
@@ -1764,27 +1764,27 @@
     "description": "aiAssistantzh.json"
   },
   "copyCode": {
-    "message": "Copy the code",
+    "message": "Copy Codes",
     "description": "aiAssistantzh.json"
   },
   "callResponse": {
-    "message": "An example of a call response",
+    "message": "API Response Codes (Example)",
     "description": "aiAssistantzh.json"
   },
   "prerequisites": {
-    "message": "Prerequisites",
+    "message": "Preconditions",
     "description": "aiAssistantzh.json"
   },
   "youObtainedAPI": {
-    "message": "You have obtained an API key, which is used for API call authentication.",
+    "message": "You have obtained the API Key for API call authentication",
     "description": "aiAssistantzh.json"
   },
   "getModelName": {
-    "message": "Get the model name for model calling",
+    "message": "The model name for model calling is also obtained",
     "description": "aiAssistantzh.json"
   },
   "appSquare": {
-    "message": "Application Square",
+    "message": "AI Tool Plaza",
     "description": "aiAssistantzh.json"
   },
   "visitAgentInNewPage": {
@@ -1800,7 +1800,7 @@
     "description": "aiAssistantzh.json"
   },
   "dragToSort": {
-    "message": "Drag and drop to customize sorting",
+    "message": "Drag and drop to reorder",
     "description": "aiAssistantzh.json"
   },
   "latest": {
@@ -1816,15 +1816,15 @@
     "description": "aiAssistantzh.json"
   },
   "back": {
-    "message": "return",
+    "message": "Back",
     "description": "aiAssistantzh.json"
   },
   "collected": {
-    "message": "Collected",
+    "message": "Added to Favorites",
     "description": "aiAssistantzh.json"
   },
   "collect": {
-    "message": "collect",
+    "message": "Add to Favorites",
     "description": "aiAssistantzh.json"
   },
   "inputTopicName": {
@@ -1852,7 +1852,7 @@
     "description": "aiAssistantzh.json"
   },
   "aiCompetenceCenter": {
-    "message": "AI Capability Center",
+    "message": "Admin Console",
     "description": "aiAssistantzh.json"
   },
   "intelligentApplication": {
@@ -1864,7 +1864,7 @@
     "description": "aiAssistantzh.json"
   },
   "collectAgent": {
-    "message": "Collected intelligent agents",
+    "message": "Favorite AI Agents",
     "description": "aiAssistantzh.json"
   },
   "more": {
@@ -1945,6 +1945,754 @@
   },
   "startVoiceChat": {
     "message": "Enable intelligent agent voice",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "View the discussion record",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "Initiate a new conversation",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "Agent management",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "Activate the agent",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "You have been muted.",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "Dialogue record",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "There are no conversation records for the time being",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "Summary of students' viewpoints",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "The dimension of thinking",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "Advantages",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "Further improve the point",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "Discussion duration: {num} minutes",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "Discussion duration: {num} minutes",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "Word count: {num} characters",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "Dialogue Record",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "AI Review",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "Discussion Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "AI application",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "AI intelligence",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "There are pictures being uploaded. Please try again later",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "Only {n} pictures can be uploaded at a time",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "Image size cannot exceed {n}MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "The file type is not supported",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "Only {n} pictures can be uploaded at a time",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "There are a total of {num} items",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "Content source",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "The AI is analyzing. Please wait for a moment",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "Carefully selecting for you...",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "Resource preview pop-up window",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "Visit this website",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "Course Team",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "Course introduction",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "The file does not support online preview",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "Transcoding, please check it later",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "Mute",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "Unmute",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "Play",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "Full Screen",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "Close",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "No access permission for the moment",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "The service is not enabled and there is no access permission for the time being",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "Log in to watch ",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "Workflow",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "My AI Agents",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "The agent I have collected",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "Select category",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "Reset",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "Top student",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "The homework boss",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "Possessed by the examination spirit",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "Reply maniac.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "The number one player of AI",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "Mysterious Visitor",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "Potential stock",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "Knowledge Arid Zone",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "Register as a student from extremely poor families",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "Master of Paddling",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "Working insulator",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "A person on the verge of failing",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "Onlookers",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "AI newbie",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "Visit the course {count} times",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "The average score of the homework is {grade}, ranking first",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "The average score of the exam is {grade}, ranking first",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "The number of discussion posts {count} ranks first",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "The AI assistant uses {chatCount} times and the AI tool uses {toolCount} times",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "The current comprehensive score is {grade} points",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "The number of knowledge points with a mastery rate of less than 60% is {count}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "Average class attendance rate {rate} %",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "Courseware learning duration {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "The average score of the homework is {grade} points",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "The average score of the exam is {grade} points",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "Discuss Posting {count} times",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "All students",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "Enter name/student ID to search",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "No more data",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "No relevant content was found",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "Learning task",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "Knowledge acquisition",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "Classroom performance.",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "Assessment Grade ",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "AI Education Assistance",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "Knowledge Points",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "Average Mastery",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "Well mastered",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "Average mastery",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "Poor mastery",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "Not tested",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "Competency Objectives",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "Average achievement degree:",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "Weak knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "View Details",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "This student",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "Students have a poor grasp of {num} knowledge points. Please pay close attention to their knowledge acquisition situation in a timely manner.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "Problem type",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "Number of questions asked",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "Free question",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "Instruction question",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "Common instructions",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "Key words of the problem",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "Overall ranking:",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "Sign-in Rate",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "Attendance",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "Signed in",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "Absent",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "Sick Leave",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "Excused Leave",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "Late",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "Leave early",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "Classroom Interactions",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "Number of Participations :",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "Total score:",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "Total Score",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "Poll",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "Compete to Answer",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "Random Pick",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "Peer Review",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "Image Upload",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "Answer",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "Courseware learning",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "Learning progress:",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "Homework/Exam",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "Completed number:",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "Switch students",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "Student ID:",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "Class：",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "College: ",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "Export",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "Comprehensive performance of the course",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "There is no data available for analysis at present",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "The use of AI assistants",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "A PDF is being generated. Please wait a moment...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "Student Portrait System",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "Student learning portrait report",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "The content to be exported cannot be found",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "The PDF export was successful.",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "PDF export failed",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "Courseware:",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "Homework:",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "Exam:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "AI Assistant:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "AI tools:",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "time",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "Class attendance rate:",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "Classroom interaction participation rate:",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "Degree of knowledge mastery:",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "Degree of achievement of ability goals:",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "Final score:",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "Intelligent student profiling facilitates personalized teaching",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "View all students",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "Full-mark war God",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "The current comprehensive score is {grade}, and the ranking is {rank}.",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "Knowledge points - Golden Hands",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "The number of knowledge points with a mastery rate of over 80% is {count}, ranking {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "The C position in the classroom",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "The total points obtained from classroom interaction rank first",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "Shi Changjuan Wang",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "The learning duration of the courseware {time} ranks first",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "Progress",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "Group Assignment",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "completed number",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "Total",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "Student's Snapchat",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "AI-Analysis",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "Student's Snapchat",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "The current institution has not enabled AI capabilities",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "You haven't created an agent yet",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "You haven't created an agent yet. Go to the Agent Square to create your own exclusive agent",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "The current institution has not launched this AI application/tool",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "Teaching Design",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "Learning Objectives",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "Analysis of Students' Learning Situation and Teaching Materials",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "Teaching content",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "Teaching methods and means",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "Teaching process",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "Homework and blackboard writing",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "Innovation and Literacy",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "The goals are clear and specific, reflecting the core literacy of the subject/the integration of three-dimensional goals, in line with the requirements of the curriculum standards and the actual situation of students, and taking into account both the overall and individual development.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "Accurately grasp students' knowledge base, ability level and learning characteristics, predict learning difficulties and formulate targeted strategies. Clearly explain the status of the teaching materials, the logic of knowledge and their connection with the curriculum standards, and handle the teaching content reasonably",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "The knowledge points are scientific and complete, with prominent key points and clear difficulties. The selection of materials is close to students, taking into account both fundamentality and extensibility, and reflecting the ideological methods of the discipline.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "The method is in line with the characteristics of the discipline and students' cognition, emphasizing inspiring exploration. The means (teaching AIDS, techniques, etc.) are appropriately applied to effectively break through the key and difficult points.",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "The design of the links: The introduction, new instruction, practice, summary and other links are complete, the logic is coherent, and the time allocation is reasonable.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "Student participation: Highlight the student's main role, design interactive exploration activities, provide timely feedback and evaluation, and handle pre-assumptions and generation.",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "Ability cultivation: Emphasize the guidance of subject thinking and learning methods, and demonstrate the process of knowledge construction.",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "The homework design is well-stratified, moderate in quantity, diverse in form, and in line with the teaching objectives. The blackboard writing clearly presents the knowledge framework; The summary is concise, highlighting key points and guiding reflection.",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "The homework design is well-stratified, moderate in quantity, diverse in form, and in line with the teaching objectives. The blackboard writing clearly presents the knowledge framework; The summary is concise, highlighting key points and guiding reflection.",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "Developer Center",
     "description": "aiAssistantzh.json"
   }
 }
