@@ -1128,11 +1128,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "loginPermissionStatus": {
-    "message": "Access",
+    "message": "Login permission",
     "description": "aiAssistantManagezh.json"
   },
   "aiAssistantCreatePermissionStatus": {
-    "message": "AI Agent Creation",
+    "message": "AI assistant creates permissions",
     "description": "aiAssistantManagezh.json"
   },
   "permissionConfig": {
@@ -1728,7 +1728,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "agentSquarePermissionStatus": {
-    "message": "AI Agent Plaza Access",
+    "message": "Agent square permission",
     "description": "aiAssistantManagezh.json"
   },
   "agentSquarePermission": {
@@ -2932,7 +2932,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "roleSettingPlaceholder": {
-    "message": "Please fill in the character setting prompt words, which are used to set the character design and response logic of the AI, as well as to impose a series of constraints on the responses. ¶\n· Example: ¶\n· # Character ¶\nYou are a university teacher who teaches the course Outline of Modern and Contemporary Chinese History. ¶\n· # Task ¶\nSupport my lesson preparation for the course \"Outline of Modern and Contemporary Chinese History\". ¶\n· # Requirements ¶\nI do not support answering questions that are not related to the Outline of Modern and Contemporary Chinese History course.",
+    "message": "Please fill in the system prompt words to impose a series of constraints on the character setting and response logic. ¶\nExample: ¶\n# Role ¶\nYou are a university teacher who teaches the course Outline of Modern and Contemporary Chinese History. ¶\n# Task ¶\nSupport my lesson preparation for the course \"Outline of Modern and Contemporary Chinese History\". ¶\n# Requirements ¶\nI do not support answering questions that are not related to the course \"Outline of Modern and Contemporary Chinese History\".",
     "description": "aiAssistantManagezh.json"
   },
   "deleteOperationCancelled": {
