@@ -2606,5 +2606,281 @@
   "publishSuccess": {
     "message": "發布成功",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "指令集",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "工作流編排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "請求成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "支持jpg、jpeg、png、gif格式，大小不超過2M。建議比例：1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name}每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "請輸入{name}每日量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{name}每日量必須為數位",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "上傳附件",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "上傳圖片",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "上傳圖片，需多模態大模型理解圖片內容。 <br />開啟上傳圖片功能，需同步開啟多模態大模型。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "多模態大模型支持理解圖片內容，包括設計稿等無文字圖片，支持基於圖片內容進行問答。 <br/>勾選多模態大模型，將同步開啟上傳圖片功能。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "多模態大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "開通後機构所有管理員、教師用戶均可使用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "工作流是一種通過視覺化流程編排，實現自動化任務處理的工具。 工作流可以發佈成獨立應用，也可以作為智慧體挿件，在對話中通過語言指令調用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "創建工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "修改工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "編排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "訪問",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "圖示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "描述",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "請輸入工作流名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "名稱應為1-200字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "訪問設定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "簡體中文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "繁體中文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "訪問地址",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "未啟用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "已啟用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "複製",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "功能設置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "運行時隱藏工作流詳情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "訪問權限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "允許登入後訪問，不限範圍",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "允許登入後訪問，僅限本校用戶",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "允許公開訪問，不需要登入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "删除工作流",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "删除工作流，將同步删除所有訪問記錄，確定删除嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "暫無存取權限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "服務未開啟，暫無存取權限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "選擇圖標",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "上傳圖標",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "草稿",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "介面語言",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "圖片大小不能超過2M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "請上傳圖示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "請輸入工作流描述",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "裁剪圖標",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "指令範本管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "AI編排",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "批量導入指令範本",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "批量導入問答對範本",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "創建時間：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "存為草稿",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "保存並發佈",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "模型配寘",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "多模態大模型支持理解圖片內容，包括設計稿等無文字圖片，支持基於圖片內容進行問答。 <br/>勾選多模態大模型，將同步開啟上傳圖片功能。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "多模態",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "首選大模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "設為首選",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "調試與預覽",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "保存並預覽",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "角色設定",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "歡迎語與開場白不能為空，填寫完成後，才可預覽。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "可能想問不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "更新",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "知識",
+    "description": "aiAssistantManagezh.json"
   }
 }
