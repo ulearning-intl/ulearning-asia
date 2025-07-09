@@ -4254,5 +4254,141 @@
   "resourceLibraryCtrl.resourseLib": {
     "message": "Библиотека ресурсов",
     "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "Поделиться",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "Загрузить",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "Все типы",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "Все статусы загрузки",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "Записи копирования и совместного использования",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "Записи публикации ресурсов",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "Другие настройки",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "По электронной почте",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "По учетной записи",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "Введите адреса электронной почты пользователей, разделяя их запятыми",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "Выберите пользователей, которым нужно изменить пароль, из существующих учетных записей",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "Введите пароль по умолчанию после сброса",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "Введите имя пользователя или адрес электронной почты",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "Выбрать из существующих учетных записей",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "Пароль по умолчанию после сброса",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "Массовый сброс паролей",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "Выбрать пользователей",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "Выбрано:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "Выберите хотя бы один способ установки пользователей, которым нужно изменить пароль",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "Успешно изменено {successCount}, не удалось изменить {failCount}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "Выбрать все на этой странице",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "Очистить все на этой странице",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "Удалить только ресурс",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Удалить ресурсы, опубликованные в курсах",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Удалить ресурсы, скопированные в библиотеку",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Удалить публикации/копии",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "Выбрать курс",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "Выберите курсы, в которых нужно опубликовать ресурсы:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "Выбрать все",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Успешно опубликовано",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "Не удалось опубликовать",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "Пока нет курсов, сначала создайте курс",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "Сначала выберите курс",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "Не удалось удалить",
+    "description": "2.0 admin.js"
   }
 }
