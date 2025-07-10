@@ -2606,5 +2606,625 @@
   "publishSuccess": {
     "message": "Berhasil dirilis",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "Basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "Set instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "Alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "Orkestrasi alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "Permintaan berhasil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "Mendukung format jpg, jpeg, png, gif, ukuran tidak lebih dari 2M. Rasio yang disarankan: 1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "Jumlah harian {name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "Silakan masukkan jumlah harian {name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "Jumlah harian {name} harus berupa angka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "Unggah lampiran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "Unggah gambar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "Unggah gambar, model besar multimodal perlu memahami konten gambar.<br /> Untuk mengaktifkan fungsi unggah gambar, Anda perlu mengaktifkan model besar multimodal secara bersamaan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "Model besar multimodal mendukung pemahaman konten gambar, termasuk gambar tanpa teks seperti desain, dan mendukung tanya jawab berdasarkan konten gambar.<br/>Dengan mencentang model besar multimodal, fungsi unggah gambar akan diaktifkan secara bersamaan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "Model besar multimodal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "Setelah diaktifkan, semua administrator dan guru lembaga dapat menggunakannya.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "Alur kerja adalah alat yang melalui orkestrasi proses visual, mewujudkan pemrosesan tugas otomatis. Alur kerja dapat dipublikasikan sebagai aplikasi mandiri, atau digunakan sebagai plugin agen cerdas, dipanggil melalui perintah bahasa dalam percakapan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "Buat alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "Ubah alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "Orkestrasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "Kunjungi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "Ikon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "Deskripsi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "Silakan masukkan nama alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "Nama harus 1-200 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "Pengaturan kunjungan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "Bahasa Mandarin Sederhana",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "Bahasa Mandarin Tradisional",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "Alamat kunjungan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "Tidak diaktifkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "Diaktifkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "Salin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "Pengaturan fungsi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "Sembunyikan detail alur kerja saat menjalankan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "Izin akses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "Izinkan akses setelah login, tanpa batasan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "Izinkan akses setelah login, hanya untuk pengguna sekolah ini",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "Izinkan akses publik, tidak perlu login",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "Hapus alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "Menghapus alur kerja akan menghapus semua catatan akses secara bersamaan, yakin ingin menghapus?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Tidak ada izin akses untuk sementara",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Layanan tidak diaktifkan, tidak ada izin akses untuk sementara",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "Pilih ikon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "Unggah ikon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "Draf",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "Bahasa antarmuka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "Ukuran gambar tidak boleh melebihi 2M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "Silakan unggah ikon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "Silakan masukkan deskripsi alur kerja",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "Potong ikon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "Manajemen template instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "Pengaturan AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "Impor template instruksi secara massal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "Impor template tanya jawab secara massal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "Waktu pembuatan:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "Simpan sebagai draf",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "Simpan dan terbitkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "Konfigurasi model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "Model besar multimodal mendukung pemahaman konten gambar, termasuk gambar tanpa teks seperti desain, dan mendukung tanya jawab berdasarkan konten gambar.<br/>Dengan mencentang model besar multimodal, fungsi unggah gambar akan diaktifkan secara bersamaan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "Multimodal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "Model besar pilihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "Tetapkan sebagai pilihan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "Debug dan pratinjau",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "Simpan dan pratinjau",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "Pengaturan peran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "Pesan selamat datang dan pembuka tidak boleh kosong, setelah diisi, baru bisa dipratinjau.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "Pertanyaan yang mungkin tidak boleh kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "Perbarui",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "Instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "Pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "Keterampilan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "Silakan pilih status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "Statistik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "buah",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "Semua status",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "Pembuka tidak boleh lebih dari 1000 karakter",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "Pesan selamat datang dan pembuka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "Silakan masukkan pesan selamat datang dan pembuka, membantu memandu pemahaman cepat tentang Asisten AI.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "Masukkan pertanyaan yang mungkin ditanyakan pengguna, memandu pengguna memulai percakapan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "Tambah pertanyaan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "Tampilan manusia digital",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "Silakan pilih tampilan manusia digital",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "Silakan isi prompt sistem, buat serangkaian batasan tentang pengaturan karakter dan logika respons.\nContoh:\n# Peran\nAnda adalah seorang guru universitas yang mengajar kursus Garis Besar Sejarah Modern dan Kontemporer Tiongkok.\n# Tugas\nMendukung saya dalam persiapan kursus Garis Besar Sejarah Modern dan Kontemporer Tiongkok.\n# Persyaratan\nUntuk konten yang tidak terkait dengan kursus Garis Besar Sejarah Modern dan Kontemporer Tiongkok, langsung balas: Saya tidak mendukung menjawab konten yang tidak terkait dengan kursus Garis Besar Sejarah Modern dan Kontemporer Tiongkok.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "Operasi penghapusan dibatalkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "Maksimal hanya bisa menambahkan 5 pertanyaan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "Hapus massal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Tambah basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "Total {count} basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "Tampilkan sumber pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "Aktifkan tampilan sumber pengetahuan: Saat melakukan tanya jawab, akan menampilkan nama sumber daya dari basis pengetahuan ke sumber pengetahuan.<br/>Nonaktifkan tampilan sumber pengetahuan: Saat melakukan tanya jawab, akan langsung menampilkan nama basis pengetahuan, tidak menampilkan nama sumber daya dari basis pengetahuan ke sumber pengetahuan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "Tambah basis pengetahuan sekarang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "Anda telah memilih",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "Yakin ingin menghapus basis pengetahuan {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "Pengaturan tampilan instruksi cepat",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "Tampilkan berdasarkan instruksi panjang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "Tampilkan berdasarkan instruksi pendek",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "Tambah instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "Pilih instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "Semua ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "Detail instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "Buatan saya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "Template bersama",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "Silakan masukkan judul instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "Silakan masukkan penjelasan instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "Yakin ingin menghapus instruksi {title}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "Yakin ingin menghapus grup {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "Nama grup tidak boleh kosong",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "Silakan pilih setidaknya satu instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "Instruksi berhasil ditambahkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "Gagal menambahkan instruksi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "Maksimal hanya bisa menambahkan 50 grup",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "Dapat mengatur keterampilan berdasarkan karakteristik Asisten AI, membuat Asisten AI yang khas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "Mode dialog",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "Atur basis pengetahuan, model besar dapat menjawab pertanyaan pengguna berdasarkan basis pengetahuan, meningkatkan akurasi tanya jawab.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "Atur instruksi cepat, dapat mengatur instruksi khas berdasarkan karakteristik Asisten AI, membuat Asisten AI yang khas. Juga dapat mengatur instruksi yang sering digunakan ke dalam Asisten AI, memudahkan pengguna untuk memanggil dengan cepat.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "Validasi formulir gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "Aktifkan basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "Pengaturan karakter dan logika respons",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "Manajemen basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "Lihat basis pengetahuan yang dibuat di seluruh platform, berikan izin penggunaan untuk lembaga.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "Nama/ID basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "Operasi massal:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "Aktifkan massal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "Aktifkan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "Basis pengetahuan:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "Basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "Aktifkan lembaga",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "Aktifkan basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "Lihat basis pengetahuan yang dirujuk oleh lembaga saat ini. Catatan: Daftar tidak termasuk basis pengetahuan yang dibangun sendiri oleh lembaga.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "Basis pengetahuan yang dipilih",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "Batalkan aktivasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "Yakin ingin membatalkan aktivasi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "Anda telah memilih {num} lembaga",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "Total {n} basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "Belum ada lembaga yang dipilih",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "Belum ada basis pengetahuan yang dipilih",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "Buatan saya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "Diimpor dari luar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "Waktu aktivasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "Anda telah memilih {num} basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "Aktifkan lembaga:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "Aktivasi berhasil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "Aktivasi gagal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "Informasi detail",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "Lembaga:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "Waktu pembuatan:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "Basis pengetahuan yang dirujuk",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "Masukkan nama basis pengetahuan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "Manajemen instruksi umum",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "Kelola instruksi umum, yang dapat dipilih oleh semua guru dan administrator lembaga untuk menggunakan instruksi umum.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "Generasi grafik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "Silakan masukkan total jumlah generasi grafik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "Total jumlah generasi grafik harus berupa angka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "Silakan masukkan jumlah generasi grafik yang tersedia per hari",
+    "description": "aiAssistantManagezh.json"
   }
 }

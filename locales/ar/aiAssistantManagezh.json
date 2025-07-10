@@ -2802,5 +2802,429 @@
   "cropIcon": {
     "message": "لقطة أيقونة",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "إدارة قوالب التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "تنظيم الذكاء الاصطناعي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "استيراد قوالب التعليمات بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "استيراد قوالب الأسئلة والأجوبة بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "وقت الإنشاء:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "حفظ كمسودة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "حفظ ونشر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "تكوين النموذج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "النموذج الكبير متعدد الوسائط يدعم فهم محتوى الصور، بما في ذلك الصور التي لا تحتوي على نص مثل التصاميم، ويدعم الأسئلة والأجوبة بناءً على محتوى الصور.<br/>تحديد النموذج الكبير متعدد الوسائط سيفعل تلقائياً وظيفة تحميل الصور.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "متعدد الوسائط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "النموذج الكبير المفضل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "تعيين كمفضل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "تصحيح ومعاينة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "حفظ ومعاينة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "إعدادات الدور",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "رسالة الترحيب والافتتاحية مطلوبة، يجب ملؤها قبل المعاينة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "الأسئلة المحتملة مطلوبة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "تحديث",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "مهارات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "الرجاء اختيار الحالة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "إحصائيات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "عنصر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "جميع الحالات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "لا يمكن أن تتجاوز الافتتاحية 1000 حرف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "رسالة الترحيب والافتتاحية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "الرجاء إدخال رسالة الترحيب والافتتاحية للمساعدة في توجيه الفهم السريع لمساعد الذكاء الاصطناعي.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "أدخل الأسئلة التي قد يريد المستخدم طرحها لتوجيه بدء المحادثة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "إضافة سؤال",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "مظهر الإنسان الرقمي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "الرجاء اختيار مظهر الإنسان الرقمي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "الرجاء ملء رسائل النظام لوضع سلسلة من القيود على شخصية الدور ومنطق الرد.\nمثال:\n# الدور\nأنت أستاذ جامعي يدرس مقرر موجز التاريخ الصيني الحديث والمعاصر.\n# المهمة\nدعم التحضير لمقرر موجز التاريخ الصيني الحديث والمعاصر.\n# المتطلبات\nللمحتوى غير المتعلق بمقرر موجز التاريخ الصيني الحديث والمعاصر، الرد مباشرة: لا أدعم الإجابة على المحتوى غير المتعلق بمقرر موجز التاريخ الصيني الحديث والمعاصر.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "تم إلغاء عملية الحذف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "يمكن إضافة 5 أسئلة كحد أقصى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "حذف بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "إضافة قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "إجمالي {count} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "عرض مصدر المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "تفعيل عرض مصدر المعرفة: عند الأسئلة والأجوبة، سيتم عرض أسماء الموارد من قاعدة المعرفة في مصدر المعرفة.<br/>عدم تفعيل عرض مصدر المعرفة: عند الأسئلة والأجوبة، سيتم عرض اسم قاعدة المعرفة مباشرة، دون عرض أسماء الموارد من قاعدة المعرفة في مصدر المعرفة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "إضافة قاعدة معرفة الآن",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "لقد اخترت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "هل أنت متأكد من حذف قاعدة المعرفة {name}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "إعدادات عرض التعليمات السريعة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "عرض حسب التعليمات الطويلة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "عرض حسب التعليمات القصيرة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "إضافة تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "اختيار تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "الكل ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "تفاصيل التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "تعليماتي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "القوالب المشتركة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "الرجاء إدخال عنوان التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "الرجاء إدخال وصف التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "هل أنت متأكد من حذف التعليمات {title}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "هل أنت متأكد من حذف المجموعة {name}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "لا يمكن أن يكون اسم المجموعة فارغاً",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "الرجاء اختيار تعليمات واحدة على الأقل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "تمت إضافة التعليمات بنجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "فشلت إضافة التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "يمكن إضافة 50 مجموعة كحد أقصى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "يمكن تعيين المهارات وفقاً لخصائص مساعد الذكاء الاصطناعي لإنشاء مساعد ذكاء اصطناعي مميز.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "طريقة الحوار",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "قم بإعداد قاعدة المعرفة، يمكن للنموذج الكبير الإجابة على أسئلة المستخدم بناءً على قاعدة المعرفة، مما يحسن دقة الأسئلة والأجوبة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "قم بإعداد التعليمات السريعة، يمكن تعيين تعليمات مميزة وفقاً لخصائص مساعد الذكاء الاصطناعي لإنشاء مساعد ذكاء اصطناعي مميز. يمكن أيضاً تعيين التعليمات المستخدمة بشكل متكرر في مساعد الذكاء الاصطناعي لتسهيل الاستدعاء السريع للمستخدمين.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "فشل التحقق من النموذج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "فتح قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "شخصية الدور ومنطق الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "إدارة قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "عرض قواعد المعرفة المنشأة على مستوى المنصة وفتح حقوق الاستخدام للمؤسسات.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "اسم/معرف قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "عمليات الجملة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "فتح بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "فتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "قاعدة المعرفة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "فتح للمؤسسة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "فتح قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "عرض قواعد المعرفة المرجعية للمؤسسة الحالية. ملاحظة: لا تتضمن القائمة قواعد المعرفة التي أنشأتها المؤسسة بنفسها.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "قواعد المعرفة المختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "إلغاء الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "هل أنت متأكد من إلغاء الفتح؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "لقد اخترت {num} مؤسسة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "إجمالي {n} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "لا توجد مؤسسات مختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "لا توجد قواعد معرفة مختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "إنشائي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "استيراد خارجي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "وقت الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "لقد اخترت {num} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "فتح المؤسسة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "تم الفتح بنجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "فشل الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "معلومات مفصلة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "المؤسسة المنتمية:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "وقت الإنشاء:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "قاعدة المعرفة المرجعية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "أدخل اسم قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "إدارة التعليمات العامة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "إدارة التعليمات العامة، متاحة لجميع معلمي ومديري المؤسسات لاختيار التعليمات العامة للاستخدام.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "إنشاء المخطط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "الرجاء إدخال العدد الإجمالي لمرات إنشاء المخطط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "يجب أن يكون العدد الإجمالي لمرات إنشاء المخطط رقماً",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "الرجاء إدخال عدد مرات إنشاء المخطط المتاحة يومياً",
+    "description": "aiAssistantManagezh.json"
   }
 }
