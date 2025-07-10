@@ -3963,6 +3963,10 @@
     "message": "ยกเลิก",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "การอนุญาต",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "กรุณาใส่พาสเวิร์ดยืนยัน",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "เวลาเริ่มต้นกิจกรรมต้องไม่มากกว่าเวลาสิ้นสุดกิจกรรม",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "การตั้งค่าหลายภาษา",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "การตั้งค่าหลายภาษาของชื่อเว็บไซต์",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "กรุณาป้อน {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "ค่าภาษาเริ่มต้นไม่สามารถเป็นค่าว่างได้",
+  "defaultLangError": {
+    "message": "ชื่อภาษาเริ่มต้นของสถาบันไม่สามารถว่าง!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4177,6 +4169,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "แนะนำมหาวิทยาลัย/คณะ",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "การตั้งค่าหลายภาษา",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "การตั้งค่าหลายภาษาของชื่อเว็บไซต์",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "กรุณาป้อน {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "ค่าภาษาเริ่มต้นไม่สามารถเป็นค่าว่างได้",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {

@@ -3963,6 +3963,10 @@
     "message": "取消",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "權限",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "請輸入確認密碼",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "啟用開始時間不能大於活動結束時間",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "多語言設置",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "網站名稱多語言設置", 
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "請輸入{lang}語言",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "默認語言的值不能為空",
+  "defaultLangError": {
+    "message": "機构默認語言標題不能為空！",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4177,6 +4169,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "大學簡介/學院簡介",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "多語言設置",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "網站名稱多語言設置",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "請輸入{lang}語言",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "默認語言的值不能為空",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {

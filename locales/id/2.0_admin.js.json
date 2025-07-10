@@ -3963,6 +3963,10 @@
     "message": "Membatalkan",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "Izin",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "Silahkan masukkan kata sandi yang dikonfirmasi",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "Waktu mulai aktivitas tidak boleh lebih besar dari waktu akhir acara",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Pengaturan Multi Bahasa",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Pengaturan Multi Bahasa Nama Situs", 
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Silakan masukkan {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "Nilai bahasa default tidak boleh kosong",
+  "defaultLangError": {
+    "message": "Judul bahasa default lembaga tidak bisa kosong!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4177,6 +4169,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "Pengenalan Universitas/Fakultas",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Pengaturan Multi Bahasa",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Pengaturan Multi Bahasa Nama Situs",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Silakan masukkan {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Nilai bahasa default tidak boleh kosong",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {
@@ -4284,7 +4292,7 @@
     "description": "2.0 admin.js"
   },
   "otherSetting.byEmail": {
-    "message": "Melalui email", 
+    "message": "Melalui email",
     "description": "2.0 admin.js"
   },
   "otherSetting.byAccount": {

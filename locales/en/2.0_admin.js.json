@@ -3963,6 +3963,10 @@
     "message": "Cancel",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "permission",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "enter the confirm password",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "event start time cannot be greater than the event end time",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Multilingual Settings",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Website Name Multilingual Settings",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Please enter {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "Default language value cannot be empty",
+  "defaultLangError": {
+    "message": "The default language title of the institution cannot be empty!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4177,6 +4169,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "University/College Introduction",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Multilingual Settings",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Website Name Multilingual Settings",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Please enter {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Default language value cannot be empty",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {

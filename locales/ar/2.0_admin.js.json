@@ -3963,6 +3963,10 @@
     "message": "جميع الكليات",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "أذونات",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "الرجاء إدخال كلمة المرور الصحيحة",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "إعدادات متعددة اللغات",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "إعدادات اسم الموقع متعدد اللغات",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "الرجاء إدخال {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "لا يمكن أن تكون قيمة اللغة الافتراضية فارغة",
+  "defaultLangError": {
+    "message": "اللغة الافتراضية عنوان المؤسسة لا يمكن أن تكون فارغة !",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4177,6 +4169,22 @@
   },
   "educationUniversity.universityIntro": {
     "message": "تعريف الجامعة/الكلية",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "إعدادات متعددة اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "إعدادات اسم الموقع متعدد اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "الرجاء إدخال {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "لا يمكن أن تكون قيمة اللغة الافتراضية فارغة",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourceLibraryName": {
