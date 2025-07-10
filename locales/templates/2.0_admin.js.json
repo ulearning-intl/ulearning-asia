@@ -4262,5 +4262,141 @@
   "resourceLibraryCtrl.resourseLib": {
     "message": "资源库",
     "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "共享",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "上传", 
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "全部类型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "全部上传状态",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "复制和分享记录",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "资源发布记录",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "其他设置",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "通过邮件",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "通过账号",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "请输入输入用户邮箱，多个用户使用逗号隔开",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "请从已有账号选择需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "请输入重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "请输入用户名称或邮箱",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "从已有账号选择",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "批量重置密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "选择用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "已选中:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "请至少选择一种方式设置需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "修改成功{successCount}个,修改失败{failCount}个",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "本页全选",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "本页清除",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "仅删除资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "删除发布到课程的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "删除复制到资源库的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "发布/复制都删除",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "请选择要把资源发布到哪些课程：",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "全选",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "发布成功",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "发布失败",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "还没有课程，请先创建课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "请先选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "删除失败",
+    "description": "2.0 admin.js"
   }
 }

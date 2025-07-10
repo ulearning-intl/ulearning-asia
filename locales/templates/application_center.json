@@ -1054,5 +1054,341 @@
   "addApp.notEnabledSystem": {
     "message": "该机构暂未开通智慧思政教学系统，请联系管理员",
     "description": "application_center.json"
+  },
+  "navbar.webManage": {
+    "message": "网站管理",
+    "description": "application_center.json"
+  },
+  "common.complete": {
+    "message": "完成",
+    "description": "application_center.json"
+  },
+  "common.back": {
+    "message": "返回",
+    "description": "application_center.json"
+  },
+  "common.copy": {
+    "message": "复制",
+    "description": "application_center.json"
+  },
+  "common.preview": {
+    "message": "预览",
+    "description": "application_center.json"
+  },
+  "addApp.imgEmpty": {
+    "message": "应用图标不能为空",
+    "description": "application_center.json"
+  },
+  "addApp.superAdmin": {
+    "message": "服务账号",
+    "description": "application_center.json"
+  },
+  "addApp.webName": {
+    "message": "网站名称",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebName": {
+    "message": "请输入网站名称",
+    "description": "application_center.json"
+  },
+  "addApp.domainName": {
+    "message": "网站域名",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebHost": {
+    "message": "仅输入数字，字母以及“-”，其中“-”不得在头尾",
+    "description": "application_center.json"
+  },
+  "addApp.webTabIcon": {
+    "message": "浏览器标签页图标",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnter": {
+    "message": "请输入",
+    "description": "application_center.json"
+  },
+  "addApp.suggestWebTabIconUpload": {
+    "message": "建议上传16×16px（PNG透明背景）文件大小不超过50kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadLogo": {
+    "message": "请上传logo",
+    "description": "application_center.json"
+  },
+  "addApp.logoExample": {
+    "message": "示例图",
+    "description": "application_center.json"
+  },
+  "addApp.suggesWebLogoUpload": {
+    "message": "建议尺寸：最小高度30px，宽度自适应（PNG透明背景）文件大小不超过150kb",
+    "description": "application_center.json"
+  },
+  "addApp.fileSizeNoMore": {
+    "message": "文件大小不能超过{num}kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadImgHeight": {
+    "message": "请上传高度大于等于30px的文件",
+    "description": "application_center.json"
+  },
+  "addApp.loginBgImg": {
+    "message": "登录页背景",
+    "description": "application_center.json"
+  },
+  "addApp.suggestLoginBgImgUpload": {
+    "message": "建议尺寸：比例16:9，支持jpg、jpeg、png格式，大小不超过6M",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSet": {
+    "message": "整体风格设置",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSetTip": {
+    "message": "修改导航栏和菜单的风格",
+    "description": "application_center.json"
+  },
+  "addApp.themeColor": {
+    "message": "网站主题色",
+    "description": "application_center.json"
+  },
+  "addApp.themeColorTip": {
+    "message": "为了确保内容清晰可见，请避免选择过于浅的主题色",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseLoginBgImg": {
+    "message": "请上传登录页背景",
+    "description": "application_center.json"
+  },
+  "addApp.copySuccess": {
+    "message": "复制成功",
+    "description": "application_center.json"
+  },
+  "addApp.copyFail": {
+    "message": "复制失败",
+    "description": "application_center.json"
+  },
+  "appCenter.initSetting": {
+    "message": "初始化配置",
+    "description": "application_center.json"
+  },
+  "appCenter.initSettingTip": {
+    "message": "注意：这里只是配置学校的应用中心里显示哪些应用库，部分应用库需要开通授权后才可正常使用，授权的开通请联系服务人员。",
+    "description": "application_center.json"
+  },
+  "appCenter.apps": {
+    "message": "应用库",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyManagement": {
+    "message": "分类管理",
+    "description": "application_center.json"
+  },
+  "appCenter.plsEnter": {
+    "message": "请输入内容",
+    "description": "application_center.json"
+  },
+  "appCenter.addNewApp": {
+    "message": "新建应用",
+    "description": "application_center.json"
+  },
+  "appCenter.defaultClassify": {
+    "message": "默认分类",
+    "description": "application_center.json"
+  },
+  "appCenter.description": {
+    "message": "备注",
+    "description": "application_center.json"
+  },
+  "appCenter.action": {
+    "message": "操作",
+    "description": "application_center.json"
+  },
+  "appCenter.delete": {
+    "message": "删除",
+    "description": "application_center.json"
+  },
+  "appCenter.addUpdateApp": {
+    "message": "添加/修改应用库",
+    "description": "application_center.json"
+  },
+  "appCenter.allClassify": {
+    "message": "全部分类",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteTip": {
+    "message": "删除后不可恢复，确定删除？",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteApp": {
+    "message": "删除应用",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteSuccess": {
+    "message": "删除成功",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess": {
+    "message": "添加成功",
+    "description": "application_center.json"
+  },
+  "appCenter.orderIndex": {
+    "message": "序号",
+    "description": "application_center.json"
+  },
+  "appCenter.orgId": {
+    "message": "机构ID",
+    "description": "application_center.json"
+  },
+  "appCenter.orgName": {
+    "message": "机构名称",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyName": {
+    "message": "分类名称",
+    "description": "application_center.json"
+  },
+  "appCenter.app": {
+    "message": "应用",
+    "description": "application_center.json"
+  },
+  "appCenter.selectInApps": {
+    "message": "从应用库里选择",
+    "description": "application_center.json"
+  },
+  "appCenter.max20Classify": {
+    "message": "最多20个分类",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip": {
+    "message": "应用名称为2-50个字",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip1": {
+    "message": "应用名称不超过50字",
+    "description": "application_center.json"
+  },
+  "appCenter.name": {
+    "message": "名称",
+    "description": "application_center.json"
+  },
+  "appCenter.link": {
+    "message": "链接",
+    "description": "application_center.json"
+  },
+  "appCenter.icon": {
+    "message": "图标",
+    "description": "application_center.json"
+  },
+  "appCenter.imgLimitTip": {
+    "message": "jpg/jpeg/png格式图片，不超过2M建议尺寸200px*200px",
+    "description": "application_center.json"
+  },
+  "appCenter.info": {
+    "message": "简介",
+    "description": "application_center.json"
+  },
+  "appCenter.enterInfo": {
+    "message": "输入简介内容",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassifyTip": {
+    "message": "确认删除该分类么？",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassify": {
+    "message": "删除分类",
+    "description": "application_center.json"
+  },
+  "appCenter.editClassify": {
+    "message": "修改分类",
+    "description": "application_center.json"
+  },
+  "appCenter.add": {
+    "message": "新建",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess1": {
+    "message": "新建成功",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyNameNotEmpty": {
+    "message": "分类名称不能为空",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resource": {
+    "message": "资源库",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addNewResource": {
+    "message": "新建资源",
+    "description": "application_center.json"
+  },
+  "resourceCenter.initSettingTip": {
+    "message": "注意：这里只是配置学校的资源中心里显示哪些资源库，部分资源库需要开通授权后才可正常使用，授权的开通请联系服务人员。",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceCenter": {
+    "message": "资源中心",
+    "description": "application_center.json"
+  },
+  "resourceCenter.manageResource": {
+    "message": "管理本校资源库",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addResource": {
+    "message": "添加资源库",
+    "description": "application_center.json"
+  },
+  "resourceCenter.selectFromResource": {
+    "message": "从资源库里选择",
+    "description": "application_center.json"
+  },
+  "resourceCenter.enterSearch": {
+    "message": "输入进行搜索",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceManage": {
+    "message": "资源管理",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collect": {
+    "message": "收藏",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectSuccess": {
+    "message": "收藏成功",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectError": {
+    "message": "收藏失败",
+    "description": "application_center.json"
+  },
+  "resourceCenter.cancelCollectSuccess": {
+    "message": "取消收藏成功",
+    "description": "application_center.json"
+  },
+  "resourceCenter.imgLimitTip": {
+    "message": "jpg/jpeg/png格式图片，不超过2M建议尺寸356px*200px",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addUpdateResource": {
+    "message": "添加/修改资源库",
+    "description": "application_center.json"
+  },
+  "resourceCenter.address": {
+    "message": "地址：",
+    "description": "application_center.json"
+  },
+  "resourceCenter.classify": {
+    "message": "分类：",
+    "description": "application_center.json"
+  },
+  "resourceCenter.remark": {
+    "message": "简介：",
+    "description": "application_center.json"
+  },
+  "resourceCenter.deleteResource": {
+    "message": "删除资源应用",
+    "description": "application_center.json"
   }
 }

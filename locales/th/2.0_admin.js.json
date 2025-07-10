@@ -3963,6 +3963,10 @@
     "message": "ยกเลิก",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "การอนุญาต",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "กรุณาใส่พาสเวิร์ดยืนยัน",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "เวลาเริ่มต้นกิจกรรมต้องไม่มากกว่าเวลาสิ้นสุดกิจกรรม",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "การตั้งค่าหลายภาษา",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "การตั้งค่าหลายภาษาของชื่อเว็บไซต์",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "กรุณาป้อน {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "ค่าภาษาเริ่มต้นไม่สามารถเป็นค่าว่างได้",
+  "defaultLangError": {
+    "message": "ชื่อภาษาเริ่มต้นของสถาบันไม่สามารถว่าง!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4179,6 +4171,22 @@
     "message": "แนะนำมหาวิทยาลัย/คณะ",
     "description": "2.0 admin.js"
   },
+  "website.title": {
+    "message": "การตั้งค่าหลายภาษา",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "การตั้งค่าหลายภาษาของชื่อเว็บไซต์",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "กรุณาป้อน {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "ค่าภาษาเริ่มต้นไม่สามารถเป็นค่าว่างได้",
+    "description": "2.0 admin.js"
+  },
   "resourceLibraryCtrl.resourceLibraryName": {
     "message": "ชื่อไลบรารีทรัพยากร",
     "description": "2.0 admin.js"
@@ -4205,6 +4213,190 @@
   },
   "resourceLibraryCtrl.size": {
     "message": "ขนาด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "เวลาที่สร้าง",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "โฟลเดอร์",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "ไฟล์บีบอัด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "อื่นๆ",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "ทรัพยากรเสมือน",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "ลิงก์",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "หลังจากลบแล้วไม่สามารถกู้คืนได้ คุณต้องการลบหรือไม่",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "วิธีการเรียงลำดับ:",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "บันทึกการดำเนินการ",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "กรุณาป้อนชื่อผู้สร้างหรือชื่อไฟล์เพื่อกรอง",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "คลังทรัพยากร",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "แบ่งปัน",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "อัปโหลด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "ประเภททั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "สถานะการอัปโหลดทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "บันทึกการคัดลอกและแบ่งปัน",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "บันทึกการเผยแพร่ทรัพยากร",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "การตั้งค่าอื่นๆ",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "ผ่านทางอีเมล",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "ผ่านทางบัญชี",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "กรุณาป้อนอีเมลผู้ใช้ คั่นด้วยเครื่องหมายจุลภาคสำหรับหลายผู้ใช้",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "กรุณาเลือกผู้ใช้ที่ต้องการเปลี่ยนรหัสผ่านจากบัญชีที่มีอยู่",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "กรุณาป้อนรหัสผ่านเริ่มต้นหลังจากรีเซ็ต",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "กรุณาป้อนชื่อผู้ใช้หรืออีเมล",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "เลือกจากบัญชีที่มีอยู่",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "รหัสผ่านเริ่มต้นหลังจากรีเซ็ต",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "รีเซ็ตรหัสผ่านแบบกลุ่ม",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "เลือกผู้ใช้",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "เลือกแล้ว:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "กรุณาเลือกวิธีการตั้งค่าผู้ใช้ที่ต้องการเปลี่ยนรหัสผ่านอย่างน้อยหนึ่งวิธี",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "แก้ไขสำเร็จ {successCount} รายการ, แก้ไขล้มเหลว {failCount} รายการ",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "เลือกทั้งหมดในหน้านี้",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "ล้างหน้านี้",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "ลบเฉพาะทรัพยากร",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "ลบทรัพยากรที่เผยแพร่ในหลักสูตร",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "ลบทรัพยากรที่คัดลอกไปยังคลังทรัพยากร",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "ลบทั้งการเผยแพร่/คัดลอก",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "เลือกหลักสูตร",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "กรุณาเลือกหลักสูตรที่ต้องการเผยแพร่ทรัพยากร:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "เลือกทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "เผยแพร่สำเร็จ",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "เผยแพร่ล้มเหลว",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "ยังไม่มีหลักสูตร กรุณาสร้างหลักสูตรก่อน",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "กรุณาเลือกหลักสูตรก่อน",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "ลบล้มเหลว",
     "description": "2.0 admin.js"
   }
 }

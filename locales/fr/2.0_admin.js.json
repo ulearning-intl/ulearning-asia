@@ -3963,6 +3963,10 @@
     "message": "Annuler",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "Permissions",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "Veuillez entrer le mot de passe correct",
     "description": "2.0 admin.js"
@@ -4069,6 +4073,330 @@
   },
   "event.startTImenotGreaterThanEndTime": {
     "message": "L’heure de début de l’activité ne peut pas être supérieure à l’heure de fin de l’événement",
+    "description": "2.0 admin.js"
+  },
+  "defaultLangError": {
+    "message": "Le titre dans la langue par défaut de l'établissement ne peut pas être vide !",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "Demande d'adhésion",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "Nom de l'établissement",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "Nom de l'établissement en anglais",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "Pays/Région",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "Contact",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "Téléphone",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "Email",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "Date de demande",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "Voir les détails",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "Rechercher par nom d'établissement",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "Détails de la demande d'adhésion",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< Retour",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "Logo de l'établissement",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "Aperçu du logo",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "Nom de l'établissement",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "Nom de l'établissement en anglais",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Année de création",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "Adresse de l'université",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Contact",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "Site web de l'université",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Numéro de téléphone",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "Email",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "Présentation de l'université/faculté",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "Paramètres multilingues",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Paramètres multilingues du nom du site",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Veuillez saisir la langue {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "La valeur de la langue par défaut ne peut pas être vide",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "Nom de la ressource",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "Créateur",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "Copieur",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·Fichier actuellement consulté",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "Institution",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "Type",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "Taille",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "Date de création",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "Dossier",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "Archive",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "Autre",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "Ressource virtuelle",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "Lien",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "La suppression est irréversible, voulez-vous supprimer?",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "Mode de tri:",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "Journal des opérations",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "Veuillez saisir le créateur ou le nom du fichier pour filtrer",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "Bibliothèque de ressources",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "Partager",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "Télécharger",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "Tous les types",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "Tous les états de téléchargement",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "Historique des copies et partages",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "Historique des publications de ressources",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "Autres paramètres",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "Par e-mail",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "Par compte",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "Veuillez saisir les adresses e-mail des utilisateurs, séparez plusieurs utilisateurs par des virgules",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "Veuillez sélectionner les utilisateurs dont le mot de passe doit être modifié parmi les comptes existants",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "Veuillez saisir le mot de passe par défaut après réinitialisation",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "Veuillez saisir le nom d'utilisateur ou l'e-mail",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "Sélectionner parmi les comptes existants",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "Mot de passe par défaut après réinitialisation",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "Réinitialisation par lot des mots de passe",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "Sélectionner des utilisateurs",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "Sélectionné:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "Veuillez sélectionner au moins une méthode pour définir les utilisateurs dont le mot de passe doit être modifié",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "{successCount} modifiés avec succès, {failCount} échecs de modification",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "Tout sélectionner sur cette page",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "Tout effacer sur cette page",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "Supprimer uniquement la ressource",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Supprimer les ressources publiées dans les cours",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Supprimer les ressources copiées dans la bibliothèque",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Supprimer les ressources publiées et copiées",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "Sélectionner un cours",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "Veuillez sélectionner les cours dans lesquels publier les ressources :",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "Tout sélectionner",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Publication réussie",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "Échec de la publication",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "Aucun cours disponible, veuillez d'abord créer un cours",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "Veuillez d'abord sélectionner un cours",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "Échec de la suppression",
     "description": "2.0 admin.js"
   }
 }
