@@ -2710,5 +2710,253 @@
   "generateKnowledge": {
     "message": "生成图谱",
     "description": "aiAssistantzh.json"
+  },
+  "generating1": {
+    "message": "正在生成...",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerate": {
+    "message": "重新生成",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "上一步",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "下一步",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "生成知识点",
+    "description": "aiAssistantzh.json"
+  },
+  "generateQuestions": {
+    "message": "生成题目",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "保存图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "添加子级",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "输入知识点名称",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "确定重新生成吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSaveKnowledgeFirst": {
+    "message": "请先保存知识点",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointLimitExceeded": {
+    "message": "知识点总数不能超过200，请先删除部分知识点",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmLeaveWithoutSaving": {
+    "message": "现在离开，将不保存已生成的内容，确定离开吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints": {
+    "message": "知识点总数",
+    "description": "aiAssistantzh.json"
+  },
+  "startGeneratingQuestions": {
+    "message": "开始生成题目",
+    "description": "aiAssistantzh.json"
+  },
+  "questionGenerationPrompt": {
+    "message": "点击按钮将自动为每个知识点生成关联的测验题目，<br/>如果不需要，可以点击【下一步】跳过此步。",
+    "description": "aiAssistantzh.json"
+  },
+  "difficultyLevel": {
+    "message": "难度：{level}",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "容易",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "一般",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "困难",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "知识点{order}：",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "整体进度：",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "当前知识点：",
+    "description": "aiAssistantzh.json"
+  },
+  "totalQuestionsNums": {
+    "message": "共{n}道题",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "正在生成题目……",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmStopGenerating": {
+    "message": "停止后将结束生成题目，确定停止吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmReturnWithoutSaving": {
+    "message": "返回上一步，将不保存已生成的题目，确定返回吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointNameWithCount": {
+    "message": "知识点名称（{n}个）",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeType": {
+    "message": "节点类型",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "知识单元",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "题目数量",
+    "description": "aiAssistantzh.json"
+  },
+  "createAndSaveGraph": {
+    "message": "创建并保存图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "savingGraph": {
+    "message": "正在保存图谱，请勿关闭页面...",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "保存失败",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveFailed": {
+    "message": "图谱保存失败，请稍后重试！",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveSuccess": {
+    "message": "图谱保存成功",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccess": {
+    "message": "图谱创建成功！",
+    "description": "aiAssistantzh.json"
+  },
+  "viewGraph": {
+    "message": "查看图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "manageGraph": {
+    "message": "管理图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccessDesc": {
+    "message": "图谱创建成功，你还可以{manageGraph}或{returnToHome}",
+    "description": "aiAssistantzh.json"
+  },
+  "returnToHome": {
+    "message": "返回主页",
+    "description": "aiAssistantzh.json"
+  },
+  "stopGenerating": {
+    "message": "停止生成",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGraphGeneration": {
+    "message": "AI生成图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraphGenerationDesc": {
+    "message": "基于知识库智能生成知识图谱",
+    "description": "aiAssistantzh.json"
+  },
+  "graphName": {
+    "message": "图谱名称",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "请输入图谱名称",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevel": {
+    "message": "图谱层级",
+    "description": "aiAssistantzh.json"
+  },
+  "includeRootNode": {
+    "message": "(包含根节点)",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints1": {
+    "message": "知识点总数",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "请选择",
+    "description": "aiAssistantzh.json"
+  },
+  "startGenerate": {
+    "message": "开始生成",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameRequired": {
+    "message": "图谱名称不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameLength": {
+    "message": "图谱名称在1到200个字符之间",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevelRequired": {
+    "message": "图谱层级不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePointsRequired": {
+    "message": "知识点总数不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "单选",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "多选",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "判断",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgePointsTip": {
+    "message": "所选知识点如果包含子级知识点，将同步删除。确定删除吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeNameLength": {
+    "message": "知识点名称在1到200个字符之间",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLimitExceeded": {
+    "message": "今日次数已用完",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyGenerationLimit": {
+    "message": "每日可使用生成图谱{count}次",
+    "description": "aiAssistantzh.json"
   }
 }
