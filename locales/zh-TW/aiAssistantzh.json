@@ -1946,5 +1946,769 @@
   "startVoiceChat": {
     "message": "開啟智慧體語音",
     "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "查看討論實錄",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "發起新對話",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "智慧體管理",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "啟動智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "你已靜音",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "對話記錄",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "暫無對話記錄",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "學生的觀點總結",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "思考的維度",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "優點",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "進一步提升點",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "討論時長：{num}分鐘",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "討論次數：{num}次",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "字數：{num}字",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "對話實錄",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "AI點評",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "討論助手",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "AI 應用",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "AI智慧",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "有圖片正在上傳，請稍後再試",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "一次僅可上傳{n}張圖片",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "圖片大小不能超過{n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "不支援該類型檔案",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "該大模型不支援圖片",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "總共{num}條",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "內容源",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "AI正在分析中，請稍等",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "正在為您精心挑選…",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "資源預覽彈窗",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "訪問該網址",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "課程團隊",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "課程簡介",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "該檔案不支援線上預覽",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "轉碼中，請稍後查看",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "靜音",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "取消靜音",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "播放",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "全螢幕",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "關閉",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "暫無訪問權限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "服務未開啟，暫無訪問權限",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "請登入後查看",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "工作流",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "我創建的智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "我收藏的智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "選擇分類",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "重置",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "課霸",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "作業扛把子",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "考神附體",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "回帖狂魔",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "AI頭號玩家",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "神秘訪客",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "潛力股",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "知識旱區",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "打卡特困生",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "划水大師",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "作業絕緣體",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "掛科邊緣人",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "吃瓜群眾",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "AI萌新",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "訪問課程 {count} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "作業平均分 {grade} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "考試平均分 {grade} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "討論發帖 {count} 次，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "AI助手使用 {chatCount} 次，AI工具使用 {toolCount} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "當前綜合成績 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "掌握度60%以下的知識點數量 {count} 個",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "課堂平均出勤率 {rate} %",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "課件學習時長 {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "作業平均分 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "考試平均分 {grade} 分",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "討論發帖 {count} 次",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "全部學生",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "輸入姓名/學號搜索",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "沒有更多數據了",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "未搜索到相關內容",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "學習任務",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "知識掌握",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "課堂表現",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "考核成績",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "AI助學",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "知識點",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "平均掌握度",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "掌握度較好",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "掌握度一般",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "掌握度較差",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "未測驗",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "能力目標",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "平均達成度：",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "薄弱知識點",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "查看詳情",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "該學生",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "等 {num} 個知識點掌握情況較差，請及時關注學生知識掌握情況。",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "問題類型",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "提問次數",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "自由提問",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "指令提問",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "常用指令",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "問題關鍵詞",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "整體排名：",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "簽到率",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "考勤",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "已簽到",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "缺勤",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "病假",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "事假",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "遲到",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "早退",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "課堂互動",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "參與次數：",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "總積分：",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "積分",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "投票",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "搶答",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "選人",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "打分",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "拍照上傳",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "答題",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "課件學習",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "學習進度：",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "作業/考試",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "完成數：",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "切換學生",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "學號：",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "班級：",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "學院：",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "導出",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "課程綜合表現",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "暫無可分析的數據",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "AI助手使用",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "正在生成PDF，請稍候...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "學生畫像系統",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "學生學習畫像報告",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "無法找到要導出的內容",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "PDF導出成功",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "PDF導出失敗",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "課件：",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "作業：",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "考試：",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "AI助手：",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "AI工具：",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "次",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "課堂出勤率：",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "課堂互動參與率：",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "知識掌握度：",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "能力目標達成度：",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "最終成績：",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "智能學生畫像，助力個性化教學",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "查看全部學生",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "滿分戰神",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "當前綜合成績 {grade} 分，排名第 {rank} ",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "知識點金手",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "掌握度超過80%的知識點數量 {count} 個，排名第 {rank} ",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "課堂C位",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "課堂互動獲得總積分 {points} 分，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "時長卷王",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "課件學習時長 {time}，排名第一",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "進度",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "小組作業",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "完成數",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "總數",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "學生畫像",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "AI分析",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "學生畫像",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "當前機構未開通AI能力",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "您還沒有創建智慧體",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "您還沒有創建智慧體，前往智慧體廣場創建您專屬的智慧體吧",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "當前機構未開通該AI應用/工具",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "教學設計",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "教學目標",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "學情與教材分析",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "教學內容",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "教學方法與手段",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "教學過程",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "作業與板書",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "創新與素養",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "目標明確具體，體現學科核心素養/三維目標整合，符合課標要求與學生實際，兼顧全體與個性發展。",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "準確把握學生知識基礎、能力水平及學習特點，預見學習難點並制定針對性策略。  清晰說明教材地位、知識邏輯及與課標的關聯，合理處理教學內容",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "知識點科學完整，重點突出、難點明確；素材選取貼近學生，兼顧基礎性與拓展性，體現學科思想方法。",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "方法貼合學科特點與學生認知，注重啟發探究；手段（教具、技術等）運用恰當，有效突破重難點。",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "環節設計：導入、新授、練習、小結等環節完整，邏輯連貫，時間分配合理。",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "學生參與：突出學生主體，設計互動探究活動，及時反饋評價，處理預設與生成。",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "能力培養：注重學科思維與學習方法指導，展現知識建構過程。",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "作業設計分層合理、量適中，形式多樣，對接教學目標。  板書清晰呈現知識框架；小結簡明梳理重點，引導反思。",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "教學設計有新意，體現課程理念；教師教態自然，專業素養（如表達、示範等）良好。",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "開發者中心",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "影片分析時間較長，可關閉當前頁面，稍後在歷史記錄中查看。",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "機構使用次數已耗盡",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyFormulaRecognitionLimit": {
+    "message": "每日可使用公式識別{count}次",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledge": {
+    "message": "生成圖譜",
+    "description": "aiAssistantzh.json"
   }
 }

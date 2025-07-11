@@ -2882,5 +2882,349 @@
   "knowledge": {
     "message": "知識",
     "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "技能",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "請選擇狀態",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "統計",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "個",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "全部狀態",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "開場白不能超過1000字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "歡迎語與開場白",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "請輸入歡迎語與開場白，幫助引導快速了解AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "輸入使用者可能想問的問題，引導用戶開啟對話",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "添加問題",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "數位人形象",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "請選擇數位人形象",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "請填寫系統提示詞，對人設與回覆邏輯做出一系列約束。\n示例：\n# 角色\n你是一位教中國近現代史綱要課程的大學教師。\n# 任務\n為我做中國近現代史綱要課程備課做支持。\n# 要求\n與中國近現代史綱要課程無關的內容直接回覆：我不支持回答與中國近現代史綱要課程無關的內容。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "刪除操作已取消",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "最多只能添加5個問題",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "批量刪除",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "添加知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "共 {count} 個知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "展示知識來源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "開啟展示知識來源：在進行問答時，將展示知識庫中的資源名稱到知識來源中。<br/>不開啟展示知識來源：在進行問答時，將直接展示知識庫名稱，不展示知識庫中的資源名稱到知識來源中。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "立即添加知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "您已選擇",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "個知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "確定刪除 {name} 知識庫嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "快捷指令展示設置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "按長指令展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "按短指令展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "添加指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "選擇指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "全部（{count}）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "指令詳情",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "個指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "我創建的",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "共享模板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "請輸入指令標題",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "請輸入指令說明",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "確定刪除 {title} 指令嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "確定刪除 {name} 分組嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "分組名稱不能為空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "請至少選擇一個指令",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "指令添加成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "添加指令失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "最多只能添加50個分組",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "可根據AI助手的特點設置技能，打造特色AI助手。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "對話方式",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "設置知識庫，大模型可基於知識庫回答用戶問題，提高問答的精準度。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "設置快捷指令，可根據AI助手的特點，設置特色指令，打造AI助手特色。也可將常用的指令預設到AI助手中，方便用戶快速調用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "表單驗證失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "開通知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "人設與回覆邏輯",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "知識庫管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "查看全平台創建的知識庫，為機構開通使用權限。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "知識庫名稱/ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "批量操作：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "批量開通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "開通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "知識庫：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "開通機構",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "開通知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "查看當前機構引用的知識庫。注意：列表中不包含機構自建知識庫。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "已選知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "取消開通",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "確定取消開通嗎？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "您已選擇{num}個機構",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "共{n}個知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "暫無已選機構",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "暫無已選知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "我創建的",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "外部引入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "開通時間",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "您已選擇{num}個知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "開通機構：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "開通成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "開通失敗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "詳細信息",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "所屬機構：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "創建時間：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "引用知識庫",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "輸入知識庫名稱",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "通用指令管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "管理通用指令，可供所有機構教師和管理員選擇通用指令使用。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "生成圖譜",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "請輸入生成圖譜總次數",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "生成圖譜總次數必須是數字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "請輸入生成圖譜每天可用次數",
+    "description": "aiAssistantManagezh.json"
   }
 }
