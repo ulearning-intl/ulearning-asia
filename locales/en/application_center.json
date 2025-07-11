@@ -1054,5 +1054,293 @@
   "addApp.notEnabledSystem": {
     "message": "Your school has not yet enabled this system. Please contact the admin.",
     "description": "application_center.json"
+  },
+  "navbar.webManage": {
+    "message": "Website Management",
+    "description": "application_center.json"
+  },
+  "common.complete": {
+    "message": "Complete",
+    "description": "application_center.json"
+  },
+  "common.back": {
+    "message": "Back",
+    "description": "application_center.json"
+  },
+  "common.copy": {
+    "message": "Copy",
+    "description": "application_center.json"
+  },
+  "common.preview": {
+    "message": "Preview",
+    "description": "application_center.json"
+  },
+  "addApp.imgEmpty": {
+    "message": "App icon cannot be empty",
+    "description": "application_center.json"
+  },
+  "addApp.superAdmin": {
+    "message": "Service Account",
+    "description": "application_center.json"
+  },
+  "addApp.webName": {
+    "message": "Website Name",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebName": {
+    "message": "Please enter website name",
+    "description": "application_center.json"
+  },
+  "addApp.domainName": {
+    "message": "Website Domain",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebHost": {
+    "message": "Only numbers, letters and '-' are allowed. '-' cannot be at the start or end",
+    "description": "application_center.json"
+  },
+  "addApp.webTabIcon": {
+    "message": "Browser Tab Icon",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnter": {
+    "message": "Please enter",
+    "description": "application_center.json"
+  },
+  "addApp.suggestWebTabIconUpload": {
+    "message": "Recommended size: 16×16px (PNG with transparent background), file size should not exceed 50kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadLogo": {
+    "message": "Please upload logo",
+    "description": "application_center.json"
+  },
+  "addApp.logoExample": {
+    "message": "Example Image",
+    "description": "application_center.json"
+  },
+  "addApp.suggesWebLogoUpload": {
+    "message": "Recommended size: minimum height 30px, adaptive width (PNG with transparent background), file size should not exceed 150kb",
+    "description": "application_center.json"
+  },
+  "addApp.fileSizeNoMore": {
+    "message": "File size cannot exceed {num}kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadImgHeight": {
+    "message": "Please upload a file with height greater than or equal to 30px",
+    "description": "application_center.json"
+  },
+  "addApp.loginBgImg": {
+    "message": "Login Page Background",
+    "description": "application_center.json"
+  },
+  "addApp.suggestLoginBgImgUpload": {
+    "message": "Recommended size: 16:9 ratio, supports jpg, jpeg, png formats, size should not exceed 6M",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSet": {
+    "message": "Overall Style Settings",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSetTip": {
+    "message": "Modify the style of navigation bar and menu",
+    "description": "application_center.json"
+  },
+  "addApp.themeColor": {
+    "message": "Website Theme Color",
+    "description": "application_center.json"
+  },
+  "addApp.themeColorTip": {
+    "message": "To ensure content visibility, avoid choosing overly light theme colors",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseLoginBgImg": {
+    "message": "Please upload login page background",
+    "description": "application_center.json"
+  },
+  "addApp.copySuccess": {
+    "message": "Copied successfully",
+    "description": "application_center.json"
+  },
+  "addApp.copyFail": {
+    "message": "Copy failed",
+    "description": "application_center.json"
+  },
+  "appCenter.initSetting": {
+    "message": "Initialize Configuration",
+    "description": "application_center.json"
+  },
+  "appCenter.initSettingTip": {
+    "message": "Note: This only configures which app libraries are displayed in the school's app center. Some app libraries require authorization to function properly. Please contact service personnel for authorization.",
+    "description": "application_center.json"
+  },
+  "appCenter.apps": {
+    "message": "App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyManagement": {
+    "message": "Category Management",
+    "description": "application_center.json"
+  },
+  "appCenter.plsEnter": {
+    "message": "Please enter content",
+    "description": "application_center.json"
+  },
+  "appCenter.addNewApp": {
+    "message": "Create New App",
+    "description": "application_center.json"
+  },
+  "appCenter.defaultClassify": {
+    "message": "Default Category",
+    "description": "application_center.json"
+  },
+  "appCenter.description": {
+    "message": "Notes",
+    "description": "application_center.json"
+  },
+  "appCenter.action": {
+    "message": "Actions",
+    "description": "application_center.json"
+  },
+  "appCenter.delete": {
+    "message": "Delete",
+    "description": "application_center.json"
+  },
+  "appCenter.addUpdateApp": {
+    "message": "Add/Modify App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.allClassify": {
+    "message": "All Categories",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteTip": {
+    "message": "This cannot be undone. Are you sure you want to delete?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteApp": {
+    "message": "Delete App",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteSuccess": {
+    "message": "Deleted successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess": {
+    "message": "Added successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.orderIndex": {
+    "message": "Serial Number",
+    "description": "application_center.json"
+  },
+  "appCenter.orgId": {
+    "message": "Organization ID",
+    "description": "application_center.json"
+  },
+  "appCenter.orgName": {
+    "message": "Organization Name",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyName": {
+    "message": "Category Name",
+    "description": "application_center.json"
+  },
+  "appCenter.app": {
+    "message": "App",
+    "description": "application_center.json"
+  },
+  "appCenter.selectInApps": {
+    "message": "Select from App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.max20Classify": {
+    "message": "Maximum 20 categories",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip": {
+    "message": "App name should be 2-50 characters",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip1": {
+    "message": "App name should not exceed 50 characters",
+    "description": "application_center.json"
+  },
+  "appCenter.name": {
+    "message": "Name",
+    "description": "application_center.json"
+  },
+  "appCenter.link": {
+    "message": "Link",
+    "description": "application_center.json"
+  },
+  "appCenter.icon": {
+    "message": "Icon",
+    "description": "application_center.json"
+  },
+  "appCenter.imgLimitTip": {
+    "message": "jpg/jpeg/png format images, not exceeding 2M, recommended size 200px*200px",
+    "description": "application_center.json"
+  },
+  "appCenter.info": {
+    "message": "Introduction",
+    "description": "application_center.json"
+  },
+  "appCenter.enterInfo": {
+    "message": "Enter introduction content",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassifyTip": {
+    "message": "Are you sure you want to delete this category?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassify": {
+    "message": "Delete Category",
+    "description": "application_center.json"
+  },
+  "appCenter.editClassify": {
+    "message": "Edit Category",
+    "description": "application_center.json"
+  },
+  "appCenter.add": {
+    "message": "Create New",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess1": {
+    "message": "Created successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyNameNotEmpty": {
+    "message": "Category name cannot be empty",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resource": {
+    "message": "Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addNewResource": {
+    "message": "Create New Resource",
+    "description": "application_center.json"
+  },
+  "resourceCenter.initSettingTip": {
+    "message": "Note: This only configures which resource libraries are displayed in the school's resource center. Some resource libraries require authorization to function properly. Please contact service personnel for authorization.",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceCenter": {
+    "message": "Resource Center",
+    "description": "application_center.json"
+  },
+  "resourceCenter.manageResource": {
+    "message": "Manage School Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addResource": {
+    "message": "Add Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.selectFromResource": {
+    "message": "Select from Resource Library",
+    "description": "application_center.json"
   }
 }
