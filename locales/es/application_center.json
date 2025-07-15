@@ -1,1 +1,1394 @@
-{}
+{
+  "lang": {
+    "message": "zh",
+    "description": "application_center.json"
+  },
+  "login": {
+    "message": "Iniciar sesión",
+    "description": "application_center.json"
+  },
+  "navbar.personalCenter": {
+    "message": "Centro personal",
+    "description": "application_center.json"
+  },
+  "navbar.applicationCenter": {
+    "message": "Centro de aplicaciones",
+    "description": "application_center.json"
+  },
+  "navbar.resourceCenter": {
+    "message": "Centro de recursos",
+    "description": "application_center.json"
+  },
+  "navbar.dataCenter": {
+    "message": "Centro de datos",
+    "description": "application_center.json"
+  },
+  "navbar.logOut": {
+    "message": "Cerrar sesión",
+    "description": "application_center.json"
+  },
+  "navbar.personalInfo": {
+    "message": "Información personal",
+    "description": "application_center.json"
+  },
+  "navbar.username": {
+    "message": "Nombre de usuario",
+    "description": "application_center.json"
+  },
+  "navbar.avatar": {
+    "message": "Avatar",
+    "description": "application_center.json"
+  },
+  "navbar.passWord": {
+    "message": "Contraseña",
+    "description": "application_center.json"
+  },
+  "themeColor.technologyBlue": {
+    "message": "Azul tecnológico",
+    "description": "application_center.json"
+  },
+  "themeColor.naturalGreen": {
+    "message": "Verde natural",
+    "description": "application_center.json"
+  },
+  "themeColor.deepChromeYellow": {
+    "message": "Amarillo cromo profundo",
+    "description": "application_center.json"
+  },
+  "themeColor.chineseRed": {
+    "message": "Rojo chino",
+    "description": "application_center.json"
+  },
+  "themeColor.blackProtection": {
+    "message": "Negro protector",
+    "description": "application_center.json"
+  },
+  "themeColor.darkBlue": {
+    "message": "Azul oscuro",
+    "description": "application_center.json"
+  },
+  "themeColor.sichuanShadowGold": {
+    "message": "Oro sombra Sichuan",
+    "description": "application_center.json"
+  },
+  "themeColor.vitalOrange": {
+    "message": "Naranja vital",
+    "description": "application_center.json"
+  },
+  "common.choose": {
+    "message": "Elegir",
+    "description": "application_center.json"
+  },
+  "common.selected": {
+    "message": "Seleccionado",
+    "description": "application_center.json"
+  },
+  "common.sure": {
+    "message": "Confirmar",
+    "description": "application_center.json"
+  },
+  "common.sancel": {
+    "message": "Cancelar",
+    "description": "application_center.json"
+  },
+  "common.semester": {
+    "message": "Semestre",
+    "description": "application_center.json"
+  },
+  "common.pleaseSelectSemester": {
+    "message": "Por favor seleccione el semestre",
+    "description": "application_center.json"
+  },
+  "common.edit": {
+    "message": "Editar",
+    "description": "application_center.json"
+  },
+  "common.add": {
+    "message": "Agregar",
+    "description": "application_center.json"
+  },
+  "common.save": {
+    "message": "Guardar",
+    "description": "application_center.json"
+  },
+  "common.all": {
+    "message": "Todo",
+    "description": "application_center.json"
+  },
+  "common.finish": {
+    "message": "Finalizar",
+    "description": "application_center.json"
+  },
+  "common.allColleges": {
+    "message": "Todas las facultades",
+    "description": "application_center.json"
+  },
+  "common.document": {
+    "message": "Documento",
+    "description": "application_center.json"
+  },
+  "common.video": {
+    "message": "Video",
+    "description": "application_center.json"
+  },
+  "common.audio": {
+    "message": "Audio",
+    "description": "application_center.json"
+  },
+  "common.picture": {
+    "message": "Imagen",
+    "description": "application_center.json"
+  },
+  "common.search": {
+    "message": "Buscar",
+    "description": "application_center.json"
+  },
+  "common.remove": {
+    "message": "Eliminar",
+    "description": "application_center.json"
+  },
+  "common.school": {
+    "message": "Escuela",
+    "description": "application_center.json"
+  },
+  "common.studentID": {
+    "message": "ID de estudiante",
+    "description": "application_center.json"
+  },
+  "common.workNumber": {
+    "message": "Número de trabajo",
+    "description": "application_center.json"
+  },
+  "common.phone": {
+    "message": "Teléfono",
+    "description": "application_center.json"
+  },
+  "common.mail": {
+    "message": "Correo",
+    "description": "application_center.json"
+  },
+  "common.name": {
+    "message": "Nombre",
+    "description": "application_center.json"
+  },
+  "addApp.addApp": {
+    "message": "Agregar aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.classroomRecording": {
+    "message": "Grabación de clase",
+    "description": "application_center.json"
+  },
+  "addApp.RABMB": {
+    "message": "Backend de gestión de grabación",
+    "description": "application_center.json"
+  },
+  "addApp.recordingClassroom": {
+    "message": "Aula de grabación",
+    "description": "application_center.json"
+  },
+  "addApp.numberClassroomPlay": {
+    "message": "Total de reproducciones de clase",
+    "description": "application_center.json"
+  },
+  "addApp.hour": {
+    "message": "Hora",
+    "description": "application_center.json"
+  },
+  "addApp.recordingTimes": {
+    "message": "Tiempo total de grabación",
+    "description": "application_center.json"
+  },
+  "addApp.classReplay": {
+    "message": "Reproducción de clase",
+    "description": "application_center.json"
+  },
+  "addApp.recordingResourcePlatform": {
+    "message": "Plataforma de recursos de grabación",
+    "description": "application_center.json"
+  },
+  "addApp.coursesSemester": {
+    "message": "Cursos este semestre",
+    "description": "application_center.json"
+  },
+  "addApp.numberLessons": {
+    "message": "Número de lecciones",
+    "description": "application_center.json"
+  },
+  "addApp.numberVideos": {
+    "message": "Número de videos",
+    "description": "application_center.json"
+  },
+  "addApp.publicVideo": {
+    "message": "Video público",
+    "description": "application_center.json"
+  },
+  "addApp.point": {
+    "message": "Punto",
+    "description": "application_center.json"
+  },
+  "addApp.cumulativeTime": {
+    "message": "Tiempo acumulado",
+    "description": "application_center.json"
+  },
+  "addApp.viewed": {
+    "message": "Vistas",
+    "description": "application_center.json"
+  },
+  "addApp.courseInformationReminder": {
+    "message": "No hay cursos, no se pudo obtener su información de cursos del horario, espere a que el administrador actualice/cargue el horario, o verifique si su información personal es correcta",
+    "description": "application_center.json"
+  },
+  "addApp.confirmDeleteApp": {
+    "message": "¿Confirmar eliminar esta aplicación?",
+    "description": "application_center.json"
+  },
+  "addApp.removeApp": {
+    "message": "Eliminar aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.myApplication": {
+    "message": "Mi aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.storageSpace": {
+    "message": "Espacio de almacenamiento",
+    "description": "application_center.json"
+  },
+  "addApp.used": {
+    "message": "Usado",
+    "description": "application_center.json"
+  },
+  "addApp.available": {
+    "message": "Disponible",
+    "description": "application_center.json"
+  },
+  "addApp.useds": {
+    "message": "Usado",
+    "description": "application_center.json"
+  },
+  "addApp.addModifyApp": {
+    "message": "Agregar/modificar aplicación externa",
+    "description": "application_center.json"
+  },
+  "addApp.applicationName": {
+    "message": "Nombre de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.applicationLink": {
+    "message": "Enlace de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.applicationIcon": {
+    "message": "Icono de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.upload": {
+    "message": "Cargar",
+    "description": "application_center.json"
+  },
+  "addApp.uploadPrompts": {
+    "message": "Imágenes en formato jpg/jpeg/png, no más de {num}M tamaño recomendado {one}px*{two}px",
+    "description": "application_center.json"
+  },
+  "addApp.adjustPicture": {
+    "message": "Ajustar tamaño y posición de la imagen",
+    "description": "application_center.json"
+  },
+  "addApp.dragAdjustPosition": {
+    "message": "Arrastre el cuadro de selección para ajustar el tamaño y la posición",
+    "description": "application_center.json"
+  },
+  "addApp.nameNotExceed": {
+    "message": "El nombre de la aplicación no debe exceder {num} caracteres",
+    "description": "application_center.json"
+  },
+  "addApp.enterApplicationName": {
+    "message": "Por favor ingrese el nombre de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.enterApplicationLink": {
+    "message": "Por favor ingrese el enlace de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.fileNotSupported": {
+    "message": "Este tipo de archivo no es compatible",
+    "description": "application_center.json"
+  },
+  "addApp.imageCannotExceed": {
+    "message": "La imagen de portada no puede exceder {num}M",
+    "description": "application_center.json"
+  },
+  "addApp.uploadFailed": {
+    "message": "Error al cargar",
+    "description": "application_center.json"
+  },
+  "addApp.filter": {
+    "message": "Filtrar",
+    "description": "application_center.json"
+  },
+  "addApp.byType": {
+    "message": "Por tipo",
+    "description": "application_center.json"
+  },
+  "addApp.byCourse": {
+    "message": "Por curso",
+    "description": "application_center.json"
+  },
+  "addApp.additionNum": {
+    "message": "Otros {num}",
+    "description": "application_center.json"
+  },
+  "addApp.courseware": {
+    "message": "Material del curso",
+    "description": "application_center.json"
+  },
+  "addApp.operation": {
+    "message": "Tarea",
+    "description": "application_center.json"
+  },
+  "addApp.discuss": {
+    "message": "Discusión",
+    "description": "application_center.json"
+  },
+  "addApp.liveStreaming": {
+    "message": "Transmisión en vivo",
+    "description": "application_center.json"
+  },
+  "addApp.takeExam": {
+    "message": "Examen",
+    "description": "application_center.json"
+  },
+  "addApp.longTermOpenness": {
+    "message": "Apertura a largo plazo",
+    "description": "application_center.json"
+  },
+  "addApp.start": {
+    "message": "Comenzar",
+    "description": "application_center.json"
+  },
+  "addApp.playback": {
+    "message": "Reproducción",
+    "description": "application_center.json"
+  },
+  "addApp.recordLiveClassTour": {
+    "message": "Tour de clase en vivo grabada",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseSelect": {
+    "message": "Por favor seleccione",
+    "description": "application_center.json"
+  },
+  "addApp.todayClassSchedule": {
+    "message": "Horario de hoy (períodos)",
+    "description": "application_center.json"
+  },
+  "addApp.inClass": {
+    "message": "En clase",
+    "description": "application_center.json"
+  },
+  "addApp.ended": {
+    "message": "Finalizado",
+    "description": "application_center.json"
+  },
+  "addApp.notStarted": {
+    "message": "No iniciado",
+    "description": "application_center.json"
+  },
+  "addApp.goInspect": {
+    "message": "Ir a inspeccionar",
+    "description": "application_center.json"
+  },
+  "addApp.supervisoryCourses": {
+    "message": "Cursos supervisados",
+    "description": "application_center.json"
+  },
+  "addApp.classroomInteraction": {
+    "message": "Interacción en el aula",
+    "description": "application_center.json"
+  },
+  "addApp.allCourses": {
+    "message": "Todos los cursos",
+    "description": "application_center.json"
+  },
+  "addApp.teacher": {
+    "message": "Profesor",
+    "description": "application_center.json"
+  },
+  "addApp.class": {
+    "message": "Clase",
+    "description": "application_center.json"
+  },
+  "addApp.student": {
+    "message": "Estudiante",
+    "description": "application_center.json"
+  },
+  "addApp.noCourses": {
+    "message": "No hay cursos",
+    "description": "application_center.json"
+  },
+  "addApp.today": {
+    "message": "Hoy",
+    "description": "application_center.json"
+  },
+  "addApp.moon": {
+    "message": "Mes",
+    "description": "application_center.json"
+  },
+  "addApp.week": {
+    "message": "Semana",
+    "description": "application_center.json"
+  },
+  "addApp.schedule": {
+    "message": "Horario",
+    "description": "application_center.json"
+  },
+  "addApp.allDay": {
+    "message": "Todo el día",
+    "description": "application_center.json"
+  },
+  "addApp.noEventDisplay": {
+    "message": "No hay eventos para mostrar",
+    "description": "application_center.json"
+  },
+  "addApp.noData": {
+    "message": "No hay datos",
+    "description": "application_center.json"
+  },
+  "addApp.noticesAnnouncements": {
+    "message": "Avisos y anuncios",
+    "description": "application_center.json"
+  },
+  "addApp.issuingAnnouncement": {
+    "message": "Emitir anuncio",
+    "description": "application_center.json"
+  },
+  "addApp.more": {
+    "message": "Más",
+    "description": "application_center.json"
+  },
+  "addApp.noSchoolAnnouncement": {
+    "message": "No hay anuncios escolares",
+    "description": "application_center.json"
+  },
+  "addApp.onlineTeachingInspection": {
+    "message": "Inspección de enseñanza en línea",
+    "description": "application_center.json"
+  },
+  "addApp.newsPastWweeks": {
+    "message": "Noticias de las últimas {num} semanas",
+    "description": "application_center.json"
+  },
+  "addApp.classroomActivities": {
+    "message": "Actividades en el aula",
+    "description": "application_center.json"
+  },
+  "addApp.viewCourseDetails": {
+    "message": "Ver detalles del curso",
+    "description": "application_center.json"
+  },
+  "addApp.personalCenterSettings": {
+    "message": "Configuración del centro personal",
+    "description": "application_center.json"
+  },
+  "addApp.moduleIntroduction": {
+    "message": "El administrador puede configurar los módulos de aplicación que se muestran en el centro personal para todos los roles de la escuela, admite modificar nombres, mover arriba/abajo, ocultar/habilitar módulos de aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.revise": {
+    "message": "Revisar",
+    "description": "application_center.json"
+  },
+  "addApp.modifyApplicationName": {
+    "message": "Modificar nombre de la aplicación",
+    "description": "application_center.json"
+  },
+  "addApp.open": {
+    "message": "Abrir",
+    "description": "application_center.json"
+  },
+  "addApp.hide": {
+    "message": "Ocultar",
+    "description": "application_center.json"
+  },
+  "addApp.admin": {
+    "message": "Administrador",
+    "description": "application_center.json"
+  },
+  "addApp.moreClassroomRecordings": {
+    "message": "Más grabaciones de clase",
+    "description": "application_center.json"
+  },
+  "addApp.coursesFollowing": {
+    "message": "Cursos que sigo",
+    "description": "application_center.json"
+  },
+  "addApp.watchHistory": {
+    "message": "Historial de visualización",
+    "description": "application_center.json"
+  },
+  "addApp.lastStudy": {
+    "message": "Último estudio",
+    "description": "application_center.json"
+  },
+  "addApp.monday": {
+    "message": "Lunes",
+    "description": "application_center.json"
+  },
+  "addApp.tuesday": {
+    "message": "Martes",
+    "description": "application_center.json"
+  },
+  "addApp.wednesday": {
+    "message": "Miércoles",
+    "description": "application_center.json"
+  },
+  "addApp.thursday": {
+    "message": "Jueves",
+    "description": "application_center.json"
+  },
+  "addApp.friday": {
+    "message": "Viernes",
+    "description": "application_center.json"
+  },
+  "addApp.saturday": {
+    "message": "Sábado",
+    "description": "application_center.json"
+  },
+  "addApp.sunday": {
+    "message": "Domingo",
+    "description": "application_center.json"
+  },
+  "addApp.goSupervise": {
+    "message": "Ir a supervisar",
+    "description": "application_center.json"
+  },
+  "addApp.supervisoryTasksSemester": {
+    "message": "Tareas de supervisión este semestre",
+    "description": "application_center.json"
+  },
+  "addApp.numberSupervisions": {
+    "message": "Número de supervisiones",
+    "description": "application_center.json"
+  },
+  "addApp.warningCount": {
+    "message": "Número de advertencias",
+    "description": "application_center.json"
+  },
+  "addApp.scheduleToday": {
+    "message": "Horario de hoy",
+    "description": "application_center.json"
+  },
+  "addApp.classProgress": {
+    "message": "En clase",
+    "description": "application_center.json"
+  },
+  "addApp.teachingManagement": {
+    "message": "Gestión de enseñanza",
+    "description": "application_center.json"
+  },
+  "addApp.teachingPlatform": {
+    "message": "Plataforma de enseñanza",
+    "description": "application_center.json"
+  },
+  "addApp.courseManagement": {
+    "message": "Gestión de cursos",
+    "description": "application_center.json"
+  },
+  "addApp.examManagement": {
+    "message": "Gestión de exámenes",
+    "description": "application_center.json"
+  },
+  "addApp.liveManagement": {
+    "message": "Gestión de transmisiones en vivo",
+    "description": "application_center.json"
+  },
+  "addApp.teacherManagement": {
+    "message": "Gestión de profesores",
+    "description": "application_center.json"
+  },
+  "addApp.studentManagement": {
+    "message": "Gestión de estudiantes",
+    "description": "application_center.json"
+  },
+  "addApp.systemManagement": {
+    "message": "Gestión del sistema",
+    "description": "application_center.json"
+  },
+  "addApp.playAllBack": {
+    "message": "Reproducir todo",
+    "description": "application_center.json"
+  },
+  "addApp.noClassesToday": {
+    "message": "No hay clases hoy",
+    "description": "application_center.json"
+  },
+  "addApp.welcome": {
+    "message": "Bienvenido, {name}",
+    "description": "application_center.json"
+  },
+  "addApp.enterPlatform": {
+    "message": "Entrar a la plataforma",
+    "description": "application_center.json"
+  },
+  "addApp.notRegistered": {
+    "message": "No registrado",
+    "description": "application_center.json"
+  },
+  "addApp.signedUp": {
+    "message": "Registrado",
+    "description": "application_center.json"
+  },
+  "addApp.notEnabled": {
+    "message": "No habilitado",
+    "description": "application_center.json"
+  },
+  "addApp.opened": {
+    "message": "Abierto",
+    "description": "application_center.json"
+  },
+  "addApp.submitted": {
+    "message": "Enviado",
+    "description": "application_center.json"
+  },
+  "addApp.pendingReview": {
+    "message": "Pendiente de revisión",
+    "description": "application_center.json"
+  },
+  "addApp.deadline": {
+    "message": "Fecha límite",
+    "description": "application_center.json"
+  },
+  "addApp.submissionTime": {
+    "message": "Hora de envío",
+    "description": "application_center.json"
+  },
+  "addApp.deadlineSubmission": {
+    "message": "Fecha límite de envío",
+    "description": "application_center.json"
+  },
+  "addApp.leaderSubmits": {
+    "message": "Enviado por el líder {name}",
+    "description": "application_center.json"
+  },
+  "addApp.needReworked": {
+    "message": "Necesita rehacer",
+    "description": "application_center.json"
+  },
+  "addApp.minute": {
+    "message": "{num} minutos",
+    "description": "application_center.json"
+  },
+  "addApp.submitReport": {
+    "message": "Enviar informe",
+    "description": "application_center.json"
+  },
+  "addApp.reviewReport": {
+    "message": "Revisar informe",
+    "description": "application_center.json"
+  },
+  "addApp.viewReport": {
+    "message": "Ver informe",
+    "description": "application_center.json"
+  },
+  "addApp.excellent": {
+    "message": "Excelente",
+    "description": "application_center.json"
+  },
+  "addApp.good": {
+    "message": "Bueno",
+    "description": "application_center.json"
+  },
+  "addApp.medium": {
+    "message": "Medio",
+    "description": "application_center.json"
+  },
+  "addApp.qualified": {
+    "message": "Calificado",
+    "description": "application_center.json"
+  },
+  "addApp.failed": {
+    "message": "Reprobado",
+    "description": "application_center.json"
+  },
+  "addApp.enterManagementBackend": {
+    "message": "Entrar al backend de gestión",
+    "description": "application_center.json"
+  },
+  "addApp.practicalProjects": {
+    "message": "Proyectos prácticos",
+    "description": "application_center.json"
+  },
+  "addApp.userManagement": {
+    "message": "Gestión de usuarios",
+    "description": "application_center.json"
+  },
+  "addApp.totalProjects": {
+    "message": "Total de proyectos",
+    "description": "application_center.json"
+  },
+  "addApp.onlinePractice": {
+    "message": "Práctica en línea",
+    "description": "application_center.json"
+  },
+  "addApp.offlinePractice": {
+    "message": "Práctica fuera de línea",
+    "description": "application_center.json"
+  },
+  "addApp.projectCompletionRate": {
+    "message": "Tasa de finalización del proyecto",
+    "description": "application_center.json"
+  },
+  "addApp.averageGrade": {
+    "message": "Calificación promedio",
+    "description": "application_center.json"
+  },
+  "addApp.excellentWorks": {
+    "message": "Trabajos excelentes",
+    "description": "application_center.json"
+  },
+  "addApp.share": {
+    "message": "Compartir",
+    "description": "application_center.json"
+  },
+  "addApp.classification": {
+    "message": "Clasificación",
+    "description": "application_center.json"
+  },
+  "addApp.creationTime": {
+    "message": "Tiempo de creación",
+    "description": "application_center.json"
+  },
+  "addApp.preview": {
+    "message": "Vista previa",
+    "description": "application_center.json"
+  },
+  "addApp.emptyState": {
+    "message": "No tienes trabajos, ¡{button}!",
+    "description": "application_center.json"
+  },
+  "addApp.emptyStateButton": {
+    "message": "Pruébalo",
+    "description": "application_center.json"
+  },
+  "addApp.notSubmitted": {
+    "message": "No enviado",
+    "description": "application_center.json"
+  },
+  "addApp.reviewPassed": {
+    "message": "Revisión aprobada",
+    "description": "application_center.json"
+  },
+  "addApp.reviewRejection": {
+    "message": "Revisión rechazada",
+    "description": "application_center.json"
+  },
+  "addApp.pendingApproval": {
+    "message": "Pendiente de aprobación",
+    "description": "application_center.json"
+  },
+  "addApp.liked": {
+    "message": "Me gusta",
+    "description": "application_center.json"
+  },
+  "addApp.numberVisits": {
+    "message": "Número de visitas",
+    "description": "application_center.json"
+  },
+  "addApp.myWorks": {
+    "message": "Mis trabajos",
+    "description": "application_center.json"
+  },
+  "addApp.totalNumberWorks": {
+    "message": "Número total de trabajos",
+    "description": "application_center.json"
+  },
+  "addApp.numberWorksApproved": {
+    "message": "Número de trabajos aprobados",
+    "description": "application_center.json"
+  },
+  "addApp.worksReviewed": {
+    "message": "Trabajos por revisar",
+    "description": "application_center.json"
+  },
+  "addApp.numberLikesWork": {
+    "message": "Número de me gusta en el trabajo",
+    "description": "application_center.json"
+  },
+  "addApp.numberUserComments": {
+    "message": "Número de comentarios de usuarios",
+    "description": "application_center.json"
+  },
+  "addApp.newWorksAddedToday": {
+    "message": "Nuevos trabajos agregados hoy",
+    "description": "application_center.json"
+  },
+  "addApp.worksSubmittedToday": {
+    "message": "Trabajos enviados para revisión hoy",
+    "description": "application_center.json"
+  },
+  "addApp.moreResources": {
+    "message": "Más recursos",
+    "description": "application_center.json"
+  },
+  "addApp.totalResources": {
+    "message": "Recursos totales",
+    "description": "application_center.json"
+  },
+  "addApp.synchronizeResources": {
+    "message": "Sincronizar recursos",
+    "description": "application_center.json"
+  },
+  "addApp.builtResources": {
+    "message": "Recursos propios",
+    "description": "application_center.json"
+  },
+  "addApp.resourcesUpdatedWeek": {
+    "message": "Recursos actualizados esta semana",
+    "description": "application_center.json"
+  },
+  "addApp.lastUpdated": {
+    "message": "Última actualización",
+    "description": "application_center.json"
+  },
+  "addApp.totalVisits": {
+    "message": "Visitas totales",
+    "description": "application_center.json"
+  },
+  "addApp.hoursVisits": {
+    "message": "Visitas en {num} horas",
+    "description": "application_center.json"
+  },
+  "addApp.totaldownloads": {
+    "message": "Descargas totales",
+    "description": "application_center.json"
+  },
+  "addApp.hourdownloads": {
+    "message": "Descargas en {num} horas",
+    "description": "application_center.json"
+  },
+  "addApp.totalcitations": {
+    "message": "Citas totales",
+    "description": "application_center.json"
+  },
+  "addApp.hasHelped": {
+    "message": "Ha ayudado a {num} personas",
+    "description": "application_center.json"
+  },
+  "addApp.teacherPreparation": {
+    "message": "Preparación docente",
+    "description": "application_center.json"
+  },
+  "addApp.resourceLibraryManagement": {
+    "message": "Gestión de biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "addApp.dataBoard": {
+    "message": "Panel de datos",
+    "description": "application_center.json"
+  },
+  "addApp.websiteSettings": {
+    "message": "Configuración del sitio web",
+    "description": "application_center.json"
+  },
+  "addApp.manageResources": {
+    "message": "Gestionar recursos",
+    "description": "application_center.json"
+  },
+  "addApp.myResourceLibrary": {
+    "message": "Mi biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "addApp.manageApplications": {
+    "message": "Gestionar aplicaciones",
+    "description": "application_center.json"
+  },
+  "addApp.managementPersonalCenter": {
+    "message": "Gestionar centro personal",
+    "description": "application_center.json"
+  },
+  "addApp.noApplicationCategory": {
+    "message": "No hay aplicaciones en esta categoría",
+    "description": "application_center.json"
+  },
+  "addApp.addCategory": {
+    "message": "Agregar categoría",
+    "description": "application_center.json"
+  },
+  "addApp.modifyName": {
+    "message": "Modificar nombre",
+    "description": "application_center.json"
+  },
+  "addApp.removeClassification": {
+    "message": "Eliminar clasificación",
+    "description": "application_center.json"
+  },
+  "addApp.dragSort": {
+    "message": "Arrastrar para ordenar",
+    "description": "application_center.json"
+  },
+  "addApp.addExternalApplications": {
+    "message": "Agregar aplicaciones externas",
+    "description": "application_center.json"
+  },
+  "addApp.confirmRemoveApp": {
+    "message": "¿Confirmar eliminar esta aplicación?",
+    "description": "application_center.json"
+  },
+  "addApp.removalSuccess": {
+    "message": "Eliminación exitosa",
+    "description": "application_center.json"
+  },
+  "addApp.upCategories": {
+    "message": "Máximo {num} categorías",
+    "description": "application_center.json"
+  },
+  "addApp.createNewCategory": {
+    "message": "Crear nueva categoría",
+    "description": "application_center.json"
+  },
+  "addApp.applicationNameWords": {
+    "message": "El nombre de la aplicación debe tener entre {num} y {value} caracteres",
+    "description": "application_center.json"
+  },
+  "addApp.removeCategory": {
+    "message": "¿Confirmar eliminar esta categoría?",
+    "description": "application_center.json"
+  },
+  "addApp.notRecording": {
+    "message": "Este usuario no está conectado al sistema de grabación",
+    "description": "application_center.json"
+  },
+  "addApp.myCourse": {
+    "message": "Mi curso",
+    "description": "application_center.json"
+  },
+  "addApp.classroomQualityAnalysis": {
+    "message": "Análisis de calidad del aula",
+    "description": "application_center.json"
+  },
+  "addApp.scheduleSchedule": {
+    "message": "Horario",
+    "description": "application_center.json"
+  },
+  "addApp.teachingCalendar": {
+    "message": "Calendario académico",
+    "description": "application_center.json"
+  },
+  "addApp.whatWeek": {
+    "message": "Semana {num}",
+    "description": "application_center.json"
+  },
+  "addApp.commonlyUsedApplications": {
+    "message": "Aplicaciones frecuentes",
+    "description": "application_center.json"
+  },
+  "addApp.dragMovePosition": {
+    "message": "Arrastrar para mover posición",
+    "description": "application_center.json"
+  },
+  "addApp.schoolAnnouncement": {
+    "message": "Anuncios escolares",
+    "description": "application_center.json"
+  },
+  "addApp.managementInstructions": {
+    "message": "Los administradores pueden gestionar las aplicaciones de la escuela, los profesores solo pueden usar las aplicaciones habilitadas.",
+    "description": "application_center.json"
+  },
+  "addApp.uploadAvatar": {
+    "message": "Subir avatar",
+    "description": "application_center.json"
+  },
+  "addApp.fillTips": {
+    "message": "Por favor complete correctamente, de lo contrario algunas funciones no estarán disponibles",
+    "description": "application_center.json"
+  },
+  "addApp.belongCollege": {
+    "message": "Facultad perteneciente",
+    "description": "application_center.json"
+  },
+  "addApp.characterLimit": {
+    "message": "{one}-{two} caracteres, solo admite letras, números y signos de puntuación comunes -. (guion y punto)",
+    "description": "application_center.json"
+  },
+  "addApp.reviseSuccess": {
+    "message": "Modificación exitosa",
+    "description": "application_center.json"
+  },
+  "addApp.unifiedIdentity": {
+    "message": "Identidad unificada",
+    "description": "application_center.json"
+  },
+  "addApp.accountLogin": {
+    "message": "Inicio de sesión de cuenta",
+    "description": "application_center.json"
+  },
+  "addApp.integratedTeachingPlatform": {
+    "message": "Plataforma de enseñanza integrada",
+    "description": "application_center.json"
+  },
+  "addApp.campusLogin": {
+    "message": "Inicio de sesión de identidad unificada del campus",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterUsername": {
+    "message": "Por favor ingrese el nombre de usuario",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterPassword": {
+    "message": "Por favor ingrese la contraseña",
+    "description": "application_center.json"
+  },
+  "addApp.forgetPassword": {
+    "message": "Olvidé mi contraseña",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterVerificationCode": {
+    "message": "Por favor ingrese el código de verificación",
+    "description": "application_center.json"
+  },
+  "addApp.errorUsernamePassword": {
+    "message": "Nombre de usuario/contraseña incorrectos",
+    "description": "application_center.json"
+  },
+  "addApp.notEnabledSystem": {
+    "message": "Esta institución aún no ha habilitado el sistema de enseñanza inteligente, contacte al administrador",
+    "description": "application_center.json"
+  },
+  "navbar.webManage": {
+    "message": "Gestión del sitio web",
+    "description": "application_center.json"
+  },
+  "common.complete": {
+    "message": "Completar",
+    "description": "application_center.json"
+  },
+  "common.back": {
+    "message": "Volver",
+    "description": "application_center.json"
+  },
+  "common.copy": {
+    "message": "Copiar",
+    "description": "application_center.json"
+  },
+  "common.preview": {
+    "message": "Vista previa",
+    "description": "application_center.json"
+  },
+  "addApp.imgEmpty": {
+    "message": "El ícono de la aplicación no puede estar vacío",
+    "description": "application_center.json"
+  },
+  "addApp.superAdmin": {
+    "message": "Cuenta de servicio",
+    "description": "application_center.json"
+  },
+  "addApp.webName": {
+    "message": "Nombre del sitio web",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebName": {
+    "message": "Por favor ingrese el nombre del sitio web",
+    "description": "application_center.json"
+  },
+  "addApp.domainName": {
+    "message": "Dominio del sitio web",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebHost": {
+    "message": "Solo ingrese números, letras y \"-\", donde \"-\" no puede estar al principio o al final",
+    "description": "application_center.json"
+  },
+  "addApp.webTabIcon": {
+    "message": "Ícono de pestaña del navegador",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnter": {
+    "message": "Por favor ingrese",
+    "description": "application_center.json"
+  },
+  "addApp.suggestWebTabIconUpload": {
+    "message": "Se recomienda subir archivo de 16×16px (PNG con fondo transparente) tamaño no mayor a 50kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadLogo": {
+    "message": "Por favor suba el logo",
+    "description": "application_center.json"
+  },
+  "addApp.logoExample": {
+    "message": "Imagen de ejemplo",
+    "description": "application_center.json"
+  },
+  "addApp.suggesWebLogoUpload": {
+    "message": "Dimensiones recomendadas: altura mínima 30px, ancho adaptable (PNG con fondo transparente) tamaño no mayor a 150kb",
+    "description": "application_center.json"
+  },
+  "addApp.fileSizeNoMore": {
+    "message": "El tamaño del archivo no puede exceder {num}kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadImgHeight": {
+    "message": "Por favor suba un archivo con altura mayor o igual a 30px",
+    "description": "application_center.json"
+  },
+  "addApp.loginBgImg": {
+    "message": "Fondo de página de inicio de sesión",
+    "description": "application_center.json"
+  },
+  "addApp.suggestLoginBgImgUpload": {
+    "message": "Dimensiones recomendadas: proporción 16:9, admite formatos jpg, jpeg, png, tamaño no mayor a 6M",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSet": {
+    "message": "Configuración de estilo general",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSetTip": {
+    "message": "Modificar el estilo de la barra de navegación y menú",
+    "description": "application_center.json"
+  },
+  "addApp.themeColor": {
+    "message": "Color del tema del sitio web",
+    "description": "application_center.json"
+  },
+  "addApp.themeColorTip": {
+    "message": "Para garantizar que el contenido sea claramente visible, evite elegir colores de tema demasiado claros",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseLoginBgImg": {
+    "message": "Por favor suba el fondo de la página de inicio de sesión",
+    "description": "application_center.json"
+  },
+  "addApp.copySuccess": {
+    "message": "Copiado exitosamente",
+    "description": "application_center.json"
+  },
+  "addApp.copyFail": {
+    "message": "Error al copiar",
+    "description": "application_center.json"
+  },
+  "appCenter.initSetting": {
+    "message": "Configuración inicial",
+    "description": "application_center.json"
+  },
+  "appCenter.initSettingTip": {
+    "message": "Nota: Esto solo configura qué bibliotecas de aplicaciones se muestran en el centro de aplicaciones de la escuela, algunas bibliotecas de aplicaciones requieren autorización para funcionar correctamente, contacte al personal de servicio para la autorización.",
+    "description": "application_center.json"
+  },
+  "appCenter.apps": {
+    "message": "Biblioteca de aplicaciones",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyManagement": {
+    "message": "Gestión de categorías",
+    "description": "application_center.json"
+  },
+  "appCenter.plsEnter": {
+    "message": "Por favor ingrese contenido",
+    "description": "application_center.json"
+  },
+  "appCenter.addNewApp": {
+    "message": "Crear nueva aplicación",
+    "description": "application_center.json"
+  },
+  "appCenter.defaultClassify": {
+    "message": "Categoría predeterminada",
+    "description": "application_center.json"
+  },
+  "appCenter.description": {
+    "message": "Notas",
+    "description": "application_center.json"
+  },
+  "appCenter.action": {
+    "message": "Acciones",
+    "description": "application_center.json"
+  },
+  "appCenter.delete": {
+    "message": "Eliminar",
+    "description": "application_center.json"
+  },
+  "appCenter.addUpdateApp": {
+    "message": "Agregar/Modificar biblioteca de aplicaciones",
+    "description": "application_center.json"
+  },
+  "appCenter.allClassify": {
+    "message": "Todas las categorías",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteTip": {
+    "message": "Esto no se puede deshacer. ¿Está seguro de que desea eliminar?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteApp": {
+    "message": "Eliminar aplicación",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteSuccess": {
+    "message": "Eliminado exitosamente",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess": {
+    "message": "Agregado exitosamente",
+    "description": "application_center.json"
+  },
+  "appCenter.orderIndex": {
+    "message": "Número de serie",
+    "description": "application_center.json"
+  },
+  "appCenter.orgId": {
+    "message": "ID de organización",
+    "description": "application_center.json"
+  },
+  "appCenter.orgName": {
+    "message": "Nombre de organización",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyName": {
+    "message": "Nombre de categoría",
+    "description": "application_center.json"
+  },
+  "appCenter.app": {
+    "message": "Aplicación",
+    "description": "application_center.json"
+  },
+  "appCenter.selectInApps": {
+    "message": "Seleccionar de biblioteca de aplicaciones",
+    "description": "application_center.json"
+  },
+  "appCenter.max20Classify": {
+    "message": "Máximo 20 categorías",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip": {
+    "message": "El nombre de la aplicación debe tener entre 2-50 caracteres",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip1": {
+    "message": "El nombre de la aplicación no debe exceder 50 caracteres",
+    "description": "application_center.json"
+  },
+  "appCenter.name": {
+    "message": "Nombre",
+    "description": "application_center.json"
+  },
+  "appCenter.link": {
+    "message": "Enlace",
+    "description": "application_center.json"
+  },
+  "appCenter.icon": {
+    "message": "Ícono",
+    "description": "application_center.json"
+  },
+  "appCenter.imgLimitTip": {
+    "message": "Imágenes en formato jpg/jpeg/png, no mayores a 2M, tamaño recomendado 200px*200px",
+    "description": "application_center.json"
+  },
+  "appCenter.info": {
+    "message": "Introducción",
+    "description": "application_center.json"
+  },
+  "appCenter.enterInfo": {
+    "message": "Ingresar contenido de introducción",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassifyTip": {
+    "message": "¿Confirmar eliminar esta categoría?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassify": {
+    "message": "Eliminar categoría",
+    "description": "application_center.json"
+  },
+  "appCenter.editClassify": {
+    "message": "Modificar categoría",
+    "description": "application_center.json"
+  },
+  "appCenter.add": {
+    "message": "Crear nuevo",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess1": {
+    "message": "Creado exitosamente",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyNameNotEmpty": {
+    "message": "El nombre de la categoría no puede estar vacío",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resource": {
+    "message": "Biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addNewResource": {
+    "message": "Crear nuevo recurso",
+    "description": "application_center.json"
+  },
+  "resourceCenter.initSettingTip": {
+    "message": "Nota: Esto solo configura qué bibliotecas de recursos se muestran en el centro de recursos de la escuela. Algunas bibliotecas de recursos requieren autorización para funcionar correctamente, contacte al personal de servicio para la autorización.",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceCenter": {
+    "message": "Centro de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.manageResource": {
+    "message": "Gestionar biblioteca de recursos de la escuela",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addResource": {
+    "message": "Agregar biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.selectFromResource": {
+    "message": "Seleccionar de biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.enterSearch": {
+    "message": "Ingresar para buscar",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceManage": {
+    "message": "Gestión de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collect": {
+    "message": "Favorito",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectSuccess": {
+    "message": "Agregado a favoritos exitosamente",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectError": {
+    "message": "Error al agregar a favoritos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.cancelCollectSuccess": {
+    "message": "Eliminado de favoritos exitosamente",
+    "description": "application_center.json"
+  },
+  "resourceCenter.imgLimitTip": {
+    "message": "Imágenes en formato jpg/jpeg/png, no mayores a 2M, tamaño recomendado 356px*200px",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addUpdateResource": {
+    "message": "Agregar/Modificar biblioteca de recursos",
+    "description": "application_center.json"
+  },
+  "resourceCenter.address": {
+    "message": "Dirección:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.classify": {
+    "message": "Categoría:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.remark": {
+    "message": "Introducción:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.deleteResource": {
+    "message": "Eliminar aplicación de recursos",
+    "description": "application_center.json"
+  }
+}
