@@ -19,7 +19,6 @@
 
     <!--    分组研讨-->
     <string name="nav_broad">Siaran Layar</string>
-    <string name="broading">Penyiaran</string>
     <string name="stop_broad">Keluar dari Siaran</string>
     <string name="nav_compare">Perbandingan Grup</string>
     <string name="stop_compare">Keluar Bandingkan</string>
@@ -35,18 +34,12 @@
     <string name="msg_no_compare">Klik grup di bawah ini untuk melihat layar grup itu</string>
 
     <string name="title_screen">Pemeran Seluler</string>
-    <string name="msg_screen">Setelah perangkat seluler terhubung ke jaringan yang sama, lemparkan perangkat ke layar.</string>
-    <string name="msg_screen_network">Jaringan Saat Ini:</string>
     <string name="network_type">berkabel</string>
     <string name="screen_apple">iOS</string>
     <string name="screen_android">Android</string>
-    <string name="msg_apple">Buka AirPlay dan pilih Screen Cast (Mirroring)</string>
-    <string name="msg_android">Gunakan aplikasi ULearning untuk memindai kode QR untuk melakukan transmisi</string>
-    <string name="msg_pc_screen">Untuk PC, gunakan kabel HDMI untuk mentransmisi.</string>
     <string name="title_screen_agent">Pemeran seluler</string>
     
     <string name="request_permission_fail">Permintaan izin gagal!</string>
-    <string name="request_screen_permission_fail">Gagal meminta akses ke perekaman layar!</string>
     <string name="request_float_permission_fail">Gagal meminta akses ke layar mengambang!</string>
     <string name="max_screen">Layar penuh dan tidak dapat memilih lebih banyak!</string>
     <string name="click_too_fast">Tolong jangan terlalu sering mengklik!</string>
@@ -77,7 +70,6 @@
 
 
     <!--    白板相关-->
-    <string name="wb_tool_name_pen">Kuas</string>
     <string name="wb_tool_name_eraser">Penghapus</string>
     <string name="wb_tool_name_select">Pemilihan lingkaran</string>
     <string name="wb_tool_name_canvas_mode">Zoom</string>
@@ -88,42 +80,19 @@
     <string name="wb_tool_name_open">Buka</string>
     <string name="wb_tool_name_thumbnail">Thumbnail</string>
 
-    <string name="wb_tool_name_page_manager">Manajemen halaman</string>
-
     <string name="wb_tool_name_pen_pencil">Pensil</string>
-    <string name="wb_tool_name_pen_finger">jari</string>
-    <string name="wb_tool_name_pen_brush">Pena bulu</string>
     <string name="wb_tool_name_pen_smart">Tulisan cerdas</string>
-    <string name="wb_tool_name_pen_passive">Ujung pena dihapus</string>
-    <string name="wb_tool_smart_pen_txt">Tulisan</string>
-    <string name="wb_tool_smart_pen_graphic">Grafis</string>
-    <string name="wb_tool_smart_pen_table">Bentuk</string>
     <string name="wb_tool_name_exit">Tutup papan tulis</string>
-    <string name="wb_tool_name_save_course">Simpan ke Kelas</string>
-    <string name="wb_tool_name_save_pic">Mengekspor gambar</string>
-    <string name="wb_tool_name_cancel">Batalkan</string>
-    <string name="wb_tool_name_done">Selesai</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">Menghapus</string>
     <string name="wb_name_clear_screen">Kosongkan layar</string>
-    <string name="wb_message_canvas_lock">Zoom halaman dikunci dan dapat ditulis dalam dua orang</string>
-    <string name="wb_message_canvas_unlock">Zoom halaman tidak terkunci dan dapat diskalakan</string>
     <string name="double_writing">Penulisan ganda</string>
     <string name="wb_tool_name_background">Latar belakang papan tulis</string>
-    <string name="wb_message_canvas_unlock_at_smart_pen_type">Penulisan dua orang tidak didukung dalam mode pena pintar, dan halaman tidak terkunci</string>
-    <string name="common_task_finish_content">Anda memiliki konten yang belum disimpan</string>
-    <string name="common_task_finish_delete_all">Tidak</string>
-    <string name="common_task_finish_cancel">Batalkan</string>
-    <string name="common_task_finish_save">Simpan</string>
-    <string name="common_delect_page_content">Halaman yang dihapus tidak dapat dipulihkan</string>
     <string name="common_sure">OK</string>
-    <string name="common_delect_page_title">Hapus</string>
     <string name="common_save_failed">Gagal menyimpan</string>
     <string name="common_save_success">Telah disimpan</string>
     <string name="common_load_board_fail_title">Gagal memuat papan tulis</string>
     <string name="common_load_board_success">Muat berhasil</string>
-    <string name="common_new_board_failed">Gagal membuat papan tulis baru</string>
-    <string name="common_new_page_failed">Gagal membuat halaman baru</string>
     <string name="wb_page_max_error">Jumlah maksimum halaman telah tercapai dan tidak dapat dibuat</string>
 
     <string name="exit_wb_msg">Konten yang diedit saat ini belum disimpan, setelah menutup papan tulis, konten yang diedit akan dihapus, konfirmasikan penutupan papan tulis?</string>
@@ -146,9 +115,6 @@
     <string name="duplicate_file_name">Nama file duplikat</string>
     <string name="wb_save_failed">Simpan gagal, coba ubah nama file</string>
     <string name="del_wb_msg">Apakah Anda yakin ingin menghapus halaman saat ini?</string>
-    <string name="wb_page_scale_min">Halaman telah diperbesar seminimal mungkin</string>
-    <string name="wb_page_scale_max">Halaman telah diskalakan secara maksimal</string>
-    <string name="wb_page_scale">Skala kanvas</string>
 
     <string name="select_language">Pilih bahasa</string>
     <string name="language_cn">简体中文</string>
@@ -175,20 +141,6 @@
     <string name="app_name_3">Interaksi multi-layar UClass</string>
     <string name="watch_stu_screen">Menonton grup</string>
     <string name="license_0">Diaktifkan</string>
-    <string name="license_10001">Okupansi port Media Protocol</string>
-    <string name="license_10002">Okupansi port protokol kontrol</string>
-    <string name="license_101">Tidak bisa mendapatkan alamat Mac</string>
-    <string name="license_102">Tidak dapat memperoleh informasi perangkat keras</string>
-    <string name="license_103">Verifikasi alamat Mac gagal</string>
-    <string name="license_104">Gagal memverifikasi informasi perangkat keras</string>
-    <string name="license_105">Jenis SDK tidak konsisten</string>
-    <string name="license_106">Otorisasi telah kedaluwarsa</string>
-    <string name="license_107">Tidak dapat menguraikan lisensi</string>
-    <string name="license_108">Kesalahan verifikasi lainnya</string>
-    <string name="license_109">Informasi lisensi kosong</string>
-    <string name="license_110">Ketidakcocokan jenis platform</string>
-    <string name="license_111">ProductID tidak cocok</string>
-    <string name="license_112">Parameter sdkType yang dimasukkan tidak valid</string>
     <string name="license_other">Kesalahan yang tidak diketahui</string>
     <string name="modify">Ubah</string>
     <string name="save">Simpan</string>
@@ -225,27 +177,10 @@
     <string name="auto_start_fail">Peluncuran gagal! Silakan klik tombol &quot;Siaran Layar&quot; di sebelah kanan untuk menyalakan siaran secara manual.</string>
 
     <!--    投屏界面优化需求 -->
-    <string name="classroom_lan">LAN Kelas</string>
-    <string name="yxy_app_name">Ulearning</string>
-    <string name="idea_share">Tampilan layar</string>
-    <string name="msg_android2">Hanya Android yang didukung</string>
-    <string name="step1">Langkah 1.</string>
-    <string name="step2">Langkah 2.</string>
-    <string name="step3">Langkah 3.</string>
     <string name="welink_str">WeLink</string>
     <string name="idea_share_str">IdeaShare</string>
-    <string name="share_type">IdeaShare</string>
-    <string name="ideashare_remind1">Unduh IdeaShare dari ponsel atau komputer Anda</string>
-    <string name="ideashare_remind2">Menghubungkan ponsel atau komputer Anda ke LAN kelas</string>
-    <string name="ideashare_remind3">Buka IdeaShare dan masukkan kode casting layar di sudut kanan atas terminal untuk mentransmisikan layar</string>
-    <string name="ideashare_remind4">Setelah ponsel terhubung ke LAN kelas, layar diproyeksikan</string>
-    <string name="ideashare_remind5">Buka WeLink, klik tanda + di sudut kanan atas, pilih &quot;Proyeksi&quot;, dan masukkan kode proyeksi layar di sudut kanan atas terminal untuk mentransmisikan layar</string>
     <string name="wifi">WIFI:</string>
     <string name="wifi_password">Kata sandi:</string>
-    <string name="wifi_save">Simpan</string>
-    <string name="wifi_cancel">Batalkan</string>
-    <string name="wifi_edit">Ubah secara manual</string>
-    <string name="wifi_remind">Tidak dapat memperoleh informasi WIFI kelas, harap masukkan secara manual</string>
     <string name="storage_permission_reminder">Memberikan izin penyimpanan terlebih dahulu</string>
     <string name="wifi_unknown">Belum diketahui</string>
 
@@ -274,4 +209,4 @@
 
     <string name="record_occupation_hint">Aplikasi lain menggunakan fitur perekaman layar, sehingga aplikasi berhenti merekam layar</string>
 
-</resources>
+    </resources>

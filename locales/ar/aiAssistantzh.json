@@ -2714,5 +2714,161 @@
   "generating1": {
     "message": "توليد...",
     "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "إنشاء نقطة معرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "حفظ المخطط",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "أدخل اسم نقطة المعرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "هل أنت متأكد أنك تريد إعادة الإنشاء؟",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSaveKnowledgeFirst": {
+    "message": "يرجى حفظ نقطة المعرفة أولاً",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointLimitExceeded": {
+    "message": "لا يمكن أن يتجاوز إجمالي عدد نقاط المعارف 200، يرجى حذف بعضها أولاً",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmLeaveWithoutSaving": {
+    "message": "إذا غادرت الآن، فلن يتم حفظ المحتوى المُنشأ. هل أنت متأكد أنك تريد المغادرة؟",
+    "description": "aiAssistantzh.json"
+  },
+  "startGeneratingQuestions": {
+    "message": "بدء إنشاء الأسئلة",
+    "description": "aiAssistantzh.json"
+  },
+  "questionGenerationPrompt": {
+    "message": "بالنقر على الزر، سيتم تلقائيًا إنشاء أسئلة اختبار مرتبطة بكل نقطة معرفة.<br/>إذا لم تكن بحاجة إلى ذلك، يمكنك النقر على \"الخطوة التالية\" لتخطي هذه المرحلة.",
+    "description": "aiAssistantzh.json"
+  },
+  "difficultyLevel": {
+    "message": "الصعوبة: {level}",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "نقطة المعرفة {order}:",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "التقدم الكلي:",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "نقطة المعرفة الحالية:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalQuestionsNums": {
+    "message": "إجمالي {n} سؤال",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "جارٍ إنشاء الأسئلة...",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmStopGenerating": {
+    "message": "هل أنت متأكد من أنك تريد الإيقاف؟ سيتم إنهاء عملية إنشاء الأسئلة بعد التوقف.",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmReturnWithoutSaving": {
+    "message": "بالعودة إلى الخطوة السابقة، لن يتم حفظ الأسئلة المُولدة. هل ترغب في العودة؟",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointNameWithCount": {
+    "message": "اسم نقطة المعرفة ({n} نقطة)",
+    "description": "aiAssistantzh.json"
+  },
+  "createAndSaveGraph": {
+    "message": "إنشاء وحفظ المخطط المعرفي",
+    "description": "aiAssistantzh.json"
+  },
+  "savingGraph": {
+    "message": "يتم الآن حفظ المخطط، الرجاء عدم إغلاق الصفحة...",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveFailed": {
+    "message": "فشل حفظ المخطط، الرجاء المحاولة لاحقًا!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveSuccess": {
+    "message": "تم حفظ المخطط بنجاح",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccess": {
+    "message": "تم إنشاء المخطط بنجاح!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewGraph": {
+    "message": "عرض المخطط",
+    "description": "aiAssistantzh.json"
+  },
+  "manageGraph": {
+    "message": "إدارة المخطط",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccessDesc": {
+    "message": "تم إنشاء المخطط بنجاح، يمكنك أيضًا {manageGraph} أو {returnToHome}",
+    "description": "aiAssistantzh.json"
+  },
+  "returnToHome": {
+    "message": "العودة إلى الصفحة الرئيسية",
+    "description": "aiAssistantzh.json"
+  },
+  "stopGenerating": {
+    "message": "إيقاف الإنشاء",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGraphGeneration": {
+    "message": "إنشاء المخطط بالذكاء الاصطناعي",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraphGenerationDesc": {
+    "message": "إنشاء مخطط معرفي ذكي اعتمادًا على قاعدة المعارف",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevel": {
+    "message": "مستوى المخطط",
+    "description": "aiAssistantzh.json"
+  },
+  "includeRootNode": {
+    "message": "(يشمل العقدة الجذرية)",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameLength": {
+    "message": "يجب أن يكون اسم المخطط بين 1 و200 حرف",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevelRequired": {
+    "message": "لا يمكن ترك مستوى المخطط فارغًا",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePointsRequired": {
+    "message": "لا يمكن أن يكون إجمالي عدد نقاط المعارف فارغًا",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgePointsTip": {
+    "message": "إذا كانت نقاط المعارف المحددة تحتوي على نقاط معرفة فرعية، فسيتم حذفها أيضًا. هل أنت متأكد من الحذف؟",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeNameLength": {
+    "message": "يجب أن يكون اسم نقطة المعارف بين 1 و200 حرف",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLimitExceeded": {
+    "message": "لقد استنفدت عدد مرات الاستخدام اليوم",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyGenerationLimit": {
+    "message": "يمكنك استخدام ميزة إنشاء المخطط {count} مرة يوميًا",
+    "description": "aiAssistantzh.json"
   }
 }

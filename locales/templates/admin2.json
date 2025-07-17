@@ -5443,6 +5443,30 @@
     "message": "·当前查看文件",
     "description": "新版管理后台 zh.json"
   },
+  "resourceLibrary.allTheType": {
+    "message": "全部类型",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.share": {
+    "message": "共享",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.upLoad": {
+    "message": "上传",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allUpLoadType": {
+    "message": "全部上传状态",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip1": {
+    "message": "复制和分享记录",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip2": {
+    "message": "资源发布记录",
+    "description": "新版管理后台 zh.json"
+  },
   "userSetting.systemSetting": {
     "message": "系统设置",
     "description": "新版管理后台 zh.json"
@@ -6101,6 +6125,42 @@
   },
   "service.uploadFilePlaceholder": {
     "message": "请选择文件",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteResource": {
+    "message": "仅删除资源",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "删除发布到课程的资源",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "删除复制到资源库的资源", 
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "发布/复制都删除",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.title": {
+    "message": "选择课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.tip": {
+    "message": "请选择要把资源发布到哪些课程：",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.selectAll": {
+    "message": "全选",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "发布成功",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishFail": {
+    "message": "发布失败",
     "description": "新版管理后台 zh.json"
   }
 }

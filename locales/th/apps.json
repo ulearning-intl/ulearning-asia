@@ -127,10 +127,6 @@
     "message": "จบสิ้นกิจกรรม",
     "description": "小应用"
   },
-  "restartActivity": {
-    "message": "เปิดอีกครั้ง",
-    "description": "小应用"
-  },
   "saving": {
     "message": "กำลังบันทึก",
     "description": "小应用"
@@ -895,10 +891,6 @@
     "message": "เพื่อให้แน่ใจว่ากิจกรรมมีประสิทธิผล ชั้นเรียนที่เข้าร่วมและกฎการให้คะแนนจะไม่สามารถแก้ไขได้",
     "description": "小应用"
   },
-  "score.tips": {
-    "message": "เลือกนักเรียน/กลุ่มเพื่อนำเสนอในชั้นเรียน นักเรียนคนอื่นจะให้คะแนน",
-    "description": "小应用"
-  },
   "score.activityTypeTips1": {
     "message": "หลังจากเริ่มต้น ให้เพิ่มนักเรียนในอินเทอร์เฟซกิจกรรม นักเรียนคนอื่นให้คะแนนและประเมินนักเรียนที่ถูกเลือก",
     "description": "小应用"
@@ -909,18 +901,6 @@
   },
   "score.activityTypeTips3": {
     "message": "โปรดระบุวัตถุที่ต้องการการประเมินให้กับนักเรียนในชั้นเรียน",
-    "description": "小应用"
-  },
-  "score.pleaseAddStu": {
-    "message": "กรุณาเพิ่มนักเรียน",
-    "description": "小应用"
-  },
-  "score.pleaseAddGroup": {
-    "message": "กรุณาเพิ่มกลุ่มย่อย",
-    "description": "小应用"
-  },
-  "score.pleaseAddObject": {
-    "message": "กรุณาเพิ่มวัตถุการประเมิน",
     "description": "小应用"
   },
   "score.noEndEvaluation": {
@@ -957,10 +937,6 @@
   },
   "score.allStuEvaluated": {
     "message": "นักเรียนได้ประเมินทุกคน",
-    "description": "小应用"
-  },
-  "score.member": {
-    "message": "สมาชิก",
     "description": "小应用"
   },
   "score.groupMember": {
@@ -1011,16 +987,8 @@
     "message": "ไม่มีการให้คะแนนที่สิ้นสุดแล้ว",
     "description": "小应用"
   },
-  "score.pleaseMarkTips": {
-    "message": "กรุณาให้คะแนน คะแนนเต็มคือ 100 คะแนน",
-    "description": "小应用"
-  },
   "score.markPlaceholder": {
     "message": "กรุณาใส่คะแนน",
-    "description": "小应用"
-  },
-  "score.maxTips": {
-    "message": "คะแนนต้องไม่เกิน 100 คะแนน",
     "description": "小应用"
   },
   "score.markByItem": {
@@ -1065,10 +1033,6 @@
   },
   "score.confirmDeleteGroup": {
     "message": "ยืนยันลบกลุ่มย่อยปัจจุบัน?",
-    "description": "小应用"
-  },
-  "score.confirmDeleteObj": {
-    "message": "ยืนยันลบวัตถุการประเมินปัจจุบัน?",
     "description": "小应用"
   },
   "score.evaluatingStudents": {
@@ -1147,16 +1111,8 @@
     "message": "วิธีการเซ็นชื่อเข้าเรียน",
     "description": "小应用"
   },
-  "attendance.screenTips": {
-    "message": "\"ลงชื่อเข้าเรียนด้วยคิวอาร์โค้ด\" จำเป็นต้องเปิดการแคสหน้าจอ แสดงรหัสคิวอาร์โค้ดสำหรับการลงชื่อเข้าเรียนบนหน้าจอขนาดใหญ่",
-    "description": "小应用"
-  },
   "attendance.screenTipsNew": {
     "message": "“ลงชื่อเข้าเรียนด้วยคิวอาร์โค้ด\"จำเป็นต้องเปิดการแคสหน้าจอ แสดงรหัสคิวอาร์โค้ดสำหรับการลงชื่อเข้าเรียนบนหน้าจอขนาดใหญ่ นักเรียนสามารถใช้โทรศัพท์มือถือสแกนรหัสเพื่อลงชื่อเข้าเรียนได้เท่านั้น",
-    "description": "小应用"
-  },
-  "attendance.locationTips": {
-    "message": "\"การเช็คอินตำแหน่ง\"จำเป็นต้องเปิดใช้งานการค้นหาตำแหน่ง เนื่องจากผลกระทบของเสาสัญญาณเครือข่าย4Gและความเสถียรภาพของเครือข่าย ข้อมูลตำแหน่งอาจมีข้อผิดพลาดบางประการ",
     "description": "小应用"
   },
   "attendance.locationTipsNew": {
@@ -1343,24 +1299,8 @@
     "message": "คุณอยู่ไกลจากครูมากเกินไป!หากคุณอยู่ในห้องเรียนคุณสามารถลองเปลี่ยนไปใช้เครือข่ายอื่นและเช็คอินอีกครั้ง หากตำแหน่งยังไม่ถูกต้องหลังจากลองหลายครั้งโปรดแจ้งครู ครูจะเปลี่ยนสถานะการเช็คอินของคุณด้วยตนเอง",
     "description": "小应用"
   },
-  "attendance.mobilePluginTips1": {
-    "message": "โปรดอนุญาตให้ULearningใช้บริการค้นหาตำแหน่ง ลองอีกครั้งหลังจากอนุญาต",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips2": {
-    "message": "โปรดเปิดใช้งานบริการระบุตำแหน่งในการตั้งค่าของระบบโทรศัพท์มือถือ และอนุญาตให้ ULearning ใช้บริการระบุตำแหน่ง",
-    "description": "小应用"
-  },
   "attendance.mobilePluginTips3": {
     "message": "บริการค้นหาตำแหน่งไม่เสถียร ไม่สามารถรับข้อมูลตำแหน่งของคุณได้ คุณสามารถลองอีกครั้งในภายหลัง",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips4": {
-    "message": "สิทธิ์ของอัลบั้มไม่ได้เปิดอยู่",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips5": {
-    "message": "กรุณาเปิดสิทธิ์ของโทรศัพท์",
     "description": "小应用"
   },
   "attendance.numCodeFresh": {
@@ -1433,10 +1373,6 @@
   },
   "attendance.teaEnter": {
     "message": "ไม่มีตําแหน่ง, ครูป้อน",
-    "description": "小应用"
-  },
-  "announcement.title": {
-    "message": "ประกาศ",
     "description": "小应用"
   },
   "announcement.publish": {
@@ -1559,10 +1495,6 @@
     "message": "ไม่รองรับไฟล์ประเภทนี้",
     "description": "小应用"
   },
-  "upload.maxFileCount2": {
-    "message": "อัปโหลดสิ่งที่แนบมาได้สูงสุด {count} รายการ",
-    "description": "小应用"
-  },
   "upload.video1GLimit": {
     "message": "ขนาดวีดีโอไม่เกิน1G",
     "description": "小应用"
@@ -1575,10 +1507,6 @@
     "message": "เริ่มต้นชิงตอบคำถาม",
     "description": "小应用"
   },
-  "answer.contentPlaceholder": {
-    "message": "กรุณาใส่เนื้อหาชิงคำตอบ ไม่จำเป็นต้องกรอก",
-    "description": "小应用"
-  },
   "answer.participantsCount": {
     "message": "จำนวนคนที่เข้าร่วม",
     "description": "小应用"
@@ -1589,10 +1517,6 @@
   },
   "answer.classroomAnswer": {
     "message": "การชิงตอบคำถามในห้องเรียน",
-    "description": "小应用"
-  },
-  "answer.deleteConfirm": {
-    "message": "ยืนยันลบชิงตอบคำถามในห้องเรียนข้อนี้?",
     "description": "小应用"
   },
   "answer.backConfirm": {
@@ -1749,10 +1673,6 @@
   },
   "answer.commonScore": {
     "message": "ให้คะแนนเป็นเอกภาพ",
-    "description": "小应用"
-  },
-  "answer.endAnswer": {
-    "message": "สิ้นสุดการชิงตอบคำถาม",
     "description": "小应用"
   },
   "answer.confirmDeleteAnswer": {
@@ -1989,10 +1909,6 @@
   },
   "class.assessmentClass": {
     "message": "การประเมินผลห้องเรียน",
-    "description": "小应用"
-  },
-  "class.moveOut": {
-    "message": "ย้ายออก",
     "description": "小应用"
   },
   "class.count": {
@@ -2283,10 +2199,6 @@
     "message": "เข้าเรียนทุกครั้งคิดเป็นคะแนนเต็ม ขาดเรียนหนึ่งครั้งจะหัก",
     "description": "小应用"
   },
-  "class.newStrategyScoreItemTips34": {
-    "message": "คะแนน มาสาย/ออกก่อนกำหนดเวลา/ลาป่วย/ลากิจหัก",
-    "description": "小应用"
-  },
   "class.newStrategyScoreItemTips35": {
     "message": "คะแนน หักจนกว่าจะหมด",
     "description": "小应用"
@@ -2345,14 +2257,6 @@
   },
   "resource.detail": {
     "message": "รายละเอียดทรัพยากร",
-    "description": "小应用"
-  },
-  "resource.studentData": {
-    "message": "สถิตินักเรียน",
-    "description": "小应用"
-  },
-  "resource.delete": {
-    "message": "ลบทรัพยากร",
     "description": "小应用"
   },
   "resource.deleteNoAccess": {
@@ -2421,10 +2325,6 @@
   },
   "resource.fromAlbum": {
     "message": "เลือกจากเครื่องนี้",
-    "description": "小应用"
-  },
-  "resource.writtenWordsCount": {
-    "message": "เขียนแล้ว{count}ตัวอักษร",
     "description": "小应用"
   },
   "resource.written": {
@@ -2759,10 +2659,6 @@
     "message": "อาจารย์เชิญคุณเข้าร่วมห้องเรียน",
     "description": "小应用"
   },
-  "course.shareSummary": {
-    "message": "กรุณาเข้าร่วมห้องเรียน{courseName}  อาจารย์ประจำวิชา{teacherName}",
-    "description": "小应用"
-  },
   "course.qrCode": {
     "message": "รหัสคิวอาร์โค้ดของห้องเรียน",
     "description": "小应用"
@@ -2975,10 +2871,6 @@
     "message": "โรงเรียน/องค์กร",
     "description": "小应用"
   },
-  "user.select": {
-    "message": "โปรดเลือก",
-    "description": "小应用"
-  },
   "user.notOpen": {
     "message": "ไม่เปิดให้ลงทะเบียน",
     "description": "小应用"
@@ -2993,10 +2885,6 @@
   },
   "user.studentIdTip": {
     "message": "กรุณาใส่รหัสนักเรียน/รหัสพนักงาน",
-    "description": "小应用"
-  },
-  "user.studentId1": {
-    "message": "หากไม่ใช่นักเรียนหรืออาจารย์ของโรงเรียนไม่ต้องกรอกข้อมูล",
     "description": "小应用"
   },
   "user.inputOrgTip1": {
@@ -3103,10 +2991,6 @@
     "message": "อีเมลไม่ได้ลงทะเบียน",
     "description": "小应用"
   },
-  "user.getSuccess": {
-    "message": "ได้รับสำเร็จ",
-    "description": "小应用"
-  },
   "user.getFail": {
     "message": "การรับล้มเหลว",
     "description": "小应用"
@@ -3211,10 +3095,6 @@
     "message": "เลือกประเทศ/ภูมิภาค",
     "description": "小应用"
   },
-  "user.ULearningAccount": {
-    "message": "บัญชีULearning",
-    "description": "小应用"
-  },
   "user.inputUserNameTip1": {
     "message": "ชื่อผู้ใช้ / หมายเลขโทรศัพท์มือถือ / อีเมล",
     "description": "小应用"
@@ -3245,10 +3125,6 @@
   },
   "user.userNameUsed": {
     "message": "มีผู้ใช้อยู่แล้ว",
-    "description": "小应用"
-  },
-  "user.registerFail": {
-    "message": "การลงทะเบียนล้มเหลว",
     "description": "小应用"
   },
   "user.resgisterSuccess": {
@@ -3455,10 +3331,6 @@
     "message": "คัดลอกกิจกรรมในชั้นเรียนไปยังชั้นเรียนอื่น",
     "description": "小应用"
   },
-  "classroom.copyTip": {
-    "message": "กิจกรรมที่คัดลอกแล้วอยู่ในสถานะยังไม่เริ่มต้น คุณสามารถเริ่มกิจกรรมเหล่านี้หลังจากเข้าเรียนเรียน ไม่สามารถคัดลอกกิจกรรมการเช็คชื่อ/คัดเลือกคนได้",
-    "description": "小应用"
-  },
   "classroom.copyTip1": {
     "message": "หลังจากคัดลอกชั้นเรียนแล้ว กิจกรรมต่างๆ เช่น การลงคะแนนเสียงและการชิงคําตอบจะไม่เริ่มต้น และคุณสามารถเริ่มกิจกรรมเหล่านั้นหลังเลิกเรียนได้",
     "description": "小应用"
@@ -3581,10 +3453,6 @@
   },
   "classroom.closeSuccess": {
     "message": "ปิดเสร็จเรียบร้อยแล้ว",
-    "description": "小应用"
-  },
-  "classroom.confirmEndPick": {
-    "message": "ยืนยันสิ้นสุดการเลือกคน?",
     "description": "小应用"
   },
   "classroom.actunstart": {
@@ -3923,10 +3791,6 @@
     "message": "อนุญาตการเข้าสู่ระบบ",
     "description": "小应用"
   },
-  "loginCode.screenCode": {
-    "message": "สแกนรหัสเพื่อแคสต์หน้าจอ",
-    "description": "小应用"
-  },
   "loginCode.msg1": {
     "message": "การเข้าสู่ระบบเทอร์มินัลอุปกรณ์อื่น",
     "description": "小应用"
@@ -4147,18 +4011,6 @@
     "message": "แบ่งปันความสําเร็จ",
     "description": "小应用"
   },
-  "photograph.msg1": {
-    "message": "อัปโหลดรูปภาพตามที่ผู้สอนของคุณถามได้สูงสุด 20 ภาพ",
-    "description": "小应用"
-  },
-  "photograph.msg2": {
-    "message": "รูปภาพที่นักเรียนคนอื่นส่งมา",
-    "description": "小应用"
-  },
-  "photograph.msg3": {
-    "message": "ผมส่งภาพ",
-    "description": "小应用"
-  },
   "photograph.msg4": {
     "message": "กิจกรรมได้สิ้นสุดลงแล้ว",
     "description": "小应用"
@@ -4173,18 +4025,6 @@
   },
   "photograph.msg7": {
     "message": "อัปโหลดได้สูงสุด 20 ภาพ",
-    "description": "小应用"
-  },
-  "photograph.msg8": {
-    "message": "ยืนยันลบ",
-    "description": "小应用"
-  },
-  "photograph.msg9": {
-    "message": "นักเรียนอัปโหลดรูปภาพสําหรับงานนําเสนอในชั้นเรียน",
-    "description": "小应用"
-  },
-  "photograph.msg10": {
-    "message": "นักเรียนจะดูรูปภาพของนักเรียนคนอื่นๆ ได้หลังจากส่งผลงานแล้ว",
     "description": "小应用"
   },
   "photograph.msg11": {
@@ -4367,10 +4207,6 @@
     "message": "แน่ใจหรือว่าต้องการจบการสนทนานี้?",
     "description": "小应用"
   },
-  "discuss.beginning": {
-    "message": "เริ่มการสนทนา ...",
-    "description": "小应用"
-  },
   "uploadError": {
     "message": "ล้มเหลว!",
     "description": "小应用"
@@ -4419,10 +4255,6 @@
     "message": "เราได้ส่งอีเมลไปที่ {email} โปรดตรวจสอบกล่องจดหมายของคุณและทําตามคําแนะนําเพื่อรีเซ็ตรหัสผ่านของคุณ",
     "description": "小应用"
   },
-  "user.pwd6": {
-    "message": "มีการส่งอีเมล โปรดตรวจสอบกล่องจดหมายของคุณและทําตามคําแนะนําเพื่อรีเซ็ตรหัสผ่านของคุณ",
-    "description": "小应用"
-  },
   "user.pwd7": {
     "message": "กลับไปที่",
     "description": "小应用"
@@ -4437,14 +4269,6 @@
   },
   "user.pwd10": {
     "message": "ที่อยู่อีเมลไม่มีอยู่โปรดป้อนอีกครั้ง",
-    "description": "小应用"
-  },
-  "user.pwd11": {
-    "message": "บัญชีกําลังรอการเปิดใช้งาน",
-    "description": "小应用"
-  },
-  "user.pwd12": {
-    "message": "บัญชีถูกปิดใช้งาน",
     "description": "小应用"
   },
   "user.pwd13": {
@@ -4523,10 +4347,6 @@
     "message": "สัดส่วนการให้คะแนนครู",
     "description": "小应用"
   },
-  "score.teacherWeightTip": {
-    "message": "กรุณาใส่จำนวนเต็ม 0-100",
-    "description": "小应用"
-  },
   "score.scoreTip": {
     "message": "{n} บทวิจารณ์ คะแนนเฉลี่ย {score}",
     "description": "小应用"
@@ -4569,14 +4389,6 @@
   },
   "score.fullmarks": {
     "message": "คะแนนเต็ม",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip": {
-    "message": "คะแนนที่สมบูรณ์แบบไม่สามารถว่างเปล่าได้",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "โปรดป้อนค่าคะแนนที่ถูกต้อง",
     "description": "小应用"
   },
   "score.scoreSettings": {
@@ -4677,14 +4489,6 @@
   },
   "remind.repeatRemindTips": {
     "message": "ทรัพยากรเดียวกันสามารถส่งการแจ้งเตือนได้วันละครั้งเท่านั้น มันได้รับการเตือนในวันนี้ลองอีกครั้งในวันพรุ่งนี้ ~",
-    "description": "小应用"
-  },
-  "user.websitHomepage": {
-    "message": "หน้าแรกของเว็บไซต์",
-    "description": "小应用"
-  },
-  "user.contactCustomerService": {
-    "message": "ติดต่อฝ่ายบริการลูกค้า",
     "description": "小应用"
   },
   "user.bindTips": {
@@ -4843,14 +4647,6 @@
     "message": "คำตอบของคุณ：",
     "description": "小应用"
   },
-  "answerQue.correct": {
-    "message": "ถูกต้อง",
-    "description": "小应用"
-  },
-  "answerQue.error": {
-    "message": "ข้อผิดพลาด",
-    "description": "小应用"
-  },
   "answerQue.viewStudentList": {
     "message": "ดูรายชื่อนักเรียน",
     "description": "小应用"
@@ -4867,20 +4663,12 @@
     "message": "ไปที่กิจกรรมอัพโหลดรูปภาพ",
     "description": "小应用"
   },
-  "classroom.discussDetails": {
-    "message": "มาพูดถึงรายละเอียดกัน",
-    "description": "小应用"
-  },
   "classroom.reverseOrder": {
     "message": "ลําดับย้อนกลับ",
     "description": "小应用"
   },
   "classroom.positiveOrder": {
     "message": "ลําดับที่เป็นบวก",
-    "description": "小应用"
-  },
-  "loginCode.tip10": {
-    "message": "หลังจากเข้าสู่ระบบบนหน้าจอขนาดใหญ่คุณสามารถดําเนินการสอนการเชื่อมโยง",
     "description": "小应用"
   },
   "loginCode.tip11": {
@@ -4995,10 +4783,6 @@
     "message": "คําตอบของคุณ",
     "description": "小应用"
   },
-  "stuList.notJoin": {
-    "message": "ไม่ได้เข้าร่วม",
-    "description": "小应用"
-  },
   "stuList.notChoose": {
     "message": "ไม่ได้เลือก",
     "description": "小应用"
@@ -5089,6 +4873,218 @@
   },
   "welink.screenshot": {
     "message": "ภาพหน้าจอ",
+    "description": "小应用"
+  },
+  "restartActivity": {
+    "message": "เปิดอีกครั้ง",
+    "description": "小应用"
+  },
+  "score.tips": {
+    "message": "เลือกนักเรียน/กลุ่มเพื่อนำเสนอในชั้นเรียน นักเรียนคนอื่นจะให้คะแนน",
+    "description": "小应用"
+  },
+  "score.pleaseAddStu": {
+    "message": "กรุณาเพิ่มนักเรียน",
+    "description": "小应用"
+  },
+  "score.pleaseAddGroup": {
+    "message": "กรุณาเพิ่มกลุ่มย่อย",
+    "description": "小应用"
+  },
+  "score.pleaseAddObject": {
+    "message": "กรุณาเพิ่มวัตถุการประเมิน",
+    "description": "小应用"
+  },
+  "score.member": {
+    "message": "สมาชิก",
+    "description": "小应用"
+  },
+  "score.pleaseMarkTips": {
+    "message": "กรุณาให้คะแนน คะแนนเต็มคือ 100 คะแนน",
+    "description": "小应用"
+  },
+  "score.maxTips": {
+    "message": "คะแนนต้องไม่เกิน 100 คะแนน",
+    "description": "小应用"
+  },
+  "score.confirmDeleteObj": {
+    "message": "ยืนยันลบวัตถุการประเมินปัจจุบัน?",
+    "description": "小应用"
+  },
+  "score.teacherWeightTip": {
+    "message": "กรุณาใส่จำนวนเต็ม 0-100",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip": {
+    "message": "คะแนนที่สมบูรณ์แบบไม่สามารถว่างเปล่าได้",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip1": {
+    "message": "โปรดป้อนค่าคะแนนที่ถูกต้อง",
+    "description": "小应用"
+  },
+  "attendance.screenTips": {
+    "message": "\"ลงชื่อเข้าเรียนด้วยคิวอาร์โค้ด\" จำเป็นต้องเปิดการแคสหน้าจอ แสดงรหัสคิวอาร์โค้ดสำหรับการลงชื่อเข้าเรียนบนหน้าจอขนาดใหญ่",
+    "description": "小应用"
+  },
+  "attendance.locationTips": {
+    "message": "\"การเช็คอินตำแหน่ง\"จำเป็นต้องเปิดใช้งานการค้นหาตำแหน่ง เนื่องจากผลกระทบของเสาสัญญาณเครือข่าย4Gและความเสถียรภาพของเครือข่าย ข้อมูลตำแหน่งอาจมีข้อผิดพลาดบางประการ",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips1": {
+    "message": "โปรดอนุญาตให้ULearningใช้บริการค้นหาตำแหน่ง ลองอีกครั้งหลังจากอนุญาต",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips2": {
+    "message": "โปรดเปิดใช้งานบริการระบุตำแหน่งในการตั้งค่าของระบบโทรศัพท์มือถือ และอนุญาตให้ ULearning ใช้บริการระบุตำแหน่ง",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips4": {
+    "message": "สิทธิ์ของอัลบั้มไม่ได้เปิดอยู่",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips5": {
+    "message": "กรุณาเปิดสิทธิ์ของโทรศัพท์",
+    "description": "小应用"
+  },
+  "announcement.title": {
+    "message": "ประกาศ",
+    "description": "小应用"
+  },
+  "upload.maxFileCount2": {
+    "message": "อัปโหลดสิ่งที่แนบมาได้สูงสุด {count} รายการ",
+    "description": "小应用"
+  },
+  "answer.contentPlaceholder": {
+    "message": "กรุณาใส่เนื้อหาชิงคำตอบ ไม่จำเป็นต้องกรอก",
+    "description": "小应用"
+  },
+  "answer.deleteConfirm": {
+    "message": "ยืนยันลบชิงตอบคำถามในห้องเรียนข้อนี้?",
+    "description": "小应用"
+  },
+  "answer.endAnswer": {
+    "message": "สิ้นสุดการชิงตอบคำถาม",
+    "description": "小应用"
+  },
+  "class.moveOut": {
+    "message": "ย้ายออก",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips34": {
+    "message": "คะแนน มาสาย/ออกก่อนกำหนดเวลา/ลาป่วย/ลากิจหัก",
+    "description": "小应用"
+  },
+  "resource.studentData": {
+    "message": "สถิตินักเรียน",
+    "description": "小应用"
+  },
+  "resource.delete": {
+    "message": "ลบทรัพยากร",
+    "description": "小应用"
+  },
+  "resource.writtenWordsCount": {
+    "message": "เขียนแล้ว{count}ตัวอักษร",
+    "description": "小应用"
+  },
+  "discuss.beginning": {
+    "message": "เริ่มการสนทนา ...",
+    "description": "小应用"
+  },
+  "course.shareSummary": {
+    "message": "กรุณาเข้าร่วมห้องเรียน{courseName}  อาจารย์ประจำวิชา{teacherName}",
+    "description": "小应用"
+  },
+  "user.select": {
+    "message": "โปรดเลือก",
+    "description": "小应用"
+  },
+  "user.studentId1": {
+    "message": "หากไม่ใช่นักเรียนหรืออาจารย์ของโรงเรียนไม่ต้องกรอกข้อมูล",
+    "description": "小应用"
+  },
+  "user.getSuccess": {
+    "message": "ได้รับสำเร็จ",
+    "description": "小应用"
+  },
+  "user.ULearningAccount": {
+    "message": "บัญชีULearning",
+    "description": "小应用"
+  },
+  "user.registerFail": {
+    "message": "การลงทะเบียนล้มเหลว",
+    "description": "小应用"
+  },
+  "user.websitHomepage": {
+    "message": "หน้าแรกของเว็บไซต์",
+    "description": "小应用"
+  },
+  "user.contactCustomerService": {
+    "message": "ติดต่อฝ่ายบริการลูกค้า",
+    "description": "小应用"
+  },
+  "user.pwd11": {
+    "message": "บัญชีกําลังรอการเปิดใช้งาน",
+    "description": "小应用"
+  },
+  "user.pwd12": {
+    "message": "บัญชีถูกปิดใช้งาน",
+    "description": "小应用"
+  },
+  "answerQue.correct": {
+    "message": "ถูกต้อง",
+    "description": "小应用"
+  },
+  "answerQue.error": {
+    "message": "ข้อผิดพลาด",
+    "description": "小应用"
+  },
+  "classroom.copyTip": {
+    "message": "กิจกรรมที่คัดลอกแล้วอยู่ในสถานะยังไม่เริ่มต้น คุณสามารถเริ่มกิจกรรมเหล่านี้หลังจากเข้าเรียนเรียน ไม่สามารถคัดลอกกิจกรรมการเช็คชื่อ/คัดเลือกคนได้",
+    "description": "小应用"
+  },
+  "classroom.confirmEndPick": {
+    "message": "ยืนยันสิ้นสุดการเลือกคน?",
+    "description": "小应用"
+  },
+  "classroom.discussDetails": {
+    "message": "มาพูดถึงรายละเอียดกัน",
+    "description": "小应用"
+  },
+  "loginCode.screenCode": {
+    "message": "สแกนรหัสเพื่อแคสต์หน้าจอ",
+    "description": "小应用"
+  },
+  "loginCode.tip10": {
+    "message": "หลังจากเข้าสู่ระบบบนหน้าจอขนาดใหญ่คุณสามารถดําเนินการสอนการเชื่อมโยง",
+    "description": "小应用"
+  },
+  "photograph.msg1": {
+    "message": "อัปโหลดรูปภาพตามที่ผู้สอนของคุณถามได้สูงสุด 20 ภาพ",
+    "description": "小应用"
+  },
+  "photograph.msg2": {
+    "message": "รูปภาพที่นักเรียนคนอื่นส่งมา",
+    "description": "小应用"
+  },
+  "photograph.msg3": {
+    "message": "ผมส่งภาพ",
+    "description": "小应用"
+  },
+  "photograph.msg8": {
+    "message": "ยืนยันลบ",
+    "description": "小应用"
+  },
+  "photograph.msg9": {
+    "message": "นักเรียนอัปโหลดรูปภาพสําหรับงานนําเสนอในชั้นเรียน",
+    "description": "小应用"
+  },
+  "photograph.msg10": {
+    "message": "นักเรียนจะดูรูปภาพของนักเรียนคนอื่นๆ ได้หลังจากส่งผลงานแล้ว",
+    "description": "小应用"
+  },
+  "stuList.notJoin": {
+    "message": "ไม่ได้เข้าร่วม",
     "description": "小应用"
   }
 }
