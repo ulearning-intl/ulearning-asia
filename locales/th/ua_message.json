@@ -1,8 +1,4 @@
 {
-  "loading": {
-    "message": "กำลังโหลด...",
-    "description": "UA播放器内层"
-  },
   "backToCourse": {
     "message": "กลับไปที่บทของหลักสูตร",
     "description": "UA播放器内层"
@@ -35,26 +31,6 @@
     "message": "ไม่มีแล้ว",
     "description": "UA播放器内层"
   },
-  "quizGuide": {
-    "message": "กฎการฝึกหัด",
-    "description": "UA播放器内层"
-  },
-  "quizGuideP1": {
-    "message": "เพื่อเสริมสร้างความรู้และความเข้าใจได้อย่างลึกซึ้ง ทุกท่านโปรดตอบคำถามอย่างจริงจัง！",
-    "description": "UA播放器内层"
-  },
-  "quizUlLi1": {
-    "message": "โปรดสังเกตดูข้อกำหนดจำนวนครั้งการตอบคำถามและเวลาจำกัด หากมีการจำกัดเวลา โปรดกรอกคำตอบให้ครบถ้วนภายในเวลาที่กำหนด",
-    "description": "UA播放器内层"
-  },
-  "quizUlLi2": {
-    "message": "หลังจากตอบคำถามแต่ละข้อแล้ว ระบบจะแจ้งว่าถูก/ผิดในวงกลมด้านบน คลิกที่วงกลมเล็กๆ แต่ละวงเพื่อข้ามไปยังคำถามนี้โดยตรง",
-    "description": "UA播放器内层"
-  },
-  "videoQuizUlLi1": {
-    "message": "วิดีโอจะเปิดอัตโนมัติหลังจากทำแบบฝึกหัดเรียบร้อย",
-    "description": "UA播放器内层"
-  },
   "beginQuiz": {
     "message": "เริ่มตอบคำถาม",
     "description": "UA播放器内层"
@@ -83,20 +59,8 @@
     "message": "ส่ง",
     "description": "UA播放器内层"
   },
-  "nextQuestion": {
-    "message": "คำถามถัดไป",
-    "description": "UA播放器内层"
-  },
-  "theEnd": {
-    "message": "ไม่มีแล้ว",
-    "description": "UA播放器内层"
-  },
   "redo": {
     "message": "ทำใหม่",
-    "description": "UA播放器内层"
-  },
-  "answerRecord": {
-    "message": "บันทึกของการตอบคำถาม",
     "description": "UA播放器内层"
   },
   "answerRight": {
@@ -123,10 +87,6 @@
     "message": "คำตอบบางข้อถูกต้อง ลองทำอีกครั้ง！",
     "description": "UA播放器内层"
   },
-  "viewAnalysis": {
-    "message": "ดูการวิเคราะห์คำตอบ",
-    "description": "UA播放器内层"
-  },
   "correctAnswer": {
     "message": "คำตอบที่ถูกต้อง：",
     "description": "UA播放器内层"
@@ -141,10 +101,6 @@
   },
   "unviewed": {
     "message": "ไม่ได้ดู",
-    "description": "UA播放器内层"
-  },
-  "watching": {
-    "message": "กำลังรับชมอยู่",
     "description": "UA播放器内层"
   },
   "viewed": {
@@ -183,10 +139,6 @@
     "message": "อ๊ะ หน้านี้ไม่มีเนื้อหา ดูหน้าอื่นกันดีกว่า",
     "description": "UA播放器内层"
   },
-  "sectionSummary": {
-    "message": "สถิติในส่วนนี้",
-    "description": "UA播放器内层"
-  },
   "completeSection": {
     "message": "ขอแสดงความยินดีกับการเสร็จสิ้นการเรียนบทนี้！",
     "description": "UA播放器内层"
@@ -201,14 +153,6 @@
   },
   "nextSection": {
     "message": "ส่วนถัดไป：",
-    "description": "UA播放器内层"
-  },
-  "reviewSection": {
-    "message": "กลับไปที่ส่วนนี้",
-    "description": "UA播放器内层"
-  },
-  "goNextSection": {
-    "message": "ดำเนินการต่อส่วนถัดไป",
     "description": "UA播放器内层"
   },
   "studyProgress": {
@@ -251,10 +195,6 @@
     "message": "บางส่วนของหน้านี้ยังไม่เสร็จสมบูรณ์, เพื่อที่จะไม่ส่งผลกระทบต่อคะแนนผลการเรียนของคุณ แนะนำให้คุณตรวจสอบที่หน้าสารบัญว่าหน้าใดที่ยังไม่เสร็จสมบูรณ์ แล้วเรียนรู้หน้าเหล่านี้อีกครั้ง  สู้ๆน๊า~",
     "description": "UA播放器内层"
   },
-  "reviewChapter": {
-    "message": "กลับไปที่บทนี้",
-    "description": "UA播放器内层"
-  },
   "stayHere": {
     "message": "อยู่ที่หน้านี้",
     "description": "UA播放器内层"
@@ -265,10 +205,6 @@
   },
   "chapterScore": {
     "message": "คะแนนบทนี้",
-    "description": "UA播放器内层"
-  },
-  "quizArea": {
-    "message": "ต่อไปนี้คือการฝึกหัด",
     "description": "UA播放器内层"
   },
   "timeLeft": {
@@ -309,14 +245,6 @@
   },
   "clozeQuestion": {
     "message": "การเลือกคำตอบที่ถูกต้องมาเติมในช่องว่าง",
-    "description": "UA播放器内层"
-  },
-  "oralResponseQuestion": {
-    "message": "การพูดเชิงอัตนัย",
-    "description": "UA播放器内层"
-  },
-  "readMaterialQuestion": {
-    "message": "การอ่านปากเปล่า",
     "description": "UA播放器内层"
   },
   "comprehensiveQuestion": {

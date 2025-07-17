@@ -99,10 +99,6 @@
     "message": "ระยะเวลาการสอบมีผลบังคับใช้",
     "description": "考试快捷地址"
   },
-  "openApp": {
-    "message": "ไปที่แอพ ULearning เพื่อสอบ",
-    "description": "考试快捷地址"
-  },
   "downloadApp": {
     "message": "ดาวน์โหลดแอป ULearning",
     "description": "考试快捷地址"
@@ -147,10 +143,6 @@
     "message": "{n} นาที",
     "description": "考试快捷地址"
   },
-  "allowedTimes": {
-    "message": "จํานวนคําตอบที่อนุญาต",
-    "description": "考试快捷地址"
-  },
   "notLimit": {
     "message": "ไม่มีข้อ จํากัด",
     "description": "考试快捷地址"
@@ -161,10 +153,6 @@
   },
   "score": {
     "message": "{n}คะแนน",
-    "description": "考试快捷地址"
-  },
-  "usedTimes": {
-    "message": "จํานวนคําตอบที่ใช้",
     "description": "考试快捷地址"
   },
   "examTime": {
@@ -379,10 +367,6 @@
     "message": "มันจบแล้ว",
     "description": "考试快捷地址"
   },
-  "joinTypes": {
-    "message": "เทอร์มินัลเว็บคอมพิวเตอร์ / แอพมือถือ / ไคลเอนต์หน้าจอล็อคคอมพิวเตอร์",
-    "description": "考试快捷地址"
-  },
   "resultsNotAnnounce": {
     "message": "ไม่มีการเผยแพร่ผลลัพธ์สําหรับการสอบนี้",
     "description": "考试快捷地址"
@@ -437,10 +421,6 @@
   },
   "ltiTip1": {
     "message": "หากคุณต้องการทําการสอบผ่านไคลเอ็นต์ APP/Lock หน้าจอบนโทรศัพท์มือถือ ให้ลงชื่อเข้าใช้ด้วยบัญชี ULearning ชื่อผู้ใช้ของคุณคือ: {loginName}และรหัสผ่านเริ่มต้นจะตรงกับชื่อผู้ใช้",
-    "description": "考试快捷地址"
-  },
-  "ltiTip2": {
-    "message": "ทําการสอบผ่านไคลเอ็นต์ APP/Lock บนหน้าจอบนโทรศัพท์มือถือ และลงชื่อเข้าใช้ด้วยบัญชี ULearning ชื่อผู้ใช้ของคุณคือ: {loginName}และรหัสผ่านเริ่มต้นจะตรงกับชื่อผู้ใช้ เมื่อเข้าสู่ระบบคุณสามารถเปลี่ยนรหัสผ่านหรือปรับปรุงข้อมูลส่วนบุคคลในการจัดการบัญชีได้",
     "description": "考试快捷地址"
   },
   "toUpdatePsd": {
@@ -769,10 +749,6 @@
   },
   "referenceAnswer": {
     "message": "คำตอบอ้างอิง",
-    "description": "考试快捷地址"
-  },
-  "examUploadTip": {
-    "message": "เมื่อเลือกไฟล์ระบบจะออกจากสถานะเต็มหน้าจอชั่วคราวโปรดดําเนินการเลือกไฟล์แนบให้เสร็จสิ้นและกลับไปที่อินเทอร์เฟซการสอบภายใน 30 วินาทีแล้วคลิกพื้นที่ว่างใด ๆ ในหน้าเพื่อกลับสู่สถานะเต็มหน้าจอมิฉะนั้นระบบจะบันทึกการดําเนินการว่าออกจากการสอบ",
     "description": "考试快捷地址"
   },
   "uploadFailTip": {
@@ -1275,10 +1251,6 @@
     "message": "เครือข่ายผิดปกติการส่งกระดาษทดสอบล้มเหลว!",
     "description": "考试快捷地址"
   },
-  "networkErrorTip1": {
-    "message": "ระบบได้เก็บระเบียนคําตอบไว้ในเครื่องชั่วคราว",
-    "description": "考试快捷地址"
-  },
   "leftTimeTip": {
     "message": "เวลาน้อยกว่า 1 นาที",
     "description": "考试快捷地址"
@@ -1613,10 +1585,6 @@
   },
   "importBank": {
     "message": "ส่งออกธนาคารคําถาม",
-    "description": "考试快捷地址"
-  },
-  "importBankOverNum": {
-    "message": "จํานวนคําถามที่ส่งออกเกินขีดจํากัดสูงสุด",
     "description": "考试快捷地址"
   },
   "importLoadMsg": {
@@ -2235,10 +2203,6 @@
     "message": "ข้อถัดไป",
     "description": "考试快捷地址"
   },
-  "finallyQue": {
-    "message": "มันคือจุดจบ",
-    "description": "考试快捷地址"
-  },
   "quitExam": {
     "message": "ออกจากการสอบ",
     "description": "考试快捷地址"
@@ -2307,10 +2271,6 @@
     "message": "ลิงก์หมดอายุแล้ว",
     "description": "考试快捷地址"
   },
-  "selectImg": {
-    "message": "เลือกจากอัลบั้ม",
-    "description": "考试快捷地址"
-  },
   "selectFile": {
     "message": "เลือกไฟล์",
     "description": "考试快捷地址"
@@ -2341,10 +2301,6 @@
   },
   "codeUploadTip2": {
     "message": "อัปโหลดไฟล์ {num} ในเวลาสูงสุด",
-    "description": "考试快捷地址"
-  },
-  "codeUploadTip3": {
-    "message": "ขนาดไฟล์ที่อัพโหลดจากฝั่งโทรศัพท์มือถือต้องไม่เกิน {size}",
     "description": "考试快捷地址"
   },
   "codeUploadTip4": {
@@ -2399,10 +2355,6 @@
     "message": "โต๊ะตรวจสอบการสอบมือถือ",
     "description": "考试快捷地址"
   },
-  "codeInvalid": {
-    "message": "รหัสยืนยันไม่สามารถใช้งานได้",
-    "description": "考试快捷地址"
-  },
   "answerTimeLimit": {
     "message": "คําตอบมีจํากัดเวลา",
     "description": "考试快捷地址"
@@ -2437,10 +2389,6 @@
   },
   "notSubmitted": {
     "message": "ไม่ได้ส่ง",
-    "description": "考试快捷地址"
-  },
-  "examViewTip": {
-    "message": "โปรดดูและอนุมัติเอกสารทดสอบจากคอมพิวเตอร์ของคุณ",
     "description": "考试快捷地址"
   },
   "selectBatch": {
@@ -2569,10 +2517,6 @@
   },
   "commitExamTip3": {
     "message": "ระบบจะทําโดยอัตโนมัติ",
-    "description": "考试快捷地址"
-  },
-  "commitExamTip4": {
-    "message": "เมื่อเวลาในการตอบคําถามหมดลงระบบจะปิดระดับเสียงโดยอัตโนมัติ",
     "description": "考试快捷地址"
   },
   "signinCode": {
@@ -2759,10 +2703,6 @@
     "message": "จํานวนคําตอบ",
     "description": "考试快捷地址"
   },
-  "averageAnsweredNum": {
-    "message": "จํานวนคําตอบสําหรับคําถามโดยเฉลี่ย",
-    "description": "考试快捷地址"
-  },
   "firstAccuracy": {
     "message": "ความแม่นยําครั้งแรก",
     "description": "考试快捷地址"
@@ -2865,10 +2805,6 @@
   },
   "questionDeleteFail": {
     "message": "การลบคําถามล้มเหลว",
-    "description": "考试快捷地址"
-  },
-  "noQuestionTip": {
-    "message": "ไม่มีชื่อเรื่อง",
     "description": "考试快捷地址"
   },
   "trainPageTip": {
@@ -2983,10 +2919,6 @@
     "message": "ป้อนเนื้อหา",
     "description": "考试快捷地址"
   },
-  "roate": {
-    "message": "หมุน",
-    "description": "考试快捷地址"
-  },
   "showDetail": {
     "message": "ดูรายละเอียด",
     "description": "考试快捷地址"
@@ -3067,36 +2999,12 @@
     "message": "จํานวนการส่งโดยเฉลี่ย",
     "description": "考试快捷地址"
   },
-  "selectFileByCamera": {
-    "message": "ถ่ายภาพ",
-    "description": "考试快捷地址"
-  },
   "ps": {
     "message": "{n} บทความ/หน้า",
     "description": "考试快捷地址"
   },
   "openLockScreenError": {
     "message": "ตรวจไม่พบไคลเอนต์หน้าจอล็อกโปรดยืนยันว่าติดตั้งอย่างถูกต้อง หากการติดตั้งยังคงไม่เริ่มทํางานคุณสามารถลองถอนการติดตั้งและติดตั้งเวอร์ชันล่าสุดใหม่",
-    "description": "考试快捷地址"
-  },
-  "changeLastTime1": {
-    "message": "แก้ไขครั้งที่แล้ว",
-    "description": "考试快捷地址"
-  },
-  "enteredExamTip2": {
-    "message": "หากคุณแน่ใจว่าคุณไม่ได้เปิดหน้าคําตอบหลายหน้าพร้อมกัน หรือหากคุณปิดหน้าอื่นๆ แล้วแต่ยังคงได้รับพร้อมท์ {closeBrowser} แล้วป้อนข้อสอบอีกครั้ง",
-    "description": "考试快捷地址"
-  },
-  "closeBrowser": {
-    "message": "ปิดเบราว์เซอร์ของคุณ",
-    "description": "考试快捷地址"
-  },
-  "enteredExamTip3": {
-    "message": "ในกรณีที่มีสถานการณ์ผิดปกติอื่นๆ คุณสามารถขอรหัสยืนยันจากครูและใช้รหัสยืนยันเพื่อเข้าสู่การสอบได้",
-    "description": "考试快捷地址"
-  },
-  "banks": {
-    "message": "เอกสารการสอบ/คลังคําถาม",
     "description": "考试快捷地址"
   },
   "paperBank": {
@@ -3131,6 +3039,182 @@
     "message": "รวมกลุ่มข้อสอบอัตโนมัติ",
     "description": "考试快捷地址"
   },
+  "name": {
+    "message": "ชื่อ",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "ปิดผนึก",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "ปิดผนึก",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "เจ้าของ",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "วิทยาลัยทั้งหมด",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "วิทยาลัย",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "จํานวนกระดาษทดสอบ",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "ย้ายไปที่",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "กระดาษข้อสอบถูกใช้ในข้อสอบแล้วและไม่สามารถลบได้",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "ลบข้อสอบ",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "ลบโฟลเดอร์",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "โหลดใหม่",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "ยืนยันตัวตน",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "ตู้จดหมาย",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "captcha แบบกราฟิก",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "ป้อนอีกครั้ง",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "กระดาษทดสอบ",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "สถิติ",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "แหล่งที่มา",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "ทางเข้ามรดก",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "เบต้าแบบปิด",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "ไปที่แอพ ULearning เพื่อสอบ",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "จํานวนคําตอบที่อนุญาต",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "จํานวนคําตอบที่ใช้",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "เทอร์มินัลเว็บคอมพิวเตอร์ / แอพมือถือ / ไคลเอนต์หน้าจอล็อคคอมพิวเตอร์",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "ทําการสอบผ่านไคลเอ็นต์ APP/Lock บนหน้าจอบนโทรศัพท์มือถือ และลงชื่อเข้าใช้ด้วยบัญชี ULearning ชื่อผู้ใช้ของคุณคือ: {loginName}และรหัสผ่านเริ่มต้นจะตรงกับชื่อผู้ใช้ เมื่อเข้าสู่ระบบคุณสามารถเปลี่ยนรหัสผ่านหรือปรับปรุงข้อมูลส่วนบุคคลในการจัดการบัญชีได้",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "เมื่อเลือกไฟล์ระบบจะออกจากสถานะเต็มหน้าจอชั่วคราวโปรดดําเนินการเลือกไฟล์แนบให้เสร็จสิ้นและกลับไปที่อินเทอร์เฟซการสอบภายใน 30 วินาทีแล้วคลิกพื้นที่ว่างใด ๆ ในหน้าเพื่อกลับสู่สถานะเต็มหน้าจอมิฉะนั้นระบบจะบันทึกการดําเนินการว่าออกจากการสอบ",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "ระบบได้เก็บระเบียนคําตอบไว้ในเครื่องชั่วคราว",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "จํานวนคําถามที่ส่งออกเกินขีดจํากัดสูงสุด",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "แก้ไขครั้งที่แล้ว",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "มันคือจุดจบ",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "เลือกจากอัลบั้ม",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "ขนาดไฟล์ที่อัพโหลดจากฝั่งโทรศัพท์มือถือต้องไม่เกิน {size}",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "รหัสยืนยันไม่สามารถใช้งานได้",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "โปรดดูและอนุมัติเอกสารทดสอบจากคอมพิวเตอร์ของคุณ",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "เมื่อเวลาในการตอบคําถามหมดลงระบบจะปิดระดับเสียงโดยอัตโนมัติ",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "จํานวนคําตอบสําหรับคําถามโดยเฉลี่ย",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "ไม่มีชื่อเรื่อง",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip2": {
+    "message": "หากคุณแน่ใจว่าคุณไม่ได้เปิดหน้าคําตอบหลายหน้าพร้อมกัน หรือหากคุณปิดหน้าอื่นๆ แล้วแต่ยังคงได้รับพร้อมท์ {closeBrowser} แล้วป้อนข้อสอบอีกครั้ง",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "ปิดเบราว์เซอร์ของคุณ",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "ในกรณีที่มีสถานการณ์ผิดปกติอื่นๆ คุณสามารถขอรหัสยืนยันจากครูและใช้รหัสยืนยันเพื่อเข้าสู่การสอบได้",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "หมุน",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "ถ่ายภาพ",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "เอกสารการสอบ/คลังคําถาม",
+    "description": "考试快捷地址"
+  },
   "searchPaper": {
     "message": "ค้นหาโฟลเดอร์/เอกสารสอบ",
     "description": "考试快捷地址"
@@ -3143,20 +3227,8 @@
     "message": "เวลาของการปรับปรุง",
     "description": "考试快捷地址"
   },
-  "name": {
-    "message": "ชื่อ",
-    "description": "考试快捷地址"
-  },
   "shareFolder": {
     "message": "โฟลเดอร์ที่ใช้ร่วมกัน",
-    "description": "考试快捷地址"
-  },
-  "lock": {
-    "message": "ปิดผนึก",
-    "description": "考试快捷地址"
-  },
-  "unLock": {
-    "message": "ปิดผนึก",
     "description": "考试快捷地址"
   },
   "inputFolderTip": {
@@ -3223,24 +3295,12 @@
     "message": "เพิ่มสมาชิก",
     "description": "考试快捷地址"
   },
-  "owner": {
-    "message": "เจ้าของ",
-    "description": "考试快捷地址"
-  },
-  "allCollege": {
-    "message": "วิทยาลัยทั้งหมด",
-    "description": "考试快捷地址"
-  },
   "searchTeachers": {
     "message": "ค้นหาครู",
     "description": "考试快捷地址"
   },
   "jobNumber": {
     "message": "หมายเลขงาน",
-    "description": "考试快捷地址"
-  },
-  "college": {
-    "message": "วิทยาลัย",
     "description": "考试快捷地址"
   },
   "removeMember": {
@@ -3263,24 +3323,12 @@
     "message": "เวลาที่สร้าง",
     "description": "考试快捷地址"
   },
-  "paperNum": {
-    "message": "จํานวนกระดาษทดสอบ",
-    "description": "考试快捷地址"
-  },
-  "moveTo": {
-    "message": "ย้ายไปที่",
-    "description": "考试快捷地址"
-  },
   "moveTip": {
     "message": "วัตถุที่ถูกย้ายประกอบด้วยเอกสารทดสอบหรือโฟลเดอร์ที่สร้างโดยผู้อื่นสามารถย้ายได้ภายในโฟลเดอร์ที่ใช้ร่วมกันปัจจุบันเท่านั้น",
     "description": "考试快捷地址"
   },
   "questionMoveTip": {
     "message": "วัตถุที่ย้ายประกอบด้วยหัวข้อหรือโฟลเดอร์ที่สร้างโดยบุคคลอื่น และสามารถย้ายได้ภายในโฟลเดอร์ที่แชร์ปัจจุบันเท่านั้น",
-    "description": "考试快捷地址"
-  },
-  "deletePaperTip": {
-    "message": "กระดาษข้อสอบถูกใช้ในข้อสอบแล้วและไม่สามารถลบได้",
     "description": "考试快捷地址"
   },
   "deletePaperTip1": {
@@ -3293,14 +3341,6 @@
   },
   "deletePaperTip3": {
     "message": "{name} ไม่มีอยู่",
-    "description": "考试快捷地址"
-  },
-  "deletePaper": {
-    "message": "ลบข้อสอบ",
-    "description": "考试快捷地址"
-  },
-  "deleteFolder": {
-    "message": "ลบโฟลเดอร์",
     "description": "考试快捷地址"
   },
   "deleteFolderIntro1": {
@@ -3359,10 +3399,6 @@
     "message": "หากเครือข่ายผิดปกติ โปรดคลิก {reload}",
     "description": "考试快捷地址"
   },
-  "reload": {
-    "message": "โหลดใหม่",
-    "description": "考试快捷地址"
-  },
   "copySuccess2": {
     "message": "คัดลอกสำเร็จ",
     "description": "考试快捷地址"
@@ -3403,24 +3439,12 @@
     "message": "ลืมรหัสผ่าน",
     "description": "考试快捷地址"
   },
-  "authentication": {
-    "message": "ยืนยันตัวตน",
-    "description": "考试快捷地址"
-  },
   "authenticationMethods": {
     "message": "รูปแบบการยืนยัน",
     "description": "考试快捷地址"
   },
   "mobileSMS": {
     "message": "เอสเอ็มเอส",
-    "description": "考试快捷地址"
-  },
-  "email": {
-    "message": "ตู้จดหมาย",
-    "description": "考试快捷地址"
-  },
-  "captcha": {
-    "message": "captcha แบบกราฟิก",
     "description": "考试快捷地址"
   },
   "emailCaptcha": {
@@ -3461,10 +3485,6 @@
   },
   "deleteLockPw": {
     "message": "ลบรหัสผ่านที่ปิดผนึกไว้",
-    "description": "考试快捷地址"
-  },
-  "inputAgain": {
-    "message": "ป้อนอีกครั้ง",
     "description": "考试快捷地址"
   },
   "setLockPwTip": {
@@ -3519,10 +3539,6 @@
     "message": "กรุณาใส่รหัสผ่านอีกครั้ง",
     "description": "考试快捷地址"
   },
-  "paper": {
-    "message": "กระดาษทดสอบ",
-    "description": "考试快捷地址"
-  },
   "teamsMaxCount": {
     "message": "สามารถเพิ่มสมาชิกได้สูงสุด {n} คน",
     "description": "考试快捷地址"
@@ -3551,10 +3567,6 @@
     "message": "ข้อสอบทั้งหมด",
     "description": "考试快捷地址"
   },
-  "statistics": {
-    "message": "สถิติ",
-    "description": "考试快捷地址"
-  },
   "bankSortTypes[0]": {
     "message": "การจัดเรียงเริ่มต้น",
     "description": "考试快捷地址"
@@ -3573,10 +3585,6 @@
   },
   "searchBank": {
     "message": "ค้นหาคลังคําถาม",
-    "description": "考试快捷地址"
-  },
-  "from": {
-    "message": "แหล่งที่มา",
     "description": "考试快捷地址"
   },
   "questionNums": {
@@ -3633,10 +3641,6 @@
   },
   "paperUpdateDesc": {
     "message": "ฟังก์ชัน [Our School Test Papers] และ [Share Test Papers] ดั้งเดิมออฟไลน์อยู่ โปรดใช้ [Shared Folder] ใน [My Test Papers] เพื่อให้ทีมครูแชร์เอกสารทดสอบ",
-    "description": "考试快捷地址"
-  },
-  "link": {
-    "message": "ทางเข้ามรดก",
     "description": "考试快捷地址"
   },
   "questionUpdateDesc": {
@@ -3797,10 +3801,6 @@
   },
   "AIQuestionTip": {
     "message": "กําลังสร้างคําถาม โปรดรอสักครู่...",
-    "description": "考试快捷地址"
-  },
-  "beta": {
-    "message": "เบต้าแบบปิด",
     "description": "考试快捷地址"
   },
   "maxCountTip": {
