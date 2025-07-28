@@ -2715,12 +2715,32 @@
     "message": "توليد...",
     "description": "aiAssistantzh.json"
   },
+  "regenerate": {
+    "message": "إعادة الإنشاء\n\n",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "العودة إلى الصفحة السابقة",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "التالي",
+    "description": "aiAssistantzh.json"
+  },
   "generateKnowledgePoints": {
     "message": "إنشاء نقطة معرفة",
     "description": "aiAssistantzh.json"
   },
+  "generateQuestions": {
+    "message": "إنشاء الأسئلة",
+    "description": "aiAssistantzh.json"
+  },
   "saveGraph": {
     "message": "حفظ المخطط",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "إضافة مستوى فرعي",
     "description": "aiAssistantzh.json"
   },
   "enterKnowledgePointName": {
@@ -2743,6 +2763,10 @@
     "message": "إذا غادرت الآن، فلن يتم حفظ المحتوى المُنشأ. هل أنت متأكد أنك تريد المغادرة؟",
     "description": "aiAssistantzh.json"
   },
+  "totalKnowledgePoints": {
+    "message": "العدد الإجمالي لنقاط المعرفة",
+    "description": "aiAssistantzh.json"
+  },
   "startGeneratingQuestions": {
     "message": "بدء إنشاء الأسئلة",
     "description": "aiAssistantzh.json"
@@ -2753,6 +2777,18 @@
   },
   "difficultyLevel": {
     "message": "الصعوبة: {level}",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "سهل",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "متوسط",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "صعب",
     "description": "aiAssistantzh.json"
   },
   "knowledgePointCon": {
@@ -2787,12 +2823,28 @@
     "message": "اسم نقطة المعرفة ({n} نقطة)",
     "description": "aiAssistantzh.json"
   },
+  "nodeType": {
+    "message": "نوع العقدة",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "وحدات المعرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "عدد الأسئلة",
+    "description": "aiAssistantzh.json"
+  },
   "createAndSaveGraph": {
     "message": "إنشاء وحفظ المخطط المعرفي",
     "description": "aiAssistantzh.json"
   },
   "savingGraph": {
     "message": "يتم الآن حفظ المخطط، الرجاء عدم إغلاق الصفحة...",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "لم نتمكن من الحفظ",
     "description": "aiAssistantzh.json"
   },
   "graphSaveFailed": {
@@ -2835,12 +2887,36 @@
     "message": "إنشاء مخطط معرفي ذكي اعتمادًا على قاعدة المعارف",
     "description": "aiAssistantzh.json"
   },
+  "graphName": {
+    "message": "اسم الرسم البياني المعرفي",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "الرجاء إدخال اسم الرسم البياني",
+    "description": "aiAssistantzh.json"
+  },
   "graphLevel": {
     "message": "مستوى المخطط",
     "description": "aiAssistantzh.json"
   },
   "includeRootNode": {
     "message": "(يشمل العقدة الجذرية)",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints1": {
+    "message": "العدد الإجمالي لنقاط المعرفة",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "الرجاء الاختيار",
+    "description": "aiAssistantzh.json"
+  },
+  "startGenerate": {
+    "message": "إنشاء",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameRequired": {
+    "message": "لا يمكن أن يكون اسم الرسم البياني فارغا",
     "description": "aiAssistantzh.json"
   },
   "graphNameLength": {
@@ -2853,6 +2929,18 @@
   },
   "totalKnowledgePointsRequired": {
     "message": "لا يمكن أن يكون إجمالي عدد نقاط المعارف فارغًا",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "اختيار واحد",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "إجابات متعددة",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "صواب/خطأ",
     "description": "aiAssistantzh.json"
   },
   "deleteKnowledgePointsTip": {
