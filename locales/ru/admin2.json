@@ -4287,6 +4287,14 @@
     "message": "Количество одновременных транзакций",
     "description": "新版管理后台 zh.json"
   },
+  "organization.siteLanguage": {
+    "message": "Институциональные языки",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.defaultLanguage": {
+    "message": "язык по умолчанию",
+    "description": "新版管理后台 zh.json"
+  },
   "dataCenter.college": {
     "message": "Колледж",
     "description": "新版管理后台 zh.json"
@@ -5223,6 +5231,10 @@
     "message": "Если квота установлена, то ресурсы, используемые текущей организацией, не могут превышать максимальную квоту\nЕсли квота не установлена, текущая организация предоставляет общий доступ к квоте ресурсов, доступных для верхнего уровня",
     "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
   },
+  "common.nextStepBtn": {
+    "message": "следующий",
+    "description": "新版管理后台 zh.json"
+  },
   "notice.step1": {
     "message": "Шаг 1",
     "description": "新版管理后台 zh.json"
@@ -5531,8 +5543,112 @@
     "message": "Недостаточно ресурсов, создание не удалось",
     "description": "新版管理后台 zh.json"
   },
+  "routers.serviceSystem": {
+    "message": "Система обслуживания клиентов",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.courseArea": {
+    "message": "Управление учебными областями",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.moreBtn": {
+    "message": "Больше",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveSuccess": {
+    "message": "Сохранение завершено успешно",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveFail": {
+    "message": "Не удалось сохранить",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteSuccess": {
+    "message": "Удаление прошло успешно",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteFail": {
+    "message": "Не удалось удалить",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.noData": {
+    "message": "пока нет данных",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.tipTitle": {
+    "message": "подсказка",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.download": {
+    "message": "Скачать",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadFile": {
+    "message": "Загрузить файл",
+    "description": "新版管理后台 zh.json"
+  },
   "saas.rule8": {
     "message": "{type} не может превышать {number}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule9": {
+    "message": "Пожалуйста, введите цифру",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.title": {
+    "message": "Информация о заявке участника",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.back": {
+    "message": "вернуться",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionLogo": {
+    "message": "Логотип учреждения",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionName": {
+    "message": "Название организации",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.englishInstitutionName": {
+    "message": "Название учебного заведения на английском",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.countryRegion": {
+    "message": "Страна/Регион",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.foundingYear": {
+    "message": "Год основания",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityAddress": {
+    "message": "Адрес университета",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.legalPerson": {
+    "message": "Ответственное лицо",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityWebsite": {
+    "message": "Веб-сайт университета",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.contactPerson": {
+    "message": "Контактное лицо",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.phoneNumber": {
+    "message": "Номер телефона",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.email": {
+    "message": "Электронная почта",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.introduction": {
+    "message": "Краткое описание университета/колледжа",
     "description": "新版管理后台 zh.json"
   },
   "courseArea.listSerachPlaceholder": {
@@ -5545,6 +5661,10 @@
   },
   "courseArea.areaList": {
     "message": "Область курса",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaOrg": {
+    "message": "Организация",
     "description": "新版管理后台 zh.json"
   },
   "courseArea.deleteBtn": {
@@ -5567,6 +5687,18 @@
     "message": "Пожалуйста, введите название области курса",
     "description": "新版管理后台 zh.json"
   },
+  "courseArea.allCourses": {
+    "message": "Все курсы",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.selectedCourses": {
+    "message": "Выбранный Курс",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseListFilterPlaceholder": {
+    "message": "ввод названия курса поиск",
+    "description": "新版管理后台 zh.json"
+  },
   "courseArea.settingCourseArea": {
     "message": "Принадлежащая область курса",
     "description": "新版管理后台 zh.json"
@@ -5577,6 +5709,38 @@
   },
   "service.tab1": {
     "message": "Операции пользователя",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.tab2": {
+    "message": "приспособление",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userName": {
+    "message": "имя пользователя",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.realname": {
+    "message": "имя",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.studentId": {
+    "message": "Номер учащегося",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.phone": {
+    "message": "номер мобильного телефона",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.email": {
+    "message": "Адрес электронной почты",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.search": {
+    "message": "поиск",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.orgName": {
+    "message": "Название организации",
     "description": "新版管理后台 zh.json"
   },
   "service.usersActions": {
@@ -5603,8 +5767,16 @@
     "message": "Продлить период обучения студента",
     "description": "新版管理后台 zh.json"
   },
+  "service.openCourse": {
+    "message": "Курс назначен",
+    "description": "新版管理后台 zh.json"
+  },
   "service.toggleRole": {
     "message": "Изменить роль пользователя",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.restartCount": {
+    "message": "Разморозить учетную запись",
     "description": "新版管理后台 zh.json"
   },
   "service.learningRecord": {
@@ -5627,6 +5799,14 @@
     "message": "Вы уверены, что хотите сбросить пароль пользователя <strong>{username}</strong> на <strong>{password}</strong>?",
     "description": "新版管理后台 zh.json"
   },
+  "service.changePwdPlcaeholder": {
+    "message": "Введите новый пароль",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changeOrgPlcaeholder": {
+    "message": "Выберите организацию",
+    "description": "新版管理后台 zh.json"
+  },
   "service.withoutUserTip": {
     "message": "Пожалуйста, сначала выберите пользователя, для которого вы хотите выполнить операцию",
     "description": "新版管理后台 zh.json"
@@ -5643,6 +5823,30 @@
     "message": "Вы уверены, что хотите отвязать номер телефона пользователя <strong>{username}</strong>?",
     "description": "新版管理后台 zh.json"
   },
+  "service.userOrgs": {
+    "message": "Организация",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleTea": {
+    "message": "учитель",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleStu": {
+    "message": "Студент",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleAdmin": {
+    "message": "Администратор",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleEditor": {
+    "message": "Редактирование",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.role": {
+    "message": "Роль",
+    "description": "新版管理后台 zh.json"
+  },
   "service.courseDeadline": {
     "message": "Текущая дата окончания",
     "description": "新版管理后台 zh.json"
@@ -5653,6 +5857,14 @@
   },
   "service.userCourseListTitle": {
     "message": "Все курсы <strong>{userName}</strong>",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle1": {
+    "message": "учетная запись",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle2": {
+    "message": "Экзамен",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool1": {
@@ -5667,8 +5879,16 @@
     "message": "Массовое открытие курсов/продление периода обучения для студентов",
     "description": "新版管理后台 zh.json"
   },
+  "service.userTool4": {
+    "message": "Массовый сброс паролей",
+    "description": "新版管理后台 zh.json"
+  },
   "service.userTool5": {
     "message": "Мониторинг расписания экзаменов (просмотр всех экзаменов)",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool6": {
+    "message": "приспособление",
     "description": "新版管理后台 zh.json"
   },
   "service.userTool7": {
@@ -5703,6 +5923,10 @@
     "message": "ID пользователя:",
     "description": "新版管理后台 zh.json"
   },
+  "service.userCourseList": {
+    "message": "Курс:",
+    "description": "新版管理后台 zh.json"
+  },
   "service.userOrgLabel": {
     "message": "Организация:",
     "description": "新版管理后台 zh.json"
@@ -5721,6 +5945,10 @@
   },
   "service.remixStudentTips4": {
     "message": "Пожалуйста, выберите цель объединения",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdTitle": {
+    "message": "Массовый сброс паролей",
     "description": "新版管理后台 zh.json"
   },
   "service.multiChangePwdMethod": {
@@ -5763,6 +5991,14 @@
     "message": "Цель сброса пароля:",
     "description": "新版管理后台 zh.json"
   },
+  "service.resetPwdTarget1": {
+    "message": "учитель",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTarget2": {
+    "message": "Студент",
+    "description": "新版管理后台 zh.json"
+  },
   "service.resetPwdSetting": {
     "message": "Настройка нового пароля:",
     "description": "新版管理后台 zh.json"
@@ -5773,6 +6009,10 @@
   },
   "service.resetPwdSetting2": {
     "message": "Настроить новый пароль",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSettingPlaceholder": {
+    "message": "Введите новый пароль",
     "description": "新版管理后台 zh.json"
   },
   "service.multiJoinClass": {
@@ -5855,6 +6095,10 @@
     "message": "Продлить до определенной даты",
     "description": "新版管理后台 zh.json"
   },
+  "service.delayByDatePlaceholder": {
+    "message": "Выберите дату",
+    "description": "新版管理后台 zh.json"
+  },
   "service.days": {
     "message": "день",
     "description": "新版管理后台 zh.json"
@@ -5865,6 +6109,10 @@
   },
   "service.searchCourseByOrgPlaceholder": {
     "message": "Выберите организацию для фильтрации",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourseByKeywordPlaceholder": {
+    "message": "ввод названия курса поиск",
     "description": "新版管理后台 zh.json"
   },
   "service.openCourse1": {
