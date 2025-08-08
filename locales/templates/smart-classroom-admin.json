@@ -6696,7 +6696,7 @@
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.aiTip9": {
-    "message": "系统通过图像识别学生的行为，每秒种识别一次。<br/>抬头率=当前时间，（听课+举手+站立）学生数/总学生数<br/>读写率=当前时间，读写学生数/总学生数<br/>趴桌率=当前时间，趴桌学生数/总学生数<br/>注：学生的部分行为可能无法被系统识别或未被统计，抬头率+读写率+趴桌率并不完全等于100%",
+    "message": "系统通过图像识别学生的行为，每秒种识别一次。<br/>专注度=当前时间，（听课+举手+站立+读写）学生数/总学生数<br/>读写率=当前时间，读写学生数/总学生数<br/>趴桌率=当前时间，趴桌学生数/总学生数<br/>注：学生的部分行为可能无法被系统识别或未被统计，专注度+趴桌率并不完全等于100%",
     "description": "smart-classroom-admin 项目"
   },
   "intelligentAnalysis.aiTip10": {
@@ -8071,18 +8071,6 @@
     "message": "继续使用当前密码",
     "description": "smart-classroom-admin 项目"
   },
-  "common.openChangePassword": {
-    "message": "修改密码：打开修改密码页面",
-    "description": "smart-classroom-admin 项目"
-  },
-  "common.talkNextTip": {
-    "message": "下次再说：点击后按照没有修改密码处理，下次登录后再次弹出提示界面",
-    "description": "smart-classroom-admin 项目"
-  },
-  "common.continueUseTip": {
-    "message": "继续使用当前密码：点击后刷新时间，{time}天后再提示。",
-    "description": "smart-classroom-admin 项目"
-  },
   "common.loginExpirationPrompt": {
     "message": "登录已过期，请重新登录",
     "description": "smart-classroom-admin 项目"
@@ -9453,6 +9441,174 @@
   },
   "evaluationAnalysis.evaluatedTeacherCollege": {
     "message": "被评教师院系",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.viewStatistics": {
+    "message": "观看统计",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.identityException": {
+    "message": "身份信息异常",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.userInformationMismatch": {
+    "message": "您的工号/学号与当前系统的用户信息不匹配，如有疑问请联系学校管理人员",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.pullDown": {
+    "message": "下拉中",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.releaseRefreshImmediately": {
+    "message": "释放立即刷新",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.refreshSuccessfully": {
+    "message": "刷新成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.noPermission1": {
+    "message": "暂无权限",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.allBuildings": {
+    "message": "全部楼宇",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.allClassrooms": {
+    "message": "全部教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.screenSwitching": {
+    "message": "切换画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.selectScreen": {
+    "message": "选择画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "videoPlayer.viewScreen": {
+    "message": "最多同时查看{num}个画面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.lightColor": {
+    "message": "浅色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.darkColor": {
+    "message": "深色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.noAtlas": {
+    "message": "暂无图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.addAtlas": {
+    "message": "新建图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.relevancyAtlas": {
+    "message": "关联图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg1": {
+    "message": "知识图谱以知识点为单位，重构课程知识体系助力个性化学习",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg2": {
+    "message": "请输入图谱名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg3": {
+    "message": "请输入关键词搜索",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg4": {
+    "message": "图谱名称不能为空",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg5": {
+    "message": "关联成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg6": {
+    "message": "移除图谱后，可重新关联图谱，确定移除吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "atlas.msg7": {
+    "message": "请至少勾选一个图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "knowledgePoint.editAtlas": {
+    "message": "编辑图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "knowledgePoint.teaching": {
+    "message": "教学路径",
+    "description": "smart-classroom-admin 项目"
+  },
+  "knowledgePoint.knowledgePointSelect": {
+    "message": "选择知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "knowledgePoint.editKnowledgePoint": {
+    "message": "修改知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.views": {
+    "message": "观看人次",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.maximumNumberOnlineUsers": {
+    "message": "最大同时在线人数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.numberPeopleWatching": {
+    "message": "正在观看人数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.user": {
+    "message": "用户",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.watchTime": {
+    "message": "观看时间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.watchingTime": {
+    "message": "观看时长",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.lessThanMinutes": {
+    "message": "不足{num}分钟",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.terminal": {
+    "message": "终端",
+    "description": "smart-classroom-admin 项目"
+  },
+  "live.visitors": {
+    "message": "游客",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.teachingReviewRecord": {
+    "message": "评教记录",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.gocommentary": {
+    "message": "去评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.startEvaluatingTeaching": {
+    "message": "开始评教",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.evaluationProgress": {
+    "message": "评教进度",
+    "description": "smart-classroom-admin 项目"
+  },
+  "appraisalTask.taskStatus": {
+    "message": "任务状态",
     "description": "smart-classroom-admin 项目"
   }
 }
