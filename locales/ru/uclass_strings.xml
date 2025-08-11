@@ -20,7 +20,6 @@
     
     <!--    分组研讨-->
     <string name="nav_broad">Трансляция экрана</string>
-    <string name="broading">Трансляция</string>
     <string name="stop_broad">Остановить вещание</string>
     <string name="nav_compare">Сравнение групп</string>
     <string name="stop_compare">Сбросить сравнение</string>
@@ -37,18 +36,12 @@
     <string name="msg_no_compare">Нажмите ниже группы для просмотра изображения группового экрана</string>
 
     <string name="title_screen">Настроить группу</string>
-    <string name="msg_screen">После подключения мобильного телефона к одной сети спроецируйте изображение с мобильного телефона на экран</string>
-    <string name="msg_screen_network">Текущая сеть:</string>
     <string name="network_type">проводной</string>
     <string name="screen_apple">Яблоко</string>
     <string name="screen_android">Андроид</string>
-    <string name="msg_apple">Откройте Эйрплей, чтобы выбрать Трансляцию экрана</string>
-    <string name="msg_android">Используйте ULearning для трансляции экрана через сканирование QR-кода</string>
-    <string name="msg_pc_screen">Используйте компьютер для трансляции экрана через кабель Интерфейса мультимедиа высокой чёткости</string>
     <string name="title_screen_agent">зеркалирование экрана телефона</string>
     
     <string name="request_permission_fail">Неудача запроса на предоставление доступа</string>
-    <string name="request_screen_permission_fail">Заявка приложения на Разрешение на запись с экрана не удалась</string>
     <string name="request_float_permission_fail">Не удалось запросить для приложения разрешение на всплывающее окно</string>
     <string name="max_screen">Текущий Экран заполненный, не выбрать</string>
     <string name="click_too_fast">Не нажимайте часто</string>
@@ -82,7 +75,6 @@
     
     
     <!--    白板相关-->
-    <string name="wb_tool_name_pen">Кисть</string>
     <string name="wb_tool_name_eraser">Ластик</string>
     <string name="wb_tool_name_select">Выделить кружком</string>
     <string name="wb_tool_name_canvas_mode">Масштабирование</string>
@@ -93,42 +85,19 @@
     <string name="wb_tool_name_open">открыть</string>
     <string name="wb_tool_name_thumbnail">миниатюра</string>
 
-    <string name="wb_tool_name_page_manager">Управление страницами</string>
-
     <string name="wb_tool_name_pen_pencil">кара ндаш</string>
-    <string name="wb_tool_name_pen_finger">палец</string>
-    <string name="wb_tool_name_pen_brush">Кисть</string>
     <string name="wb_tool_name_pen_smart">Письмо с искусственным интеллектом</string>
-    <string name="wb_tool_name_pen_passive">Стирание концом ручки</string>
-    <string name="wb_tool_smart_pen_txt">буква</string>
-    <string name="wb_tool_smart_pen_graphic">Графика</string>
-    <string name="wb_tool_smart_pen_table">Таблица</string>
     <string name="wb_tool_name_exit">Закрыть интерактивную доску</string>
-    <string name="wb_tool_name_save_course">Сохранить в класс</string>
-    <string name="wb_tool_name_save_pic">Сохранение изображения</string>
-    <string name="wb_tool_name_cancel">Отменить</string>
-    <string name="wb_tool_name_done">Завершить</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">стереть</string>
     <string name="wb_name_clear_screen">Очистить экран</string>
-    <string name="wb_message_canvas_lock">Масштабирование страницы заблокировано, доступно совместное редактирование</string>
-    <string name="wb_message_canvas_unlock">Функция масштабирования страницы доступна, и вы можете выполнять масштабирование</string>
     <string name="double_writing">совместное редактирование</string>
     <string name="wb_tool_name_background">Фон белой доски</string>
-    <string name="wb_message_canvas_unlock_at_smart_pen_type">Режим Умной ручки не поддерживает совместное редактирование, страница разблокирована</string>
-    <string name="common_task_finish_content">У вас есть несохранённый контент</string>
-    <string name="common_task_finish_delete_all">Не сохранять</string>
-    <string name="common_task_finish_cancel">Отменить</string>
-    <string name="common_task_finish_save">сохранить</string>
-    <string name="common_delect_page_content">Страница будет удалена безвозвратно</string>
     <string name="common_sure">Подтвердите</string>
-    <string name="common_delect_page_title">удалить</string>
     <string name="common_save_failed">Не удалось сохранить</string>
     <string name="common_save_success">Сохраненный</string>
     <string name="common_load_board_fail_title">Не удалось загрузить интерактивную доску.</string>
     <string name="common_load_board_success">Загрузка прошла успешно</string>
-    <string name="common_new_board_failed">создание новой Интерактивной доски не удалось</string>
-    <string name="common_new_page_failed">не удалось создать новую страницу</string>
     <string name="wb_page_max_error">Достигнут предел количества страниц. Невозможно создать</string>
 
     <string name="exit_wb_msg">Текущие редактируемые материалы не сохранены. Подтвердите, нужно ли закрыть интерактивную доску после очистки отредактированных материалов.</string>
@@ -151,9 +120,6 @@
     <string name="duplicate_file_name">Повтор имени файла</string>
     <string name="wb_save_failed">Не удалось сохранить, попробуйте Изменять Имя файла</string>
     <string name="del_wb_msg">Подтвердите удаление текущей страницы?</string>
-    <string name="wb_page_scale_min">Страница масштабирована до минимума</string>
-    <string name="wb_page_scale_max">Страница масштабирована до максимального размера</string>
-    <string name="wb_page_scale">Масштаб холста</string>
 
     <string name="select_language">Выберите язык</string>
     <string name="language_cn">Упрощенный китайский</string>
@@ -182,20 +148,6 @@
     <string name="app_name_3">Многоэкранная интерактивность UClass</string>
     <string name="watch_stu_screen">Смотреть группу</string>
     <string name="license_0">Активирован</string>
-    <string name="license_10001">Занятость порта Медиапротокола</string>
-    <string name="license_10002">Занятость порта протокола управления</string>
-    <string name="license_101">Невозможно получить MAC-адрес</string>
-    <string name="license_102">Невозможно получить сведения об аппаратном обеспечении</string>
-    <string name="license_103">Не удалось проверить MAC-адрес</string>
-    <string name="license_104">Проверка правильности сведений об аппаратном обеспечении завершилась неудачей.</string>
-    <string name="license_105">Несоответствие типов Комплекта разработчика программного обеспечения</string>
-    <string name="license_106">Уполномочивание истекло</string>
-    <string name="license_107">Невозможно парсинг licence</string>
-    <string name="license_108">другие неправильные проверки</string>
-    <string name="license_109">Информация о лицензии Пустой</string>
-    <string name="license_110">Несоответствие типа платформы</string>
-    <string name="license_111">Идентификаторы продукта не совпадают</string>
-    <string name="license_112">ввод параметра sdkType некорректен</string>
     <string name="license_other">Неизвестная ошибка</string>
     <string name="modify">Изменить</string>
     <string name="save">сохранить</string>
@@ -234,27 +186,10 @@
 
     
     <!--    投屏界面优化需求 -->
-    <string name="classroom_lan">Локальная сеть в классе</string>
-    <string name="yxy_app_name">ULearning</string>
-    <string name="idea_share">Трансляция экрана</string>
-    <string name="msg_android2">Только для android</string>
-    <string name="step1">Шаг 1.</string>
-    <string name="step2">Шаг 2.</string>
-    <string name="step3">Шаг 3.</string>
     <string name="welink_str">WeLink</string>
     <string name="idea_share_str">ИдеаШеар</string>
-    <string name="share_type">ИдеаШеар</string>
-    <string name="ideashare_remind1">Скачать ИдеаШеар на ваш мобильный телефон или компьютер</string>
-    <string name="ideashare_remind2">Подключить мобильный телефон или компьютер к локальной сети в классе</string>
-    <string name="ideashare_remind3">Откройте IdeaShare, введите код трансляции экрана, который находится в правом верхнем углу конечного устройства</string>
-    <string name="ideashare_remind4">Подключите свой мобильный телефон к локальной сети класса для трансляции экрана</string>
-    <string name="ideashare_remind5">Откройте WeLink, нажмите + в правом верхнем углу, выберите «Проецирование», введите код зеркалирования экрана в правом верхнем углу конечного устройства для трансляции экрана</string>
     <string name="wifi">Wi-Fi:</string>
     <string name="wifi_password">Пароль:</string>
-    <string name="wifi_save">сохранить</string>
-    <string name="wifi_cancel">Отменить</string>
-    <string name="wifi_edit">Изменять вручную</string>
-    <string name="wifi_remind">Невозможно получить информацию о классе Wi-Fi, пожалуйста, введите вручную</string>
     <string name="storage_permission_reminder">Предоставьте право на хранилище</string>
     <string name="wifi_unknown">Неизвестно</string>
 
@@ -285,4 +220,4 @@
     <string name="record_occupation_hint">Другие приложения используют функцию записи экрана, поэтому
 текущее приложение останавливает запись экрана.</string>
 
-</resources>
+    </resources>

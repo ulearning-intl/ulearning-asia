@@ -99,10 +99,6 @@
     "message": "Período de validade da avaliação",
     "description": "考试快捷地址"
   },
-  "openApp": {
-    "message": "Acesse a ULearning 2.0 APP para participar da avaliação",
-    "description": "考试快捷地址"
-  },
   "downloadApp": {
     "message": "Faça o download do APP do ULearning 2.0",
     "description": "考试快捷地址"
@@ -147,10 +143,6 @@
     "message": "{n} minuto(s)",
     "description": "考试快捷地址"
   },
-  "allowedTimes": {
-    "message": "Permitir número de tentativas",
-    "description": "考试快捷地址"
-  },
   "notLimit": {
     "message": "ilimitado",
     "description": "考试快捷地址"
@@ -161,10 +153,6 @@
   },
   "score": {
     "message": "{n} Nota",
-    "description": "考试快捷地址"
-  },
-  "usedTimes": {
-    "message": "Número de tentativas utilizadas",
     "description": "考试快捷地址"
   },
   "examTime": {
@@ -379,10 +367,6 @@
     "message": "Concluído",
     "description": "考试快捷地址"
   },
-  "joinTypes": {
-    "message": "Site da web / Aplicativo para celular / Cliente de tela de bloqueio do computador",
-    "description": "考试快捷地址"
-  },
   "resultsNotAnnounce": {
     "message": "As notas desta Avaliação não serão divulgadas",
     "description": "考试快捷地址"
@@ -437,10 +421,6 @@
   },
   "ltiTip1": {
     "message": "Se precisar participar da Avaliação pelo Aplicativo para celular ou pelo Cliente de bloqueio de tela, use a Conta do U-Test para entrar. Seu Nome de usuário é: {loginName} e a Senha inicial é a mesma do Nome de usuário.",
-    "description": "考试快捷地址"
-  },
-  "ltiTip2": {
-    "message": "Para participar de uma Avaliação através do Aplicativo para celular/Cliente de tela de bloqueio, inicie sessão usando a Conta do U-Test. Seu Nome de usuário é: {loginName}, e a Senha inicial é igual ao Nome de usuário. Após iniciar a sessão, você poderá editar sua Senha ou aprimorar suas Informações pessoais nas configurações da Conta.",
     "description": "考试快捷地址"
   },
   "toUpdatePsd": {
@@ -769,10 +749,6 @@
   },
   "referenceAnswer": {
     "message": "Gabarito",
-    "description": "考试快捷地址"
-  },
-  "examUploadTip": {
-    "message": "Quando for selecionar ficheiros, o Sistema sairá temporariamente do estado de Tela cheia. Conclua a operação de seleção de anexos em até 60 Segundos e volte para a interface da Avaliação. Em seguida, clique em qualquer espaço em branco da Página para retornar ao estado de Tela cheia. Do contrário, o Sistema registrará essa operação como Sair da Avaliação.",
     "description": "考试快捷地址"
   },
   "uploadFailTip": {
@@ -1275,10 +1251,6 @@
     "message": "Exceção de rede, Falha ao enviar Prova!",
     "description": "考试快捷地址"
   },
-  "networkErrorTip1": {
-    "message": "O sistema salvou as respostas localmente. Não saia ou feche a página, tente enviar novamente depois.",
-    "description": "考试快捷地址"
-  },
   "leftTimeTip": {
     "message": "duração insuficiente a 1 minuto",
     "description": "考试快捷地址"
@@ -1613,10 +1585,6 @@
   },
   "importBank": {
     "message": "Exportar Banco de questões",
-    "description": "考试快捷地址"
-  },
-  "importBankOverNum": {
-    "message": "O número de questãoes exportadas excedeu o limite máximo.",
     "description": "考试快捷地址"
   },
   "importLoadMsg": {
@@ -2235,10 +2203,6 @@
     "message": "Próxima Questão",
     "description": "考试快捷地址"
   },
-  "finallyQue": {
-    "message": "Você chego ao fim",
-    "description": "考试快捷地址"
-  },
   "quitExam": {
     "message": "Sair da avaliação",
     "description": "考试快捷地址"
@@ -2307,10 +2271,6 @@
     "message": "Link Expirado",
     "description": "考试快捷地址"
   },
-  "selectImg": {
-    "message": "Selecionar do álbum de fotos",
-    "description": "考试快捷地址"
-  },
   "selectFile": {
     "message": "Selecionar ficheiro",
     "description": "考试快捷地址"
@@ -2341,10 +2301,6 @@
   },
   "codeUploadTip2": {
     "message": "Carregar um máximo de {num} ficheiros por vez",
-    "description": "考试快捷地址"
-  },
-  "codeUploadTip3": {
-    "message": "O tamanho do arquivo carregado pelo Client móvel não pode exceder {size}.",
     "description": "考试快捷地址"
   },
   "codeUploadTip4": {
@@ -2399,10 +2355,6 @@
     "message": "Console móvel de monitoramento de Avaliação",
     "description": "考试快捷地址"
   },
-  "codeInvalid": {
-    "message": "O Código de Verificação caducou",
-    "description": "考试快捷地址"
-  },
   "answerTimeLimit": {
     "message": "Tempo limite para responder às perguntas",
     "description": "考试快捷地址"
@@ -2437,10 +2389,6 @@
   },
   "notSubmitted": {
     "message": "Não enviado",
-    "description": "考试快捷地址"
-  },
-  "examViewTip": {
-    "message": "Por favor, visualize e corrija a prova usando o computador pessoal",
     "description": "考试快捷地址"
   },
   "selectBatch": {
@@ -2569,10 +2517,6 @@
   },
   "commitExamTip3": {
     "message": "Sistema Automático de Submissão Complementar",
-    "description": "考试快捷地址"
-  },
-  "commitExamTip4": {
-    "message": "Duração da resposta esgotada, o sistema coleta automaticamente o papel.",
     "description": "考试快捷地址"
   },
   "signinCode": {
@@ -2759,10 +2703,6 @@
     "message": "Número de pessoas que concluíram",
     "description": "考试快捷地址"
   },
-  "averageAnsweredNum": {
-    "message": "Número médio de tentativas",
-    "description": "考试快捷地址"
-  },
   "firstAccuracy": {
     "message": "Primeira vez correta",
     "description": "考试快捷地址"
@@ -2865,10 +2805,6 @@
   },
   "questionDeleteFail": {
     "message": "Falha ao remover questão",
-    "description": "考试快捷地址"
-  },
-  "noQuestionTip": {
-    "message": "ainda não há questão",
     "description": "考试快捷地址"
   },
   "trainPageTip": {
@@ -2983,10 +2919,6 @@
     "message": "Digite conteúdo",
     "description": "考试快捷地址"
   },
-  "roate": {
-    "message": "Girar",
-    "description": "考试快捷地址"
-  },
   "showDetail": {
     "message": "Ver Mais",
     "description": "考试快捷地址"
@@ -3067,16 +2999,84 @@
     "message": "Número médio de envios",
     "description": "考试快捷地址"
   },
-  "selectFileByCamera": {
-    "message": "tirar uma foto",
-    "description": "考试快捷地址"
-  },
   "ps": {
     "message": "{n} itens por página",
     "description": "考试快捷地址"
   },
   "openLockScreenError": {
     "message": "Não foi detectado nenhum cliente de bloqueio de tela, por favor confirme se foi instalado corretamente. Se já foi instalado mas ainda não consegue iniciar, você pode tentar desinstalá-lo e instalar novamente a versão mais recente.",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "Acesse a ULearning 2.0 APP para participar da avaliação",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "Permitir número de tentativas",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "Número de tentativas utilizadas",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "Site da web / Aplicativo para celular / Cliente de tela de bloqueio do computador",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "Para participar de uma Avaliação através do Aplicativo para celular/Cliente de tela de bloqueio, inicie sessão usando a Conta do U-Test. Seu Nome de usuário é: {loginName}, e a Senha inicial é igual ao Nome de usuário. Após iniciar a sessão, você poderá editar sua Senha ou aprimorar suas Informações pessoais nas configurações da Conta.",
+    "description": "考试快捷地址"
+  },
+  "examUploadTip": {
+    "message": "Quando for selecionar ficheiros, o Sistema sairá temporariamente do estado de Tela cheia. Conclua a operação de seleção de anexos em até 60 Segundos e volte para a interface da Avaliação. Em seguida, clique em qualquer espaço em branco da Página para retornar ao estado de Tela cheia. Do contrário, o Sistema registrará essa operação como Sair da Avaliação.",
+    "description": "考试快捷地址"
+  },
+  "networkErrorTip1": {
+    "message": "O sistema salvou as respostas localmente. Não saia ou feche a página, tente enviar novamente depois.",
+    "description": "考试快捷地址"
+  },
+  "importBankOverNum": {
+    "message": "O número de questãoes exportadas excedeu o limite máximo.",
+    "description": "考试快捷地址"
+  },
+  "finallyQue": {
+    "message": "Você chego ao fim",
+    "description": "考试快捷地址"
+  },
+  "selectImg": {
+    "message": "Selecionar do álbum de fotos",
+    "description": "考试快捷地址"
+  },
+  "codeUploadTip3": {
+    "message": "O tamanho do arquivo carregado pelo Client móvel não pode exceder {size}.",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid": {
+    "message": "O Código de Verificação caducou",
+    "description": "考试快捷地址"
+  },
+  "examViewTip": {
+    "message": "Por favor, visualize e corrija a prova usando o computador pessoal",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip4": {
+    "message": "Duração da resposta esgotada, o sistema coleta automaticamente o papel.",
+    "description": "考试快捷地址"
+  },
+  "averageAnsweredNum": {
+    "message": "Número médio de tentativas",
+    "description": "考试快捷地址"
+  },
+  "noQuestionTip": {
+    "message": "ainda não há questão",
+    "description": "考试快捷地址"
+  },
+  "roate": {
+    "message": "Girar",
+    "description": "考试快捷地址"
+  },
+  "selectFileByCamera": {
+    "message": "tirar uma foto",
     "description": "考试快捷地址"
   }
 }

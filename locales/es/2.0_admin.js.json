@@ -3963,6 +3963,10 @@
     "message": "Cancelar",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "Permisos",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "Por favor ingrese la contraseña de confirmación",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "La hora de inicio de la actividad no puede ser mayor que la hora de finalización del evento",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Configuración multilingüe",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Configuración multilingüe del nombre del sitio web",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Por favor ingrese {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "El valor del idioma predeterminado no puede estar vacío",
+  "defaultLangError": {
+    "message": "¡¡ el título de idioma predeterminado de la institución no puede estar vacío!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4179,6 +4171,22 @@
     "message": "Introducción a la universidad/facultad",
     "description": "2.0 admin.js"
   },
+  "website.title": {
+    "message": "Configuración multilingüe",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Configuración multilingüe del nombre del sitio web",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Por favor ingrese {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "El valor del idioma predeterminado no puede estar vacío",
+    "description": "2.0 admin.js"
+  },
   "resourceLibraryCtrl.resourceLibraryName": {
     "message": "Nombre del recurso",
     "description": "2.0 admin.js"
@@ -4253,6 +4261,154 @@
   },
   "resourceLibraryCtrl.resourseLib": {
     "message": "Biblioteca de recursos",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "Compartir",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "Subir",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "Todos los tipos",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "Todos los estados de carga",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "Registros de copia y compartir",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "Registros de publicación de recursos",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "Otros ajustes",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "Por correo electrónico",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "Por cuenta",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "Ingrese los correos electrónicos de los usuarios, separe múltiples usuarios con comas",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "Seleccione los usuarios que necesitan cambiar la contraseña de las cuentas existentes",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "Ingrese la contraseña predeterminada después del restablecimiento",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "Ingrese el nombre de usuario o correo electrónico",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "Seleccionar de cuentas existentes",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "Contraseña predeterminada después del restablecimiento",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "Restablecer contraseña por lotes",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "Seleccionar usuario",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "Seleccionado: {num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "Seleccione al menos un método para establecer los usuarios que necesitan cambiar la contraseña",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "Modificado con éxito {successCount}, fallido {failCount}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "Seleccionar todo en esta página",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "Borrar todo en esta página",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "Solo eliminar recurso",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Eliminar recursos publicados en cursos",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Eliminar recursos copiados a la biblioteca de recursos",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Eliminar tanto publicados como copiados",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "Seleccionar curso",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "Seleccione a qué cursos publicar los recursos:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "Seleccionar todo",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Publicado con éxito",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "Error al publicar",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "Aún no hay cursos, cree un curso primero",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "Seleccione un curso primero",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "Error al eliminar",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "Habilitar",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "Deshabilitar",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "Después de deshabilitar, el usuario no podrá iniciar sesión. ¿Está seguro de que desea deshabilitarlo?",
     "description": "2.0 admin.js"
   }
 }
