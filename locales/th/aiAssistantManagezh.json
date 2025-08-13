@@ -2802,5 +2802,429 @@
   "cropIcon": {
     "message": "ตัดภาพไอคอน",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "การจัดการเทมเพลตคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "การจัดการ AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "นำเข้าเทมเพลตคำสั่งแบบกลุ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "นำเข้าเทมเพลตคำถาม-คำตอบแบบกลุ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "เวลาที่สร้าง:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "บันทึกเป็นแบบร่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "บันทึกและเผยแพร่",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "การกำหนดค่าโมเดล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "โมเดลขนาดใหญ่แบบหลายโหมดสามารถเข้าใจเนื้อหาของภาพ รวมถึงภาพที่ไม่มีข้อความเช่นการออกแบบ และรองรับการถาม-ตอบตามเนื้อหาของภาพ<br/>เมื่อเลือกโมเดลขนาดใหญ่แบบหลายโหมด จะเปิดใช้งานฟังก์ชันอัปโหลดภาพพร้อมกัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "หลายโหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "โมเดลขนาดใหญ่ที่ต้องการ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "ตั้งเป็นค่าที่ต้องการ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "ดีบักและแสดงตัวอย่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "บันทึกและแสดงตัวอย่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "การตั้งค่าบทบาท",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "ข้อความต้อนรับและคำเปิดต้องไม่ว่างเปล่า กรุณากรอกให้เสร็จก่อนแสดงตัวอย่าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "คำถามที่เป็นไปได้ต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "อัปเดต",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "คำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "ความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "ทักษะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "กรุณาเลือกสถานะ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "สถิติ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "รายการ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "สถานะทั้งหมด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "คำเปิดต้องไม่เกิน 1000 ตัวอักษร",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "ข้อความต้อนรับและคำเปิด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "กรุณาป้อนข้อความต้อนรับและคำเปิด เพื่อช่วยแนะนำให้เข้าใจผู้ช่วย AI อย่างรวดเร็ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "ป้อนคำถามที่ผู้ใช้อาจถาม เพื่อแนะนำให้ผู้ใช้เริ่มการสนทนา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "เพิ่มคำถาม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "รูปลักษณ์มนุษย์ดิจิทัล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "กรุณาเลือกรูปลักษณ์มนุษย์ดิจิทัล",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "กรุณากรอกคำแนะนำระบบ เพื่อกำหนดข้อจำกัดเกี่ยวกับบทบาทและตรรกะการตอบกลับ\nตัวอย่าง:\n# บทบาท\nคุณเป็นอาจารย์มหาวิทยาลัยที่สอนประวัติศาสตร์จีนสมัยใหม่และร่วมสมัย\n# ภารกิจ\nสนับสนุนการเตรียมการสอนวิชาประวัติศาสตร์จีนสมัยใหม่และร่วมสมัย\n# ข้อกำหนด\nสำหรับเนื้อหาที่ไม่เกี่ยวข้องกับวิชาประวัติศาสตร์จีนสมัยใหม่และร่วมสมัย ให้ตอบกลับโดยตรงว่า: ฉันไม่สนับสนุนการตอบคำถามที่ไม่เกี่ยวข้องกับวิชาประวัติศาสตร์จีนสมัยใหม่และร่วมสมัย",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "การดำเนินการลบถูกยกเลิก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "สามารถเพิ่มได้สูงสุด 5 คำถาม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "ลบเป็นกลุ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "เพิ่มฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "รวม {count} ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "แสดงแหล่งที่มาของความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "เปิดการแสดงแหล่งที่มาของความรู้: ในการถาม-ตอบ จะแสดงชื่อทรัพยากรจากฐานความรู้ในแหล่งที่มาของความรู้<br/>ไม่เปิดการแสดงแหล่งที่มาของความรู้: ในการถาม-ตอบ จะแสดงเฉพาะชื่อฐานความรู้โดยตรง ไม่แสดงชื่อทรัพยากรจากฐานความรู้ในแหล่งที่มาของความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "เพิ่มฐานความรู้ทันที",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "คุณได้เลือก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "คุณแน่ใจหรือไม่ที่จะลบฐานความรู้ {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "การตั้งค่าการแสดงคำสั่งด่วน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "แสดงตามคำสั่งยาว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "แสดงตามคำสั่งสั้น",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "เพิ่มคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "เลือกคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "ทั้งหมด ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "รายละเอียดคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "คำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "คำสั่งที่ฉันสร้าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "เทมเพลตที่แชร์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "กรุณาป้อนชื่อคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "กรุณาป้อนคำอธิบายคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "คุณแน่ใจหรือไม่ที่จะลบคำสั่ง {title}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "คุณแน่ใจหรือไม่ที่จะลบกลุ่ม {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "ชื่อกลุ่มต้องไม่ว่างเปล่า",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "กรุณาเลือกอย่างน้อยหนึ่งคำสั่ง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "เพิ่มคำสั่งสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "เพิ่มคำสั่งไม่สำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "สามารถเพิ่มได้สูงสุด 50 กลุ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "สามารถตั้งค่าทักษะตามลักษณะของผู้ช่วย AI เพื่อสร้างผู้ช่วย AI ที่มีเอกลักษณ์",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "วิธีการสนทนา",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "ตั้งค่าฐานความรู้ โมเดลขนาดใหญ่สามารถตอบคำถามของผู้ใช้ตามฐานความรู้ เพิ่มความแม่นยำในการถาม-ตอบ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "ตั้งค่าคำสั่งด่วน สามารถตั้งค่าคำสั่งพิเศษตามลักษณะของผู้ช่วย AI เพื่อสร้างเอกลักษณ์ของผู้ช่วย AI นอกจากนี้ยังสามารถตั้งค่าคำสั่งที่ใช้บ่อยไว้ในผู้ช่วย AI เพื่อให้ผู้ใช้เรียกใช้ได้อย่างรวดเร็ว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "การตรวจสอบแบบฟอร์มล้มเหลว",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "เปิดใช้งานฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "การตั้งค่าบทบาทและตรรกะการตอบกลับ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "การจัดการฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "ดูฐานความรู้ที่สร้างขึ้นทั้งหมดในแพลตฟอร์ม และเปิดสิทธิ์การใช้งานให้กับสถาบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "ชื่อ/ID ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "การดำเนินการเป็นกลุ่ม:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "เปิดใช้งานเป็นกลุ่ม",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "เปิดใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "ฐานความรู้:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "เปิดใช้งานสถาบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "เปิดใช้งานฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "ดูฐานความรู้ที่สถาบันปัจจุบันอ้างอิง หมายเหตุ: รายการไม่รวมฐานความรู้ที่สถาบันสร้างเอง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "ฐานความรู้ที่เลือก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "ยกเลิกการเปิดใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "คุณแน่ใจหรือไม่ที่จะยกเลิกการเปิดใช้งาน?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "คุณได้เลือก {num} สถาบัน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "รวม {n} ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "ยังไม่มีสถาบันที่เลือก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "ยังไม่มีฐานความรู้ที่เลือก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "ฐานความรู้ที่ฉันสร้าง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "นำเข้าจากภายนอก",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "เวลาเปิดใช้งาน",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "คุณได้เลือก {num} ฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "เปิดใช้งานสถาบัน:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "เปิดใช้งานสำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "เปิดใช้งานไม่สำเร็จ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "ข้อมูลโดยละเอียด",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "สถาบัน:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "เวลาที่สร้าง:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "ฐานความรู้ที่อ้างอิง",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "ป้อนชื่อฐานความรู้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "การจัดการคำสั่งทั่วไป",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "จัดการคำสั่งทั่วไป ที่อาจารย์และผู้ดูแลระบบของทุกสถาบันสามารถเลือกใช้คำสั่งทั่วไปได้",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "สร้างแผนภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "กรุณาป้อนจำนวนครั้งรวมในการสร้างแผนภาพ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "จำนวนครั้งรวมในการสร้างแผนภาพต้องเป็นตัวเลข",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "กรุณาป้อนจำนวนครั้งที่สามารถสร้างแผนภาพได้ต่อวัน",
+    "description": "aiAssistantManagezh.json"
   }
 }

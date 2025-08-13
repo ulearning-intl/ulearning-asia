@@ -19,7 +19,6 @@
 
     <!--    分组研讨-->
     <string name="nav_broad">การออกอากาศหน้าจอ</string>
-    <string name="broading">ออกอากาศ</string>
     <string name="stop_broad">ยกเลิกการออกอากาศ</string>
     <string name="nav_compare">การเปรียบเทียบกลุ่ม</string>
     <string name="stop_compare">ยกเลิกการเปรียบเทียบ</string>
@@ -35,18 +34,12 @@
     <string name="msg_no_compare">คลิกกลุ่มด้านล่างเพื่อดูหน้าจอกลุ่ม</string>
 
     <string name="title_screen">ตั้งค่ากลุ่ม</string>
-    <string name="msg_screen">หลังจากโทรศัพท์เชื่อมต่อกับเครือข่ายเดียวกันแล้วหน้าจอโทรศัพท์จะฉายลงบนหน้าจอนั้น</string>
-    <string name="msg_screen_network">เครือข่ายปัจจุบัน:</string>
     <string name="network_type">ลวด</string>
     <string name="screen_apple">iOS</string>
     <string name="screen_android">Android</string>
-    <string name="msg_apple">โปรดเปิด AirPlay และเลือกแคสต์หน้าจอ</string>
-    <string name="msg_android">โปรดใช้รหัสสแกน ULearning เพื่อแคสต์หน้าจอ</string>
-    <string name="msg_pc_screen">สําหรับคอมพิวเตอร์โปรดใช้สาย HDMI เพื่อส่งหน้าจอ</string>
     <string name="title_screen_agent">การฉายภาพหน้าจอโทรศัพท์</string>
     
     <string name="request_permission_fail">ไม่สามารถขออนุญาตได้</string>
-    <string name="request_screen_permission_fail">แอปไม่สามารถสมัครขอสิทธิ์การบันทึกหน้าจอได้</string>
     <string name="request_float_permission_fail">แอปไม่สามารถสมัครขอสิทธิ์หน้าต่างลอยได้</string>
     <string name="max_screen">หน้าจอปัจจุบันเต็มและไม่สามารถเลือกได้</string>
     <string name="click_too_fast">อย่าคลิกบ่อย</string>
@@ -77,7 +70,6 @@
 
 
     <!--    白板相关-->
-    <string name="wb_tool_name_pen">แปรง</string>
     <string name="wb_tool_name_eraser">ยางลบ</string>
     <string name="wb_tool_name_select">การเลือกวงกลม</string>
     <string name="wb_tool_name_canvas_mode">ซูม</string>
@@ -88,42 +80,19 @@
     <string name="wb_tool_name_open">เปิด</string>
     <string name="wb_tool_name_thumbnail">รูปขนาดย่อ</string>
 
-    <string name="wb_tool_name_page_manager">การจัดการเพจ</string>
-
     <string name="wb_tool_name_pen_pencil">ดินสอ</string>
-    <string name="wb_tool_name_pen_finger">นิ้ว</string>
-    <string name="wb_tool_name_pen_brush">ปากกาขนนก</string>
     <string name="wb_tool_name_pen_smart">การเขียนที่ชาญฉลาด</string>
-    <string name="wb_tool_name_pen_passive">ลบปลายปากกาแล้ว</string>
-    <string name="wb_tool_smart_pen_txt">การเขียน</string>
-    <string name="wb_tool_smart_pen_graphic">ภาพกราฟฟิก</string>
-    <string name="wb_tool_smart_pen_table">แบบฟอร์ม</string>
     <string name="wb_tool_name_exit">ปิดไวท์บอร์ด</string>
-    <string name="wb_tool_name_save_course">บันทึกลงในคลาส</string>
-    <string name="wb_tool_name_save_pic">ส่งออกรูปภาพ</string>
-    <string name="wb_tool_name_cancel">ยกเลิก</string>
-    <string name="wb_tool_name_done">เสร็จสิ้นเรียบร้อย</string>
     <string name="wb_tool_num">%1$02d / %2$02d</string>
     <string name="wb_name_eraser">ลบ</string>
     <string name="wb_name_clear_screen">ล้างหน้าจอ</string>
-    <string name="wb_message_canvas_lock">การซูมหน้าถูกล็อคและสามารถเขียนเป็นสองคนได้</string>
-    <string name="wb_message_canvas_unlock">การซูมหน้าถูกปลดล็อคและสามารถปรับขนาดได้</string>
     <string name="double_writing">การเขียนสองครั้ง</string>
     <string name="wb_tool_name_background">พื้นหลังไวท์บอร์ด</string>
-    <string name="wb_message_canvas_unlock_at_smart_pen_type">การเขียนแบบสองคนไม่ได้รับการสนับสนุนในโหมดปากกาอัจฉริยะ และหน้านั้นถูกปลดล็อก</string>
-    <string name="common_task_finish_content">คุณมีเนื้อหาที่ยังไม่ได้บันทึก</string>
-    <string name="common_task_finish_delete_all">ไม่บันทึก</string>
-    <string name="common_task_finish_cancel">ยกเลิก</string>
-    <string name="common_task_finish_save">บันทึก</string>
-    <string name="common_delect_page_content">หน้าที่ถูกลบจะไม่สามารถกู้คืนได้</string>
     <string name="common_sure">ตกลง</string>
-    <string name="common_delect_page_title">ลบ</string>
     <string name="common_save_failed">การบันทึกล้มเหลว</string>
     <string name="common_save_success">บันทึกแล้ว</string>
     <string name="common_load_board_fail_title">โหลดไวท์บอร์ดไม่สําเร็จ</string>
     <string name="common_load_board_success">โหลดสําเร็จ</string>
-    <string name="common_new_board_failed">สร้างไวท์บอร์ดใหม่ไม่สําเร็จ</string>
-    <string name="common_new_page_failed">สร้างเพจใหม่ไม่สําเร็จ</string>
     <string name="wb_page_max_error">ถึงจํานวนหน้าสูงสุดแล้วและไม่สามารถสร้างได้</string>
 
     <string name="exit_wb_msg">เนื้อหาที่แก้ไขปัจจุบันยังไม่ได้รับการบันทึกหลังจากปิดไวท์บอร์ดเนื้อหาที่แก้ไขจะถูกล้างยืนยันการปิดไวท์บอร์ดหรือไม่?</string>
@@ -146,9 +115,6 @@
     <string name="duplicate_file_name">ชื่อไฟล์ที่ซ้ํากัน</string>
     <string name="wb_save_failed">บันทึกล้มเหลวให้ลองเปลี่ยนชื่อไฟล์</string>
     <string name="del_wb_msg">คุณแน่ใจหรือไม่ว่าต้องการลบหน้าปัจจุบัน</string>
-    <string name="wb_page_scale_min">หน้าถูกซูมให้น้อยที่สุด</string>
-    <string name="wb_page_scale_max">หน้าเว็บได้รับการปรับขนาดให้สูงสุด</string>
-    <string name="wb_page_scale">มาตราส่วนผ้าใบ</string>
 
     <string name="select_language">เลือกภาษา</string>
     <string name="language_cn">简体中文</string>
@@ -175,20 +141,6 @@
     <string name="app_name_3">การโต้ตอบหลายหน้าจอของ UClass</string>
     <string name="watch_stu_screen">ดูกลุ่ม</string>
     <string name="license_0">เปิดใช้งานแล้ว</string>
-    <string name="license_10001">การครอบครองพอร์ต Media Protocol</string>
-    <string name="license_10002">การควบคุมการครอบครองพอร์ตโปรโตคอล</string>
-    <string name="license_101">ไม่สามารถรับที่อยู่ Mac</string>
-    <string name="license_102">ไม่สามารถรับข้อมูลฮาร์ดแวร์ได้</string>
-    <string name="license_103">ไม่สามารถตรวจสอบที่อยู่ MAC ได้</string>
-    <string name="license_104">ไม่สามารถตรวจสอบข้อมูลฮาร์ดแวร์ได้</string>
-    <string name="license_105">ประเภท SDK ที่ไม่สอดคล้องกัน</string>
-    <string name="license_106">การอนุญาตหมดอายุแล้ว</string>
-    <string name="license_107">ไม่สามารถแยกวิเคราะห์ใบอนุญาต</string>
-    <string name="license_108">ข้อผิดพลาดการตรวจสอบอื่น ๆ</string>
-    <string name="license_109">ข้อมูลใบอนุญาตว่างเปล่า</string>
-    <string name="license_110">ประเภทแพลตฟอร์มไม่ตรงกัน</string>
-    <string name="license_111">ProductId ไม่ตรงกัน</string>
-    <string name="license_112">พารามิเตอร์ sdkType ที่ป้อนไม่ถูกต้อง</string>
     <string name="license_other">ข้อผิดพลาดที่ไม่รู้จัก</string>
     <string name="modify">แก้ไข</string>
     <string name="save">บันทึก</string>
@@ -225,27 +177,10 @@
     <string name="auto_start_fail">การเปิดตัวล้มเหลว! โปรดคลิกปุ่ม &quot;Screen Broadcast&quot; ทางด้านขวาเพื่อเปิดการออกอากาศด้วยตนเอง</string>
 
     <!--    投屏界面优化需求 -->
-    <string name="classroom_lan">LAN ในห้องเรียน</string>
-    <string name="yxy_app_name">ULearning</string>
-    <string name="idea_share">แคสต์หน้าจอ</string>
-    <string name="msg_android2">รองรับเฉพาะ Android เท่านั้น</string>
-    <string name="step1">ขั้นตอนที่ 1.</string>
-    <string name="step2">ขั้นตอนที่ 2.</string>
-    <string name="step3">ขั้นตอนที่ 3.</string>
     <string name="welink_str">วีลิงค์</string>
     <string name="idea_share_str">IdeaShare</string>
-    <string name="share_type">IdeaShare</string>
-    <string name="ideashare_remind1">ดาวน์โหลด IdeaShare จากโทรศัพท์หรือคอมพิวเตอร์ของคุณ</string>
-    <string name="ideashare_remind2">เชื่อมต่อโทรศัพท์หรือคอมพิวเตอร์ของคุณกับ LAN ในห้องเรียน</string>
-    <string name="ideashare_remind3">เปิด IdeaShare และป้อนรหัสแคสต์หน้าจอที่มุมขวาบนของเทอร์มินัลเพื่อแคสต์หน้าจอ</string>
-    <string name="ideashare_remind4">หลังจากเชื่อมต่อโทรศัพท์มือถือกับ LAN ในห้องเรียนแล้วหน้าจอจะถูกฉาย</string>
-    <string name="ideashare_remind5">เปิด WeLink คลิกเครื่องหมาย + ที่มุมขวาบนเลือก &quot;การฉายภาพ&quot; และป้อนรหัสการฉายภาพหน้าจอที่มุมขวาบนของเทอร์มินัลเพื่อแคสต์หน้าจอ</string>
     <string name="wifi">ไวไฟ:</string>
     <string name="wifi_password">รหัสผ่าน:</string>
-    <string name="wifi_save">บันทึก</string>
-    <string name="wifi_cancel">ยกเลิก</string>
-    <string name="wifi_edit">แก้ไขด้วยตนเอง</string>
-    <string name="wifi_remind">ไม่สามารถรับข้อมูล WIFI ในห้องเรียนได้โปรดป้อนด้วยตนเอง</string>
     <string name="storage_permission_reminder">ให้สิทธิ์พื้นที่เก็บข้อมูลก่อน</string>
     <string name="wifi_unknown">ไม่ทราบ</string>
 
@@ -274,4 +209,4 @@
 
     <string name="record_occupation_hint">แอพอื่น ๆ กําลังใช้คุณสมบัติการบันทึกหน้าจอดังนั้นแอพจึงหยุดบันทึกหน้าจอ</string>
 
-</resources>
+    </resources>

@@ -99,10 +99,6 @@
     "message": "Disponibilité",
     "description": "考试快捷地址"
   },
-  "openApp": {
-    "message": "Passer un examen via l’application ULearning",
-    "description": "考试快捷地址"
-  },
   "downloadApp": {
     "message": "Téléchargez l’application ULearning",
     "description": "考试快捷地址"
@@ -147,10 +143,6 @@
     "message": "{n} minutes",
     "description": "考试快捷地址"
   },
-  "allowedTimes": {
-    "message": "Tentatives",
-    "description": "考试快捷地址"
-  },
   "notLimit": {
     "message": "Aucune limite",
     "description": "考试快捷地址"
@@ -161,10 +153,6 @@
   },
   "score": {
     "message": "{n} points",
-    "description": "考试快捷地址"
-  },
-  "usedTimes": {
-    "message": "Tentatives utilisées",
     "description": "考试快捷地址"
   },
   "examTime": {
@@ -379,10 +367,6 @@
     "message": "Terminé",
     "description": "考试快捷地址"
   },
-  "joinTypes": {
-    "message": "PC Web / ULearning APP / Navigateur ULearning Lockdown",
-    "description": "考试快捷地址"
-  },
   "resultsNotAnnounce": {
     "message": "Les résultats de cet examen ne seront pas affichés.",
     "description": "考试快捷地址"
@@ -437,10 +421,6 @@
   },
   "ltiTip1": {
     "message": "Si vous devez passer l’examen via ULearning APP ou ULearning Lockdown Browser, vous pouvez vous connecter avec votre compte U-Test. Votre nom d’utilisateur est : {loginName} et le mot de passe initial est le même que le nom d’utilisateur.",
-    "description": "考试快捷地址"
-  },
-  "ltiTip2": {
-    "message": "Si vous devez passer l’examen via ULearning APP ou ULearning Lockdown Browser, vous pouvez vous connecter avec votre compte U-Test. Votre nom d’utilisateur est : {loginName} et le mot de passe initial est le même que le nom d’utilisateur. Vous pouvez modifier votre mot de passe après la connexion.",
     "description": "考试快捷地址"
   },
   "toUpdatePsd": {
@@ -697,6 +677,26 @@
   },
   "oralSubjectQ": {
     "message": "Question subjective orale",
+    "description": "考试快捷地址"
+  },
+  "openApp": {
+    "message": "Passer un examen via l’application ULearning",
+    "description": "考试快捷地址"
+  },
+  "allowedTimes": {
+    "message": "Tentatives",
+    "description": "考试快捷地址"
+  },
+  "usedTimes": {
+    "message": "Tentatives utilisées",
+    "description": "考试快捷地址"
+  },
+  "joinTypes": {
+    "message": "PC Web / ULearning APP / Navigateur ULearning Lockdown",
+    "description": "考试快捷地址"
+  },
+  "ltiTip2": {
+    "message": "Si vous devez passer l’examen via ULearning APP ou ULearning Lockdown Browser, vous pouvez vous connecter avec votre compte U-Test. Votre nom d’utilisateur est : {loginName} et le mot de passe initial est le même que le nom d’utilisateur. Vous pouvez modifier votre mot de passe après la connexion.",
     "description": "考试快捷地址"
   }
 }

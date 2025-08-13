@@ -3963,6 +3963,10 @@
     "message": "جميع الكليات",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "أذونات",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "الرجاء إدخال كلمة المرور الصحيحة",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "لا يمكن أن يكون وقت بدء النشاط أكبر من وقت انتهاء الحدث",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "إعدادات متعددة اللغات",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "إعدادات اسم الموقع متعدد اللغات",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "الرجاء إدخال {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "لا يمكن أن تكون قيمة اللغة الافتراضية فارغة",
+  "defaultLangError": {
+    "message": "اللغة الافتراضية عنوان المؤسسة لا يمكن أن تكون فارغة !",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4179,6 +4171,22 @@
     "message": "تعريف الجامعة/الكلية",
     "description": "2.0 admin.js"
   },
+  "website.title": {
+    "message": "إعدادات متعددة اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "إعدادات اسم الموقع متعدد اللغات",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "الرجاء إدخال {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "لا يمكن أن تكون قيمة اللغة الافتراضية فارغة",
+    "description": "2.0 admin.js"
+  },
   "resourceLibraryCtrl.resourceLibraryName": {
     "message": "اسم المصدر",
     "description": "2.0 admin.js"
@@ -4253,6 +4261,154 @@
   },
   "resourceLibraryCtrl.resourseLib": {
     "message": "قاعدة بيانات الموارد",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "مشاركة",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "تحميل",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "كل الأنواع",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "جميع حالات التحميل",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "نسخ وسجلات المشاركة",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "سجلات نشر الموارد",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "إعدادات أخرى",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "عن طريق البريد الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "عن طريق الحساب",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "الرجاء إدخال البريد الإلكتروني للمستخدم، افصل بين المستخدمين المتعددين بفاصلة",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "الرجاء اختيار المستخدمين الذين يحتاجون إلى تغيير كلمة المرور من الحسابات الموجودة",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "الرجاء إدخال كلمة المرور الافتراضية بعد إعادة التعيين",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "الرجاء إدخال اسم المستخدم أو البريد الإلكتروني",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "اختر من الحسابات الموجودة",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "كلمة المرور الافتراضية بعد إعادة التعيين",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "إعادة تعيين كلمة المرور بالجملة",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "اختر المستخدم",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "تم اختيار:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "الرجاء اختيار طريقة واحدة على الأقل لتعيين المستخدمين الذين يحتاجون إلى تغيير كلمة المرور",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "نجح التعديل لـ {successCount}، فشل التعديل لـ {failCount}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "تحديد الكل في هذه الصفحة",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "مسح هذه الصفحة",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "حذف المورد فقط",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "حذف الموارد المنشورة في الدورة",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "حذف الموارد المنسوخة إلى مكتبة الموارد",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "حذف كل من المنشور والمنسوخ",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "اختر الدورة",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "الرجاء اختيار الدورات التي تريد نشر الموارد إليها:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "اختيار الكل",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "تم النشر بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "فشل النشر",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "لا توجد دورات بعد، يرجى إنشاء دورة أولاً",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "الرجاء اختيار الدورة أولاً",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "فشل الحذف",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "تفعيل",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "تعطيل",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "بعد التعطيل، لن يتمكن المستخدم من تسجيل الدخول. هل أنت متأكد من التعطيل؟",
     "description": "2.0 admin.js"
   }
 }

@@ -3963,6 +3963,10 @@
     "message": "Membatalkan",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "Izin",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "Silahkan masukkan kata sandi yang dikonfirmasi",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "Waktu mulai aktivitas tidak boleh lebih besar dari waktu akhir acara",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Pengaturan Multi Bahasa",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Pengaturan Multi Bahasa Nama Situs", 
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Silakan masukkan {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "Nilai bahasa default tidak boleh kosong",
+  "defaultLangError": {
+    "message": "Judul bahasa default lembaga tidak bisa kosong!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4179,6 +4171,22 @@
     "message": "Pengenalan Universitas/Fakultas",
     "description": "2.0 admin.js"
   },
+  "website.title": {
+    "message": "Pengaturan Multi Bahasa",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Pengaturan Multi Bahasa Nama Situs",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Silakan masukkan {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Nilai bahasa default tidak boleh kosong",
+    "description": "2.0 admin.js"
+  },
   "resourceLibraryCtrl.resourceLibraryName": {
     "message": "Nama sumber daya",
     "description": "2.0 admin.js"
@@ -4205,6 +4213,202 @@
   },
   "resourceLibraryCtrl.size": {
     "message": "Ukuran",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "Waktu pembuatan",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "Folder",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "File zip",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "Lainnya",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "Sumber daya virtual",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "Tautan",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "Setelah dihapus tidak dapat dipulihkan, apakah Anda yakin ingin menghapus?",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "Metode pengurutan:",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "Log operasi",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "Silakan masukkan pembuat atau nama file untuk menyaring",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "Perpustakaan sumber daya",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "Bagikan",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "Unggah",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "Semua tipe",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "Semua status unggahan",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "Catatan salin dan berbagi",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "Catatan publikasi sumber daya",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "Pengaturan lainnya",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "Melalui email",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "Melalui akun",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "Silakan masukkan email pengguna, pisahkan beberapa pengguna dengan koma",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "Silakan pilih pengguna yang perlu mengubah kata sandi dari akun yang ada",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "Silakan masukkan kata sandi default setelah reset",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "Silakan masukkan nama pengguna atau email",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "Pilih dari akun yang ada",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "Kata sandi default setelah reset",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "Reset kata sandi massal",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "Pilih pengguna",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "Terpilih:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "Silakan pilih setidaknya satu cara untuk mengatur pengguna yang perlu mengubah kata sandi",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "{successCount} berhasil diubah, {failCount} gagal diubah",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "Pilih semua di halaman ini",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "Hapus semua di halaman ini",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "Hanya hapus sumber daya",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Hapus sumber daya yang dipublikasikan ke kursus",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Hapus sumber daya yang disalin ke perpustakaan",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Hapus publikasi/salinan",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "Pilih kursus",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "Silakan pilih kursus tempat sumber daya akan dipublikasikan:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "Pilih semua",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Berhasil dipublikasikan",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "Gagal dipublikasikan",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "Belum ada kursus, silakan buat kursus terlebih dahulu",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "Silakan pilih kursus terlebih dahulu",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "Gagal menghapus",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "Aktifkan",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "Nonaktifkan",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "Setelah dinonaktifkan, pengguna tidak akan dapat masuk. Yakin ingin menonaktifkan?",
     "description": "2.0 admin.js"
   }
 }

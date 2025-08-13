@@ -1946,5 +1946,769 @@
   "startVoiceChat": {
     "message": "Aktifkan suara cerdas",
     "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "Lihat catatan diskusi",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "Mulai percakapan baru",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "Manajemen agen",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "Mulai agen",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "Anda dibisukan",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "Riwayat obrolan",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "Tidak ada riwayat obrolan",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "Ringkasan pendapat siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "Dimensi pemikiran",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "Keunggulan",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "Poin peningkatan lebih lanjut",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "Durasi diskusi: {num} menit",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "Jumlah diskusi: {num} kali",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "Jumlah kata: {num} kata",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "Catatan percakapan",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "Ulasan AI",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "Asisten diskusi",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "Aplikasi AI",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "Kecerdasan AI",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "Gambar sedang diunggah, silakan coba lagi nanti",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "Hanya dapat mengunggah {n} gambar sekaligus",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "Ukuran gambar tidak boleh melebihi {n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "Jenis file tidak didukung",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "Model besar ini tidak mendukung gambar",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "Total {num} item",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "Sumber konten",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "AI sedang menganalisis, harap tunggu",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "Memilih sumber daya untuk Anda...",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "Dialog pratinjau sumber daya",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "Kunjungi URL ini",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "Tim kursus",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "Pengantar kursus",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "File ini tidak mendukung pratinjau online",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "Sedang mengkode ulang, silakan periksa nanti",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "Bisukan",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "Suarakan",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "Putar",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "Layar penuh",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "Tutup",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Tidak ada izin akses",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Layanan tidak aktif, tidak ada izin akses",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "Silakan masuk untuk melihat",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "Alur kerja",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "Agen yang saya buat",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "Agen yang saya kumpulkan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "Pilih kategori",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "Atur ulang",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "Elite kursus",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "Ahli tugas",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "Dewa ujian",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "Raja forum",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "Pemain top AI",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "Pengunjung misterius",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "Saham potensial",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "Kekeringan pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "Siswa bermasalah kehadiran",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "Ahli malas",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "Kebal tugas",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "Batas kegagalan",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "Penonton",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "Pemula AI",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "Mengunjungi kursus {count} kali",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "Nilai rata-rata tugas {grade}, peringkat pertama",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "Nilai rata-rata ujian {grade}, peringkat pertama",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "Posting diskusi {count} kali, peringkat pertama",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "Menggunakan Asisten AI {chatCount} kali, menggunakan Alat AI {toolCount} kali",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "Nilai komprehensif saat ini {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "Jumlah poin pengetahuan dengan penguasaan di bawah 60% adalah {count}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "Tingkat kehadiran rata-rata kelas {rate}%",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "Durasi belajar materi {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "Nilai rata-rata tugas {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "Nilai rata-rata ujian {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "Posting diskusi {count} kali",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "Semua siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "Masukkan nama/ID siswa untuk mencari",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "Tidak ada data lagi",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "Tidak ditemukan konten terkait",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "Tugas pembelajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "Penguasaan pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "Kinerja kelas",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "Hasil penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "Asisten pembelajaran AI",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "Poin pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "Tingkat penguasaan rata-rata",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "Penguasaan baik",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "Penguasaan umum",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "Penguasaan buruk",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "Belum diuji",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "Tujuan kemampuan",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "Tingkat pencapaian rata-rata:",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "Poin pengetahuan lemah",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "Lihat detail",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "Siswa ini",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "dan {num} poin pengetahuan lainnya memiliki penguasaan yang buruk, harap perhatikan penguasaan pengetahuan siswa tepat waktu.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "Jenis pertanyaan",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "Jumlah pertanyaan",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "Pertanyaan bebas",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "Pertanyaan instruksi",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "Instruksi umum",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "Kata kunci pertanyaan",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "Peringkat keseluruhan:",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "Tingkat kehadiran",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "Kehadiran",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "Sudah hadir",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "Absen",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "Izin sakit",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "Izin pribadi",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "Terlambat",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "Pulang awal",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "Interaksi kelas",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "Jumlah partisipasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "Total poin:",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "Poin",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "Pemungutan suara",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "Jawaban cepat",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "Pilih orang",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "Penilaian",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "Unggah foto",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "Menjawab",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "Pembelajaran materi",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "Kemajuan belajar:",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "Tugas/Ujian",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "Jumlah selesai:",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "Ganti siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "ID Siswa:",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "Kelas:",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "Fakultas:",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "Ekspor",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "Kinerja kursus komprehensif",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "Tidak ada data yang dapat dianalisis",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "Penggunaan Asisten AI",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "Sedang membuat PDF, harap tunggu...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "Sistem potret siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "Laporan potret pembelajaran siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "Tidak dapat menemukan konten untuk diekspor",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "Ekspor PDF berhasil",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "Ekspor PDF gagal",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "Materi:",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "Tugas:",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "Ujian:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "Asisten AI:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "Alat AI:",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "kali",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "Tingkat kehadiran kelas:",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "Tingkat partisipasi interaksi kelas:",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "Tingkat penguasaan pengetahuan:",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "Tingkat pencapaian tujuan kemampuan:",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "Nilai akhir:",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "Potret siswa cerdas, mendukung pengajaran yang dipersonalisasi",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "Lihat semua siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "Dewa nilai sempurna",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "Nilai komprehensif saat ini {grade}, peringkat {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "Ahli poin pengetahuan",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "Jumlah poin pengetahuan dengan penguasaan di atas 80% adalah {count}, peringkat {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "Bintang kelas",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "Total poin interaksi kelas {points}, peringkat pertama",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "Raja durasi",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "Durasi belajar materi {time}, peringkat pertama",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "Jadwal",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "Tugas kelompok",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "Jumlah selesai",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "Total",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "Potret siswa",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "Analisis AI",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "Informasi potret",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "Institusi saat ini belum mengaktifkan kemampuan AI",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "Anda belum membuat agen",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "Anda belum membuat agen, pergi ke plaza agen untuk membuat agen khusus Anda",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "Institusi saat ini belum mengaktifkan aplikasi/alat AI ini",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "Desain pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "Tujuan pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "Analisis siswa dan buku teks",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "Konten pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "Metode dan sarana pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "Proses pengajaran",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "Tugas dan papan tulis",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "Inovasi dan literasi",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "Tujuan jelas dan spesifik, mencerminkan literasi inti mata pelajaran/integrasi tiga dimensi, sesuai dengan persyaratan kurikulum dan realitas siswa, mempertimbangkan pengembangan keseluruhan dan individu.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "Memahami dengan tepat dasar pengetahuan, tingkat kemampuan, dan karakteristik pembelajaran siswa, mengantisipasi kesulitan belajar dan membuat strategi yang ditargetkan. Menjelaskan dengan jelas posisi buku teks, logika pengetahuan, dan hubungannya dengan kurikulum, menangani konten pengajaran secara wajar",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "Poin pengetahuan ilmiah dan lengkap, poin penting menonjol, kesulitan jelas; pemilihan materi dekat dengan siswa, mempertimbangkan dasar dan pengembangan, mencerminkan pemikiran dan metode mata pelajaran.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "Metode sesuai dengan karakteristik mata pelajaran dan kognisi siswa, menekankan inspirasi dan eksplorasi; penggunaan sarana (alat peraga, teknologi, dll.) tepat, secara efektif mengatasi poin penting dan sulit.",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "Desain sesi: tahap pengantar, pengajaran baru, latihan, ringkasan, dll. lengkap, secara logis berurutan, dengan distribusi waktu yang wajar.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "Partisipasi siswa: menonjolkan peran utama siswa, merancang kegiatan eksplorasi interaktif, memberikan umpan balik tepat waktu, menangani perencanaan dan generasi.",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "Pelatihan kemampuan: fokus pada bimbingan pemikiran mata pelajaran dan metode pembelajaran, menunjukkan proses konstruksi pengetahuan.",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "Desain tugas berlapis dan masuk akal, jumlahnya sesuai, bentuknya beragam, terhubung dengan tujuan pengajaran. Papan tulis dengan jelas menampilkan kerangka pengetahuan; ringkasan secara singkat menguraikan poin-poin penting, membimbing refleksi.",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "Desain pengajaran inovatif, mencerminkan konsep kurikulum; sikap guru alami, kompetensi profesional (seperti ekspresi, demonstrasi, dll.) baik.",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "Pusat pengembang",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "Analisis video membutuhkan waktu lama, Anda dapat menutup halaman saat ini dan memeriksa kembali di riwayat nanti.",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "Penggunaan organisasi telah habis",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyFormulaRecognitionLimit": {
+    "message": "Pengenalan rumus dapat digunakan {count} kali per hari",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledge": {
+    "message": "Hasilkan grafik",
+    "description": "aiAssistantzh.json"
   }
 }

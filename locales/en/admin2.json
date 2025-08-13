@@ -2964,7 +2964,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule4": {
-    "message": "The maximum number of accounts cannot be less than 100",
+    "message": "The maximum number of accounts cannot be less than 1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule5": {
@@ -2972,7 +2972,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule6": {
-    "message": "The maximum number of active accounts cannot be less than 100",
+    "message": "The maximum number of active accounts cannot be less than 1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule7": {
@@ -5443,6 +5443,30 @@
     "message": "·Current Viewing File",
     "description": "新版管理后台 zh.json"
   },
+  "resourceLibrary.allTheType": {
+    "message": "All types",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.share": {
+    "message": "Share",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.upLoad": {
+    "message": "Upload",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allUpLoadType": {
+    "message": "All upload status",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip1": {
+    "message": "Copy and share records",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip2": {
+    "message": "Resource publishing records",
+    "description": "新版管理后台 zh.json"
+  },
   "userSetting.systemSetting": {
     "message": "System settings",
     "description": "新版管理后台 zh.json"
@@ -6101,6 +6125,42 @@
   },
   "service.uploadFilePlaceholder": {
     "message": "Select File",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteResource": {
+    "message": "Delete resource only",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Delete resource published to courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Delete resource copied to resource library",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Delete both published and copied",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.title": {
+    "message": "Select Course",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.tip": {
+    "message": "Please select which courses to publish the resource to:",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.selectAll": {
+    "message": "Select All",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Published successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishFail": {
+    "message": "Failed to publish",
     "description": "新版管理后台 zh.json"
   }
 }

@@ -4,19 +4,19 @@
     "description": "application_center.json"
   },
   "login": {
-    "message": "Login",
+    "message": "Log In",
     "description": "application_center.json"
   },
   "navbar.personalCenter": {
-    "message": "Personal Center",
+    "message": "My Space",
     "description": "application_center.json"
   },
   "navbar.applicationCenter": {
-    "message": "Apps",
+    "message": "App Center",
     "description": "application_center.json"
   },
   "navbar.resourceCenter": {
-    "message": "Resources",
+    "message": "Resource Center",
     "description": "application_center.json"
   },
   "navbar.dataCenter": {
@@ -28,7 +28,7 @@
     "description": "application_center.json"
   },
   "navbar.personalInfo": {
-    "message": "Personal Information",
+    "message": "My Profile",
     "description": "application_center.json"
   },
   "navbar.username": {
@@ -36,7 +36,7 @@
     "description": "application_center.json"
   },
   "navbar.avatar": {
-    "message": "Avatar",
+    "message": "Profile Photo",
     "description": "application_center.json"
   },
   "navbar.passWord": {
@@ -92,7 +92,7 @@
     "description": "application_center.json"
   },
   "common.semester": {
-    "message": "Semester",
+    "message": "Term",
     "description": "application_center.json"
   },
   "common.pleaseSelectSemester": {
@@ -124,19 +124,19 @@
     "description": "application_center.json"
   },
   "common.document": {
-    "message": "Document",
+    "message": "Documents",
     "description": "application_center.json"
   },
   "common.video": {
-    "message": "Video",
+    "message": "Videos",
     "description": "application_center.json"
   },
   "common.audio": {
-    "message": "Audio",
+    "message": "Audios",
     "description": "application_center.json"
   },
   "common.picture": {
-    "message": "Image",
+    "message": "Images",
     "description": "application_center.json"
   },
   "common.search": {
@@ -156,7 +156,7 @@
     "description": "application_center.json"
   },
   "common.workNumber": {
-    "message": "Faculty ID",
+    "message": "Employee ID",
     "description": "application_center.json"
   },
   "common.phone": {
@@ -176,11 +176,11 @@
     "description": "application_center.json"
   },
   "addApp.classroomRecording": {
-    "message": "Record Lecture",
+    "message": "Record Lectures",
     "description": "application_center.json"
   },
   "addApp.RABMB": {
-    "message": "Record Lecture Management",
+    "message": "Admin Console",
     "description": "application_center.json"
   },
   "addApp.recordingClassroom": {
@@ -188,11 +188,11 @@
     "description": "application_center.json"
   },
   "addApp.numberClassroomPlay": {
-    "message": "Total Recorded Lectures",
+    "message": "Total Lecture Playbacks",
     "description": "application_center.json"
   },
   "addApp.hour": {
-    "message": "hours",
+    "message": " hours",
     "description": "application_center.json"
   },
   "addApp.recordingTimes": {
@@ -224,7 +224,7 @@
     "description": "application_center.json"
   },
   "addApp.point": {
-    "message": "minutes",
+    "message": " minutes",
     "description": "application_center.json"
   },
   "addApp.cumulativeTime": {
@@ -236,11 +236,11 @@
     "description": "application_center.json"
   },
   "addApp.courseInformationReminder": {
-    "message": "Your course information has not been obtained from the course schedule. Please wait for the admin to update/upload the course schedule, or check your ",
+    "message": "No courses/classes found! Your course information could not be retrieved from the schedule. Please wait for the admin to update/upload the schedule, or check if your account information is correct.",
     "description": "application_center.json"
   },
   "addApp.confirmDeleteApp": {
-    "message": "Are you sure you want to delete the app?",
+    "message": "Are you sure you want to remove it?",
     "description": "application_center.json"
   },
   "addApp.removeApp": {
@@ -256,19 +256,19 @@
     "description": "application_center.json"
   },
   "addApp.used": {
-    "message": "Used",
+    "message": "Used ",
     "description": "application_center.json"
   },
   "addApp.available": {
-    "message": "Available",
+    "message": "Available ",
     "description": "application_center.json"
   },
   "addApp.useds": {
-    "message": "Used",
+    "message": "Used ",
     "description": "application_center.json"
   },
   "addApp.addModifyApp": {
-    "message": "Add/modify external applications",
+    "message": "Add/Edit External App",
     "description": "application_center.json"
   },
   "addApp.applicationName": {
@@ -288,39 +288,39 @@
     "description": "application_center.json"
   },
   "addApp.uploadPrompts": {
-    "message": "Formats: jpg, jpeg, or png; Size: up to {} MB. Suggested width x height: {}x{} px",
+    "message": "Formats: jpg, jpeg, or png; Size: up to {num} MB. Suggested width x height: {one}x{two} px",
     "description": "application_center.json"
   },
   "addApp.adjustPicture": {
-    "message": "Crop Photo",
+    "message": "Crop Image",
     "description": "application_center.json"
   },
   "addApp.dragAdjustPosition": {
-    "message": "Drag the frame/a frame border to adjust the crop",
+    "message": "Drag the selection frame/a border to crop",
     "description": "application_center.json"
   },
   "addApp.nameNotExceed": {
-    "message": "The group name cannot exceed the {} character",
+    "message": "The app name cannot exceed {num} characters!",
     "description": "application_center.json"
   },
   "addApp.enterApplicationName": {
-    "message": "Enter the name",
+    "message": "Enter the app name",
     "description": "application_center.json"
   },
   "addApp.enterApplicationLink": {
-    "message": "Please enter the link URL",
+    "message": "Enter the app URL/link",
     "description": "application_center.json"
   },
   "addApp.fileNotSupported": {
-    "message": "The file type is not supported",
+    "message": "The file type is not supported!",
     "description": "application_center.json"
   },
   "addApp.imageCannotExceed": {
-    "message": "The cover image cannot exceed {}M",
+    "message": "The thumbnail cannot exceed {num} MB!",
     "description": "application_center.json"
   },
   "addApp.uploadFailed": {
-    "message": "Upload failed!",
+    "message": "Failed to upload!",
     "description": "application_center.json"
   },
   "addApp.filter": {
@@ -336,11 +336,11 @@
     "description": "application_center.json"
   },
   "addApp.additionNum": {
-    "message": "Total {num}",
+    "message": "Additional {num} ",
     "description": "application_center.json"
   },
   "addApp.courseware": {
-    "message": "Coursewares",
+    "message": "Courseware",
     "description": "application_center.json"
   },
   "addApp.operation": {
@@ -368,7 +368,7 @@
     "description": "application_center.json"
   },
   "addApp.playback": {
-    "message": "Replay",
+    "message": "Playbacks",
     "description": "application_center.json"
   },
   "addApp.recordLiveClassTour": {
@@ -396,7 +396,7 @@
     "description": "application_center.json"
   },
   "addApp.goInspect": {
-    "message": "Review",
+    "message": "Start Review",
     "description": "application_center.json"
   },
   "addApp.supervisoryCourses": {
@@ -412,19 +412,19 @@
     "description": "application_center.json"
   },
   "addApp.teacher": {
-    "message": "Teacher",
+    "message": "Instructor",
     "description": "application_center.json"
   },
   "addApp.class": {
-    "message": "Class",
+    "message": "Classes",
     "description": "application_center.json"
   },
   "addApp.student": {
-    "message": "Student",
+    "message": "Students",
     "description": "application_center.json"
   },
   "addApp.noCourses": {
-    "message": "No course found!",
+    "message": "No courses found!",
     "description": "application_center.json"
   },
   "addApp.today": {
@@ -448,11 +448,11 @@
     "description": "application_center.json"
   },
   "addApp.noEventDisplay": {
-    "message": "No events displayed",
+    "message": "No events found!",
     "description": "application_center.json"
   },
   "addApp.noData": {
-    "message": "No data",
+    "message": "No data found!",
     "description": "application_center.json"
   },
   "addApp.noticesAnnouncements": {
@@ -460,7 +460,7 @@
     "description": "application_center.json"
   },
   "addApp.issuingAnnouncement": {
-    "message": "Publish announcement",
+    "message": "Publish Announcement",
     "description": "application_center.json"
   },
   "addApp.more": {
@@ -468,15 +468,15 @@
     "description": "application_center.json"
   },
   "addApp.noSchoolAnnouncement": {
-    "message": "No school announcements available",
+    "message": "No school announcements found!",
     "description": "application_center.json"
   },
   "addApp.onlineTeachingInspection": {
-    "message": "Online teaching inspection",
+    "message": "Live Stream Review",
     "description": "application_center.json"
   },
   "addApp.newsPastWweeks": {
-    "message": "Past {} Weeks' Snapshot",
+    "message": "Past {num} Weeks' Snapshot",
     "description": "application_center.json"
   },
   "addApp.classroomActivities": {
@@ -488,11 +488,11 @@
     "description": "application_center.json"
   },
   "addApp.personalCenterSettings": {
-    "message": "Setting",
+    "message": "Settings",
     "description": "application_center.json"
   },
   "addApp.moduleIntroduction": {
-    "message": "Administrators can configure the application modules displayed in the personal center of all roles in our school, supporting name modification, up and down movement, and hiding/opening of application modules",
+    "message": "Admin can configure the apps in My Space of all users, supporting modifications of names, reordering, and enabling/disabling apps.",
     "description": "application_center.json"
   },
   "addApp.revise": {
@@ -508,7 +508,7 @@
     "description": "application_center.json"
   },
   "addApp.hide": {
-    "message": "Hide",
+    "message": "Disable",
     "description": "application_center.json"
   },
   "addApp.admin": {
@@ -516,7 +516,7 @@
     "description": "application_center.json"
   },
   "addApp.moreClassroomRecordings": {
-    "message": "More classroom recordings",
+    "message": "More recorded lectures",
     "description": "application_center.json"
   },
   "addApp.coursesFollowing": {
@@ -532,39 +532,39 @@
     "description": "application_center.json"
   },
   "addApp.monday": {
-    "message": "Mon",
+    "message": "Monday",
     "description": "application_center.json"
   },
   "addApp.tuesday": {
-    "message": "Tue",
+    "message": "Tuesday",
     "description": "application_center.json"
   },
   "addApp.wednesday": {
-    "message": "Wed",
+    "message": "Wednesday",
     "description": "application_center.json"
   },
   "addApp.thursday": {
-    "message": "Thu",
+    "message": "Thursday",
     "description": "application_center.json"
   },
   "addApp.friday": {
-    "message": "Fri",
+    "message": "Friday",
     "description": "application_center.json"
   },
   "addApp.saturday": {
-    "message": "Sat",
+    "message": "Saturday",
     "description": "application_center.json"
   },
   "addApp.sunday": {
-    "message": "Sun",
+    "message": "Sunday",
     "description": "application_center.json"
   },
   "addApp.goSupervise": {
-    "message": "View",
+    "message": "Start Reivew",
     "description": "application_center.json"
   },
   "addApp.supervisoryTasksSemester": {
-    "message": "Supervision tasks for this semester",
+    "message": "Review Tasks This semester",
     "description": "application_center.json"
   },
   "addApp.numberSupervisions": {
@@ -576,7 +576,7 @@
     "description": "application_center.json"
   },
   "addApp.scheduleToday": {
-    "message": "Today's Schedule",
+    "message": "Today's Class Schedule",
     "description": "application_center.json"
   },
   "addApp.classProgress": {
@@ -584,7 +584,7 @@
     "description": "application_center.json"
   },
   "addApp.teachingManagement": {
-    "message": "Teaching Management",
+    "message": "Administration",
     "description": "application_center.json"
   },
   "addApp.teachingPlatform": {
@@ -592,11 +592,11 @@
     "description": "application_center.json"
   },
   "addApp.courseManagement": {
-    "message": "Course Management",
+    "message": "Courses",
     "description": "application_center.json"
   },
   "addApp.examManagement": {
-    "message": "Exam Management",
+    "message": "Exams",
     "description": "application_center.json"
   },
   "addApp.liveManagement": {
@@ -612,7 +612,7 @@
     "description": "application_center.json"
   },
   "addApp.systemManagement": {
-    "message": "System Settings",
+    "message": "Settings",
     "description": "application_center.json"
   },
   "addApp.playAllBack": {
@@ -620,7 +620,7 @@
     "description": "application_center.json"
   },
   "addApp.noClassesToday": {
-    "message": "No classes scheduled today",
+    "message": "No classes scheduled today!",
     "description": "application_center.json"
   },
   "addApp.welcome": {
@@ -632,19 +632,19 @@
     "description": "application_center.json"
   },
   "addApp.notRegistered": {
-    "message": "Not registered",
+    "message": "Not Enrolled",
     "description": "application_center.json"
   },
   "addApp.signedUp": {
-    "message": "registered",
+    "message": "Enrolled",
     "description": "application_center.json"
   },
   "addApp.notEnabled": {
-    "message": "Not enabled",
+    "message": "Not opened",
     "description": "application_center.json"
   },
   "addApp.opened": {
-    "message": "Enabled",
+    "message": "Opened",
     "description": "application_center.json"
   },
   "addApp.submitted": {
@@ -664,15 +664,15 @@
     "description": "application_center.json"
   },
   "addApp.deadlineSubmission": {
-    "message": "Deadline for submission",
+    "message": "Deadline",
     "description": "application_center.json"
   },
   "addApp.leaderSubmits": {
-    "message": "Submitted by Team Leader {name}",
+    "message": "Submitted by group leader {name}",
     "description": "application_center.json"
   },
   "addApp.needReworked": {
-    "message": "Need to redo",
+    "message": "Rework required",
     "description": "application_center.json"
   },
   "addApp.minute": {
@@ -680,11 +680,11 @@
     "description": "application_center.json"
   },
   "addApp.submitReport": {
-    "message": "Submit report",
+    "message": "Submit Report",
     "description": "application_center.json"
   },
   "addApp.reviewReport": {
-    "message": " Grade report",
+    "message": "Grade Report",
     "description": "application_center.json"
   },
   "addApp.viewReport": {
@@ -712,19 +712,19 @@
     "description": "application_center.json"
   },
   "addApp.enterManagementBackend": {
-    "message": "Management backend",
+    "message": "Enter Admin Console",
     "description": "application_center.json"
   },
   "addApp.practicalProjects": {
-    "message": "Practice project",
+    "message": "Practicum Projects",
     "description": "application_center.json"
   },
   "addApp.userManagement": {
-    "message": "user management",
+    "message": "Users",
     "description": "application_center.json"
   },
   "addApp.totalProjects": {
-    "message": "Total",
+    "message": "Total Projects",
     "description": "application_center.json"
   },
   "addApp.onlinePractice": {
@@ -736,7 +736,7 @@
     "description": "application_center.json"
   },
   "addApp.projectCompletionRate": {
-    "message": "Completion rate",
+    "message": "Completion Rate",
     "description": "application_center.json"
   },
   "addApp.averageGrade": {
@@ -744,11 +744,11 @@
     "description": "application_center.json"
   },
   "addApp.excellentWorks": {
-    "message": "Excellent works",
+    "message": "Projects Graded as Excellent",
     "description": "application_center.json"
   },
   "addApp.share": {
-    "message": "-",
+    "message": " ",
     "description": "application_center.json"
   },
   "addApp.classification": {
@@ -756,7 +756,7 @@
     "description": "application_center.json"
   },
   "addApp.creationTime": {
-    "message": "Create time",
+    "message": "Created at",
     "description": "application_center.json"
   },
   "addApp.preview": {
@@ -764,11 +764,11 @@
     "description": "application_center.json"
   },
   "addApp.emptyState": {
-    "message": "You don't have any works yet, hurry up {button}!",
+    "message": "You don't have any completed projects yet - hurry up {button}!",
     "description": "application_center.json"
   },
   "addApp.emptyStateButton": {
-    "message": "Have a try",
+    "message": "Go try it",
     "description": "application_center.json"
   },
   "addApp.notSubmitted": {
@@ -776,15 +776,15 @@
     "description": "application_center.json"
   },
   "addApp.reviewPassed": {
-    "message": "Accepted",
+    "message": "Approved",
     "description": "application_center.json"
   },
   "addApp.reviewRejection": {
-    "message": "Rejected\n\n",
+    "message": "Rejected",
     "description": "application_center.json"
   },
   "addApp.pendingApproval": {
-    "message": "To Be Verified",
+    "message": "To be reviewed",
     "description": "application_center.json"
   },
   "addApp.liked": {
@@ -792,27 +792,27 @@
     "description": "application_center.json"
   },
   "addApp.numberVisits": {
-    "message": "visits",
+    "message": "Visits",
     "description": "application_center.json"
   },
   "addApp.myWorks": {
-    "message": "My work",
+    "message": "My Works",
     "description": "application_center.json"
   },
   "addApp.totalNumberWorks": {
-    "message": "Total number of works",
+    "message": "Total Works",
     "description": "application_center.json"
   },
   "addApp.numberWorksApproved": {
-    "message": "Number of approved works",
+    "message": "Approved Works",
     "description": "application_center.json"
   },
   "addApp.worksReviewed": {
-    "message": "Works awaiting review",
+    "message": "Works to Be Reviewed",
     "description": "application_center.json"
   },
   "addApp.numberLikesWork": {
-    "message": "Liked",
+    "message": "Likes",
     "description": "application_center.json"
   },
   "addApp.numberUserComments": {
@@ -820,35 +820,35 @@
     "description": "application_center.json"
   },
   "addApp.newWorksAddedToday": {
-    "message": "New works added today",
+    "message": "Works added today",
     "description": "application_center.json"
   },
   "addApp.worksSubmittedToday": {
-    "message": "NO. of works submitted today",
+    "message": "Works submitted today",
     "description": "application_center.json"
   },
   "addApp.moreResources": {
-    "message": "more resources",
+    "message": "More resources",
     "description": "application_center.json"
   },
   "addApp.totalResources": {
-    "message": "No. of resources",
+    "message": "Total Resources",
     "description": "application_center.json"
   },
   "addApp.synchronizeResources": {
-    "message": "Synchronize resources",
+    "message": "Synchronize Resources",
     "description": "application_center.json"
   },
   "addApp.builtResources": {
-    "message": "Self buld Resources",
+    "message": "Self-Built Resources",
     "description": "application_center.json"
   },
   "addApp.resourcesUpdatedWeek": {
-    "message": "Updated resources this week",
+    "message": "Resources updated this week",
     "description": "application_center.json"
   },
   "addApp.lastUpdated": {
-    "message": "Latest update time",
+    "message": "Last updated",
     "description": "application_center.json"
   },
   "addApp.totalVisits": {
@@ -856,27 +856,27 @@
     "description": "application_center.json"
   },
   "addApp.hoursVisits": {
-    "message": "{num} hourly visits",
+    "message": "Visits in {num} hours",
     "description": "application_center.json"
   },
   "addApp.totaldownloads": {
-    "message": "Download times",
+    "message": "Total downloads",
     "description": "application_center.json"
   },
   "addApp.hourdownloads": {
-    "message": "{num} hourly downloads",
+    "message": "Downloads in {num} hours",
     "description": "application_center.json"
   },
   "addApp.totalcitations": {
-    "message": "Total citation amount",
+    "message": "Total citations",
     "description": "application_center.json"
   },
   "addApp.hasHelped": {
-    "message": "Assisted {num} name",
+    "message": "Assisted {num} ",
     "description": "application_center.json"
   },
   "addApp.teacherPreparation": {
-    "message": "Teacher Preparation",
+    "message": "Teaching Preparation",
     "description": "application_center.json"
   },
   "addApp.resourceLibraryManagement": {
@@ -888,27 +888,27 @@
     "description": "application_center.json"
   },
   "addApp.websiteSettings": {
-    "message": "Setting",
+    "message": "Site",
     "description": "application_center.json"
   },
   "addApp.manageResources": {
-    "message": "View",
+    "message": "Manage",
     "description": "application_center.json"
   },
   "addApp.myResourceLibrary": {
-    "message": "My resource library",
+    "message": "My Resource Library",
     "description": "application_center.json"
   },
   "addApp.manageApplications": {
-    "message": "Management application",
+    "message": "Manage Apps",
     "description": "application_center.json"
   },
   "addApp.managementPersonalCenter": {
-    "message": "Manage Personal Center",
+    "message": "Manage My Space",
     "description": "application_center.json"
   },
   "addApp.noApplicationCategory": {
-    "message": "This category currently has no applications",
+    "message": "No apps found for this category!",
     "description": "application_center.json"
   },
   "addApp.addCategory": {
@@ -924,7 +924,7 @@
     "description": "application_center.json"
   },
   "addApp.dragSort": {
-    "message": "Drag to sort",
+    "message": "Drag to reorder",
     "description": "application_center.json"
   },
   "addApp.addExternalApplications": {
@@ -932,7 +932,7 @@
     "description": "application_center.json"
   },
   "addApp.confirmRemoveApp": {
-    "message": "Are you sure you want to delete the app?",
+    "message": "Are you sure you want to remove it?",
     "description": "application_center.json"
   },
   "addApp.removalSuccess": {
@@ -940,23 +940,23 @@
     "description": "application_center.json"
   },
   "addApp.upCategories": {
-    "message": "Total {num}",
+    "message": "Up to {num} categories",
     "description": "application_center.json"
   },
   "addApp.createNewCategory": {
-    "message": "Add New Category",
+    "message": "New Category",
     "description": "application_center.json"
   },
   "addApp.applicationNameWords": {
-    "message": "The application name should be {num}- {value} words",
+    "message": "Name should be {num}-{value} characters",
     "description": "application_center.json"
   },
   "addApp.removeCategory": {
-    "message": "Are you sure you want to delete the Category?",
+    "message": "Are you sure you want to remove it?",
     "description": "application_center.json"
   },
   "addApp.notRecording": {
-    "message": "The user is not founded in the recording system",
+    "message": "The user has no access to the recording system",
     "description": "application_center.json"
   },
   "addApp.myCourse": {
@@ -964,27 +964,27 @@
     "description": "application_center.json"
   },
   "addApp.classroomQualityAnalysis": {
-    "message": "Session Analysis",
+    "message": "Session Quality Analysis",
     "description": "application_center.json"
   },
   "addApp.scheduleSchedule": {
-    "message": "Schedule",
+    "message": "Class Schedule",
     "description": "application_center.json"
   },
   "addApp.teachingCalendar": {
-    "message": "Teaching Schedule",
+    "message": "Calendar",
     "description": "application_center.json"
   },
   "addApp.whatWeek": {
-    "message": "Week {n} ",
+    "message": "Week {num}",
     "description": "application_center.json"
   },
   "addApp.commonlyUsedApplications": {
-    "message": "APPs",
+    "message": "Apps",
     "description": "application_center.json"
   },
   "addApp.dragMovePosition": {
-    "message": "Drag and drop to move position",
+    "message": "Drag and drop to reorder",
     "description": "application_center.json"
   },
   "addApp.schoolAnnouncement": {
@@ -992,31 +992,31 @@
     "description": "application_center.json"
   },
   "addApp.managementInstructions": {
-    "message": "Administrators can manage the applications of our school, and our teachers can only use the applications that have been activated.",
+    "message": "Admins can manage the apps of the school, while teachers can only use the apps enabled.",
     "description": "application_center.json"
   },
   "addApp.uploadAvatar": {
-    "message": "Upload Avatar",
+    "message": "Upload Image",
     "description": "application_center.json"
   },
   "addApp.fillTips": {
-    "message": "Please fill in correctly, otherwise it may result in some functions being unavailable",
+    "message": "Please fill in correctly. Otherwise, certain functions may become unavailable.",
     "description": "application_center.json"
   },
   "addApp.belongCollege": {
-    "message": "Department",
+    "message": "College",
     "description": "application_center.json"
   },
   "addApp.characterLimit": {
-    "message": "{one}- {two} characters, only supporting letters, numbers, and commonly used punctuation marks - (dash and dot)",
+    "message": "{one}-{two} characters, only supporting letters, numbers, and common punctuations - . (dash and dot)",
     "description": "application_center.json"
   },
   "addApp.reviseSuccess": {
-    "message": "Modified successfully!",
+    "message": "Edited successfully!",
     "description": "application_center.json"
   },
   "addApp.unifiedIdentity": {
-    "message": "School SSO Login",
+    "message": "SSO Login",
     "description": "application_center.json"
   },
   "addApp.accountLogin": {
@@ -1024,7 +1024,7 @@
     "description": "application_center.json"
   },
   "addApp.integratedTeachingPlatform": {
-    "message": "Integrated teaching platform",
+    "message": "Integrated Education Platform",
     "description": "application_center.json"
   },
   "addApp.campusLogin": {
@@ -1040,11 +1040,11 @@
     "description": "application_center.json"
   },
   "addApp.forgetPassword": {
-    "message": "Forgot password",
+    "message": "Forgot password?",
     "description": "application_center.json"
   },
   "addApp.pleaseEnterVerificationCode": {
-    "message": "Please enter the verification code",
+    "message": "Enter the verification code",
     "description": "application_center.json"
   },
   "addApp.errorUsernamePassword": {
@@ -1052,7 +1052,343 @@
     "description": "application_center.json"
   },
   "addApp.notEnabledSystem": {
-    "message": "The institution has not yet opened the system. Please contact the administrator",
+    "message": "Your school has not yet enabled this system. Please contact the admin.",
+    "description": "application_center.json"
+  },
+  "navbar.webManage": {
+    "message": "Website Management",
+    "description": "application_center.json"
+  },
+  "common.complete": {
+    "message": "Complete",
+    "description": "application_center.json"
+  },
+  "common.back": {
+    "message": "Back",
+    "description": "application_center.json"
+  },
+  "common.copy": {
+    "message": "Copy",
+    "description": "application_center.json"
+  },
+  "common.preview": {
+    "message": "Preview",
+    "description": "application_center.json"
+  },
+  "addApp.imgEmpty": {
+    "message": "App icon cannot be empty",
+    "description": "application_center.json"
+  },
+  "addApp.superAdmin": {
+    "message": "Service Account",
+    "description": "application_center.json"
+  },
+  "addApp.webName": {
+    "message": "Website Name",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebName": {
+    "message": "Please enter website name",
+    "description": "application_center.json"
+  },
+  "addApp.domainName": {
+    "message": "Website Domain",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnterWebHost": {
+    "message": "Only numbers, letters and '-' are allowed. '-' cannot be at the start or end",
+    "description": "application_center.json"
+  },
+  "addApp.webTabIcon": {
+    "message": "Browser Tab Icon",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseEnter": {
+    "message": "Please enter",
+    "description": "application_center.json"
+  },
+  "addApp.suggestWebTabIconUpload": {
+    "message": "Recommended size: 16×16px (PNG with transparent background), file size should not exceed 50kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadLogo": {
+    "message": "Please upload logo",
+    "description": "application_center.json"
+  },
+  "addApp.logoExample": {
+    "message": "Example Image",
+    "description": "application_center.json"
+  },
+  "addApp.suggesWebLogoUpload": {
+    "message": "Recommended size: minimum height 30px, adaptive width (PNG with transparent background), file size should not exceed 150kb",
+    "description": "application_center.json"
+  },
+  "addApp.fileSizeNoMore": {
+    "message": "File size cannot exceed {num}kb",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseUploadImgHeight": {
+    "message": "Please upload a file with height greater than or equal to 30px",
+    "description": "application_center.json"
+  },
+  "addApp.loginBgImg": {
+    "message": "Login Page Background",
+    "description": "application_center.json"
+  },
+  "addApp.suggestLoginBgImgUpload": {
+    "message": "Recommended size: 16:9 ratio, supports jpg, jpeg, png formats, size should not exceed 6M",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSet": {
+    "message": "Overall Style Settings",
+    "description": "application_center.json"
+  },
+  "addApp.themeStyleSetTip": {
+    "message": "Modify the style of navigation bar and menu",
+    "description": "application_center.json"
+  },
+  "addApp.themeColor": {
+    "message": "Website Theme Color",
+    "description": "application_center.json"
+  },
+  "addApp.themeColorTip": {
+    "message": "To ensure content visibility, avoid choosing overly light theme colors",
+    "description": "application_center.json"
+  },
+  "addApp.pleaseLoginBgImg": {
+    "message": "Please upload login page background",
+    "description": "application_center.json"
+  },
+  "addApp.copySuccess": {
+    "message": "Copied successfully",
+    "description": "application_center.json"
+  },
+  "addApp.copyFail": {
+    "message": "Copy failed",
+    "description": "application_center.json"
+  },
+  "appCenter.initSetting": {
+    "message": "Initialize Configuration",
+    "description": "application_center.json"
+  },
+  "appCenter.initSettingTip": {
+    "message": "Note: This only configures which app libraries are displayed in the school's app center. Some app libraries require authorization to function properly. Please contact service personnel for authorization.",
+    "description": "application_center.json"
+  },
+  "appCenter.apps": {
+    "message": "App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyManagement": {
+    "message": "Category Management",
+    "description": "application_center.json"
+  },
+  "appCenter.plsEnter": {
+    "message": "Please enter content",
+    "description": "application_center.json"
+  },
+  "appCenter.addNewApp": {
+    "message": "Create New App",
+    "description": "application_center.json"
+  },
+  "appCenter.defaultClassify": {
+    "message": "Default Category",
+    "description": "application_center.json"
+  },
+  "appCenter.description": {
+    "message": "Notes",
+    "description": "application_center.json"
+  },
+  "appCenter.action": {
+    "message": "Actions",
+    "description": "application_center.json"
+  },
+  "appCenter.delete": {
+    "message": "Delete",
+    "description": "application_center.json"
+  },
+  "appCenter.addUpdateApp": {
+    "message": "Add/Modify App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.allClassify": {
+    "message": "All Categories",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteTip": {
+    "message": "This cannot be undone. Are you sure you want to delete?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteApp": {
+    "message": "Delete App",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteSuccess": {
+    "message": "Deleted successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess": {
+    "message": "Added successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.orderIndex": {
+    "message": "Serial Number",
+    "description": "application_center.json"
+  },
+  "appCenter.orgId": {
+    "message": "Organization ID",
+    "description": "application_center.json"
+  },
+  "appCenter.orgName": {
+    "message": "Organization Name",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyName": {
+    "message": "Category Name",
+    "description": "application_center.json"
+  },
+  "appCenter.app": {
+    "message": "App",
+    "description": "application_center.json"
+  },
+  "appCenter.selectInApps": {
+    "message": "Select from App Library",
+    "description": "application_center.json"
+  },
+  "appCenter.max20Classify": {
+    "message": "Maximum 20 categories",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip": {
+    "message": "App name should be 2-50 characters",
+    "description": "application_center.json"
+  },
+  "appCenter.appNameTip1": {
+    "message": "App name should not exceed 50 characters",
+    "description": "application_center.json"
+  },
+  "appCenter.name": {
+    "message": "Name",
+    "description": "application_center.json"
+  },
+  "appCenter.link": {
+    "message": "Link",
+    "description": "application_center.json"
+  },
+  "appCenter.icon": {
+    "message": "Icon",
+    "description": "application_center.json"
+  },
+  "appCenter.imgLimitTip": {
+    "message": "jpg/jpeg/png format images, not exceeding 2M, recommended size 200px*200px",
+    "description": "application_center.json"
+  },
+  "appCenter.info": {
+    "message": "Introduction",
+    "description": "application_center.json"
+  },
+  "appCenter.enterInfo": {
+    "message": "Enter introduction content",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassifyTip": {
+    "message": "Are you sure you want to delete this category?",
+    "description": "application_center.json"
+  },
+  "appCenter.deleteClassify": {
+    "message": "Delete Category",
+    "description": "application_center.json"
+  },
+  "appCenter.editClassify": {
+    "message": "Edit Category",
+    "description": "application_center.json"
+  },
+  "appCenter.add": {
+    "message": "Create New",
+    "description": "application_center.json"
+  },
+  "appCenter.addSuccess1": {
+    "message": "Created successfully",
+    "description": "application_center.json"
+  },
+  "appCenter.classifyNameNotEmpty": {
+    "message": "Category name cannot be empty",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resource": {
+    "message": "Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addNewResource": {
+    "message": "Create New Resource",
+    "description": "application_center.json"
+  },
+  "resourceCenter.initSettingTip": {
+    "message": "Note: This only configures which resource libraries are displayed in the school's resource center. Some resource libraries require authorization to function properly. Please contact service personnel for authorization.",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceCenter": {
+    "message": "Resource Center",
+    "description": "application_center.json"
+  },
+  "resourceCenter.manageResource": {
+    "message": "Manage School Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addResource": {
+    "message": "Add Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.selectFromResource": {
+    "message": "Select from Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.enterSearch": {
+    "message": "Enter to search",
+    "description": "application_center.json"
+  },
+  "resourceCenter.resourceManage": {
+    "message": "Resource Management",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collect": {
+    "message": "Favorite",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectSuccess": {
+    "message": "Added to favorites successfully!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.collectError": {
+    "message": "Failed to unfavorite!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.cancelCollectSuccess": {
+    "message": "Unfavorited successfully!",
+    "description": "application_center.json"
+  },
+  "resourceCenter.imgLimitTip": {
+    "message": "JPG/JPEG/PNG format image, not exceeding 2M, recommended size 356px * 200px",
+    "description": "application_center.json"
+  },
+  "resourceCenter.addUpdateResource": {
+    "message": "Add/Modify Resource Library",
+    "description": "application_center.json"
+  },
+  "resourceCenter.address": {
+    "message": "Address:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.classify": {
+    "message": "分类：",
+    "description": "application_center.json"
+  },
+  "resourceCenter.remark": {
+    "message": "Introduction:",
+    "description": "application_center.json"
+  },
+  "resourceCenter.deleteResource": {
+    "message": "Delete resource application",
     "description": "application_center.json"
   }
 }
