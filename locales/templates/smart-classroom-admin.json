@@ -2123,10 +2123,6 @@
     "message": "中设置学生数量或者导入学生名单",
     "description": "smart-classroom-admin 项目"
   },
-  "attendanceRecord.msg3": {
-    "message": "：",
-    "description": "smart-classroom-admin 项目"
-  },
   "attendanceRecord.msg4": {
     "message": "导入照片错误",
     "description": "smart-classroom-admin 项目"
@@ -9609,6 +9605,110 @@
   },
   "appraisalTask.taskStatus": {
     "message": "任务状态",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.AIGenerateGraph": {
+    "message": "AI生成图谱",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.AIGenerateGraphTip": {
+    "message": "开启AI生成图谱，在课堂视频生成后，AI根据课堂教学内容自动生成图谱。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateProcess": {
+    "message": "生成进度",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generatedClassroom": {
+    "message": "生成课堂",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.notGeneratedClassroom": {
+    "message": "未生成课堂",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.knowledgeNum": {
+    "message": "知识点总数",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.selectHandlerType": {
+    "message": "选择处理方式",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.selectHandlerTypeTip": {
+    "message": "检测到如下课堂中已有知识点，请选择新生成的知识点的处理方式：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.totalClassroom": {
+    "message": "共{num}个课堂",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.existKnowledge": {
+    "message": "已有知识点：{num}个",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.handlerType": {
+    "message": "处理方式：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.noGenerateKnowledge": {
+    "message": "不生成知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.replaceKnowledge": {
+    "message": "完全替换已有知识点",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateProcessInfo": {
+    "message": "生成进度详情",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generated": {
+    "message": "已生成：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.notGenerate": {
+    "message": "未生成：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateKnowledge": {
+    "message": "生成知识点：{num}个",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.reGenerate": {
+    "message": "重新生成",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.batchHandlerType": {
+    "message": "批量处理方式",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.msg1": {
+    "message": "关闭后正在生成的任务将取消生成，确定关闭吗？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.unknownStatus": {
+    "message": "未知状态",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.hadCancel": {
+    "message": "已取消",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generating": {
+    "message": "生成中...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateSuccess": {
+    "message": "生成成功",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateError": {
+    "message": "生成失败",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.plsSelectClassroom": {
+    "message": "请先选择课堂",
     "description": "smart-classroom-admin 项目"
   }
 }
