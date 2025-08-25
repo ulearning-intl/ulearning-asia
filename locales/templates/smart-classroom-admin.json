@@ -9710,5 +9710,273 @@
   "graph.plsSelectClassroom": {
     "message": "请先选择课堂",
     "description": "smart-classroom-admin 项目"
+  },
+  "common.openChangePassword": {
+    "message": "修改密码：打开修改密码页面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.talkNextTip": {
+    "message": "下次再说：点击后按照没有修改密码处理，下次登录后再次弹出提示界面",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.continueUseTip": {
+    "message": "继续使用当前密码：点击后刷新时间，{time}天后再提示。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "attendanceRecord.msg3": {
+    "message": "：",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.indexNum": {
+    "message": "序号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.role": {
+    "message": "角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectRole": {
+    "message": "请选择角色",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.nameOrUser": {
+    "message": "姓名/用户名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.create": {
+    "message": "创建",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.name": {
+    "message": "姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.userName": {
+    "message": "用户名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.workNo": {
+    "message": "工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.createTime": {
+    "message": "创建时间",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.operate": {
+    "message": "操作",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.add": {
+    "message": "添加",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.modify": {
+    "message": "修改",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.delete": {
+    "message": "删除",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.passWord": {
+    "message": "密码",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterUserName": {
+    "message": "请输入用户名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterName": {
+    "message": "请输入姓名",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterPassword": {
+    "message": "请输入密码",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterWorkNo": {
+    "message": "请输入工号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pwdErr": {
+    "message": "8-16位，必须同时包含字母和数字，字母区分大小写",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.createAccount": {
+    "message": "创建账号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.modifyAccount": {
+    "message": "修改账号",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sureDelete": {
+    "message": "确认删除？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sureModify": {
+    "message": "确认修改？",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.tip": {
+    "message": "提示",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.cancel": {
+    "message": "取消",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.confirm": {
+    "message": "确定",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgNameSearch": {
+    "message": "机构名称搜索",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgId": {
+    "message": "机构ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgName": {
+    "message": "机构名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.classify": {
+    "message": "分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.area": {
+    "message": "地区",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterOrgId": {
+    "message": "请输入机构ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterOrgName": {
+    "message": "请输入机构名称",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectClassify": {
+    "message": "请选择分类",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectArea": {
+    "message": "请选择地区",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.systemKeyWord": {
+    "message": "系统词典",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.msg1": {
+    "message": "如果需要创建多个，请使用回车键输入，一行一个。",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnter": {
+    "message": "请输入",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.noEmpty": {
+    "message": "不能为空",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.school": {
+    "message": "学校",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectSchool": {
+    "message": "请选择学校",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.classRoom": {
+    "message": "教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterClassRoom": {
+    "message": "请输入教室",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.date": {
+    "message": "日期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.startDate": {
+    "message": "开始日期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.to": {
+    "message": "至",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.endDate": {
+    "message": "结束日期",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterCourseOrTeacher": {
+    "message": "请输入课程或教师",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.reset": {
+    "message": "重置",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.totalNum": {
+    "message": "数量",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.course": {
+    "message": "课程",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterCourseNameOrID": {
+    "message": "请输入课程名称或ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectWeek": {
+    "message": "请选择周",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.query": {
+    "message": "查询",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sectionNum": {
+    "message": "第{n}节",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.workSchedule": {
+    "message": "排课",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.one": {
+    "message": "一",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.two": {
+    "message": "二",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.three": {
+    "message": "三",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.four": {
+    "message": "四",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.five": {
+    "message": "五",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.six": {
+    "message": "六",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.day": {
+    "message": "日",
+    "description": "smart-classroom-admin 项目"
   }
 }
