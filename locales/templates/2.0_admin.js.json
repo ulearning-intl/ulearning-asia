@@ -520,7 +520,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareTotalNum": {
-    "message": "课件总数",
+    "message": "课程章节总数",
     "description": "2.0 admin.js"
   },
   "dataCenter.classTotalNum": {
@@ -544,7 +544,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareStudyAnalysis": {
-    "message": "课件学习分析",
+    "message": "课程章节学习分析",
     "description": "2.0 admin.js"
   },
   "dataCenter.pleaseUseAdminAccount": {
@@ -552,7 +552,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.selectCourseware": {
-    "message": "选择课件",
+    "message": "选择课程章节",
     "description": "2.0 admin.js"
   },
   "dataCenter.currentOverallLearningProgress": {
@@ -584,7 +584,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewarevideoDuration": {
-    "message": "课件视频总时长",
+    "message": "课程章节视频总时长",
     "description": "2.0 admin.js"
   },
   "dataCenter.videoNum": {
@@ -892,11 +892,11 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSetAnalysis": {
-    "message": "课件设置分析",
+    "message": "课程章节设置分析",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips1": {
-    "message": "设置保存学习计划视为更新课件",
+    "message": "设置保存学习计划视为更新课程章节",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips2": {
@@ -908,15 +908,15 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.updateCoursewareNum": {
-    "message": "更新课件数",
+    "message": "更新课程章节数",
     "description": "2.0 admin.js"
   },
   "dataCenter.updateCoursewareTimes": {
-    "message": "更新课件人次",
+    "message": "更新课程章节人次",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareOperationTop": {
-    "message": "课件操作排名TOP10",
+    "message": "课程章节操作排名TOP10",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips4": {
@@ -1212,7 +1212,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.useCoursewareTotalNum": {
-    "message": "使用课件总数",
+    "message": "使用课程章节总数",
     "description": "2.0 admin.js"
   },
   "dataCenter.teaAverageTeachCourseNum": {
@@ -1260,7 +1260,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips8": {
-    "message": "除公告、课件和资源以外，课程中发布的其它教学活动少于5个的课程",
+    "message": "除公告、课程章节和资源以外，课程中发布的其它教学活动少于5个的课程",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips9": {
@@ -1308,7 +1308,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips19": {
-    "message": "仅统计课件学习情况",
+    "message": "仅统计课程章节学习情况",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips20": {
@@ -1716,7 +1716,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.runningCoursewareNum": {
-    "message": "运行中的课件数量",
+    "message": "运行中的课程章节数量",
     "description": "2.0 admin.js"
   },
   "dataCenter.schoolCreatedCourse": {
@@ -2408,7 +2408,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips14": {
-    "message": "合并课程，会将所选课程的班级、公告、课件、资源、作业、讨论、课堂活动、考试、考核策略等，全部合并至最新创建的课程中。",
+    "message": "合并课程，会将所选课程的班级、公告、课程章节、资源、作业、讨论、课堂活动、考试、考核策略等，全部合并至最新创建的课程中。",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips15": {
@@ -2836,7 +2836,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.relateTextbook": {
-    "message": "关联课件",
+    "message": "关联课程章节",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.searchByClass": {
@@ -3220,7 +3220,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.actType1": {
-    "message": "课件",
+    "message": "课程章节",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.actType2": {
@@ -4409,6 +4409,26 @@
   },
   "systemAdmin.systemAdminTips24": {
     "message": "停用后用户将无法登录，确定停用吗？",
+    "description": "2.0 admin.js"
+  },
+  "synchronous":{
+    "message":"同步",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt":{
+    "message":"自建",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType":{
+    "message":"全部创建方式",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate":{
+    "message":"本科",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent":{
+    "message":"研究生",
     "description": "2.0 admin.js"
   }
 }
