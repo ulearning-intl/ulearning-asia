@@ -6136,7 +6136,7 @@
     "description": "新版管理后台 zh.json"
   },
   "deleteType.deleteLibraryResource": {
-    "message": "删除复制到资源库的资源", 
+    "message": "删除复制到资源库的资源",
     "description": "新版管理后台 zh.json"
   },
   "deleteType.deleteAllResource": {
@@ -6161,6 +6161,242 @@
   },
   "selectCourse.publishFail": {
     "message": "发布失败",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.openRegister": {
+    "message": "开放注册",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.allowStuRegister": {
+    "message": "允许学生注册",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.registrationInfo": {
+    "message": "活动报名信息",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.complete": {
+    "message": "检查内容是否填写完整",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.male": {
+    "message": "男",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.female": {
+    "message": "女",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.needInput": {
+    "message": "需要输入",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.allCategory": {
+    "message": "全部分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.category": {
+    "message": "新闻分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.trans": {
+    "message": "翻译后显示",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveUp": {
+    "message": "上移",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveDown": {
+    "message": "下移",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.categorySettings": {
+    "message": "设置新闻分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.addCategory": {
+    "message": "添加分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pla": {
+    "message": "输入姓名搜索",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.name": {
+    "message": "姓名",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.gender": {
+    "message": "性别",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.birthDate": {
+    "message": "出生日期",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.age": {
+    "message": "年龄",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.phone": {
+    "message": "联系电话",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.email": {
+    "message": "邮箱",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.registerTtime": {
+    "message": "报名时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.idNumber": {
+    "message": "护照或身份证号",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.education": {
+    "message": "学历",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.workExp": {
+    "message": "工作履历",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.projectExp": {
+    "message": "项目经验",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.proofMaterials": {
+    "message": "证明材料",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pre-view": {
+    "message": "预览",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.download": {
+    "message": "下载",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.detail": {
+    "message": "活动报名详情",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.project": {
+    "message": "项目管理",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.career": {
+    "message": "职业管理",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.push": {
+    "message": "发布项目",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectName": {
+    "message": "项目名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newNum": {
+    "message": "咨询数",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.courseNum": {
+    "message": "课程数",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectContent": {
+    "message": "项目概述",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newsManage": {
+    "message": "资讯管理",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newPush": {
+    "message": "发布资讯",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newTitle": {
+    "message": "资讯标题",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newContent": {
+    "message": "资讯内容",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.beProject": {
+    "message": "所属项目",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newType": {
+    "message": "资讯分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.name": {
+    "message": "职业名称",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.exam": {
+    "message": "职业考试",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.push": {
+    "message": "发布职业",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.setType": {
+    "message": "设置分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.beType": {
+    "message": "所属分类",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.zh": {
+    "message": "简体中文",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.en": {
+    "message": "英语",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.introduction": {
+    "message": "职业介绍",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.professionalStandard": {
+    "message": "职业标准",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.certification": {
+    "message": "职业认证",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.associatedCourses": {
+    "message": "所属课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.searchCourse": {
+    "message": "搜索课程",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.courseCreator": {
+    "message": "课程创建人",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.selectExam": {
+    "message": "选择考试",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.examTime": {
+    "message": "考试时间",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.typeNameInput": {
+    "message": "请输入分类名称",
     "description": "新版管理后台 zh.json"
   }
 }
