@@ -1540,7 +1540,7 @@
     "description": "aiAssistantzh.json"
   },
   "themeNameTooLong": {
-    "message": "输入主题名称超过20字符",
+    "message": "输入主题名称超过200字符",
     "description": "aiAssistantzh.json"
   },
   "title": {
@@ -2792,7 +2792,7 @@
     "description": "aiAssistantzh.json"
   },
   "knowledgePointCon": {
-    "message": "知识点{order}：",
+    "message": "知识点：",
     "description": "aiAssistantzh.json"
   },
   "overallProgress": {
@@ -3053,6 +3053,186 @@
   },
   "notHelpful": {
     "message": "没有帮助",
+    "description": "aiAssistantzh.json"
+  },
+  "addquestion": {
+    "message": "添加到题库",
+    "description": "aiAssistantzh.json"
+  },
+  "addcourseware": {
+    "message": "添加到课件",
+    "description": "aiAssistantzh.json"
+  },
+  "deepThinking": {
+    "message": "深度思考",
+    "description": "aiAssistantzh.json"
+  },
+  "input": {
+    "message": "输入",
+    "description": "aiAssistantzh.json"
+  },
+  "output": {
+    "message": "输出",
+    "description": "aiAssistantzh.json"
+  },
+  "AiAPP": {
+    "message": "AI应用",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistant": {
+    "message": "研讨助手",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChat": {
+    "message": "AI对话",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistantInfo": {
+    "message": "研讨型课堂AI可以作为小组的助手，帮助记录讨论内容，总结讨论成果",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChatInfo": {
+    "message": "AI担当课堂助手，可以和师生互动、解答问题，也可以活跃课堂氛围哦～",
+    "description": "aiAssistantzh.json"
+  },
+  "moreApp": {
+    "message": "更多应用",
+    "description": "aiAssistantzh.json"
+  },
+  "putAway": {
+    "message": "收起",
+    "description": "aiAssistantzh.json"
+  },
+  "breakAgent": {
+    "message": "打断助手",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDevelopment": {
+    "message": "知识拓展",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeExplanation": {
+    "message": "知识讲解",
+    "description": "aiAssistantzh.json"
+  },
+  "solvingSteps": {
+    "message": "解题步骤",
+    "description": "aiAssistantzh.json"
+  },
+  "mindMap": {
+    "message": "思维导图",
+    "description": "aiAssistantzh.json"
+  },
+  "answer1": {
+    "message": "答案：",
+    "description": "aiAssistantzh.json"
+  },
+  "answerStep": {
+    "message": "解析：",
+    "description": "aiAssistantzh.json"
+  },
+  "showAnswerAndStep": {
+    "message": "显示答案和解析",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip1": {
+    "message": "根据上面的内容，对其中包含的主要知识内容进行讲解",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip2": {
+    "message": "请根据上面的内容，提供一些拓展的知识讲解",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip3": {
+    "message": "请根据上面的内容，出一些相关的试题",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip4": {
+    "message": "请讲解如何解答这道题，并列出简要的答题步骤",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip5": {
+    "message": "将以上内容生成思维导图",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip6": {
+    "message": "介绍图片上的内容",
+    "description": "aiAssistantzh.json"
+  },
+  "code": {
+    "message": "代码",
+    "description": "aiAssistantzh.json"
+  },
+  "toAgentSquare": {
+    "message": "去智能体广场",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAi": {
+    "message": "截图问问AI",
+    "description": "aiAssistantzh.json"
+  },
+  "teamCreate": {
+    "message": "团队共建",
+    "description": "aiAssistantzh.json"
+  },
+  "outsideShare": {
+    "message": "外部引入",
+    "description": "aiAssistantzh.json"
+  },
+  "uploading": {
+    "message": "上传中...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzing": {
+    "message": "解析中...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzingTip": {
+    "message": "请等待解析完成后再发送",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocTip": {
+    "message": "一次仅可上传{n}个文档",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocMaxTip": {
+    "message": "上传的文档数量不可超过上限{n}个",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgSizeTip": {
+    "message": "单个图片大小不可超过{n}MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocSizeTip": {
+    "message": "单个文档大小不可超过{n}MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFile": {
+    "message": "上传文档",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip1": {
+    "message": "支持png、jpg、jpeg、gif、bmp，最多8张，每最大10M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTip": {
+    "message": "支持word、pdf、txt、ppt、pptx，最多10个，每个最大20M",
+    "description": "aiAssistantzh.json"
+  },
+  "aiQuestionTip": {
+    "message": "AI出题暂不支持图片上传",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTotalTip": {
+    "message": "一次仅可上传{n}个文件",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadAttachment": {
+    "message": "上传附件",
+    "description": "aiAssistantzh.json"
+  },
+  "webSearch": {
+    "message": "联网搜索",
     "description": "aiAssistantzh.json"
   }
 }
