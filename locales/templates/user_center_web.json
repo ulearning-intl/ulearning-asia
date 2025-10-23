@@ -1,0 +1,734 @@
+{
+  "navbar.logOut": {
+    "message": "退出登录",
+    "description": "user_center_web.json"
+  },
+  "webManage.webName": {
+    "message": "网站名称",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnterWebName": {
+    "message": "请输入网站名称",
+    "description": "user_center_web.json"
+  },
+  "webManage.domainName": {
+    "message": "网站域名",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnterWebHost": {
+    "message": "仅输入数字，字母以及“-”，其中“-”不得在头尾",
+    "description": "user_center_web.json"
+  },
+  "webManage.webTabIcon": {
+    "message": "浏览器标签页图标",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnter": {
+    "message": "请输入",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggestWebTabIconUpload": {
+    "message": "建议上传16×16px（PNG透明背景）文件大小不超过50kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseUploadLogo": {
+    "message": "请上传logo",
+    "description": "user_center_web.json"
+  },
+  "webManage.logoExample": {
+    "message": "示例图",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggesWebLogoUpload": {
+    "message": "建议尺寸：最小高度30px，宽度自适应（PNG透明背景）文件大小不超过150kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.fileSizeNoMore": {
+    "message": "文件大小不能超过{num}kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseUploadImgHeight": {
+    "message": "请上传高度大于等于30px的文件",
+    "description": "user_center_web.json"
+  },
+  "webManage.loginBgImg": {
+    "message": "登录页背景",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggestLoginBgImgUpload": {
+    "message": "建议尺寸：比例16:9，支持jpg、jpeg、png格式，大小不超过6M",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeStyleSet": {
+    "message": "整体风格设置",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeStyleSetTip": {
+    "message": "修改导航栏和菜单的风格",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeColor": {
+    "message": "网站主题色",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeColorTip": {
+    "message": "为了确保内容清晰可见，请避免选择过于浅的主题色",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseLoginBgImg": {
+    "message": "请上传登录页背景",
+    "description": "user_center_web.json"
+  },
+  "webManage.copy": {
+    "message": "复制",
+    "description": "user_center_web.json"
+  },
+  "webManage.preview": {
+    "message": "预览",
+    "description": "user_center_web.json"
+  },
+  "webManage.copySuccess": {
+    "message": "复制成功",
+    "description": "user_center_web.json"
+  },
+  "webManage.copyFail": {
+    "message": "复制失败",
+    "description": "user_center_web.json"
+  },
+  "schedule.academicYear": {
+    "message": "学期",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekly": {
+    "message": "周次",
+    "description": "user_center_web.json"
+  },
+  "schedule.editAyear": {
+    "message": "修改学期",
+    "description": "user_center_web.json"
+  },
+  "schedule.importSchedule": {
+    "message": "导入课表",
+    "description": "user_center_web.json"
+  },
+  "schedule.editSchedule": {
+    "message": "修改课表",
+    "description": "user_center_web.json"
+  },
+  "schedule.schoolTime": {
+    "message": "开学时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekTeacherNum": {
+    "message": "教学周数量",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekTeaching": {
+    "message": "教学周",
+    "description": "user_center_web.json"
+  },
+  "schedule.generateWT": {
+    "message": "生成教学周",
+    "description": "user_center_web.json"
+  },
+  "schedule.workRestTime": {
+    "message": "作息时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.section": {
+    "message": "节次",
+    "description": "user_center_web.json"
+  },
+  "schedule.startTimes": {
+    "message": "开始时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.endTimes": {
+    "message": "结束时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.rest": {
+    "message": "休息",
+    "description": "user_center_web.json"
+  },
+  "schedule.date": {
+    "message": "日期",
+    "description": "user_center_web.json"
+  },
+  "schedule.duration": {
+    "message": "时长",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg1": {
+    "message": "请设置正确的作息时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg2": {
+    "message": "修改学期可能会对已有的教学安排产生影响，请谨慎处理。确定修改吗？",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg3": {
+    "message": "请设置开学时间",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg4": {
+    "message": "请设置教学周数量",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg5": {
+    "message": "如需修改课表，请重新导入课程。修改课表可能会对已有的教学安排产生影响，请谨慎处理。",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg6": {
+    "message": "确定修改吗？",
+    "description": "user_center_web.json"
+  },
+  "schedule.termName": {
+    "message": "学期名称",
+    "description": "user_center_web.json"
+  },
+  "schedule.enterTermName": {
+    "message": "请输入学期名称",
+    "description": "user_center_web.json"
+  },
+  "common.pleaseSelect": {
+    "message": "请选择",
+    "description": "user_center_web.json"
+  },
+  "common.save": {
+    "message": "保存",
+    "description": "user_center_web.json"
+  },
+  "common.cancel": {
+    "message": "取消",
+    "description": "user_center_web.json"
+  },
+  "common.minutes": {
+    "message": "分钟",
+    "description": "user_center_web.json"
+  },
+  "common.prompt": {
+    "message": "提示",
+    "description": "user_center_web.json"
+  },
+  "common.addSucc": {
+    "message": "添加成功",
+    "description": "user_center_web.json"
+  },
+  "common.editSucc": {
+    "message": "修改成功",
+    "description": "user_center_web.json"
+  },
+  "common.saveSucc": {
+    "message": "保存成功",
+    "description": "user_center_web.json"
+  },
+  "common.search": {
+    "message": "搜索",
+    "description": "user_center_web.json"
+  },
+  "common.number": {
+    "message": "数量",
+    "description": "user_center_web.json"
+  },
+  "common.delete": {
+    "message": "删除",
+    "description": "user_center_web.json"
+  },
+  "common.oper": {
+    "message": "操作",
+    "description": "user_center_web.json"
+  },
+  "common.edit": {
+    "message": "编辑",
+    "description": "user_center_web.json"
+  },
+  "common.update": {
+    "message": "修改",
+    "description": "user_center_web.json"
+  },
+  "common.add": {
+    "message": "添加",
+    "description": "user_center_web.json"
+  },
+  "common.newAdd": {
+    "message": "新增",
+    "description": "user_center_web.json"
+  },
+  "common.downloadTemp": {
+    "message": "下载模板",
+    "description": "user_center_web.json"
+  },
+  "common.importFile": {
+    "message": "上传文件",
+    "description": "user_center_web.json"
+  },
+  "common.all": {
+    "message": "全部",
+    "description": "user_center_web.json"
+  },
+  "common.confirmDelete": {
+    "message": "确认删除？",
+    "description": "user_center_web.json"
+  },
+  "common.pleaseInput": {
+    "message": "请输入",
+    "description": "user_center_web.json"
+  },
+  "common.noNull": {
+    "message": "不能为空",
+    "description": "user_center_web.json"
+  },
+  "common.beginTime": {
+    "message": "开始日期",
+    "description": "user_center_web.json"
+  },
+  "common.endTime": {
+    "message": "结束日期",
+    "description": "user_center_web.json"
+  },
+  "common.more": {
+    "message": "更多",
+    "description": "user_center_web.json"
+  },
+  "common.status": {
+    "message": "状态",
+    "description": "user_center_web.json"
+  },
+  "common.noStart": {
+    "message": "未开始",
+    "description": "user_center_web.json"
+  },
+  "common.ongoing": {
+    "message": "进行中",
+    "description": "user_center_web.json"
+  },
+  "common.ended": {
+    "message": "已结束",
+    "description": "user_center_web.json"
+  },
+  "common.to": {
+    "message": "至",
+    "description": "user_center_web.json"
+  },
+  "playback.msg13": {
+    "message": "至少保留一个",
+    "description": "user_center_web.json"
+  },
+  "playback.msg14": {
+    "message": "最多20个",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.campus": {
+    "message": "校区",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectCampus": {
+    "message": "请选择校区",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.building": {
+    "message": "教学楼",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectBuilding": {
+    "message": "请选择教学楼",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomType": {
+    "message": "教室类型",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectRoomType": {
+    "message": "请选择教室类型",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputRoomType": {
+    "message": "请输入教室类型",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputRoomName": {
+    "message": "请输入教室名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCampusName": {
+    "message": "请输入校区名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomName": {
+    "message": "教室名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addRoom": {
+    "message": "添加教室",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateRoom": {
+    "message": "修改教室",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importRoom": {
+    "message": "导入教室",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importList": {
+    "message": "导入名单",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.floor": {
+    "message": "楼层",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputFloor": {
+    "message": "请输入楼层",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.seatCount": {
+    "message": "座位数",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputSeatCount": {
+    "message": "请输入座位数",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomNoImportAgain": {
+    "message": "教室未导入，请修改表格中的错误数据后重新上传！",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.noNullLimt": {
+    "message": "不能为空，上限200字",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.inputBuildingRow": {
+    "message": "如果需要创建多个教学楼，请使用回车键输入，一行一个。",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.name": {
+    "message": "名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.moniker": {
+    "message": "姓名",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectSemester": {
+    "message": "请选择学期",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacher": {
+    "message": "教师",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacherName": {
+    "message": "请输入教师姓名/工号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.course": {
+    "message": "课程",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourse": {
+    "message": "请输入课程名称/课程编号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.class": {
+    "message": "班级",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classNo": {
+    "message": "班级ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClassName": {
+    "message": "请输入班级名称/上课班号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.student": {
+    "message": "学生",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudent": {
+    "message": "请输入学生姓名",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudentName": {
+    "message": "请输入学生姓名/学号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importClassPlain": {
+    "message": "导入选课计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentNo": {
+    "message": "学号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudentNo": {
+    "message": "请输入学号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentName": {
+    "message": "学生姓名",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.collegeName": {
+    "message": "所属学院",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCollegeName": {
+    "message": "请输入所属学院",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseCode": {
+    "message": "课程编码",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourseCode": {
+    "message": "请输入课程编码",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseName": {
+    "message": "课程名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourseName": {
+    "message": "请输入课程名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherNo": {
+    "message": "教师工号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacherNo": {
+    "message": "请输入教师工号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherName": {
+    "message": "教师姓名",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacher": {
+    "message": "请输入教师姓名",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classId": {
+    "message": "上课班号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClassId": {
+    "message": "请输入上课班号",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.className": {
+    "message": "班级名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClass": {
+    "message": "请输入班级名称",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.belongSchoolYear": {
+    "message": "所属学期",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentSelectPlainImportAgain": {
+    "message": "学生选课计划未导入，请修改表格中的错误数据后重新上传！",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.createStudentSelectPlain": {
+    "message": "创建选课计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateStudentSelectPlain": {
+    "message": "修改选课计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importSchedule": {
+    "message": "导入排课表",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.createCourse": {
+    "message": "创建课程",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateCourse": {
+    "message": "修改课程",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.college": {
+    "message": "学院",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCollege": {
+    "message": "请输入学院",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.subjectName": {
+    "message": "学科",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputSubjectName": {
+    "message": "请输入学科",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherPlainImportAgain": {
+    "message": "教师排课表未导入，请修改表格中的错误数据后重新上传！",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseId": {
+    "message": "课程ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherId": {
+    "message": "教师ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.setNumber": {
+    "message": "设置学生数量",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addStudent": {
+    "message": "添加学生",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importStudentList": {
+    "message": "导入学生名单",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentListImportAgain": {
+    "message": "学生名单未导入，请修改表格中的错误数据后重新上传！",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addPlain": {
+    "message": "添加计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addTeaPlain": {
+    "message": "添加教学计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.editTeaPlain": {
+    "message": "修改教学计划",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classRoom": {
+    "message": "教室",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.useDate": {
+    "message": "按日期",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.useWeek": {
+    "message": "按周次",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.selectDate": {
+    "message": "选择日期",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.pleaseSelectClassRoom": {
+    "message": "请选择教室",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.weekTip": {
+    "message": "所选时间段内，每周课表复用使用",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week1": {
+    "message": "周一",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week2": {
+    "message": "周二",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week3": {
+    "message": "周三",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week4": {
+    "message": "周四",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week5": {
+    "message": "周五",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week6": {
+    "message": "周六",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week7": {
+    "message": "周日",
+    "description": "user_center_web.json"
+  },
+  "route.courseScheduleManagement": {
+    "message": "课表管理",
+    "description": "user_center_web.json"
+  },
+  "route.semesterManagement": {
+    "message": "学期管理",
+    "description": "user_center_web.json"
+  },
+  "route.newSemester": {
+    "message": "新建学期",
+    "description": "user_center_web.json"
+  },
+  "route.teachersClassSchedule": {
+    "message": "教师排课表",
+    "description": "user_center_web.json"
+  },
+  "route.listStudents": {
+    "message": "学生名单",
+    "description": "user_center_web.json"
+  },
+  "route.classSchedulePlan": {
+    "message": "排课计划",
+    "description": "user_center_web.json"
+  },
+  "route.studentSelectionSchedule": {
+    "message": "学生排课表",
+    "description": "user_center_web.json"
+  },
+  "route.classroomManagement": {
+    "message": "教室管理",
+    "description": "user_center_web.json"
+  },
+  "route.classroomTypeManagement": {
+    "message": "教室类型管理",
+    "description": "user_center_web.json"
+  },
+  "route.teachingBuildingManagement": {
+    "message": "教学楼管理",
+    "description": "user_center_web.json"
+  },
+  "route.websiteManagement": {
+    "message": "网站管理",
+    "description": "user_center_web.json"
+  },
+  "common.confirm": {
+    "message": "确定",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.setWorkRestTime": {
+    "message": "设为默认作息时间",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.quoteWorkRestTime": {
+    "message": "引用默认作息时间",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.expand": {
+    "message": "展开",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.close": {
+    "message": "收起",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.noSetWorkRestTime": {
+    "message": "自定义作息时间",
+    "description": "user_center_web.json"
+  }
+}
