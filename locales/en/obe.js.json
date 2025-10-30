@@ -2,5 +2,153 @@
   "obeSaveTips2": {
     "message": "Course objectives cannot exceed 1000 characters.",
     "description": "obe.js.json"
+  },
+  "obeSaveTips4": {
+    "message": "The achievement target value should be a number of 0-1, with two decimal places retained.",
+    "description": "obe.js.json"
+  },
+  "obeSaveTips5": {
+    "message": "The name of the assessment type cannot be empty.",
+    "description": "obe.js.json"
+  },
+  "obeSaveTips6": {
+    "message": "The name of the assessment type cannot exceed 50 characters.",
+    "description": "obe.js.json"
+  },
+  "obeSaveTips7": {
+    "message": "The total weights cannot exceed 100%.",
+    "description": "obe.js.json"
+  },
+  "obeClearTips": {
+    "message": "Clearing course objectives will simultaneously clear all rules that have been set and imported data, so be careful. Are you sure you want to clear it?",
+    "description": "obe.js.json"
+  },
+  "obeRulesTips": {
+    "message": "After setting the course objectives, you can set objectives of all activities here. ",
+    "description": "obe.js.json"
+  },
+  "obeTextbookTips1": {
+    "message": "Courseware should be set by the course administrator.",
+    "description": "obe.js.json"
+  },
+  "activityTips1": {
+    "message": "Activities that can be included in the achievement statistics include: assignments, examinations, and discussions. ",
+    "description": "obe.js.json"
+  },
+  "activityTips3": {
+    "message": "No activities were found",
+    "description": "2.0 course.js"
+  },
+  "obeStatisticsNullTips": {
+    "message": "To view the achievement degree, please set course objectives and evaluation rules first.",
+    "description": "2.0 course.js"
+  },
+  "obeOwnerLink": {
+    "message": "Assessment Type",
+    "description": "2.0 course.js"
+  },
+  "moreClassNum": {
+    "message": "{n} classes",
+    "description": "2.0 course.js"
+  },
+  "obePaperTips": {
+    "message": "If there are multiple sets of exam papers, the objectives must be associated with each set.",
+    "description": "2.0 course.js"
+  },
+  "associate": {
+    "message": "Connect",
+    "description": "2.0 course.js"
+  },
+  "question": {
+    "message": "Question",
+    "description": "2.0 course.js"
+  },
+  "linkNullTips": {
+    "message": "Please select the assessment type first",
+    "description": "2.0 course.js"
+  },
+  "tipPedding": {
+    "message": "The calculation of achievement statistics is large and time-consuming, and the system will update the data after the background statistics are completed, please check the new statistics later",
+    "description": "2.0 course.js"
+  },
+  "tipFailling": {
+    "message": "The last grading task is still being processed, please check later.",
+    "description": "2.0 course.js"
+  },
+  "statisticsTopTiP": {
+    "message": "Each time you edit a course objective or evaluation rule, you need to manually refresh the data. The data statistics may take a long time, please be patient.",
+    "description": "2.0 course.js"
+  },
+  "activityTips4": {
+    "message": "For activities such as offline exams, grades can be imported via the template. Offline activities can be added and imported by course administrators.",
+    "description": "2.0 course.js"
+  },
+  "activityTipsMax10": {
+    "message": "You can add up to 10 activities.",
+    "description": "2.0 course.js"
+  },
+  "activityNameNullTips": {
+    "message": "The activity name cannot be empty.",
+    "description": "2.0 course.js"
+  },
+  "activityNameLengthTips": {
+    "message": "Please enter 1~200 characters.",
+    "description": "2.0 course.js"
+  },
+  "offlineActivityDeleteTips": {
+    "message": "Deleting an activity also deletes the imported grade data. Are you sure you want to delete?",
+    "description": "2.0 course.js"
+  },
+  "importOverTips": {
+    "message": "Re-importing will overwrite the last imported data, are you sure to re-import?",
+    "description": "2.0 course.js"
+  },
+  "offlineActivityGrade": {
+    "message": "Grade of Offline Activities",
+    "description": "2.0 course.js"
+  },
+  "dataImportedTimeTips": {
+    "message": "Data import time:",
+    "description": "2.0 course.js"
+  },
+  "obeNullTips3": {
+    "message": "To view the analysis report, you should set course objectives and evaluation rules first.",
+    "description": "obe.js.json"
+  },
+  "obeAnalysisTips1": {
+    "message": "The charts are generated according to the latest data.",
+    "description": "obe.js.json"
+  },
+  "obeAnalysisTips3": {
+    "message": "Individual Achievement Analysis",
+    "description": "obe.js.json"
+  },
+  "goalItemCompletion": {
+    "message": "Achievement of objective {n}",
+    "description": "2.0 course.js"
+  },
+  "goalDelTips": {
+    "message": "The associated objective has been deleted",
+    "description": "2.0 course.js"
+  },
+  "fullScoreIllegalTips": {
+    "message": "The total score of discussion should be an integer of 0-100.",
+    "description": "2.0 course.js"
+  },
+  "obeOfflineExportTemp": {
+    "message": "Offline activity grades template",
+    "description": "obe.js.json"
+  },
+  "obeRandomTips": {
+    "message": "This is a random exam, please set the objectives for each question according to the exam structure.",
+    "description": "obe.js.json"
+  },
+  "obeTotalCompletionTips": {
+    "message": "Overall achievement of course objectives",
+    "description": "obe.js.json"
+  },
+  "obeStuCompletionTips": {
+    "message": "Student achievement rate",
+    "description": "obe.js.json"
   }
 }
