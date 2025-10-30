@@ -3234,5 +3234,269 @@
   "webSearch": {
     "message": "联网搜索",
     "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "教案生成",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadLimit10Docs": {
+    "message": "一次允许上传10个文档",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatWordPdfOnly": {
+    "message": "仅允许上传word、pdf格式文档",
+    "description": "aiAssistantzh.json"
+  },
+  "docSizeLimit512M": {
+    "message": "上传文档最大不能超过512M",
+    "description": "aiAssistantzh.json"
+  },
+  "viewLessonPlan": {
+    "message": "查看教案",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordLessonPlan": {
+    "message": "下载word教案",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentEmpty": {
+    "message": "教案内容为空",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlan": {
+    "message": "教案",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordFailed": {
+    "message": "下载word失败",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadFailedRetry": {
+    "message": "下载失败，请重试",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLessonPlanGenerationLimit": {
+    "message": "每日可使用教案生成{count}次",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanByTheme": {
+    "message": "根据主题智能生成教案",
+    "description": "aiAssistantzh.json"
+  },
+  "topicName": {
+    "message": "主题名称",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicName": {
+    "message": "输入主题名称",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendedTopics": {
+    "message": "推荐主题：",
+    "description": "aiAssistantzh.json"
+  },
+  "changeTopics": {
+    "message": "换一换",
+    "description": "aiAssistantzh.json"
+  },
+  "studentGrade": {
+    "message": "学生学段",
+    "description": "aiAssistantzh.json"
+  },
+  "selectGrade": {
+    "message": "选择学段",
+    "description": "aiAssistantzh.json"
+  },
+  "subject": {
+    "message": "学科",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSubject": {
+    "message": "选择学科",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContent": {
+    "message": "教案内容",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmDeleteLessonPlanModule": {
+    "message": "确定删除教案模块 “{contentTitle}” 吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteLessonPlanModule": {
+    "message": "删除教案模块",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleLimit20": {
+    "message": "教案模块数量不能超过20个",
+    "description": "aiAssistantzh.json"
+  },
+  "addLessonPlanModule": {
+    "message": "添加教案模块",
+    "description": "aiAssistantzh.json"
+  },
+  "enterLessonPlanModuleName": {
+    "message": "请输入教案模块名称",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleNameLimit200": {
+    "message": "教案模块名称不能超过200字符",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModel": {
+    "message": "大模型",
+    "description": "aiAssistantzh.json"
+  },
+  "selectLargeModel": {
+    "message": "选择大模型",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterials": {
+    "message": "参考资料",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterialsDesc": {
+    "message": "可上传教学大纲、教材等文档，提高教案生成的准确性",
+    "description": "aiAssistantzh.json"
+  },
+  "otherRequirements": {
+    "message": "其他要求",
+    "description": "aiAssistantzh.json"
+  },
+  "enterOtherRequirements": {
+    "message": "输入其他要求",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanOneClick": {
+    "message": "一键生成教案",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameRequired": {
+    "message": "主题名称必填",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameLimit200": {
+    "message": "主题名称不能超过200字符。",
+    "description": "aiAssistantzh.json"
+  },
+  "gradeRequired": {
+    "message": "学段必填",
+    "description": "aiAssistantzh.json"
+  },
+  "subjectRequired": {
+    "message": "学科必填",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentRequired": {
+    "message": "教案内容必填",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelRequired": {
+    "message": "大模型必填",
+    "description": "aiAssistantzh.json"
+  },
+  "saving": {
+    "message": "正在保存...",
+    "description": "aiAssistantzh.json"
+  },
+  "save": {
+    "message": "保存",
+    "description": "aiAssistantzh.json"
+  },
+  "replace": {
+    "message": "替换",
+    "description": "aiAssistantzh.json"
+  },
+  "insert": {
+    "message": "插入",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCommandForTextOptimization": {
+    "message": "请输入优化文本的指令",
+    "description": "aiAssistantzh.json"
+  },
+  "polish": {
+    "message": "润色",
+    "description": "aiAssistantzh.json"
+  },
+  "expand": {
+    "message": "扩写",
+    "description": "aiAssistantzh.json"
+  },
+  "condense": {
+    "message": "缩写",
+    "description": "aiAssistantzh.json"
+  },
+  "rewriteFailed": {
+    "message": "改写失败，请重试",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGenerationFailed": {
+    "message": "教案生成失败，请重试",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanSaved": {
+    "message": "教案已保存",
+    "description": "aiAssistantzh.json"
+  },
+  "imagePreview": {
+    "message": "图片预览",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimit5M": {
+    "message": "文件最大不能超过 5 M。",
+    "description": "aiAssistantzh.json"
+  },
+  "enterContent": {
+    "message": "输入内容...",
+    "description": "aiAssistantzh.json"
+  },
+  "allRepository": {
+    "message": "全部知识库",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyStuTip": {
+    "message": "暂无学生数据",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelMust": {
+    "message": "大模型必选",
+    "description": "aiAssistantzh.json"
+  },
+  "question2": {
+    "message": "题目",
+    "description": "aiAssistantzh.json"
+  },
+  "notSupportAiMark": {
+    "message": "该附件不支持智能批阅",
+    "description": "aiAssistantzh.json"
+  },
+  "view": {
+    "message": "查看",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip1": {
+    "message": "批改测试的结果不会保存，",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip2": {
+    "message": "确认评分结果符合预期可以选择开始评分。",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip3": {
+    "message": "批改测试失败",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadMarkdown": {
+    "message": "下载Markdown教案",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnalysis": {
+    "message": "文件解析中...",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadText": {
+    "message": "下载教案",
+    "description": "aiAssistantzh.json"
   }
 }
