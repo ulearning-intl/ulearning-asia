@@ -4074,5 +4074,197 @@
   "selectAtLeastOneModel": {
     "message": "必须开启一个模型",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.modelUsage": {
+    "message": "模型使用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "教案生成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterLessonPlanGenerationTotal": {
+    "message": "请输入教案生成总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGenerationNumberRequired": {
+    "message": "教案生成总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "returnToTheServiceBackend": {
+    "message": "返回服务后台",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logInToTheAccount": {
+    "message": "进入账号",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataBoard": {
+    "message": "数据看板",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageDetails": {
+    "message": "教师使用明细",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageDetails": {
+    "message": "学生使用明细",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConsumption": {
+    "message": "模型消耗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allYears": {
+    "message": "全部年度",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTotalUsage": {
+    "message": "模型总用量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageDistribution": {
+    "message": "模型使用分布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputOutputDistribution": {
+    "message": "输入/输出分布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "input": {
+    "message": "输入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "output": {
+    "message": "输出",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleUsageDistribution": {
+    "message": "角色用量分布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "others": {
+    "message": "其他",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrend": {
+    "message": "使用趋势",
+    "description": "aiAssistantManagezh.json"
+  },
+  "periodComparison": {
+    "message": "周期对比",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisWeekUsageComparedToLastWeek": {
+    "message": "本周用量较上周环比",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisMonthUsageComparedToLastMonth": {
+    "message": "本月用量较上月环比",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrendChart": {
+    "message": "用量趋势",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageRanking": {
+    "message": "使用排行",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageRanking": {
+    "message": "教师使用排行",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageRanking": {
+    "message": "学生使用排行",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantUsageRanking": {
+    "message": "AI助手使用排行",
+    "description": "aiAssistantManagezh.json"
+  },
+  "export": {
+    "message": "导出",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterUserNameOrAccount": {
+    "message": "输入用户姓名/账号",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalTokenUsage": {
+    "message": "tokens总用量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensInfo": {
+    "message": "tokens总用量，是对大模型消耗量的统计。大模型的tokens是其处理文字的基本单位，消耗为输入（提问）与输出（回答）tokens之和。<br/>在大模型里，1个token的界定因语言而异。中文通常1个汉字或标点算1个token；英文一般4个字母左右算1个token，或把1个单词视为1个token。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageInstruction": {
+    "message": "查看机构模型使用数据统计。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensUnit": {
+    "message": "单位：tokens",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myriad": {
+    "message": "万",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loadError": {
+    "message": "加载失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTip": {
+    "message": "为了确保内容清晰可见，请避免选择过于浅的主题色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip": {
+    "message": "秒后自动返回网站首页，或手动点击",
+    "description": "aiAssistantManagezh.json"
+  },
+  "backHome": {
+    "message": "返回首页",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip1": {
+    "message": "分类名称不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip2": {
+    "message": "分类名称不能超过200字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moveSuccess": {
+    "message": "移动成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyTip1": {
+    "message": "所选分类如果包含子级分类，将同步删除。分类中全部知识库将划分到【未分类】这一分类中。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount1": {
+    "message": "导入成功，已导入{num}个问答对！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "stuNum": {
+    "message": "学号",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workNum": {
+    "message": "工号",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadErrorTip": {
+    "message": "上传失败，文件不符合要求",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingTip": {
+    "message": "请先设置功能配置",
+    "description": "aiAssistantManagezh.json"
+  },
+  "redirecting": {
+    "message": "跳转中",
+    "description": "aiAssistantManagezh.json"
   }
 }

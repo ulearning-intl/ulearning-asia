@@ -4975,6 +4975,18 @@
     "message": " Upload up to {count} attachments ",
     "description": "小应用"
   },
+  "upload.maxSizeTips": {
+    "message": "File size cannot exceed {size}",
+    "description": "小应用"
+  },
+  "upload.typeTips": {
+    "message": "The file type is not supported",
+    "description": "小应用"
+  },
+  "upload.revertTips": {
+    "message": "The file encoding format cannot be parsed, please try to transcode to MP4 before uploading.",
+    "description": "小应用"
+  },
   "answer.contentPlaceholder": {
     "message": "Enter the instructions for Compete to Answer (optional)",
     "description": "小应用"
@@ -5013,6 +5025,10 @@
   },
   "course.shareSummary": {
     "message": " Please join the class {courseName}, your teacher is {teacherName}",
+    "description": "小应用"
+  },
+  "group.member2": {
+    "message": "Member Name",
     "description": "小应用"
   },
   "user.select": {
@@ -5109,6 +5125,10 @@
   },
   "photograph.msg10": {
     "message": "Students can view images from other students after submitting",
+    "description": "小应用"
+  },
+  "custom.scanCode": {
+    "message": "Scan",
     "description": "小应用"
   },
   "stuList.notJoin": {

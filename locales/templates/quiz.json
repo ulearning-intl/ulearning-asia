@@ -598,5 +598,1437 @@
   "analysis.text26": {
     "message": "题目详情",
     "description": "测验 zh.json"
+  },
+  "0QuestionscoreFen": {
+    "message": "(0~{0}分)",
+    "description": "测验 zh.json"
+  },
+  "anBanJiMingChengSouSuo": {
+    "message": "按班级名称搜索",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiDaoXu": {
+    "message": "按得分率倒序",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiZhengXu": {
+    "message": "按得分率正序",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoDaoXu": {
+    "message": "按题号倒序",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoZhengXu": {
+    "message": "按题号正序",
+    "description": "测验 zh.json"
+  },
+  "analysisByStuMaxGrade": {
+    "message": "按照学生最高分的答题记录统计",
+    "description": "测验 zh.json"
+  },
+  "answerdatafullgradeFen": {
+    "message": "{0}分",
+    "description": "测验 zh.json"
+  },
+  "banJi": {
+    "message": "班级",
+    "description": "测验 zh.json"
+  },
+  "baoCun": {
+    "message": "保存",
+    "description": "测验 zh.json"
+  },
+  "baoCunBingQieHuanXiaYiG": {
+    "message": "保存并切换下一个",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGao": {
+    "message": "保存草稿",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGaoChengGong": {
+    "message": "保存草稿成功",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLu": {
+    "message": "保存答题记录",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLuChengGong": {
+    "message": "保存答题记录成功",
+    "description": "测验 zh.json"
+  },
+  "baoCunPingFen": {
+    "message": "保存评分",
+    "description": "测验 zh.json"
+  },
+  "baoCunZhong": {
+    "message": "保存中",
+    "description": "测验 zh.json"
+  },
+  "beiZhuFeiBiTianBuChaoGu": {
+    "message": "备注，非必填，不超过200字",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanFenZhiFeiBai": {
+    "message": "本次测验分值非百分制，您可以继续发布测验。如需更改题目分值，请选择修改分值。",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng": {
+    "message": "本次测验已有学生提交，仅允许修改题目分值。如果需要修改题目内容或答案，请在题库中修改。",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng-0": {
+    "message": "本次测验已有学生提交，仅允许修改题目分值。如果需要修改题目内容或答案，请在题库中修改。<br/>修改题目或分值后，请使用【重新评分】功能，对已提交的学生重新评分。",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYunXuTiJiaoT": {
+    "message": "本次测验允许提交 {0} 次，还剩余 <span style=\"font-weight: bold;color: #ea5947;\">{1}</span> 次机会。<br/>确定提交吗？",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJi": {
+    "message": "本次成绩：",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJiChangegrade": {
+    "message": "本次成绩：{0}",
+    "description": "测验 zh.json"
+  },
+  "blanksQuestion": {
+    "message": "填空题",
+    "description": "测验 zh.json"
+  },
+  "boFang": {
+    "message": "播放",
+    "description": "测验 zh.json"
+  },
+  "buGongBu": {
+    "message": "不公布",
+    "description": "测验 zh.json"
+  },
+  "buZhiChiGaiLeiXingWenJi": {
+    "message": "不支持该类型文件",
+    "description": "测验 zh.json"
+  },
+  "canKaoDaAn": {
+    "message": "参考答案：",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi": {
+    "message": "参与班级",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi-0": {
+    "message": "参与班级：",
+    "description": "测验 zh.json"
+  },
+  "caoZuo": {
+    "message": "操作",
+    "description": "测验 zh.json"
+  },
+  "caoZuoChengGong": {
+    "message": "操作成功！",
+    "description": "测验 zh.json"
+  },
+  "ceYan": {
+    "message": "测验",
+    "description": "测验 zh.json"
+  },
+  "ceYanChengJi": {
+    "message": "测验成绩",
+    "description": "测验 zh.json"
+  },
+  "ceYanGaiKuang": {
+    "message": "测验概况",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuHou": {
+    "message": "测验结束后",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuShiJianBuNen": {
+    "message": "测验结束时间不能早于开始时间",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai": {
+    "message": "测验开始，如果修改了题目或分值，使用此功能，可以对已提交的学生重新评分。",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai-0": {
+    "message": "测验开始，如果修改了题目或分值，使用此功能，可以对已提交的学生重新评分。请选择需要重新评分的题型：",
+    "description": "测验 zh.json"
+  },
+  "ceYanMingChengBuNengChao": {
+    "message": "测验名称不能超过200字符（汉字100字左右）",
+    "description": "测验 zh.json"
+  },
+  "ceYanSheZhi": {
+    "message": "测验设置",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian": {
+    "message": "测验时间：",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian-0": {
+    "message": "测验时间",
+    "description": "测验 zh.json"
+  },
+  "ceYanTiMu": {
+    "message": "测验题目",
+    "description": "测验 zh.json"
+  },
+  "ceYanXiangQing": {
+    "message": "测验详情",
+    "description": "测验 zh.json"
+  },
+  "ceYanXinXi": {
+    "message": "测验信息",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiu": {
+    "message": "测验要求",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiuBuNengChaoGu": {
+    "message": "测验要求不能超过5000字符",
+    "description": "测验 zh.json"
+  },
+  "chaKan": {
+    "message": "查看",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaAn": {
+    "message": "查看答案",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaTiJiLu": {
+    "message": "查看答题记录",
+    "description": "测验 zh.json"
+  },
+  "chaKanTiMu": {
+    "message": "查看题目",
+    "description": "测验 zh.json"
+  },
+  "chaKanXiangQing": {
+    "message": "查看详情>>",
+    "description": "测验 zh.json"
+  },
+  "chaZhaoXueSheng": {
+    "message": "查找学生",
+    "description": "测验 zh.json"
+  },
+  "changAnTiMuTuoDongPaiXu": {
+    "message": "长按题目拖动排序",
+    "description": "测验 zh.json"
+  },
+  "changAnTuoDongXuanXiang": {
+    "message": "*长按拖动选项",
+    "description": "测验 zh.json"
+  },
+  "chaoGuo_200mDeFuJianQing": {
+    "message": "超过200M的附件请从电脑端上传",
+    "description": "测验 zh.json"
+  },
+  "chengJi": {
+    "message": "成绩：",
+    "description": "测验 zh.json"
+  },
+  "chengJi-0": {
+    "message": "成绩",
+    "description": "测验 zh.json"
+  },
+  "chengJiDaoXu": {
+    "message": "成绩倒序",
+    "description": "测验 zh.json"
+  },
+  "chengJiFenBu": {
+    "message": "成绩分布",
+    "description": "测验 zh.json"
+  },
+  "chengJiZhengXu": {
+    "message": "成绩正序",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiXiTongJiangBu": {
+    "message": "此时离开，系统将不保存本次答题记录。<br/>确定关闭吗？",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiZiDongBaoCun": {
+    "message": "此时离开，系统将自动保存本次答题记录。<br/>确定返回吗？",
+    "description": "测验 zh.json"
+  },
+  "clozeQuestion": {
+    "message": "完形填空题",
+    "description": "测验 zh.json"
+  },
+  "completedRate": {
+    "message": "完成率",
+    "description": "测验 zh.json"
+  },
+  "comprehensiveQuestion": {
+    "message": "综合题",
+    "description": "测验 zh.json"
+  },
+  "congBenJiXuanZe": {
+    "message": "从本机选择",
+    "description": "测验 zh.json"
+  },
+  "daAn": {
+    "message": "答案：",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian": {
+    "message": "答案公布时间：",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian-0": {
+    "message": "答案公布时间",
+    "description": "测验 zh.json"
+  },
+  "daAnWeiGongBu": {
+    "message": "答案未公布",
+    "description": "测验 zh.json"
+  },
+  "daDuiRenShu": {
+    "message": "答对人数",
+    "description": "测验 zh.json"
+  },
+  "daHuiZhongXie": {
+    "message": "打回重写",
+    "description": "测验 zh.json"
+  },
+  "daTi": {
+    "message": "答题",
+    "description": "测验 zh.json"
+  },
+  "daTiJiLu": {
+    "message": "答题记录",
+    "description": "测验 zh.json"
+  },
+  "daTiKa": {
+    "message": "答题卡",
+    "description": "测验 zh.json"
+  },
+  "daTiXiangQing": {
+    "message": "答题详情",
+    "description": "测验 zh.json"
+  },
+  "daiPiYue": {
+    "message": "待批阅",
+    "description": "测验 zh.json"
+  },
+  "daiPingFen": {
+    "message": "待评分",
+    "description": "测验 zh.json"
+  },
+  "daoChu": {
+    "message": "导出",
+    "description": "测验 zh.json"
+  },
+  "daoChuChengJi": {
+    "message": "导出成绩",
+    "description": "测验 zh.json"
+  },
+  "daoChuShiJianKeNengJiao": {
+    "message": "导出时间可能较长，请耐心等待。",
+    "description": "测验 zh.json"
+  },
+  "daoChuXiangQing": {
+    "message": "导出详情",
+    "description": "测验 zh.json"
+  },
+  "deFen": {
+    "message": "得分：",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai": {
+    "message": "得分率：",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai-0": {
+    "message": "得分率",
+    "description": "测验 zh.json"
+  },
+  "deFenShuaiHandleanswerQues": {
+    "message": "得分率：{0}",
+    "description": "测验 zh.json"
+  },
+  "diHomeworkanswertimesCiTiJ": {
+    "message": "第{0}次提交后",
+    "description": "测验 zh.json"
+  },
+  "diHomeworksturecordlistlength": {
+    "message": "第{0}次提交，{1}",
+    "description": "测验 zh.json"
+  },
+  "diSturecordlistlengthIndexC": {
+    "message": "第{0}次",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiDaAnChaoGuo_1000": {
+    "message": "第{0}题答案超过10000字符！",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiHuanMeiYouPiYue": {
+    "message": "第{0}题还没有批阅，确定结束批阅吗？",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiPingFenQueDi": {
+    "message": "第{0}题未评分，确定保存吗？",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiZuoDaQueDing": {
+    "message": "第{0}题未作答，确定提交？",
+    "description": "测验 zh.json"
+  },
+  "di_1CiTiJiaoHou": {
+    "message": "第1次提交后",
+    "description": "测验 zh.json"
+  },
+  "dianJiKaiShiLuYin": {
+    "message": "点击开始录音",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin": {
+    "message": "*点击图标开始录音",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin-0": {
+    "message": "*点击图标开始录音",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoShengChengLu": {
+    "message": "*点击图标生成录音",
+    "description": "测验 zh.json"
+  },
+  "dropdownQuestion": {
+    "message": "下拉选择题",
+    "description": "测验 zh.json"
+  },
+  "duoCiTiJiaoQuZuiGaoFen": {
+    "message": "多次提交取最高分。",
+    "description": "测验 zh.json"
+  },
+  "faBu": {
+    "message": "发布",
+    "description": "测验 zh.json"
+  },
+  "faBuCeYan": {
+    "message": "发布测验",
+    "description": "测验 zh.json"
+  },
+  "faBuChengGong": {
+    "message": "发布成功",
+    "description": "测验 zh.json"
+  },
+  "fanHui": {
+    "message": "返回",
+    "description": "测验 zh.json"
+  },
+  "fanHuiXiuGai": {
+    "message": "返回修改",
+    "description": "测验 zh.json"
+  },
+  "fen": {
+    "message": "分",
+    "description": "测验 zh.json"
+  },
+  "fenXiBaoGao": {
+    "message": "分析报告",
+    "description": "测验 zh.json"
+  },
+  "fenZhi": {
+    "message": "分值：",
+    "description": "测验 zh.json"
+  },
+  "fenZhiXuZai_1100ZhiJianK": {
+    "message": "分值须在1-100之间，可保留一位小数",
+    "description": "测验 zh.json"
+  },
+  "formulaQuestion": {
+    "message": "公式计算题",
+    "description": "测验 zh.json"
+  },
+  "fuJianZuiDuoShangChuanTh": {
+    "message": "附件最多上传{0}个",
+    "description": "测验 zh.json"
+  },
+  "fuZhiCeYan": {
+    "message": "复制测验",
+    "description": "测验 zh.json"
+  },
+  "fuZhiChengGong": {
+    "message": "复制成功",
+    "description": "测验 zh.json"
+  },
+  "geBanShiJianBuTong": {
+    "message": "各班时间不同",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouCeYanDuYiP": {
+    "message": "恭喜，所有测验都已批阅完成！",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouXueShengDuY": {
+    "message": "恭喜，所有学生都已批阅完成。",
+    "description": "测验 zh.json"
+  },
+  "guanBi": {
+    "message": "关闭",
+    "description": "测验 zh.json"
+  },
+  "handlenumitemscoreFen": {
+    "message": "（{0}分）",
+    "description": "测验 zh.json"
+  },
+  "huiDaCuoWu": {
+    "message": "回答错误！",
+    "description": "测验 zh.json"
+  },
+  "huiDaZhengQue": {
+    "message": "回答正确！",
+    "description": "测验 zh.json"
+  },
+  "huiFang": {
+    "message": "回放",
+    "description": "测验 zh.json"
+  },
+  "itemnum_0Ren": {
+    "message": "{0} 人",
+    "description": "测验 zh.json"
+  },
+  "itemsubquestionslengthXiaoTi": {
+    "message": "（{0}小题，共{1}分）",
+    "description": "测验 zh.json"
+  },
+  "jiXuDaTi": {
+    "message": "继续答题",
+    "description": "测验 zh.json"
+  },
+  "jiXuFaBu": {
+    "message": "继续发布",
+    "description": "测验 zh.json"
+  },
+  "jiXuPiYue": {
+    "message": "继续批阅",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian": {
+    "message": "结束时间：",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian-0": {
+    "message": "结束时间",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJianBuNengZaoY": {
+    "message": "结束时间不能早于开始时间",
+    "description": "测验 zh.json"
+  },
+  "jieXi": {
+    "message": "解析：",
+    "description": "测验 zh.json"
+  },
+  "jinHangZhong": {
+    "message": "进行中",
+    "description": "测验 zh.json"
+  },
+  "jinKeGuanTiDanXuanDuoXu": {
+    "message": "仅客观题（单选、多选、判断、排序、下拉选择、选词填空、完型填空）",
+    "description": "测验 zh.json"
+  },
+  "jinXianShiYiTiJiaoDeXue": {
+    "message": "仅显示已提交的学生，点击刷新",
+    "description": "测验 zh.json"
+  },
+  "jingDu": {
+    "message": "精度：{0}",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaTi": {
+    "message": "开始答题",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaoChu": {
+    "message": "开始导出",
+    "description": "测验 zh.json"
+  },
+  "kaiShiPingFen": {
+    "message": "开始评分",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian": {
+    "message": "开始时间：",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian-0": {
+    "message": "开始时间",
+    "description": "测验 zh.json"
+  },
+  "kaoShengDaAn": {
+    "message": "考生答案：",
+    "description": "测验 zh.json"
+  },
+  "kaoShengLuYin": {
+    "message": "考生录音：",
+    "description": "测验 zh.json"
+  },
+  "kaoShengWeiDaTi": {
+    "message": "考生未答题",
+    "description": "测验 zh.json"
+  },
+  "keChengZhongYiCunZaiXian": {
+    "message": "课程中已存在相同名称的作业，请修改测验标题",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa": {
+    "message": "离开后再次进入需要重新答题，确定离开？",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa-0": {
+    "message": "离开后再次进入需要重新批阅，确定离开？",
+    "description": "测验 zh.json"
+  },
+  "liShiZuiGaoFen": {
+    "message": "历史最高分：",
+    "description": "测验 zh.json"
+  },
+  "luYin": {
+    "message": "录音",
+    "description": "测验 zh.json"
+  },
+  "luYinZhongDianJiBoWenTi": {
+    "message": "录音中，点击波纹停止",
+    "description": "测验 zh.json"
+  },
+  "manFen": {
+    "message": "满分",
+    "description": "测验 zh.json"
+  },
+  "manFen-0": {
+    "message": "满分：",
+    "description": "测验 zh.json"
+  },
+  "meiGeBanJiFenKaiSheZhi": {
+    "message": "每个班级分开设置",
+    "description": "测验 zh.json"
+  },
+  "meiYiCiTiJiaoHou": {
+    "message": "每一次提交后",
+    "description": "测验 zh.json"
+  },
+  "meiYouDaiPingFenDeTiMu": {
+    "message": "没有待评分的题目",
+    "description": "测验 zh.json"
+  },
+  "meiYouNeiRong": {
+    "message": "没有内容",
+    "description": "测验 zh.json"
+  },
+  "meiYouZhaoDaoFuHeTiaoJi": {
+    "message": "没有找到符合条件的内容",
+    "description": "测验 zh.json"
+  },
+  "moRenPaiXu": {
+    "message": "默认排序",
+    "description": "测验 zh.json"
+  },
+  "multipleQuestion": {
+    "message": "多选题",
+    "description": "测验 zh.json"
+  },
+  "oralReadQuestion": {
+    "message": "口语朗读题",
+    "description": "测验 zh.json"
+  },
+  "oralSubjectQuestion": {
+    "message": "口语主观题",
+    "description": "测验 zh.json"
+  },
+  "paiZhao": {
+    "message": "拍照",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi": {
+    "message": "批量修改分值：",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi-0": {
+    "message": "批量修改分值",
+    "description": "测验 zh.json"
+  },
+  "piYue": {
+    "message": "批阅",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong": {
+    "message": "批阅成功！",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong-0": {
+    "message": "批阅成功",
+    "description": "测验 zh.json"
+  },
+  "piYueWanChengHouXueSheng": {
+    "message": "批阅完成后学生才可以重新提交。",
+    "description": "测验 zh.json"
+  },
+  "piYueZhuangTaiXiaJinXian": {
+    "message": "批阅状态下，仅显示待批阅的题目。",
+    "description": "测验 zh.json"
+  },
+  "pingFen": {
+    "message": "评分：",
+    "description": "测验 zh.json"
+  },
+  "pingFen-0": {
+    "message": "评分",
+    "description": "测验 zh.json"
+  },
+  "pingFenHaoShiKeNengJiao": {
+    "message": "评分耗时可能较长，系统将在后台处理，请稍后再查看重新评分后的成绩。",
+    "description": "测验 zh.json"
+  },
+  "pingJunFen": {
+    "message": "平均分",
+    "description": "测验 zh.json"
+  },
+  "pingJunFenAverage_0": {
+    "message": "平均分：{0}",
+    "description": "测验 zh.json"
+  },
+  "pingYu": {
+    "message": "评语：",
+    "description": "测验 zh.json"
+  },
+  "qingDaKaiShouJiQuanXian": {
+    "message": "请打开手机权限",
+    "description": "测验 zh.json"
+  },
+  "qingDengDaiJiaoShiPiYue": {
+    "message": "请等待教师批阅",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiCeYanShiJian": {
+    "message": "请设置测验时间",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiJieShuShiJian": {
+    "message": "请设置结束时间",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiKaiShiShiJian": {
+    "message": "请设置开始时间",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiShiJian": {
+    "message": "请设置时间",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanBiaoTi": {
+    "message": "请输入测验标题",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanMingCheng": {
+    "message": "请输入测验名称",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuDaTiCiShu": {
+    "message": "请输入答题次数",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuYunXuTiJiaoCi": {
+    "message": "请输入允许提交次数",
+    "description": "测验 zh.json"
+  },
+  "qingShuRu_0thisquestionscore": {
+    "message": "请输入0-{0}的分值，可保留一位小数",
+    "description": "测验 zh.json"
+  },
+  "qingTianXieYunXuTiJiaoC": {
+    "message": "请填写允许提交次数",
+    "description": "测验 zh.json"
+  },
+  "qingTianXie_1100DeZhengSh": {
+    "message": "请填写1-100的整数",
+    "description": "测验 zh.json"
+  },
+  "qingXieXiaNiDeDaAn": {
+    "message": "请写下你的答案",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZe": {
+    "message": "请选择",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJi": {
+    "message": "请选择班级",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJiHouSheZh": {
+    "message": "请选择班级后设置测验时间",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeCeYanJieShuSh": {
+    "message": "请选择测验结束时间",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeShiJian": {
+    "message": "请选择时间",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeTiMu": {
+    "message": "请选择题目",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeXuYaoZhongXin": {
+    "message": "请选择需要重新评分的题型:",
+    "description": "测验 zh.json"
+  },
+  "quTiKuXuanTi": {
+    "message": "去题库选题",
+    "description": "测验 zh.json"
+  },
+  "quXiao": {
+    "message": "取消",
+    "description": "测验 zh.json"
+  },
+  "quXiaoZhongXie": {
+    "message": "取消重写",
+    "description": "测验 zh.json"
+  },
+  "quanBu": {
+    "message": "全部",
+    "description": "测验 zh.json"
+  },
+  "quanBuBanJi": {
+    "message": "全部班级",
+    "description": "测验 zh.json"
+  },
+  "quanBuJiaoShi": {
+    "message": "全部教师",
+    "description": "测验 zh.json"
+  },
+  "quanXuan": {
+    "message": "全选",
+    "description": "测验 zh.json"
+  },
+  "queDing": {
+    "message": "确定",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKai": {
+    "message": "确定离开",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKaiMa": {
+    "message": "确定离开吗？",
+    "description": "测验 zh.json"
+  },
+  "queDingQuXiaoMa": {
+    "message": "确定取消吗？",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCeYanMa": {
+    "message": "确定删除测验吗？",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCiTiMa": {
+    "message": "确定删除此题吗？",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuTiMuMa": {
+    "message": "确定删除题目吗？",
+    "description": "测验 zh.json"
+  },
+  "queDingTiJiao": {
+    "message": "确定提交？",
+    "description": "测验 zh.json"
+  },
+  "questionrecordanswerWordcount": {
+    "message": "{0}字",
+    "description": "测验 zh.json"
+  },
+  "questionrecordscore_0Fen": {
+    "message": "+{0}分",
+    "description": "测验 zh.json"
+  },
+  "questionscoreFen": {
+    "message": "({0}分)",
+    "description": "测验 zh.json"
+  },
+  "renShu": {
+    "message": "人数",
+    "description": "测验 zh.json"
+  },
+  "ruGuoTiMuZhongBaoHanXu": {
+    "message": "如果题目中包含需要人工评分的主观题，教师",
+    "description": "测验 zh.json"
+  },
+  "ruYuLiuLanQiLanJieDanC": {
+    "message": "如遇浏览器拦截弹窗，请选择始终允许网站弹出窗口。",
+    "description": "测验 zh.json"
+  },
+  "saoMaQianMing": {
+    "message": "扫码签名",
+    "description": "测验 zh.json"
+  },
+  "shanChu": {
+    "message": "删除",
+    "description": "测验 zh.json"
+  },
+  "shanChuCeYan": {
+    "message": "删除测验",
+    "description": "测验 zh.json"
+  },
+  "shanChuChengGong": {
+    "message": "删除成功",
+    "description": "测验 zh.json"
+  },
+  "shanChuTiMu": {
+    "message": "删除题目",
+    "description": "测验 zh.json"
+  },
+  "shangChuanFuJianDaXiaoZh": {
+    "message": "上传附件大小只能是{0}",
+    "description": "测验 zh.json"
+  },
+  "shangChuanShiBai": {
+    "message": "上传失败",
+    "description": "测验 zh.json"
+  },
+  "shangYiCiPingFenChuLiZh": {
+    "message": "上一次评分处理中，请稍后查看",
+    "description": "测验 zh.json"
+  },
+  "shangYiTi": {
+    "message": "上一题",
+    "description": "测验 zh.json"
+  },
+  "shangYiYe": {
+    "message": "上一页",
+    "description": "测验 zh.json"
+  },
+  "shengYuDaTiCiShu": {
+    "message": "剩余答题次数：",
+    "description": "测验 zh.json"
+  },
+  "shengYuHomeworkanswertimesH": {
+    "message": "剩余{0}次答题机会",
+    "description": "测验 zh.json"
+  },
+  "shengYuTiJiaoCiShu": {
+    "message": "剩余提交次数：",
+    "description": "测验 zh.json"
+  },
+  "shortAnswerQuestion": {
+    "message": "简答题",
+    "description": "测验 zh.json"
+  },
+  "shuRuCeYanYaoQiu": {
+    "message": "输入测验要求",
+    "description": "测验 zh.json"
+  },
+  "shuRuFenZhi": {
+    "message": "输入分值",
+    "description": "测验 zh.json"
+  },
+  "shuRuNeiRong": {
+    "message": "输入内容",
+    "description": "测验 zh.json"
+  },
+  "shuRuPingYuFeiBiTian": {
+    "message": "输入评语，非必填",
+    "description": "测验 zh.json"
+  },
+  "shuRuXueShengXueHaoHuoX": {
+    "message": "输入学生学号或姓名",
+    "description": "测验 zh.json"
+  },
+  "shuRuZuoYeYaoQiu": {
+    "message": "输入作业要求",
+    "description": "测验 zh.json"
+  },
+  "shunXuKeHuHuan": {
+    "message": "* 顺序可互换",
+    "description": "测验 zh.json"
+  },
+  "singleQuestion": {
+    "message": "单选题",
+    "description": "测验 zh.json"
+  },
+  "sortQuestion": {
+    "message": "排序题",
+    "description": "测验 zh.json"
+  },
+  "souSuo": {
+    "message": "搜索",
+    "description": "测验 zh.json"
+  },
+  "suoYouZhiChiZhongXinPing": {
+    "message": "所有支持重新评分的题型（包括上述客观题，以及填空题、口语朗读题）",
+    "description": "测验 zh.json"
+  },
+  "testinfoquizhomeworkbaseinfodt": {
+    "message": "{0}次",
+    "description": "测验 zh.json"
+  },
+  "tiJiao": {
+    "message": "提交",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoChengGong": {
+    "message": "提交成功",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShu": {
+    "message": "提交次数",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShuYingWei_1100D": {
+    "message": "提交次数应为1-100的整数",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJian": {
+    "message": "提交时间",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianDaoXu": {
+    "message": "提交时间倒序",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianHomeworkstuan": {
+    "message": "提交时间：{0}",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianZhengXu": {
+    "message": "提交时间正序",
+    "description": "测验 zh.json"
+  },
+  "tiMu": {
+    "message": "题目",
+    "description": "测验 zh.json"
+  },
+  "tiMuDeFenShuaiTongJi": {
+    "message": "题目得分率统计",
+    "description": "测验 zh.json"
+  },
+  "tiMuQu": {
+    "message": "题目区",
+    "description": "测验 zh.json"
+  },
+  "tiMuXiangQing": {
+    "message": "题目详情",
+    "description": "测验 zh.json"
+  },
+  "tiShi": {
+    "message": "提示",
+    "description": "测验 zh.json"
+  },
+  "tiShu": {
+    "message": "题数：",
+    "description": "测验 zh.json"
+  },
+  "tiShu-0": {
+    "message": "题数",
+    "description": "测验 zh.json"
+  },
+  "tiXing": {
+    "message": "题型",
+    "description": "测验 zh.json"
+  },
+  "tiXingChengGong": {
+    "message": "提醒成功",
+    "description": "测验 zh.json"
+  },
+  "tiXingXueShengJiaoZuoYe": {
+    "message": "提醒学生交作业",
+    "description": "测验 zh.json"
+  },
+  "tianJiaBanJi": {
+    "message": "添加班级",
+    "description": "测验 zh.json"
+  },
+  "tianJiaFuJian": {
+    "message": "添加附件",
+    "description": "测验 zh.json"
+  },
+  "tongYiSheZhi": {
+    "message": "统一设置",
+    "description": "测验 zh.json"
+  },
+  "trueOrFalseQuestion": {
+    "message": "判断题",
+    "description": "测验 zh.json"
+  },
+  "tuiChu": {
+    "message": "退出",
+    "description": "测验 zh.json"
+  },
+  "tuiChuCeYanHouXiTongJiangZiDong": {
+    "message": "退出测验后，系统将自动保存测验答题记录，确定退出吗？",
+    "description": "测验 zh.json"
+  },
+  "tuiChuPiYue": {
+    "message": "退出批阅",
+    "description": "测验 zh.json"
+  },
+  "tuoDongXuanXiangPaiXu": {
+    "message": "*拖动选项排序",
+    "description": "测验 zh.json"
+  },
+  "unEvaluatedQuestionShowTips": {
+    "message": "只显示待评分的题目",
+    "description": "测验 zh.json"
+  },
+  "wanCheng": {
+    "message": "完成",
+    "description": "测验 zh.json"
+  },
+  "weiGongBu": {
+    "message": "未公布",
+    "description": "测验 zh.json"
+  },
+  "weiKaiShi": {
+    "message": "未开始",
+    "description": "测验 zh.json"
+  },
+  "weiTiJiao": {
+    "message": "未提交",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa": {
+    "message": "未作答！",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa-0": {
+    "message": "未作答",
+    "description": "测验 zh.json"
+  },
+  "wenJianBuNengChaoGuo_500m": {
+    "message": "文件不能超过500MB",
+    "description": "测验 zh.json"
+  },
+  "woDeChengJi": {
+    "message": "我的成绩",
+    "description": "测验 zh.json"
+  },
+  "woZhiDaoLe": {
+    "message": "我知道了",
+    "description": "测验 zh.json"
+  },
+  "wordsBlanksQuestion": {
+    "message": "选词填空题",
+    "description": "测验 zh.json"
+  },
+  "wuChaFangWei": {
+    "message": "误差范围：±{0}",
+    "description": "测验 zh.json"
+  },
+  "xiaYiBu": {
+    "message": "下一步",
+    "description": "测验 zh.json"
+  },
+  "xiaYiFen": {
+    "message": "下一份",
+    "description": "测验 zh.json"
+  },
+  "xiaYiTi": {
+    "message": "下一题",
+    "description": "测验 zh.json"
+  },
+  "xiaYiYe": {
+    "message": "下一页",
+    "description": "测验 zh.json"
+  },
+  "xiaZai": {
+    "message": "下载",
+    "description": "测验 zh.json"
+  },
+  "xiangCeQuanXianWeiDaKai": {
+    "message": "相册权限未打开",
+    "description": "测验 zh.json"
+  },
+  "xiangQing": {
+    "message": "详情>>",
+    "description": "测验 zh.json"
+  },
+  "xingMing": {
+    "message": "姓名",
+    "description": "测验 zh.json"
+  },
+  "xiuGai": {
+    "message": "修改",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiCeYan": {
+    "message": "修改测验",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiChengGong": {
+    "message": "修改成功",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiFenZhi": {
+    "message": "修改分值",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiTiMuHuoFenZhiHou": {
+    "message": "修改题目或分值后，请在测验批阅页面使用【重新评分】功能，对已提交的学生重新评分。",
+    "description": "测验 zh.json"
+  },
+  "xuZhongXie": {
+    "message": "需重写",
+    "description": "测验 zh.json"
+  },
+  "xuanXiang": {
+    "message": "选项",
+    "description": "测验 zh.json"
+  },
+  "xuanZeBanJi": {
+    "message": "选择班级",
+    "description": "测验 zh.json"
+  },
+  "xuanZeNianYueRiXiaoShi": {
+    "message": "选择年月日小时",
+    "description": "测验 zh.json"
+  },
+  "xuanZePaiXu": {
+    "message": "选择排序",
+    "description": "测验 zh.json"
+  },
+  "xuanZeRenShu": {
+    "message": "选择人数",
+    "description": "测验 zh.json"
+  },
+  "xuanZeWenJian": {
+    "message": "选择文件",
+    "description": "测验 zh.json"
+  },
+  "xuanZeXiangCe": {
+    "message": "选择相册",
+    "description": "测验 zh.json"
+  },
+  "xueHao": {
+    "message": "学号",
+    "description": "测验 zh.json"
+  },
+  "xueHaoDaoXu": {
+    "message": "学号倒序",
+    "description": "测验 zh.json"
+  },
+  "xueHaoZhengXu": {
+    "message": "学号正序",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ": {
+    "message": "学生多次提交，最终成绩取最高分。",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ-0": {
+    "message": "学生多次提交，最终成绩取最高分。如果题目中包含需要人工评分的主观题，教师批阅完成后学生才可以重新提交。",
+    "description": "测验 zh.json"
+  },
+  "yiDa": {
+    "message": "已答：",
+    "description": "测验 zh.json"
+  },
+  "yiJieShu": {
+    "message": "已结束",
+    "description": "测验 zh.json"
+  },
+  "yiPiYue": {
+    "message": "已批阅",
+    "description": "测验 zh.json"
+  },
+  "yiPingFen": {
+    "message": "已评分",
+    "description": "测验 zh.json"
+  },
+  "yiTiJiaoCiShuYunXuTiJi": {
+    "message": "已提交次数/允许提交次数。",
+    "description": "测验 zh.json"
+  },
+  "yiXieContentWordcountZi": {
+    "message": "已写{0}字",
+    "description": "测验 zh.json"
+  },
+  "yongHuYiJuJueLuYinQuan": {
+    "message": "用户已拒绝录音权限，请更改设置后重试",
+    "description": "测验 zh.json"
+  },
+  "yuLanTiMu": {
+    "message": "预览题目",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiJiao": {
+    "message": "逾期未交",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiTiJiao": {
+    "message": "逾期未提交",
+    "description": "测验 zh.json"
+  },
+  "yunXuDaTiCiShu": {
+    "message": "允许答题次数：",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu": {
+    "message": "允许提交次数：",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu-0": {
+    "message": "允许提交次数",
+    "description": "测验 zh.json"
+  },
+  "zaiCiDaTi": {
+    "message": "再次答题",
+    "description": "测验 zh.json"
+  },
+  "zanBuLiKai": {
+    "message": "暂不离开",
+    "description": "测验 zh.json"
+  },
+  "zanBuTiJiao": {
+    "message": "暂不提交",
+    "description": "测验 zh.json"
+  },
+  "zanWuTiMuQingXianQuTiK": {
+    "message": "暂无题目，请先去题库选题",
+    "description": "测验 zh.json"
+  },
+  "zanWuXueShengTiJiaoZuoY": {
+    "message": "暂无学生提交作业",
+    "description": "测验 zh.json"
+  },
+  "zhanBi": {
+    "message": "占比",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAn": {
+    "message": "正确答案：",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAnArrayisarrayqu": {
+    "message": "正确答案：{0}",
+    "description": "测验 zh.json"
+  },
+  "zhengQueShuai": {
+    "message": "正确率",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiLuYinDianJiTing": {
+    "message": "正在录音，点击停止",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiShengChengDaTiJi": {
+    "message": "正在生成答题记录...",
+    "description": "测验 zh.json"
+  },
+  "zhongLu": {
+    "message": "重录",
+    "description": "测验 zh.json"
+  },
+  "zhongTuTuiChuXiTongBuBa": {
+    "message": "中途退出系统不保存答题记录，请提交后再关闭页面。",
+    "description": "测验 zh.json"
+  },
+  "zhongXie": {
+    "message": "重写",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS": {
+    "message": "重写不受提交次数和测验时间限制。当教师要求重写时，即使提交次数已用完，或测验已结束，学生仍然可以提交。<br/> <br/>确定要求 {0} 重写吗？",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS-0": {
+    "message": "重写不受提交次数和测验时间限制。当教师要求重写时，即使提交次数已用完，或测验已结束，学生仍然可以提交。 <br/>确定要求 {0} 重写吗？",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFen": {
+    "message": "重新评分",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFenShiBai": {
+    "message": "重新评分失败",
+    "description": "测验 zh.json"
+  },
+  "zhongXinShangChuan": {
+    "message": "重新上传",
+    "description": "测验 zh.json"
+  },
+  "zhongZuo": {
+    "message": "重做",
+    "description": "测验 zh.json"
+  },
+  "zhuYiCeYanZhongRuGuoBao": {
+    "message": "注意:测验中如果包含待评分的主观题，需等待教师批阅后才能再次提交。",
+    "description": "测验 zh.json"
+  },
+  "zhuZhongXinPingFenBuHui": {
+    "message": "注：重新评分不会影响简答题等人工评分的题目成绩。填空题等支持系统评分的题型，如果已经人工批阅过，系统重新评分会覆盖人工批阅记录，请谨慎使用。",
+    "description": "测验 zh.json"
+  },
+  "zongFen": {
+    "message": "总分：",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFen": {
+    "message": "最低分",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFenLowest_0": {
+    "message": "最低分：{0}",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuanThisfilenu": {
+    "message": "最多上传{0}个附件",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuan_5GeFuJi": {
+    "message": "最多上传5个附件",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTi": {
+    "message": "最多选择200道题",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu": {
+    "message": "最多选择200道题目",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu-0": {
+    "message": "最多选择{0}道题目",
+    "description": "测验 zh.json"
+  },
+  "zuiGao": {
+    "message": "最高",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFen": {
+    "message": "最高分",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenHighest_0": {
+    "message": "最高分：{0}",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenSubmitresponsemaxg": {
+    "message": "最高分：{0}分",
+    "description": "测验 zh.json"
+  },
+  "zuiHouYiCiTiJiaoHou": {
+    "message": "最后一次提交后",
+    "description": "测验 zh.json"
+  },
+  "zuoYeBiaoTiBuNengChaoGu": {
+    "message": "作业标题不能超过200字符（汉字100字左右）",
+    "description": "测验 zh.json"
+  },
+  "zuoYeYaoQiuBuNengChaoGu": {
+    "message": "作业要求不能超过5000字符",
+    "description": "测验 zh.json"
   }
 }
