@@ -4266,5 +4266,97 @@
   "redirecting": {
     "message": "Redirecting",
     "description": "aiAssistantManagezh.json"
+  },
+  "userSetting": {
+    "message": "{user} is editing",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allCategory": {
+    "message": "All categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryManagement": {
+    "message": "Classified management",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperation": {
+    "message": "Batch operation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategory": {
+    "message": "Batch set category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongCategory": {
+    "message": "Category to which",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectCategory": {
+    "message": "Please select",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryName": {
+    "message": "Please enter the category name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryLimit": {
+    "message": "Custom categories cannot exceed 10",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryCannotBeEmpty": {
+    "message": "Custom category cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteResourceCategoryConfirm": {
+    "message": "All resources in the category will be moved to the \"Other Materials\" category. Are you sure you want to delete?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategoryTitle": {
+    "message": "Batch setting of categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectCategoryPlaceholder": {
+    "message": "Please select the category",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategorySuccess": {
+    "message": "Batch setting of categories has been successful",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectResource": {
+    "message": "Please select the resource",
+    "description": "aiAssistantManagezh.json"
+  },
+  "otherData": {
+    "message": "Other materials",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceModification": {
+    "message": "Slice modification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagModification": {
+    "message": "Label modification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterTagName": {
+    "message": "Please enter the label name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTag": {
+    "message": "Add tags",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customTagLimit": {
+    "message": "The number of custom tags cannot exceed five",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagCannotBeEmpty": {
+    "message": "The label cannot be empty",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTag": {
+    "message": "Are you sure you want to delete this tag?",
+    "description": "aiAssistantManagezh.json"
   }
 }
