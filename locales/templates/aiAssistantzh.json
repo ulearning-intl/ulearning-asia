@@ -3548,7 +3548,7 @@
     "description": "aiAssistantzh.json"
   },
   "selectQNumTip": {
-    "message": "每个知识点生成的题数",
+    "message": "（每个知识点生成的题数）",
     "description": "aiAssistantzh.json"
   },
   "selectQNum": {
@@ -3809,6 +3809,10 @@
   },
   "viewMore": {
     "message": "查看更多",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentLengthError": {
+    "message": "单页内容不能超过2000字",
     "description": "aiAssistantzh.json"
   }
 }
