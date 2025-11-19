@@ -4266,5 +4266,97 @@
   "redirecting": {
     "message": "跳转中",
     "description": "aiAssistantManagezh.json"
+  },
+  "userSetting": {
+    "message": "{user}正在编辑",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allCategory": {
+    "message": "全部分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryManagement": {
+    "message": "分类管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperation": {
+    "message": "批量操作",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategory": {
+    "message": "批量设置分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongCategory": {
+    "message": "所属分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectCategory": {
+    "message": "请选择",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryName": {
+    "message": "请输入分类名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryLimit": {
+    "message": "自定义分类不能超过10条",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryCannotBeEmpty": {
+    "message": "自定义分类不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteResourceCategoryConfirm": {
+    "message": "分类中全部资源将划分到【其他资料】这一分类中。确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategoryTitle": {
+    "message": "批量设置分类 ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectCategoryPlaceholder": {
+    "message": "请选择分类",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategorySuccess": {
+    "message": "批量设置分类成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectResource": {
+    "message": "请选择资源",
+    "description": "aiAssistantManagezh.json"
+  },
+  "otherData": {
+    "message": "其他资料",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceModification": {
+    "message": "切片修改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagModification": {
+    "message": "标签修改",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterTagName": {
+    "message": "请输入标签名称",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTag": {
+    "message": "添加标签",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customTagLimit": {
+    "message": "自定义标签不能超过5条",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagCannotBeEmpty": {
+    "message": "标签不能为空",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTag": {
+    "message": "确定删除该标签吗？",
+    "description": "aiAssistantManagezh.json"
   }
 }

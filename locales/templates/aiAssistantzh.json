@@ -3548,7 +3548,7 @@
     "description": "aiAssistantzh.json"
   },
   "selectQNumTip": {
-    "message": "（每个知识点生成的题数）",
+    "message": "每个知识点生成的题数",
     "description": "aiAssistantzh.json"
   },
   "selectQNum": {
@@ -3669,6 +3669,146 @@
   },
   "noQuestion": {
     "message": "题目不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestion": {
+    "message": "其他问题",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestionTip": {
+    "message": "系统正在升级，敬请期待！",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePage": {
+    "message": "生成单页",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGenerateSinglePage": {
+    "message": "AI生成单页",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageRequirements": {
+    "message": "单页要求",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirements": {
+    "message": "请输入生成单页的要求",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleLabel": {
+    "message": "示例：",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleSingleChoice": {
+    "message": "生成1道关于人工智能的单选题",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleCase": {
+    "message": "生成1个关于人工智能的案例",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentEdit": {
+    "message": "单页内容编辑",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePageContent": {
+    "message": "生成单页内容",
+    "description": "aiAssistantzh.json"
+  },
+  "insertPPT": {
+    "message": "插入PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "insertBefore": {
+    "message": "页前插入",
+    "description": "aiAssistantzh.json"
+  },
+  "insertAfter": {
+    "message": "页后插入",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirementsError": {
+    "message": "请输入单页要求",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentRequired": {
+    "message": "单页内容不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "inserting": {
+    "message": "插入中...",
+    "description": "aiAssistantzh.json"
+  },
+  "insertSuccess": {
+    "message": "插入成功",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageLimitError": {
+    "message": "AI生成单页不能超过10个",
+    "description": "aiAssistantzh.json"
+  },
+  "themeGeneration": {
+    "message": "主题生成",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc": {
+    "message": "可上传教学大纲、教材等文档，提高生成的PPT的准确性",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHere": {
+    "message": "拖拽文件到此处、",
+    "description": "aiAssistantzh.json"
+  },
+  "pptUploadFormat": {
+    "message": "文档支持word、pdf格式，图片支持png，jpg, gif，jpeg，bmp格式",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHereToUpload": {
+    "message": "将文件拖拽到此处上传",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGeneration": {
+    "message": "大纲生成",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutline": {
+    "message": "内容大纲",
+    "description": "aiAssistantzh.json"
+  },
+  "generate": {
+    "message": "生成",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc2": {
+    "message": "粘贴或输入参考大纲，提高生成的PPT的准确性",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineRequired": {
+    "message": "内容大纲不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineLimit30000": {
+    "message": "内容大纲不能超过30000字",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDescribe": {
+    "message": "根据主题或大纲智能生成PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeNameGeneratePPT": {
+    "message": "输入主题名称生成PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pasteOrEnterOutlineGeneratePPT": {
+    "message": "粘贴或输入参考大纲生成PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "recentlyGenerated": {
+    "message": "最近生成",
+    "description": "aiAssistantzh.json"
+  },
+  "viewMore": {
+    "message": "查看更多",
     "description": "aiAssistantzh.json"
   }
 }
