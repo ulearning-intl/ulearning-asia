@@ -3548,7 +3548,7 @@
     "description": "aiAssistantzh.json"
   },
   "selectQNumTip": {
-    "message": "（每个知识点生成的题数）",
+    "message": "每个知识点生成的题数",
     "description": "aiAssistantzh.json"
   },
   "selectQNum": {
@@ -3813,6 +3813,14 @@
   },
   "singlePageContentLengthError": {
     "message": "单页内容不能超过2000字",
+    "description": "aiAssistantzh.json"
+  },
+  "cozeAgent": {
+    "message": "扣子智能体",
+    "description": "aiAssistantzh.json"
+  },
+  "noSdkPermission": {
+    "message": "未授权API / Chat SDK",
     "description": "aiAssistantzh.json"
   }
 }

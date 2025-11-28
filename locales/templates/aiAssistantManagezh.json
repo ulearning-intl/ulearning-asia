@@ -2224,7 +2224,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "totalDuration": {
-    "message": "总时长(分钟)",
+    "message": "总时长",
     "description": "aiAssistantManagezh.json"
   },
   "enterDailyAvailable": {
@@ -4369,6 +4369,210 @@
   },
   "manageQuestionAnswerGroupsInAccount": {
     "message": "管理当前账号下问答对分组",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterIntelligentReviewTotal": {
+    "message": "请输入智能审核总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentReviewNumberRequired": {
+    "message": "智能审核总余量必须为数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterIntelligentReviewDaily": {
+    "message": "请输入智能审核每日余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCozeAgent": {
+    "message": "添加扣子智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cozeAgent": {
+    "message": "扣子智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "systemDescription": {
+    "message": "系统支持深度接入扣子智能体，以便在教学中统一调用，实现运行数据的汇总统计。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageInstructions": {
+    "message": "使用说明>>",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appAuthorization": {
+    "message": "应用授权",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationStep1": {
+    "message": "点击下方按钮，登录你的扣子账号，授权系统访问智能体所属工作空间。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizeNow": {
+    "message": "去授权",
+    "description": "aiAssistantManagezh.json"
+  },
+  "interfaceAuthorization": {
+    "message": "接口授权",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationDescription": {
+    "message": "输入扣子账号ID，授权系统通过扣子官方接口调用工作空间中的智能体。个人版用户，请输入用户UID（在扣子平台【账号设置】中查看，路径：头像 > 账号设置 > UID）。企业/团队版用户，请输入组织ID（由企业超级管理员或管理员在【企业设置】中查看，路径：组织管理 > 企业设置 > 基础信息 > 组织ID）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterCozeId": {
+    "message": "输入扣子ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "idRequirements": {
+    "message": "1~200字符，仅支持数字",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nextStep": {
+    "message": "下一步",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationFailed": {
+    "message": "授权验证失败！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failureHint": {
+    "message": "请检查应用授权是否完成，或扣子ID是否正确。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workspace": {
+    "message": "工作空间：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unauthorizedSpace": {
+    "message": "当前空间未获得授权",
+    "description": "aiAssistantManagezh.json"
+  },
+  "switchSpaceHint": {
+    "message": "请切换其它空间，或{link}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAuthorizationScope": {
+    "message": "修改授权的空间范围>>",
+    "description": "aiAssistantManagezh.json"
+  },
+  "added": {
+    "message": "已添加",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unpublishedChatSdk": {
+    "message": "未发布Chat SDK",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishRequirement": {
+    "message": "在扣子中发布智能体时，发布平台需包括【Chat SDK】，才能被系统调用。操作方法请查看{link}。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageNote": {
+    "message": "使用说明",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit": {
+    "message": "每次最多添加10个",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit1": {
+    "message": "至少选择一个",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorization": {
+    "message": "取消授权",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationHint": {
+    "message": "取消授权后，已添加的扣子智能体将不能再通过系统免登录访问，但在系统中产生的访问数据仍然可以查看。确定取消授权吗",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationSuccess": {
+    "message": "授权成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationSuccess": {
+    "message": "取消授权成功",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationFail": {
+    "message": "取消授权失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCozeAgent": {
+    "message": "删除扣子智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteHint": {
+    "message": "扣子智能体删除后，已产生的访问数据将从系统中同步删除（扣子平台原始数据不会受影响）。确定删除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginAgentSystem": {
+    "message": "登录智能体系统",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature1": {
+    "message": "开通后允许机构教师、管理员用户登录进入智能体系统。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature2": {
+    "message": "开通后显示智能体广场入口，并支持将AI助手发布到智能体广场展示",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature3": {
+    "message": "开通后可在个人空间添加扣子智能体；团队空间暂不支持。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "demoVersion": {
+    "message": "当前版本仅供演示，正式机构不开通！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noAuthUrl": {
+    "message": "暂无授权链接",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agent": {
+    "message": "智能体",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip1": {
+    "message": "token无效，请刷新页面重试",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip2": {
+    "message": "参数错误，请重试",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip3": {
+    "message": "接口错误，请重试",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ideologicalApp": {
+    "message": "思政应用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigStandard": {
+    "message": "AI工具配置（标品）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigIdeological": {
+    "message": "AI工具配置（思政）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "singleAddResourceLimit": {
+    "message": "单次添加资源不能超过50条",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceQueueLimit": {
+    "message": "添加资源总数不能超过200条",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cozeAgentTip": {
+    "message": "提示：只能添加已发布的智能体类型应用；在扣子平台发布智能体时，发布渠道请注意勾选【Chat SDK】，否则智能体接入后将不能正常访问。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "retrievalRange": {
+    "message": "检索范围",
     "description": "aiAssistantManagezh.json"
   }
 }
