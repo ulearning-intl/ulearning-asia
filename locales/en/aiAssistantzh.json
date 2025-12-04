@@ -1508,7 +1508,7 @@
     "description": "aiAssistantzh.json"
   },
   "dailyUsageTip": {
-    "message": "You can use the PPT generator 5 times a day",
+    "message": "You can use the PPT generator {count} times a day",
     "description": "aiAssistantzh.json"
   },
   "autoGeneratePPT": {
@@ -2709,6 +2709,1106 @@
   },
   "generateKnowledge": {
     "message": "Generate Knowledge Graph",
+    "description": "aiAssistantzh.json"
+  },
+  "generating1": {
+    "message": "Generating...",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerate": {
+    "message": "Re-Generate",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "Previous",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "Next",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "Generate knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "generateQuestions": {
+    "message": "Generate questions",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "Save Knowledge Graph",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "Add Child",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "Enter knowledge point name",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "Are you sure you want to re-generate?",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSaveKnowledgeFirst": {
+    "message": "Please save the knowledge point first",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointLimitExceeded": {
+    "message": "The total number of knowledge points cannot exceed 200; please delete some knowledge points first.",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmLeaveWithoutSaving": {
+    "message": "Leaving now will not save the generated content. Are you sure you want to leave?",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints": {
+    "message": "Number of knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "startGeneratingQuestions": {
+    "message": "Start generating questions",
+    "description": "aiAssistantzh.json"
+  },
+  "questionGenerationPrompt": {
+    "message": "Click the button to automatically generate related quiz questions for each knowledge point. If not needed, click [Next] to skip this step.",
+    "description": "aiAssistantzh.json"
+  },
+  "difficultyLevel": {
+    "message": "Difficulty: {level}",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "Easy",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "Average",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "Very difficult",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "Knowledge point:",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "Progress: ",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "Current knowledge point: ",
+    "description": "aiAssistantzh.json"
+  },
+  "totalQuestionsNums": {
+    "message": "{n} questions in total",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "Generating…",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmStopGenerating": {
+    "message": "Stop and end question generation. Are you sure you want to stop?",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmReturnWithoutSaving": {
+    "message": "Go back to the previous step, the generated questions will not be saved. Are you sure you want to go back?",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointNameWithCount": {
+    "message": "Knowledge Point Name ({n})",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeType": {
+    "message": "Node type",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "Knowledge unit",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "Number of questions",
+    "description": "aiAssistantzh.json"
+  },
+  "createAndSaveGraph": {
+    "message": "Create and save the graph",
+    "description": "aiAssistantzh.json"
+  },
+  "savingGraph": {
+    "message": "Saving the graph, please do not close the page...",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "Failed to save!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveFailed": {
+    "message": "Failed to save the graph. Please try again later!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveSuccess": {
+    "message": "Knowledge graph saved successfully",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccess": {
+    "message": "Knowledge graph created successfully!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewGraph": {
+    "message": "View graph",
+    "description": "aiAssistantzh.json"
+  },
+  "manageGraph": {
+    "message": "Manage Graph",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccessDesc": {
+    "message": "The graph has been successfully created. You can also {manageGraph} or {returnToHome}.",
+    "description": "aiAssistantzh.json"
+  },
+  "returnToHome": {
+    "message": "Return to homepage",
+    "description": "aiAssistantzh.json"
+  },
+  "stopGenerating": {
+    "message": "Stop generating",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGraphGeneration": {
+    "message": "AI-generated map",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraphGenerationDesc": {
+    "message": "Intelligently generating knowledge graphs based on knowledge base",
+    "description": "aiAssistantzh.json"
+  },
+  "graphName": {
+    "message": "KG Title",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "Click to enter the title",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevel": {
+    "message": "Graph hierarchy",
+    "description": "aiAssistantzh.json"
+  },
+  "includeRootNode": {
+    "message": "(including root node)",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints1": {
+    "message": "Total number of knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "Please select",
+    "description": "aiAssistantzh.json"
+  },
+  "startGenerate": {
+    "message": "Start generating",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameRequired": {
+    "message": "The knowledge graph name cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameLength": {
+    "message": "The graph name must be between 1 and 200 characters long.",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevelRequired": {
+    "message": "The graph hierarchy cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePointsRequired": {
+    "message": "The total number of knowledge points cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "Multiple Choice",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "Multiple Answers",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "True/False",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgePointsTip": {
+    "message": "If the selected knowledge point contains sub-level knowledge points, they will be deleted as well. Are you sure you want to delete?",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeNameLength": {
+    "message": "The knowledge point name must be between 1 and 200 characters long.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLimitExceeded": {
+    "message": "Today's quota has been exhausted",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyGenerationLimit": {
+    "message": "You can generate diagrams {count} times per day",
+    "description": "aiAssistantzh.json"
+  },
+  "dragDocHere": {
+    "message": "Drag and drop the document here to upload",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint1": {
+    "message": "Note: Smart grading is applicable to individual assignments and quizzes/exams containing short-answer questions that are scored by teachers. The grading scope includes answer texts and images/documents (pdf/word/txt) in attachments. Attachments in other formats are currently not supported for automatic grading.",
+    "description": "aiAssistantzh.json"
+  },
+  "submit": {
+    "message": "Submit",
+    "description": "aiAssistantzh.json"
+  },
+  "report": {
+    "message": "Report",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouSatisfied": {
+    "message": "What do you think makes you satisfied?",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouDissatisfied": {
+    "message": "What do you think made you dissatisfied?",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackPlaceholder": {
+    "message": "(Tell us more about your experience, optional)",
+    "description": "aiAssistantzh.json"
+  },
+  "noReplyAvailable": {
+    "message": "No reply yet",
+    "description": "aiAssistantzh.json"
+  },
+  "textbookKnowledgeNoContent": {
+    "message": "No relevant content within the scope of the textbook knowledge.",
+    "description": "aiAssistantzh.json"
+  },
+  "reportPlaceholder": {
+    "message": "We want to know the reason for your report; you can describe the issue you encountered.",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectFeedbackType": {
+    "message": "Please select feedback type",
+    "description": "aiAssistantzh.json"
+  },
+  "thankYouForFeedback": {
+    "message": "Thank you for your feedback.",
+    "description": "aiAssistantzh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "Harmful/Unsafe",
+    "description": "aiAssistantzh.json"
+  },
+  "pornographicVulgar": {
+    "message": "Pornographic and vulgar",
+    "description": "aiAssistantzh.json"
+  },
+  "abuseAttack": {
+    "message": "Abusive attack",
+    "description": "aiAssistantzh.json"
+  },
+  "illegalCriminal": {
+    "message": "illegal and criminal acts",
+    "description": "aiAssistantzh.json"
+  },
+  "privacyRelated": {
+    "message": "Privacy-related",
+    "description": "aiAssistantzh.json"
+  },
+  "infringeCopyright": {
+    "message": "infringing upon my copyright, right of reputation, etc.",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackOther": {
+    "message": "Others",
+    "description": "aiAssistantzh.json"
+  },
+  "contentAccurate": {
+    "message": "Accurate content",
+    "description": "aiAssistantzh.json"
+  },
+  "easyToUnderstand": {
+    "message": "Easy to understand",
+    "description": "aiAssistantzh.json"
+  },
+  "contentComplete": {
+    "message": "Content improvement",
+    "description": "aiAssistantzh.json"
+  },
+  "falseInformation": {
+    "message": "False information",
+    "description": "aiAssistantzh.json"
+  },
+  "notHelpful": {
+    "message": "Not helpful",
+    "description": "aiAssistantzh.json"
+  },
+  "addquestion": {
+    "message": "Add to question bank",
+    "description": "aiAssistantzh.json"
+  },
+  "addcourseware": {
+    "message": "Add to courseware",
+    "description": "aiAssistantzh.json"
+  },
+  "deepThinking": {
+    "message": "Deep thinking",
+    "description": "aiAssistantzh.json"
+  },
+  "input": {
+    "message": "Input",
+    "description": "aiAssistantzh.json"
+  },
+  "output": {
+    "message": "Output",
+    "description": "aiAssistantzh.json"
+  },
+  "AiAPP": {
+    "message": "AI application",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistant": {
+    "message": "Seminar Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChat": {
+    "message": "AI Chat",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistantInfo": {
+    "message": "In a seminar-style classroom, AI can serve as an assistant to groups, helping record discussion content and summarize the outcomes of discussions.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChatInfo": {
+    "message": "AI serves as a classroom assistant, capable of interacting with teachers and students, answering questions, and enlivening the classroom atmosphere.",
+    "description": "aiAssistantzh.json"
+  },
+  "moreApp": {
+    "message": "More Apps ",
+    "description": "aiAssistantzh.json"
+  },
+  "putAway": {
+    "message": "Collapse",
+    "description": "aiAssistantzh.json"
+  },
+  "breakAgent": {
+    "message": "Interrupt the assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDevelopment": {
+    "message": "Knowledge Expansion",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeExplanation": {
+    "message": "Presenting Content",
+    "description": "aiAssistantzh.json"
+  },
+  "solvingSteps": {
+    "message": "Solution steps",
+    "description": "aiAssistantzh.json"
+  },
+  "mindMap": {
+    "message": "Mind mapping",
+    "description": "aiAssistantzh.json"
+  },
+  "answer1": {
+    "message": "Answer:",
+    "description": "aiAssistantzh.json"
+  },
+  "answerStep": {
+    "message": "Explaination: ",
+    "description": "aiAssistantzh.json"
+  },
+  "showAnswerAndStep": {
+    "message": "Show answer and analysis",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip1": {
+    "message": "Based on the above content, explain the main knowledge contained within it",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip2": {
+    "message": "Please provide some extended knowledge explanation based on the content above",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip3": {
+    "message": "Please create some related test questions based on the above content",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip4": {
+    "message": "Please explain how to solve this problem and list the brief steps for answering.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip5": {
+    "message": "Generate a mind map from the above content",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip6": {
+    "message": "Describe the content in the image",
+    "description": "aiAssistantzh.json"
+  },
+  "code": {
+    "message": "code",
+    "description": "aiAssistantzh.json"
+  },
+  "toAgentSquare": {
+    "message": "Go to the Agent Square",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAi": {
+    "message": "Ask AI with a screenshot",
+    "description": "aiAssistantzh.json"
+  },
+  "teamCreate": {
+    "message": "Team building",
+    "description": "aiAssistantzh.json"
+  },
+  "outsideShare": {
+    "message": "External courseware",
+    "description": "aiAssistantzh.json"
+  },
+  "uploading": {
+    "message": "Uploading...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzing": {
+    "message": "Parsing...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzingTip": {
+    "message": "Please wait until the parsing is complete before sending",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocTip": {
+    "message": "Only {n} documents can be uploaded at a time",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocMaxTip": {
+    "message": "The number of uploaded documents cannot exceed the maximum limit of {n}",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgSizeTip": {
+    "message": "The size of a single image must not exceed {n}MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocSizeTip": {
+    "message": "The size of a single document must not exceed {n}MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFile": {
+    "message": "Upload document",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip1": {
+    "message": "Supports png, jpg, jpeg, gif, bmp, up to 8 images, each up to 10M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTip": {
+    "message": "Supports word, pdf, txt, ppt, pptx, up to 10 files, each with a maximum size of 20M",
+    "description": "aiAssistantzh.json"
+  },
+  "aiQuestionTip": {
+    "message": "AI-generated questions do not currently support image uploads",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTotalTip": {
+    "message": "Only {n} files can be uploaded at a time",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadAttachment": {
+    "message": "Upload Attachment",
+    "description": "aiAssistantzh.json"
+  },
+  "webSearch": {
+    "message": "Web search",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "Lesson plan generation",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadLimit10Docs": {
+    "message": "You can upload up to 10 documents at a time",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatWordPdfOnly": {
+    "message": "Only Word and PDF format documents are allowed to be uploaded",
+    "description": "aiAssistantzh.json"
+  },
+  "docSizeLimit512M": {
+    "message": "The maximum size for uploading a document cannot exceed 512M",
+    "description": "aiAssistantzh.json"
+  },
+  "viewLessonPlan": {
+    "message": "View lesson plan",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordLessonPlan": {
+    "message": "Download Word lesson plan",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentEmpty": {
+    "message": "The lesson plan content is empty",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlan": {
+    "message": "Lesson plan",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordFailed": {
+    "message": "Failed to download Word",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadFailedRetry": {
+    "message": "Download failed, please try again",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLessonPlanGenerationLimit": {
+    "message": "You can use the lesson plan generation {count} times per day",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanByTheme": {
+    "message": "Intelligently generate lesson plans based on the topic",
+    "description": "aiAssistantzh.json"
+  },
+  "topicName": {
+    "message": "Theme Name",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicName": {
+    "message": "Enter topic name",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendedTopics": {
+    "message": "Recommended topics:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeTopics": {
+    "message": "Change it",
+    "description": "aiAssistantzh.json"
+  },
+  "studentGrade": {
+    "message": "Student education level",
+    "description": "aiAssistantzh.json"
+  },
+  "selectGrade": {
+    "message": "Select educational stage",
+    "description": "aiAssistantzh.json"
+  },
+  "subject": {
+    "message": "subject",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSubject": {
+    "message": "Select Subject",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContent": {
+    "message": "Lesson plan content",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmDeleteLessonPlanModule": {
+    "message": "Are you sure you want to delete the lesson plan module \"{contentTitle}\"?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteLessonPlanModule": {
+    "message": "Delete the lesson plan module",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleLimit20": {
+    "message": "The number of lesson plan modules cannot exceed 20.",
+    "description": "aiAssistantzh.json"
+  },
+  "addLessonPlanModule": {
+    "message": "Add lesson plan module",
+    "description": "aiAssistantzh.json"
+  },
+  "enterLessonPlanModuleName": {
+    "message": "Please enter the lesson plan module name",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleNameLimit200": {
+    "message": "The lesson plan module name must not exceed 200 characters.",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModel": {
+    "message": "Large model",
+    "description": "aiAssistantzh.json"
+  },
+  "selectLargeModel": {
+    "message": "Select a large model",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterials": {
+    "message": "Reference materials",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterialsDesc": {
+    "message": "Documents such as syllabi and textbooks can be uploaded to improve the accuracy of lesson plan generation.",
+    "description": "aiAssistantzh.json"
+  },
+  "otherRequirements": {
+    "message": "Other requirements",
+    "description": "aiAssistantzh.json"
+  },
+  "enterOtherRequirements": {
+    "message": "Please enter other requirements",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanOneClick": {
+    "message": "Generate lesson plan with one click",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameRequired": {
+    "message": "Subject name is required",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameLimit200": {
+    "message": "The subject name cannot exceed 200 characters.",
+    "description": "aiAssistantzh.json"
+  },
+  "gradeRequired": {
+    "message": "Grade level is required",
+    "description": "aiAssistantzh.json"
+  },
+  "subjectRequired": {
+    "message": "Subject is required",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentRequired": {
+    "message": "The lesson plan content is required.",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelRequired": {
+    "message": "Large model is required",
+    "description": "aiAssistantzh.json"
+  },
+  "saving": {
+    "message": "Saving...",
+    "description": "aiAssistantzh.json"
+  },
+  "save": {
+    "message": "Save",
+    "description": "aiAssistantzh.json"
+  },
+  "replace": {
+    "message": "Replace",
+    "description": "aiAssistantzh.json"
+  },
+  "insert": {
+    "message": "Insert",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCommandForTextOptimization": {
+    "message": "Please enter the instruction to optimize the text",
+    "description": "aiAssistantzh.json"
+  },
+  "polish": {
+    "message": "polish",
+    "description": "aiAssistantzh.json"
+  },
+  "expand": {
+    "message": "expand",
+    "description": "aiAssistantzh.json"
+  },
+  "condense": {
+    "message": "Abbreviation",
+    "description": "aiAssistantzh.json"
+  },
+  "rewriteFailed": {
+    "message": "Rewrite failed, please try again",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGenerationFailed": {
+    "message": "Lesson plan generation failed, please try again",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanSaved": {
+    "message": "The lesson plan has been saved",
+    "description": "aiAssistantzh.json"
+  },
+  "imagePreview": {
+    "message": "Image Preview",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimit5M": {
+    "message": "The file size must not exceed 5 MB.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterContent": {
+    "message": "Input content...",
+    "description": "aiAssistantzh.json"
+  },
+  "allRepository": {
+    "message": "All knowledge bases",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyStuTip": {
+    "message": "No student data available",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelMust": {
+    "message": "Essential Large Model",
+    "description": "aiAssistantzh.json"
+  },
+  "question2": {
+    "message": "Title",
+    "description": "aiAssistantzh.json"
+  },
+  "notSupportAiMark": {
+    "message": "This attachment does not support smart grading",
+    "description": "aiAssistantzh.json"
+  },
+  "view": {
+    "message": "View",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip1": {
+    "message": "The results of the grading test will not be saved.",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip2": {
+    "message": "Confirm that the scoring results meet expectations before choosing to start scoring.",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip3": {
+    "message": "Grading test failed",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadMarkdown": {
+    "message": "Download Markdown lesson plan",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnalysis": {
+    "message": "File parsing...",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadText": {
+    "message": "Download lesson plan",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestion": {
+    "message": "Smart question generation",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestionDesc": {
+    "message": "Intelligently generate questions based on knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "inputKnowledgePoint": {
+    "message": "Enter knowledge point",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgePoint": {
+    "message": "Select knowledge point",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointNameTip": {
+    "message": "Please enter the knowledge point name and press Enter to confirm",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestionType": {
+    "message": "Please select question type",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocumentHint": {
+    "message": "Documents such as textbooks and knowledge point explanations can be uploaded to improve the accuracy of question generation.",
+    "description": "aiAssistantzh.json"
+  },
+  "mediaFileNote": {
+    "message": "Note: Audio and video files are optional if they have subtitle files only.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectedKnowledgePointsCount": {
+    "message": "You have selected {n} knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "saveToQuestionBank": {
+    "message": "Save to question bank",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSaveDirectory": {
+    "message": "Select save directory",
+    "description": "aiAssistantzh.json"
+  },
+  "saveDescription": {
+    "message": "The generated questions will be saved to the selected question bank directory.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNumTip": {
+    "message": "Number of questions generated per knowledge point",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNum": {
+    "message": "Please select the number of questions",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip": {
+    "message": "The selected knowledge points will be automatically tagged on the generated questions.",
+    "description": "aiAssistantzh.json"
+  },
+  "noPoints": {
+    "message": "No knowledge points available",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeGraphTip": {
+    "message": "Please select a knowledge graph",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Knowledge Graph:",
+    "description": "aiAssistantzh.json"
+  },
+  "add": {
+    "message": "Add",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip1": {
+    "message": "Please select the knowledge points",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip2": {
+    "message": "The maximum number of knowledge points is {n}.",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsRequired": {
+    "message": "Knowledge node cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsTips": {
+    "message": "The knowledge point cannot exceed 200 characters.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeRequired": {
+    "message": "Question type is required",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNumRequired": {
+    "message": "The number of questions is required",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRequired": {
+    "message": "Large model not configured, please contact the administrator.",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestion": {
+    "message": "Saving the question, please do not close the page...",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestionFailed": {
+    "message": "Failed to save the question, please try again later!",
+    "description": "aiAssistantzh.json"
+  },
+  "questionSaved": {
+    "message": "The question has been saved successfully!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewQBank": {
+    "message": "View question bank",
+    "description": "aiAssistantzh.json"
+  },
+  "creationQSuccessDesc": {
+    "message": "The question has been saved successfully. You can also {viewQBank} or {returnToHome}",
+    "description": "aiAssistantzh.json"
+  },
+  "all": {
+    "message": "All",
+    "description": "aiAssistantzh.json"
+  },
+  "shareFolder": {
+    "message": "Shared Folders",
+    "description": "aiAssistantzh.json"
+  },
+  "selectFolderDesc": {
+    "message": "The generated questions will be saved to the selected question bank directory.",
+    "description": "aiAssistantzh.json"
+  },
+  "targetFolder": {
+    "message": "Please select a folder",
+    "description": "aiAssistantzh.json"
+  },
+  "pointNameTip": {
+    "message": "The knowledge point name cannot exceed {n} characters",
+    "description": "aiAssistantzh.json"
+  },
+  "allTypes": {
+    "message": "All types",
+    "description": "aiAssistantzh.json"
+  },
+  "imageText": {
+    "message": "Graphic and text",
+    "description": "aiAssistantzh.json"
+  },
+  "other": {
+    "message": "Other",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceName": {
+    "message": "Resource Name",
+    "description": "aiAssistantzh.json"
+  },
+  "currentPosition": {
+    "message": "Current Position: ",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnTip": {
+    "message": "File parsing...",
+    "description": "aiAssistantzh.json"
+  },
+  "noQuestion": {
+    "message": "The question title cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestion": {
+    "message": "Other questions",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestionTip": {
+    "message": "The system is under upgrade. Stay tuned!",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePage": {
+    "message": "Generate a single page",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGenerateSinglePage": {
+    "message": "Ai-generated single pages",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageRequirements": {
+    "message": "Single-page requirements",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirements": {
+    "message": "Please enter the requirements for generating a single page",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleLabel": {
+    "message": "Example:",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleSingleChoice": {
+    "message": "Generate 1 single-choice question about artificial intelligence",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleCase": {
+    "message": "Generate one case about artificial intelligence",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentEdit": {
+    "message": "Single-page content editing",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePageContent": {
+    "message": "Generate single-page content",
+    "description": "aiAssistantzh.json"
+  },
+  "insertPPT": {
+    "message": "Insert PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "insertBefore": {
+    "message": "Insert at the front of the page",
+    "description": "aiAssistantzh.json"
+  },
+  "insertAfter": {
+    "message": "Insert at the back of the page",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirementsError": {
+    "message": "Please enter the single-page requirements",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentRequired": {
+    "message": "The content on a single page cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "inserting": {
+    "message": "Inserted...",
+    "description": "aiAssistantzh.json"
+  },
+  "insertSuccess": {
+    "message": "Inserted successfully",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageLimitError": {
+    "message": "The number of pages generated by AI cannot exceed 10",
+    "description": "aiAssistantzh.json"
+  },
+  "themeGeneration": {
+    "message": "Topic generation",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc": {
+    "message": "You can upload teaching syllabuses, textbooks and other documents to improve the accuracy of the generated PPTS",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHere": {
+    "message": "Drag the file here",
+    "description": "aiAssistantzh.json"
+  },
+  "pptUploadFormat": {
+    "message": "Documents are supported in word and pdf formats, and images are supported in png, jpg, gif, jpeg and bmp formats",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHereToUpload": {
+    "message": "Drag the file here to upload",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGeneration": {
+    "message": "Outline generation",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutline": {
+    "message": "Content outline",
+    "description": "aiAssistantzh.json"
+  },
+  "generate": {
+    "message": "Generated",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc2": {
+    "message": "Paste or input the reference outline to improve the accuracy of the generated PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineRequired": {
+    "message": "The content outline cannot be empty",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineLimit30000": {
+    "message": "The content outline should not exceed 30,000 words",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDescribe": {
+    "message": "Intelligently generate PPTS based on the theme or outline",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeNameGeneratePPT": {
+    "message": "Enter the theme name to generate a PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pasteOrEnterOutlineGeneratePPT": {
+    "message": "Paste or input the reference outline to generate a PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "recentlyGenerated": {
+    "message": "Recently generated",
+    "description": "aiAssistantzh.json"
+  },
+  "viewMore": {
+    "message": "View more",
     "description": "aiAssistantzh.json"
   }
 }
