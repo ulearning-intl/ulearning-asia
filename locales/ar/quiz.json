@@ -655,6 +655,10 @@
     "message": "حفظ الإجابات",
     "description": "测验 zh.json"
   },
+  "baoCunDaTiJiLuChengGong": {
+    "message": "حفظ سجل الردود بنجاح",
+    "description": "测验 zh.json"
+  },
   "baoCunPingFen": {
     "message": "احفظ التقييم",
     "description": "测验 zh.json"
@@ -851,6 +855,10 @@
     "message": "إذا غادرت في هذا الوقت ، فلن يحفظ النظام سجل الإجابة.<br/>هل أنت متأكد من إيقاف تشغيله؟",
     "description": "测验 zh.json"
   },
+  "ciShiLiKaiZiDongBaoCun": {
+    "message": "إذا غادرت الآن، سيقوم النظام بحفظ سجل الإجابات تلقائيًا.<br/>هل أنت متأكد من العودة؟",
+    "description": "测验 zh.json"
+  },
   "clozeQuestion": {
     "message": "إغلق الامتحان",
     "description": "测验 zh.json"
@@ -1021,6 +1029,10 @@
   },
   "fanHuiXiuGai": {
     "message": "تعديل العودة",
+    "description": "测验 zh.json"
+  },
+  "fen": {
+    "message": "النقاط",
     "description": "测验 zh.json"
   },
   "fenXiBaoGao": {
@@ -1459,6 +1471,10 @@
     "message": "في حالة وجود نافذة منبثقة لحظر المتصفح، اختر السماح دائما بالنوافذ المنبثقة لموقع الويب.",
     "description": "测验 zh.json"
   },
+  "saoMaQianMing": {
+    "message": "مسح الرمز السريع للتوقيع",
+    "description": "测验 zh.json"
+  },
   "shanChu": {
     "message": "حذف",
     "description": "测验 zh.json"
@@ -1649,6 +1665,10 @@
   },
   "tuiChu": {
     "message": "تسجيل الخروج",
+    "description": "测验 zh.json"
+  },
+  "tuiChuCeYanHouXiTongJiangZiDong": {
+    "message": "بعد الخروج من الاختبار، سيقوم النظام بحفظ سجل إجابات الاختبار تلقائيًا، هل أنت متأكد من الخروج؟",
     "description": "测验 zh.json"
   },
   "tuiChuPiYue": {
@@ -1865,6 +1885,150 @@
   },
   "zaiCiDaTi": {
     "message": "أجب عن السؤال مرة أخرى",
+    "description": "测验 zh.json"
+  },
+  "zanBuLiKai": {
+    "message": "لا تغادر بعد",
+    "description": "测验 zh.json"
+  },
+  "zanBuTiJiao": {
+    "message": "لم يتم الإرسال في الوقت الحالي",
+    "description": "测验 zh.json"
+  },
+  "zanWuTiMuQingXianQuTiK": {
+    "message": "لا يوجد موضوع حتى الآن ، يرجى الذهاب إلى بنك الأسئلة لاختيار الموضوع أولا",
+    "description": "测验 zh.json"
+  },
+  "zanWuXueShengTiJiaoZuoY": {
+    "message": "لم يقدم أي طالب واجبات",
+    "description": "测验 zh.json"
+  },
+  "zhanBi": {
+    "message": "النسبه المئويه",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAn": {
+    "message": "الإجابة الصحيحة:",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAnArrayisarrayqu": {
+    "message": "الإجابة الصحيحة: {0}",
+    "description": "测验 zh.json"
+  },
+  "zhengQueShuai": {
+    "message": "معدل الدقة",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiLuYinDianJiTing": {
+    "message": "جار التسجيل، انقر للإيقاف المؤقت",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiShengChengDaTiJi": {
+    "message": "إنشاء سجلات الإجابات ...",
+    "description": "测验 zh.json"
+  },
+  "zhongLu": {
+    "message": "سجل مرة أخرى",
+    "description": "测验 zh.json"
+  },
+  "zhongTuTuiChuXiTongBuBa": {
+    "message": "اخرج من النظام في منتصف الطريق دون حفظ سجل الإجابة ، يرجى إرساله ثم إغلاق الصفحة.",
+    "description": "测验 zh.json"
+  },
+  "zhongXie": {
+    "message": "أعد كتابة",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS": {
+    "message": "لا تقتصر عمليات إعادة الكتابة على عدد عمليات الإرسال ووقت الاختبار. عندما يطلب المعلم إعادة الكتابة ، لا يزال بإمكان الطلاب الإرسال حتى إذا تم استنفاد عدد التقديمات ، أو إذا انتهى الاختبار.<br/> <br/>هل أنت متأكد من أنك تريد {0} إعادة الكتابة؟",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS-0": {
+    "message": "لا تقتصر عمليات إعادة الكتابة على عدد عمليات الإرسال ووقت الاختبار. عندما يطلب المعلم إعادة الكتابة ، لا يزال بإمكان الطلاب الإرسال حتى إذا تم استنفاد عدد التقديمات ، أو إذا انتهى الاختبار. <br/>هل أنت متأكد من أنك تريد {0} إعادة الكتابة؟",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFen": {
+    "message": "إعادة التسجيل",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFenShiBai": {
+    "message": "فشل إعادة التسجيل",
+    "description": "测验 zh.json"
+  },
+  "zhongXinShangChuan": {
+    "message": "إعادة رفع",
+    "description": "测验 zh.json"
+  },
+  "zhongZuo": {
+    "message": "إعادة القيام به",
+    "description": "测验 zh.json"
+  },
+  "zhuYiCeYanZhongRuGuoBao": {
+    "message": "ملاحظة: ستحتاج الاختبارات التي تحتوي على أسئلة ذاتية ليتم تقديرها إلى انتظار موافقة المعلم قبل إرسالها مرة أخرى.",
+    "description": "测验 zh.json"
+  },
+  "zhuZhongXinPingFenBuHui": {
+    "message": "ملاحظة: لن تؤثر إعادة التقدير على تقديرات الأسئلة التي تم تقديرها يدويا مثل أسئلة الإجابات القصيرة. املأ الأسئلة الفارغة وأنواع الأسئلة الأخرى التي تدعم تسجيل النظام، إذا كنت قد راجعت النظام يدويا بالفعل، فستقوم إعادة تقدير النظام بالكتابة فوق سجل المراجعة اليدوي، يرجى استخدامه بحذر.",
+    "description": "测验 zh.json"
+  },
+  "zongFen": {
+    "message": "مجموع الدرجات",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFen": {
+    "message": "أدنى درجة",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFenLowest_0": {
+    "message": "الحد الأدنى من الدرجات: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuanThisfilenu": {
+    "message": "تحميل ما يصل إلى {0} مرفقا",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuan_5GeFuJi": {
+    "message": "تحميل ما يصل إلى 5 مرفقات",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTi": {
+    "message": "يمكنك اختيار ما يصل إلى 200 سؤال",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu": {
+    "message": "يمكنك اختيار ما يصل إلى 200 سؤال",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu-0": {
+    "message": "حدد ما يصل إلى {0} أسئلة",
+    "description": "测验 zh.json"
+  },
+  "zuiGao": {
+    "message": "أعلى",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFen": {
+    "message": "أعلى درجة",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenHighest_0": {
+    "message": "أعلى الدرجات: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenSubmitresponsemaxg": {
+    "message": "الحد الأقصى للدرجات: {0} نقطة",
+    "description": "测验 zh.json"
+  },
+  "zuiHouYiCiTiJiaoHou": {
+    "message": "آخر إرسال",
+    "description": "测验 zh.json"
+  },
+  "zuoYeBiaoTiBuNengChaoGu": {
+    "message": "لا يمكن أن يتجاوز عنوان الواجب 200 حرف (حوالي 100 حرف صيني)",
+    "description": "测验 zh.json"
+  },
+  "zuoYeYaoQiuBuNengChaoGu": {
+    "message": "لا يمكن أن تتجاوز متطلبات الوظيفة 5000 حرف",
     "description": "测验 zh.json"
   }
 }
