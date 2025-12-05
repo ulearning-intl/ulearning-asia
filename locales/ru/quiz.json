@@ -598,5 +598,1437 @@
   "analysis.text26": {
     "message": "Подробности вопросов",
     "description": "测验 zh.json"
+  },
+  "0QuestionscoreFen": {
+    "message": "(0~{0} баллов)",
+    "description": "测验 zh.json"
+  },
+  "anBanJiMingChengSouSuo": {
+    "message": "Поиск по названию класса",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiDaoXu": {
+    "message": "Рассортировать по очкам",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiZhengXu": {
+    "message": "Прямо по очкам",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoDaoXu": {
+    "message": "Переверните в порядке названия",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoZhengXu": {
+    "message": "Прямо по названию",
+    "description": "测验 zh.json"
+  },
+  "analysisByStuMaxGrade": {
+    "message": "Статистика по ответам студентов с самым высоким баллом",
+    "description": "测验 zh.json"
+  },
+  "answerdatafullgradeFen": {
+    "message": "{0} балл",
+    "description": "测验 zh.json"
+  },
+  "banJi": {
+    "message": "Класс",
+    "description": "测验 zh.json"
+  },
+  "baoCun": {
+    "message": "сохранить",
+    "description": "测验 zh.json"
+  },
+  "baoCunBingQieHuanXiaYiG": {
+    "message": "Сохранить и переключить на следующий",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGao": {
+    "message": "сохранить черновик",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGaoChengGong": {
+    "message": "Черновик сохранен",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLu": {
+    "message": "Сохранить запись ответов",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLuChengGong": {
+    "message": "Успешная запись ответов",
+    "description": "测验 zh.json"
+  },
+  "baoCunPingFen": {
+    "message": "Сохранить оценивание",
+    "description": "测验 zh.json"
+  },
+  "baoCunZhong": {
+    "message": "Сохранение...",
+    "description": "测验 zh.json"
+  },
+  "beiZhuFeiBiTianBuChaoGu": {
+    "message": "Дополнение: не более 200 символов, не обязательно",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanFenZhiFeiBai": {
+    "message": "Этот тест не содержит процентов, и вы можете продолжать выпускать тесты. Если необходимо изменить значение названия, пожалуйста, выберите изменение значения.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng": {
+    "message": "Этот тест был представлен студентами, которые позволили только изменить оценку предмета. Если необходимо изменить содержание или ответы на вопросы, пожалуйста, измени их в библиотеке.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng-0": {
+    "message": "В этом тесте уже есть отправки от студентов. Разрешены только изменения баллов за вопросы. Если нужно исправить содержание вопросов или ответы, внесите изменения в банке вопросов.<br/>После изменения вопросов или баллов используйте функцию 【Пересчет баллов】 для повторной оценки работ уже подавших студентов.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYunXuTiJiaoT": {
+    "message": "Данный тест допускает {0} попыток отправки, осталось <span style=\"font-weight: bold;color: #ea5947;\">{1}</span> попыток. <br/>Вы уверены, что хотите отправить?",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJi": {
+    "message": "Текущая оценка:",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJiChangegrade": {
+    "message": "Результат за этот раз: {0}",
+    "description": "测验 zh.json"
+  },
+  "blanksQuestion": {
+    "message": "заполнение пробела",
+    "description": "测验 zh.json"
+  },
+  "boFang": {
+    "message": "воспроизводить",
+    "description": "测验 zh.json"
+  },
+  "buGongBu": {
+    "message": "не объявлять",
+    "description": "测验 zh.json"
+  },
+  "buZhiChiGaiLeiXingWenJi": {
+    "message": "Этот тип файла не поддерживается",
+    "description": "测验 zh.json"
+  },
+  "canKaoDaAn": {
+    "message": "Эталон ответа:",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi": {
+    "message": "участвовать в классе",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi-0": {
+    "message": "Участвовать в Классах:",
+    "description": "测验 zh.json"
+  },
+  "caoZuo": {
+    "message": "операция",
+    "description": "测验 zh.json"
+  },
+  "caoZuoChengGong": {
+    "message": "Операция выполнена успешно!",
+    "description": "测验 zh.json"
+  },
+  "ceYan": {
+    "message": "Тест",
+    "description": "测验 zh.json"
+  },
+  "ceYanChengJi": {
+    "message": "Оценка теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanGaiKuang": {
+    "message": "Обзор теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuHou": {
+    "message": "после завершения Теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuShiJianBuNen": {
+    "message": "Время окончания теста не может быть раньше времени начала",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai": {
+    "message": "Если вы измените вопросы или баллы после запуска теста, используйте эту функцию, чтобы оценить результаты студентов снова.",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai-0": {
+    "message": "Тест начинается с того, что при изменении названия или подсчёта, используя эту функцию, можно переоценить уже представленных студентов. Пожалуйста, выберите тему, которая требует пересмотра:",
+    "description": "测验 zh.json"
+  },
+  "ceYanMingChengBuNengChao": {
+    "message": "Название теста не может превышать 200 символов (около 100 иероглифов)",
+    "description": "测验 zh.json"
+  },
+  "ceYanSheZhi": {
+    "message": "Настройки теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian": {
+    "message": "Время теста:",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian-0": {
+    "message": "Время теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanTiMu": {
+    "message": "Вопросы теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanXiangQing": {
+    "message": "Подробности теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanXinXi": {
+    "message": "Информация для теста",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiu": {
+    "message": "Требования к тесту",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiuBuNengChaoGu": {
+    "message": "Тест требует не более 5000 символов",
+    "description": "测验 zh.json"
+  },
+  "chaKan": {
+    "message": "Просмотр",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaAn": {
+    "message": "Проверь ответы",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaTiJiLu": {
+    "message": "Проверить запись ответа",
+    "description": "测验 zh.json"
+  },
+  "chaKanTiMu": {
+    "message": "Проверь тему",
+    "description": "测验 zh.json"
+  },
+  "chaKanXiangQing": {
+    "message": "Посмотреть подробности >>",
+    "description": "测验 zh.json"
+  },
+  "chaZhaoXueSheng": {
+    "message": "Поиск студента",
+    "description": "测验 zh.json"
+  },
+  "changAnTiMuTuoDongPaiXu": {
+    "message": "Длинношерстяной порядок по теме",
+    "description": "测验 zh.json"
+  },
+  "changAnTuoDongXuanXiang": {
+    "message": "* длинное нажать на тягу",
+    "description": "测验 zh.json"
+  },
+  "chaoGuo_200mDeFuJianQing": {
+    "message": "Более 200M приложения, пожалуйста, загружайте с компьютера",
+    "description": "测验 zh.json"
+  },
+  "chengJi": {
+    "message": "оценка:",
+    "description": "测验 zh.json"
+  },
+  "chengJi-0": {
+    "message": "оценка",
+    "description": "测验 zh.json"
+  },
+  "chengJiDaoXu": {
+    "message": "Перевёрнутые оценки",
+    "description": "测验 zh.json"
+  },
+  "chengJiFenBu": {
+    "message": "Распределение оценок",
+    "description": "测验 zh.json"
+  },
+  "chengJiZhengXu": {
+    "message": "Все в порядке",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiXiTongJiangBu": {
+    "message": "Если вы выйдете сейчас, система не сохранит записи о ваших ответах.<br/>Подтвердите закрытие?",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiZiDongBaoCun": {
+    "message": "Если вы выйдете сейчас, система автоматически сохранит текущие ответы. <br/>Вы уверены, что хотите вернуться?",
+    "description": "测验 zh.json"
+  },
+  "clozeQuestion": {
+    "message": "Заполнение пробела",
+    "description": "测验 zh.json"
+  },
+  "completedRate": {
+    "message": "Процент выполнения",
+    "description": "测验 zh.json"
+  },
+  "comprehensiveQuestion": {
+    "message": "Комплексное задание",
+    "description": "测验 zh.json"
+  },
+  "congBenJiXuanZe": {
+    "message": "Выбрать из локального",
+    "description": "测验 zh.json"
+  },
+  "daAn": {
+    "message": "Ответ:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian": {
+    "message": "время объявления ответа:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian-0": {
+    "message": "Время объявления Ответов",
+    "description": "测验 zh.json"
+  },
+  "daAnWeiGongBu": {
+    "message": "Ответ не объявлен",
+    "description": "测验 zh.json"
+  },
+  "daDuiRenShu": {
+    "message": "Количество ответивших верно",
+    "description": "测验 zh.json"
+  },
+  "daHuiZhongXie": {
+    "message": "Отклонить и отправить на переделку",
+    "description": "测验 zh.json"
+  },
+  "daTi": {
+    "message": "ответить",
+    "description": "测验 zh.json"
+  },
+  "daTiJiLu": {
+    "message": "Запись ответов",
+    "description": "测验 zh.json"
+  },
+  "daTiKa": {
+    "message": "Карточка с ответами",
+    "description": "测验 zh.json"
+  },
+  "daTiXiangQing": {
+    "message": "Детали ответа",
+    "description": "测验 zh.json"
+  },
+  "daiPiYue": {
+    "message": "Задания на проверке",
+    "description": "测验 zh.json"
+  },
+  "daiPingFen": {
+    "message": "ожидает оценивания",
+    "description": "测验 zh.json"
+  },
+  "daoChu": {
+    "message": "Экспортировать",
+    "description": "测验 zh.json"
+  },
+  "daoChuChengJi": {
+    "message": "Экспорт оценок",
+    "description": "测验 zh.json"
+  },
+  "daoChuShiJianKeNengJiao": {
+    "message": "Экспорт может занять много времени, пожалуйста, ждите.",
+    "description": "测验 zh.json"
+  },
+  "daoChuXiangQing": {
+    "message": "Экспортировать подробности",
+    "description": "测验 zh.json"
+  },
+  "deFen": {
+    "message": "Оценка：",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai": {
+    "message": "Процент правильных ответов:",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai-0": {
+    "message": "Процентный балл",
+    "description": "测验 zh.json"
+  },
+  "deFenShuaiHandleanswerQues": {
+    "message": "Процент правильных ответов: {0}",
+    "description": "测验 zh.json"
+  },
+  "diHomeworkanswertimesCiTiJ": {
+    "message": "После {0}-й отправки",
+    "description": "测验 zh.json"
+  },
+  "diHomeworksturecordlistlength": {
+    "message": "{1} после {0}-й отправки",
+    "description": "测验 zh.json"
+  },
+  "diSturecordlistlengthIndexC": {
+    "message": "{0}-й раз",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiDaAnChaoGuo_1000": {
+    "message": "Ответ на вопрос {0} превышает 10000 символов!",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiHuanMeiYouPiYue": {
+    "message": "Вопрос {0} ещё не проверен. Вы действительно хотите завершить проверку?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiPingFenQueDi": {
+    "message": "Вопрос {0} ещё не оценён. Вы уверены, что хотите сохранить?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiZuoDaQueDing": {
+    "message": "На вопрос {0} ещё не дан ответ. Вы уверены, что хотите отправить?",
+    "description": "测验 zh.json"
+  },
+  "di_1CiTiJiaoHou": {
+    "message": "После подачи 1 раз",
+    "description": "测验 zh.json"
+  },
+  "dianJiKaiShiLuYin": {
+    "message": "Нажмите, чтобы начать аудиозапись",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin": {
+    "message": "*Нажмите на значок, чтобы начать запись",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin-0": {
+    "message": "*Нажмите на значок, чтобы начать запись",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoShengChengLu": {
+    "message": "*Нажмите на значок, чтобы создать аудиозапись",
+    "description": "测验 zh.json"
+  },
+  "dropdownQuestion": {
+    "message": "Выпадающий список",
+    "description": "测验 zh.json"
+  },
+  "duoCiTiJiaoQuZuiGaoFen": {
+    "message": "Множественные подачи. Высший балл.",
+    "description": "测验 zh.json"
+  },
+  "faBu": {
+    "message": "опубликовать",
+    "description": "测验 zh.json"
+  },
+  "faBuCeYan": {
+    "message": "Опубликовать Тест",
+    "description": "测验 zh.json"
+  },
+  "faBuChengGong": {
+    "message": "Опубликовано успешно",
+    "description": "测验 zh.json"
+  },
+  "fanHui": {
+    "message": "вернуться",
+    "description": "测验 zh.json"
+  },
+  "fanHuiXiuGai": {
+    "message": "вернутьсяИзменить",
+    "description": "测验 zh.json"
+  },
+  "fen": {
+    "message": "балл",
+    "description": "测验 zh.json"
+  },
+  "fenXiBaoGao": {
+    "message": "аналитический отчёт",
+    "description": "测验 zh.json"
+  },
+  "fenZhi": {
+    "message": "Точки:",
+    "description": "测验 zh.json"
+  },
+  "fenZhiXuZai_1100ZhiJianK": {
+    "message": "Значение должно быть в пределах 1-100, допускается одна цифра после запятой",
+    "description": "测验 zh.json"
+  },
+  "formulaQuestion": {
+    "message": "Задачи с вычислениями по формулам",
+    "description": "测验 zh.json"
+  },
+  "fuJianZuiDuoShangChuanTh": {
+    "message": "Можно загрузить не более {0} вложений",
+    "description": "测验 zh.json"
+  },
+  "fuZhiCeYan": {
+    "message": "Копировать тест",
+    "description": "测验 zh.json"
+  },
+  "fuZhiChengGong": {
+    "message": "Скопировано успешно",
+    "description": "测验 zh.json"
+  },
+  "geBanShiJianBuTong": {
+    "message": "Разное время для разных классов",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouCeYanDuYiP": {
+    "message": "Поздравляем, все тесты успешно проверены!",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouXueShengDuY": {
+    "message": "Поздравляем, все работы студентов проверены.",
+    "description": "测验 zh.json"
+  },
+  "guanBi": {
+    "message": "Закрывать",
+    "description": "测验 zh.json"
+  },
+  "handlenumitemscoreFen": {
+    "message": "({0} баллов)",
+    "description": "测验 zh.json"
+  },
+  "huiDaCuoWu": {
+    "message": "Неправильный ответ!",
+    "description": "测验 zh.json"
+  },
+  "huiDaZhengQue": {
+    "message": "Правильный ответ!",
+    "description": "测验 zh.json"
+  },
+  "huiFang": {
+    "message": "Воспроизведение",
+    "description": "测验 zh.json"
+  },
+  "itemnum_0Ren": {
+    "message": "{0} человек",
+    "description": "测验 zh.json"
+  },
+  "itemsubquestionslengthXiaoTi": {
+    "message": "({0} вопросов, всего {1} баллов)",
+    "description": "测验 zh.json"
+  },
+  "jiXuDaTi": {
+    "message": "Продолжить отвечать",
+    "description": "测验 zh.json"
+  },
+  "jiXuFaBu": {
+    "message": "Продолжить публикацию",
+    "description": "测验 zh.json"
+  },
+  "jiXuPiYue": {
+    "message": "Продолжить проверку",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian": {
+    "message": "Окончание:",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian-0": {
+    "message": "Окончание",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJianBuNengZaoY": {
+    "message": "Окончание не может быть раньше времени начала",
+    "description": "测验 zh.json"
+  },
+  "jieXi": {
+    "message": "Пояснение:",
+    "description": "测验 zh.json"
+  },
+  "jinHangZhong": {
+    "message": "Текущий",
+    "description": "测验 zh.json"
+  },
+  "jinKeGuanTiDanXuanDuoXu": {
+    "message": "Только объективные задания (задание с выбором одного ответа, множественный выбор, суждение, сортировка, заполните_пропуски, заполнение пропусков, задание с выбором одного ответа)",
+    "description": "测验 zh.json"
+  },
+  "jinXianShiYiTiJiaoDeXue": {
+    "message": "Отображать только студентов, которые выполнили подачу. Нажмите 'Обновить'",
+    "description": "测验 zh.json"
+  },
+  "jingDu": {
+    "message": "Точность: {0}",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaTi": {
+    "message": "Начать отвечать",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaoChu": {
+    "message": "Начать экспорт",
+    "description": "测验 zh.json"
+  },
+  "kaiShiPingFen": {
+    "message": "Начать оценивание",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian": {
+    "message": "время начала:",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian-0": {
+    "message": "время начала",
+    "description": "测验 zh.json"
+  },
+  "kaoShengDaAn": {
+    "message": "Ответ экзаменуемого：",
+    "description": "测验 zh.json"
+  },
+  "kaoShengLuYin": {
+    "message": "Аудиозапись экзаменуемого：",
+    "description": "测验 zh.json"
+  },
+  "kaoShengWeiDaTi": {
+    "message": "Экзаменуемый не дал ответ",
+    "description": "测验 zh.json"
+  },
+  "keChengZhongYiCunZaiXian": {
+    "message": "В курсе уже существует задание с таким же названием. Пожалуйста, измените название теста",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa": {
+    "message": "После выхода при повторном входе потребуется отвечать заново. Вы уверены, что хотите выйти?",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa-0": {
+    "message": "После выхода при повторном входе потребуется заново выполнять проверку. Вы уверены, что хотите выйти?",
+    "description": "测验 zh.json"
+  },
+  "liShiZuiGaoFen": {
+    "message": "самый высокий результат в истории:",
+    "description": "测验 zh.json"
+  },
+  "luYin": {
+    "message": "Аудиозапись",
+    "description": "测验 zh.json"
+  },
+  "luYinZhongDianJiBoWenTi": {
+    "message": "Нажмите на волну, чтобы остановить воспроизведение аудиозаписи",
+    "description": "测验 zh.json"
+  },
+  "manFen": {
+    "message": "максимальный балл",
+    "description": "测验 zh.json"
+  },
+  "manFen-0": {
+    "message": "Полные оценки:",
+    "description": "测验 zh.json"
+  },
+  "meiGeBanJiFenKaiSheZhi": {
+    "message": "Установить отдельно для каждого класса",
+    "description": "测验 zh.json"
+  },
+  "meiYiCiTiJiaoHou": {
+    "message": "После каждой отправки",
+    "description": "测验 zh.json"
+  },
+  "meiYouDaiPingFenDeTiMu": {
+    "message": "Нет вопросов, которые нужно оценить",
+    "description": "测验 zh.json"
+  },
+  "meiYouNeiRong": {
+    "message": "Нет контента",
+    "description": "测验 zh.json"
+  },
+  "meiYouZhaoDaoFuHeTiaoJi": {
+    "message": "Не найдено ни одного контента, отвечающего заданным условиям",
+    "description": "测验 zh.json"
+  },
+  "moRenPaiXu": {
+    "message": "сортировка по умолчанию",
+    "description": "测验 zh.json"
+  },
+  "multipleQuestion": {
+    "message": "Множественного выбора",
+    "description": "测验 zh.json"
+  },
+  "oralReadQuestion": {
+    "message": "устный тест на чтение",
+    "description": "测验 zh.json"
+  },
+  "oralSubjectQuestion": {
+    "message": "Субъективный вопрос по устной речи",
+    "description": "测验 zh.json"
+  },
+  "paiZhao": {
+    "message": "Фотографировать",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi": {
+    "message": "Массовое изменение баллов",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi-0": {
+    "message": "Массовое изменение баллов",
+    "description": "测验 zh.json"
+  },
+  "piYue": {
+    "message": "проверка",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong": {
+    "message": "Проверка успешна!",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong-0": {
+    "message": "Проверка успешна",
+    "description": "测验 zh.json"
+  },
+  "piYueWanChengHouXueSheng": {
+    "message": "После проверки студенты могут снова отправлять задания.",
+    "description": "测验 zh.json"
+  },
+  "piYueZhuangTaiXiaJinXian": {
+    "message": "В режиме оценки отображаются только задания на проверке.",
+    "description": "测验 zh.json"
+  },
+  "pingFen": {
+    "message": "Оценка：",
+    "description": "测验 zh.json"
+  },
+  "pingFen-0": {
+    "message": "оценивание",
+    "description": "测验 zh.json"
+  },
+  "pingFenHaoShiKeNengJiao": {
+    "message": "Оценивание может занять некоторое время. Система будет обрабатывать данные в фоновом режиме, проверьте, пожалуйста, результаты переоценивания немного позже.",
+    "description": "测验 zh.json"
+  },
+  "pingJunFen": {
+    "message": "Средний балл",
+    "description": "测验 zh.json"
+  },
+  "pingJunFenAverage_0": {
+    "message": "Средний балл: {0}",
+    "description": "测验 zh.json"
+  },
+  "pingYu": {
+    "message": "Отзыв:",
+    "description": "测验 zh.json"
+  },
+  "qingDaKaiShouJiQuanXian": {
+    "message": "открыть право мобильного телефона",
+    "description": "测验 zh.json"
+  },
+  "qingDengDaiJiaoShiPiYue": {
+    "message": "Пожалуйста, подождите проверки учителем",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiCeYanShiJian": {
+    "message": "Установите время теста",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiJieShuShiJian": {
+    "message": "Задайте время окончания",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiKaiShiShiJian": {
+    "message": "Настройте время начала",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiShiJian": {
+    "message": "Настройте время",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanBiaoTi": {
+    "message": "Введите заголовок Теста",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanMingCheng": {
+    "message": "Введите название теста",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuDaTiCiShu": {
+    "message": "Введите количество попыток",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuYunXuTiJiaoCi": {
+    "message": "Введите допустимое количество отправок",
+    "description": "测验 zh.json"
+  },
+  "qingShuRu_0thisquestionscore": {
+    "message": "Введите значение 0-{0}, допускается одна цифра после запятой",
+    "description": "测验 zh.json"
+  },
+  "qingTianXieYunXuTiJiaoC": {
+    "message": "Пожалуйста, укажите допустимое количество отправок",
+    "description": "测验 zh.json"
+  },
+  "qingTianXie_1100DeZhengSh": {
+    "message": "Пожалуйста, введите целое число в диапазоне 1-100",
+    "description": "测验 zh.json"
+  },
+  "qingXieXiaNiDeDaAn": {
+    "message": "Пожалуйста, напишите ваш ответ",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZe": {
+    "message": "Выберите",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJi": {
+    "message": "Выберите класс",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJiHouSheZh": {
+    "message": "Выберите класс, затем установите время теста",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeCeYanJieShuSh": {
+    "message": "Пожалуйста, выберите время окончания теста",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeShiJian": {
+    "message": "Выберите время",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeTiMu": {
+    "message": "Пожалуйста, выберите тему",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeXuYaoZhongXin": {
+    "message": "Выберите тип вопроса, который необходимо оценить снова:",
+    "description": "测验 zh.json"
+  },
+  "quTiKuXuanTi": {
+    "message": "Перейти в банк вопросов для выбора вопросов",
+    "description": "测验 zh.json"
+  },
+  "quXiao": {
+    "message": "Отменить",
+    "description": "测验 zh.json"
+  },
+  "quXiaoZhongXie": {
+    "message": "Отменить",
+    "description": "测验 zh.json"
+  },
+  "quanBu": {
+    "message": "все",
+    "description": "测验 zh.json"
+  },
+  "quanBuBanJi": {
+    "message": "Все классы",
+    "description": "测验 zh.json"
+  },
+  "quanBuJiaoShi": {
+    "message": "Все учителя",
+    "description": "测验 zh.json"
+  },
+  "quanXuan": {
+    "message": "Выбрать все",
+    "description": "测验 zh.json"
+  },
+  "queDing": {
+    "message": "Подтвердите",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKai": {
+    "message": "Подтвердите, что уйти",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKaiMa": {
+    "message": "Вы уверены, что хотите выйти?",
+    "description": "测验 zh.json"
+  },
+  "queDingQuXiaoMa": {
+    "message": "Вы уверены, что хотите отменить?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCeYanMa": {
+    "message": "Вы уверены, что хотите удалить тест?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCiTiMa": {
+    "message": "Подтвердите удаление вопроса?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuTiMuMa": {
+    "message": "Вы уверены, что хотите удалить вопрос?",
+    "description": "测验 zh.json"
+  },
+  "queDingTiJiao": {
+    "message": "Подтвердите подачу?",
+    "description": "测验 zh.json"
+  },
+  "questionrecordanswerWordcount": {
+    "message": "{0} слово",
+    "description": "测验 zh.json"
+  },
+  "questionrecordscore_0Fen": {
+    "message": "+{0} баллов",
+    "description": "测验 zh.json"
+  },
+  "questionscoreFen": {
+    "message": "({0} баллов)",
+    "description": "测验 zh.json"
+  },
+  "renShu": {
+    "message": "Численность",
+    "description": "测验 zh.json"
+  },
+  "ruGuoTiMuZhongBaoHanXu": {
+    "message": "Если в вопросах есть субъективные вопросы, требующие ручной оценки, учитель",
+    "description": "测验 zh.json"
+  },
+  "ruYuLiuLanQiLanJieDanC": {
+    "message": "Если Браузер блокирует всплывающие окна, Выберите всегда разрешать всплывающие окна веб-сайта.",
+    "description": "测验 zh.json"
+  },
+  "saoMaQianMing": {
+    "message": "Подпись с помощью сканирования QR-кода",
+    "description": "测验 zh.json"
+  },
+  "shanChu": {
+    "message": "удалить",
+    "description": "测验 zh.json"
+  },
+  "shanChuCeYan": {
+    "message": "Удалить тест",
+    "description": "测验 zh.json"
+  },
+  "shanChuChengGong": {
+    "message": "Удаление прошло успешно",
+    "description": "测验 zh.json"
+  },
+  "shanChuTiMu": {
+    "message": "удалить вопросы",
+    "description": "测验 zh.json"
+  },
+  "shangChuanFuJianDaXiaoZh": {
+    "message": "Размер загружаемого файла может быть только {0}",
+    "description": "测验 zh.json"
+  },
+  "shangChuanShiBai": {
+    "message": "Ошибка загрузки",
+    "description": "测验 zh.json"
+  },
+  "shangYiCiPingFenChuLiZh": {
+    "message": "Предыдущее оценивание находится в обработке, пожалуйста, проверьте позже",
+    "description": "测验 zh.json"
+  },
+  "shangYiTi": {
+    "message": "Предыдущий вопрос",
+    "description": "测验 zh.json"
+  },
+  "shangYiYe": {
+    "message": "Предыдущая страница",
+    "description": "测验 zh.json"
+  },
+  "shengYuDaTiCiShu": {
+    "message": "Оставшееся количество попыток:",
+    "description": "测验 zh.json"
+  },
+  "shengYuHomeworkanswertimesH": {
+    "message": "Осталось {0} попыток для ответа",
+    "description": "测验 zh.json"
+  },
+  "shengYuTiJiaoCiShu": {
+    "message": "Остаток подач:",
+    "description": "测验 zh.json"
+  },
+  "shortAnswerQuestion": {
+    "message": "Вопрос с кратким ответом",
+    "description": "测验 zh.json"
+  },
+  "shuRuCeYanYaoQiu": {
+    "message": "Введите требования к тесту",
+    "description": "测验 zh.json"
+  },
+  "shuRuFenZhi": {
+    "message": "ввод балла",
+    "description": "测验 zh.json"
+  },
+  "shuRuNeiRong": {
+    "message": "Введите контент",
+    "description": "测验 zh.json"
+  },
+  "shuRuPingYuFeiBiTian": {
+    "message": "оставляйте отзыв, необязательно",
+    "description": "测验 zh.json"
+  },
+  "shuRuXueShengXueHaoHuoX": {
+    "message": "Введите номер учащегося или имя",
+    "description": "测验 zh.json"
+  },
+  "shuRuZuoYeYaoQiu": {
+    "message": "Введите требования к домашней работе",
+    "description": "测验 zh.json"
+  },
+  "shunXuKeHuHuan": {
+    "message": "* Порядок можно изменять",
+    "description": "测验 zh.json"
+  },
+  "singleQuestion": {
+    "message": "вопрос с выбором одного варианта ответа",
+    "description": "测验 zh.json"
+  },
+  "sortQuestion": {
+    "message": "упорядочивание",
+    "description": "测验 zh.json"
+  },
+  "souSuo": {
+    "message": "поиск",
+    "description": "测验 zh.json"
+  },
+  "suoYouZhiChiZhongXinPing": {
+    "message": "Все типы вопросов, поддерживающие повторное оценивание (включая объективные вопросы, которые описаны выше, а также вопросы с заполнением пробелов и вопросы на устное чтение)",
+    "description": "测验 zh.json"
+  },
+  "testinfoquizhomeworkbaseinfodt": {
+    "message": "{0} раз",
+    "description": "测验 zh.json"
+  },
+  "tiJiao": {
+    "message": "Подача",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoChengGong": {
+    "message": "Подача успешная",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShu": {
+    "message": "Количество отправок",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShuYingWei_1100D": {
+    "message": "Количество отправок должно быть целым числом в диапазоне 1-100",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJian": {
+    "message": "Срок сдачи",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianDaoXu": {
+    "message": "По убыванию времени отправки",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianHomeworkstuan": {
+    "message": "Время отправки: {0}",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianZhengXu": {
+    "message": "По возрастанию времени отправки",
+    "description": "测验 zh.json"
+  },
+  "tiMu": {
+    "message": "вопросы",
+    "description": "测验 zh.json"
+  },
+  "tiMuDeFenShuaiTongJi": {
+    "message": "Статистика оценки вопросов",
+    "description": "测验 zh.json"
+  },
+  "tiMuQu": {
+    "message": "Раздел вопросов",
+    "description": "测验 zh.json"
+  },
+  "tiMuXiangQing": {
+    "message": "Подробности вопросов",
+    "description": "测验 zh.json"
+  },
+  "tiShi": {
+    "message": "подсказка",
+    "description": "测验 zh.json"
+  },
+  "tiShu": {
+    "message": "Раздел Вопросы:",
+    "description": "测验 zh.json"
+  },
+  "tiShu-0": {
+    "message": "Количество вопросов",
+    "description": "测验 zh.json"
+  },
+  "tiXing": {
+    "message": "Тип вопроса",
+    "description": "测验 zh.json"
+  },
+  "tiXingChengGong": {
+    "message": "напоминание выполнено успешно",
+    "description": "测验 zh.json"
+  },
+  "tiXingXueShengJiaoZuoYe": {
+    "message": "напоминание Студенту о Домашней работе",
+    "description": "测验 zh.json"
+  },
+  "tianJiaBanJi": {
+    "message": "Добавить класс",
+    "description": "测验 zh.json"
+  },
+  "tianJiaFuJian": {
+    "message": "Добавить вложение",
+    "description": "测验 zh.json"
+  },
+  "tongYiSheZhi": {
+    "message": "Единые настройки",
+    "description": "测验 zh.json"
+  },
+  "trueOrFalseQuestion": {
+    "message": "Заявление истинности или ложности",
+    "description": "测验 zh.json"
+  },
+  "tuiChu": {
+    "message": "Выход",
+    "description": "测验 zh.json"
+  },
+  "tuiChuCeYanHouXiTongJiangZiDong": {
+    "message": "После выхода из теста система автоматически сохранит ответы. Вы уверены, что хотите выйти?",
+    "description": "测验 zh.json"
+  },
+  "tuiChuPiYue": {
+    "message": "Выход из проверки",
+    "description": "测验 zh.json"
+  },
+  "tuoDongXuanXiangPaiXu": {
+    "message": "*Перетащите варианты, чтобы изменить порядок",
+    "description": "测验 zh.json"
+  },
+  "unEvaluatedQuestionShowTips": {
+    "message": "отображать только вопросы для оценивания",
+    "description": "测验 zh.json"
+  },
+  "wanCheng": {
+    "message": "Завершить",
+    "description": "测验 zh.json"
+  },
+  "weiGongBu": {
+    "message": "Не объявлено",
+    "description": "测验 zh.json"
+  },
+  "weiKaiShi": {
+    "message": "не начался",
+    "description": "测验 zh.json"
+  },
+  "weiTiJiao": {
+    "message": "Не отправлено",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa": {
+    "message": "Нет ответа!",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa-0": {
+    "message": "Не ответил",
+    "description": "测验 zh.json"
+  },
+  "wenJianBuNengChaoGuo_500m": {
+    "message": "Размер файла не должен превышать 500MB",
+    "description": "测验 zh.json"
+  },
+  "woDeChengJi": {
+    "message": "Мои оценки",
+    "description": "测验 zh.json"
+  },
+  "woZhiDaoLe": {
+    "message": "Понял",
+    "description": "测验 zh.json"
+  },
+  "wordsBlanksQuestion": {
+    "message": "упражнение на выбор слов для заполнения пропусков",
+    "description": "测验 zh.json"
+  },
+  "wuChaFangWei": {
+    "message": "Диапазон погрешности: ±{0}",
+    "description": "测验 zh.json"
+  },
+  "xiaYiBu": {
+    "message": "следующий",
+    "description": "测验 zh.json"
+  },
+  "xiaYiFen": {
+    "message": "Следующий",
+    "description": "测验 zh.json"
+  },
+  "xiaYiTi": {
+    "message": "Следующий вопрос",
+    "description": "测验 zh.json"
+  },
+  "xiaYiYe": {
+    "message": "Следующая страница",
+    "description": "测验 zh.json"
+  },
+  "xiaZai": {
+    "message": "Скачать",
+    "description": "测验 zh.json"
+  },
+  "xiangCeQuanXianWeiDaKai": {
+    "message": "Право на доступ к альбому не предоставлено",
+    "description": "测验 zh.json"
+  },
+  "xiangQing": {
+    "message": "Подробнее >>",
+    "description": "测验 zh.json"
+  },
+  "xingMing": {
+    "message": "имя",
+    "description": "测验 zh.json"
+  },
+  "xiuGai": {
+    "message": "Изменить",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiCeYan": {
+    "message": "Редактировать тест",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiChengGong": {
+    "message": "Изменено успешно",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiFenZhi": {
+    "message": "Изменить баллы",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiTiMuHuoFenZhiHou": {
+    "message": "После изменения вопроса или баллов, пожалуйста, используйте функцию 【Повторное оценивание】 на странице проверки теста, чтобы заново оценить уже отправленные работы студентов",
+    "description": "测验 zh.json"
+  },
+  "xuZhongXie": {
+    "message": "Необходимо переписать",
+    "description": "测验 zh.json"
+  },
+  "xuanXiang": {
+    "message": "вариант",
+    "description": "测验 zh.json"
+  },
+  "xuanZeBanJi": {
+    "message": "Выберите класс",
+    "description": "测验 zh.json"
+  },
+  "xuanZeNianYueRiXiaoShi": {
+    "message": "выбрать год месяц день час",
+    "description": "测验 zh.json"
+  },
+  "xuanZePaiXu": {
+    "message": "Сортировка Приоритет",
+    "description": "测验 zh.json"
+  },
+  "xuanZeRenShu": {
+    "message": "Выбрать численность",
+    "description": "测验 zh.json"
+  },
+  "xuanZeWenJian": {
+    "message": "выбрать файл",
+    "description": "测验 zh.json"
+  },
+  "xuanZeXiangCe": {
+    "message": "Выбрать альбом",
+    "description": "测验 zh.json"
+  },
+  "xueHao": {
+    "message": "Номер учащегося",
+    "description": "测验 zh.json"
+  },
+  "xueHaoDaoXu": {
+    "message": "По убыванию номера студента",
+    "description": "测验 zh.json"
+  },
+  "xueHaoZhengXu": {
+    "message": "По возрастанию номера студента",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ": {
+    "message": "Студент может подать много раз, итоговый балл будет наивысший.",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ-0": {
+    "message": "Студент может отправлять работу несколько раз, итоговый результат будет засчитан по наивысшему баллу. Если в тесте есть субъективные вопросы, требующие ручной проверки, повторная отправка будет доступна только после завершения проверки преподавателем.",
+    "description": "测验 zh.json"
+  },
+  "yiDa": {
+    "message": "Отвечено:",
+    "description": "测验 zh.json"
+  },
+  "yiJieShu": {
+    "message": "завершённый",
+    "description": "测验 zh.json"
+  },
+  "yiPiYue": {
+    "message": "Проверенный",
+    "description": "测验 zh.json"
+  },
+  "yiPingFen": {
+    "message": "оцененный",
+    "description": "测验 zh.json"
+  },
+  "yiTiJiaoCiShuYunXuTiJi": {
+    "message": "Количество отправок / Разрешенное количество отправок",
+    "description": "测验 zh.json"
+  },
+  "yiXieContentWordcountZi": {
+    "message": "Уже написано {0} символов",
+    "description": "测验 zh.json"
+  },
+  "yongHuYiJuJueLuYinQuan": {
+    "message": "Пользователь отказал в праве на аудиозапись. Измените настройки и попробуйте снова",
+    "description": "测验 zh.json"
+  },
+  "yuLanTiMu": {
+    "message": "Предварительный просмотр вопросов",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiJiao": {
+    "message": "несвоевременная сдача",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiTiJiao": {
+    "message": "Просрочено, не отправлено",
+    "description": "测验 zh.json"
+  },
+  "yunXuDaTiCiShu": {
+    "message": "Допустимое количество попыток:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu": {
+    "message": "Разрешить количество отправок:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu-0": {
+    "message": "Количество разрешенных отправок",
+    "description": "测验 zh.json"
+  },
+  "zaiCiDaTi": {
+    "message": "Ответить ещё раз",
+    "description": "测验 zh.json"
+  },
+  "zanBuLiKai": {
+    "message": "Пока не выходите",
+    "description": "测验 zh.json"
+  },
+  "zanBuTiJiao": {
+    "message": "Пока не отправлять",
+    "description": "测验 zh.json"
+  },
+  "zanWuTiMuQingXianQuTiK": {
+    "message": "Пока нет вопросов, пожалуйста, сначала выберите их из банка заданий",
+    "description": "测验 zh.json"
+  },
+  "zanWuXueShengTiJiaoZuoY": {
+    "message": " пока нет подачи домашней работы студентов",
+    "description": "测验 zh.json"
+  },
+  "zhanBi": {
+    "message": "Удельный вес",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAn": {
+    "message": "Правильный ответ:",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAnArrayisarrayqu": {
+    "message": "Правильный ответ: {0}",
+    "description": "测验 zh.json"
+  },
+  "zhengQueShuai": {
+    "message": "процент правильных ответов",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiLuYinDianJiTing": {
+    "message": "Идёт запись, нажмите, чтобы остановить",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiShengChengDaTiJi": {
+    "message": "Генерируется запись ответов...",
+    "description": "测验 zh.json"
+  },
+  "zhongLu": {
+    "message": "Повторная запись",
+    "description": "测验 zh.json"
+  },
+  "zhongTuTuiChuXiTongBuBa": {
+    "message": "Если выйти из системы раньше, ответы не сохранятся. Отправьте их перед закрытием страницы",
+    "description": "测验 zh.json"
+  },
+  "zhongXie": {
+    "message": "Переписать",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS": {
+    "message": "Повторная отправка не ограничивается количеством попыток и временем проведения теста. Когда преподаватель требует повторную отправку, студент может отправить работу даже в случае, если все попытки уже использованы или тест уже завершён. <br/> <br/>Вы уверены, что хотите потребовать от {0} повторную отправку?",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS-0": {
+    "message": "Повторная отправка не ограничивается количеством попыток и временем проведения теста. Когда преподаватель требует повторной отправки, студент может отправить работу даже в случае, если все попытки уже использованы или тест уже завершён. <br/>Вы уверены, что хотите потребовать от {0} повторную отправку?",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFen": {
+    "message": "пересмотреть оценку",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFenShiBai": {
+    "message": "Не удалось пересмотреть оценку",
+    "description": "测验 zh.json"
+  },
+  "zhongXinShangChuan": {
+    "message": "Загрузить снова",
+    "description": "测验 zh.json"
+  },
+  "zhongZuo": {
+    "message": "Пересдача",
+    "description": "测验 zh.json"
+  },
+  "zhuYiCeYanZhongRuGuoBao": {
+    "message": "Внмание! Если в задании есть субъективные вопросы, требующие оценки, для повторной подачи необходимо дождаться проверки учителем.",
+    "description": "测验 zh.json"
+  },
+  "zhuZhongXinPingFenBuHui": {
+    "message": "Примечание: повторная оценка не повлияет на баллы за задания, которые оцениваются вручную (например, задания с кратким ответом). Для типов заданий, которые поддерживают автоматическую оценку (например, задания на заполнение пропусков), если они уже были проверены вручную, повторная оценка системой заменит записи ручной проверки. Пользуйтесь этой функцией с осторожностью.",
+    "description": "测验 zh.json"
+  },
+  "zongFen": {
+    "message": "Итоговая оценка:",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFen": {
+    "message": "Минимальный балл",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFenLowest_0": {
+    "message": "Минимальный балл: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuanThisfilenu": {
+    "message": "Можно загрузить не более {0} вложений",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuan_5GeFuJi": {
+    "message": "Можно загрузить не более 5 вложений",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTi": {
+    "message": "Можно выбрать не более 200 вопросов",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu": {
+    "message": "Можно выбрать не более 200 вопросов",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu-0": {
+    "message": "Можно выбрать не более {0} вопросов",
+    "description": "测验 zh.json"
+  },
+  "zuiGao": {
+    "message": "Максимальный",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFen": {
+    "message": "наивысший балл",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenHighest_0": {
+    "message": "Максимальный балл: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenSubmitresponsemaxg": {
+    "message": "Максимальный балл: {0} баллов",
+    "description": "测验 zh.json"
+  },
+  "zuiHouYiCiTiJiaoHou": {
+    "message": "последнее представление",
+    "description": "测验 zh.json"
+  },
+  "zuoYeBiaoTiBuNengChaoGu": {
+    "message": "Название задания не может превышать 200 символов (около 100 иероглифов)",
+    "description": "测验 zh.json"
+  },
+  "zuoYeYaoQiuBuNengChaoGu": {
+    "message": "Требования к заданию не могут превышать 5000 символов",
+    "description": "测验 zh.json"
   }
 }
