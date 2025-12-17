@@ -3311,6 +3311,26 @@
     "message": "切屏监控方式，至少选择一种",
     "description": "2.0 exam.js"
   },
+  "screenMonitorTips9": {
+    "message": "开启屏幕监控",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips10": {
+    "message": "（仅手机端考试生效，系统将自动截图记录考生行为）",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips11": {
+    "message": "累计检测异常次数达到{n}次后强制收卷",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips12": {
+    "message": "检测到异常后学生可通过备用验证码继续考试",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips13": {
+    "message": "开启后，系统会自动随机抓拍考生手机屏幕，教师可在监控台实时查看考生截图记录，识别悬浮窗等作弊行为。",
+    "description": "2.0 exam.js"
+  },
   "gradeTips9": {
     "message": "中途离开达到规定次数，系统强制交卷",
     "description": "2.0 exam.js"
@@ -3601,6 +3621,10 @@
   },
   "PCExe2": {
     "message": "锁屏客户端",
+    "description": "2.0 exam.js"
+  },
+  "H5": {
+    "message": "手机H5",
     "description": "2.0 exam.js"
   },
   "questionLevel": {
