@@ -1782,5 +1782,933 @@
   "getModelName": {
     "message": "Obter o nome do modelo para chamada de modelo",
     "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "Praça de aplicativos",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "Visitar agente em nova página",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "Ir para o agente",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "Ver tudo",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "Arraste para personalizar a ordem",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "Mais recente",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "Mais popular",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "Ainda não está aberto, fique atento",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "Voltar",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "Coletado",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "Coletar",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "Digite o nome do tópico para pesquisar",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "Todas as turmas",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "Para resolver problemas de geração de PPT em vários cenários, gere automaticamente com base no tema para melhorar a eficiência de criação de PPT.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "Suporta upload de documentos, perguntas e respostas baseadas no conteúdo do documento, geração de questões e nuvem de palavras.",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "Faça upload de uma imagem de fórmula manuscrita, suporta a extração da fórmula na imagem e conversão para código LaTeX.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "Clique para entrar",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "Centro de Competência IA",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "Aplicação Inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "Abrir Centro de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "Agente coletado",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "Mais",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "Assistente de IA em sala de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "Assistente de conversa IA",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "Assistente de conversa",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "Iniciando...",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "Sou o assistente de conversa",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "Estou ouvindo",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "Pausar",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "Parar",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "Fechar legendas",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "Fim da discussão",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "Assistente de P&R",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "Deixe a IA interpretar papéis específicos e ter conversas profundas com os alunos",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "Histórico de discussões",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "Pesquisa por captura de tela",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "Resposta por captura de tela",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "Agente de sala de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "Obter foto",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "Sair da sala",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "Iniciar voz do agente",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "Ver registro da discussão",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "Iniciar nova conversa",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "Gerenciamento de agentes",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "Iniciar agente",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "Você está mudo",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "Histórico de conversas",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "Nenhum histórico de conversa ainda",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "Resumo das opiniões dos alunos",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "Dimensões do pensamento",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "Vantagens",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "Pontos para melhoria adicional",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "Tempo de discussão: {num} minutos",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "Número de discussões: {num} vezes",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "Contagem de palavras: {num} palavras",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "Registro de diálogo",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "Revisão de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "Assistente de discussão",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "Aplicativo de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "IA Inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "Uma imagem está sendo carregada, tente novamente mais tarde",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "Apenas {n} imagens podem ser carregadas por vez",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "O tamanho da imagem não pode exceder {n}M",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "Este tipo de arquivo não é suportado",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "Este modelo grande não suporta imagens",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "Total de {num} itens",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "Fonte do conteúdo",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "IA está analisando, aguarde por favor",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "Selecionando recursos para você...",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "Diálogo de pré-visualização de recursos",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "Acessar este URL",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "Equipe do curso",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "Introdução do curso",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "Este arquivo não suporta pré-visualização online",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "Transcodificando, verifique mais tarde",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "Silenciar",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "Ativar som",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "Reproduzir",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "Tela cheia",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "Fechar",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Sem permissão de acesso",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Serviço não ativado, sem permissão de acesso",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "Por favor, faça login para visualizar",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "Fluxo de trabalho",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "Agentes que criei",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "Agentes que colecionei",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "Selecionar categoria",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "Redefinir",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "Elite do curso",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "Mestre das tarefas",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "Deus das provas",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "Rei do fórum",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "Jogador número 1 de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "Visitante misterioso",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "Ação potencial",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "Área de seca de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "Aluno com dificuldade de presença",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "Mestre da preguiça",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "Imune a tarefas",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "Na borda da reprovação",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "Espectador",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "Novato em IA",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "Visitou o curso {count} vezes",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "Nota média das tarefas {grade}, classificado em primeiro",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "Nota média das provas {grade}, classificado em primeiro",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "Postou {count} vezes no fórum, classificado em primeiro",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "Usou o assistente de IA {chatCount} vezes, ferramentas de IA {toolCount} vezes",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "Nota geral atual {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "Número de pontos de conhecimento abaixo de 60% de domínio: {count}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "Taxa média de presença em aula {rate}%",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "Duração do estudo do material {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "Nota média das tarefas {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "Nota média das provas {grade}",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "Postou {count} vezes no fórum",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "Todos os alunos",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "Digite o nome/ID do aluno para pesquisar",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "Não há mais dados",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "Nenhum conteúdo relacionado encontrado",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "Tarefas de aprendizagem",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "Domínio do conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "Desempenho em sala de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "Resultados da avaliação",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "Assistente de aprendizagem IA",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "Ponto de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "Taxa média de domínio",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "Bom domínio",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "Domínio geral",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "Domínio fraco",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "Não testado",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "Meta de habilidade",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "Taxa média de realização:",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "Pontos fracos de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "Ver detalhes",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "Este aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "e outros {num} pontos de conhecimento têm domínio fraco, por favor, preste atenção ao domínio do conhecimento do aluno em tempo hábil.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "Tipo de pergunta",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "Número de perguntas",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "Pergunta livre",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "Pergunta com instrução",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "Instruções comuns",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "Palavras-chave da pergunta",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "Classificação geral:",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "Taxa de registro",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "Presença",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "Registrado",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "Ausente",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "Licença médica",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "Licença pessoal",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "Atrasado",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "Saída antecipada",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "Interação em sala de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "Número de participações:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "Total de pontos:",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "Pontos",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "Votação",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "Resposta rápida",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "Selecionar pessoa",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "Avaliação",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "Upload de foto",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "Respondendo",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "Aprendizagem do material didático",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "Progresso da aprendizagem:",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "Tarefa/Prova",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "Número de conclusões:",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "Trocar aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "ID do aluno:",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "Turma:",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "Faculdade:",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "Exportar",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "Desempenho geral do curso",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "Não há dados para análise",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "Uso do assistente de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "Gerando PDF, aguarde por favor...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "Sistema de retrato do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "Relatório de retrato de aprendizagem do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "Não foi possível encontrar o conteúdo para exportar",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "PDF exportado com sucesso",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "Falha na exportação do PDF",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "Material didático:",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "Tarefa:",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "Prova:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "Assistente de IA:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "Ferramenta de IA:",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "vezes",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "Taxa de presença em sala de aula:",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "Taxa de participação em interação em sala de aula:",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "Taxa de domínio do conhecimento:",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "Taxa de realização da meta de habilidade:",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "Nota final:",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "Retrato inteligente do aluno, auxiliando o ensino personalizado",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "Ver todos os alunos",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "Deus da nota perfeita",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "Nota geral atual {grade}, classificado em {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "Mestre dos pontos de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "Número de pontos de conhecimento com domínio acima de 80%: {count}, classificado em {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "Estrela da sala de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "Total de pontos de interação em sala de aula {points}, classificado em primeiro",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "Rei da duração",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "Duração do estudo do material {time}, classificado em primeiro",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "Cronograma",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "Trabalho em grupo",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "Número de conclusões",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "Total",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "Retrato do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "Análise de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "Informações do retrato",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "A instituição atual não ativou os recursos de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "Você ainda não criou nenhum agente",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "Você ainda não criou nenhum agente, vá para a praça de agentes para criar seu agente exclusivo",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "A instituição atual não ativou este aplicativo/ferramenta de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "Design de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "Objetivos de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "Análise do aluno e do livro didático",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "Conteúdo de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "Métodos e meios de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "Processo de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "Tarefa e quadro-negro",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "Inovação e alfabetização",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "Objetivos claros e específicos, refletindo a alfabetização central da disciplina/integração tridimensional, em conformidade com os requisitos curriculares e a realidade dos alunos, considerando o desenvolvimento geral e individual.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "Compreende com precisão a base de conhecimento, o nível de habilidade e as características de aprendizagem dos alunos, antecipa dificuldades de aprendizagem e estabelece estratégias direcionadas. Explica claramente a posição do livro didático, a lógica do conhecimento e sua relação com o currículo, lida razoavelmente com o conteúdo de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "Pontos de conhecimento científicos e completos, pontos importantes destacados, dificuldades claras; seleção de material próxima aos alunos, considerando base e desenvolvimento, refletindo pensamento e métodos da disciplina.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "Métodos adequados às características da disciplina e cognição dos alunos, enfatizando inspiração e exploração; uso apropriado de meios (materiais didáticos, tecnologia, etc.), efetivamente superando pontos importantes e difíceis.",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "Design da sessão: etapas de introdução, novo ensino, prática, resumo, etc. completas, logicamente sequenciais, com distribuição razoável de tempo.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "Participação dos alunos: destaca o papel principal dos alunos, projeta atividades de exploração interativa, fornece feedback oportuno, lida com planejamento e geração.",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "Treinamento de habilidades: foco na orientação do pensamento da disciplina e métodos de aprendizagem, mostrando o processo de construção do conhecimento.",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "Design de tarefa em camadas e razoável, quantidade apropriada, formas diversas, conectado aos objetivos de ensino. Quadro-negro mostra claramente a estrutura do conhecimento; resumo delineia brevemente pontos importantes, guiando a reflexão.",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "Design de ensino inovador, refletindo conceitos curriculares; atitude natural do professor, boa competência profissional (como expressão, demonstração, etc.).",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "Centro do desenvolvedor",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "A análise do vídeo leva muito tempo, você pode fechar a página atual e verificar no histórico mais tarde.",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "O uso da organização foi esgotado",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyFormulaRecognitionLimit": {
+    "message": "O reconhecimento de fórmulas pode ser usado {count} vezes por dia",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledge": {
+    "message": "Gerar gráfico",
+    "description": "aiAssistantzh.json"
   }
 }

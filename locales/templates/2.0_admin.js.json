@@ -520,7 +520,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareTotalNum": {
-    "message": "课件总数",
+    "message": "课程章节总数",
     "description": "2.0 admin.js"
   },
   "dataCenter.classTotalNum": {
@@ -544,7 +544,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareStudyAnalysis": {
-    "message": "课件学习分析",
+    "message": "课程章节学习分析",
     "description": "2.0 admin.js"
   },
   "dataCenter.pleaseUseAdminAccount": {
@@ -552,7 +552,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.selectCourseware": {
-    "message": "选择课件",
+    "message": "选择课程章节",
     "description": "2.0 admin.js"
   },
   "dataCenter.currentOverallLearningProgress": {
@@ -584,7 +584,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewarevideoDuration": {
-    "message": "课件视频总时长",
+    "message": "课程章节视频总时长",
     "description": "2.0 admin.js"
   },
   "dataCenter.videoNum": {
@@ -892,11 +892,11 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSetAnalysis": {
-    "message": "课件设置分析",
+    "message": "课程章节设置分析",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips1": {
-    "message": "设置保存学习计划视为更新课件",
+    "message": "设置保存学习计划视为更新课程章节",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips2": {
@@ -908,15 +908,15 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.updateCoursewareNum": {
-    "message": "更新课件数",
+    "message": "更新课程章节数",
     "description": "2.0 admin.js"
   },
   "dataCenter.updateCoursewareTimes": {
-    "message": "更新课件人次",
+    "message": "更新课程章节人次",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareOperationTop": {
-    "message": "课件操作排名TOP10",
+    "message": "课程章节操作排名TOP10",
     "description": "2.0 admin.js"
   },
   "dataCenter.coursewareSaveTips4": {
@@ -1212,7 +1212,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.useCoursewareTotalNum": {
-    "message": "使用课件总数",
+    "message": "使用课程章节总数",
     "description": "2.0 admin.js"
   },
   "dataCenter.teaAverageTeachCourseNum": {
@@ -1260,7 +1260,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips8": {
-    "message": "除公告、课件和资源以外，课程中发布的其它教学活动少于5个的课程",
+    "message": "除公告、课程章节和资源以外，课程中发布的其它教学活动少于5个的课程",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips9": {
@@ -1308,7 +1308,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips19": {
-    "message": "仅统计课件学习情况",
+    "message": "仅统计课程章节学习情况",
     "description": "2.0 admin.js"
   },
   "dataCenter.dataTips20": {
@@ -1716,7 +1716,7 @@
     "description": "2.0 admin.js"
   },
   "dataCenter.runningCoursewareNum": {
-    "message": "运行中的课件数量",
+    "message": "运行中的课程章节数量",
     "description": "2.0 admin.js"
   },
   "dataCenter.schoolCreatedCourse": {
@@ -2408,7 +2408,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips14": {
-    "message": "合并课程，会将所选课程的班级、公告、课件、资源、作业、讨论、课堂活动、考试、考核策略等，全部合并至最新创建的课程中。",
+    "message": "合并课程，会将所选课程的班级、公告、课程章节、资源、作业、讨论、课堂活动、考试、考核策略等，全部合并至最新创建的课程中。",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingAdminTips15": {
@@ -2836,7 +2836,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.relateTextbook": {
-    "message": "关联课件",
+    "message": "关联课程章节",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.searchByClass": {
@@ -3220,7 +3220,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.actType1": {
-    "message": "课件",
+    "message": "课程章节",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.actType2": {
@@ -4261,6 +4261,198 @@
   },
   "resourceLibraryCtrl.resourseLib": {
     "message": "资源库",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "共享",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "上传",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "全部类型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "全部上传状态",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "复制和分享记录",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "资源发布记录",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "其他设置",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "通过邮件",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "通过账号",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "请输入输入用户邮箱，多个用户使用逗号隔开",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "请从已有账号选择需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "请输入重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "请输入用户名称或邮箱",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "从已有账号选择",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "批量重置密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "选择用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "已选中:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "请至少选择一种方式设置需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "修改成功{successCount}个,修改失败{failCount}个",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "本页全选",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "本页清除",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "仅删除资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "删除发布到课程的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "删除复制到资源库的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "发布/复制都删除",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "请选择要把资源发布到哪些课程：",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "全选",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "发布成功",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "发布失败",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "还没有课程，请先创建课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "请先选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "删除失败",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "启用",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "禁用",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "停用后用户将无法登录，确定停用吗？",
+    "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "同步",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "自建",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "全部创建方式",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "本科",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "研究生",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "全部学段",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "课程编号",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "所属学期",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "教师工号",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "所属学段",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "创建方式",
     "description": "2.0 admin.js"
   }
 }

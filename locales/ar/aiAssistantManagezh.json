@@ -20,7 +20,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "route.digitalHuman": {
-    "message": "البشر الرقميون",
+    "message": "الإنسان الرقمي",
     "description": "aiAssistantManagezh.json"
   },
   "route.manageKnowledge": {
@@ -64,7 +64,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "route.dataStatistics": {
-    "message": "بيانات الدورة التدريبية",
+    "message": "إحصائيات الدورة التدريبية",
     "description": "aiAssistantManagezh.json"
   },
   "navbar.logOut": {
@@ -72,7 +72,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "navbar.themeBtn": {
-    "message": "الموضوع",
+    "message": "التصميم",
     "description": "aiAssistantManagezh.json"
   },
   "navbar.themeSettings": {
@@ -116,7 +116,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "tagsView.closeOthers": {
-    "message": "إيقاف تشغيل أخرى",
+    "message": "إغلاق العناصر الأخرى",
     "description": "aiAssistantManagezh.json"
   },
   "tagsView.closeAll": {
@@ -152,7 +152,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "login.pleseusername": {
-    "message": "انقر لإدخال اسم المستخدم",
+    "message": "الرجاء إدخال اسم المستخدم",
     "description": "aiAssistantManagezh.json"
   },
   "login.plesepwd": {
@@ -168,11 +168,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "common.easyManage": {
-    "message": "إدارة سهلة",
+    "message": "إدارة مبسطة",
     "description": "aiAssistantManagezh.json"
   },
   "common.websiteTip": {
-    "message": "تسجيل متعدد الفصول، ومراجعة المحاضرات في الوقت الفعلي، وتراكم الموارد التعليمية",
+    "message": "تسجيل محاضرات متعددة الفصول، متابعة مباشرة، وحفظ الموارد التعليمية",
     "description": "aiAssistantManagezh.json"
   },
   "common.casTitle": {
@@ -184,15 +184,15 @@
     "description": "aiAssistantManagezh.json"
   },
   "common.requestError": {
-    "message": "لم نتمكن من الطلب",
+    "message": "فشل الطلب",
     "description": "aiAssistantManagezh.json"
   },
   "pleaseEnterKeyword": {
-    "message": "أدخل كلمة مفتاحية",
+    "message": "الرجاء إدخال الكلمة المفتاحية",
     "description": "aiAssistantManagezh.json"
   },
   "groupingManagement": {
-    "message": "إدارة المجموعة",
+    "message": "إدارة المجموعات",
     "description": "aiAssistantManagezh.json"
   },
   "groupingManagementHint": {
@@ -208,7 +208,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "editGroup": {
-    "message": "تحرير التجميع",
+    "message": "تعديل المجموعة",
     "description": "aiAssistantManagezh.json"
   },
   "groupName": {
@@ -220,7 +220,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "cannotContainSpaces": {
-    "message": "لا يمكنك احتواء المسافات فقط",
+    "message": "لا يمكنك احتواء الفراغات فقط",
     "description": "aiAssistantManagezh.json"
   },
   "groupNameRequired": {
@@ -232,7 +232,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "createSuccess": {
-    "message": "الخلق ناجح",
+    "message": " تم الإنشاء بنجاح",
     "description": "aiAssistantManagezh.json"
   },
   "deleteConfirm": {
@@ -248,7 +248,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "hint": {
-    "message": "النصائح",
+    "message": "تنبيه",
     "description": "aiAssistantManagezh.json"
   },
   "operation": {
@@ -256,7 +256,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "createInstruction": {
-    "message": "إنشاء التوجيهات",
+    "message": "إنشاء التعليمات",
     "description": "aiAssistantManagezh.json"
   },
   "editInstruction": {
@@ -272,11 +272,11 @@
     "description": "aiAssistantManagezh.json"
   },
   "instructionTitle": {
-    "message": "عنوان الأمر",
+    "message": "عنوان التعليمات",
     "description": "aiAssistantManagezh.json"
   },
   "instructionDescription": {
-    "message": "وصف التعليمات",
+    "message": "شرح التعليمات",
     "description": "aiAssistantManagezh.json"
   },
   "longInstructionContent": {
@@ -2801,6 +2801,758 @@
   },
   "cropIcon": {
     "message": "لقطة أيقونة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "إدارة قوالب التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "تنظيم الذكاء الاصطناعي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "استيراد قوالب التعليمات بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "استيراد قوالب الأسئلة والأجوبة بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "وقت الإنشاء:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "حفظ كمسودة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "حفظ ونشر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "تكوين النموذج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "النموذج الكبير متعدد الوسائط يدعم فهم محتوى الصور، بما في ذلك الصور التي لا تحتوي على نص مثل التصاميم، ويدعم الأسئلة والأجوبة بناءً على محتوى الصور.<br/>تحديد النموذج الكبير متعدد الوسائط سيفعل تلقائياً وظيفة تحميل الصور.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "متعدد الوسائط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "النموذج الكبير المفضل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "تعيين كمفضل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "تصحيح ومعاينة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "حفظ ومعاينة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "إعدادات الدور",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "رسالة الترحيب والافتتاحية مطلوبة، يجب ملؤها قبل المعاينة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "الأسئلة المحتملة مطلوبة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "تحديث",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "مهارات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "الرجاء اختيار الحالة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "إحصائيات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "عنصر",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "جميع الحالات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "لا يمكن أن تتجاوز الافتتاحية 1000 حرف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "رسالة الترحيب والافتتاحية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "الرجاء إدخال رسالة الترحيب والافتتاحية للمساعدة في توجيه الفهم السريع لمساعد الذكاء الاصطناعي.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "أدخل الأسئلة التي قد يريد المستخدم طرحها لتوجيه بدء المحادثة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "إضافة سؤال",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "مظهر الإنسان الرقمي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "الرجاء اختيار مظهر الإنسان الرقمي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "الرجاء ملء رسائل النظام لوضع سلسلة من القيود على شخصية الدور ومنطق الرد.\nمثال:\n# الدور\nأنت أستاذ جامعي يدرس مقرر موجز التاريخ الصيني الحديث والمعاصر.\n# المهمة\nدعم التحضير لمقرر موجز التاريخ الصيني الحديث والمعاصر.\n# المتطلبات\nللمحتوى غير المتعلق بمقرر موجز التاريخ الصيني الحديث والمعاصر، الرد مباشرة: لا أدعم الإجابة على المحتوى غير المتعلق بمقرر موجز التاريخ الصيني الحديث والمعاصر.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "تم إلغاء عملية الحذف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "يمكن إضافة 5 أسئلة كحد أقصى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "حذف بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "إضافة قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "إجمالي {count} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "عرض مصدر المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "تفعيل عرض مصدر المعرفة: عند الأسئلة والأجوبة، سيتم عرض أسماء الموارد من قاعدة المعرفة في مصدر المعرفة.<br/>عدم تفعيل عرض مصدر المعرفة: عند الأسئلة والأجوبة، سيتم عرض اسم قاعدة المعرفة مباشرة، دون عرض أسماء الموارد من قاعدة المعرفة في مصدر المعرفة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "إضافة قاعدة معرفة الآن",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "لقد اخترت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "هل أنت متأكد من حذف قاعدة المعرفة {name}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "إعدادات عرض التعليمات السريعة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "عرض حسب التعليمات الطويلة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "عرض حسب التعليمات القصيرة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "إضافة تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "اختيار تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "الكل ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "تفاصيل التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "تعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "تعليماتي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "القوالب المشتركة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "الرجاء إدخال عنوان التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "الرجاء إدخال وصف التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "هل أنت متأكد من حذف التعليمات {title}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "هل أنت متأكد من حذف المجموعة {name}؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "لا يمكن أن يكون اسم المجموعة فارغاً",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "الرجاء اختيار تعليمات واحدة على الأقل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "تمت إضافة التعليمات بنجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "فشلت إضافة التعليمات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "يمكن إضافة 50 مجموعة كحد أقصى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "يمكن تعيين المهارات وفقاً لخصائص مساعد الذكاء الاصطناعي لإنشاء مساعد ذكاء اصطناعي مميز.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "طريقة الحوار",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "قم بإعداد قاعدة المعرفة، يمكن للنموذج الكبير الإجابة على أسئلة المستخدم بناءً على قاعدة المعرفة، مما يحسن دقة الأسئلة والأجوبة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "قم بإعداد التعليمات السريعة، يمكن تعيين تعليمات مميزة وفقاً لخصائص مساعد الذكاء الاصطناعي لإنشاء مساعد ذكاء اصطناعي مميز. يمكن أيضاً تعيين التعليمات المستخدمة بشكل متكرر في مساعد الذكاء الاصطناعي لتسهيل الاستدعاء السريع للمستخدمين.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "فشل التحقق من النموذج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "فتح قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "شخصية الدور ومنطق الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "إدارة قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "عرض قواعد المعرفة المنشأة على مستوى المنصة وفتح حقوق الاستخدام للمؤسسات.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "اسم/معرف قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "عمليات الجملة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "فتح بالجملة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "فتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "قاعدة المعرفة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "فتح للمؤسسة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "فتح قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "عرض قواعد المعرفة المرجعية للمؤسسة الحالية. ملاحظة: لا تتضمن القائمة قواعد المعرفة التي أنشأتها المؤسسة بنفسها.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "قواعد المعرفة المختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "إلغاء الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "هل أنت متأكد من إلغاء الفتح؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "لقد اخترت {num} مؤسسة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "إجمالي {n} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "لا توجد مؤسسات مختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "لا توجد قواعد معرفة مختارة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "إنشائي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "استيراد خارجي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "وقت الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "لقد اخترت {num} قاعدة معرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "فتح المؤسسة:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "تم الفتح بنجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "فشل الفتح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "معلومات مفصلة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "المؤسسة المنتمية:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "وقت الإنشاء:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "قاعدة المعرفة المرجعية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "أدخل اسم قاعدة المعرفة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "إدارة التعليمات العامة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "إدارة التعليمات العامة، متاحة لجميع معلمي ومديري المؤسسات لاختيار التعليمات العامة للاستخدام.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "إنشاء المخطط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "الرجاء إدخال العدد الإجمالي لمرات إنشاء المخطط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "يجب أن يكون العدد الإجمالي لمرات إنشاء المخطط رقماً",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "الرجاء إدخال عدد مرات إنشاء المخطط المتاحة يومياً",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedbackManagement": {
+    "message": "إدارة التغذية المرتدة للأسئلة والأجوبة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedback": {
+    "message": "أسئلة وأجوبة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfiedFeedback": {
+    "message": "ردود الفعل المرضية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfiedFeedback": {
+    "message": "تعليقات غير راضية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "report": {
+    "message": "تقريرالإبلاغ عن",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackList": {
+    "message": "قائمة التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allFeedback": {
+    "message": "كل التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfied": {
+    "message": "الارتياح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfied": {
+    "message": "غير راض",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackLabel": {
+    "message": "علامة التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "supplementaryExplanation": {
+    "message": "ملاحظة إضافية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackType": {
+    "message": "نوع التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackPerson": {
+    "message": "رجل التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackTime": {
+    "message": "وقت التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackDetails": {
+    "message": "المزيد من التفاصيل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyReply": {
+    "message": "تعديل الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeReply": {
+    "message": "إزالة الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replyRemoved": {
+    "message": "تم إزالة الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userQuestion": {
+    "message": "مشاكل المستخدمين",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterReplyContent": {
+    "message": "يرجى إدخال محتوى الرد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemoveReply": {
+    "message": "هل أنت متأكد من إزالة الرد؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeSuccess": {
+    "message": "إزالة النجاح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeFailed": {
+    "message": "إزالة الفشل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "ضارة/غير آمنة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pornographicVulgar": {
+    "message": "إباحي",
+    "description": "aiAssistantManagezh.json"
+  },
+  "abuseAttack": {
+    "message": "التهجم اللاذع",
+    "description": "aiAssistantManagezh.json"
+  },
+  "illegalCriminal": {
+    "message": "جريمة غير قانونية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "privacyRelated": {
+    "message": "الخصوصية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "infringeCopyright": {
+    "message": "ينتهك حقوقي في التأليف و السمعة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackOther": {
+    "message": "الأخرى",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentAccurate": {
+    "message": "المحتوى دقيق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "easyToUnderstand": {
+    "message": "سهل الفهم",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentComplete": {
+    "message": "سهل الفهم",
+    "description": "aiAssistantManagezh.json"
+  },
+  "falseInformation": {
+    "message": "معلومات خاطئة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notHelpful": {
+    "message": "لا يساعد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noReply": {
+    "message": "لا يوجد رد",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAiAssistantFeedback": {
+    "message": "تحقق من التغذية المرتدة من المساعد AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewPlatformFeedback": {
+    "message": "اطّلاع على ردود الفعل على نطاق المنبر.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getFeedbackDetailsFailed": {
+    "message": "فشل الحصول على تفاصيل التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseInputMarkdownFormat": {
+    "message": "(يرجى إدخال وفقا لصيغة Markdown)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.DigitalPersonManagement": {
+    "message": "إدارة الأشخاص الرقمية",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSpace": {
+    "message": "مساحة الفريق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSettings": {
+    "message": "الأعضاء والإعدادات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "browserTabIcon": {
+    "message": "أيقونة صفحة التصفح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tabIconUploadTip": {
+    "message": "ويوصى بتحميل الوثيقة 16×16PX (خلفية شفافة من PNG) بحيث لا تتجاوز حجمها 50 كيلو بايت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleImage": {
+    "message": "الرسم التوضيحي:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logoUploadTip": {
+    "message": "الحجم الموصى به: ارتفاع أدنى قدره 30 PX، عرض ذاتي التكيف (خلفية شفافة من PNG)، ولا يتجاوز حجم الملف 150 كيلوبايت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit50KB": {
+    "message": "تحميل الصورة في حدود 50 كيلو بايت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit150KB": {
+    "message": "تحميل الصورة في حدود 150 كيلو بايت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit6MB": {
+    "message": "لا يمكن تحميل الصورة بحجم 6 ميغابايت",
+    "description": "aiAssistantManagezh.json"
+  },
+  "domainValidationRule": {
+    "message": "تدعم أسماء النطاقات الحروف والأرقام فقط ولا تتجاوز 10 أحرف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategory": {
+    "message": "تعديل التصنيف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowSkillPluginTip": {
+    "message": "إضافة تدفق العمل كملحق للمهارات، حيث يمكن للنموذج أن يؤدي المهام ذات الصلة على أساس التوجيه اللغوي. ولا تدعم بعض النماذج في الوقت الحاضر تدفق العمل المستقل (مثل الألغاز (VL)، وإذا لم ينجح ذلك، يمكن محاولة استبدال نماذج أخرى أو تحسين وصف وبارامترات تدفق العمل.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "invalid": {
+    "message": "غير صالح",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowDeletedOrPluginNotEnabled": {
+    "message": "تم حذف تدفق العمل أو لم يفتح a ملفّ",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflow": {
+    "message": "إضافة تدفق العمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflowPluginHint": {
+    "message": "أضف إلى تدفق العمل، تأكد من أن تدفق العمل قد تم نشره وأنه تم تشغيل خاصية تحويل التوصيل.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationNotEnabled": {
+    "message": "لا يفتح إستدعاء",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRelatedContentFound": {
+    "message": "لم يتم العثور على المحتوى ذي الصلة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowUnit": {
+    "message": "خط عمل",
+    "description": "aiAssistantManagezh.json"
+  },
+  "bindSuccess": {
+    "message": "ربط",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocation": {
+    "message": "ملحق الاتصال",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationTip": {
+    "message": "إذا كان المراد الاتصال بتدفق العمل أثناء حوار المساعد AI، فتُمكّن خاصية التنقلات وإكمال التشكيل ذي الصلة.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginId": {
+    "message": "معرف ملحق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescription": {
+    "message": "وصف القابس",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescriptionPlaceholder": {
+    "message": "وصف الغرض من تدفق العمل، ونماذج مريحة لفهم الت.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputParameters": {
+    "message": "أدخل البارامترات",
+    "description": "aiAssistantManagezh.json"
+  },
+  "isRequired": {
+    "message": "هل ستملأ؟",
+    "description": "aiAssistantManagezh.json"
+  },
+  "writeType": {
+    "message": "طريقة ملء",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userInput": {
+    "message": "إدخال المستخدم",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRecognition": {
+    "message": "تحديد النموذج",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescription": {
+    "message": "مذكرة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescriptionPlaceholder": {
+    "message": "ملء وصف البارامترات لمساعدة النموذج على فهم التعرف",
+    "description": "aiAssistantManagezh.json"
+  },
+  "descriptionTooLong": {
+    "message": "لا يمكن أن يتجاوز الوصف 1000 كلمة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackSimple": {
+    "message": "التغذية المرتدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTeamSpace": {
+    "message": "إنشاء مساحة الفريق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTeamSpace": {
+    "message": "لا يوجد مكان للفريق",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createNewTeamSpace": {
+    "message": "إنشاء مساحة فريق جديدة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSpace": {
+    "message": "خلق الفضاء",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySpace": {
+    "message": "تعديل المساحة",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTeamSpaceDescription": {
+    "message": "إنشاء حيز عمل جماعي يتيح التشارك بين العقول، والمعارف وتدفق العمل.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceName": {
+    "message": "اسم فضاء الفريق",
     "description": "aiAssistantManagezh.json"
   }
 }

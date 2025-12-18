@@ -2134,5 +2134,581 @@
   "reset": {
     "message": "รี เซ็ต",
     "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "ยอดนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "ราชาการบ้าน",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "เทพแห่งการสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "ราชาแห่งการตอบกระทู้",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "ผู้เล่น AI อันดับ 1",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "ผู้เยี่ยมชมลึกลับ",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "หุ้นที่มีศักยภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "พื้นที่แห้งแล้งทางความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "นักเรียนที่มีปัญหาการเข้าเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "ปรมาจารย์แห่งความขี้เกียจ",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "ผู้ต้านทานการบ้าน",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "คนที่อยู่ขอบเขตการสอบตก",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "ผู้ชมเหตุการณ์",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "มือใหม่ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "เข้าชมหลักสูตร {count} ครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "คะแนนการบ้านเฉลี่ย {grade} คะแนน อันดับที่หนึ่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "คะแนนสอบเฉลี่ย {grade} คะแนน อันดับที่หนึ่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "โพสต์ในกระทู้ {count} ครั้ง อันดับที่หนึ่ง",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "ใช้ผู้ช่วย AI {chatCount} ครั้ง ใช้เครื่องมือ AI {toolCount} ครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "คะแนนรวมปัจจุบัน {grade} คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "จำนวนจุดความรู้ที่มีความเชี่ยวชาญต่ำกว่า 60% มี {count} จุด",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "อัตราการเข้าเรียนเฉลี่ย {rate} %",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "ระยะเวลาการเรียนรู้เนื้อหา {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "คะแนนการบ้านเฉลี่ย {grade} คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "คะแนนสอบเฉลี่ย {grade} คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "โพสต์ในกระทู้ {count} ครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "นักเรียนทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "ป้อนชื่อ/รหัสนักศึกษาเพื่อค้นหา",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "ไม่มีข้อมูลเพิ่มเติม",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "ไม่พบเนื้อหาที่เกี่ยวข้อง",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "งานการเรียนรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "ความเชี่ยวชาญด้านความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "ผลงานในชั้นเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "ผลการประเมิน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "ผู้ช่วยการเรียนรู้ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "จุดความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "อัตราความเชี่ยวชาญเฉลี่ย",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "ความเชี่ยวชาญดี",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "ความเชี่ยวชาญทั่วไป",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "ความเชี่ยวชาญไม่ดี",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "ยังไม่ได้ทดสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "เป้าหมายความสามารถ",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "อัตราความสำเร็จเฉลี่ย:",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "จุดความรู้ที่อ่อนแอ",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "ดูรายละเอียด",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "นักเรียนคนนี้",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "และอีก {num} จุดความรู้มีความเชี่ยวชาญไม่ดี โปรดให้ความสนใจกับสถานะการเรียนรู้ของนักเรียนทันที",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "ประเภทคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "จำนวนครั้งที่ถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "ถามอิสระ",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "ถามตามคำแนะนำ",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "คำสั่งที่ใช้บ่อย",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "คำสำคัญของคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "อันดับโดยรวม:",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "อัตราการเช็คชื่อ",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "การเข้าเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "เช็คชื่อแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "ขาดเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "ลาป่วย",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "ลากิจ",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "มาสาย",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "กลับก่อน",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "การมีส่วนร่วมในชั้นเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "จำนวนครั้งที่เข้าร่วม:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "คะแนนรวม:",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "การโหวต",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "ตอบด่วน",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "เลือกคน",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "การให้คะแนน",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "อัพโหลดรูปถ่าย",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "การตอบคำถาม",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "การเรียนรู้บทเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "ความก้าวหน้าในการเรียนรู้:",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "การบ้าน/การสอบ",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "จำนวนที่เสร็จสมบูรณ์:",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "สลับนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "รหัสนักศึกษา:",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "ชั้นเรียน:",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "วิทยาลัย:",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "ส่งออก",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "ผลงานรวมของหลักสูตร",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "ไม่มีข้อมูลที่สามารถวิเคราะห์ได้",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "การใช้ผู้ช่วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "กำลังสร้าง PDF โปรดรอสักครู่...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "ระบบภาพลักษณ์นักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "รายงานภาพลักษณ์การเรียนรู้ของนักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "ไม่พบเนื้อหาที่จะส่งออก",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "ส่งออก PDF สำเร็จ",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "ส่งออก PDF ล้มเหลว",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "บทเรียน:",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "การบ้าน:",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "การสอบ:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "ผู้ช่วย AI:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "เครื่องมือ AI:",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "ครั้ง",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "อัตราการเข้าเรียน:",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "อัตราการมีส่วนร่วมในชั้นเรียน:",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "ระดับความเชี่ยวชาญด้านความรู้:",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "อัตราความสำเร็จของเป้าหมายความสามารถ:",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "คะแนนสุดท้าย:",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "ภาพลักษณ์นักเรียนอัจฉริยะ ช่วยในการสอนแบบเฉพาะบุคคล",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "ดูนักเรียนทั้งหมด",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "เทพแห่งคะแนนเต็ม",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "คะแนนรวมปัจจุบัน {grade} คะแนน อันดับที่ {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "ผู้เชี่ยวชาญจุดความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "จำนวนจุดความรู้ที่มีความเชี่ยวชาญเกิน 80% มี {count} จุด อันดับที่ {rank}",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "ดาวเด่นในห้องเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "คะแนนการมีส่วนร่วมในห้องเรียนรวม {points} คะแนน อันดับที่ 1",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "ราชาแห่งระยะเวลา",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "ระยะเวลาการเรียนรู้ {time} อันดับที่ 1",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "ความคืบหน้า",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "งานกลุ่ม",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "จำนวนที่เสร็จสมบูรณ์",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "ยอดรวม",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "ภาพลักษณ์นักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "การวิเคราะห์ด้วย AI",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "ภาพลักษณ์นักเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "องค์กรปัจจุบันยังไม่ได้เปิดใช้งานความสามารถ AI",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "คุณยังไม่ได้สร้างเอเจนท์",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "คุณยังไม่ได้สร้างเอเจนท์ ไปที่ลานเอเจนท์เพื่อสร้างเอเจนท์ส่วนตัวของคุณ",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "องค์กรปัจจุบันยังไม่ได้เปิดใช้งานแอป/เครื่องมือ AI นี้",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "การออกแบบการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "เป้าหมายการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "การวิเคราะห์สถานการณ์การเรียนและตำราเรียน",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "เนื้อหาการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "วิธีการและเครื่องมือการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "กระบวนการสอน",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "การบ้านและกระดานดำ",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "นวัตกรรมและความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "เป้าหมายชัดเจนและเฉพาะเจาะจง สะท้อนสมรรถนะหลักของวิชา/การบูรณาการเป้าหมายสามมิติ สอดคล้องกับมาตรฐานหลักสูตรและสถานการณ์จริงของนักเรียน คำนึงถึงทั้งการพัฒนาโดยรวมและรายบุคคล",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "เข้าใจพื้นฐานความรู้ ระดับความสามารถ และลักษณะการเรียนรู้ของนักเรียนอย่างแม่นยำ คาดการณ์จุดยากและกำหนดกลยุทธ์เฉพาะ ระบุสถานะของตำราเรียน ตรรกะความรู้ และความเชื่อมโยงกับมาตรฐานหลักสูตรอย่างชัดเจน จัดการเนื้อหาการสอนอย่างสมเหตุสมผล",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "จุดความรู้ครบถ้วนทางวิทยาศาสตร์ เน้นจุดสำคัญ จุดยากชัดเจน การเลือกเนื้อหาใกล้เคียงกับนักเรียน คำนึงถึงทั้งพื้นฐานและการขยายความรู้ สะท้อนแนวคิดและวิธีการของวิชา",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "วิธีการเหมาะสมกับลักษณะของวิชาและการรับรู้ของนักเรียน เน้นการสร้างแรงบันดาลใจและการสำรวจ การใช้เครื่องมือ (สื่อการสอน เทคโนโลยี ฯลฯ) อย่างเหมาะสม แก้ไขจุดสำคัญและจุดยากอย่างมีประสิทธิภาพ",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "การออกแบบบทเรียน: ขั้นตอนการนำเข้า การสอนใหม่ การฝึกฝน การสรุป ฯลฯ ครบถ้วน เรียงลำดับอย่างมีเหตุผล มีการจัดสรรเวลาที่เหมาะสม",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "การมีส่วนร่วมของนักเรียน: เน้นบทบาทหลักของนักเรียน ออกแบบกิจกรรมสำรวจแบบโต้ตอบ ให้ข้อเสนอแนะทันเวลา จัดการการวางแผนและการสร้าง",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "การฝึกทักษะ: เน้นการแนะนำการคิดและวิธีการเรียนรู้ของวิชา แสดงกระบวนการสร้างความรู้",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "การออกแบบการบ้านเป็นชั้นและสมเหตุสมผล ปริมาณเหมาะสม รูปแบบหลากหลาย เชื่อมโยงกับเป้าหมายการสอน กระดานดำแสดงโครงสร้างความรู้อย่างชัดเจน สรุปประเด็นสำคัญอย่างกระชับ นำการสะท้อนคิด",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "การออกแบบการสอนมีความคิดสร้างสรรค์ สะท้อนแนวคิดหลักสูตร ท่าทางของครูเป็นธรรมชาติ มีความสามารถทางวิชาชีพที่ดี (เช่น การแสดงออก การสาธิต ฯลฯ)",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "ศูนย์นักพัฒนา",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "การวิเคราะห์วิดีโอใช้เวลานาน คุณสามารถปิดหน้านี้และตรวจสอบในประวัติภายหลัง",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "จำนวนครั้งการใช้งานขององค์กรหมดแล้ว",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyFormulaRecognitionLimit": {
+    "message": "สามารถใช้การจดจำสูตรได้ {count} ครั้งต่อวัน",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledge": {
+    "message": "สร้างแผนผัง",
+    "description": "aiAssistantzh.json"
   }
 }

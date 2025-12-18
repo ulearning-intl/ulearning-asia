@@ -598,5 +598,1453 @@
   "analysis.text26": {
     "message": "Question Details",
     "description": "测验 zh.json"
+  },
+  "0QuestionscoreFen": {
+    "message": "(0~{0} points)",
+    "description": "测验 zh.json"
+  },
+  "anBanJiMingChengSouSuo": {
+    "message": "Search by class",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiDaoXu": {
+    "message": "Descending by score",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiZhengXu": {
+    "message": "Ascending by score",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoDaoXu": {
+    "message": "Descending by Question ID",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoZhengXu": {
+    "message": "Ascending by Question ID",
+    "description": "测验 zh.json"
+  },
+  "analysisByStuMaxGrade": {
+    "message": "Statistics based on the student's highest score answering record",
+    "description": "测验 zh.json"
+  },
+  "answerdatafullgradeFen": {
+    "message": "{0} points",
+    "description": "测验 zh.json"
+  },
+  "banJi": {
+    "message": "Class",
+    "description": "测验 zh.json"
+  },
+  "baoCun": {
+    "message": "Save",
+    "description": "测验 zh.json"
+  },
+  "baoCunBingQieHuanXiaYiG": {
+    "message": "Save and switch to the next one",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGao": {
+    "message": "Save draft",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGaoChengGong": {
+    "message": "Draft saved successfully",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLu": {
+    "message": "Save Answers",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLuChengGong": {
+    "message": "Saved successfully",
+    "description": "测验 zh.json"
+  },
+  "baoCunPingFen": {
+    "message": "Save rating",
+    "description": "测验 zh.json"
+  },
+  "baoCunZhong": {
+    "message": "Saving",
+    "description": "测验 zh.json"
+  },
+  "beiZhuFeiBiTianBuChaoGu": {
+    "message": " Remarks, not required item, no more than 200 words ",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanFenZhiFeiBai": {
+    "message": "The total point for this quiz is not 100, so please check if you need to modify the points. If no changes are needed, you may continue to publish the quiz.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng": {
+    "message": "This quiz has already been submitted by students, and only the points of the question is allowed to be modified. If you need to modify the content of the question or the answer, please do so in the question bank.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng-0": {
+    "message": "This quiz has already been submitted by students, and only the points of the question is allowed to be modified. If you need to modify the content of the question or the answer, please do so in the question bank.<br/>After you modify the question or point value, use the Regrade feature to re-grade the students who have submitted.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYunXuTiJiaoT": {
+    "message": "This quiz allows {0} submissions, with <span style=\"font-weight: bold;color: #ea5947;\">{1}</span> attempts remaining.<br/>Are you sure about submission?",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJi": {
+    "message": "Results of this time:",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJiChangegrade": {
+    "message": "Score of this time: {0}",
+    "description": "测验 zh.json"
+  },
+  "blanksQuestion": {
+    "message": "Fill in the Blank",
+    "description": "测验 zh.json"
+  },
+  "boFang": {
+    "message": "Play",
+    "description": "测验 zh.json"
+  },
+  "buGongBu": {
+    "message": "Not published",
+    "description": "测验 zh.json"
+  },
+  "buZhiChiGaiLeiXingWenJi": {
+    "message": "The file type is not supported",
+    "description": "测验 zh.json"
+  },
+  "canKaoDaAn": {
+    "message": "Reference answer：",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi": {
+    "message": "Participating class",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi-0": {
+    "message": "Participating class:",
+    "description": "测验 zh.json"
+  },
+  "caoZuo": {
+    "message": "Action",
+    "description": "测验 zh.json"
+  },
+  "caoZuoChengGong": {
+    "message": "It's done successfully!",
+    "description": "测验 zh.json"
+  },
+  "ceYan": {
+    "message": "Quiz",
+    "description": "测验 zh.json"
+  },
+  "ceYanChengJi": {
+    "message": "Quiz scores",
+    "description": "测验 zh.json"
+  },
+  "ceYanGaiKuang": {
+    "message": "Quiz overview",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuHou": {
+    "message": "After the quiz",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuShiJianBuNen": {
+    "message": "The end time cannot be earlier than the start time",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai": {
+    "message": "When a quiz starts, if a question or score is modified, this feature allows students who have already submitted to be regraded.",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai-0": {
+    "message": "Once the quiz has started, use this feature to re-grade submitted students if questions have been modified. Please select the type of questions that need to be re-graded:",
+    "description": "测验 zh.json"
+  },
+  "ceYanMingChengBuNengChao": {
+    "message": "The quiz title cannot exceed 200 characters (about 100 for Chinese characters)",
+    "description": "测验 zh.json"
+  },
+  "ceYanSheZhi": {
+    "message": "Quiz Settings",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian": {
+    "message": "Quiz Time:",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian-0": {
+    "message": "Quiz Time",
+    "description": "测验 zh.json"
+  },
+  "ceYanTiMu": {
+    "message": "Quiz questions",
+    "description": "测验 zh.json"
+  },
+  "ceYanXiangQing": {
+    "message": "Quiz Details",
+    "description": "测验 zh.json"
+  },
+  "ceYanXinXi": {
+    "message": "Quiz Information",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiu": {
+    "message": "Quiz Requirements",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiuBuNengChaoGu": {
+    "message": "The quiz requirement cannot exceed 5000 characters",
+    "description": "测验 zh.json"
+  },
+  "chaKan": {
+    "message": "View",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaAn": {
+    "message": "Check Answer",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaTiJiLu": {
+    "message": "View Answer Records",
+    "description": "测验 zh.json"
+  },
+  "chaKanTiMu": {
+    "message": "View Questions",
+    "description": "测验 zh.json"
+  },
+  "chaKanXiangQing": {
+    "message": "View Details >>",
+    "description": "测验 zh.json"
+  },
+  "chaZhaoXueSheng": {
+    "message": "Search student",
+    "description": "测验 zh.json"
+  },
+  "changAnTiMuTuoDongPaiXu": {
+    "message": "Long press the question and drag to sort",
+    "description": "测验 zh.json"
+  },
+  "changAnTuoDongXuanXiang": {
+    "message": "* Long press to drag the option",
+    "description": "测验 zh.json"
+  },
+  "chaoGuo_200mDeFuJianQing": {
+    "message": "Attachments over 200M should be uploaded from your computer",
+    "description": "测验 zh.json"
+  },
+  "chengJi": {
+    "message": "Grade: ",
+    "description": "测验 zh.json"
+  },
+  "chengJi-0": {
+    "message": "Grade",
+    "description": "测验 zh.json"
+  },
+  "chengJiDaoXu": {
+    "message": "Descending order by scores",
+    "description": "测验 zh.json"
+  },
+  "chengJiFenBu": {
+    "message": "Grade Distribution",
+    "description": "测验 zh.json"
+  },
+  "chengJiZhengXu": {
+    "message": "Ascending order by scores",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiXiTongJiangBu": {
+    "message": "If you leave at this time, the system will not save the answer record.<br/>Are you sure it's off?",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiZiDongBaoCun": {
+    "message": "If you leave now, the system will automatically save your answer record.<br/>Are you sure you want to return?",
+    "description": "测验 zh.json"
+  },
+  "clozeQuestion": {
+    "message": "Cloze Test",
+    "description": "测验 zh.json"
+  },
+  "completedRate": {
+    "message": "Completion Rate",
+    "description": "测验 zh.json"
+  },
+  "comprehensiveQuestion": {
+    "message": "Comprehensive questions",
+    "description": "测验 zh.json"
+  },
+  "congBenJiXuanZe": {
+    "message": "Select from local",
+    "description": "测验 zh.json"
+  },
+  "daAn": {
+    "message": "Answer:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian": {
+    "message": "Answer Release Time:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian-0": {
+    "message": "Answer Release Time:",
+    "description": "测验 zh.json"
+  },
+  "daAnWeiGongBu": {
+    "message": "The answer has not been announced",
+    "description": "测验 zh.json"
+  },
+  "daDuiRenShu": {
+    "message": "Number of correct answers",
+    "description": "测验 zh.json"
+  },
+  "daHuiZhongXie": {
+    "message": "Need Rewrite",
+    "description": "测验 zh.json"
+  },
+  "daTi": {
+    "message": "Answer Questions",
+    "description": "测验 zh.json"
+  },
+  "daTiJiLu": {
+    "message": "Answer Record",
+    "description": "测验 zh.json"
+  },
+  "daTiKa": {
+    "message": "Answer Sheet",
+    "description": "测验 zh.json"
+  },
+  "daTiXiangQing": {
+    "message": "Answer Details",
+    "description": "测验 zh.json"
+  },
+  "daiPiYue": {
+    "message": "Ungraded",
+    "description": "测验 zh.json"
+  },
+  "daiPingFen": {
+    "message": "Unscored",
+    "description": "测验 zh.json"
+  },
+  "daoChu": {
+    "message": "Export",
+    "description": "测验 zh.json"
+  },
+  "daoChuChengJi": {
+    "message": "Export Scores",
+    "description": "测验 zh.json"
+  },
+  "daoChuShiJianKeNengJiao": {
+    "message": "Please be patient as the export time may be long.",
+    "description": "测验 zh.json"
+  },
+  "daoChuXiangQing": {
+    "message": "Export Details",
+    "description": "测验 zh.json"
+  },
+  "deFen": {
+    "message": "Score:",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai": {
+    "message": "Scoring Rate:",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai-0": {
+    "message": "Scoring Rate",
+    "description": "测验 zh.json"
+  },
+  "deFenShuaiHandleanswerQues": {
+    "message": "Scoring Rate: {0}",
+    "description": "测验 zh.json"
+  },
+  "diHomeworkanswertimesCiTiJ": {
+    "message": "After the {0}th submission",
+    "description": "测验 zh.json"
+  },
+  "diHomeworksturecordlistlength": {
+    "message": "Submission {0}, {1}",
+    "description": "测验 zh.json"
+  },
+  "diSturecordlistlengthIndexC": {
+    "message": "Attempt {0}",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiDaAnChaoGuo_1000": {
+    "message": "The answer to question {0} exceeds 10000 characters!",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiHuanMeiYouPiYue": {
+    "message": "Question {0} has not been graded, end it now?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiPingFenQueDi": {
+    "message": "Question {0} is not graded, are you sure to save it?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiZuoDaQueDing": {
+    "message": "Question {0} not answered, are you sure to submit?",
+    "description": "测验 zh.json"
+  },
+  "di_1CiTiJiaoHou": {
+    "message": "After the 1 submission",
+    "description": "测验 zh.json"
+  },
+  "dianJiKaiShiLuYin": {
+    "message": " Click to start recording ",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin": {
+    "message": "* Click to start recording ",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin-0": {
+    "message": "* Click to start recording ",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoShengChengLu": {
+    "message": "*Click on generate recording",
+    "description": "测验 zh.json"
+  },
+  "dropdownQuestion": {
+    "message": "Multiple Drop-down",
+    "description": "测验 zh.json"
+  },
+  "duoCiTiJiaoQuZuiGaoFen": {
+    "message": "If multiple attempts allowed, the highest score is counted.",
+    "description": "测验 zh.json"
+  },
+  "faBu": {
+    "message": "Publish",
+    "description": "测验 zh.json"
+  },
+  "faBuCeYan": {
+    "message": "Publish Quiz",
+    "description": "测验 zh.json"
+  },
+  "faBuChengGong": {
+    "message": "Published successfully!",
+    "description": "测验 zh.json"
+  },
+  "fanHui": {
+    "message": "Back",
+    "description": "测验 zh.json"
+  },
+  "fanHuiXiuGai": {
+    "message": "Back to Edit",
+    "description": "测验 zh.json"
+  },
+  "fen": {
+    "message": "Points",
+    "description": "测验 zh.json"
+  },
+  "fenXiBaoGao": {
+    "message": "Analysis report",
+    "description": "测验 zh.json"
+  },
+  "fenZhi": {
+    "message": "Points:",
+    "description": "测验 zh.json"
+  },
+  "fenZhiXuZai_1100ZhiJianK": {
+    "message": "The score must be between 1 and -100, with one decimal place allowed",
+    "description": "测验 zh.json"
+  },
+  "formulaQuestion": {
+    "message": "Calculated Formula",
+    "description": "测验 zh.json"
+  },
+  "fuJianZuiDuoShangChuanTh": {
+    "message": "Upload up to {0} attachments",
+    "description": "测验 zh.json"
+  },
+  "fuZhiCeYan": {
+    "message": "Duplicate Quiz",
+    "description": "测验 zh.json"
+  },
+  "fuZhiChengGong": {
+    "message": "Duplicated successfully!",
+    "description": "测验 zh.json"
+  },
+  "geBanShiJianBuTong": {
+    "message": "Class times vary",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouCeYanDuYiP": {
+    "message": "Congratulations, all students in your class have been graded!",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouXueShengDuY": {
+    "message": "Congratulations, all students in your class have been graded!",
+    "description": "测验 zh.json"
+  },
+  "guanBi": {
+    "message": "Close",
+    "description": "测验 zh.json"
+  },
+  "handlenumitemscoreFen": {
+    "message": "({0} points)",
+    "description": "测验 zh.json"
+  },
+  "huiDaCuoWu": {
+    "message": "Incorrect!",
+    "description": "测验 zh.json"
+  },
+  "huiDaZhengQue": {
+    "message": "Correct!",
+    "description": "测验 zh.json"
+  },
+  "huiFang": {
+    "message": "Playback",
+    "description": "测验 zh.json"
+  },
+  "itemnum_0Ren": {
+    "message": "{0} persons",
+    "description": "测验 zh.json"
+  },
+  "itemsubquestionslengthXiaoTi": {
+    "message": "({0} questions, {1} points in total)",
+    "description": "测验 zh.json"
+  },
+  "jiXuDaTi": {
+    "message": "Continue to Answer",
+    "description": "测验 zh.json"
+  },
+  "jiXuFaBu": {
+    "message": "Continue to Publish",
+    "description": "测验 zh.json"
+  },
+  "jiXuPiYue": {
+    "message": "Continue to Grade",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian": {
+    "message": "End Time: ",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian-0": {
+    "message": "End Time",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJianBuNengZaoY": {
+    "message": "The end time cannot be earlier than the start time",
+    "description": "测验 zh.json"
+  },
+  "jieXi": {
+    "message": "Explanation:",
+    "description": "测验 zh.json"
+  },
+  "jinHangZhong": {
+    "message": "In progress",
+    "description": "测验 zh.json"
+  },
+  "jinKeGuanTiDanXuanDuoXu": {
+    "message": "Objective questions only (including Multiple Choice, Multiple Response, True/False, Sequence, Multiple Drop-down, Word Bank, Cloze Test)",
+    "description": "测验 zh.json"
+  },
+  "jinXianShiYiTiJiaoDeXue": {
+    "message": "Only display submitted students, Click Refresh.",
+    "description": "测验 zh.json"
+  },
+  "jingDu": {
+    "message": "Accuracy: {0}",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaTi": {
+    "message": "Start Answering",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaoChu": {
+    "message": "Start to Export",
+    "description": "测验 zh.json"
+  },
+  "kaiShiPingFen": {
+    "message": "Start Grading",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian": {
+    "message": "Start Time: ",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian-0": {
+    "message": "Start Time",
+    "description": "测验 zh.json"
+  },
+  "kaoShengDaAn": {
+    "message": "Student Answer: ",
+    "description": "测验 zh.json"
+  },
+  "kaoShengLuYin": {
+    "message": "Student Recording:",
+    "description": "测验 zh.json"
+  },
+  "kaoShengWeiDaTi": {
+    "message": "The student did not answer the question",
+    "description": "测验 zh.json"
+  },
+  "keChengZhongYiCunZaiXian": {
+    "message": "An assignment with the same name already exists in your course, please modify the quiz title",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa": {
+    "message": "If you leave and re-enter later, you will need to restart the quiz. Are you sure you want to leave?",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa-0": {
+    "message": "The review is not completed, leaving will not save the record of this review, sure to leave?",
+    "description": "测验 zh.json"
+  },
+  "liShiZuiGaoFen": {
+    "message": "Highest Historical Score:",
+    "description": "测验 zh.json"
+  },
+  "luYin": {
+    "message": "Record",
+    "description": "测验 zh.json"
+  },
+  "luYinZhongDianJiBoWenTi": {
+    "message": "Recording, click on the ripple to stop",
+    "description": "测验 zh.json"
+  },
+  "manFen": {
+    "message": "Full Marks",
+    "description": "测验 zh.json"
+  },
+  "manFen-0": {
+    "message": "Full Marks:",
+    "description": "测验 zh.json"
+  },
+  "meiGeBanJiFenKaiSheZhi": {
+    "message": "Different across classes",
+    "description": "测验 zh.json"
+  },
+  "meiYiCiTiJiaoHou": {
+    "message": "After each submission",
+    "description": "测验 zh.json"
+  },
+  "meiYouDaiPingFenDeTiMu": {
+    "message": "There are no questions to be graded",
+    "description": "测验 zh.json"
+  },
+  "meiYouNeiRong": {
+    "message": "No content",
+    "description": "测验 zh.json"
+  },
+  "meiYouZhaoDaoFuHeTiaoJi": {
+    "message": "No matching content found",
+    "description": "测验 zh.json"
+  },
+  "moRenPaiXu": {
+    "message": "Sort by default",
+    "description": "测验 zh.json"
+  },
+  "multipleQuestion": {
+    "message": "Multiple Response",
+    "description": "测验 zh.json"
+  },
+  "oralReadQuestion": {
+    "message": "Language - Read Aloud",
+    "description": "测验 zh.json"
+  },
+  "oralSubjectQuestion": {
+    "message": "Language - Oral",
+    "description": "测验 zh.json"
+  },
+  "paiZhao": {
+    "message": "Take a photo",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi": {
+    "message": "Modify points in batches:",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi-0": {
+    "message": "Modify points in batches",
+    "description": "测验 zh.json"
+  },
+  "piYue": {
+    "message": "Grade",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong": {
+    "message": "Grading Successful!",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong-0": {
+    "message": "Grading Successful",
+    "description": "测验 zh.json"
+  },
+  "piYueWanChengHouXueSheng": {
+    "message": "Students can resubmit it only after the review is complete.",
+    "description": "测验 zh.json"
+  },
+  "piYueZhuangTaiXiaJinXian": {
+    "message": "In the review status, only the ungraded questions are displayed.",
+    "description": "测验 zh.json"
+  },
+  "pingFen": {
+    "message": "Score:",
+    "description": "测验 zh.json"
+  },
+  "pingFen-0": {
+    "message": "Score",
+    "description": "测验 zh.json"
+  },
+  "pingFenHaoShiKeNengJiao": {
+    "message": "The grading may take a while and will be processed in the background. Please check the re-grading results later.",
+    "description": "测验 zh.json"
+  },
+  "pingJunFen": {
+    "message": "Average Score",
+    "description": "测验 zh.json"
+  },
+  "pingJunFenAverage_0": {
+    "message": "Average Score: {0}",
+    "description": "测验 zh.json"
+  },
+  "pingYu": {
+    "message": "Comments:",
+    "description": "测验 zh.json"
+  },
+  "qingDaKaiShouJiQuanXian": {
+    "message": "Please enable the mobile phone permissions",
+    "description": "测验 zh.json"
+  },
+  "qingDengDaiJiaoShiPiYue": {
+    "message": "Please wait for the teacher to grade",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiCeYanShiJian": {
+    "message": "Please set the quiz time",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiJieShuShiJian": {
+    "message": "Please set end time",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiKaiShiShiJian": {
+    "message": "Please set start time",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiShiJian": {
+    "message": "Set the time",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanBiaoTi": {
+    "message": "Please enter a quiz title",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanMingCheng": {
+    "message": "Please enter a quiz title",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuDaTiCiShu": {
+    "message": "Please enter the number of attempts allowed",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuYunXuTiJiaoCi": {
+    "message": "Please enter the number of submissions allowed",
+    "description": "测验 zh.json"
+  },
+  "qingShuRu_0thisquestionscore": {
+    "message": "Enter a score of 0-{0} (One decimal place is allowed)",
+    "description": "测验 zh.json"
+  },
+  "qingTianXieYunXuTiJiaoC": {
+    "message": "Please enter the number of submissions allowed",
+    "description": "测验 zh.json"
+  },
+  "qingTianXie_1100DeZhengSh": {
+    "message": "Enter an integral between 1~100",
+    "description": "测验 zh.json"
+  },
+  "qingXieXiaNiDeDaAn": {
+    "message": "Please enter your answer",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZe": {
+    "message": "Please Select",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJi": {
+    "message": "Please Select Class",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJiHouSheZh": {
+    "message": "Please select a class and set the quiz time",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeCeYanJieShuSh": {
+    "message": "Please select a end time",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeShiJian": {
+    "message": "Please select a time",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeTiMu": {
+    "message": "Please select questions",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeXuYaoZhongXin": {
+    "message": "Please select the question type that needs to be regraded:",
+    "description": "测验 zh.json"
+  },
+  "quTiKuXuanTi": {
+    "message": "Import from Question Bank",
+    "description": "测验 zh.json"
+  },
+  "quXiao": {
+    "message": "Cancel",
+    "description": "测验 zh.json"
+  },
+  "quXiaoZhongXie": {
+    "message": "Cancel the rewrite",
+    "description": "测验 zh.json"
+  },
+  "quanBu": {
+    "message": "All",
+    "description": "测验 zh.json"
+  },
+  "quanBuBanJi": {
+    "message": "All Classes",
+    "description": "测验 zh.json"
+  },
+  "quanBuJiaoShi": {
+    "message": "All Teachers",
+    "description": "测验 zh.json"
+  },
+  "quanXuan": {
+    "message": "Select All",
+    "description": "测验 zh.json"
+  },
+  "queDing": {
+    "message": "Confirm",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKai": {
+    "message": "Confirm to leave",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKaiMa": {
+    "message": "Sure to leave？",
+    "description": "测验 zh.json"
+  },
+  "queDingQuXiaoMa": {
+    "message": "Sure you want to cancel?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCeYanMa": {
+    "message": "Are you sure you want to delete the quiz?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCiTiMa": {
+    "message": "Are you sure you want to delete this question?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuTiMuMa": {
+    "message": "Are you sure you want to delete the question?",
+    "description": "测验 zh.json"
+  },
+  "queDingTiJiao": {
+    "message": "Sure to submit?",
+    "description": "测验 zh.json"
+  },
+  "questionrecordanswerWordcount": {
+    "message": "{0} words",
+    "description": "测验 zh.json"
+  },
+  "questionrecordscore_0Fen": {
+    "message": "+{0} points",
+    "description": "测验 zh.json"
+  },
+  "questionscoreFen": {
+    "message": "({0} points)",
+    "description": "测验 zh.json"
+  },
+  "renShu": {
+    "message": "No. of users",
+    "description": "测验 zh.json"
+  },
+  "ruGuoTiMuZhongBaoHanXu": {
+    "message": "If the question contains subjective questions that require manual grading, the teacher",
+    "description": "测验 zh.json"
+  },
+  "ruYuLiuLanQiLanJieDanC": {
+    "message": "If your browser blocks pop-ups, please set it to always allow pop-ups.",
+    "description": "测验 zh.json"
+  },
+  "saoMaQianMing": {
+    "message": "Scan QR code to sign",
+    "description": "测验 zh.json"
+  },
+  "shanChu": {
+    "message": "Delete",
+    "description": "测验 zh.json"
+  },
+  "shanChuCeYan": {
+    "message": "Delete the Quiz",
+    "description": "测验 zh.json"
+  },
+  "shanChuChengGong": {
+    "message": "Deleted successfully",
+    "description": "测验 zh.json"
+  },
+  "shanChuTiMu": {
+    "message": "Delete Question",
+    "description": "测验 zh.json"
+  },
+  "shangChuanFuJianDaXiaoZh": {
+    "message": "The size of the uploaded attachment can only be {0}",
+    "description": "测验 zh.json"
+  },
+  "shangChuanShiBai": {
+    "message": "Upload failed",
+    "description": "测验 zh.json"
+  },
+  "shangYiCiPingFenChuLiZh": {
+    "message": "The last grading is being processed, please check back later",
+    "description": "测验 zh.json"
+  },
+  "shangYiTi": {
+    "message": "Previous Question",
+    "description": "测验 zh.json"
+  },
+  "shangYiYe": {
+    "message": "Previous Page",
+    "description": "测验 zh.json"
+  },
+  "shengYuDaTiCiShu": {
+    "message": "Remaining attempts:",
+    "description": "测验 zh.json"
+  },
+  "shengYuHomeworkanswertimesH": {
+    "message": "There are {0} attempts remaining.",
+    "description": "测验 zh.json"
+  },
+  "shengYuTiJiaoCiShu": {
+    "message": "Remaining submissions:",
+    "description": "测验 zh.json"
+  },
+  "shortAnswerQuestion": {
+    "message": "Short Answer Questions",
+    "description": "测验 zh.json"
+  },
+  "shuRuCeYanYaoQiu": {
+    "message": "Enter the quiz requirements",
+    "description": "测验 zh.json"
+  },
+  "shuRuFenZhi": {
+    "message": "Enter score",
+    "description": "测验 zh.json"
+  },
+  "shuRuNeiRong": {
+    "message": "Click to enter the content",
+    "description": "测验 zh.json"
+  },
+  "shuRuPingYuFeiBiTian": {
+    "message": "Click to enter the comments (optional)",
+    "description": "测验 zh.json"
+  },
+  "shuRuXueShengXueHaoHuoX": {
+    "message": "Enter student ID or name",
+    "description": "测验 zh.json"
+  },
+  "shuRuZuoYeYaoQiu": {
+    "message": "Input assignment requirements",
+    "description": "测验 zh.json"
+  },
+  "shunXuKeHuHuan": {
+    "message": "* The order is interchangeable",
+    "description": "测验 zh.json"
+  },
+  "singleQuestion": {
+    "message": "Single Choice",
+    "description": "测验 zh.json"
+  },
+  "sortQuestion": {
+    "message": "Sequence",
+    "description": "测验 zh.json"
+  },
+  "souSuo": {
+    "message": "Search",
+    "description": "测验 zh.json"
+  },
+  "suoYouZhiChiZhongXinPing": {
+    "message": "All question types that support regrading (including the aforementioned objective questions, as well as fill-in-the-blank questions and oral reading questions)",
+    "description": "测验 zh.json"
+  },
+  "testinfoquizhomeworkbaseinfodt": {
+    "message": "{0} times",
+    "description": "测验 zh.json"
+  },
+  "tiJiao": {
+    "message": "Submit",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoChengGong": {
+    "message": "Submitted successfully",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShu": {
+    "message": "Submission Count",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShuYingWei_1100D": {
+    "message": "The number of submissions should be an integer from 1-100",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJian": {
+    "message": "Submission Time",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianDaoXu": {
+    "message": "Descending order of submission",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianHomeworkstuan": {
+    "message": "Submission time: {0}",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianZhengXu": {
+    "message": "Ascending order of submission",
+    "description": "测验 zh.json"
+  },
+  "tiMu": {
+    "message": "Question",
+    "description": "测验 zh.json"
+  },
+  "tiMuDeFenShuaiTongJi": {
+    "message": "Statistics on Question Score Rates",
+    "description": "测验 zh.json"
+  },
+  "tiMuQu": {
+    "message": "Questions Area",
+    "description": "测验 zh.json"
+  },
+  "tiMuXiangQing": {
+    "message": "Question Details",
+    "description": "测验 zh.json"
+  },
+  "tiShi": {
+    "message": "Tips",
+    "description": "测验 zh.json"
+  },
+  "tiShu": {
+    "message": "Number of Questions:",
+    "description": "测验 zh.json"
+  },
+  "tiShu-0": {
+    "message": "Number of Questions",
+    "description": "测验 zh.json"
+  },
+  "tiXing": {
+    "message": "Question Type",
+    "description": "测验 zh.json"
+  },
+  "tiXingChengGong": {
+    "message": "Reminded successfully",
+    "description": "测验 zh.json"
+  },
+  "tiXingXueShengJiaoZuoYe": {
+    "message": "Remind students to hand in their homework",
+    "description": "测验 zh.json"
+  },
+  "tianJiaBanJi": {
+    "message": "Add Class",
+    "description": "测验 zh.json"
+  },
+  "tianJiaFuJian": {
+    "message": "Add Attachment",
+    "description": "测验 zh.json"
+  },
+  "tongYiSheZhi": {
+    "message": "Unified Settings",
+    "description": "测验 zh.json"
+  },
+  "trueOrFalseQuestion": {
+    "message": "True/False",
+    "description": "测验 zh.json"
+  },
+  "tuiChu": {
+    "message": "Exit",
+    "description": "测验 zh.json"
+  },
+  "tuiChuCeYanHouXiTongJiangZiDong": {
+    "message": "After exiting the quiz, the system will automatically save your answers. Are you sure you want to exit?",
+    "description": "测验 zh.json"
+  },
+  "tuiChuPiYue": {
+    "message": "Exit",
+    "description": "测验 zh.json"
+  },
+  "tuoDongXuanXiangPaiXu": {
+    "message": "*Drag options to sort",
+    "description": "测验 zh.json"
+  },
+  "unEvaluatedQuestionShowTips": {
+    "message": "Only the questions to be graded are displayed",
+    "description": "测验 zh.json"
+  },
+  "wanCheng": {
+    "message": "Complete",
+    "description": "测验 zh.json"
+  },
+  "weiGongBu": {
+    "message": "Unpublished",
+    "description": "测验 zh.json"
+  },
+  "weiKaiShi": {
+    "message": "Not Started",
+    "description": "测验 zh.json"
+  },
+  "weiTiJiao": {
+    "message": "Not Submitted",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa": {
+    "message": "Not Answered!",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa-0": {
+    "message": "Not Answered",
+    "description": "测验 zh.json"
+  },
+  "wenJianBuNengChaoGuo_500m": {
+    "message": "The file cannot exceed 500MB",
+    "description": "测验 zh.json"
+  },
+  "woDeChengJi": {
+    "message": "My Grades",
+    "description": "测验 zh.json"
+  },
+  "woZhiDaoLe": {
+    "message": "I Got It",
+    "description": "测验 zh.json"
+  },
+  "wordsBlanksQuestion": {
+    "message": "Word Bank",
+    "description": "测验 zh.json"
+  },
+  "wuChaFangWei": {
+    "message": "Margin of error: ±{0}",
+    "description": "测验 zh.json"
+  },
+  "xiaYiBu": {
+    "message": "Next Step",
+    "description": "测验 zh.json"
+  },
+  "xiaYiFen": {
+    "message": "Next",
+    "description": "测验 zh.json"
+  },
+  "xiaYiTi": {
+    "message": "Next Question",
+    "description": "测验 zh.json"
+  },
+  "xiaYiYe": {
+    "message": "Next Page",
+    "description": "测验 zh.json"
+  },
+  "xiaZai": {
+    "message": "Download",
+    "description": "测验 zh.json"
+  },
+  "xiangCeQuanXianWeiDaKai": {
+    "message": "Album permission is not open",
+    "description": "测验 zh.json"
+  },
+  "xiangQing": {
+    "message": "Details >>",
+    "description": "测验 zh.json"
+  },
+  "xingMing": {
+    "message": "Name",
+    "description": "测验 zh.json"
+  },
+  "xiuGai": {
+    "message": "Edit",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiCeYan": {
+    "message": "Edit Quiz",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiChengGong": {
+    "message": "Edited successfully!",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiFenZhi": {
+    "message": "Edit Score",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiTiMuHuoFenZhiHou": {
+    "message": "After modifying the questions or points, please use the [Regrade] function on the quiz review page to regrade the submitted students.",
+    "description": "测验 zh.json"
+  },
+  "xuZhongXie": {
+    "message": "Need to rewrite",
+    "description": "测验 zh.json"
+  },
+  "xuanXiang": {
+    "message": "Option",
+    "description": "测验 zh.json"
+  },
+  "xuanZeBanJi": {
+    "message": "Select Class",
+    "description": "测验 zh.json"
+  },
+  "xuanZeNianYueRiXiaoShi": {
+    "message": "Select Year, Month, Day and Hour",
+    "description": "测验 zh.json"
+  },
+  "xuanZePaiXu": {
+    "message": "Select Sort",
+    "description": "测验 zh.json"
+  },
+  "xuanZeRenShu": {
+    "message": "Select Number of People",
+    "description": "测验 zh.json"
+  },
+  "xuanZeWenJian": {
+    "message": "Select File",
+    "description": "测验 zh.json"
+  },
+  "xuanZeXiangCe": {
+    "message": "Select Album",
+    "description": "测验 zh.json"
+  },
+  "xueHao": {
+    "message": "Student ID",
+    "description": "测验 zh.json"
+  },
+  "xueHaoDaoXu": {
+    "message": "Descending order by Student ID",
+    "description": "测验 zh.json"
+  },
+  "xueHaoZhengXu": {
+    "message": "Ascending order by Student ID",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ": {
+    "message": "Students submit multiple submissions, and the final grade takes the highest score.",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ-0": {
+    "message": "Students with multiple submissions will receive the highest grade. If the quiz include subjective questions that require manual grading, students may not resubmit until the teacher has completed the review.",
+    "description": "测验 zh.json"
+  },
+  "yiDa": {
+    "message": "Answered:",
+    "description": "测验 zh.json"
+  },
+  "yiJieShu": {
+    "message": "Ended",
+    "description": "测验 zh.json"
+  },
+  "yiPiYue": {
+    "message": "Reviewed",
+    "description": "测验 zh.json"
+  },
+  "yiPingFen": {
+    "message": "Graded",
+    "description": "测验 zh.json"
+  },
+  "yiTiJiaoCiShuYunXuTiJi": {
+    "message": "Attempted/Attempts",
+    "description": "测验 zh.json"
+  },
+  "yiXieContentWordcountZi": {
+    "message": "{0} words have been written",
+    "description": "测验 zh.json"
+  },
+  "yongHuYiJuJueLuYinQuan": {
+    "message": "The user has been denied the recording permission, please change the settings and try again",
+    "description": "测验 zh.json"
+  },
+  "yuLanTiMu": {
+    "message": "Preview",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiJiao": {
+    "message": "Overdue",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiTiJiao": {
+    "message": "Not Submitted After the Deadline",
+    "description": "测验 zh.json"
+  },
+  "yunXuDaTiCiShu": {
+    "message": "Attempts Allowed:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu": {
+    "message": "Attempts Allowed:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu-0": {
+    "message": "Attempts Allowed",
+    "description": "测验 zh.json"
+  },
+  "zaiCiDaTi": {
+    "message": "Answer Again",
+    "description": "测验 zh.json"
+  },
+  "zanBuLiKai": {
+    "message": "Do Not Leave Temporarily",
+    "description": "测验 zh.json"
+  },
+  "zanBuTiJiao": {
+    "message": "Do Not Submit Temporarily",
+    "description": "测验 zh.json"
+  },
+  "zanWuTiMuQingXianQuTiK": {
+    "message": "No questions yet, please go to select questions first",
+    "description": "测验 zh.json"
+  },
+  "zanWuXueShengTiJiaoZuoY": {
+    "message": "No students have submitted assignments",
+    "description": "测验 zh.json"
+  },
+  "zhanBi": {
+    "message": "Percentage",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAn": {
+    "message": "Correct Answer:",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAnArrayisarrayqu": {
+    "message": "Correct Answer: {0}",
+    "description": "测验 zh.json"
+  },
+  "zhengQueShuai": {
+    "message": "Accuracy Rate",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiLuYinDianJiTing": {
+    "message": "Recording, click to pause",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiShengChengDaTiJi": {
+    "message": "Generating answer records...",
+    "description": "测验 zh.json"
+  },
+  "zhongLu": {
+    "message": "Re-Record",
+    "description": "测验 zh.json"
+  },
+  "zhongTuTuiChuXiTongBuBa": {
+    "message": "Exit the system halfway through without saving the answer record, please submit it and then close the page.",
+    "description": "测验 zh.json"
+  },
+  "zhongXie": {
+    "message": "Rewrite",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS": {
+    "message": "Rewrites are not limited by the number of submissions and quiz time. When a teacher asks for a rewrite, students can still submit even if the number of submissions has been exhausted, or if the quiz has ended.<br/> <br/>Are you sure you want to ask {0} to rewrite?",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS-0": {
+    "message": "Rewrites are not limited by the number of submissions and quiz time. When a teacher asks for a rewrite, students can still submit even if the number of submissions has been exhausted, or if the quiz has ended. <br/>Are you sure you want to ask {0} to rewrite?",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFen": {
+    "message": "Regrade",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFenShiBai": {
+    "message": "Re-grading Failed",
+    "description": "测验 zh.json"
+  },
+  "zhongXinShangChuan": {
+    "message": "Re-upload",
+    "description": "测验 zh.json"
+  },
+  "zhongZuo": {
+    "message": "Redo",
+    "description": "测验 zh.json"
+  },
+  "zhuYiCeYanZhongRuGuoBao": {
+    "message": "Note: Quizzes that contain subjective questions to be graded will need to wait for teacher approval before submitting them again.",
+    "description": "测验 zh.json"
+  },
+  "zhuZhongXinPingFenBuHui": {
+    "message": "Note: Re-grading will not affect the scores of manually graded questions such as essay questions. For question types supporting system grading (e.g., fill-in-the-blank questions), if they have already been manually reviewed, the system's re-grading will overwrite the manual review records. Please use this function with caution.",
+    "description": "测验 zh.json"
+  },
+  "zongFen": {
+    "message": "Total Score:",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFen": {
+    "message": "Lowest Score",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFenLowest_0": {
+    "message": "Lowest Score: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuanThisfilenu": {
+    "message": "Upload up to {0} attachments",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuan_5GeFuJi": {
+    "message": "Upload up to 5 attachments",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTi": {
+    "message": "You can choose up to 200 questions",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu": {
+    "message": "You can choose up to 200 questions",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu-0": {
+    "message": "Select up to {0} questions",
+    "description": "测验 zh.json"
+  },
+  "zuiGao": {
+    "message": "Highest",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFen": {
+    "message": "Highest Score",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenHighest_0": {
+    "message": "Highest Score: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenSubmitresponsemaxg": {
+    "message": "Highest Score: {0} points",
+    "description": "测验 zh.json"
+  },
+  "zuiHouYiCiTiJiaoHou": {
+    "message": "After the last submission",
+    "description": "测验 zh.json"
+  },
+  "zuoYeBiaoTiBuNengChaoGu": {
+    "message": "The homework title must not exceed 200 characters (about 100 Chinese characters)",
+    "description": "测验 zh.json"
+  },
+  "zuoYeYaoQiuBuNengChaoGu": {
+    "message": "The assignment requirement cannot exceed 5000 characters.",
+    "description": "测验 zh.json"
+  },
+  "ExportTip1": {
+    "message": "If a student submits a test multiple times, the details exported will show the highest score of the student's test results.",
+    "description": "测验 zh.json"
+  },
+  "signature": {
+    "message": "Electronic Signature",
+    "description": "测验 zh.json"
+  },
+  "yes": {
+    "message": "True",
+    "description": "测验 zh.json"
+  },
+  "no": {
+    "message": "False",
+    "description": "测验 zh.json"
   }
 }

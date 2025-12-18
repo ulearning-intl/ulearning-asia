@@ -127,10 +127,6 @@
     "message": "Akhiri kegiatan",
     "description": "小应用"
   },
-  "restartActivity": {
-    "message": "Memulai kegiatan sekali lagi",
-    "description": "小应用"
-  },
   "saving": {
     "message": "Sedang disimpan",
     "description": "小应用"
@@ -895,10 +891,6 @@
     "message": "Guna menjamin keefektifan kegiatan, kelas yang ikut serta dalam kegiatan dan aturan penilaian tidak dapat diubah.",
     "description": "小应用"
   },
-  "score.tips": {
-    "message": "Pilih mahasiswa/kelompok untuk ditampilkan di dalam kelas, mahasiswa lainnya memberi penilaian untuk mereka.",
-    "description": "小应用"
-  },
   "score.activityTypeTips1": {
     "message": "Setelah dimulai, tambah mahasiswa di halaman kegiatan. Mahasiswa lainnya memberikan penilaian untuk mahasiswa yang terpilih.",
     "description": "小应用"
@@ -909,18 +901,6 @@
   },
   "score.activityTypeTips3": {
     "message": "Silahkan tentukan subjek yang perlu dinilai untuk mahasiswa di kelas.",
-    "description": "小应用"
-  },
-  "score.pleaseAddStu": {
-    "message": "Silahkan tambah mahasiswa",
-    "description": "小应用"
-  },
-  "score.pleaseAddGroup": {
-    "message": "Silahkan tambah kelompok",
-    "description": "小应用"
-  },
-  "score.pleaseAddObject": {
-    "message": "Silahkan tambah subjek penilaian",
     "description": "小应用"
   },
   "score.noEndEvaluation": {
@@ -957,10 +937,6 @@
   },
   "score.allStuEvaluated": {
     "message": "Semua mahasiswa telah menilai",
-    "description": "小应用"
-  },
-  "score.member": {
-    "message": "Anggota",
     "description": "小应用"
   },
   "score.groupMember": {
@@ -1011,16 +987,8 @@
     "message": "Tidak ada penilaian yang sudah berakhir",
     "description": "小应用"
   },
-  "score.pleaseMarkTips": {
-    "message": "Silahkan beri nilai, nilai sempurna 100",
-    "description": "小应用"
-  },
   "score.markPlaceholder": {
     "message": "Silahkan masukkan nilai",
-    "description": "小应用"
-  },
-  "score.maxTips": {
-    "message": "Nilai tidak boleh lebih dari 100 ",
     "description": "小应用"
   },
   "score.markByItem": {
@@ -1065,10 +1033,6 @@
   },
   "score.confirmDeleteGroup": {
     "message": "Yakin untuk hapus kelompok ini?",
-    "description": "小应用"
-  },
-  "score.confirmDeleteObj": {
-    "message": "Yakin untuk hapus objek penilaian ini?",
     "description": "小应用"
   },
   "score.evaluatingStudents": {
@@ -1147,16 +1111,8 @@
     "message": "Cara absensi",
     "description": "小应用"
   },
-  "attendance.screenTips": {
-    "message": "“Absen kode QR” perlu membuka tampilan layar. Di layar akan menampilkan kode QR untuk absensi.",
-    "description": "小应用"
-  },
   "attendance.screenTipsNew": {
     "message": "\"Kode QR check-in\" perlu membuka layar proyeksi dan menampilkan kode QR check-in di layar lebar. Siswa hanya dapat menggunakan ponsel mereka untuk memindai kode untuk masuk.",
-    "description": "小应用"
-  },
-  "attendance.locationTips": {
-    "message": "Check-in Lokasi memerlukan pemosisian untuk diaktifkan. Karena dampak bts jaringan 4G dan stabilitas jaringan, akan ada kesalahan tertentu dalam data lokasi.",
     "description": "小应用"
   },
   "attendance.locationTipsNew": {
@@ -1343,24 +1299,8 @@
     "message": "Jarak anda dengan dosen terlalu jauh! Jika anda berada di dalam kelas, coba ganti ke jaringan internet yang berbeda dan lakukan absensi ulang. Apabila setelah dicoba berkali-kali lokasi tetap tidak tepat, silahkan beritahu dosen, dosen akan mengganti status absensi anda secara manual.",
     "description": "小应用"
   },
-  "attendance.mobilePluginTips1": {
-    "message": "Mohon ijinkan ULearn untuk menggunakan layanan lokasi, lalu coba kembali",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips2": {
-    "message": "Mohon aktifkan layanan lokasi di ponsel anda, serta ijinkan ULearn untuk menggunakan layanan lokasi",
-    "description": "小应用"
-  },
   "attendance.mobilePluginTips3": {
     "message": "Layanan lokasi tidak stabil, informasi lokasi anda tidak terbaca, anda dapat mencobanya kembali",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips4": {
-    "message": "Akses kamera belum diaktifkan",
-    "description": "小应用"
-  },
-  "attendance.mobilePluginTips5": {
-    "message": "Silahkan aktifkan akses ponsel",
     "description": "小应用"
   },
   "attendance.numCodeFresh": {
@@ -1433,10 +1373,6 @@
   },
   "attendance.teaEnter": {
     "message": "Tidak ada lokasi, entri guru",
-    "description": "小应用"
-  },
-  "announcement.title": {
-    "message": "Pengumuman",
     "description": "小应用"
   },
   "announcement.publish": {
@@ -1559,10 +1495,6 @@
     "message": "Tidak mendukung dokumen jenis ini",
     "description": "小应用"
   },
-  "upload.maxFileCount2": {
-    "message": "Unggah maksimum {count} lampiran",
-    "description": "小应用"
-  },
   "upload.video1GLimit": {
     "message": "Video tidak boleh lebih dari 1G",
     "description": "小应用"
@@ -1575,10 +1507,6 @@
     "message": "Mulai jawab cepat",
     "description": "小应用"
   },
-  "answer.contentPlaceholder": {
-    "message": "Silahkan masukkan konten jawab cepat, tidak harus diisi",
-    "description": "小应用"
-  },
   "answer.participantsCount": {
     "message": "Jumlah peserta",
     "description": "小应用"
@@ -1589,10 +1517,6 @@
   },
   "answer.classroomAnswer": {
     "message": "Jawab cepat di kelas",
-    "description": "小应用"
-  },
-  "answer.deleteConfirm": {
-    "message": "Yakin untuk menghapus kegiatan jawab cepat ini?",
     "description": "小应用"
   },
   "answer.backConfirm": {
@@ -1749,10 +1673,6 @@
   },
   "answer.commonScore": {
     "message": "Penilaian terpadu",
-    "description": "小应用"
-  },
-  "answer.endAnswer": {
-    "message": "Akhiri Jawab Cepat",
     "description": "小应用"
   },
   "answer.confirmDeleteAnswer": {
@@ -1989,10 +1909,6 @@
   },
   "class.assessmentClass": {
     "message": "Kelas penilaian",
-    "description": "小应用"
-  },
-  "class.moveOut": {
-    "message": "Pindah keluar",
     "description": "小应用"
   },
   "class.count": {
@@ -2283,10 +2199,6 @@
     "message": "Selalu hadir akan mendapat nilai sempurna, tidak hadir 1 kali akan dikurangi ",
     "description": "小应用"
   },
-  "class.newStrategyScoreItemTips34": {
-    "message": "poin, telat/pulang awal/sakit/ijin urusan akan dikurangi",
-    "description": "小应用"
-  },
   "class.newStrategyScoreItemTips35": {
     "message": "poin, sampai poin habis",
     "description": "小应用"
@@ -2345,14 +2257,6 @@
   },
   "resource.detail": {
     "message": "Rincian sumber",
-    "description": "小应用"
-  },
-  "resource.studentData": {
-    "message": "Statistik mahasiswa",
-    "description": "小应用"
-  },
-  "resource.delete": {
-    "message": "Hapus sumber",
     "description": "小应用"
   },
   "resource.deleteNoAccess": {
@@ -2421,10 +2325,6 @@
   },
   "resource.fromAlbum": {
     "message": "Pilih dari album",
-    "description": "小应用"
-  },
-  "resource.writtenWordsCount": {
-    "message": "Telah menulis {count} kata",
     "description": "小应用"
   },
   "resource.written": {
@@ -2759,10 +2659,6 @@
     "message": "Dosen mengundang anda untuk ikut bergabung dalam kelas",
     "description": "小应用"
   },
-  "course.shareSummary": {
-    "message": "Silahkan ikut bergabung dalam kelas {courseName}, dosen yang mengajar {teacherName}",
-    "description": "小应用"
-  },
   "course.qrCode": {
     "message": "Kode QR kelas",
     "description": "小应用"
@@ -2975,10 +2871,6 @@
     "message": "Universitas/ Lembaga",
     "description": "小应用"
   },
-  "user.select": {
-    "message": "Silahkan pilih",
-    "description": "小应用"
-  },
   "user.notOpen": {
     "message": "Registrasi tertutup",
     "description": "小应用"
@@ -2993,10 +2885,6 @@
   },
   "user.studentIdTip": {
     "message": "Silahkan masukkan NIM/No. Kerja",
-    "description": "小应用"
-  },
-  "user.studentId1": {
-    "message": "Mahasiswa atau dosen yang bukan di universitas tidak wajib mengisi",
     "description": "小应用"
   },
   "user.inputOrgTip1": {
@@ -3107,10 +2995,6 @@
     "message": "Email belum teregistrasi",
     "description": "小应用"
   },
-  "user.getSuccess": {
-    "message": "Berhasil didapat",
-    "description": "小应用"
-  },
   "user.getFail": {
     "message": "Gagal mendapat",
     "description": "小应用"
@@ -3215,10 +3099,6 @@
     "message": "Pilih negara/area",
     "description": "小应用"
   },
-  "user.ULearningAccount": {
-    "message": "Akun ULearn",
-    "description": "小应用"
-  },
   "user.inputUserNameTip1": {
     "message": "Nama pengguna / no. ponsel / Email",
     "description": "小应用"
@@ -3249,10 +3129,6 @@
   },
   "user.userNameUsed": {
     "message": "Pengguna sudah ada",
-    "description": "小应用"
-  },
-  "user.registerFail": {
-    "message": "Registrasi gagal",
     "description": "小应用"
   },
   "user.resgisterSuccess": {
@@ -3459,10 +3335,6 @@
     "message": "Salin kegiatan ke kelas lain",
     "description": "小应用"
   },
-  "classroom.copyTip": {
-    "message": "Setelah disalin, kegiatan masih dalam status belum mulai, anda bisa memulai kegiatan-kegiatan ini setelah mulai kelas, kegiatan absensi/pilih mahasiswa tidak bisa disalin",
-    "description": "小应用"
-  },
   "classroom.copyTip1": {
     "message": "Setelah menyalin kelas, kegiatan seperti pemungutan dan penjawab tidak dimulai, dan Anda dapat memulai kegiatan ini setelah kelas.",
     "description": "小应用"
@@ -3585,10 +3457,6 @@
   },
   "classroom.closeSuccess": {
     "message": "Berhasil ditutup",
-    "description": "小应用"
-  },
-  "classroom.confirmEndPick": {
-    "message": "Yakin untuk akhiri Pilih Mahasiswa?",
     "description": "小应用"
   },
   "classroom.actunstart": {
@@ -3927,10 +3795,6 @@
     "message": "Izinkan login",
     "description": "小应用"
   },
-  "loginCode.screenCode": {
-    "message": "Pindai kode untuk mentransmisikan layar",
-    "description": "小应用"
-  },
   "loginCode.msg1": {
     "message": "Masuk ke terminal perangkat lain",
     "description": "小应用"
@@ -4151,18 +4015,6 @@
     "message": "Berhasil berbagi",
     "description": "小应用"
   },
-  "photograph.msg1": {
-    "message": "Unggah foto seperti yang diminta instruktur Anda, hingga maksimal 20 gambar",
-    "description": "小应用"
-  },
-  "photograph.msg2": {
-    "message": "Gambar yang dikirimkan oleh siswa lain",
-    "description": "小应用"
-  },
-  "photograph.msg3": {
-    "message": "Saya mengirimkan gambarnya",
-    "description": "小应用"
-  },
   "photograph.msg4": {
     "message": "Kegiatan telah berakhir",
     "description": "小应用"
@@ -4177,18 +4029,6 @@
   },
   "photograph.msg7": {
     "message": "Unggah hingga 20 gambar",
-    "description": "小应用"
-  },
-  "photograph.msg8": {
-    "message": "Yakin untuk hapus?",
-    "description": "小应用"
-  },
-  "photograph.msg9": {
-    "message": "Siswa mengunggah gambar untuk presentasi kelas",
-    "description": "小应用"
-  },
-  "photograph.msg10": {
-    "message": "Siswa dapat melihat gambar siswa lain setelah mereka mengirimkan",
     "description": "小应用"
   },
   "photograph.msg11": {
@@ -4371,10 +4211,6 @@
     "message": "Apakah Anda yakin ingin mengakhiri diskusi ini?",
     "description": "小应用"
   },
-  "discuss.beginning": {
-    "message": "Memulai diskusi ...",
-    "description": "小应用"
-  },
   "uploadError": {
     "message": "Gagal!",
     "description": "小应用"
@@ -4423,10 +4259,6 @@
     "message": "Kami telah mengirim email ke {email}. Silakan periksa kotak masuk Anda dan ikuti petunjuk untuk mengatur ulang kata sandi Anda.",
     "description": "小应用"
   },
-  "user.pwd6": {
-    "message": "Email telah dikirim. Silakan periksa kotak masuk Anda dan ikuti petunjuk untuk mengatur ulang kata sandi Anda.",
-    "description": "小应用"
-  },
   "user.pwd7": {
     "message": "Kembali ke",
     "description": "小应用"
@@ -4441,14 +4273,6 @@
   },
   "user.pwd10": {
     "message": "Alamat email tidak ada, silakan masukkan kembali",
-    "description": "小应用"
-  },
-  "user.pwd11": {
-    "message": "Akun sedang menunggu aktivasi",
-    "description": "小应用"
-  },
-  "user.pwd12": {
-    "message": "Akun dinonaktifkan",
     "description": "小应用"
   },
   "user.pwd13": {
@@ -4527,10 +4351,6 @@
     "message": "Proporsi peringkat guru",
     "description": "小应用"
   },
-  "score.teacherWeightTip": {
-    "message": "Silahkan masukkan angka 0-100",
-    "description": "小应用"
-  },
   "score.scoreTip": {
     "message": "{n} ulasan, skor rata-rata {score}",
     "description": "小应用"
@@ -4573,14 +4393,6 @@
   },
   "score.fullmarks": {
     "message": "Nilai sempurna",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip": {
-    "message": "Skor sempurna tidak boleh kosong",
-    "description": "小应用"
-  },
-  "score.inputFullmarkTip1": {
-    "message": "Silakan masukkan nilai poin yang valid",
     "description": "小应用"
   },
   "score.scoreSettings": {
@@ -4681,14 +4493,6 @@
   },
   "remind.repeatRemindTips": {
     "message": "Sumber daya yang sama hanya dapat mengirim pengingat sekali sehari. Sudah diingatkan hari ini, coba lagi besok ~",
-    "description": "小应用"
-  },
-  "user.websitHomepage": {
-    "message": "Beranda",
-    "description": "小应用"
-  },
-  "user.contactCustomerService": {
-    "message": "Hubungi layanan pelanggan",
     "description": "小应用"
   },
   "user.bindTips": {
@@ -4847,14 +4651,6 @@
     "message": "Jawaban anda:",
     "description": "小应用"
   },
-  "answerQue.correct": {
-    "message": "Benar",
-    "description": "小应用"
-  },
-  "answerQue.error": {
-    "message": "Salah",
-    "description": "小应用"
-  },
   "answerQue.viewStudentList": {
     "message": "Melihat daftar siswa",
     "description": "小应用"
@@ -4871,20 +4667,12 @@
     "message": "Buka acara upload foto",
     "description": "小应用"
   },
-  "classroom.discussDetails": {
-    "message": "Mari kita bahas detailnya",
-    "description": "小应用"
-  },
   "classroom.reverseOrder": {
     "message": "Urutan terbalik",
     "description": "小应用"
   },
   "classroom.positiveOrder": {
     "message": "Pesanan positif",
-    "description": "小应用"
-  },
-  "loginCode.tip10": {
-    "message": "Setelah masuk di layar besar, Anda dapat melakukan pengajaran tautan",
     "description": "小应用"
   },
   "loginCode.tip11": {
@@ -4999,10 +4787,6 @@
     "message": "Jawaban anda",
     "description": "小应用"
   },
-  "stuList.notJoin": {
-    "message": "Belum berpartisipasi",
-    "description": "小应用"
-  },
   "stuList.notChoose": {
     "message": "Tidak dipilih",
     "description": "小应用"
@@ -5093,6 +4877,218 @@
   },
   "welink.screenshot": {
     "message": "Tangkapan layar",
+    "description": "小应用"
+  },
+  "restartActivity": {
+    "message": "Memulai kegiatan sekali lagi",
+    "description": "小应用"
+  },
+  "score.tips": {
+    "message": "Pilih mahasiswa/kelompok untuk ditampilkan di dalam kelas, mahasiswa lainnya memberi penilaian untuk mereka.",
+    "description": "小应用"
+  },
+  "score.pleaseAddStu": {
+    "message": "Silahkan tambah mahasiswa",
+    "description": "小应用"
+  },
+  "score.pleaseAddGroup": {
+    "message": "Silahkan tambah kelompok",
+    "description": "小应用"
+  },
+  "score.pleaseAddObject": {
+    "message": "Silahkan tambah subjek penilaian",
+    "description": "小应用"
+  },
+  "score.member": {
+    "message": "Anggota",
+    "description": "小应用"
+  },
+  "score.pleaseMarkTips": {
+    "message": "Silahkan beri nilai, nilai sempurna 100",
+    "description": "小应用"
+  },
+  "score.maxTips": {
+    "message": "Nilai tidak boleh lebih dari 100 ",
+    "description": "小应用"
+  },
+  "score.confirmDeleteObj": {
+    "message": "Yakin untuk hapus objek penilaian ini?",
+    "description": "小应用"
+  },
+  "score.teacherWeightTip": {
+    "message": "Silahkan masukkan angka 0-100",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip": {
+    "message": "Skor sempurna tidak boleh kosong",
+    "description": "小应用"
+  },
+  "score.inputFullmarkTip1": {
+    "message": "Silakan masukkan nilai poin yang valid",
+    "description": "小应用"
+  },
+  "attendance.screenTips": {
+    "message": "“Absen kode QR” perlu membuka tampilan layar. Di layar akan menampilkan kode QR untuk absensi.",
+    "description": "小应用"
+  },
+  "attendance.locationTips": {
+    "message": "Check-in Lokasi memerlukan pemosisian untuk diaktifkan. Karena dampak bts jaringan 4G dan stabilitas jaringan, akan ada kesalahan tertentu dalam data lokasi.",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips1": {
+    "message": "Mohon ijinkan ULearn untuk menggunakan layanan lokasi, lalu coba kembali",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips2": {
+    "message": "Mohon aktifkan layanan lokasi di ponsel anda, serta ijinkan ULearn untuk menggunakan layanan lokasi",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips4": {
+    "message": "Akses kamera belum diaktifkan",
+    "description": "小应用"
+  },
+  "attendance.mobilePluginTips5": {
+    "message": "Silahkan aktifkan akses ponsel",
+    "description": "小应用"
+  },
+  "announcement.title": {
+    "message": "Pengumuman",
+    "description": "小应用"
+  },
+  "upload.maxFileCount2": {
+    "message": "Unggah maksimum {count} lampiran",
+    "description": "小应用"
+  },
+  "answer.contentPlaceholder": {
+    "message": "Silahkan masukkan konten jawab cepat, tidak harus diisi",
+    "description": "小应用"
+  },
+  "answer.deleteConfirm": {
+    "message": "Yakin untuk menghapus kegiatan jawab cepat ini?",
+    "description": "小应用"
+  },
+  "answer.endAnswer": {
+    "message": "Akhiri Jawab Cepat",
+    "description": "小应用"
+  },
+  "class.moveOut": {
+    "message": "Pindah keluar",
+    "description": "小应用"
+  },
+  "class.newStrategyScoreItemTips34": {
+    "message": "poin, telat/pulang awal/sakit/ijin urusan akan dikurangi",
+    "description": "小应用"
+  },
+  "resource.studentData": {
+    "message": "Statistik mahasiswa",
+    "description": "小应用"
+  },
+  "resource.delete": {
+    "message": "Hapus sumber",
+    "description": "小应用"
+  },
+  "resource.writtenWordsCount": {
+    "message": "Telah menulis {count} kata",
+    "description": "小应用"
+  },
+  "discuss.beginning": {
+    "message": "Memulai diskusi ...",
+    "description": "小应用"
+  },
+  "course.shareSummary": {
+    "message": "Silahkan ikut bergabung dalam kelas {courseName}, dosen yang mengajar {teacherName}",
+    "description": "小应用"
+  },
+  "user.select": {
+    "message": "Silahkan pilih",
+    "description": "小应用"
+  },
+  "user.studentId1": {
+    "message": "Mahasiswa atau dosen yang bukan di universitas tidak wajib mengisi",
+    "description": "小应用"
+  },
+  "user.getSuccess": {
+    "message": "Berhasil didapat",
+    "description": "小应用"
+  },
+  "user.ULearningAccount": {
+    "message": "Akun ULearn",
+    "description": "小应用"
+  },
+  "user.registerFail": {
+    "message": "Registrasi gagal",
+    "description": "小应用"
+  },
+  "user.websitHomepage": {
+    "message": "Beranda",
+    "description": "小应用"
+  },
+  "user.contactCustomerService": {
+    "message": "Hubungi layanan pelanggan",
+    "description": "小应用"
+  },
+  "user.pwd11": {
+    "message": "Akun sedang menunggu aktivasi",
+    "description": "小应用"
+  },
+  "user.pwd12": {
+    "message": "Akun dinonaktifkan",
+    "description": "小应用"
+  },
+  "answerQue.correct": {
+    "message": "Benar",
+    "description": "小应用"
+  },
+  "answerQue.error": {
+    "message": "Salah",
+    "description": "小应用"
+  },
+  "classroom.copyTip": {
+    "message": "Setelah disalin, kegiatan masih dalam status belum mulai, anda bisa memulai kegiatan-kegiatan ini setelah mulai kelas, kegiatan absensi/pilih mahasiswa tidak bisa disalin",
+    "description": "小应用"
+  },
+  "classroom.confirmEndPick": {
+    "message": "Yakin untuk akhiri Pilih Mahasiswa?",
+    "description": "小应用"
+  },
+  "classroom.discussDetails": {
+    "message": "Mari kita bahas detailnya",
+    "description": "小应用"
+  },
+  "loginCode.screenCode": {
+    "message": "Pindai kode untuk mentransmisikan layar",
+    "description": "小应用"
+  },
+  "loginCode.tip10": {
+    "message": "Setelah masuk di layar besar, Anda dapat melakukan pengajaran tautan",
+    "description": "小应用"
+  },
+  "photograph.msg1": {
+    "message": "Unggah foto seperti yang diminta instruktur Anda, hingga maksimal 20 gambar",
+    "description": "小应用"
+  },
+  "photograph.msg2": {
+    "message": "Gambar yang dikirimkan oleh siswa lain",
+    "description": "小应用"
+  },
+  "photograph.msg3": {
+    "message": "Saya mengirimkan gambarnya",
+    "description": "小应用"
+  },
+  "photograph.msg8": {
+    "message": "Yakin untuk hapus?",
+    "description": "小应用"
+  },
+  "photograph.msg9": {
+    "message": "Siswa mengunggah gambar untuk presentasi kelas",
+    "description": "小应用"
+  },
+  "photograph.msg10": {
+    "message": "Siswa dapat melihat gambar siswa lain setelah mereka mengirimkan",
+    "description": "小应用"
+  },
+  "stuList.notJoin": {
+    "message": "Belum berpartisipasi",
     "description": "小应用"
   }
 }

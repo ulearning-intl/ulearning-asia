@@ -3963,6 +3963,10 @@
     "message": "Cancel",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "permission",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "enter the confirm password",
     "description": "2.0 admin.js"
@@ -4071,20 +4075,8 @@
     "message": "event start time cannot be greater than the event end time",
     "description": "2.0 admin.js"
   },
-  "website.title": {
-    "message": "Multilingual Settings",
-    "description": "2.0 admin.js"
-  },
-  "website.title2": {
-    "message": "Website Name Multilingual Settings",
-    "description": "2.0 admin.js"
-  },
-  "website.placeholder": {
-    "message": "Please enter {lang}",
-    "description": "2.0 admin.js"
-  },
-  "website.error": {
-    "message": "Default language value cannot be empty",
+  "defaultLangError": {
+    "message": "The default language title of the institution cannot be empty!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4179,6 +4171,22 @@
     "message": "University/College Introduction",
     "description": "2.0 admin.js"
   },
+  "website.title": {
+    "message": "Multilingual Settings",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "Website Name Multilingual Settings",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "Please enter {lang}",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "Default language value cannot be empty",
+    "description": "2.0 admin.js"
+  },
   "resourceLibraryCtrl.resourceLibraryName": {
     "message": "Resource Name",
     "description": "2.0 admin.js"
@@ -4253,6 +4261,198 @@
   },
   "resourceLibraryCtrl.resourseLib": {
     "message": "Resource library",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "Share",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "Upload",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "All Types",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "All Upload Status",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "Copy and Share Records",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "Resource Publishing Records",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "Other Settings",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "By Email",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "By Account",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "Please enter user emails, separate multiple users with commas",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "Please select users who need to change password from existing accounts",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "Please enter default password after reset",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "Please enter username or email",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "Select from existing accounts",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "Default password after reset",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "Batch Reset Password",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "Select User",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "Selected: {num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "Please select at least one method to set users who need to change password",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "Successfully modified {successCount}, failed {failCount}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "Select All on This Page",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "Clear All on This Page",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "Delete Resource Only",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Delete Resources Published to Courses",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Delete Resources Copied to Resource Library",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Delete Both Published and Copied",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "Select Course",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "Please select which courses to publish the resources to:",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "Select All",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Published Successfully",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "Publishing Failed",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "No courses yet, please create a course first",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "Please select a course first",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "Deletion Failed",
+    "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "Enable",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "Disable",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "After disabling, the user will not be able to log in. Are you sure you want to disable?",
+    "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "synchronize",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "self-built",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "All creation methods",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "undergraduate",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "postgraduate",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "All learning stages",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "Course Code",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "Belong semester",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "Teacher ID",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "School segment",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "Creation method",
     "description": "2.0 admin.js"
   }
 }

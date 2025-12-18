@@ -2606,5 +2606,1665 @@
   "publishSuccess": {
     "message": "Publicado con éxito",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "Base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "Conjunto de instrucciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "Flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "Edición de flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "Solicitud exitosa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "Soporta formatos jpg, jpeg, png, gif, tamaño no superior a 2M. Proporción recomendada: 1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "Cantidad diaria de {name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "Por favor ingrese la cantidad diaria de {name}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "La cantidad diaria de {name} debe ser un número",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "Subir archivo adjunto",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "Subir imagen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "Sube una imagen que requiera que el modelo multimodal comprenda su contenido.<br />Para habilitar la función de carga de imágenes, es necesario habilitar simultáneamente el modelo multimodal.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "El modelo multimodal admite la comprensión del contenido de imágenes, incluidas imágenes sin texto como diseños, y admite preguntas y respuestas basadas en el contenido de imágenes.<br/>Al seleccionar el modelo multimodal, se habilitará simultáneamente la función de carga de imágenes.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "Modelo multimodal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "Una vez activado, todos los administradores y profesores de la institución podrán utilizarlo.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "El flujo de trabajo es una herramienta que permite el procesamiento automatizado de tareas mediante la orquestación visual de procesos. Los flujos de trabajo se pueden publicar como aplicaciones independientes o como complementos de agentes inteligentes, que se pueden invocar en conversaciones mediante comandos de voz.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "Crear flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "Modificar flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "Orquestación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "Visitar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "Icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "Descripción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "Por favor ingrese el nombre del flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "El nombre debe tener entre 1 y 200 caracteres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "Configuración de acceso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "Chino simplificado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "Chino tradicional",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "Dirección de acceso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "No habilitado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "Habilitado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "Copiar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "Configuración de funciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "Ocultar detalles del flujo de trabajo durante la ejecución",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "Permisos de acceso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "Permitir acceso después del inicio de sesión, sin restricciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "Permitir acceso después del inicio de sesión, solo para usuarios de la escuela",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "Permitir acceso público, no requiere inicio de sesión",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "Eliminar flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "Al eliminar el flujo de trabajo, se eliminarán simultáneamente todos los registros de acceso. ¿Está seguro de eliminar?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Sin permisos de acceso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Servicio no activado, sin permisos de acceso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "Seleccionar icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "Subir icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "Borrador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "Idioma de la interfaz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "El tamaño de la imagen no puede exceder 2M",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "Por favor suba un icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "Por favor ingrese la descripción del flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "Recortar icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "Gestión de plantillas de instrucciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "Organización de IA",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "Importación masiva de plantillas de instrucciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "Importación masiva de plantillas de preguntas y respuestas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "Tiempo de creación:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "Guardar como borrador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "Guardar y publicar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "Configuración del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "El modelo multimodal admite la comprensión del contenido de imágenes, incluidas imágenes sin texto como diseños, y admite preguntas y respuestas basadas en el contenido de imágenes.<br/>Al seleccionar el modelo multimodal, se habilitará simultáneamente la función de carga de imágenes.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "Multimodal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "Modelo preferido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "Establecer como preferido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "Depurar y previsualizar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "Guardar y previsualizar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "Configuración de roles",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "El mensaje de bienvenida y la apertura son obligatorios, deben completarse antes de la vista previa.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "Las posibles preguntas son obligatorias",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "Actualizar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "Instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "Conocimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "Habilidades",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "Por favor seleccione el estado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "Estadísticas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "Unidad",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "Todos los estados",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "Las observaciones de apertura no pueden exceder los 1000 caracteres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "Mensaje de bienvenida y apertura",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "Por favor ingrese el mensaje de bienvenida y la apertura para ayudar a guiar la comprensión rápida del asistente de IA.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "Ingrese las preguntas que el usuario podría querer hacer para guiar el inicio de la conversación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "Agregar pregunta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "Apariencia del humano digital",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "Por favor seleccione la apariencia del humano digital",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "Por favor complete las indicaciones del sistema para establecer una serie de restricciones sobre la personalidad del rol y la lógica de respuesta.\nEjemplo:\n# Rol\nEres un profesor universitario que enseña el curso de Historia Moderna y Contemporánea de China.\n# Tarea\nApoyar la preparación del curso de Historia Moderna y Contemporánea de China.\n# Requisitos\nPara contenido no relacionado con el curso de Historia Moderna y Contemporánea de China, responder directamente: No apoyo responder contenido no relacionado con el curso de Historia Moderna y Contemporánea de China.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "Operación de eliminación cancelada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "Se pueden agregar máximo 5 preguntas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "Eliminación por lotes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Agregar base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "Total {count} bases de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "Mostrar fuente de conocimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "Habilitar mostrar fuente de conocimiento: Al realizar preguntas y respuestas, se mostrarán los nombres de los recursos de la base de conocimientos en la fuente de conocimiento.<br/>No habilitar mostrar fuente de conocimiento: Al realizar preguntas y respuestas, se mostrará directamente el nombre de la base de conocimientos, sin mostrar los nombres de los recursos de la base de conocimientos en la fuente de conocimiento.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "Agregar base de conocimientos ahora",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "Has seleccionado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "bases de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "¿Está seguro de eliminar la base de conocimientos {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "Configuración de visualización de instrucciones rápidas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "Mostrar por instrucción larga",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "Mostrar por instrucción corta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "Agregar instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "Seleccionar instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "Todo ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "Detalles de la instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "instrucciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "Mis creaciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "Plantillas compartidas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "Por favor ingrese el título de la instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "Por favor ingrese la descripción de la instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "¿Está seguro de eliminar la instrucción {title}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "¿Está seguro de eliminar el grupo {name}?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "El nombre del grupo no puede estar vacío",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "Por favor seleccione al menos una instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "Instrucción agregada exitosamente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "Error al agregar instrucción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "Se pueden agregar máximo 50 grupos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "Puede configurar habilidades según las características del asistente de IA para crear un asistente de IA distintivo.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "Modo de diálogo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "Configure la base de conocimientos, el modelo grande puede responder preguntas de los usuarios basándose en la base de conocimientos, mejorando la precisión de las preguntas y respuestas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "Configure instrucciones rápidas, puede establecer instrucciones características según las características del asistente de IA para crear un asistente de IA distintivo. También puede preestablecer instrucciones comunes en el asistente de IA para que los usuarios las invoquen rápidamente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "Falló la validación del formulario",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "Activar base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "Configuración de personaje y lógica de respuesta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "Gestión de base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "Ver las bases de conocimiento creadas en toda la plataforma y otorgar permisos de uso a las instituciones.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "Nombre/ID de la base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "Operaciones por lotes:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "Activación por lotes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "Activar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "Base de conocimientos:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "Base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "Activar institución",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "Activar base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "Ver las bases de conocimiento referenciadas por la institución actual. Nota: La lista no incluye las bases de conocimiento creadas por la institución.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "Bases de conocimiento seleccionadas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "Cancelar activación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "¿Está seguro de cancelar la activación?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "Has seleccionado {num} instituciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "Total {n} bases de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "No hay instituciones seleccionadas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "No hay bases de conocimiento seleccionadas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "Mis creaciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "Importación externa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "Tiempo de activación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "Has seleccionado {num} bases de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "Activar institución:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "Activación exitosa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "Falló la activación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "Información detallada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "Institución:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "Tiempo de creación:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "Base de conocimientos referenciada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "Ingrese el nombre de la base de conocimientos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "Gestión de instrucciones generales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "Gestione las instrucciones generales, disponibles para que todos los profesores y administradores de la institución seleccionen y utilicen instrucciones generales.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "Generación de gráficos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "Por favor ingrese el número total de generaciones de gráficos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "El número total de generaciones de gráficos debe ser un número",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "Por favor ingrese el número de generaciones de gráficos disponibles por día",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedbackManagement": {
+    "message": "Q&a gestión de comentarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedback": {
+    "message": "Preguntas y respuestas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfiedFeedback": {
+    "message": "Comentarios de satisfacción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfiedFeedback": {
+    "message": "Comentarios insatisfactorios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "report": {
+    "message": "denuncia",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackList": {
+    "message": "Lista de comentarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allFeedback": {
+    "message": "Todos los comentarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfied": {
+    "message": "satisfacción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfied": {
+    "message": "insatisfecho",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackLabel": {
+    "message": "Etiqueta de retroalimentación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "supplementaryExplanation": {
+    "message": "Notas complementarias",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackType": {
+    "message": "Tipo de feedback",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackPerson": {
+    "message": "Persona de retroalimentación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackTime": {
+    "message": "Tiempo de retroalimentación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackDetails": {
+    "message": "Detalles del feedback",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyReply": {
+    "message": "Modificar una respuesta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeReply": {
+    "message": "Modificar una respuesta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replyRemoved": {
+    "message": "Respuesta ha sido eliminada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userQuestion": {
+    "message": "Preguntas de usuarios",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterReplyContent": {
+    "message": "Por favor, introduzca una respuesta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemoveReply": {
+    "message": "Seguro eliminar respuesta?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeSuccess": {
+    "message": "Eliminado con éxito",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeFailed": {
+    "message": "Eliminación fallida",
+    "description": "aiAssistantManagezh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "Nocivo/inseguro",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pornographicVulgar": {
+    "message": "vulgar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "abuseAttack": {
+    "message": "Ataque abusivo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "illegalCriminal": {
+    "message": "Infracciones y delitos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "privacyRelated": {
+    "message": "Relacionado con privacidad",
+    "description": "aiAssistantManagezh.json"
+  },
+  "infringeCopyright": {
+    "message": "Violar mis derechos de autor, derechos de nombre, etc.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackOther": {
+    "message": "otros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentAccurate": {
+    "message": "Exactitud del contenido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "easyToUnderstand": {
+    "message": "Fácil de entender",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentComplete": {
+    "message": "Perfeccionamiento del contenido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "falseInformation": {
+    "message": "Información falsa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notHelpful": {
+    "message": "Sin ayuda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noReply": {
+    "message": "No hay respuestas todavía",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAiAssistantFeedback": {
+    "message": "Ver la respuesta de AI assistant q&a.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewPlatformFeedback": {
+    "message": "Ver todas las preguntas y respuestas de la plataforma.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getFeedbackDetailsFailed": {
+    "message": "Obtener detalles de la retroalimentación falló",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseInputMarkdownFormat": {
+    "message": "(por favor, introduzca el formato markdown)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.DigitalPersonManagement": {
+    "message": "Gestión de personas digitales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSpace": {
+    "message": "Espacio para equipos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSettings": {
+    "message": "Miembros y configuración",
+    "description": "aiAssistantManagezh.json"
+  },
+  "browserTabIcon": {
+    "message": "Icono de pestaña del navegador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tabIconUploadTip": {
+    "message": "Se recomienda subir 16×16px (PNG con fondo transparente). El tamaño máximo del archivo es de 50kb",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleImage": {
+    "message": "Figura de ejemplo:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logoUploadTip": {
+    "message": "Tamaño recomendado: altura mínima 30px, ancho adaptable (PNG fondo transparente), tamaño máximo del archivo 150kb",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit50KB": {
+    "message": "Tamaño de la imagen cargada dentro de 50KB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit150KB": {
+    "message": "Tamaño de la imagen cargada dentro de 50KB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit6MB": {
+    "message": "El tamaño de la imagen cargada no debe superar los 6MB",
+    "description": "aiAssistantManagezh.json"
+  },
+  "domainValidationRule": {
+    "message": "Los nombres de dominio son sólo letras y números, no más de 10 caracteres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategory": {
+    "message": "Modificar la clasificación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowSkillPluginTip": {
+    "message": "Con la adición de un flujo de trabajo como complemento de habilidades, los modelos pueden automatizar las tareas relacionadas con el flujo de trabajo de acuerdo con las instrucciones del idioma en una conversación. Algunos modelos no soportan llamadas autónomas a flujos de trabajo (como tongyi qanq VL). Si la llamada no tiene éxito, intente cambiar a otro modelo o refine la descripción del plugin de flujo de trabajo y los parámetros.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "invalid": {
+    "message": "desactivado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowDeletedOrPluginNotEnabled": {
+    "message": "El flujo de trabajo ha sido eliminado o la llamada del plugin no está activada.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflow": {
+    "message": "Añadir un workflow",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflowPluginHint": {
+    "message": "Para agregar un plugin de flujo de trabajo, asegúrese de que el flujo de trabajo esté publicado y que la función de llamada de plugin esté activada.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationNotEnabled": {
+    "message": "Llamadas de plugin no abiertas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRelatedContentFound": {
+    "message": "No se ha encontrado contenido relacionado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowUnit": {
+    "message": "Un flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "bindSuccess": {
+    "message": "Éxito de vinculación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocation": {
+    "message": "Llamada al plugin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationTip": {
+    "message": "Para llamar a un flujo de trabajo en una conversación de AI assistant, habilite la función de llamada de plug-in y complete la configuración correspondiente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginId": {
+    "message": "ID del plugin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescription": {
+    "message": "Descripción del plugin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescriptionPlaceholder": {
+    "message": "Describe el propósito del flujo de trabajo para facilitar la comprensión del modelo de llamadas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputParameters": {
+    "message": "Introduzca los parámetros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "isRequired": {
+    "message": "Sí no requerido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "writeType": {
+    "message": "Modo de llenado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userInput": {
+    "message": "Entrada del usuario",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRecognition": {
+    "message": "Identificación de modelos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescription": {
+    "message": "nota",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescriptionPlaceholder": {
+    "message": "Complete las instrucciones de los parámetros para ayudar al modelo a entender la identificación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "descriptionTooLong": {
+    "message": "La descripción no debe exceder 1000 palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackSimple": {
+    "message": "retroalimentación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTeamSpace": {
+    "message": "Crear un espacio de equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTeamSpace": {
+    "message": "No hay espacio de equipo todavía",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createNewTeamSpace": {
+    "message": "Crear un nuevo espacio de equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSpace": {
+    "message": "Creando un espacio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySpace": {
+    "message": "Modificar el espacio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTeamSpaceDescription": {
+    "message": "Crear un espacio de equipo para co-construir y compartir agentes, bases de conocimiento y flujos de trabajo.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceName": {
+    "message": "Nombre del espacio del equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameYourTeamSpace": {
+    "message": "Dale un nombre a tu espacio de equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTeamSpaceName": {
+    "message": "Por favor, introduzca el nombre del espacio de equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceNameMaxLength": {
+    "message": "El nombre del espacio de equipo no puede exceder {n} palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceMaxLength": {
+    "message": "El nombre del espacio de equipo no puede exceder {n} palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceDescription": {
+    "message": "Por favor, introduzca la descripción del espacio del equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "descriptionMaxLength": {
+    "message": "La descripción no puede exceder {n} palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageSpaceMembersAndInfo": {
+    "message": "Gestión de miembros del espacio con información básica del espacio.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "memberManagement": {
+    "message": "Gestión de miembros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationLog": {
+    "message": "Registro de acciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "serialNumber": {
+    "message": "número de serie",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userName": {
+    "message": "Nombre",
+    "description": "aiAssistantManagezh.json"
+  },
+  "joinTime": {
+    "message": "Unirse tiempo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeFromTeam": {
+    "message": "Mover fuera del equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemove": {
+    "message": "¿Seguro de salir del equipo?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMemberSuccess": {
+    "message": "Salir con éxito",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMemberFailed": {
+    "message": "No se pudo mudar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewPermissions": {
+    "message": "Ver los permisos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addMember": {
+    "message": "Agregar miembros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSpace": {
+    "message": "Borrar un espacio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedMembers": {
+    "message": "Miembros ya elegidos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterNameOrAccount": {
+    "message": "Miembros ya elegidos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarning": {
+    "message": "Por favor, elimine con cuidado. Después de la eliminación, todos los datos dentro del espacio del equipo se perderán.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTeamSpaceNameToDelete": {
+    "message": "Por favor, introduzca el nombre del espacio de equipo que desea eliminar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamNameRequired": {
+    "message": "El nombre del espacio de equipo no puede estar vacío",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamNameMismatch": {
+    "message": "El nombre del espacio de equipo introducido no coincide con el nombre actual del espacio de equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedMembersCount": {
+    "message": "Has seleccionado {n} miembros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "module": {
+    "message": "Modulo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "function": {
+    "message": "Función",
+    "description": "aiAssistantManagezh.json"
+  },
+  "administrator": {
+    "message": "Administrador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "member": {
+    "message": "Los miembros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistant": {
+    "message": "Asistente de ia",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addAiAssistant": {
+    "message": "Añadir un asistente AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editAiAssistant": {
+    "message": "Editor asistente de ia",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestrateAiAssistant": {
+    "message": "Asistente de orquestación AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistant": {
+    "message": "Eliminar el asistente AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategorySameLevel": {
+    "message": "Añadir categoría same level",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategorySubLevel": {
+    "message": "Añadir subnivel de categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategory": {
+    "message": "Eliminar una categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "Eliminar una categoría",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addResource": {
+    "message": "Añadir un recurso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResource": {
+    "message": "Importación de recursos didácticos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editResource": {
+    "message": "Modificar un recurso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteResource": {
+    "message": "Modificar un recurso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQAPair": {
+    "message": "Crear preguntas y respuestas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImportQAPair": {
+    "message": "Importación Excel q & a par",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupManagement": {
+    "message": "Gestión por grupos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyQAPair": {
+    "message": "Modificar preguntas y respuestas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteQAPair": {
+    "message": "Eliminar pares de preguntas y respuestas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflow": {
+    "message": "Flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editWorkflow": {
+    "message": "Editar el flujo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestrateWorkflow": {
+    "message": "Orquestar el flujo de trabajo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyTeamSpace": {
+    "message": "Modificar el espacio del equipo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyRole": {
+    "message": "Modificar el rol",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMember": {
+    "message": "Retirada de un miembro",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationTime": {
+    "message": "Horas de operación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operator": {
+    "message": "operador",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationModule": {
+    "message": "Módulo de operación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationDetails": {
+    "message": "Detalles de operación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOperationModules": {
+    "message": "Todos los módulos operativos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startDate": {
+    "message": "Fecha de inicio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endDate": {
+    "message": "Fecha de finalización",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userOrchestrating": {
+    "message": "{user} está en la orquestación. No se puede acceder a la orquestación temporalmente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadAvatar": {
+    "message": "Por favor, sube el icono",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noselectedMembers": {
+    "message": "No hay miembros elegidos todavía",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addFailed": {
+    "message": "Error al agregar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "spaceTip1": {
+    "message": "[{spaceName}] el flujo de trabajo [{workflowName}] del espacio [{spaceName}] está siendo orquestado. La orquestación no está disponible temporalmente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "spaceTip2": {
+    "message": "El flujo de trabajo [{workflowName}] del espacio personal está siendo orquestado. La orquestación no está disponible temporalmente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanManagement": {
+    "message": "Gestión de personas digitales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanManagementDesc": {
+    "message": "Gestión unificada de la imagen humana digital de la plataforma",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createDigitalHuman": {
+    "message": "Creando personas digitales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editDigitalHuman": {
+    "message": "Editando personas digitales",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDigitalHumanName": {
+    "message": "Por favor ingrese el nombre de la persona digital",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanDescTip": {
+    "message": "Ilustración de la figura humana digital usando la escuela, etc.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDescription": {
+    "message": "Por favor ingrese una descripción",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortrait": {
+    "message": "Mapa de imagen estática",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortraitUsage": {
+    "message": "Uso: se utiliza para la exhibición al seleccionar la figura humana digital.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "requirements": {
+    "message": "Requisitos para:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedSize384512": {
+    "message": "Tamaño sugerido: 384*512px o 3:4",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedFormatPng": {
+    "message": "Formato sugerido: PNG",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadPngTip": {
+    "message": "Se recomienda subir en formato PNG con un tamaño máximo de 2M. Tamaño sugerido: 384px*512px o 3:4",
+    "description": "aiAssistantManagezh.json"
+  },
+  "actionPackage": {
+    "message": "Acción paquete comprimido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "packageRequirements": {
+    "message": "Requisitos del paquete comprimido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlyZipFormat": {
+    "message": "Solo se pueden cargar paquetes comprimidos en formato zip.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "packageNamingOrder": {
+    "message": "El nombre de las acciones y el orden de las acciones en el paquete comprimido se muestra a la derecha.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder1Greeting": {
+    "message": "Carpeta 1 corresponde a [saludar]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder2StandSilent": {
+    "message": "Carpeta 2 corresponde a [de pie sin hablar]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder3StandSpeak": {
+    "message": "Carpeta 3 corresponde a [hablar de pie]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder4OneHandIntro": {
+    "message": "Carpeta 4 corresponde a [introducción de una mano]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder5TwoHandIntro": {
+    "message": "Carpeta 5 correspondiente a [introducción de las dos manos]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folderImageGif": {
+    "message": "Carpeta image.gif corresponde a [gif chart]",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gifRequirementsTitle": {
+    "message": "Requisitos de gráficos gif en el paquete comprimido (para la presentación de la fase de carga de gráficos de acción desglosados)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedSize450750": {
+    "message": "Tamaño sugerido: 450px*750px.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedFormatGifTransparent": {
+    "message": "Formato recomendado: gif con fondo transparente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "positionRequirement": {
+    "message": "Posición: persona digital en la parte inferior, izquierda y derecha no deje mucho en blanco. Cada marco debe estar en un eje central. La posición de la figura humana digital en la imagen no debe cambiar.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "motionRequirement": {
+    "message": "Movimiento: consistente con el movimiento de pararse sin hablar. Para garantizar la coherencia de la acción, se recomienda que la amplitud de la acción no sea demasiado grande. El primer y el último marco de la acción del gif deben ser coherentes. El contenido con cambios de acción se coloca en el medio del gif.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frameImageRequirementsTitle": {
+    "message": "Cinco acciones en el paquete comprimido cuadro por cuadro gráfico requerido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "size450750Ratio35": {
+    "message": "Tamaño: 450px*750px, relación ancho/altura: 3:5, ancho 3, alto 5.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formatPngTransparent": {
+    "message": "Formato: PNG con fondo transparente.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "positionRequirement2": {
+    "message": "Posición: persona digital en la parte inferior, izquierda y derecha no deje mucho en blanco. Cada marco debe estar en un eje central. La posición de la figura humana digital en la imagen no debe cambiar.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fiveActionsRequirement": {
+    "message": "Cinco acciones: para garantizar la coherencia de las acciones, el primer y el último marco de cada acción deben ser coherentes. El contenido con cambios de acción se coloca en el medio de la secuencia de cuadro por cuadro exportada.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "framingNamingRule": {
+    "message": "Reglas de nombre de imagen por cuadro: la imagen de debut de cada acción se nomora a partir de [image_0.png] y las siguientes imágenes se multiplican.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanNameRequired": {
+    "message": "Número nombre de la persona no puede estar vacío",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanNameMaxLength": {
+    "message": "El nombre de la persona digital no puede exceder 200 palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanDescMaxLength": {
+    "message": "La descripción de la persona digital no debe exceder 2000 palabras",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortraitRequired": {
+    "message": "La imagen estática no puede estar vacía",
+    "description": "aiAssistantManagezh.json"
+  },
+  "actionPackageRequired": {
+    "message": "Acción el paquete comprimido no puede estar vacío",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteDigitalHumanConfirm": {
+    "message": "Después de la eliminación no estará disponible la imagen humana digital, ¿Está seguro de eliminar?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationSuccess": {
+    "message": "Éxito de operación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationFailed": {
+    "message": "Falla de operación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadActionPackage": {
+    "message": "Haga clic para subir action zip",
+    "description": "aiAssistantManagezh.json"
+  },
+  "requireFormatZip": {
+    "message": "Formato requerido: zip",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlyOnePackageSupported": {
+    "message": "Solo se admite la carga de un paquete comprimido",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelConfig": {
+    "message": "Configuración modelo grande",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagementHint": {
+    "message": "Disponible solo para administradores de agencias. Después de la apertura, el administrador de la agencia puede acceder al centro de usuarios para agregar y administrar la cuenta de esta agencia.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfig": {
+    "message": "Configuración del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrganization": {
+    "message": "Configuración del mecanismo:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelName": {
+    "message": "Nombre del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelEnabled": {
+    "message": "Modelo abierto o no",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelClosed": {
+    "message": "Está cerrado",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDailyUsage": {
+    "message": "Dosis diaria para el modelo (token/ día)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyUsage": {
+    "message": "Por favor ingrese su dosis diaria",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayBalance": {
+    "message": "Margen de hoy:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalTokenUsage": {
+    "message": "Uso total de tokens institucionales (tokens)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "networkSearchEnabled": {
+    "message": "Búsqueda en red sí no",
+    "description": "aiAssistantManagezh.json"
+  },
+  "networkSearchDailyUsage": {
+    "message": "Búsqueda en red de dosis diarias (veces/día)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgNetworkSearchTotalUsage": {
+    "message": "Uso total de la búsqueda de red institucional (sub)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "NoSettingsHaveBeenConfigured": {
+    "message": "No hay elementos de configuración todavía",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectPreferredModel": {
+    "message": "Por favor, establezca el modelo preferido grande",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDocument": {
+    "message": "Subir un documento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAtLeastOneModel": {
+    "message": "Debe abrir un modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelUsage": {
+    "message": "Uso del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "Generación de planes de lecciones",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterLessonPlanGenerationTotal": {
+    "message": "Por favor, introduzca el plan de lecciones para generar el margen total",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGenerationNumberRequired": {
+    "message": "El margen total de generación de planes de lecciones debe ser numérico",
+    "description": "aiAssistantManagezh.json"
+  },
+  "returnToTheServiceBackend": {
+    "message": "Volver al backoffice del servicio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logInToTheAccount": {
+    "message": "Acceso a cuenta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataBoard": {
+    "message": "Kanban de datos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageDetails": {
+    "message": "Detalles de uso para profesores",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageDetails": {
+    "message": "Detalles de uso para estudiantes",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConsumption": {
+    "message": "Consumo por modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allYears": {
+    "message": "Todo el año",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTotalUsage": {
+    "message": "Dosificación total del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageDistribution": {
+    "message": "Distribución del uso del modelo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputOutputDistribution": {
+    "message": "Distribución de entrada/salida",
+    "description": "aiAssistantManagezh.json"
+  },
+  "input": {
+    "message": "entrada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "output": {
+    "message": "salida",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleUsageDistribution": {
+    "message": "Papel dosificación distribución",
+    "description": "aiAssistantManagezh.json"
+  },
+  "others": {
+    "message": "otros",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrend": {
+    "message": "Tendencias de uso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "periodComparison": {
+    "message": "Comparación de ciclos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisWeekUsageComparedToLastWeek": {
+    "message": "Dosis esta semana comparado con la semana pasada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisMonthUsageComparedToLastMonth": {
+    "message": "Dosis del mes en comparación con el mes anterior",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrendChart": {
+    "message": "Tendencias en dosificación",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageRanking": {
+    "message": "Clasificación de uso",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageRanking": {
+    "message": "Clasificación de uso del profesor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageRanking": {
+    "message": "Ranking de uso estudiantil",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantUsageRanking": {
+    "message": "Ranking de uso de asistentes AI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "export": {
+    "message": "exporta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterUserNameOrAccount": {
+    "message": "Ingrese su nombre de usuario/número de cuenta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalTokenUsage": {
+    "message": "Tokens cantidad total utilizada",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensInfo": {
+    "message": "Cantidad total de tokens. Es una estadística de consumo para modelos grandes. Los tokens de un modelo grande son la unidad básica de sus palabras procesadas, y el consumo es la suma de los tokens de entrada (pregunta) y salida (respuesta). <br/> en el modelo grande, la delimitación de 1 token varía según el idioma. Chino generalmente 1 kanji o puntuación cuenta como 1 token; Inglés generalmente alrededor de 4 letras cuentan 1 token, o considerar 1 palabra como 1 token.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageInstruction": {
+    "message": "Ver estadísticas de datos de uso del modelo institucional.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensUnit": {
+    "message": "Unidad: tokens",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myriad": {
+    "message": "Millones de",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loadError": {
+    "message": "Falla al cargar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTip": {
+    "message": "Para garantizar que el contenido sea claramente visible, evite elegir un color de tema demasiado claro",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip": {
+    "message": "Volver automáticamente a la página principal del sitio después de segundos, o hacer clic manualmente",
+    "description": "aiAssistantManagezh.json"
+  },
+  "backHome": {
+    "message": "Volver al inicio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip1": {
+    "message": "El nombre de la clasificación no puede estar vacío",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip2": {
+    "message": "El nombre de la clasificación no puede superar los 200 caracteres",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moveSuccess": {
+    "message": "Éxito en movimiento",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyTip1": {
+    "message": "La clasificación seleccionada se eliminará de forma sincronizada si contiene subcategorías de nivel. Toda la base de conocimiento en la categoría se dividirá en [uncategorized].",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount1": {
+    "message": "Importación exitosa. ¡Se han importado {num} pares de preguntas y respuestas!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "stuNum": {
+    "message": "XueHao",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workNum": {
+    "message": "GongHao",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadErrorTip": {
+    "message": "La carga falló y el archivo no cumple con los requisitos",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingTip": {
+    "message": "Por favor, establezca la configuración funcional primero",
+    "description": "aiAssistantManagezh.json"
+  },
+  "redirecting": {
+    "message": "Saltar en medio",
+    "description": "aiAssistantManagezh.json"
   }
 }

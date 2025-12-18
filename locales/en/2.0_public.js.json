@@ -2515,10 +2515,6 @@
     "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "Your login password hasn't been updated in <strong class='text-red'>{dayNum}</strong> days!",
-    "description": "2.0 public.js"
-  },
   "programPreviewEntry": {
     "message": "Entrance Settings",
     "description": "2.0 public.js"
@@ -2580,11 +2576,15 @@
     "description": "2.0 public.js"
   },
   "notOpen": {
-    "message": "unopened",
+    "message": "NotOpen",
     "description": "2.0 public.js"
   },
   "AIIframeLoading": {
     "message": "Loading, please wait...",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "Your login password hasn't been updated in <strong class='text-red'>{dayNum}</strong> days!",
     "description": "2.0 public.js"
   }
 }

@@ -1,602 +1,2050 @@
 {
-    "analysis.text17": {
-        "message": "Se o navegador bloquear pop-ups, Selecione Permitir sempre que o website abra uma Janela.",
-        "description": ""
-    },
-    "analysis.text20": {
-        "message": "A avaliação pode levar tempo. O Sistema processará em Segundo plano, posteiormente Ver a nota reavaliada.",
-        "description": ""
-    },
-    "stuGuide.text6": {
-        "message": "Requisitos do Teste",
-        "description": ""
-    },
-    "stuAnswer.text5": {
-        "message": "Se você sair agora, o sistema não salvará seu registro de respostas. \n Confirmar fechamento?",
-        "description": ""
-    },
-    "analysis.text1": {
-        "message": "As durações das Turmas são diferentes",
-        "description": ""
-    },
-    "review": {
-        "message": "Corrigir",
-        "description": ""
-    },
-    "publish.text11": {
-        "message": "Editar pontuações em lote:",
-        "description": ""
-    },
-    "minScore": {
-        "message": "Pontuação mínima",
-        "description": ""
-    },
-    "fullMarks": {
-        "message": "Nota máxima",
-        "description": ""
-    },
-    "publish.text19": {
-        "message": "Por favor, escolha um horário",
-        "description": ""
-    },
-    "publish.text21": {
-        "message": "Participar da turma:",
-        "description": ""
-    },
-    "notStarted": {
-        "message": "não iniciado",
-        "description": ""
-    },
-    "publish.text23": {
-        "message": "Turma",
-        "description": ""
-    },
-    "teaRead.text11": {
-        "message": "Sair da correção",
-        "description": ""
-    },
-    "unannounced": {
-        "message": "Não divulgado",
-        "description": ""
-    },
-    "publish.text16": {
-        "message": "Configurações uniforme",
-        "description": ""
-    },
-    "analysis.text4": {
-        "message": "Nota do teste",
-        "description": ""
-    },
-    "reDo": {
-        "message": "Refazer",
-        "description": ""
-    },
-    "publish.text31": {
-        "message": "Duração para divulgação da resposta:",
-        "description": ""
-    },
-    "afterQuiz": {
-        "message": "Após a conclusão do teste",
-        "description": ""
-    },
-    "teaRead.text10": {
-        "message": "Parabéns, todas os alunos foram corrigidos.",
-        "description": ""
-    },
-    "publish.text3": {
-        "message": "Próximo",
-        "description": ""
-    },
-    "publish.text26": {
-        "message": "Permitir Número de submissões:",
-        "description": ""
-    },
-    "stuAnswer.text8": {
-        "message": "A resposta da questão {tips} excede {num} letras!",
-        "description": ""
-    },
-    "lookQues.text3": {
-        "message": "Resposta não divulgada",
-        "description": ""
-    },
-    "teaRead.text9": {
-        "message": "Exibir apenas Alunos Submetidos, Clique para atualizar",
-        "description": ""
-    },
-    "publish.text22": {
-        "message": "Selecionar turma",
-        "description": ""
-    },
-    "publish.text33": {
-        "message": "Selecionar todos",
-        "description": ""
-    },
-    "stuAnswer.text2": {
-        "message": "Responder às perguntas",
-        "description": ""
-    },
-    "publish.text20": {
-        "message": "Data de conclusão:",
-        "description": ""
-    },
-    "waitTeaReview": {
-        "message": "Aguarde, por favor, a correção do professor",
-        "description": ""
-    },
-    "publish.text30": {
-        "message": "O aluno pode Ressubmeter somente após a Correção ser concluída.",
-        "description": ""
-    },
-    "analysis.text26": {
-        "message": "Detalhes da questão",
-        "description": ""
-    },
-    "analysis.text2": {
-        "message": "Número de submissões permitidas:",
-        "description": ""
-    },
-    "analysis.text9": {
-        "message": "exportar Detalhes",
-        "description": ""
-    },
-    "publish.text7": {
-        "message": "Digitar Tarefa",
-        "description": ""
-    },
-    "stuAnswer.text1": {
-        "message": "Se sair durante o sistema não salva o registro de respostas, por favor envie e depois feche a página.",
-        "description": ""
-    },
-    "peopleCount": {
-        "message": "Número de pessoas",
-        "description": ""
-    },
-    "viewAnswerRecords": {
-        "message": "Ver Registro de Respostas",
-        "description": ""
-    },
-    "analysis.text13": {
-        "message": "Todos os tipos de itens que permitem uma nova avaliação (incluindo as questões objetivas mencionadas acima, bem como exercícios de preenchimento de lacunas e exercícios de leitura oral)",
-        "description": ""
-    },
-    "teaRead.text4": {
-        "message": "Salvar e alternar com o próximo",
-        "description": ""
-    },
-    "publish.text8": {
-        "message": "Selecionar questões do banco de questões",
-        "description": ""
-    },
-    "publish.text10": {
-        "message": "Pontuação total:",
-        "description": ""
-    },
-    "teaRead.text2": {
-        "message": "Recusar",
-        "description": ""
-    },
-    "stuAnswer.text3": {
-        "message": "Respondido:",
-        "description": ""
-    },
-    "publish.text1": {
-        "message": "Publicar Teste",
-        "description": ""
-    },
-    "publish.text15": {
-        "message": "Duração do teste:",
-        "description": ""
-    },
-    "publish.text4": {
-        "message": "Publicar",
-        "description": ""
-    },
-    "publish.text18": {
-        "message": "Horário de Início:",
-        "description": ""
-    },
-    "publish.text5": {
-        "message": "Salvar rascunho",
-        "description": ""
-    },
-    "regrade": {
-        "message": "reavaliar pontuação",
-        "description": ""
-    },
-    "publish.text29": {
-        "message": "Se a questão contém uma questão subjetiva que requer avaliação manual, o professor",
-        "description": ""
-    },
-    "publish.text25": {
-        "message": "Selecione a Turma para configurar a duração do Teste",
-        "description": ""
-    },
-    "analysis.text10": {
-        "message": "Começar o teste, se você editar a questão ou a pontuação, use essa funcionalidade para reavaliar a pontuação dos alunos que submeteram o teste.",
-        "description": ""
-    },
-    "stuGuide.text7": {
-        "message": "Começar a responder às perguntas",
-        "description": ""
-    },
-    "teaRead.text8": {
-        "message": "Correção concluída com sucesso!",
-        "description": ""
-    },
-    "publish.text12": {
-        "message": "Digitar Pontuação",
-        "description": ""
-    },
-    "analysis.text19": {
-        "message": "Ainda nenhum aluno enviou tarefa",
-        "description": ""
-    },
-    "publish.text32": {
-        "message": "Pesquisar pelo nome da turma",
-        "description": ""
-    },
-    "stuGuide.text1": {
-        "message": "Minhas Notas",
-        "description": ""
-    },
-    "analysis.text8": {
-        "message": "Exportação de notas",
-        "description": ""
-    },
-    "highestScoreHistory": {
-        "message": "Nota mais alta histórica:",
-        "description": ""
-    },
-    "analysis.text11": {
-        "message": "Selecione o Tipo de item que precisa ser reavaliado:",
-        "description": ""
-    },
-    "stuAnswer.text7": {
-        "message": "Confirmar envio?",
-        "description": ""
-    },
-    "analysis.text3": {
-        "message": "Ver Mais",
-        "description": ""
-    },
-    "stuAnswer.text4": {
-        "message": "Número restante de submissões:",
-        "description": ""
-    },
-    "allTea": {
-        "message": "Todos os Professores",
-        "description": ""
-    },
-    "analysis.text23": {
-        "message": "Distribuição de Notas",
-        "description": ""
-    },
-    "analysis.text6": {
-        "message": "Buscar aluno",
-        "description": ""
-    },
-    "analysis.text16": {
-        "message": "A duração da exportação pode ser maior, por favor, espere.",
-        "description": ""
-    },
-    "publish.text2": {
-        "message": "Voltar para editar",
-        "description": ""
-    },
-    "stuGuide.text2": {
-        "message": "Envie várias vezes para obter a Nota mais alta.",
-        "description": ""
-    },
-    "publish.text28": {
-        "message": "Se o aluno enviar mais de uma vez, sua Nota final será a Nota mais alta.",
-        "description": ""
-    },
-    "analysis.text24": {
-        "message": "Estatísticas de pontuação das questões",
-        "description": ""
-    },
-    "analysis.text12": {
-        "message": "Apenas exercícios objetivos (Pergunta de múltipla escolha, Múltipla escolha, Julgamento, Ordenar, Selecionar, Exercício de preenchimento de lacuna, Exercício de preenchimento de texto)",
-        "description": ""
-    },
-    "pleaseSelect": {
-        "message": "Selecione",
-        "description": ""
-    },
-    "teaRead.text7": {
-        "message": "Salvar avaliação",
-        "description": ""
-    },
-    "publish.text6": {
-        "message": "Digite o título do teste",
-        "description": ""
-    },
-    "publish.text17": {
-        "message": "Configurações separadas para cada Turma",
-        "description": ""
-    },
-    "publish.text24": {
-        "message": "Configure a duração do Teste",
-        "description": ""
-    },
-    "teaRead.text5": {
-        "message": "Reescrever não é afetado pelo número de tentativas ou pelo tempo do teste. Quando o professor solicita uma reescrita, o aluno pode enviar mesmo que o número de tentativas tenha terminado ou o teste tenha sido concluído.<br/> <br/>Confirmar solicitação de reescrita para {name}?",
-        "description": ""
-    },
-    "over": {
-        "message": "Concluído",
-        "description": ""
-    },
-    "lookQues.text1": {
-        "message": "Questões do teste",
-        "description": ""
-    },
-    "analysis.text14": {
-        "message": "Nota: A reavaliação da pontuação não afetará a pontuação dos itens com pontuação manual, como perguntas de resposta curta. Para tipos de itens que suportam a avaliação do sistema, como exercícios de preenchimento de lacunas, se já tiverem sido corrigidos manualmente, a reavaliação da pontuação do sistema substituirá o registro de correção manual. Use com cuidado.",
-        "description": ""
-    },
-    "afterFirstSubmit": {
-        "message": "Depois do primeiro envio",
-        "description": ""
-    },
-    "iknow": {
-        "message": "Entendi",
-        "description": ""
-    },
-    "stuId": {
-        "message": "Número do aluno",
-        "description": ""
-    },
-    "teaRead.text3": {
-        "message": "Cancelar reescrita",
-        "description": ""
-    },
-    "publish.text13": {
-        "message": "Área de questões",
-        "description": ""
-    },
-    "analysis.text5": {
-        "message": "relatório de análise",
-        "description": ""
-    },
-    "teaRead.text13": {
-        "message": "Nenhuma questão para avaliar",
-        "description": ""
-    },
-    "stuGuide.text4": {
-        "message": "Submissões enviadas/Número de submissões permitidas.",
-        "description": ""
-    },
-    "analysis.text25": {
-        "message": "Estatísticas por registro de respostas da nota mais alta do aluno",
-        "description": ""
-    },
-    "teaRead.text6": {
-        "message": "Pergunta {tips} não avaliada. Confirmar para salvar?",
-        "description": ""
-    },
-    "publish.text27": {
-        "message": "Digite o número de tentativas",
-        "description": ""
-    },
-    "teaRead.text12": {
-        "message": "Nota desta vez:",
-        "description": ""
-    },
-    "tip2": {
-        "message": "Enviar pela {num1}ª vez, {num2}",
-        "description": ""
-    },
-    "analysis.text22": {
-        "message": "Visão Geral dos Testes",
-        "description": ""
-    },
-    "stuGuide.text5": {
-        "message": "Atenção: Se houver questões subjetivas pendentes no teste, espere o professor corrigi-las para enviar novamente.",
-        "description": ""
-    },
-    "stuGuide.text3": {
-        "message": "Número de submissões",
-        "description": ""
-    },
-    "analysis.text7": {
-        "message": "A última Avaliação está sendo processada. Ver posteriormente...",
-        "description": ""
-    },
-    "publish.text9": {
-        "message": "Número de questões:",
-        "description": ""
-    },
-    "analysis.text21": {
-        "message": "Falha na reavaliação de pontuação",
-        "description": ""
-    },
-    "quizTime": {
-        "message": "Duração do teste",
-        "description": ""
-    },
-    "publish.text14": {
-        "message": "Selecione no máximo {num} perguntas",
-        "description": ""
-    },
-    "analysis.text18": {
-        "message": "Gerando Registro de Respostas...",
-        "description": ""
-    },
-    "analysis.text15": {
-        "message": "Começar Avaliação",
-        "description": ""
-    },
-    "stuAnswer.text6": {
-        "message": "Este teste permite o envio de {num1} vezes, ainda restam <span style=\"font-weight: bold;color: #ea5947;\">{num2}</span> chances.<br/>Confirmar envio?",
-        "description": ""
-    },
-    "answerAnnouncementTime": {
-        "message": "Duração de Divulgações das Respostas",
-        "description": ""
-    },
-    "teaRead.text1": {
-        "message": "exibir somente as questões pendentes de avaliação",
-        "description": ""
-    },
-    "confirmSubmit": {
-        "message": "Pergunta {tips} não respondida. Confirmar o envio?",
-        "description": ""
-    },
-    "finishRate": {
-        "message": "Progresso",
-        "description": ""
-    },
-    "notAnnounced": {
-        "message": "Não divulgar",
-        "description": ""
-    },
-    "avgScore": {
-        "message": "Nota média",
-        "description": ""
-    },
-    "lookQues.text2": {
-        "message": "Nota desta vez:",
-        "description": ""
-    },
-    "maxScore": {
-        "message": "Nota mais alta",
-        "description": ""
-    },
-    "return": {
-        "message": "Voltar",
-        "description": ""
-    },
-    "submit": {
-        "message": "Enviar",
-        "description": ""
-    },
-    "prePage": {
-        "message": "Página Anterior",
-        "description": ""
-    },
-    "action": {
-        "message": "operação",
-        "description": ""
-    },
-    "export": {
-        "message": "exportar",
-        "description": ""
-    },
-    "detail": {
-        "message": "Detalhes",
-        "description": ""
-    },
-    "questionNum": {
-        "message": "Número de Perguntas",
-        "description": ""
-    },
-    "question": {
-        "message": "questão",
-        "description": ""
-    },
-    "cancel": {
-        "message": "Cancelar",
-        "description": ""
-    },
-    "approved": {
-        "message": "Corrigida",
-        "description": ""
-    },
-    "needRewrite": {
-        "message": "Necessário reescrever",
-        "description": ""
-    },
-    "all": {
-        "message": "Todos",
-        "description": ""
-    },
-    "reviewed": {
-        "message": "Envios Pendentes",
-        "description": ""
-    },
-    "answerRecord": {
-        "message": "Registro de Respostas",
-        "description": ""
-    },
-    "tip": {
-        "message": "dica",
-        "description": ""
-    },
-    "score": {
-        "message": "Nota",
-        "description": ""
-    },
-    "save": {
-        "message": "salvar",
-        "description": ""
-    },
-    "close": {
-        "message": "Fechar",
-        "description": ""
-    },
-    "viewQuestion": {
-        "message": "Refazer",
-        "description": ""
-    },
-    "submitSuccess": {
-        "message": "Envio feito com sucesso",
-        "description": ""
-    },
-    "mark": {
-        "message": "Nota",
-        "description": ""
-    },
-    "unsubmit": {
-        "message": "Não enviado",
-        "description": ""
-    },
-    "allClass": {
-        "message": "Todas as Turmas",
-        "description": ""
-    },
-    "class": {
-        "message": "Turma",
-        "description": ""
-    },
-    "questionType": {
-        "message": "Tipo de item",
-        "description": ""
-    },
-    "inProgress": {
-        "message": "em andamento",
-        "description": ""
-    },
-    "submitTime": {
-        "message": "Data de envio",
-        "description": ""
-    },
-    "confirm": {
-        "message": "Confirmar",
-        "description": ""
-    },
-    "exit": {
-        "message": "Sair",
-        "description": ""
-    },
-    "nextPage": {
-        "message": "Próxima Página",
-        "description": ""
-    },
-    "scoringRate": {
-        "message": "Percentual de nota",
-        "description": ""
-    },
-    "view": {
-        "message": "Ver",
-        "description": ""
-    },
-    "overdue": {
-        "message": "Entregas em atraso",
-        "description": ""
-    },
-    "name": {
-        "message": "Nome",
-        "description": ""
-    }
+  "close": {
+    "message": "Fechar",
+    "description": "测验 zh.json"
+  },
+  "confirm": {
+    "message": "Confirmar",
+    "description": "测验 zh.json"
+  },
+  "cancel": {
+    "message": "Cancelar",
+    "description": "测验 zh.json"
+  },
+  "return": {
+    "message": "Voltar",
+    "description": "测验 zh.json"
+  },
+  "exit": {
+    "message": "Sair",
+    "description": "测验 zh.json"
+  },
+  "save": {
+    "message": "salvar",
+    "description": "测验 zh.json"
+  },
+  "submit": {
+    "message": "Enviar",
+    "description": "测验 zh.json"
+  },
+  "unsubmit": {
+    "message": "Não enviado",
+    "description": "测验 zh.json"
+  },
+  "submitSuccess": {
+    "message": "Envio feito com sucesso",
+    "description": "测验 zh.json"
+  },
+  "all": {
+    "message": "Todos",
+    "description": "测验 zh.json"
+  },
+  "reviewed": {
+    "message": "Envios Pendentes",
+    "description": "测验 zh.json"
+  },
+  "approved": {
+    "message": "Corrigida",
+    "description": "测验 zh.json"
+  },
+  "submitTime": {
+    "message": "Data de envio",
+    "description": "测验 zh.json"
+  },
+  "overdue": {
+    "message": "Entregas em atraso",
+    "description": "测验 zh.json"
+  },
+  "mark": {
+    "message": "Nota",
+    "description": "测验 zh.json"
+  },
+  "needRewrite": {
+    "message": "Necessário reescrever",
+    "description": "测验 zh.json"
+  },
+  "viewQuestion": {
+    "message": "Refazer",
+    "description": "测验 zh.json"
+  },
+  "reDo": {
+    "message": "Refazer",
+    "description": "测验 zh.json"
+  },
+  "answerRecord": {
+    "message": "Registro de Respostas",
+    "description": "测验 zh.json"
+  },
+  "questionNum": {
+    "message": "Número de Perguntas",
+    "description": "测验 zh.json"
+  },
+  "fullMarks": {
+    "message": "Nota máxima",
+    "description": "测验 zh.json"
+  },
+  "answerAnnouncementTime": {
+    "message": "Duração de Divulgações das Respostas",
+    "description": "测验 zh.json"
+  },
+  "quizTime": {
+    "message": "Duração do teste",
+    "description": "测验 zh.json"
+  },
+  "unannounced": {
+    "message": "Não divulgado",
+    "description": "测验 zh.json"
+  },
+  "notStarted": {
+    "message": "não iniciado",
+    "description": "测验 zh.json"
+  },
+  "inProgress": {
+    "message": "em andamento",
+    "description": "测验 zh.json"
+  },
+  "over": {
+    "message": "Concluído",
+    "description": "测验 zh.json"
+  },
+  "afterQuiz": {
+    "message": "Após a conclusão do teste",
+    "description": "测验 zh.json"
+  },
+  "afterFirstSubmit": {
+    "message": "Depois do primeiro envio",
+    "description": "测验 zh.json"
+  },
+  "notAnnounced": {
+    "message": "Não divulgar",
+    "description": "测验 zh.json"
+  },
+  "waitTeaReview": {
+    "message": "Aguarde, por favor, a correção do professor",
+    "description": "测验 zh.json"
+  },
+  "viewAnswerRecords": {
+    "message": "Ver Registro de Respostas",
+    "description": "测验 zh.json"
+  },
+  "highestScoreHistory": {
+    "message": "Nota mais alta histórica:",
+    "description": "测验 zh.json"
+  },
+  "confirmSubmit": {
+    "message": "Pergunta {tips} não respondida. Confirmar o envio?",
+    "description": "测验 zh.json"
+  },
+  "pleaseSelect": {
+    "message": "Selecione",
+    "description": "测验 zh.json"
+  },
+  "tip": {
+    "message": "dica",
+    "description": "测验 zh.json"
+  },
+  "tip2": {
+    "message": "Enviar pela {num1}ª vez, {num2}",
+    "description": "测验 zh.json"
+  },
+  "score": {
+    "message": "Nota",
+    "description": "测验 zh.json"
+  },
+  "avgScore": {
+    "message": "Nota média",
+    "description": "测验 zh.json"
+  },
+  "maxScore": {
+    "message": "Nota mais alta",
+    "description": "测验 zh.json"
+  },
+  "minScore": {
+    "message": "Pontuação mínima",
+    "description": "测验 zh.json"
+  },
+  "regrade": {
+    "message": "reavaliar pontuação",
+    "description": "测验 zh.json"
+  },
+  "export": {
+    "message": "exportar",
+    "description": "测验 zh.json"
+  },
+  "allTea": {
+    "message": "Todos os Professores",
+    "description": "测验 zh.json"
+  },
+  "allClass": {
+    "message": "Todas as Turmas",
+    "description": "测验 zh.json"
+  },
+  "iknow": {
+    "message": "Entendi",
+    "description": "测验 zh.json"
+  },
+  "questionType": {
+    "message": "Tipo de item",
+    "description": "测验 zh.json"
+  },
+  "question": {
+    "message": "questão",
+    "description": "测验 zh.json"
+  },
+  "scoringRate": {
+    "message": "Percentual de nota",
+    "description": "测验 zh.json"
+  },
+  "finishRate": {
+    "message": "Progresso",
+    "description": "测验 zh.json"
+  },
+  "detail": {
+    "message": "Detalhes",
+    "description": "测验 zh.json"
+  },
+  "prePage": {
+    "message": "Página Anterior",
+    "description": "测验 zh.json"
+  },
+  "nextPage": {
+    "message": "Próxima Página",
+    "description": "测验 zh.json"
+  },
+  "peopleCount": {
+    "message": "Número de pessoas",
+    "description": "测验 zh.json"
+  },
+  "class": {
+    "message": "Turma",
+    "description": "测验 zh.json"
+  },
+  "stuId": {
+    "message": "Número do aluno",
+    "description": "测验 zh.json"
+  },
+  "name": {
+    "message": "Nome",
+    "description": "测验 zh.json"
+  },
+  "action": {
+    "message": "operação",
+    "description": "测验 zh.json"
+  },
+  "review": {
+    "message": "Corrigir",
+    "description": "测验 zh.json"
+  },
+  "view": {
+    "message": "Ver",
+    "description": "测验 zh.json"
+  },
+  "publish.text1": {
+    "message": "Publicar Teste",
+    "description": "测验 zh.json"
+  },
+  "publish.text2": {
+    "message": "Voltar para editar",
+    "description": "测验 zh.json"
+  },
+  "publish.text3": {
+    "message": "Próximo",
+    "description": "测验 zh.json"
+  },
+  "publish.text4": {
+    "message": "Publicar",
+    "description": "测验 zh.json"
+  },
+  "publish.text5": {
+    "message": "Salvar rascunho",
+    "description": "测验 zh.json"
+  },
+  "publish.text6": {
+    "message": "Digite o título do teste",
+    "description": "测验 zh.json"
+  },
+  "publish.text7": {
+    "message": "Digitar Tarefa",
+    "description": "测验 zh.json"
+  },
+  "publish.text8": {
+    "message": "Selecionar questões do banco de questões",
+    "description": "测验 zh.json"
+  },
+  "publish.text9": {
+    "message": "Número de questões:",
+    "description": "测验 zh.json"
+  },
+  "publish.text10": {
+    "message": "Pontuação total:",
+    "description": "测验 zh.json"
+  },
+  "publish.text11": {
+    "message": "Editar pontuações em lote:",
+    "description": "测验 zh.json"
+  },
+  "publish.text12": {
+    "message": "Digitar Pontuação",
+    "description": "测验 zh.json"
+  },
+  "publish.text13": {
+    "message": "Área de questões",
+    "description": "测验 zh.json"
+  },
+  "publish.text14": {
+    "message": "Selecione no máximo {num} perguntas",
+    "description": "测验 zh.json"
+  },
+  "publish.text15": {
+    "message": "Duração do teste:",
+    "description": "测验 zh.json"
+  },
+  "publish.text16": {
+    "message": "Configurações uniforme",
+    "description": "测验 zh.json"
+  },
+  "publish.text17": {
+    "message": "Configurações separadas para cada Turma",
+    "description": "测验 zh.json"
+  },
+  "publish.text18": {
+    "message": "Horário de Início:",
+    "description": "测验 zh.json"
+  },
+  "publish.text19": {
+    "message": "Por favor, escolha um horário",
+    "description": "测验 zh.json"
+  },
+  "publish.text20": {
+    "message": "Data de conclusão:",
+    "description": "测验 zh.json"
+  },
+  "publish.text21": {
+    "message": "Participar da turma:",
+    "description": "测验 zh.json"
+  },
+  "publish.text22": {
+    "message": "Selecionar turma",
+    "description": "测验 zh.json"
+  },
+  "publish.text23": {
+    "message": "Turma",
+    "description": "测验 zh.json"
+  },
+  "publish.text24": {
+    "message": "Configure a duração do Teste",
+    "description": "测验 zh.json"
+  },
+  "publish.text25": {
+    "message": "Selecione a Turma para configurar a duração do Teste",
+    "description": "测验 zh.json"
+  },
+  "publish.text26": {
+    "message": "Permitir Número de submissões:",
+    "description": "测验 zh.json"
+  },
+  "publish.text27": {
+    "message": "Digite o número de tentativas",
+    "description": "测验 zh.json"
+  },
+  "publish.text28": {
+    "message": "Se o aluno enviar mais de uma vez, sua Nota final será a Nota mais alta.",
+    "description": "测验 zh.json"
+  },
+  "publish.text29": {
+    "message": "Se a questão contém uma questão subjetiva que requer avaliação manual, o professor",
+    "description": "测验 zh.json"
+  },
+  "publish.text30": {
+    "message": "O aluno pode Ressubmeter somente após a Correção ser concluída.",
+    "description": "测验 zh.json"
+  },
+  "publish.text31": {
+    "message": "Duração para divulgação da resposta:",
+    "description": "测验 zh.json"
+  },
+  "publish.text32": {
+    "message": "Pesquisar pelo nome da turma",
+    "description": "测验 zh.json"
+  },
+  "publish.text33": {
+    "message": "Selecionar todos",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text1": {
+    "message": "Minhas Notas",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text2": {
+    "message": "Envie várias vezes para obter a Nota mais alta.",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text3": {
+    "message": "Número de submissões",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text4": {
+    "message": "Submissões enviadas/Número de submissões permitidas.",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text5": {
+    "message": "Atenção: Se houver questões subjetivas pendentes no teste, espere o professor corrigi-las para enviar novamente.",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text6": {
+    "message": "Requisitos do Teste",
+    "description": "测验 zh.json"
+  },
+  "stuGuide.text7": {
+    "message": "Começar a responder às perguntas",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text1": {
+    "message": "Se sair durante o sistema não salva o registro de respostas, por favor envie e depois feche a página.",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text2": {
+    "message": "Responder às perguntas",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text3": {
+    "message": "Respondido:",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text4": {
+    "message": "Número restante de submissões:",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text5": {
+    "message": "Se você sair agora, o sistema não salvará seu registro de respostas. \n Confirmar fechamento?",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text6": {
+    "message": "Este teste permite o envio de {num1} vezes, ainda restam <span style=\"font-weight: bold;color: #ea5947;\">{num2}</span> chances.<br/>Confirmar envio?",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text7": {
+    "message": "Confirmar envio?",
+    "description": "测验 zh.json"
+  },
+  "stuAnswer.text8": {
+    "message": "A resposta da questão {tips} excede {num} letras!",
+    "description": "测验 zh.json"
+  },
+  "lookQues.text1": {
+    "message": "Questões do teste",
+    "description": "测验 zh.json"
+  },
+  "lookQues.text2": {
+    "message": "Nota desta vez:",
+    "description": "测验 zh.json"
+  },
+  "lookQues.text3": {
+    "message": "Resposta não divulgada",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text1": {
+    "message": "exibir somente as questões pendentes de avaliação",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text2": {
+    "message": "Recusar",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text3": {
+    "message": "Cancelar reescrita",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text4": {
+    "message": "Salvar e alternar com o próximo",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text5": {
+    "message": "Reescrever não é afetado pelo número de tentativas ou pelo tempo do teste. Quando o professor solicita uma reescrita, o aluno pode enviar mesmo que o número de tentativas tenha terminado ou o teste tenha sido concluído.<br/> <br/>Confirmar solicitação de reescrita para {name}?",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text6": {
+    "message": "Pergunta {tips} não avaliada. Confirmar para salvar?",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text7": {
+    "message": "Salvar avaliação",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text8": {
+    "message": "Correção concluída com sucesso!",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text9": {
+    "message": "Exibir apenas Alunos Submetidos, Clique para atualizar",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text10": {
+    "message": "Parabéns, todas os alunos foram corrigidos.",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text11": {
+    "message": "Sair da correção",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text12": {
+    "message": "Nota desta vez:",
+    "description": "测验 zh.json"
+  },
+  "teaRead.text13": {
+    "message": "Nenhuma questão para avaliar",
+    "description": "测验 zh.json"
+  },
+  "analysis.text1": {
+    "message": "As durações das Turmas são diferentes",
+    "description": "测验 zh.json"
+  },
+  "analysis.text2": {
+    "message": "Número de submissões permitidas:",
+    "description": "测验 zh.json"
+  },
+  "analysis.text3": {
+    "message": "Ver Mais",
+    "description": "测验 zh.json"
+  },
+  "analysis.text4": {
+    "message": "Nota do teste",
+    "description": "测验 zh.json"
+  },
+  "analysis.text5": {
+    "message": "relatório de análise",
+    "description": "测验 zh.json"
+  },
+  "analysis.text6": {
+    "message": "Buscar aluno",
+    "description": "测验 zh.json"
+  },
+  "analysis.text7": {
+    "message": "A última Avaliação está sendo processada. Ver posteriormente...",
+    "description": "测验 zh.json"
+  },
+  "analysis.text8": {
+    "message": "Exportação de notas",
+    "description": "测验 zh.json"
+  },
+  "analysis.text9": {
+    "message": "exportar Detalhes",
+    "description": "测验 zh.json"
+  },
+  "analysis.text10": {
+    "message": "Começar o teste, se você editar a questão ou a pontuação, use essa funcionalidade para reavaliar a pontuação dos alunos que submeteram o teste.",
+    "description": "测验 zh.json"
+  },
+  "analysis.text11": {
+    "message": "Selecione o Tipo de item que precisa ser reavaliado:",
+    "description": "测验 zh.json"
+  },
+  "analysis.text12": {
+    "message": "Apenas exercícios objetivos (Pergunta de múltipla escolha, Múltipla escolha, Julgamento, Ordenar, Selecionar, Exercício de preenchimento de lacuna, Exercício de preenchimento de texto)",
+    "description": "测验 zh.json"
+  },
+  "analysis.text13": {
+    "message": "Todos os tipos de itens que permitem uma nova avaliação (incluindo as questões objetivas mencionadas acima, bem como exercícios de preenchimento de lacunas e exercícios de leitura oral)",
+    "description": "测验 zh.json"
+  },
+  "analysis.text14": {
+    "message": "Nota: A reavaliação da pontuação não afetará a pontuação dos itens com pontuação manual, como perguntas de resposta curta. Para tipos de itens que suportam a avaliação do sistema, como exercícios de preenchimento de lacunas, se já tiverem sido corrigidos manualmente, a reavaliação da pontuação do sistema substituirá o registro de correção manual. Use com cuidado.",
+    "description": "测验 zh.json"
+  },
+  "analysis.text15": {
+    "message": "Começar Avaliação",
+    "description": "测验 zh.json"
+  },
+  "analysis.text16": {
+    "message": "A duração da exportação pode ser maior, por favor, espere.",
+    "description": "测验 zh.json"
+  },
+  "analysis.text17": {
+    "message": "Se o navegador bloquear pop-ups, Selecione Permitir sempre que o website abra uma Janela.",
+    "description": "测验 zh.json"
+  },
+  "analysis.text18": {
+    "message": "Gerando Registro de Respostas...",
+    "description": "测验 zh.json"
+  },
+  "analysis.text19": {
+    "message": "Ainda nenhum aluno enviou tarefa",
+    "description": "测验 zh.json"
+  },
+  "analysis.text20": {
+    "message": "A avaliação pode levar tempo. O Sistema processará em Segundo plano, posteiormente Ver a nota reavaliada.",
+    "description": "测验 zh.json"
+  },
+  "analysis.text21": {
+    "message": "Falha na reavaliação de pontuação",
+    "description": "测验 zh.json"
+  },
+  "analysis.text22": {
+    "message": "Visão Geral dos Testes",
+    "description": "测验 zh.json"
+  },
+  "analysis.text23": {
+    "message": "Distribuição de Notas",
+    "description": "测验 zh.json"
+  },
+  "analysis.text24": {
+    "message": "Estatísticas de pontuação das questões",
+    "description": "测验 zh.json"
+  },
+  "analysis.text25": {
+    "message": "Estatísticas por registro de respostas da nota mais alta do aluno",
+    "description": "测验 zh.json"
+  },
+  "analysis.text26": {
+    "message": "Detalhes da questão",
+    "description": "测验 zh.json"
+  },
+  "0QuestionscoreFen": {
+    "message": "(0~{0} pontos)",
+    "description": "测验 zh.json"
+  },
+  "anBanJiMingChengSouSuo": {
+    "message": "Pesquisar por classe",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiDaoXu": {
+    "message": "Ordem inversa por pontuação",
+    "description": "测验 zh.json"
+  },
+  "anDeFenShuaiZhengXu": {
+    "message": "Ordem positiva por pontuação",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoDaoXu": {
+    "message": "Ordem inversa por número de inscrição",
+    "description": "测验 zh.json"
+  },
+  "anTiHaoZhengXu": {
+    "message": "Ordem positiva por número de inscrição",
+    "description": "测验 zh.json"
+  },
+  "analysisByStuMaxGrade": {
+    "message": "Estatísticas por registro de respostas da nota mais alta do aluno",
+    "description": "测验 zh.json"
+  },
+  "answerdatafullgradeFen": {
+    "message": "{0} Nota",
+    "description": "测验 zh.json"
+  },
+  "banJi": {
+    "message": "Turma",
+    "description": "测验 zh.json"
+  },
+  "baoCun": {
+    "message": "salvar",
+    "description": "测验 zh.json"
+  },
+  "baoCunBingQieHuanXiaYiG": {
+    "message": "Salvar e alternar com o próximo",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGao": {
+    "message": "Salvar rascunho",
+    "description": "测验 zh.json"
+  },
+  "baoCunCaoGaoChengGong": {
+    "message": "Rascunho salvo com sucesso",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLu": {
+    "message": "Salvar Registro de Respostas",
+    "description": "测验 zh.json"
+  },
+  "baoCunDaTiJiLuChengGong": {
+    "message": "Salvar o histórico de respostas com sucesso",
+    "description": "测验 zh.json"
+  },
+  "baoCunPingFen": {
+    "message": "Salvar avaliação",
+    "description": "测验 zh.json"
+  },
+  "baoCunZhong": {
+    "message": "salvando",
+    "description": "测验 zh.json"
+  },
+  "beiZhuFeiBiTianBuChaoGu": {
+    "message": "Observações, não é obrigatório, não deve exceder 200 caracteres",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanFenZhiFeiBai": {
+    "message": "Os pontos deste questionário não são percentuais. Você pode continuar a postar questionários. Para alterar o valor do ponto de tópico, selecione modificar o valor do ponto.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng": {
+    "message": "Este teste já foi submetido por alunos. Apenas é permitida a alteração dos pontos das questões. Se você precisar modificar o conteúdo das perguntas ou respostas, faça isso no banco de perguntas.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYiYouXueSheng-0": {
+    "message": "Este teste já foi submetido por alunos. Apenas é permitida a alteração dos pontos das questões. Se você precisar modificar o conteúdo das perguntas ou respostas, faça isso no banco de perguntas. <br/> depois de alterar o tópico ou pontuação, use a função [re-rating] para reclassificar os alunos submetidos.",
+    "description": "测验 zh.json"
+  },
+  "benCiCeYanYunXuTiJiaoT": {
+    "message": "Este teste permite envios {0}. Resta <span style=\"font-weight: bold;color: #ea5947;\">{1}</span> segunda chance. <br/> tem certeza do envio?",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJi": {
+    "message": "Nota desta vez:",
+    "description": "测验 zh.json"
+  },
+  "benCiChengJiChangegrade": {
+    "message": "Resultados deste artigo: {0}",
+    "description": "测验 zh.json"
+  },
+  "blanksQuestion": {
+    "message": "Exercício de preenchimento de lacunas",
+    "description": "测验 zh.json"
+  },
+  "boFang": {
+    "message": "Reproduzir",
+    "description": "测验 zh.json"
+  },
+  "buGongBu": {
+    "message": "Não divulgar",
+    "description": "测验 zh.json"
+  },
+  "buZhiChiGaiLeiXingWenJi": {
+    "message": "Não suporta este tipo de ficheiro",
+    "description": "测验 zh.json"
+  },
+  "canKaoDaAn": {
+    "message": "Gabarito:",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi": {
+    "message": "Participar da turma",
+    "description": "测验 zh.json"
+  },
+  "canYuBanJi-0": {
+    "message": "Participar da turma:",
+    "description": "测验 zh.json"
+  },
+  "caoZuo": {
+    "message": "operação",
+    "description": "测验 zh.json"
+  },
+  "caoZuoChengGong": {
+    "message": "Operação bem sucedida!",
+    "description": "测验 zh.json"
+  },
+  "ceYan": {
+    "message": "Teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanChengJi": {
+    "message": "Nota do teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanGaiKuang": {
+    "message": "Visão Geral dos Testes",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuHou": {
+    "message": "Após a conclusão do teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanJieShuShiJianBuNen": {
+    "message": "O teste não pode terminar antes do início",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai": {
+    "message": "Começar o teste, se você editar a questão ou a pontuação, use essa funcionalidade para reavaliar a pontuação dos alunos que submeteram o teste.",
+    "description": "测验 zh.json"
+  },
+  "ceYanKaiShiRuGuoXiuGai-0": {
+    "message": "O teste começa. Se as questões ou os pontos foram alterados, use este recurso para reclassificar os alunos que já foram submetidos. Por favor, selecione o tipo de pergunta que você deseja reclassificar:",
+    "description": "测验 zh.json"
+  },
+  "ceYanMingChengBuNengChao": {
+    "message": "O nome do questionário não deve exceder 200 caracteres (kanji cerca de 100 caracteres)",
+    "description": "测验 zh.json"
+  },
+  "ceYanSheZhi": {
+    "message": "Configuração do quiz",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian": {
+    "message": "Duração do teste:",
+    "description": "测验 zh.json"
+  },
+  "ceYanShiJian-0": {
+    "message": "Duração do teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanTiMu": {
+    "message": "Questões do teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanXiangQing": {
+    "message": "Detalhes do quiz",
+    "description": "测验 zh.json"
+  },
+  "ceYanXinXi": {
+    "message": "Informações sobre quiz",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiu": {
+    "message": "Requisitos do Teste",
+    "description": "测验 zh.json"
+  },
+  "ceYanYaoQiuBuNengChaoGu": {
+    "message": "Os requisitos do quiz não podem exceder 5000 caracteres",
+    "description": "测验 zh.json"
+  },
+  "chaKan": {
+    "message": "Ver",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaAn": {
+    "message": "Veja a resposta",
+    "description": "测验 zh.json"
+  },
+  "chaKanDaTiJiLu": {
+    "message": "Ver Registro de Respostas",
+    "description": "测验 zh.json"
+  },
+  "chaKanTiMu": {
+    "message": "Ver os tópicos",
+    "description": "测验 zh.json"
+  },
+  "chaKanXiangQing": {
+    "message": "Ver detalhes >>",
+    "description": "测验 zh.json"
+  },
+  "chaZhaoXueSheng": {
+    "message": "Buscar aluno",
+    "description": "测验 zh.json"
+  },
+  "changAnTiMuTuoDongPaiXu": {
+    "message": "Longo classificar por título arrastar",
+    "description": "测验 zh.json"
+  },
+  "changAnTuoDongXuanXiang": {
+    "message": "* longo pressione e arrastar opção",
+    "description": "测验 zh.json"
+  },
+  "chaoGuo_200mDeFuJianQing": {
+    "message": "Mais de 200M de acessórios, por favor, faça o upload do lado do computador",
+    "description": "测验 zh.json"
+  },
+  "chengJi": {
+    "message": "Nota:",
+    "description": "测验 zh.json"
+  },
+  "chengJi-0": {
+    "message": "Nota",
+    "description": "测验 zh.json"
+  },
+  "chengJiDaoXu": {
+    "message": "Ordem inversa de resultados",
+    "description": "测验 zh.json"
+  },
+  "chengJiFenBu": {
+    "message": "Distribuição de Notas",
+    "description": "测验 zh.json"
+  },
+  "chengJiZhengXu": {
+    "message": "Sequência positiva de resultados",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiXiTongJiangBu": {
+    "message": "Se você sair agora, o sistema não salvará seu registro de respostas.<br/>Confirmar fechamento?",
+    "description": "测验 zh.json"
+  },
+  "ciShiLiKaiZiDongBaoCun": {
+    "message": "Saia neste momento e o sistema salvará automaticamente o registro desta resposta. <br/> tem certeza do retorno?",
+    "description": "测验 zh.json"
+  },
+  "clozeQuestion": {
+    "message": "Exercício de preenchimento de lacunas",
+    "description": "测验 zh.json"
+  },
+  "completedRate": {
+    "message": "Taxa de conclusão",
+    "description": "测验 zh.json"
+  },
+  "comprehensiveQuestion": {
+    "message": "Exercício integrado",
+    "description": "测验 zh.json"
+  },
+  "congBenJiXuanZe": {
+    "message": "Selecionar do dispositivo",
+    "description": "测验 zh.json"
+  },
+  "daAn": {
+    "message": "Resposta:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian": {
+    "message": "Duração para divulgação da resposta:",
+    "description": "测验 zh.json"
+  },
+  "daAnGongBuShiJian-0": {
+    "message": "Respostas postais",
+    "description": "测验 zh.json"
+  },
+  "daAnWeiGongBu": {
+    "message": "Resposta não divulgada",
+    "description": "测验 zh.json"
+  },
+  "daDuiRenShu": {
+    "message": "Número de pessoas que responderam corretamente",
+    "description": "测验 zh.json"
+  },
+  "daHuiZhongXie": {
+    "message": "Recusar",
+    "description": "测验 zh.json"
+  },
+  "daTi": {
+    "message": "Responder às perguntas",
+    "description": "测验 zh.json"
+  },
+  "daTiJiLu": {
+    "message": "Registro de Respostas",
+    "description": "测验 zh.json"
+  },
+  "daTiKa": {
+    "message": "Cartão de respostas",
+    "description": "测验 zh.json"
+  },
+  "daTiXiangQing": {
+    "message": "Detalhes da unidade temática",
+    "description": "测验 zh.json"
+  },
+  "daiPiYue": {
+    "message": "Envios Pendentes",
+    "description": "测验 zh.json"
+  },
+  "daiPingFen": {
+    "message": "Avaliação pendente",
+    "description": "测验 zh.json"
+  },
+  "daoChu": {
+    "message": "exportar",
+    "description": "测验 zh.json"
+  },
+  "daoChuChengJi": {
+    "message": "Exportação de notas",
+    "description": "测验 zh.json"
+  },
+  "daoChuShiJianKeNengJiao": {
+    "message": "A duração da exportação pode ser maior, por favor, espere.",
+    "description": "测验 zh.json"
+  },
+  "daoChuXiangQing": {
+    "message": "Exportar detalhes",
+    "description": "测验 zh.json"
+  },
+  "deFen": {
+    "message": "Nota:",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai": {
+    "message": "Percentagem de pontos:",
+    "description": "测验 zh.json"
+  },
+  "deFenShuai-0": {
+    "message": "Taxa de pontuação",
+    "description": "测验 zh.json"
+  },
+  "deFenShuaiHandleanswerQues": {
+    "message": "Pontuação: {0}",
+    "description": "测验 zh.json"
+  },
+  "diHomeworkanswertimesCiTiJ": {
+    "message": "Após a {0} submissão",
+    "description": "测验 zh.json"
+  },
+  "diHomeworksturecordlistlength": {
+    "message": "{0} vezes enviado, {1}",
+    "description": "测验 zh.json"
+  },
+  "diSturecordlistlengthIndexC": {
+    "message": "Número {0} vezes",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiDaAnChaoGuo_1000": {
+    "message": "A resposta à pergunta {0} tem mais de 10000 caracteres!",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiHuanMeiYouPiYue": {
+    "message": "A pergunta {0} ainda não foi avaliada. Tem certeza de que terminou a avaliação?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiPingFenQueDi": {
+    "message": "A pergunta {0} não foi avaliada. Tem certeza de que está salva?",
+    "description": "测验 zh.json"
+  },
+  "diTipsTiWeiZuoDaQueDing": {
+    "message": "Pergunta {0} não respondida, confirmação de envio?",
+    "description": "测验 zh.json"
+  },
+  "di_1CiTiJiaoHou": {
+    "message": "Depois do primeiro envio",
+    "description": "测验 zh.json"
+  },
+  "dianJiKaiShiLuYin": {
+    "message": "Clique para começar a Gravação",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin": {
+    "message": "* clique no ícone para iniciar a gravação",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoKaiShiLuYin-0": {
+    "message": "* clique no ícone para iniciar a gravação",
+    "description": "测验 zh.json"
+  },
+  "dianJiTuBiaoShengChengLu": {
+    "message": "* clique no ícone para gerar a gravação",
+    "description": "测验 zh.json"
+  },
+  "dropdownQuestion": {
+    "message": "questões de múltipla escolha",
+    "description": "测验 zh.json"
+  },
+  "duoCiTiJiaoQuZuiGaoFen": {
+    "message": "Envie várias vezes para obter a Nota mais alta.",
+    "description": "测验 zh.json"
+  },
+  "faBu": {
+    "message": "Publicar",
+    "description": "测验 zh.json"
+  },
+  "faBuCeYan": {
+    "message": "Publicar Teste",
+    "description": "测验 zh.json"
+  },
+  "faBuChengGong": {
+    "message": "Publicação bem-sucedida",
+    "description": "测验 zh.json"
+  },
+  "fanHui": {
+    "message": "Voltar",
+    "description": "测验 zh.json"
+  },
+  "fanHuiXiuGai": {
+    "message": "Voltar editar",
+    "description": "测验 zh.json"
+  },
+  "fen": {
+    "message": "pontos",
+    "description": "测验 zh.json"
+  },
+  "fenXiBaoGao": {
+    "message": "relatório de análise",
+    "description": "测验 zh.json"
+  },
+  "fenZhi": {
+    "message": "Pontuação:",
+    "description": "测验 zh.json"
+  },
+  "fenZhiXuZai_1100ZhiJianK": {
+    "message": "A pontuação deve estar entre 1-100 e pode manter uma casa decimal",
+    "description": "测验 zh.json"
+  },
+  "formulaQuestion": {
+    "message": "Exercícios de cálculo com fórmulas",
+    "description": "测验 zh.json"
+  },
+  "fuJianZuiDuoShangChuanTh": {
+    "message": "Anexos carregados no máximo {0}",
+    "description": "测验 zh.json"
+  },
+  "fuZhiCeYan": {
+    "message": "Copiar o quiz",
+    "description": "测验 zh.json"
+  },
+  "fuZhiChengGong": {
+    "message": "Copiado com sucesso",
+    "description": "测验 zh.json"
+  },
+  "geBanShiJianBuTong": {
+    "message": "Durações diferentes para as turmas",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouCeYanDuYiP": {
+    "message": "Parabéns, todos os questionários foram aprovados e concluídos!",
+    "description": "测验 zh.json"
+  },
+  "gongXiSuoYouXueShengDuY": {
+    "message": "Parabéns, todas os alunos foram corrigidos.",
+    "description": "测验 zh.json"
+  },
+  "guanBi": {
+    "message": "Fechar",
+    "description": "测验 zh.json"
+  },
+  "handlenumitemscoreFen": {
+    "message": "({0} pontos)",
+    "description": "测验 zh.json"
+  },
+  "huiDaCuoWu": {
+    "message": "Resposta Incorreta!",
+    "description": "测验 zh.json"
+  },
+  "huiDaZhengQue": {
+    "message": "Respondeu corretamente!",
+    "description": "测验 zh.json"
+  },
+  "huiFang": {
+    "message": "Revisão",
+    "description": "测验 zh.json"
+  },
+  "itemnum_0Ren": {
+    "message": "{0} pessoas",
+    "description": "测验 zh.json"
+  },
+  "itemsubquestionslengthXiaoTi": {
+    "message": "({0} perguntas, total {1} pontos)",
+    "description": "测验 zh.json"
+  },
+  "jiXuDaTi": {
+    "message": "Continuar respondendo às perguntas",
+    "description": "测验 zh.json"
+  },
+  "jiXuFaBu": {
+    "message": "Continuar a publicar",
+    "description": "测验 zh.json"
+  },
+  "jiXuPiYue": {
+    "message": "Continuar corrigir",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian": {
+    "message": "Data de conclusão:",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJian-0": {
+    "message": "Data de conclusão",
+    "description": "测验 zh.json"
+  },
+  "jieShuShiJianBuNengZaoY": {
+    "message": "A Data de conclusão não pode ser anterior ao Horário de Início",
+    "description": "测验 zh.json"
+  },
+  "jieXi": {
+    "message": "Para resolver:",
+    "description": "测验 zh.json"
+  },
+  "jinHangZhong": {
+    "message": "em andamento",
+    "description": "测验 zh.json"
+  },
+  "jinKeGuanTiDanXuanDuoXu": {
+    "message": "Apenas exercícios objetivos (Pergunta de múltipla escolha, Múltipla escolha, Julgamento, Ordenar, Selecionar, Exercício de preenchimento de lacuna, Exercício de preenchimento de texto)",
+    "description": "测验 zh.json"
+  },
+  "jinXianShiYiTiJiaoDeXue": {
+    "message": "Exibir apenas Alunos Submetidos, Clique para atualizar",
+    "description": "测验 zh.json"
+  },
+  "jingDu": {
+    "message": "Precisão: {0}",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaTi": {
+    "message": "Começar a responder às perguntas",
+    "description": "测验 zh.json"
+  },
+  "kaiShiDaoChu": {
+    "message": "Começar a exportar",
+    "description": "测验 zh.json"
+  },
+  "kaiShiPingFen": {
+    "message": "Começar Avaliação",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian": {
+    "message": "Horário de Início:",
+    "description": "测验 zh.json"
+  },
+  "kaiShiShiJian-0": {
+    "message": "Horário de Início",
+    "description": "测验 zh.json"
+  },
+  "kaoShengDaAn": {
+    "message": "Respostas dos candidatos:",
+    "description": "测验 zh.json"
+  },
+  "kaoShengLuYin": {
+    "message": "Gravação do candidato:",
+    "description": "测验 zh.json"
+  },
+  "kaoShengWeiDaTi": {
+    "message": "Perguntas não respondidas pelo candidato",
+    "description": "测验 zh.json"
+  },
+  "keChengZhongYiCunZaiXian": {
+    "message": "Trabalhos com o mesmo nome já existem no curso. Por favor, modifique o título do quiz",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa": {
+    "message": "Voltar a entrar depois de sair precisa de reresponder, definitivamente sair?",
+    "description": "测验 zh.json"
+  },
+  "liKaiHouZaiCiJinRuXuYa-0": {
+    "message": "Entrar novamente depois de sair precisa ser reaprovado, sair definitivamente?",
+    "description": "测验 zh.json"
+  },
+  "liShiZuiGaoFen": {
+    "message": "Nota mais alta histórica:",
+    "description": "测验 zh.json"
+  },
+  "luYin": {
+    "message": "Gravação",
+    "description": "测验 zh.json"
+  },
+  "luYinZhongDianJiBoWenTi": {
+    "message": "Clique na ondulação para interromper a Gravação",
+    "description": "测验 zh.json"
+  },
+  "manFen": {
+    "message": "Nota máxima",
+    "description": "测验 zh.json"
+  },
+  "manFen-0": {
+    "message": "Nota máxima:",
+    "description": "测验 zh.json"
+  },
+  "meiGeBanJiFenKaiSheZhi": {
+    "message": "Configurações separadas para cada turma",
+    "description": "测验 zh.json"
+  },
+  "meiYiCiTiJiaoHou": {
+    "message": "Após cada submissão",
+    "description": "测验 zh.json"
+  },
+  "meiYouDaiPingFenDeTiMu": {
+    "message": "Nenhuma questão para avaliar",
+    "description": "测验 zh.json"
+  },
+  "meiYouNeiRong": {
+    "message": "Sem conteúdo",
+    "description": "测验 zh.json"
+  },
+  "meiYouZhaoDaoFuHeTiaoJi": {
+    "message": "Não foi possível encontrar conteúdo correspondente aos critérios.",
+    "description": "测验 zh.json"
+  },
+  "moRenPaiXu": {
+    "message": "Ordenação Padrão",
+    "description": "测验 zh.json"
+  },
+  "multipleQuestion": {
+    "message": "Questões de múltipla escolha",
+    "description": "测验 zh.json"
+  },
+  "oralReadQuestion": {
+    "message": "Exercícios de Leitura Oral",
+    "description": "测验 zh.json"
+  },
+  "oralSubjectQuestion": {
+    "message": "Questão discursiva de expressão oral",
+    "description": "测验 zh.json"
+  },
+  "paiZhao": {
+    "message": "tirar uma foto",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi": {
+    "message": "Editar pontuações em lote:",
+    "description": "测验 zh.json"
+  },
+  "piLiangXiuGaiFenZhi-0": {
+    "message": "Editar pontuação em lote",
+    "description": "测验 zh.json"
+  },
+  "piYue": {
+    "message": "Corrigir",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong": {
+    "message": "Correção concluída com sucesso!",
+    "description": "测验 zh.json"
+  },
+  "piYueChengGong-0": {
+    "message": "Correção bem sucedida",
+    "description": "测验 zh.json"
+  },
+  "piYueWanChengHouXueSheng": {
+    "message": "O aluno pode Ressubmeter somente após a Correção ser concluída.",
+    "description": "测验 zh.json"
+  },
+  "piYueZhuangTaiXiaJinXian": {
+    "message": "Exibir apenas questões pendentes no estado de correção.",
+    "description": "测验 zh.json"
+  },
+  "pingFen": {
+    "message": "Classificação de:",
+    "description": "测验 zh.json"
+  },
+  "pingFen-0": {
+    "message": "Avaliação",
+    "description": "测验 zh.json"
+  },
+  "pingFenHaoShiKeNengJiao": {
+    "message": "A avaliação pode demorar. O sistema irá processá-la em segundo plano. Por favor, verifique a nova nota posteriormente.",
+    "description": "测验 zh.json"
+  },
+  "pingJunFen": {
+    "message": "Nota média",
+    "description": "测验 zh.json"
+  },
+  "pingJunFenAverage_0": {
+    "message": "Pontuação média: {0}",
+    "description": "测验 zh.json"
+  },
+  "pingYu": {
+    "message": "Avaliação:",
+    "description": "测验 zh.json"
+  },
+  "qingDaKaiShouJiQuanXian": {
+    "message": "Abra a permissão do Telefone celular",
+    "description": "测验 zh.json"
+  },
+  "qingDengDaiJiaoShiPiYue": {
+    "message": "Aguarde, por favor, a correção do professor",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiCeYanShiJian": {
+    "message": "Configure a duração do Teste",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiJieShuShiJian": {
+    "message": "Configurações para a Data de conclusão",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiKaiShiShiJian": {
+    "message": "Configurações de Horário de Início",
+    "description": "测验 zh.json"
+  },
+  "qingSheZhiShiJian": {
+    "message": "Configure a duração",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanBiaoTi": {
+    "message": "Digite o título do teste",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuCeYanMingCheng": {
+    "message": "Por favor insira o nome do quiz",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuDaTiCiShu": {
+    "message": "Digite o número de tentativas",
+    "description": "测验 zh.json"
+  },
+  "qingShuRuYunXuTiJiaoCi": {
+    "message": "Insira o número de submissões permitidas",
+    "description": "测验 zh.json"
+  },
+  "qingShuRu_0thisquestionscore": {
+    "message": "Por favor, insira um valor de 0-{0}. Um número decimal pode ser deixado",
+    "description": "测验 zh.json"
+  },
+  "qingTianXieYunXuTiJiaoC": {
+    "message": "Por favor preencha o número permitido de submissões",
+    "description": "测验 zh.json"
+  },
+  "qingTianXie_1100DeZhengSh": {
+    "message": "Por favor, preencha um número inteiro de 1-100",
+    "description": "测验 zh.json"
+  },
+  "qingXieXiaNiDeDaAn": {
+    "message": "Por favor, escreva sua resposta",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZe": {
+    "message": "Selecione",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJi": {
+    "message": "Selecione a Turma",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeBanJiHouSheZh": {
+    "message": "Selecione a Turma para configurar a duração do Teste",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeCeYanJieShuSh": {
+    "message": "Por favor, selecione a hora de fim do quiz",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeShiJian": {
+    "message": "Selecione a duração",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeTiMu": {
+    "message": "Por favor, selecione um tópico",
+    "description": "测验 zh.json"
+  },
+  "qingXuanZeXuYaoZhongXin": {
+    "message": "Selecione o Tipo de item que precisa ser reavaliado:",
+    "description": "测验 zh.json"
+  },
+  "quTiKuXuanTi": {
+    "message": "Selecionar questões do banco de questões",
+    "description": "测验 zh.json"
+  },
+  "quXiao": {
+    "message": "Cancelar",
+    "description": "测验 zh.json"
+  },
+  "quXiaoZhongXie": {
+    "message": "Cancelar reescrita",
+    "description": "测验 zh.json"
+  },
+  "quanBu": {
+    "message": "Todos",
+    "description": "测验 zh.json"
+  },
+  "quanBuBanJi": {
+    "message": "Todas as Turmas",
+    "description": "测验 zh.json"
+  },
+  "quanBuJiaoShi": {
+    "message": "Todos os professores",
+    "description": "测验 zh.json"
+  },
+  "quanXuan": {
+    "message": "Selecionar todos",
+    "description": "测验 zh.json"
+  },
+  "queDing": {
+    "message": "Confirmar",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKai": {
+    "message": "Confirme a saída",
+    "description": "测验 zh.json"
+  },
+  "queDingLiKaiMa": {
+    "message": "Tens a certeza?",
+    "description": "测验 zh.json"
+  },
+  "queDingQuXiaoMa": {
+    "message": "Tem a certeza de cancelar?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCeYanMa": {
+    "message": "Tem certeza de excluir o quiz?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuCiTiMa": {
+    "message": "Confirmar a exclusão desta questão?",
+    "description": "测验 zh.json"
+  },
+  "queDingShanChuTiMuMa": {
+    "message": "Tem a certeza de apagar o assunto?",
+    "description": "测验 zh.json"
+  },
+  "queDingTiJiao": {
+    "message": "Confirmar envio?",
+    "description": "测验 zh.json"
+  },
+  "questionrecordanswerWordcount": {
+    "message": "{0} Letra",
+    "description": "测验 zh.json"
+  },
+  "questionrecordscore_0Fen": {
+    "message": "+ {0} pontos",
+    "description": "测验 zh.json"
+  },
+  "questionscoreFen": {
+    "message": "({0} pontos)",
+    "description": "测验 zh.json"
+  },
+  "renShu": {
+    "message": "Número de pessoas",
+    "description": "测验 zh.json"
+  },
+  "ruGuoTiMuZhongBaoHanXu": {
+    "message": "Se a questão contém uma questão subjetiva que requer avaliação manual, o professor",
+    "description": "测验 zh.json"
+  },
+  "ruYuLiuLanQiLanJieDanC": {
+    "message": "Caso o navegador bloqueie pop-ups, \nSelecione para permitir sempre pop-ups do website.",
+    "description": "测验 zh.json"
+  },
+  "saoMaQianMing": {
+    "message": "Assinatura do código de varredura",
+    "description": "测验 zh.json"
+  },
+  "shanChu": {
+    "message": "Excluir",
+    "description": "测验 zh.json"
+  },
+  "shanChuCeYan": {
+    "message": "Excluir um quiz",
+    "description": "测验 zh.json"
+  },
+  "shanChuChengGong": {
+    "message": "Excluído com sucesso",
+    "description": "测验 zh.json"
+  },
+  "shanChuTiMu": {
+    "message": "Excluir questão",
+    "description": "测验 zh.json"
+  },
+  "shangChuanFuJianDaXiaoZh": {
+    "message": "O tamanho do anexo de upload só pode ser {0}",
+    "description": "测验 zh.json"
+  },
+  "shangChuanShiBai": {
+    "message": "Falha ao carregar",
+    "description": "测验 zh.json"
+  },
+  "shangYiCiPingFenChuLiZh": {
+    "message": "Última classificação processada, por favor, verifique mais tarde",
+    "description": "测验 zh.json"
+  },
+  "shangYiTi": {
+    "message": "Questão anterior",
+    "description": "测验 zh.json"
+  },
+  "shangYiYe": {
+    "message": "Página Anterior",
+    "description": "测验 zh.json"
+  },
+  "shengYuDaTiCiShu": {
+    "message": "Número de respostas restantes:",
+    "description": "测验 zh.json"
+  },
+  "shengYuHomeworkanswertimesH": {
+    "message": "{0} oportunidades de resposta restantes",
+    "description": "测验 zh.json"
+  },
+  "shengYuTiJiaoCiShu": {
+    "message": "Número restante de submissões:",
+    "description": "测验 zh.json"
+  },
+  "shortAnswerQuestion": {
+    "message": "Pergunta de resposta curta",
+    "description": "测验 zh.json"
+  },
+  "shuRuCeYanYaoQiu": {
+    "message": "Digite os requisitos do quiz",
+    "description": "测验 zh.json"
+  },
+  "shuRuFenZhi": {
+    "message": "Digitar Pontuação",
+    "description": "测验 zh.json"
+  },
+  "shuRuNeiRong": {
+    "message": "Digite o conteúdo",
+    "description": "测验 zh.json"
+  },
+  "shuRuPingYuFeiBiTian": {
+    "message": "Digite um comentário. Não é um campo obrigatório.",
+    "description": "测验 zh.json"
+  },
+  "shuRuXueShengXueHaoHuoX": {
+    "message": "Digite o número do aluno ou nome",
+    "description": "测验 zh.json"
+  },
+  "shuRuZuoYeYaoQiu": {
+    "message": "Digite os requisitos da tarefa",
+    "description": "测验 zh.json"
+  },
+  "shunXuKeHuHuan": {
+    "message": "* ordem intercambiável",
+    "description": "测验 zh.json"
+  },
+  "singleQuestion": {
+    "message": "questão de múltipla escolha",
+    "description": "测验 zh.json"
+  },
+  "sortQuestion": {
+    "message": "Questões de ordenação",
+    "description": "测验 zh.json"
+  },
+  "souSuo": {
+    "message": "pesquisar",
+    "description": "测验 zh.json"
+  },
+  "suoYouZhiChiZhongXinPing": {
+    "message": "Todos os tipos de itens que permitem uma nova avaliação (incluindo as questões objetivas mencionadas acima, bem como exercícios de preenchimento de lacunas e exercícios de leitura oral)",
+    "description": "测验 zh.json"
+  },
+  "testinfoquizhomeworkbaseinfodt": {
+    "message": "{0} vez",
+    "description": "测验 zh.json"
+  },
+  "tiJiao": {
+    "message": "Enviar",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoChengGong": {
+    "message": "Enviado com sucesso",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShu": {
+    "message": "Número de submissões",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoCiShuYingWei_1100D": {
+    "message": "O número de submissões deve ser um número inteiro de 1-100",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJian": {
+    "message": "Data de envio",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianDaoXu": {
+    "message": "Tempo de submissão ordem inversa",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianHomeworkstuan": {
+    "message": "Tempo de envio: {0}",
+    "description": "测验 zh.json"
+  },
+  "tiJiaoShiJianZhengXu": {
+    "message": "Tempo de submissão ordem positiva",
+    "description": "测验 zh.json"
+  },
+  "tiMu": {
+    "message": "questão",
+    "description": "测验 zh.json"
+  },
+  "tiMuDeFenShuaiTongJi": {
+    "message": "Estatísticas de pontuação das questões",
+    "description": "测验 zh.json"
+  },
+  "tiMuQu": {
+    "message": "Área de questões",
+    "description": "测验 zh.json"
+  },
+  "tiMuXiangQing": {
+    "message": "Detalhes da questão",
+    "description": "测验 zh.json"
+  },
+  "tiShi": {
+    "message": "dica",
+    "description": "测验 zh.json"
+  },
+  "tiShu": {
+    "message": "Perguntas da seção:",
+    "description": "测验 zh.json"
+  },
+  "tiShu-0": {
+    "message": "Número de Questões",
+    "description": "测验 zh.json"
+  },
+  "tiXing": {
+    "message": "Tipo de item",
+    "description": "测验 zh.json"
+  },
+  "tiXingChengGong": {
+    "message": "Lembrete salvo com sucesso",
+    "description": "测验 zh.json"
+  },
+  "tiXingXueShengJiaoZuoYe": {
+    "message": "Lembre o aluno sobre a Tarefa",
+    "description": "测验 zh.json"
+  },
+  "tianJiaBanJi": {
+    "message": "Adicionar Turma",
+    "description": "测验 zh.json"
+  },
+  "tianJiaFuJian": {
+    "message": "Adicionar anexo",
+    "description": "测验 zh.json"
+  },
+  "tongYiSheZhi": {
+    "message": "Configurações unificadas",
+    "description": "测验 zh.json"
+  },
+  "trueOrFalseQuestion": {
+    "message": "Questão de julgamento",
+    "description": "测验 zh.json"
+  },
+  "tuiChu": {
+    "message": "Sair",
+    "description": "测验 zh.json"
+  },
+  "tuiChuCeYanHouXiTongJiangZiDong": {
+    "message": "Depois de sair do teste, o sistema salvará automaticamente o registro de respostas do teste. Você tem certeza de sair?",
+    "description": "测验 zh.json"
+  },
+  "tuiChuPiYue": {
+    "message": "Sair da correção",
+    "description": "测验 zh.json"
+  },
+  "tuoDongXuanXiangPaiXu": {
+    "message": "* arrastar opção para classificar",
+    "description": "测验 zh.json"
+  },
+  "unEvaluatedQuestionShowTips": {
+    "message": "exibir somente as questões pendentes de avaliação",
+    "description": "测验 zh.json"
+  },
+  "wanCheng": {
+    "message": "concluir",
+    "description": "测验 zh.json"
+  },
+  "weiGongBu": {
+    "message": "Não divulgado",
+    "description": "测验 zh.json"
+  },
+  "weiKaiShi": {
+    "message": "não iniciado",
+    "description": "测验 zh.json"
+  },
+  "weiTiJiao": {
+    "message": "Não enviado",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa": {
+    "message": "Não respondi!",
+    "description": "测验 zh.json"
+  },
+  "weiZuoDa-0": {
+    "message": "Não respondido",
+    "description": "测验 zh.json"
+  },
+  "wenJianBuNengChaoGuo_500m": {
+    "message": "Arquivos não podem exceder 500MB",
+    "description": "测验 zh.json"
+  },
+  "woDeChengJi": {
+    "message": "Minhas Notas",
+    "description": "测验 zh.json"
+  },
+  "woZhiDaoLe": {
+    "message": "Entendi",
+    "description": "测验 zh.json"
+  },
+  "wordsBlanksQuestion": {
+    "message": "Exercício de preenchimento de lacuna",
+    "description": "测验 zh.json"
+  },
+  "wuChaFangWei": {
+    "message": "Margem de erro: ±{0}",
+    "description": "测验 zh.json"
+  },
+  "xiaYiBu": {
+    "message": "Próximo",
+    "description": "测验 zh.json"
+  },
+  "xiaYiFen": {
+    "message": "Próximo",
+    "description": "测验 zh.json"
+  },
+  "xiaYiTi": {
+    "message": "Próxima Questão",
+    "description": "测验 zh.json"
+  },
+  "xiaYiYe": {
+    "message": "Próxima Página",
+    "description": "测验 zh.json"
+  },
+  "xiaZai": {
+    "message": "download",
+    "description": "测验 zh.json"
+  },
+  "xiangCeQuanXianWeiDaKai": {
+    "message": "A permissão do álbum de fotos não está aberta",
+    "description": "测验 zh.json"
+  },
+  "xiangQing": {
+    "message": "Mais detalhes >>",
+    "description": "测验 zh.json"
+  },
+  "xingMing": {
+    "message": "Nome",
+    "description": "测验 zh.json"
+  },
+  "xiuGai": {
+    "message": "editar",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiCeYan": {
+    "message": "Modificar o quiz",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiChengGong": {
+    "message": "Modificado com sucesso",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiFenZhi": {
+    "message": "Editar pontuação",
+    "description": "测验 zh.json"
+  },
+  "xiuGaiTiMuHuoFenZhiHou": {
+    "message": "Depois de alterar a pergunta ou pontuação, use o recurso 【reclassificação】 na página de aprovação do questionário para reclassificar os alunos submetidos.",
+    "description": "测验 zh.json"
+  },
+  "xuZhongXie": {
+    "message": "Precisa ser reescrito",
+    "description": "测验 zh.json"
+  },
+  "xuanXiang": {
+    "message": "opções",
+    "description": "测验 zh.json"
+  },
+  "xuanZeBanJi": {
+    "message": "Selecione a Turma",
+    "description": "测验 zh.json"
+  },
+  "xuanZeNianYueRiXiaoShi": {
+    "message": "selecionar ano, mês, dia e hora",
+    "description": "测验 zh.json"
+  },
+  "xuanZePaiXu": {
+    "message": "Selecione para classificar",
+    "description": "测验 zh.json"
+  },
+  "xuanZeRenShu": {
+    "message": "Selecione o número de pessoas",
+    "description": "测验 zh.json"
+  },
+  "xuanZeWenJian": {
+    "message": "Selecionar ficheiro",
+    "description": "测验 zh.json"
+  },
+  "xuanZeXiangCe": {
+    "message": "selecionar álbum",
+    "description": "测验 zh.json"
+  },
+  "xueHao": {
+    "message": "Número do aluno",
+    "description": "测验 zh.json"
+  },
+  "xueHaoDaoXu": {
+    "message": "Número escolar ordem invertida",
+    "description": "测验 zh.json"
+  },
+  "xueHaoZhengXu": {
+    "message": "Número escolar ordem positiva",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ": {
+    "message": "Se o aluno enviar mais de uma vez, sua Nota final será a Nota mais alta.",
+    "description": "测验 zh.json"
+  },
+  "xueShengDuoCiTiJiaoZuiZ-0": {
+    "message": "O aluno submete várias vezes e recebe a nota final mais alta. Se o tópico contém questões subjetivas que requerem uma avaliação manual, o aluno pode apresentá-las novamente apenas após a aprovação do professor.",
+    "description": "测验 zh.json"
+  },
+  "yiDa": {
+    "message": "Respondido:",
+    "description": "测验 zh.json"
+  },
+  "yiJieShu": {
+    "message": "Concluído",
+    "description": "测验 zh.json"
+  },
+  "yiPiYue": {
+    "message": "Corrigida",
+    "description": "测验 zh.json"
+  },
+  "yiPingFen": {
+    "message": "Classificado",
+    "description": "测验 zh.json"
+  },
+  "yiTiJiaoCiShuYunXuTiJi": {
+    "message": "Submissões enviadas/Número de submissões permitidas.",
+    "description": "测验 zh.json"
+  },
+  "yiXieContentWordcountZi": {
+    "message": "{0} palavras escritas",
+    "description": "测验 zh.json"
+  },
+  "yongHuYiJuJueLuYinQuan": {
+    "message": "O usuário negou permissão de gravação, altere as configurações e tente novamente",
+    "description": "测验 zh.json"
+  },
+  "yuLanTiMu": {
+    "message": "Pré-visualizar questão",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiJiao": {
+    "message": "Entregas em atraso",
+    "description": "测验 zh.json"
+  },
+  "yuQiWeiTiJiao": {
+    "message": "Atraso na apresentação",
+    "description": "测验 zh.json"
+  },
+  "yunXuDaTiCiShu": {
+    "message": "Número permitido de respostas:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu": {
+    "message": "Número de submissões permitidas:",
+    "description": "测验 zh.json"
+  },
+  "yunXuTiJiaoCiShu-0": {
+    "message": "Permitir número de submissões",
+    "description": "测验 zh.json"
+  },
+  "zaiCiDaTi": {
+    "message": "Responda novamente a pergunta",
+    "description": "测验 zh.json"
+  },
+  "zanBuLiKai": {
+    "message": "Não sair por enquanto",
+    "description": "测验 zh.json"
+  },
+  "zanBuTiJiao": {
+    "message": "Não enviado ainda",
+    "description": "测验 zh.json"
+  },
+  "zanWuTiMuQingXianQuTiK": {
+    "message": "Não há perguntas ainda. Por favor, vá para o banco de perguntas para escolher primeiro",
+    "description": "测验 zh.json"
+  },
+  "zanWuXueShengTiJiaoZuoY": {
+    "message": "Ainda nenhum aluno enviou tarefa",
+    "description": "测验 zh.json"
+  },
+  "zhanBi": {
+    "message": "proporção",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAn": {
+    "message": "Resposta certa:",
+    "description": "测验 zh.json"
+  },
+  "zhengQueDaAnArrayisarrayqu": {
+    "message": "Resposta correta: {0}",
+    "description": "测验 zh.json"
+  },
+  "zhengQueShuai": {
+    "message": "Porcentagem de acertos",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiLuYinDianJiTing": {
+    "message": "Gravação em andamento. Clique para parar",
+    "description": "测验 zh.json"
+  },
+  "zhengZaiShengChengDaTiJi": {
+    "message": "Gerando Registro de Respostas...",
+    "description": "测验 zh.json"
+  },
+  "zhongLu": {
+    "message": "Regravar",
+    "description": "测验 zh.json"
+  },
+  "zhongTuTuiChuXiTongBuBa": {
+    "message": "Se sair durante o sistema não salva o registro de respostas, por favor envie e depois feche a página.",
+    "description": "测验 zh.json"
+  },
+  "zhongXie": {
+    "message": "Reescrever",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS": {
+    "message": "A reescrita não está limitada pelo número de submissões e tempo de teste. Quando o professor pede uma reescrita, o aluno ainda pode enviar, mesmo que o número de submissões tenha sido esgotado ou o teste tenha terminado. <br/> <br/> tem certeza de que é necessário {0} reescrever?",
+    "description": "测验 zh.json"
+  },
+  "zhongXieBuShouTiJiaoCiS-0": {
+    "message": "A reescrita não está limitada pelo número de submissões e tempo de teste. Quando o professor pede uma reescrita, o aluno ainda pode enviar, mesmo que o número de submissões tenha sido esgotado ou o teste tenha terminado. <br/> tem certeza de que é necessário {0} reescrever?",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFen": {
+    "message": "reavaliar pontuação",
+    "description": "测验 zh.json"
+  },
+  "zhongXinPingFenShiBai": {
+    "message": "Falha na reavaliação de pontuação",
+    "description": "测验 zh.json"
+  },
+  "zhongXinShangChuan": {
+    "message": "Fazer upload novamente",
+    "description": "测验 zh.json"
+  },
+  "zhongZuo": {
+    "message": "Refazer",
+    "description": "测验 zh.json"
+  },
+  "zhuYiCeYanZhongRuGuoBao": {
+    "message": "Atenção: Se houver questões subjetivas pendentes no teste, espere o professor corrigi-las para enviar novamente.",
+    "description": "测验 zh.json"
+  },
+  "zhuZhongXinPingFenBuHui": {
+    "message": "Nota: A reavaliação da pontuação não afetará a pontuação dos itens com pontuação manual, como perguntas de resposta curta. Para tipos de itens que suportam a avaliação do sistema, como exercícios de preenchimento de lacunas, se já tiverem sido corrigidos manualmente, a reavaliação da pontuação do sistema substituirá o registro de correção manual. Use com cuidado.",
+    "description": "测验 zh.json"
+  },
+  "zongFen": {
+    "message": "Pontuação total:",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFen": {
+    "message": "Pontuação mínima",
+    "description": "测验 zh.json"
+  },
+  "zuiDiFenLowest_0": {
+    "message": "Pontuação mínima: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuanThisfilenu": {
+    "message": "Carregar até {0} anexos",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoShangChuan_5GeFuJi": {
+    "message": "Carregue até 5 anexos",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTi": {
+    "message": "Escolha até 200 perguntas",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu": {
+    "message": "Escolha até 200 tópicos",
+    "description": "测验 zh.json"
+  },
+  "zuiDuoXuanZe_200DaoTiMu-0": {
+    "message": "Selecione até {0} tópicos",
+    "description": "测验 zh.json"
+  },
+  "zuiGao": {
+    "message": "O supremo",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFen": {
+    "message": "Nota mais alta",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenHighest_0": {
+    "message": "Pontuação máxima: {0}",
+    "description": "测验 zh.json"
+  },
+  "zuiGaoFenSubmitresponsemaxg": {
+    "message": "Pontuação máxima: {0} pontos",
+    "description": "测验 zh.json"
+  },
+  "zuiHouYiCiTiJiaoHou": {
+    "message": "Após o último envio",
+    "description": "测验 zh.json"
+  },
+  "zuoYeBiaoTiBuNengChaoGu": {
+    "message": "O título do trabalho não deve exceder 200 caracteres (cerca de 100 caracteres em kanji)",
+    "description": "测验 zh.json"
+  },
+  "zuoYeYaoQiuBuNengChaoGu": {
+    "message": "Os requisitos de trabalho não podem exceder 5000 caracteres",
+    "description": "测验 zh.json"
+  },
+  "ExportTip1": {
+    "message": "Se um aluno enviar um teste várias vezes, os dados exportados mostrarão a maior pontuação dos resultados do aluno.",
+    "description": "测验 zh.json"
+  },
+  "signature": {
+    "message": "assinatura eletrônica",
+    "description": "测验 zh.json"
+  },
+  "yes": {
+    "message": "Verdade",
+    "description": "测验 zh.json"
+  },
+  "no": {
+    "message": "Falso",
+    "description": "测验 zh.json"
+  }
 }

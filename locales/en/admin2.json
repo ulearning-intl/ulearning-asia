@@ -2964,7 +2964,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule4": {
-    "message": "The maximum number of accounts cannot be less than 100",
+    "message": "The maximum number of accounts cannot be less than 1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule5": {
@@ -2972,7 +2972,7 @@
     "description": "新版管理后台 zh.json"
   },
   "saas.rule6": {
-    "message": "The maximum number of active accounts cannot be less than 100",
+    "message": "The maximum number of active accounts cannot be less than 1",
     "description": "新版管理后台 zh.json"
   },
   "saas.rule7": {
@@ -5443,6 +5443,30 @@
     "message": "·Current Viewing File",
     "description": "新版管理后台 zh.json"
   },
+  "resourceLibrary.allTheType": {
+    "message": "All types",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.share": {
+    "message": "Share",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.upLoad": {
+    "message": "Upload",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allUpLoadType": {
+    "message": "All upload status",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip1": {
+    "message": "Copy and share records",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip2": {
+    "message": "Resource publishing records",
+    "description": "新版管理后台 zh.json"
+  },
   "userSetting.systemSetting": {
     "message": "System settings",
     "description": "新版管理后台 zh.json"
@@ -6101,6 +6125,214 @@
   },
   "service.uploadFilePlaceholder": {
     "message": "Select File",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteResource": {
+    "message": "Delete resource only",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Delete resource published to courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Delete resource copied to resource library",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Delete both published and copied",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.title": {
+    "message": "Select Course",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.tip": {
+    "message": "Please select which courses to publish the resource to:",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.selectAll": {
+    "message": "Select All",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Published successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishFail": {
+    "message": "Failed to publish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.allCategory": {
+    "message": "All categories",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveUp": {
+    "message": "Move up",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveDown": {
+    "message": "Move down",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.addCategory": {
+    "message": "Add Category",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pla": {
+    "message": "Enter name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.name": {
+    "message": "Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.gender": {
+    "message": "Gender",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.birthDate": {
+    "message": "Date of Birth",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.age": {
+    "message": "Age",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.phone": {
+    "message": "Contact Phone",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.email": {
+    "message": "Email",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.registerTtime": {
+    "message": "Enrolled time",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pre-view": {
+    "message": "Preview",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.download": {
+    "message": "Download",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.project": {
+    "message": "Projects  Management",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.career": {
+    "message": "Occupation Management",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.push": {
+    "message": "Publish Project",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectName": {
+    "message": "Project Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newNum": {
+    "message": "Consultation Number ",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.courseNum": {
+    "message": "Number of Courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectContent": {
+    "message": "Project Overview",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newsManage": {
+    "message": "News Management",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newPush": {
+    "message": "Publish News",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newTitle": {
+    "message": "News Title",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newContent": {
+    "message": "News Content",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.beProject": {
+    "message": "Belonging Project",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newType": {
+    "message": "News Category",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.name": {
+    "message": "Occupation Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.exam": {
+    "message": "Certification Exam",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.push": {
+    "message": "Publish Occupation",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.setType": {
+    "message": "Set up classifications",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.beType": {
+    "message": "Course Classification",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.zh": {
+    "message": "Chinese",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.en": {
+    "message": "English",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.introduction": {
+    "message": "Occupation Introduction",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.professionalStandard": {
+    "message": "Occupation Standard",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.certification": {
+    "message": "Occupation Certification",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.associatedCourses": {
+    "message": "Course",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.searchCourse": {
+    "message": "Search course",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.courseCreator": {
+    "message": "Course creator",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.selectExam": {
+    "message": "Select Exam",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.examTime": {
+    "message": "Exam Time",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.typeNameInput": {
+    "message": "Please enter the classification name.",
     "description": "新版管理后台 zh.json"
   }
 }
