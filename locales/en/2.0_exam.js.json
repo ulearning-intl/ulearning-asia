@@ -3311,6 +3311,26 @@
     "message": "Screen monitoring methods - Select at least one",
     "description": "2.0 exam.js"
   },
+  "screenMonitorTips9": {
+    "message": "Enable screen monitoring",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips10": {
+    "message": "(Only valid for mobile exams, the system will automatically take screenshots to record candidate behavior)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips11": {
+    "message": "Forced roll up after reaching {n} cumulative abnormal detection times",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips12": {
+    "message": "After detecting abnormalities, students can continue the exam through the backup verification code",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips13": {
+    "message": "After activation, the system will automatically capture the candidate's mobile phone screen randomly, and teachers can view the candidate's screenshot records in real time on the monitoring console to identify cheating behaviors such as floating windows.",
+    "description": "2.0 exam.js"
+  },
   "gradeTips9": {
     "message": "Switched away from the exam screen more times than allowed and the exam was submitted involuntarily.",
     "description": "2.0 exam.js"
@@ -3601,6 +3621,10 @@
   },
   "PCExe2": {
     "message": "Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "H5": {
+    "message": "Mobile H5",
     "description": "2.0 exam.js"
   },
   "questionLevel": {
