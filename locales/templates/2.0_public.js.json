@@ -212,7 +212,7 @@
     "description": "2.0 public.js"
   },
   "usingTextbook": {
-    "message": "所用课件",
+    "message": "所用课程章节",
     "description": "2.0 public.js"
   },
   "noTextbook": {
@@ -1048,7 +1048,7 @@
     "description": "2.0 public.js"
   },
   "coursewareContent": {
-    "message": "课件内容",
+    "message": "课程章节内容",
     "description": "2.0 public.js"
   },
   "livePlayback": {
@@ -1932,7 +1932,7 @@
     "description": "2.0 public.js"
   },
   "coursebtn3": {
-    "message": "加入班课",
+    "message": "加入课程",
     "description": "2.0 public.js"
   },
   "coursebtn4": {
@@ -2589,6 +2589,102 @@
   },
   "loginTipsMsg5": {
     "message": "您的登录密码已经 <strong class='text-red'> {dayNum} </strong> 天没有更新了！",
+    "description": "2.0 public.js"
+  },
+  "newAccount": {
+    "message": "账号注册",
+    "description": "2.0 public.js"
+  },
+  "alreadyEmail": {
+    "message": "邮箱已被注册",
+    "description": "2.0 public.js"
+  },
+  "emailTimesUsedUp": {
+    "message": "今日发送次数已达上限",
+    "description": "2.0 public.js"
+  },
+  "getCodeTooManyTips": {
+    "message": "获取验证码过于频繁，请60s后再试",
+    "description": "2.0 public.js"
+  },
+  "SignUp": {
+    "message": "注册",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips1": {
+    "message": "密码要求：",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips2": {
+    "message": "8-16个字符",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips3": {
+    "message": "需包含数字、字母、特殊符号",
+    "description": "2.0 public.js"
+  },
+  "pwdValidatorTips": {
+    "message": "8-16位，须包含至少3种字符（数字、大写字母、小写字母或特殊符号）",
+    "description": "2.0 public.js"
+  },
+  "getCode": {
+    "message": "获取验证码",
+    "description": "2.0 public.js"
+  },
+  "enter4DigitCode": {
+    "message": "填写4位数验证码",
+    "description": "2.0 public.js"
+  },
+  "registerTips": {
+    "message": "目前仅支持学生注册；注册后，您的邮箱即为您的用户名。",
+    "description": "2.0 public.js"
+  },
+  "agreementsTips": {
+    "message": "点击注册，即表示您同意并接受我们的 <a href=\"../agreements/user.html\" target=\"_blank\">用户协议</a> 和 <a href=\"../agreements/privacy.html\" target=\"_blank\">隐私政策</a>。",
+    "description": "2.0 public.js"
+  },
+  "noAccounts": {
+    "message": "没有账号？",
+    "description": "2.0 public.js"
+  },
+  "signUpNow": {
+    "message": "立即注册",
+    "description": "2.0 public.js"
+  },
+  "loginAccount": {
+    "message": "用户名 / 邮箱",
+    "description": "2.0 public.js"
+  },
+  "loginAccountTips": {
+    "message": "请输入用户名/邮箱",
+    "description": "2.0 public.js"
+  },
+  "userNameUsed": {
+    "message": "用户已存在",
+    "description": "2.0 public.js"
+  },
+  "registerError": {
+    "message": "注册失败",
+    "description": "2.0 public.js"
+  },
+  "registerSuccessTips": {
+    "message": "恭喜您完成注册。",
+    "description": "2.0 public.js"
+  },
+  "feedback": {
+    "message": "问题反馈",
+    "description": "2.0 public.js"
+  },
+  "userManual": {
+    "message": "用户手册",
+    "description": "2.0 public.js"
+  },
+  "authentication": {
+    "message": "身份验证",
+    "description": "2.0 public.js"
+  },
+  "identityVerificationCode": {
+    "message": "身份认证码",
     "description": "2.0 public.js"
   }
 }
