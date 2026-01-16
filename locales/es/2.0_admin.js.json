@@ -4410,5 +4410,265 @@
   "systemAdmin.systemAdminTips24": {
     "message": "Después de deshabilitar, el usuario no podrá iniciar sesión. ¿Está seguro de que desea deshabilitarlo?",
     "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "Sincronización",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "auto-construido",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "Todos los métodos de creación",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "Pregrado",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "Postgrados",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "Todas las etapas de aprendizaje",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "código del curso",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "Perteneciente al semestre",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "Número de trabajo del profesor",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "Segmento Escuela",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "Método de creación",
+    "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "Administrador del sistema",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "El segundo admin",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "Administración de padres (Agregar/Editar/Eliminar padres, Acceso a la cuenta de padres)",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "Exportar",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "Exportación CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "Exportación XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "Desactivar con éxito",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "La activación fue exitosa",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "Por favor, seleccione primero el administrador que desea desactivar.",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "Por favor, seleccione el administrador para eliminar primero",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "Introduzca el nombre de usuario o el nombre de usuario para buscar",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "Bulk activa cuentas de padres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "Añada padres",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "Padre Nombre",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "Link Estudiante",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "Gestión parental",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "Auditoría log",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "Horas de operación",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "Función Módulo",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "Tipo de acción",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "Acción Descripción",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "Cliente Device",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "Dirección IP",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "Introduzca el nombre o nombre para buscar",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "Todos los colegios",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "Todos los cursos",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "Todos los roles",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "Todos los módulos",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "Tipo de acción",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "Clases",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "Anuncio",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "Curso",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "Recursos",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "Tarea",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "Discutir",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "Transmisión en vivo",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "Evaluación",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "Miembro",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "Otros",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "Iniciar sesión",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "salir",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "Crear",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "Modificar",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "Eliminar",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "Ver",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "Calificaciones",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "Enviar",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "Otros",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "Por favor seleccione una fecha de inicio y una fecha límite",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "Seleccione la hora de finalización",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "Todos los roles",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "Todos los módulos",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "Todas las acciones",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "Introduzca el nombre del archivo para filtrar",
+    "description": "2.0 admin.js"
   }
 }

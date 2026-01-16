@@ -2515,10 +2515,6 @@
     "message": "密碼策略：8~16位，必須同時包含字母和數字（區分大小寫）",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "您的登錄密碼已經  <strong class='text-red'>{dayNum}</strong>  天沒有更新了！",
-    "description": "2.0 public.js"
-  },
   "programPreviewEntry": {
     "message": "預覽設置",
     "description": "2.0 public.js"
@@ -2585,6 +2581,10 @@
   },
   "AIIframeLoading": {
     "message": "加載中請稍後…",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "您的登錄密碼已經  <strong class='text-red'>{dayNum}</strong>  天沒有更新了！",
     "description": "2.0 public.js"
   }
 }
