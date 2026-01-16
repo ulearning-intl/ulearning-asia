@@ -2515,10 +2515,6 @@
     "message": "Пароль может поддерживать только буквы (различный регистр), цифры и специальные символы (специальные символы под английским методом ввода! @ # $% ^ & * () - + = {} []: ',... / <??",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "Ваш пароль для входа не обновлялся в течение <strong class='text-red'>{dayNum}</strong> дней!",
-    "description": "2.0 public.js"
-  },
   "someonesEportfolio": {
     "message": "None",
     "description": "2.0 public.js"
@@ -2589,6 +2585,10 @@
   },
   "AIIframeLoading": {
     "message": "Загрузить позже...",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "Ваш пароль для входа не обновлялся в течение <strong class='text-red'>{dayNum}</strong> дней!",
     "description": "2.0 public.js"
   }
 }
