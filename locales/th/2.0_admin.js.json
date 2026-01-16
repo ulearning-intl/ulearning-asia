@@ -4398,5 +4398,277 @@
   "selectCourse.delFailed": {
     "message": "ลบล้มเหลว",
     "description": "2.0 admin.js"
+  },
+  "enable": {
+    "message": "ใช้งาน",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "ห้ามใช้งาน",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "หลังจากปิดการใช้งานผู้ใช้จะไม่สามารถเข้าสู่ระบบได้คุณแน่ใจหรือไม่ว่าต้องการปิดการใช้งาน?",
+    "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "ซิงโครนัส",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "สร้างขึ้นเอง",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "วิธีการสร้างทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "ปริญญาตรี",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "ระดับปริญญาโท",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "ทุกขั้นตอนการเรียนรู้",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "หมายเลขหลักสูตร",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "ภาคเรียนที่ยังไม่จบ",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "หมายเลขงานครู",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "ส่วนของโรงเรียน",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "วิธีการสร้าง",
+    "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "ผู้ดูแลระบบ",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "ผู้ดูแลระบบที่สอง",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "การจัดการผู้ปกครอง (เพิ่ม / แก้ไข / ลบผู้ปกครอง, เข้าถึงบัญชีผู้ปกครอง)",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "ส่งออก",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "ส่งออก CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "ส่งออก XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "ปิดการใช้งานเรียบร้อยแล้ว",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "เปิดใช้งานสําเร็จ",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "โปรดเลือกผู้ดูแลระบบเพื่อยกเลิกการใช้งานก่อน",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "โปรดเลือกผู้ดูแลระบบเพื่อลบก่อน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "ป้อนชื่อแม่หรือชื่อผู้ใช้เพื่อค้นหา",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "บัญชีหลักที่เปิดใช้งานเป็นกลุ่ม",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "เพิ่มผู้ปกครอง",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "ชื่อผู้ปกครอง",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "Link นักเรียน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "การจัดการผู้ปกครอง",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "การตรวจสอบบันทึก",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "เวลาทําการ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "โมดูลฟังก์ชัน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "ประเภทการกระทำ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "คําอธิบายการกระทํา",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "อุปกรณ์ไคลเอ็นต์",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "ที่อยู่ IP",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "ใส่ชื่อผู้ใช้หรือชื่อที่จะค้นหา",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "วิทยาลัยทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "หลักสูตรทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "ทุกบทบาท",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "โมดูลทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "ประเภทการกระทำ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "เรียน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "ประกาศ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "สื่อการสอน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "ทรัพยากร",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "การบ้าน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "อภิปราย",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "สตรีมแบบสด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "การประเมิน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "สมาชิก",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "อื่น ๆ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "ลงชื่อเข้าใช้",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "จบการทํางาน",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "สร้าง",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "แก้ไข",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "ลบ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "ดู",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "1,00",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "82.1",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "อื่น ๆ",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "โปรดเลือกเวลาเริ่มต้น",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "โปรดเลือกเวลาสิ้นสุด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "ทุกบทบาท",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "โมดูลทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "การกระทำทั้งหมด",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "ป้อนชื่อไฟล์เพื่อกรอง",
+    "description": "2.0 admin.js"
   }
 }
