@@ -4455,8 +4455,44 @@
     "message": "创建方式",
     "description": "2.0 admin.js"
   },
+  "administrator1": {
+    "message": "系统管理员",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "二级管理员",
+    "description": "2.0 admin.js"
+  },
   "permissionTips11": {
     "message": "家长管理（添加/修改/删除家长，进入家长帐号）",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "导出",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "导出CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "导出XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "停用成功",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "激活成功",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "请先选择要停用的管理员",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "请先选择要删除的管理员",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.patchingAdminTips27": {
@@ -4481,6 +4517,154 @@
   },
   "teachingAdmin.parentManage": {
     "message": "家长管理",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "日志审计",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "操作时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "功能模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "操作类型",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "操作描述",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "终端",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "IP地址",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "输入用户名或姓名搜索",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "全部院系",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "全部课程",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "全部角色",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "全部模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "操作类型",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "班课",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "公告",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "课件",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "资源",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "作业",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "讨论",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "直播",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "考核",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "成员",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "登录",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "退出",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "创建",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "修改",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "删除",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "查看",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "评分",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "提交",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "请选择开始时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "请选择结束时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "全部角色",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "全部模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "全部操作",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.search2": {

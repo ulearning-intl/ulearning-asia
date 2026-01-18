@@ -2515,10 +2515,6 @@
     "message": "Le mot de passe doit comporter de 8 à 16 caractères et inclure à la fois des lettres et des chiffres (les mots de passe sont sensibles à la casse)",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "Votre mot de passe de connexion n'a pas été mis à jour depuis <strong class='text-red'>{dayNum}</strong> jours !",
-    "description": "2.0 public.js"
-  },
   "someonesEportfolio": {
     "message": " ",
     "description": "2.0 public.js"
@@ -2581,6 +2577,10 @@
   },
   "AIIframeLoading": {
     "message": "Plus tard dans le chargement...",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "Votre mot de passe de connexion n'a pas été mis à jour depuis <strong class='text-red'>{dayNum}</strong> jours !",
     "description": "2.0 public.js"
   }
 }

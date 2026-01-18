@@ -4410,5 +4410,265 @@
   "systemAdmin.systemAdminTips24": {
     "message": "بعد التعطيل، لن يتمكن المستخدم من تسجيل الدخول. هل أنت متأكد من التعطيل؟",
     "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "متزامن",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "بنيت ذاتيا",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "جميع طرق الإبداع",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "طالب جامعي",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "الدراسات العليا",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "جميع مراحل التعلم",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "كود الدورة الدراسية",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "الفصل الدراسي المنتمي",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "رقم وظيفة المعلم",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "قطاع المدرسة",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "طريقة الإنشاء",
+    "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "مسؤول الموقع",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "المشرف الثاني",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "إدارة الوالدين (إضافة / تحرير / حذف الوالد ، حساب الوصول الأم)",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "تصدير",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "تصدير CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "تصدير XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "تعطيل بنجاح",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "رمز التفعيل ناجح",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "يرجى اختيار المسؤول لإلغاء تنشيطه أولاً",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "يرجى اختيار المسؤول لحذفه أولاً",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "أدخل اسم الوالد أو اسم المستخدم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "تفعيل الحسابات الأم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "إضافة الآباء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "اسم الوالد",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "رابط الطالب",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "إدارة أولياء الأمور",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "سجل التدقيق",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "وقت العملية",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "وحدة وظيفة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "نوع العمل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "وصف العمل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "جهاز العميل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "عنوان IP",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "أدخل اسم المستخدم أو الاسم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "جميع الكليات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "كل المقررات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "الكل الدور",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "جميع الوحدات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "نوع العمل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "فئات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "إشعارات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "منهج دراسي",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "مصدر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "الواجبات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "المناقشات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "بث مباشر",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "التقييم",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "الأعضاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "أخرى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "تسجيل الدخول",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "تسجيل الخروج",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "إنشاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "تعديل",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "حذف",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "عرض",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "علامة",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "إرسال",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "أخرى",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "برجاء تحديد وقت البدء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "اختر وقت الانتهاء",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "الكل الدور",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "جميع الوحدات",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "جميع الإجراءات",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "أدخل اسم الملف للتصفية",
+    "description": "2.0 admin.js"
   }
 }

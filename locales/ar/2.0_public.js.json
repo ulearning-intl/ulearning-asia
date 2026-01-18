@@ -2515,10 +2515,6 @@
     "message": "يجب أن تتكون كلمة المرور من 8-16 حرفا وتشمل كل من الحروف والأرقام (كلمات المرور حساسة لحالة الأحرف)",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "لم يتم تحديث كلمة مرور تسجيل الدخول الخاصة بك منذ <strong class='text-red'>{dayNum}</strong> يوما! ",
-    "description": "2.0 public.js"
-  },
   "someonesEportfolio": {
     "message": " ",
     "description": "2.0 public.js"
@@ -2589,6 +2585,10 @@
   },
   "AIIframeLoading": {
     "message": "تحميل الرجاء الانتظار . . .",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "لم يتم تحديث كلمة مرور تسجيل الدخول الخاصة بك منذ <strong class='text-red'>{dayNum}</strong> يوما! ",
     "description": "2.0 public.js"
   }
 }
