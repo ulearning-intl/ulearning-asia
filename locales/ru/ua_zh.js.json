@@ -257,7 +257,7 @@
   },
   "autoSaveAt": {
     "message": "Автосохранение выполнено в {time}",
-    "description": "UA -> 教师 -> 编辑课件 -> 右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 右上角"
   },
   "automaticSorting": {
     "message": "Автоматическая сортировка",
@@ -1393,19 +1393,19 @@
   },
   "evaluationHasChinese": {
     "message": "В содержимом{n}-го абзаца комментария есть китайские символы",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "evaluationEmpty": {
     "message": "Введите содержимое p{n}",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceAnswerEmpty": {
     "message": "В абзаце {n} введите эталон ответа",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceTextHasChinese": {
     "message": "В оценочный текст n-го раздела включен китайский",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "followReadingFormat": {
     "message": "Файл формата mp3, Не превышать 3 МБ",
@@ -1749,7 +1749,7 @@
   },
   "inputMinutes": {
     "message": "{input} минута",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "modifyFail": {
     "message": "Изменить неудача",
@@ -2061,7 +2061,7 @@
   },
   "stopTimingTip": {
     "message": "Для обеспечения точности истории обучения, система остановила изучение этой страницы в {time} и история обучения этой страницы не будет сохранена.",
-    "description": "UA -> 学生账户 -> 学习课件"
+    "description": "UA -> 学生账户 -> 学习课程章节"
   },
   "pageHasBeenEditedConfirmDelete": {
     "message": "Текущая страница была отредактирована, подтвердите удаление?",
@@ -2237,11 +2237,11 @@
   },
   "questionError": {
     "message": "На данной странице данные по вопросу №{n} содержат ошибку, идентификатор вопроса: {id}",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionError2": {
     "message": "%тест: {id} Данные неверны",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionsNotCompleted": {
     "message": "На данной странице еще не все вопросы завершены,",
@@ -2293,7 +2293,7 @@
   },
   "recordTimeOf": {
     "message": "Продолжительность аудиозаписи: {input} секунда",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 弹框右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 弹框右上角"
   },
   "recordingTime": {
     "message": "Продолжительность записи",
@@ -2441,7 +2441,7 @@
   },
   "points": {
     "message": "{n} балл",
-    "description": "教师账户 -> ua -> 课程查看 -> 课件试题 \n 课程查看 -> 预览课件 -> 选择练习题 (或者学生账户登录 -> 练习题)"
+    "description": "教师账户 -> ua -> 课程查看 -> 课程章节试题 \n 课程查看 -> 预览课程章节 -> 选择练习题 (或者学生账户登录 -> 练习题)"
   },
   "scoreModels": {
     "message": "Режим оценивания",
@@ -2469,7 +2469,7 @@
   },
   "inputSeconds": {
     "message": "{input} секунда",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "secondLevelMenu": {
     "message": "Подменю",
@@ -2645,7 +2645,7 @@
   },
   "selectedQue": {
     "message": "Выбрано {n} задач",
-    "description": "UA -> 教师 -> 编辑课件 -> 导入练习"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 导入练习"
   },
   "selectedTeacher": {
     "message": "Выбранный учитель",
@@ -2769,7 +2769,7 @@
   },
   "smallQue": {
     "message": "[Подвопрос {n}]",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题 (需要题型为选词填空)"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题 (需要题型为选词填空)"
   },
   "sortQuestions": {
     "message": "упорядочивание",
@@ -2973,7 +2973,7 @@
   },
   "inputTimes": {
     "message": "{input} раз",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 添加后下方工具栏设置按钮"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 添加后下方工具栏设置按钮"
   },
   "timingLearningSuspended": {
     "message": "Изучение на время приостановлено",
