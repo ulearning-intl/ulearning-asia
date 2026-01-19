@@ -257,7 +257,7 @@
   },
   "autoSaveAt": {
     "message": "已於{time}自動保存",
-    "description": "UA -> 教师 -> 编辑课件 -> 右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 右上角"
   },
   "automaticSorting": {
     "message": "自動排序",
@@ -1393,19 +1393,19 @@
   },
   "evaluationHasChinese": {
     "message": "第{n}段評測內容中有中文",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "evaluationEmpty": {
     "message": "第{n}段請輸入評測內容",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceAnswerEmpty": {
     "message": "第{n}段請輸入參考答案",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceTextHasChinese": {
     "message": "第{n}段評分參照文本中有中文",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "followReadingFormat": {
     "message": "mp3格式，不能超過3M",
@@ -1749,7 +1749,7 @@
   },
   "inputMinutes": {
     "message": "{input}分鐘",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "modifyFail": {
     "message": "修改失敗",
@@ -2061,7 +2061,7 @@
   },
   "stopTimingTip": {
     "message": "為保證學習記錄的準確，系統已於{time}停止了該頁面的學習，且該頁面的學習記錄不會保存。",
-    "description": "UA -> 学生账户 -> 学习课件"
+    "description": "UA -> 学生账户 -> 学习课程章节"
   },
   "pageHasBeenEditedConfirmDelete": {
     "message": "當前頁面已被編輯，確定刪除嗎？",
@@ -2237,11 +2237,11 @@
   },
   "questionError": {
     "message": "本頁第{n}道題數據有誤，試題ID：{id}",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionError2": {
     "message": "試題ID：{id} 數據有誤",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionsNotCompleted": {
     "message": "本頁面還有題目尚未完成，",
@@ -2293,7 +2293,7 @@
   },
   "recordTimeOf": {
     "message": "錄音時長：{input}秒",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 弹框右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 弹框右上角"
   },
   "recordingTime": {
     "message": "錄制時長",
@@ -2441,7 +2441,7 @@
   },
   "points": {
     "message": "{n}分",
-    "description": "教师账户 -> ua -> 课程查看 -> 课件试题 \n 课程查看 -> 预览课件 -> 选择练习题 (或者学生账户登录 -> 练习题)"
+    "description": "教师账户 -> ua -> 课程查看 -> 课程章节试题 \n 课程查看 -> 预览课程章节 -> 选择练习题 (或者学生账户登录 -> 练习题)"
   },
   "scoreModels": {
     "message": "評分模式",
@@ -2469,7 +2469,7 @@
   },
   "inputSeconds": {
     "message": "{input}秒",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "secondLevelMenu": {
     "message": "二級目錄 ",
@@ -2645,7 +2645,7 @@
   },
   "selectedQue": {
     "message": "已選擇{n}道題",
-    "description": "UA -> 教师 -> 编辑课件 -> 导入练习"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 导入练习"
   },
   "selectedTeacher": {
     "message": "已選擇的老師",
@@ -2769,7 +2769,7 @@
   },
   "smallQue": {
     "message": "[小題{n}]",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题 (需要题型为选词填空)"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题 (需要题型为选词填空)"
   },
   "sortQuestions": {
     "message": "排序題",
@@ -2973,7 +2973,7 @@
   },
   "inputTimes": {
     "message": "{input}次",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 添加后下方工具栏设置按钮"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 添加后下方工具栏设置按钮"
   },
   "timingLearningSuspended": {
     "message": "計時學習已暫停",
