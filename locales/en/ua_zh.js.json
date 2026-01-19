@@ -257,7 +257,7 @@
   },
   "autoSaveAt": {
     "message": "Automatically saved at {time}",
-    "description": "UA -> 教师 -> 编辑课件 -> 右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 右上角"
   },
   "automaticSorting": {
     "message": "Automatic Sorting",
@@ -1393,19 +1393,19 @@
   },
   "evaluationHasChinese": {
     "message": "There are Chinese in paragraph {n} of the review",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "evaluationEmpty": {
     "message": "In paragraph {n}, please enter the content of the test",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceAnswerEmpty": {
     "message": "Please enter the reference answer in paragraph {n}",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "referenceTextHasChinese": {
     "message": "Paragraph {n} is scored with Chinese in the text",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
   },
   "followReadingFormat": {
     "message": "Mp3 format, no more than 3M",
@@ -1749,7 +1749,7 @@
   },
   "inputMinutes": {
     "message": "{input} minutes",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "modifyFail": {
     "message": "Failed to modify",
@@ -2061,7 +2061,7 @@
   },
   "stopTimingTip": {
     "message": "In order to ensure the accuracy of the learning record, the system has stopped learning on this page at {time}, and the learning record of this page will not be saved.",
-    "description": "UA -> 学生账户 -> 学习课件"
+    "description": "UA -> 学生账户 -> 学习课程章节"
   },
   "pageHasBeenEditedConfirmDelete": {
     "message": "The current page has been edited. Are you sure you want to delete it?",
@@ -2237,11 +2237,11 @@
   },
   "questionError": {
     "message": "The data of the {n} question on this page is incorrect, the question ID: {id}",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionError2": {
     "message": "Question ID: {id} The data is incorrect",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
   },
   "questionsNotCompleted": {
     "message": "There are still some questions in this page not yet completed.，",
@@ -2293,7 +2293,7 @@
   },
   "recordTimeOf": {
     "message": "Recording duration: {input} seconds",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 弹框右上角"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 弹框右上角"
   },
   "recordingTime": {
     "message": "Recording duration",
@@ -2441,7 +2441,7 @@
   },
   "points": {
     "message": "{n} minutes",
-    "description": "教师账户 -> ua -> 课程查看 -> 课件试题 \n 课程查看 -> 预览课件 -> 选择练习题 (或者学生账户登录 -> 练习题)"
+    "description": "教师账户 -> ua -> 课程查看 -> 课程章节试题 \n 课程查看 -> 预览课程章节 -> 选择练习题 (或者学生账户登录 -> 练习题)"
   },
   "scoreModels": {
     "message": "Scoring Model",
@@ -2469,7 +2469,7 @@
   },
   "inputSeconds": {
     "message": "{input} seconds",
-    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "secondLevelMenu": {
     "message": "2nd Level Menu",
@@ -2645,7 +2645,7 @@
   },
   "selectedQue": {
     "message": "{n} question selected",
-    "description": "UA -> 教师 -> 编辑课件 -> 导入练习"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 导入练习"
   },
   "selectedTeacher": {
     "message": "Selected teachers",
@@ -2769,7 +2769,7 @@
   },
   "smallQue": {
     "message": "Sub-Questions {n}",
-    "description": "UA -> 教师 -> 编辑课件 -> 练习题 (需要题型为选词填空)"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题 (需要题型为选词填空)"
   },
   "sortQuestions": {
     "message": "Sequence",
@@ -2973,7 +2973,7 @@
   },
   "inputTimes": {
     "message": "{input} times",
-    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 添加后下方工具栏设置按钮"
+    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 添加后下方工具栏设置按钮"
   },
   "timingLearningSuspended": {
     "message": "Learning Paused!",
@@ -4197,6 +4197,46 @@
   },
   "scormErrorTip": {
     "message": "SCORM only supports versions 1.2 and 2004",
+    "description": "UA"
+  },
+  "CourseVision": {
+    "message": "Course Objective",
+    "description": "UA"
+  },
+  "exportExcelFile": {
+    "message": "Excel Export",
+    "description": "UA"
+  },
+  "createNotes": {
+    "message": "New Note​",
+    "description": "UA"
+  },
+  "editNotes": {
+    "message": "Edit Note",
+    "description": "UA"
+  },
+  "viewAllNotes": {
+    "message": "View All Notes",
+    "description": "UA"
+  },
+  "nullNotesTips": {
+    "message": "No notes yet",
+    "description": "UA"
+  },
+  "pleaseEnterTitle": {
+    "message": " Please enter title ",
+    "description": "UA"
+  },
+  "allNotes": {
+    "message": "All Notes",
+    "description": "UA"
+  },
+  "exportNotes": {
+    "message": "Export Notes",
+    "description": "UA"
+  },
+  "takeNotes": {
+    "message": "Take notes",
     "description": "UA"
   }
 }
