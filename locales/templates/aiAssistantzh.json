@@ -3826,5 +3826,157 @@
   "deleting": {
     "message": "删除中...",
     "description": "aiAssistantzh.json"
+  },
+  "selectedEchartCount": {
+    "message": "已选择 {n} 个图表",
+    "description": "aiAssistantzh.json"
+  },
+  "stuAnalysis": {
+    "message": "学情分析",
+    "description": "aiAssistantzh.json"
+  },
+  "accurateInsightLearningReport": {
+    "message": "精准洞察学情，智能生成分析报告",
+    "description": "aiAssistantzh.json"
+  },
+  "learningInsightDashboard": {
+    "message": "学情洞察仪表盘",
+    "description": "aiAssistantzh.json"
+  },
+  "addChart": {
+    "message": "添加图表",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddSuccess": {
+    "message": "图表添加成功",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddFailed": {
+    "message": "图表添加失败",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisReport": {
+    "message": "分析报告",
+    "description": "aiAssistantzh.json"
+  },
+  "systemDefaultChart": {
+    "message": "系统默认图表",
+    "description": "aiAssistantzh.json"
+  },
+  "collectedChart": {
+    "message": "收藏的图表",
+    "description": "aiAssistantzh.json"
+  },
+  "removeChart": {
+    "message": "移除图表",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRemove": {
+    "message": "确定移除吗?",
+    "description": "aiAssistantzh.json"
+  },
+  "learningAnalysisAssistant": {
+    "message": "学情分析小助手",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQuery": {
+    "message": "问AI，智能查询课程学情数据",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterQuery": {
+    "message": "请输入查询内容",
+    "description": "aiAssistantzh.json"
+  },
+  "everyoneIsAsking": {
+    "message": "示例：",
+    "description": "aiAssistantzh.json"
+  },
+  "helloLearningAssistant": {
+    "message": "嗨，我是学情分析小助手",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassCoursewareProgress": {
+    "message": "作业完成率低于30%的学生",
+    "description": "aiAssistantzh.json"
+  },
+  "studentsWithLowHomeworkRate": {
+    "message": "最新一次考试的成绩分布",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassExamAverage": {
+    "message": "考核成绩排名前5的学生",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGenerating": {
+    "message": "正在生成图表...",
+    "description": "aiAssistantzh.json"
+  },
+  "addedToDashboard": {
+    "message": "已添加到仪表盘",
+    "description": "aiAssistantzh.json"
+  },
+  "addToDashboard": {
+    "message": "添加到仪表盘",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollect": {
+    "message": "取消收藏",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollectConfirm": {
+    "message": "取消收藏后不可恢复，确定取消收藏吗？",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGeneratedReferenceOnly": {
+    "message": "以上内容均由AI生成，仅供您参考",
+    "description": "aiAssistantzh.json"
+  },
+  "editName": {
+    "message": "修改名称",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedBtn": {
+    "message": "生成失败，点击 {n}",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGeneratingStatus": {
+    "message": "生成中",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateChartBtn": {
+    "message": "重新生成图表",
+    "description": "aiAssistantzh.json"
+  },
+  "noChartsAdded": {
+    "message": "暂未添加图表",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChartName": {
+    "message": "请输入名称",
+    "description": "aiAssistantzh.json"
+  },
+  "chartRegeneratedSuccess": {
+    "message": "已重新生成图表",
+    "description": "aiAssistantzh.json"
+  },
+  "chartNameRequired": {
+    "message": "名称不能为空",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQueryHint": {
+    "message": "目前允许查询数据范围（持续扩展中）：<br/>- 课程基础信息：课程信息、班级信息、教师团队信息、学生信息。<br/>- 课件章节：课件名称、课件章节大纲、学生课件学习记录。<br/>- 知识图谱：知识点大纲、学生知识点掌握度。<br/>- 课程作业：作业信息、学生作业完成情况。<br/>- 课堂活动：课堂信息、活动信息、学生点名参与情况、学生课堂积分情况。<br/>- 课程考试：考试信息、学生考试答题记录。<br/>- 课程考核：各班级考核规则、学生考核成绩。<br/>- 课程AI助手：AI助手信息、学生提问记录。<br/><br/>数据更新规则：每日更新一次。",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllCharts": {
+    "message": "查看全部图表",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectEchart": {
+    "message": "请选择图表",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedErrBtn": {
+    "message": "暂未查询到相关数据，请补充相关数据后 {n}",
+    "description": "aiAssistantzh.json"
   }
 }
