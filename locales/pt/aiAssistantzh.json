@@ -2710,5 +2710,1273 @@
   "generateKnowledge": {
     "message": "Gerar gráfico",
     "description": "aiAssistantzh.json"
+  },
+  "generating1": {
+    "message": "Está sendo gerado...",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerate": {
+    "message": "Gerar novamente",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "Voltar ao passo anterior",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "Próximo",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "Gerar pontos de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "generateQuestions": {
+    "message": "Gerar pergunta",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "Salvar o mapa",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "Adicionar filhos",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "Inserir o nome do ponto de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "Tem certeza de que deseja gerar novamente?",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSaveKnowledgeFirst": {
+    "message": "Por favor, salve primeiro o ponto de conhecimento.",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointLimitExceeded": {
+    "message": "O número total de pontos de conhecimento não pode exceder 200. Por favor, remova parte dos pontos de conhecimento primeiro.",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmLeaveWithoutSaving": {
+    "message": "Sair agora não salvará o conteúdo gerado. Tem certeza de que deseja sair?",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints": {
+    "message": "Número total de pontos-chave",
+    "description": "aiAssistantzh.json"
+  },
+  "startGeneratingQuestions": {
+    "message": "Iniciando a geração de questões",
+    "description": "aiAssistantzh.json"
+  },
+  "questionGenerationPrompt": {
+    "message": "Clique no botão para gerar automaticamente questões de teste relacionadas a cada ponto de conhecimento. Se não desejar, pode clicar em [Próximo] para pular esta etapa.",
+    "description": "aiAssistantzh.json"
+  },
+  "difficultyLevel": {
+    "message": "Dificuldade: {level}",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "Fácil",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "Geral",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "difícil",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "Conhecimento:",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "Andamento geral:",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "Conhecimento atual:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalQuestionsNums": {
+    "message": "Total de {n} questões",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "Gerando pergunta…",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmStopGenerating": {
+    "message": "Após a interrupção, a geração de questões será encerrada. Deseja confirmar a interrupção?",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmReturnWithoutSaving": {
+    "message": "Voltar para o passo anterior, não salvar as questões geradas. Confirmar voltar?",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointNameWithCount": {
+    "message": "Nome do ponto de conhecimento (n pontos)",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeType": {
+    "message": "Tipo de nó",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "Unidade de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "Número de títulos",
+    "description": "aiAssistantzh.json"
+  },
+  "createAndSaveGraph": {
+    "message": "Número de títulos",
+    "description": "aiAssistantzh.json"
+  },
+  "savingGraph": {
+    "message": "Está salvando o mapa, por favor não feche a página...",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "Falha ao salvar",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveFailed": {
+    "message": "Falha ao salvar o mapa. Por favor, tente novamente em breve!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveSuccess": {
+    "message": "Aguardando salvamento do mapa",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccess": {
+    "message": "O mapa foi criado com sucesso!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewGraph": {
+    "message": "Ver mapa",
+    "description": "aiAssistantzh.json"
+  },
+  "manageGraph": {
+    "message": "Mapa de gestão",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccessDesc": {
+    "message": "O gráfico foi criado com sucesso. Você também pode {manageGraph} ou {returnToHome}.",
+    "description": "aiAssistantzh.json"
+  },
+  "returnToHome": {
+    "message": "Voltar para a página inicial",
+    "description": "aiAssistantzh.json"
+  },
+  "stopGenerating": {
+    "message": "Pare de gerar",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGraphGeneration": {
+    "message": "Mapa gerado por IA",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraphGenerationDesc": {
+    "message": "Geração inteligente de grafos de conhecimento com base em bases de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "graphName": {
+    "message": "Nome do grafo",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "Insira o nome do grafo",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevel": {
+    "message": "Nível de grafo",
+    "description": "aiAssistantzh.json"
+  },
+  "includeRootNode": {
+    "message": "(Incluindo o nó raiz)",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints1": {
+    "message": "Número total de pontos-chave",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "Selecione",
+    "description": "aiAssistantzh.json"
+  },
+  "startGenerate": {
+    "message": "Iniciar a geração",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameRequired": {
+    "message": "O nome do grafo não pode estar em branco",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameLength": {
+    "message": "O nome do gráfico deve ter entre 1 e 200 caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevelRequired": {
+    "message": "A hierarquia do grafo não pode estar vazia",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePointsRequired": {
+    "message": "O número total de pontos de conhecimento não pode estar vazio",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "Pergunta de múltipla escolha",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "Múltipla escolha",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "julgamento",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgePointsTip": {
+    "message": "Se o ponto de conhecimento selecionado contiver subpontos, eles serão excluídos simultaneamente. Tem certeza de que deseja excluir?",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeNameLength": {
+    "message": "O nome do ponto de conhecimento deve ter entre 1 e 200 caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLimitExceeded": {
+    "message": "O número de tentativas hoje já foi esgotado.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyGenerationLimit": {
+    "message": "Pode utilizar o mapa gerado {count} vezes por dia",
+    "description": "aiAssistantzh.json"
+  },
+  "dragDocHere": {
+    "message": "Arraste o documento para aqui para fazer o upload",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint1": {
+    "message": "Observação: A correção inteligente é aplicável a trabalhos individuais avaliados por professores e testes/exames que incluem perguntas de resposta curta. O escopo da correção abrange textos das respostas, bem como imagens e documentos (PDF/Word/TXT) presentes nos anexos. Outros formatos de anexos não são atualmente suportados para correção automática.",
+    "description": "aiAssistantzh.json"
+  },
+  "submit": {
+    "message": "Submeter",
+    "description": "aiAssistantzh.json"
+  },
+  "report": {
+    "message": "Relatório",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouSatisfied": {
+    "message": "O que você acha satisfatório?",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouDissatisfied": {
+    "message": "O que você acha insatisfatório?",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackPlaceholder": {
+    "message": "(opcional) Conte-nos mais sobre a sua experiência de utilização",
+    "description": "aiAssistantzh.json"
+  },
+  "noReplyAvailable": {
+    "message": "Nenhuma resposta por enquanto",
+    "description": "aiAssistantzh.json"
+  },
+  "textbookKnowledgeNoContent": {
+    "message": "Não há conteúdo relevante dentro do escopo do material didático.",
+    "description": "aiAssistantzh.json"
+  },
+  "reportPlaceholder": {
+    "message": "Queremos saber a razão pela qual você fez a denúncia; você pode descrever o problema que encontrou.",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectFeedbackType": {
+    "message": "Selecione o tipo de feedback",
+    "description": "aiAssistantzh.json"
+  },
+  "thankYouForFeedback": {
+    "message": "Obrigado pelo seu feedback.",
+    "description": "aiAssistantzh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "Dano/sseguro",
+    "description": "aiAssistantzh.json"
+  },
+  "pornographicVulgar": {
+    "message": "Pornográfico e vulgar",
+    "description": "aiAssistantzh.json"
+  },
+  "abuseAttack": {
+    "message": "Ataque com insultos",
+    "description": "aiAssistantzh.json"
+  },
+  "illegalCriminal": {
+    "message": "Delitos e crimes",
+    "description": "aiAssistantzh.json"
+  },
+  "privacyRelated": {
+    "message": "Relacionado à privacidade",
+    "description": "aiAssistantzh.json"
+  },
+  "infringeCopyright": {
+    "message": "Infringe meus direitos autorais, direitos de honra, entre outros",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackOther": {
+    "message": "Outros",
+    "description": "aiAssistantzh.json"
+  },
+  "contentAccurate": {
+    "message": "Conteúdo preciso",
+    "description": "aiAssistantzh.json"
+  },
+  "easyToUnderstand": {
+    "message": "Fácil de entender",
+    "description": "aiAssistantzh.json"
+  },
+  "contentComplete": {
+    "message": "Conteúdo aprimorado",
+    "description": "aiAssistantzh.json"
+  },
+  "falseInformation": {
+    "message": "Informação falsa",
+    "description": "aiAssistantzh.json"
+  },
+  "notHelpful": {
+    "message": "Sem ajuda",
+    "description": "aiAssistantzh.json"
+  },
+  "addquestion": {
+    "message": "Adicionar ao banco de questões",
+    "description": "aiAssistantzh.json"
+  },
+  "addcourseware": {
+    "message": "Adicionar ao material didático",
+    "description": "aiAssistantzh.json"
+  },
+  "deepThinking": {
+    "message": "Pensamento profundo",
+    "description": "aiAssistantzh.json"
+  },
+  "input": {
+    "message": "Inserir",
+    "description": "aiAssistantzh.json"
+  },
+  "output": {
+    "message": "Saída",
+    "description": "aiAssistantzh.json"
+  },
+  "AiAPP": {
+    "message": "Aplicação de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistant": {
+    "message": "Assistente de pesquisa",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChat": {
+    "message": "Diálogo de IA",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistantInfo": {
+    "message": "A IA em aulas de discussão pode atuar como assistente do grupo, ajudando a registrar o conteúdo das discussões e resumir os resultados alcançados.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChatInfo": {
+    "message": "O assistente de aula com IA pode interagir com professores e alunos, responder perguntas e ainda animar o ambiente da sala de aula!",
+    "description": "aiAssistantzh.json"
+  },
+  "moreApp": {
+    "message": "Mais aplicações",
+    "description": "aiAssistantzh.json"
+  },
+  "putAway": {
+    "message": "Fechar",
+    "description": "aiAssistantzh.json"
+  },
+  "breakAgent": {
+    "message": "Interromper o assistente",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDevelopment": {
+    "message": "Ampliação do conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeExplanation": {
+    "message": "Explicação do conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "solvingSteps": {
+    "message": "Passos para resolver o problema",
+    "description": "aiAssistantzh.json"
+  },
+  "mindMap": {
+    "message": "Mapa mental",
+    "description": "aiAssistantzh.json"
+  },
+  "answer1": {
+    "message": "Resposta:",
+    "description": "aiAssistantzh.json"
+  },
+  "answerStep": {
+    "message": "Análise:",
+    "description": "aiAssistantzh.json"
+  },
+  "showAnswerAndStep": {
+    "message": "Mostrar resposta e explicação",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip1": {
+    "message": "De acordo com o conteúdo acima, explicar os principais conteúdos de conhecimento incluídos.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip2": {
+    "message": "Por favor, forneça algumas explicações adicionais com base no conteúdo acima.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip3": {
+    "message": "Por favor, elabore algumas questões relacionadas com o conteúdo acima.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip4": {
+    "message": "Por favor, explique como resolver esta questão e liste os passos breves para a resposta.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip5": {
+    "message": "Gerar um mapa mental com o conteúdo acima",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip6": {
+    "message": "Apresente o conteúdo da imagem.",
+    "description": "aiAssistantzh.json"
+  },
+  "code": {
+    "message": "Código",
+    "description": "aiAssistantzh.json"
+  },
+  "toAgentSquare": {
+    "message": "Ir para a Praça do Intelectual",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAi": {
+    "message": "Captura de tela perguntar à IA",
+    "description": "aiAssistantzh.json"
+  },
+  "teamCreate": {
+    "message": "Construção colaborativa em equipe",
+    "description": "aiAssistantzh.json"
+  },
+  "outsideShare": {
+    "message": "Introdução externa",
+    "description": "aiAssistantzh.json"
+  },
+  "uploading": {
+    "message": "Carregando...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzing": {
+    "message": "Analisando...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzingTip": {
+    "message": "Por favor, aguarde até que a análise seja concluída antes de enviar.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocTip": {
+    "message": "Apenas {n} documentos podem ser enviados por vez.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocMaxTip": {
+    "message": "O número de documentos enviados não pode exceder o limite de {n}.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgSizeTip": {
+    "message": "O tamanho de cada imagem não pode exceder {n} MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocSizeTip": {
+    "message": "O tamanho de um único documento não pode exceder {n} MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFile": {
+    "message": "Carregar documento",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip1": {
+    "message": "Suporta PNG, JPG, JPEG, GIF e BMP, com até 8 imagens, cada uma com no máximo 10 MB",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTip": {
+    "message": "Suporta Word, PDF, TXT, PPT e PPTX, com até 10 arquivos, cada um com no máximo 20 MB",
+    "description": "aiAssistantzh.json"
+  },
+  "aiQuestionTip": {
+    "message": "A criação de questões com IA não suporta ainda o upload de imagens.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTotalTip": {
+    "message": "Apenas {n} arquivos podem ser enviados por vez.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadAttachment": {
+    "message": "Carregar anexo",
+    "description": "aiAssistantzh.json"
+  },
+  "webSearch": {
+    "message": "Pesquisa na internet",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "Geração de planos de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadLimit10Docs": {
+    "message": "Permite carregar até 10 documentos de uma vez",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatWordPdfOnly": {
+    "message": "Apenas é permitido o upload de documentos no formato Word e PDF.",
+    "description": "aiAssistantzh.json"
+  },
+  "docSizeLimit512M": {
+    "message": "O tamanho máximo do documento enviado não pode exceder 512 MB.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewLessonPlan": {
+    "message": "Ver plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordLessonPlan": {
+    "message": "Baixar plano de aula em Word",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentEmpty": {
+    "message": "O conteúdo do plano de aula está vazio.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlan": {
+    "message": "Plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordFailed": {
+    "message": "Falha ao baixar o Word",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadFailedRetry": {
+    "message": "Falha ao baixar, tente novamente",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLessonPlanGenerationLimit": {
+    "message": "Pode utilizar o plano de aula {count} vezes por dia",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanByTheme": {
+    "message": "Gerar planos de aula inteligentes com base no tema",
+    "description": "aiAssistantzh.json"
+  },
+  "topicName": {
+    "message": "Nome do tema",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicName": {
+    "message": "Inserir o nome do tema",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendedTopics": {
+    "message": "Tema recomendado:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeTopics": {
+    "message": "Trocar de algo",
+    "description": "aiAssistantzh.json"
+  },
+  "studentGrade": {
+    "message": "Nível escolar do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "selectGrade": {
+    "message": "Escolher o nível de ensino",
+    "description": "aiAssistantzh.json"
+  },
+  "subject": {
+    "message": "Disciplina",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSubject": {
+    "message": "Escolher disciplina",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContent": {
+    "message": "Conteúdo do plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmDeleteLessonPlanModule": {
+    "message": "Tem certeza de que deseja excluir o módulo de plano de aula \"{contentTitle}\"?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteLessonPlanModule": {
+    "message": "Excluir módulo de plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleLimit20": {
+    "message": "O número de módulos de planos de aula não pode exceder 20.",
+    "description": "aiAssistantzh.json"
+  },
+  "addLessonPlanModule": {
+    "message": "Adicionar módulo de plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "enterLessonPlanModuleName": {
+    "message": "Insira o nome do módulo de plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleNameLimit200": {
+    "message": "O nome do módulo de plano de aula não pode exceder 200 caracteres",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModel": {
+    "message": "Modelo grande",
+    "description": "aiAssistantzh.json"
+  },
+  "selectLargeModel": {
+    "message": "Escolha um modelo grande",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterials": {
+    "message": "Referências",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterialsDesc": {
+    "message": "É possível carregar documentos como planos de aula e materiais didáticos, aumentando a precisão na geração de planos de ensino.",
+    "description": "aiAssistantzh.json"
+  },
+  "otherRequirements": {
+    "message": "Outras exigências",
+    "description": "aiAssistantzh.json"
+  },
+  "enterOtherRequirements": {
+    "message": "Insira outras solicitações",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanOneClick": {
+    "message": "Gerar planos de aula com um clique",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameRequired": {
+    "message": "Nome do tema obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameLimit200": {
+    "message": "O nome do tema não pode exceder 200 caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "gradeRequired": {
+    "message": "Obrigatório para cada nível escolar",
+    "description": "aiAssistantzh.json"
+  },
+  "subjectRequired": {
+    "message": "Obrigatório para disciplina",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentRequired": {
+    "message": "Conteúdo do plano de aula obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelRequired": {
+    "message": "O modelo grande é obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "saving": {
+    "message": "Salvando...",
+    "description": "aiAssistantzh.json"
+  },
+  "save": {
+    "message": "Salvar",
+    "description": "aiAssistantzh.json"
+  },
+  "replace": {
+    "message": "Substituição",
+    "description": "aiAssistantzh.json"
+  },
+  "insert": {
+    "message": "Inserir",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCommandForTextOptimization": {
+    "message": "Insira a instrução para otimizar o texto",
+    "description": "aiAssistantzh.json"
+  },
+  "polish": {
+    "message": "Refinar",
+    "description": "aiAssistantzh.json"
+  },
+  "expand": {
+    "message": "Expansão",
+    "description": "aiAssistantzh.json"
+  },
+  "condense": {
+    "message": "Abreviatura",
+    "description": "aiAssistantzh.json"
+  },
+  "rewriteFailed": {
+    "message": "Reescrita falhou, tente novamente",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGenerationFailed": {
+    "message": "Falha na geração do plano de aula. Por favor, tente novamente.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanSaved": {
+    "message": "O plano de aula foi salvo.",
+    "description": "aiAssistantzh.json"
+  },
+  "imagePreview": {
+    "message": "Visualização da imagem",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimit5M": {
+    "message": "O arquivo não pode exceder 5 MB.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterContent": {
+    "message": "Conteúdo inserido...",
+    "description": "aiAssistantzh.json"
+  },
+  "allRepository": {
+    "message": "Toda a base de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyStuTip": {
+    "message": "Ainda não há dados de alunos",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelMust": {
+    "message": "Modelo grande obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "question2": {
+    "message": "questão",
+    "description": "aiAssistantzh.json"
+  },
+  "notSupportAiMark": {
+    "message": "Este anexo não suporta correção inteligente.",
+    "description": "aiAssistantzh.json"
+  },
+  "view": {
+    "message": "Ver",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip1": {
+    "message": "Os resultados da correção do teste não serão salvos,",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip2": {
+    "message": "Pode iniciar a avaliação se os resultados da pontuação forem consistentes com as expectativas.",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip3": {
+    "message": "A correção do teste falhou",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadMarkdown": {
+    "message": "Baixar o plano de aula em Markdown",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnalysis": {
+    "message": "Analisando o arquivo...",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadText": {
+    "message": "Baixar o plano de aula",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestion": {
+    "message": "Prova inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestionDesc": {
+    "message": "Gerar questões de forma inteligente com base nos pontos-chave do conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "inputKnowledgePoint": {
+    "message": "Inserir pontos de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgePoint": {
+    "message": "Escolher o ponto de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointNameTip": {
+    "message": "Insira o nome do ponto de conhecimento e pressione Enter para confirmar",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestionType": {
+    "message": "Selecione o tipo de pergunta",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocumentHint": {
+    "message": "É possível carregar documentos como materiais didáticos e explicações de conceitos, aumentando a precisão na geração de questões.",
+    "description": "aiAssistantzh.json"
+  },
+  "mediaFileNote": {
+    "message": "Observação: Arquivos de áudio e vídeo, apenas arquivos com legendas são opcionais.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectedKnowledgePointsCount": {
+    "message": "Você selecionou {n} pontos de conhecimento.",
+    "description": "aiAssistantzh.json"
+  },
+  "saveToQuestionBank": {
+    "message": "Salvar no banco de questões",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSaveDirectory": {
+    "message": "Escolher salvar diretório",
+    "description": "aiAssistantzh.json"
+  },
+  "saveDescription": {
+    "message": "As questões geradas serão salvas no diretório do banco de questões selecionado.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNumTip": {
+    "message": "Número de questões geradas por cada ponto de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNum": {
+    "message": "Selecione o número de questões",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip": {
+    "message": "Os pontos de conhecimento selecionados serão automaticamente marcados nos itens gerados.",
+    "description": "aiAssistantzh.json"
+  },
+  "noPoints": {
+    "message": "Nenhum ponto de conhecimento disponível",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeGraphTip": {
+    "message": "Selecione o grafo de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Grafo de conhecimento:",
+    "description": "aiAssistantzh.json"
+  },
+  "add": {
+    "message": "Adicionar",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip1": {
+    "message": "Selecione o ponto de conhecimento",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip2": {
+    "message": "O número máximo de pontos-chave é {n}.",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsRequired": {
+    "message": "O ponto de conhecimento não pode estar vazio",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsTips": {
+    "message": "O ponto de conhecimento não pode exceder 200 caracteres",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeRequired": {
+    "message": "Tipo de questão obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNumRequired": {
+    "message": "Tipo de questão obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRequired": {
+    "message": "Modelo grande não configurado. Por favor, entre em contato com o administrador.",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestion": {
+    "message": "Está salvando o título, por favor não feche a página...",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestionFailed": {
+    "message": "Falha ao salvar o título. Por favor, tente novamente em breve!",
+    "description": "aiAssistantzh.json"
+  },
+  "questionSaved": {
+    "message": "Título salvo com sucesso!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewQBank": {
+    "message": "Ver banco de questões",
+    "description": "aiAssistantzh.json"
+  },
+  "creationQSuccessDesc": {
+    "message": "A salvação do título foi bem-sucedida. Você também pode {viewQBank} ou {returnToHome}.",
+    "description": "aiAssistantzh.json"
+  },
+  "all": {
+    "message": "Tudo",
+    "description": "aiAssistantzh.json"
+  },
+  "shareFolder": {
+    "message": "Pasta compartilhada",
+    "description": "aiAssistantzh.json"
+  },
+  "selectFolderDesc": {
+    "message": "As questões geradas serão salvas no diretório do banco de questões selecionado.",
+    "description": "aiAssistantzh.json"
+  },
+  "targetFolder": {
+    "message": "Selecione a pasta de destino.",
+    "description": "aiAssistantzh.json"
+  },
+  "pointNameTip": {
+    "message": "O nome do ponto de conhecimento não pode exceder {n} caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "allTypes": {
+    "message": "Todos os tipos",
+    "description": "aiAssistantzh.json"
+  },
+  "imageText": {
+    "message": "conteúdo de imagem e texto",
+    "description": "aiAssistantzh.json"
+  },
+  "other": {
+    "message": "outros",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceName": {
+    "message": "Nome do recurso",
+    "description": "aiAssistantzh.json"
+  },
+  "currentPosition": {
+    "message": "Posição atual:",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnTip": {
+    "message": "Analisando o arquivo...",
+    "description": "aiAssistantzh.json"
+  },
+  "noQuestion": {
+    "message": "O título não pode estar vazio",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestion": {
+    "message": "Outras questões",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestionTip": {
+    "message": "O sistema está em atualização, fique atento!",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePage": {
+    "message": "Gerar página única",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGenerateSinglePage": {
+    "message": "Página única gerada por IA",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageRequirements": {
+    "message": "Requisitos de página única",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirements": {
+    "message": "Insira os requisitos para a geração de uma página única",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleLabel": {
+    "message": "Exemplo:",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleSingleChoice": {
+    "message": "Gerar uma pergunta de múltipla escolha sobre inteligência artificial",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleCase": {
+    "message": "Gerar um caso sobre inteligência artificial",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentEdit": {
+    "message": "Edição de conteúdo em página única",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePageContent": {
+    "message": "Gerar conteúdo de página única",
+    "description": "aiAssistantzh.json"
+  },
+  "insertPPT": {
+    "message": "Inserir PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "insertBefore": {
+    "message": "Inserir antes da página",
+    "description": "aiAssistantzh.json"
+  },
+  "insertAfter": {
+    "message": "Inserir após a página",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirementsError": {
+    "message": "Insira os requisitos da página única",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentRequired": {
+    "message": "O conteúdo da página única não pode estar vazio.",
+    "description": "aiAssistantzh.json"
+  },
+  "inserting": {
+    "message": "Inserindo...",
+    "description": "aiAssistantzh.json"
+  },
+  "insertSuccess": {
+    "message": "Inserido com sucesso",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageLimitError": {
+    "message": "O número de páginas geradas por IA não pode exceder 10.",
+    "description": "aiAssistantzh.json"
+  },
+  "themeGeneration": {
+    "message": "Geração de temas",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc": {
+    "message": "É possível carregar documentos como planos de ensino e materiais didáticos, aumentando a precisão dos slides gerados.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHere": {
+    "message": "Arraste arquivos para aqui,",
+    "description": "aiAssistantzh.json"
+  },
+  "pptUploadFormat": {
+    "message": "O documento suporta formatos Word e PDF, enquanto as imagens suportam os formatos PNG, JPG, GIF, JPEG e BMP.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHereToUpload": {
+    "message": "Arraste o arquivo para aqui para fazer o upload",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGeneration": {
+    "message": "Geração de esquema",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutline": {
+    "message": "Sumário do conteúdo",
+    "description": "aiAssistantzh.json"
+  },
+  "generate": {
+    "message": "Gerar",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc2": {
+    "message": "Cole ou insira um esquema de referência para aumentar a precisão do PPT gerado",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineRequired": {
+    "message": "O resumo do conteúdo não pode estar vazio",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineLimit30000": {
+    "message": "O resumo do conteúdo não pode exceder 30.000 caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDescribe": {
+    "message": "Gerar slides de apresentação inteligentemente com base em tópicos ou esquemas",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeNameGeneratePPT": {
+    "message": "Inserir o nome do tema para gerar um PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "pasteOrEnterOutlineGeneratePPT": {
+    "message": "Cole ou insira um esquema de referência para gerar um PPT",
+    "description": "aiAssistantzh.json"
+  },
+  "recentlyGenerated": {
+    "message": "Gerado recentemente",
+    "description": "aiAssistantzh.json"
+  },
+  "viewMore": {
+    "message": "Ver mais",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentLengthError": {
+    "message": "O conteúdo de uma única página não pode exceder 2000 caracteres.",
+    "description": "aiAssistantzh.json"
+  },
+  "cozeAgent": {
+    "message": "Botão inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "noSdkPermission": {
+    "message": "API não autorizada / SDK de Chat",
+    "description": "aiAssistantzh.json"
+  },
+  "deleting": {
+    "message": "Deletando...",
+    "description": "aiAssistantzh.json"
+  },
+  "selectedEchartCount": {
+    "message": "Já foram selecionados {n} gráficos",
+    "description": "aiAssistantzh.json"
+  },
+  "stuAnalysis": {
+    "message": "Análise do desempenho do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "accurateInsightLearningReport": {
+    "message": "Análise precisa do desempenho acadêmico, geração inteligente de relatórios de análise",
+    "description": "aiAssistantzh.json"
+  },
+  "learningInsightDashboard": {
+    "message": "Tabela de borda de análise da situação do aluno",
+    "description": "aiAssistantzh.json"
+  },
+  "addChart": {
+    "message": "Adicionar gráfico",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddSuccess": {
+    "message": "A adição do gráfico foi bem-sucedida.",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddFailed": {
+    "message": "Falha ao adicionar gráfico",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisReport": {
+    "message": "relatório de análise",
+    "description": "aiAssistantzh.json"
+  },
+  "systemDefaultChart": {
+    "message": "Gráfico padrão do sistema",
+    "description": "aiAssistantzh.json"
+  },
+  "collectedChart": {
+    "message": "Gráficos colecionados",
+    "description": "aiAssistantzh.json"
+  },
+  "removeChart": {
+    "message": "Remover gráfico",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRemove": {
+    "message": "Tem certeza de que deseja remover?",
+    "description": "aiAssistantzh.json"
+  },
+  "learningAnalysisAssistant": {
+    "message": "Ajudante de análise da situação do aprendizado",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQuery": {
+    "message": "Pergunte à IA para consultar os dados de aprendizagem do curso de forma inteligente",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterQuery": {
+    "message": "Digite o conteúdo da consulta",
+    "description": "aiAssistantzh.json"
+  },
+  "everyoneIsAsking": {
+    "message": "Exemplo:",
+    "description": "aiAssistantzh.json"
+  },
+  "helloLearningAssistant": {
+    "message": "Olá, sou o Assistente de Análise de Aprendizagem.",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassCoursewareProgress": {
+    "message": "Alunos com taxa de conclusão de tarefas inferior a 30%",
+    "description": "aiAssistantzh.json"
+  },
+  "studentsWithLowHomeworkRate": {
+    "message": "Distribuição dos resultados do último exame",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassExamAverage": {
+    "message": "Os 5 alunos com melhor desempenho na avaliação",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGenerating": {
+    "message": "Gerando gráfico...",
+    "description": "aiAssistantzh.json"
+  },
+  "addedToDashboard": {
+    "message": "Adicionado ao painel",
+    "description": "aiAssistantzh.json"
+  },
+  "addToDashboard": {
+    "message": "Adicionar ao painel",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollect": {
+    "message": "Cancelar favoritos",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollectConfirm": {
+    "message": "Após a remoção da favorita, não será possível recuperá-la. Deseja confirmar a remoção da favorita?",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGeneratedReferenceOnly": {
+    "message": "Todo o conteúdo acima foi gerado por IA e destina-se apenas para sua referência.",
+    "description": "aiAssistantzh.json"
+  },
+  "editName": {
+    "message": "editar Nome",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedBtn": {
+    "message": "Geração falhada, clique em {n}",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGeneratingStatus": {
+    "message": "Gerando",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateChartBtn": {
+    "message": "Gerar gráfico novamente",
+    "description": "aiAssistantzh.json"
+  },
+  "noChartsAdded": {
+    "message": "Ainda não adicionado gráfico",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChartName": {
+    "message": "Digite o nome",
+    "description": "aiAssistantzh.json"
+  },
+  "chartRegeneratedSuccess": {
+    "message": "O gráfico foi gerado novamente.",
+    "description": "aiAssistantzh.json"
+  },
+  "chartNameRequired": {
+    "message": "Nome obrigatório",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQueryHint": {
+    "message": "Atualmente, é permitida a consulta dos seguintes intervalos de dados (em constante expansão):  \n- Informações básicas do curso: informações sobre o curso, turma, equipe docente e alunos.  \n- Capítulos do material didático: nome do material, resumo dos capítulos e registros de aprendizagem dos alunos.  \n- Grafo de conhecimento: resumo dos pontos-chave e nível de domínio dos alunos.  \n- Trabalhos de curso: informações sobre as tarefas e progresso dos alunos.  \n- Atividades em sala de aula: informações sobre a aula, atividades realizadas, presença dos alunos e pontuação obtida.  \n- Provas do curso: informações sobre os exames e registros das respostas dos alunos.  \n- Avaliação do curso: regras de avaliação por turma e resultados dos alunos.  \n- Assistente de IA do curso: informações sobre o assistente de IA e registros de perguntas feitas pelos alunos.  \n\nRegra de atualização dos dados: atualizado diariamente.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllCharts": {
+    "message": "Ver todos os gráficos",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectEchart": {
+    "message": "Selecione o gráfico",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedErrBtn": {
+    "message": "Ainda não foram encontrados dados relacionados. Por favor, preencha os dados necessários e tente novamente {n}",
+    "description": "aiAssistantzh.json"
   }
 }
