@@ -4414,5 +4414,269 @@
   "interfaceAuthorization": {
     "message": "Interface authorization",
     "description": "aiAssistantManagezh.json"
+  },
+  "authorizationDescription": {
+    "message": "Enter the account ID of the button, and the system will call the intelligent agent in the workspace through the official interface of the button. For individual users, please enter the user UID (view it in the \"Account Settings\" section of the Button platform, path: Profile > Account Settings > UID). For enterprise/team version users, please enter the organization ID (view it in the \"Enterprise Settings\" section by the enterprise super administrator or administrator, path: Organization Management > Enterprise Settings > Basic Information > Organization ID).",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterCozeId": {
+    "message": "Enter the button ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "idRequirements": {
+    "message": "1 - 200 (Only numbers are allowed)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nextStep": {
+    "message": "Next",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationFailed": {
+    "message": "Authorization verification failed!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failureHint": {
+    "message": "Please check if the application authorization has been completed, or if the button ID is correct.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workspace": {
+    "message": "Work Space:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unauthorizedSpace": {
+    "message": "The current space has not been authorized.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "switchSpaceHint": {
+    "message": "Please switch to another space, or {link}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAuthorizationScope": {
+    "message": "Modify the scope of the authorization area >>",
+    "description": "aiAssistantManagezh.json"
+  },
+  "added": {
+    "message": "Added",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unpublishedChatSdk": {
+    "message": "Chat SDK has not been released yet.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishRequirement": {
+    "message": "When publishing an agent in the button, the publishing platform must include the [Chat SDK] in order to be called by the system. For the operation method, please refer to {link}.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageNote": {
+    "message": "Instruction for Use",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit": {
+    "message": "You can add a maximum of 10 each time.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit1": {
+    "message": "At least choose one",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorization": {
+    "message": "Cancel authorization",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationHint": {
+    "message": "After the authorization is revoked, the added smart agent will no longer be able to access the system without logging in. However, the access data generated in the system can still be viewed. Are you sure to revoke the authorization?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationSuccess": {
+    "message": "Authorization successfully",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationSuccess": {
+    "message": "Authorization cancellation successful",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationFail": {
+    "message": "Failed to revoke authorization",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCozeAgent": {
+    "message": "授权撤销失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteHint": {
+    "message": "After the Smart Agent is deleted, the generated access data will be synchronously deleted from the system (the original data of the Smart Agent platform will not be affected). Are you sure to delete it?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginAgentSystem": {
+    "message": "Log in to the intelligent agent system",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature1": {
+    "message": "After activation, institutional teachers and administrator users will be allowed to log in and access the intelligent agent system.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature2": {
+    "message": "After activation, it will display the entrance of the intelligent entity square and support the publication of the AI assistant on the intelligent entity square for display.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature3": {
+    "message": "After activation, you can add the Button Intelligent Agent to your personal space; however, this feature is not yet supported in the team space.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "demoVersion": {
+    "message": "The current version is for demonstration purposes only. It is not accessible to official institutions!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noAuthUrl": {
+    "message": "No authorized link available.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agent": {
+    "message": "Agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip1": {
+    "message": "The token is invalid. Please refresh the page and try again.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip2": {
+    "message": "Parameter error. Please try again.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip3": {
+    "message": "Interface error. Please try again.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ideologicalApp": {
+    "message": "Political and Ideological Education Application",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigStandard": {
+    "message": "AI tool configuration (standard product)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigIdeological": {
+    "message": "AI tool configuration (political education)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "singleAddResourceLimit": {
+    "message": "The number of resources added at one time cannot exceed {n} items.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceQueueLimit": {
+    "message": "The total number of added resources cannot exceed 200.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cozeAgentTip": {
+    "message": "Only published intelligent agent types can be used; when publishing an intelligent agent on the Button platform, please make sure to check the \"Chat SDK\" option in the publishing channel; otherwise, the intelligent agent will not be able to access normally after being connected.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "retrievalRange": {
+    "message": "Where to Search",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBaseLimit": {
+    "message": "At most, {n} knowledge bases can be selected.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeCopy": {
+    "message": "Knowledge base replication",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccount": {
+    "message": "Source account",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccountName": {
+    "message": "Source account name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSourceAccountName": {
+    "message": "Source account name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verify": {
+    "message": "Verification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "correspondingAccountName": {
+    "message": "Verification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSpace": {
+    "message": "The space where the knowledge base is located",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectKnowledgeSpace": {
+    "message": "请选择知识库空间",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBasesN": {
+    "message": "已选知识库（{n}）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKnowledgeBases": {
+    "message": "An unselected knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noDataPleaseEnterSourceAccount": {
+    "message": "No data available. Please enter the source account name first.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccount": {
+    "message": "Target account",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccountName": {
+    "message": "Target account name",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterTargetAccountName": {
+    "message": "Please enter the name of the target account.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyToTargetAccount": {
+    "message": "Copy to the target account",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyingCompleted": {
+    "message": "正在复制，已完成",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doNotCloseDialog": {
+    "message": "Do not close the pop-up window or the page...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyCompleted": {
+    "message": "Copy completed. Copied.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyFailed": {
+    "message": "Copy failed",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccountNameRequired": {
+    "message": "复制失败。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSpaceRequired": {
+    "message": "Please select the space where the knowledge base is located.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccountNameRequired": {
+    "message": "Please enter the name of the target account.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "accountNotExist": {
+    "message": "The account does not exist",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectKnowledgeBase": {
+    "message": "Select a knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyFailedMessage": {
+    "message": "Failed to duplicate!",
+    "description": "aiAssistantManagezh.json"
   }
 }

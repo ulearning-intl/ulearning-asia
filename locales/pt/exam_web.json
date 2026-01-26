@@ -3007,6 +3007,122 @@
     "message": "Não foi detectado nenhum cliente de bloqueio de tela, por favor confirme se foi instalado corretamente. Se já foi instalado mas ainda não consegue iniciar, você pode tentar desinstalá-lo e instalar novamente a versão mais recente.",
     "description": "考试快捷地址"
   },
+  "paperBank": {
+    "message": "Banco de exercícios",
+    "description": "考试快捷地址"
+  },
+  "selectPaper": {
+    "message": "Selecione papel do exame",
+    "description": "考试快捷地址"
+  },
+  "selectedPaper": {
+    "message": "{n} item(ns) selecionado(s)",
+    "description": "考试快捷地址"
+  },
+  "myExamPaper": {
+    "message": "Meu Banco de Exames",
+    "description": "考试快捷地址"
+  },
+  "schoolExamPaper": {
+    "message": "Banco de Exames Escolares",
+    "description": "考试快捷地址"
+  },
+  "archivePwdSet": {
+    "message": "Definir/Redefinir sua senha de segurança",
+    "description": "考试快捷地址"
+  },
+  "addExamPaper": {
+    "message": "Adicionar Exame",
+    "description": "考试快捷地址"
+  },
+  "aotoGroupExamPaper": {
+    "message": "Gerar Exame Automaticamente",
+    "description": "考试快捷地址"
+  },
+  "name": {
+    "message": "Nome",
+    "description": "考试快捷地址"
+  },
+  "lock": {
+    "message": "Seguro",
+    "description": "考试快捷地址"
+  },
+  "unLock": {
+    "message": "Inseguro",
+    "description": "考试快捷地址"
+  },
+  "owner": {
+    "message": "Proprietário",
+    "description": "考试快捷地址"
+  },
+  "allCollege": {
+    "message": "Todos os colégios",
+    "description": "考试快捷地址"
+  },
+  "college": {
+    "message": "Colégio",
+    "description": "考试快捷地址"
+  },
+  "paperNum": {
+    "message": "Número de Exames",
+    "description": "考试快捷地址"
+  },
+  "moveTo": {
+    "message": "Mover para",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip": {
+    "message": "O gabarito de exame já foi utilizado e não pode ser excluído.",
+    "description": "考试快捷地址"
+  },
+  "deletePaper": {
+    "message": "Excluir Exame",
+    "description": "考试快捷地址"
+  },
+  "deleteFolder": {
+    "message": "Excluir Pasta",
+    "description": "考试快捷地址"
+  },
+  "reload": {
+    "message": "Recarregar",
+    "description": "考试快捷地址"
+  },
+  "authentication": {
+    "message": "Verificação de Identidade",
+    "description": "考试快捷地址"
+  },
+  "email": {
+    "message": "E-mail",
+    "description": "考试快捷地址"
+  },
+  "captcha": {
+    "message": "Código de Verificação de Captcha",
+    "description": "考试快捷地址"
+  },
+  "inputAgain": {
+    "message": "Confirmar sua senha",
+    "description": "考试快捷地址"
+  },
+  "paper": {
+    "message": "Prova",
+    "description": "考试快捷地址"
+  },
+  "statistics": {
+    "message": "Estatísticas",
+    "description": "考试快捷地址"
+  },
+  "from": {
+    "message": "Fonte",
+    "description": "考试快捷地址"
+  },
+  "link": {
+    "message": "Acesso à versão antiga",
+    "description": "考试快捷地址"
+  },
+  "beta": {
+    "message": "Beta",
+    "description": "考试快捷地址"
+  },
   "openApp": {
     "message": "Acesse a ULearning 2.0 APP para participar da avaliação",
     "description": "考试快捷地址"
@@ -3037,6 +3153,10 @@
   },
   "importBankOverNum": {
     "message": "O número de questãoes exportadas excedeu o limite máximo.",
+    "description": "考试快捷地址"
+  },
+  "changeLastTime1": {
+    "message": "Última Atualização",
     "description": "考试快捷地址"
   },
   "finallyQue": {
@@ -3071,12 +3191,768 @@
     "message": "ainda não há questão",
     "description": "考试快捷地址"
   },
+  "enteredExamTip2": {
+    "message": "Se você tiver certeza de que não tem várias páginas de respostas abertas ao mesmo tempo, ou se já fechou as outras páginas e ainda receber o aviso, {closeBrowser} e depois entre novamente no exame.",
+    "description": "考试快捷地址"
+  },
+  "closeBrowser": {
+    "message": "Feche seu navegador",
+    "description": "考试快捷地址"
+  },
+  "enteredExamTip3": {
+    "message": "Em circunstâncias especiais, você pode solicitar um código de verificação ao fiscal da prova e usá-lo para acessar o exame.",
+    "description": "考试快捷地址"
+  },
   "roate": {
     "message": "Girar",
     "description": "考试快捷地址"
   },
   "selectFileByCamera": {
     "message": "tirar uma foto",
+    "description": "考试快捷地址"
+  },
+  "banks": {
+    "message": "Exames / Bancos de Questões",
+    "description": "考试快捷地址"
+  },
+  "searchPaper": {
+    "message": "Pesquisar pastas/provas",
+    "description": "考试快捷地址"
+  },
+  "batchAction": {
+    "message": "Ações em Lote",
+    "description": "考试快捷地址"
+  },
+  "updateDate": {
+    "message": "Última Atualização",
+    "description": "考试快捷地址"
+  },
+  "shareFolder": {
+    "message": "Pastas Compartilhadas",
+    "description": "考试快捷地址"
+  },
+  "inputFolderTip": {
+    "message": "Digite o nome da pasta",
+    "description": "考试快捷地址"
+  },
+  "createShareFolder": {
+    "message": "Criar uma Pasta Compartilhada",
+    "description": "考试快捷地址"
+  },
+  "searchShareFolder": {
+    "message": "Pesquisar uma pasta compartilhada",
+    "description": "考试快捷地址"
+  },
+  "permissionSettings": {
+    "message": "Configurações de Permissões",
+    "description": "考试快捷地址"
+  },
+  "exitShare": {
+    "message": "Sair do Compartilhamento",
+    "description": "考试快捷地址"
+  },
+  "exitSuccess": {
+    "message": "Saída realizada com sucesso!",
+    "description": "考试快捷地址"
+  },
+  "exitFail": {
+    "message": "Falha ao sair!",
+    "description": "考试快捷地址"
+  },
+  "actionLog": {
+    "message": "Registros de Operações",
+    "description": "考试快捷地址"
+  },
+  "shareFolderDesc": {
+    "message": "As pastas compartilhadas suportam colaboração em equipe, e você pode adicionar membros da equipe docente compartilhada após a criação.",
+    "description": "考试快捷地址"
+  },
+  "usePermission": {
+    "message": "Permissão de Uso",
+    "description": "考试快捷地址"
+  },
+  "usePermission1": {
+    "message": "Apenas disponível para a equipe de gestão",
+    "description": "考试快捷地址"
+  },
+  "usePermission2": {
+    "message": "Available throughout the school",
+    "description": "考试快捷地址"
+  },
+  "canCopy": {
+    "message": "Permitir que os utilizadores façam cópias",
+    "description": "考试快捷地址"
+  },
+  "managementTeam": {
+    "message": "Equipe de gestão",
+    "description": "考试快捷地址"
+  },
+  "teamNums": {
+    "message": "{n} pessoas",
+    "description": "考试快捷地址"
+  },
+  "addMembers": {
+    "message": "Adicionar membros",
+    "description": "考试快捷地址"
+  },
+  "searchTeachers": {
+    "message": "Procurar professores",
+    "description": "考试快捷地址"
+  },
+  "jobNumber": {
+    "message": "Identificação docente",
+    "description": "考试快捷地址"
+  },
+  "removeMember": {
+    "message": "Remover",
+    "description": "考试快捷地址"
+  },
+  "removeMemberNote": {
+    "message": "Remover membro",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip": {
+    "message": "O membro removido não poderá mais visualizar e utilizar os provas desta pasta compartilhada.",
+    "description": "考试快捷地址"
+  },
+  "removeMemberTip1": {
+    "message": "Tem certeza que deseja remover {name}?",
+    "description": "考试快捷地址"
+  },
+  "createdDate": {
+    "message": "Hora de criação",
+    "description": "考试快捷地址"
+  },
+  "moveTip": {
+    "message": "Os itens selecionados contêm provas ou pastas criadas por outras pessoas e só podem ser movidos dentro da pasta compartilhada atual.",
+    "description": "考试快捷地址"
+  },
+  "questionMoveTip": {
+    "message": "Os itens selecionados contêm questões ou pastas criadas por outras pessoas e só podem ser movidos dentro da pasta compartilhada atual.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip1": {
+    "message": "{name} já está em uso e não pode ser excluído.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip2": {
+    "message": "O {name} não é o criador e não pode ser excluído.",
+    "description": "考试快捷地址"
+  },
+  "deletePaperTip3": {
+    "message": "{name} não existe",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro1": {
+    "message": "Se você selecionar **Excluir Pasta, mas Manter Provas**, as provas contidas na pasta serão movidas para o diretório raiz após a exclusão.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro2": {
+    "message": "Se você selecionar **Excluir Tudo**, as provas na pasta também serão excluídas.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderIntro3": {
+    "message": "Manter as provas e excluir apenas a pasta",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip": {
+    "message": "A pasta contém provas criadas por outras pessoas e não pode ser excluída diretamente.<br />Para excluí-la, mova essas provas para fora dela primeiro.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip1": {
+    "message": "A pasta contém provas em uso e não pode ser excluída.",
+    "description": "考试快捷地址"
+  },
+  "deleteFolderTip2": {
+    "message": "A pasta contém provas anormais e não pode ser excluída.",
+    "description": "考试快捷地址"
+  },
+  "batchDelete1": {
+    "message": "Excluir em massa",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelected": {
+    "message": "Tem certeza de que deseja excluir os {n} itens selecionados em massa?",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip": {
+    "message": "Os itens selecionados contêm provas criadas por outras pessoas e não podem ser excluídos em massa.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip1": {
+    "message": "Os itens selecionados contêm provas que já foram utilizadas e não podem ser excluídos em massa.",
+    "description": "考试快捷地址"
+  },
+  "confirmDeleteSelectedTip2": {
+    "message": "Os itens selecionados contêm provas anormais e não podem ser excluídos.",
+    "description": "考试快捷地址"
+  },
+  "noPaperTip": {
+    "message": "Nenhum conteúdo correspondente encontrado",
+    "description": "考试快捷地址"
+  },
+  "noShareFolderTip": {
+    "message": "Nenhum conteúdo correspondente encontrado",
+    "description": "考试快捷地址"
+  },
+  "loadErrorTip": {
+    "message": "Erro de rede, clique em {reload}",
+    "description": "考试快捷地址"
+  },
+  "copySuccess2": {
+    "message": "Duplicado com sucesso!",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolder": {
+    "message": "Excluir Pasta",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip1": {
+    "message": "Quando você excluir uma pasta compartilhada, as subpastas e provas contidas nela serão movidas de volta para o diretório pessoal de cada criador e não serão excluídas sincronicamente.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip3": {
+    "message": "Quando você excluir uma pasta compartilhada, as subpastas e questões contidas nela serão movidas de volta para o diretório pessoal de cada criador e não serão excluídas sincronicamente.",
+    "description": "考试快捷地址"
+  },
+  "deleteShareFolderTip2": {
+    "message": "Tem certeza de que deseja excluir esta pasta compartilhada?",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip": {
+    "message": "Uma vez que você sair, não poderá mais visualizar e usar as provas nesta pasta compartilhada.",
+    "description": "考试快捷地址"
+  },
+  "exitShareTip1": {
+    "message": "Tem certeza de que deseja sair?",
+    "description": "考试快捷地址"
+  },
+  "inputPw": {
+    "message": "Insira sua senha",
+    "description": "考试快捷地址"
+  },
+  "inputCheckPw": {
+    "message": "Por favor, insira sua senha",
+    "description": "考试快捷地址"
+  },
+  "forgetPw": {
+    "message": "Esqueceu a senha?",
+    "description": "考试快捷地址"
+  },
+  "authenticationMethods": {
+    "message": "Método de verificação",
+    "description": "考试快捷地址"
+  },
+  "mobileSMS": {
+    "message": "SMS",
+    "description": "考试快捷地址"
+  },
+  "emailCaptcha": {
+    "message": "Código de verificação por e-mail",
+    "description": "考试快捷地址"
+  },
+  "SMSCaptcha": {
+    "message": "Código de verificação por SMS",
+    "description": "考试快捷地址"
+  },
+  "getCaptcha": {
+    "message": "Obter código de verificação",
+    "description": "考试快捷地址"
+  },
+  "reacquiredSeconds": {
+    "message": "daqui a {s} segundos",
+    "description": "考试快捷地址"
+  },
+  "setLockPw": {
+    "message": "Definir Senha de Segurança",
+    "description": "考试快捷地址"
+  },
+  "updateLockPw": {
+    "message": "Redefinir Senha de Segurança",
+    "description": "考试快捷地址"
+  },
+  "oldPw": {
+    "message": "Senha antiga",
+    "description": "考试快捷地址"
+  },
+  "newPw": {
+    "message": "Nova senha",
+    "description": "考试快捷地址"
+  },
+  "newPwAgain": {
+    "message": "Confirmar nova senha",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPw": {
+    "message": "Remover Senha de Segurança",
+    "description": "考试快捷地址"
+  },
+  "setLockPwTip": {
+    "message": "Depois de definir uma senha de segurança, você pode proteger a(s) prova(s) ou pasta(s) de provas selecionada(s). A(s) prova(s) ou pasta(s) protegida(s) só podem ser visualizadas ou desprotegidas com essa senha.",
+    "description": "考试快捷地址"
+  },
+  "inputCodeTip": {
+    "message": "Insira o código de verificação",
+    "description": "考试快捷地址"
+  },
+  "lockTip": {
+    "message": "Sua conta não possui e-mail de recuperação nem número de celular cadastrados. Para proteger suas provas, você precisa primeiro configurar um método de recuperação na sua conta.",
+    "description": "考试快捷地址"
+  },
+  "bindBtn": {
+    "message": "Vincular agora",
+    "description": "考试快捷地址"
+  },
+  "pwNotSame": {
+    "message": "As senhas não coincidem",
+    "description": "考试快捷地址"
+  },
+  "pwError": {
+    "message": "Senha incorreta",
+    "description": "考试快捷地址"
+  },
+  "pwError1": {
+    "message": "A senha deve conter de 6 a 16 números ou letras",
+    "description": "考试快捷地址"
+  },
+  "deleteLockPwTip": {
+    "message": "Após remover a senha de segurança, todas as provas e pastas protegidas serão desprotegidas!",
+    "description": "考试快捷地址"
+  },
+  "captchaError": {
+    "message": "Código de verificação incorreto!",
+    "description": "考试快捷地址"
+  },
+  "inputCaptcha": {
+    "message": "Insira o código Captcha",
+    "description": "考试快捷地址"
+  },
+  "codeError": {
+    "message": "Código de verificação incorreto!",
+    "description": "考试快捷地址"
+  },
+  "codeInvalid1": {
+    "message": "O código de verificação expirou, peça novamente",
+    "description": "考试快捷地址"
+  },
+  "inputPasswordAgain": {
+    "message": "Insira a senha novamente",
+    "description": "考试快捷地址"
+  },
+  "teamsMaxCount": {
+    "message": "Não mais de {n} membros.",
+    "description": "考试快捷地址"
+  },
+  "selectPaperIntro": {
+    "message": "Selecione a prova e importe as questões da prova para a pasta atual. Selecione até {n} provas de cada vez.",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip": {
+    "message": "Selecione a prova",
+    "description": "考试快捷地址"
+  },
+  "insertPaperTip1": {
+    "message": "Selecione até {n} provas de cada vez",
+    "description": "考试快捷地址"
+  },
+  "insertSuccess": {
+    "message": "Importado com sucesso!",
+    "description": "考试快捷地址"
+  },
+  "insertFail": {
+    "message": "Falha ao importar!",
+    "description": "考试快捷地址"
+  },
+  "allPaper": {
+    "message": "Todas as Provas",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[0]": {
+    "message": "Ordenar por padrão",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[1]": {
+    "message": "Mais favoritos",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[2]": {
+    "message": "Maior quantidade",
+    "description": "考试快捷地址"
+  },
+  "bankSortTypes[3]": {
+    "message": "Última atualização",
+    "description": "考试快捷地址"
+  },
+  "searchBank": {
+    "message": "Pesquisar banco de questões",
+    "description": "考试快捷地址"
+  },
+  "questionNums": {
+    "message": "Número de questões",
+    "description": "考试快捷地址"
+  },
+  "updateTime": {
+    "message": "Última atualização",
+    "description": "考试快捷地址"
+  },
+  "timeOver": {
+    "message": "Expirado",
+    "description": "考试快捷地址"
+  },
+  "deadLine": {
+    "message": "Válido até",
+    "description": "考试快捷地址"
+  },
+  "collect": {
+    "message": "Favorito",
+    "description": "考试快捷地址"
+  },
+  "cancelCollect": {
+    "message": "Desfavoritar",
+    "description": "考试快捷地址"
+  },
+  "requestSuccess": {
+    "message": "{msg} com sucesso",
+    "description": "考试快捷地址"
+  },
+  "requestFail": {
+    "message": "{msg} falhou",
+    "description": "考试快捷地址"
+  },
+  "noShareBank": {
+    "message": "Nenhum banco de questões correspondente encontrado",
+    "description": "考试快捷地址"
+  },
+  "shareBankTip": {
+    "message": "Aqui estão os bancos de questões importados de fora e disponíveis aos professores de toda a escola.",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip": {
+    "message": "Pastas compartilhadas foram atualizadas!",
+    "description": "考试快捷地址"
+  },
+  "shareFolderTip1": {
+    "message": "A nova versão das Pastas Compartilhadas permite que os professores trabalhem em equipe para gerenciar provas ou questões na mesma pasta. Ao mesmo tempo, a função original de compartilhamento de provas/questões foi desativada. Para provas ou questões que precisem ser compartilhadas, você pode criar uma Pasta Compartilhada, configurar os membros da equipe de compartilhamento e mover as provas/questões para a pasta compartilhada.",
+    "description": "考试快捷地址"
+  },
+  "updateDesc": {
+    "message": "Descrição da atualização:",
+    "description": "考试快捷地址"
+  },
+  "paperUpdateDesc": {
+    "message": "As funções originais de Banco de Questões Escolares e Banco de Questões Compartilhadas foram desativadas. Utilize a Pasta Compartilhada no Meu Banco de Questões para compartilhar provas com sua equipe.",
+    "description": "考试快捷地址"
+  },
+  "questionUpdateDesc": {
+    "message": "As funções originais de Banco de Questões Escolares e Banco de Questões Compartilhadas foram desativadas. Utilize a Pasta Compartilhada no Meu Banco de Questões para compartilhar questões com sua equipe.",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip1": {
+    "message": "A prova ou pasta não existe.",
+    "description": "考试快捷地址"
+  },
+  "moveErrorTip4": {
+    "message": "A questão ou pasta não existe.",
+    "description": "考试快捷地址"
+  },
+  "mobileGoBack": {
+    "message": "Voltar",
+    "description": "考试快捷地址"
+  },
+  "quitCheckAll": {
+    "message": "Desmarcar tudo",
+    "description": "考试快捷地址"
+  },
+  "notAllowCopy": {
+    "message": "Não é permitida duplicação",
+    "description": "考试快捷地址"
+  },
+  "isArchiveTip": {
+    "message": "Esta pasta compartilhada foi bloqueada.",
+    "description": "考试快捷地址"
+  },
+  "moveQue": {
+    "message": "Mover a questão",
+    "description": "考试快捷地址"
+  },
+  "createQue": {
+    "message": "Criar uma questão",
+    "description": "考试快捷地址"
+  },
+  "appCreateQueMsg": {
+    "message": "A versão mobile atualmente não suporta a criação de questões de outros tipos; crie-as no computador.",
+    "description": "考试快捷地址"
+  },
+  "saveCreateQue": {
+    "message": "Salvar e criar próximo",
+    "description": "考试快捷地址"
+  },
+  "submitQue": {
+    "message": "Concluído",
+    "description": "考试快捷地址"
+  },
+  "queScoreError": {
+    "message": "A pontuação deve estar entre 0 e 100, podendo ter uma casa decimal",
+    "description": "考试快捷地址"
+  },
+  "saveQue": {
+    "message": "Salvar a questão",
+    "description": "考试快捷地址"
+  },
+  "choicePict": {
+    "message": "Selecionar Álbum",
+    "description": "考试快捷地址"
+  },
+  "choicePict1": {
+    "message": "Selecionar do local",
+    "description": "考试快捷地址"
+  },
+  "moveMsg": {
+    "message": "Os itens selecionados contêm questões criadas por outros usuários e só podem ser movidos dentro da pasta compartilhada atual.",
+    "description": "考试快捷地址"
+  },
+  "noFolder": {
+    "message": "Não há subpastas",
+    "description": "考试快捷地址"
+  },
+  "choiceMsg": {
+    "message": "Clique na opção para defini-la como resposta correta",
+    "description": "考试快捷地址"
+  },
+  "setAnswer": {
+    "message": "Definir a resposta",
+    "description": "考试快捷地址"
+  },
+  "changeTabMsg": {
+    "message": "O conteúdo editado não será salvo após a alteração do tipo de questão. Tem certeza de que deseja alterar?",
+    "description": "考试快捷地址"
+  },
+  "goBackMsg": {
+    "message": "A questão não foi salva, tem certeza que deseja voltar?",
+    "description": "考试快捷地址"
+  },
+  "optionContentNew": {
+    "message": "Clique para inserir a alternativa",
+    "description": "考试快捷地址"
+  },
+  "soundRecording": {
+    "message": "Clique para iniciar a gravação",
+    "description": "考试快捷地址"
+  },
+  "soundRecording1": {
+    "message": "Gravando, clique na ondulação para parar",
+    "description": "考试快捷地址"
+  },
+  "soundRecording2": {
+    "message": "Recarregar",
+    "description": "考试快捷地址"
+  },
+  "soundRecording3": {
+    "message": "Observações, item não obrigatório, não exceder 200 palavras",
+    "description": "考试快捷地址"
+  },
+  "insertQue": {
+    "message": "Inserir itens de preenchimento de lacunas",
+    "description": "考试快捷地址"
+  },
+  "deleQueNote": {
+    "message": "Tem certeza que deseja excluir a questão?",
+    "description": "考试快捷地址"
+  },
+  "imgloading": {
+    "message": "A imagem está sendo carregada",
+    "description": "考试快捷地址"
+  },
+  "fileLoading": {
+    "message": "O arquivo ainda está sendo carregado, por favor aguarde.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle": {
+    "message": "Gerar Questão com IA",
+    "description": "考试快捷地址"
+  },
+  "questionTextType1": {
+    "message": "Gerar uma questão com base na descrição",
+    "description": "考试快捷地址"
+  },
+  "questionTextType2": {
+    "message": "Gerar questões com base no texto",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc1": {
+    "message": "Por favor, insira os requisitos da questão abaixo (Observação: as questões são geradas por um grande modelo de IA e não garantem precisão completa; recomenda-se revisá-las antes de salvar).",
+    "description": "考试快捷地址"
+  },
+  "questionTextDesc2": {
+    "message": "Por favor, insira os requisitos da questão abaixo.",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder1": {
+    "message": "Insira os requisitos",
+    "description": "考试快捷地址"
+  },
+  "questionPlaceholder2": {
+    "message": "Insira materiais textuais e a IA extrairá os pontos-chave para gerar questões.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionBtn": {
+    "message": "Gerar questões",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTip": {
+    "message": "Gerando questões, por favor aguarde...",
+    "description": "考试快捷地址"
+  },
+  "maxCountTip": {
+    "message": "Insira até {max} caracteres",
+    "description": "考试快捷地址"
+  },
+  "knowledgePoints": {
+    "message": "Pontos de Conhecimento",
+    "description": "考试快捷地址"
+  },
+  "relateKnowledgePoints": {
+    "message": "Associar pontos de conhecimento",
+    "description": "考试快捷地址"
+  },
+  "addKnowledgePoints": {
+    "message": "Adicionar ponto de conhecimento",
+    "description": "考试快捷地址"
+  },
+  "completeRemarkTip2": {
+    "message": "Todos os alunos na lista atual já foram avaliados! Se precisar continuar a correção, saia e filtre os alunos novamente.",
+    "description": "考试快捷地址"
+  },
+  "qrQuestionAnswer": {
+    "message": "Digitalize para ver a resposta",
+    "description": "考试快捷地址"
+  },
+  "exerciseQuestion": {
+    "message": "Exercise Questions:",
+    "description": "考试快捷地址"
+  },
+  "draft": {
+    "message": "Rascunho",
+    "description": "考试快捷地址"
+  },
+  "draftTip": {
+    "message": "Edite as informações da prova no computador, por favor.",
+    "description": "考试快捷地址"
+  },
+  "allExamRoom": {
+    "message": "Todos os locais de prova",
+    "description": "考试快捷地址"
+  },
+  "examRoomPlaceholder": {
+    "message": "Digite o nome da sala de exame para pesquisar",
+    "description": "考试快捷地址"
+  },
+  "examRoom": {
+    "message": "Sala de Exame",
+    "description": "考试快捷地址"
+  },
+  "seatNumber": {
+    "message": "Número do assento",
+    "description": "考试快捷地址"
+  },
+  "imgImport": {
+    "message": "Registro por reconhecimento de imagem",
+    "description": "考试快捷地址"
+  },
+  "imgImportTip": {
+    "message": "1. Faça o upload da imagem do exame, o sistema identificará automaticamente as questões contidas na imagem. Os formatos de imagem suportados são png, jpg e jpeg, e o tamanho da imagem não excede 512M.{br}2. Os tipos de questões suportados por essa função: escolha única, escolha múltipla, verdadeiro ou falso, preenchimento de lacunas e dissertativa.{br}3. As informações das questões suportam o reconhecimento de texto impresso e manuscrito; a caligrafia manuscrita legível aumenta a precisão do reconhecimento. As fórmulas nas questões serão convertidas para o formato latex, e a correção completa do conteúdo não pode ser garantida.{br}4. Após a conclusão do reconhecimento, verifique a precisão do reconhecimento das informações das questões na área de pré-visualização. As questões com reconhecimento impreciso podem ter seu conteúdo modificado manualmente na área de edição; consulte as instruções detalhadas para as regras de modificação.",
+    "description": "考试快捷地址"
+  },
+  "uploadImg": {
+    "message": "Faça upload da imagem",
+    "description": "考试快捷地址"
+  },
+  "analysisImgTip": {
+    "message": "Identificando as questões, aguarde...",
+    "description": "考试快捷地址"
+  },
+  "selectExamRoom": {
+    "message": "Selecionar Sala de Exame",
+    "description": "考试快捷地址"
+  },
+  "noExamRoom": {
+    "message": "Não há dados de sala de exame",
+    "description": "考试快捷地址"
+  },
+  "imgLimitTip": {
+    "message": "O tamanho da imagem excede o limite",
+    "description": "考试快捷地址"
+  },
+  "imgTypeLimitTip": {
+    "message": "Formato da imagem incorreto, faça o upload novamente de imagens nos formatos png, jpg ou jpeg",
+    "description": "考试快捷地址"
+  },
+  "viewUploadTypeTip": {
+    "message": "Suporta formatos comuns como imagem, documento, vídeo e áudio; é permitido o envio de até 10 anexos por questão; no computador, o tamanho de um único arquivo não excede 500M. Arquivos em formatos não suportados devem ser compactados antes do envio.<br/>Documentos: pdf,doc,docx,xls,xlsx,ppt,pptx,txt,psd,xmind,dwg <br/>Imagens: png,jpg,gif,jpeg,bmp <br/>Vídeos: mp4,avi,wmv,rm,rmvb,mpeg,mpg,mkv,mov,flv <br/>Áudios: mp3,wav,wma <br/>Arquivos compactados: zip,rar,7z <br/>Arquivos de legenda: srt",
+    "description": "考试快捷地址"
+  },
+  "calculator": {
+    "message": "Calculadora",
+    "description": "考试快捷地址"
+  },
+  "H5": {
+    "message": "H5",
+    "description": "考试快捷地址"
+  },
+  "BBImport": {
+    "message": "Importar do arquivo BB",
+    "description": "考试快捷地址"
+  },
+  "uploadBBFileMsg": {
+    "message": "Faça o upload do arquivo compactado zip",
+    "description": "考试快捷地址"
+  },
+  "h5": {
+    "message": "H5",
+    "description": "考试快捷地址"
+  },
+  "signinCodeTip1": {
+    "message": "1. Faça login no aplicativo 【U-Learning】 e escaneie o código QR para marcar a presença.{br}2. Após marcar a presença, use o dispositivo de check-in para acessar a prova e responder às questões; não é permitido trocar de dispositivo no meio do caminho. Em casos especiais, peça um código de verificação ao professor invigilador para a troca.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle1": {
+    "message": "Prova inteligente",
+    "description": "考试快捷地址"
+  },
+  "allStatus": {
+    "message": "Todos os estados",
+    "description": "考试快捷地址"
+  },
+  "inputExamName": {
+    "message": "Digite o nome da prova",
+    "description": "考试快捷地址"
+  },
+  "answerTrack": {
+    "message": "Rastreamento de Respostas",
+    "description": "考试快捷地址"
+  },
+  "screenMonitor": {
+    "message": "Monitoramento de tela",
+    "description": "考试快捷地址"
+  },
+  "clearAbnormal": {
+    "message": "Limpar anomalias",
+    "description": "考试快捷地址"
+  },
+  "screenAbnormal": {
+    "message": "Anomalia de tela",
+    "description": "考试快捷地址"
+  },
+  "screenNormal": {
+    "message": "Tela normal",
+    "description": "考试快捷地址"
+  },
+  "confirmClearException": {
+    "message": "Por favor, verifique cuidadosamente se o conteúdo da captura de tela do sistema viola as regras antes de limpar as anomalias. Tem certeza de que deseja limpar as anomalias?",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip9": {
+    "message": "O monitoramento de tela apresentou anomalias pelo número de vezes estabelecido, e o sistema submeterá a prova compulsoriamente.",
     "description": "考试快捷地址"
   }
 }
