@@ -4454,5 +4454,317 @@
   "courseDeclarationAdmin.createType": {
     "message": "Creation method",
     "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "System Admin",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "Second Admin",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "Parent Management(Add/Edit/Delete Parent, Access parent accountst)",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "Export",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "Export CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "Export XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "Disable successfully",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "Activation code successful",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "Please select the administrator to deactivate first",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "Please select the administrator to delete first",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "Enter parent name or username to search",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "Bulk activate parent accounts",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "Add Parents",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "Parent Name",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "Link Student",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "Parent Management",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "Log Audit",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "Operation time",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "Function Module",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "Action Type",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "Action Description",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "Client Device",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "IP Address",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "Enter username or name to search",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "All colleges",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "All Courses",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "All roles",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "All Modules",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "Action Type",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "Classes",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "Announcements",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "Courseware",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "Resources",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "Assignment",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "Live Sessions",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "Assessment",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "Members",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "Others",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "Login",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "Exit",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "Create",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "Edit",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "Delete",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "View",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "Grade",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "Submit",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "Others",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "Select a start time",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "Select a end time",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "All roles",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "All Modules",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "All Actions",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "Enter file name to filter",
+    "description": "2.0 admin.js"
+  },
+  "administrator0": {
+    "message": "Admin",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeFail": {
+    "message": "Activation failed",
+    "description": "2.0 admin.js"
+  },
+  "File.searchPlaceholdertea": {
+    "message": "Search by Username/Employee ID/Name",
+    "description": "2.0 admin.js"
+  },
+  "File.searchPlaceholderstu": {
+    "message": "Search by Username/Student ID/Name",
+    "description": "2.0 admin.js"
+  },
+  "File.createdCourses": {
+    "message": "Create Course",
+    "description": "2.0 admin.js"
+  },
+  "File.publishedResources": {
+    "message": "Publish resources",
+    "description": "2.0 admin.js"
+  },
+  "File.publishedActivities": {
+    "message": "Publish Classroom Activity",
+    "description": "2.0 admin.js"
+  },
+  "File.viewFile": {
+    "message": "View Profile",
+    "description": "2.0 admin.js"
+  },
+  "File.joinedCourses": {
+    "message": "Enroll Course/Class",
+    "description": "2.0 admin.js"
+  },
+  "File.viewedLectures": {
+    "message": "Study Courseware",
+    "description": "2.0 admin.js"
+  },
+  "File.readAnnouncements": {
+    "message": "Read Announcement",
+    "description": "2.0 admin.js"
+  },
+  "File.attendedClasses": {
+    "message": "Attendance",
+    "description": "2.0 admin.js"
+  },
+  "File.repliedToDiscussions": {
+    "message": "Replies",
+    "description": "2.0 admin.js"
+  },
+  "File.participatedInActivities": {
+    "message": "Participate in Classroom Activities",
+    "description": "2.0 admin.js"
+  },
+  "File.teacherfile": {
+    "message": "Teacher Profile",
+    "description": "2.0 admin.js"
+  },
+  "File.studentfile": {
+    "message": "Student Profile",
+    "description": "2.0 admin.js"
+  },
+  "classroom": {
+    "message": "Classroom",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDeleteTea": {
+    "message": "Please select the teacher to be deleted first",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDisableTea": {
+    "message": "Please select the teacher to be deactivated first",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDeleteStu": {
+    "message": "Please select the student to be deleted first",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDisableStu": {
+    "message": "Please select the student to be deactivated first",
+    "description": "2.0 admin.js"
+  },
+  "deleteUserConfirmTips": {
+    "message": "The user will not be able to log in after deletion. Please enter \"{msg}\" below and confirm the deletion operation",
+    "description": "2.0 admin.js"
+  },
+  "disabledError": {
+    "message": "Deactivation failed",
+    "description": "2.0 admin.js"
+  },
+  "pleaseInputCorrectText": {
+    "message": "Please enter the specified text",
+    "description": "2.0 admin.js"
   }
 }

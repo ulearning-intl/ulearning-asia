@@ -3963,6 +3963,10 @@
     "message": "Отменить",
     "description": "2.0 admin.js"
   },
+  "permissionText": {
+    "message": "разрешение",
+    "description": "2.0 admin.js"
+  },
   "systemAdmin.systemAdminTips23": {
     "message": "Пожалуйста, введите правильный пароль",
     "description": "2.0 admin.js"
@@ -4069,6 +4073,10 @@
   },
   "event.startTImenotGreaterThanEndTime": {
     "message": "Время начала действия не может быть больше времени окончания события",
+    "description": "2.0 admin.js"
+  },
+  "defaultLangError": {
+    "message": "Заголовок языка учреждения по умолчанию не может быть пустым!",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4401,6 +4409,266 @@
   },
   "systemAdmin.systemAdminTips24": {
     "message": "После отключения пользователь не сможет войти. Вы уверены, что хотите отключить?",
+    "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "синхронный",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "Самопостроенное",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "Все методы создания",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "бакалавриат",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "аспирантура",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "Все этапы обучения",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "Номер курса",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "Бельонг-семестр",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "Уникальный идентификатор преподавателя",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "Школьный сегмент",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "Метод создания",
+    "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "Системный администратор",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "Администратор второго уровня",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "Управление родителями (добавление/редактирование/удаление родителей, доступ к аккаунту родителя)",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "Экспортировать",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "Экспорт CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "Экспорт XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "Удалить успешно",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "Активация прошла успешно",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "Пожалуйста, выберите администратора для деактивации",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "Пожалуйста, выберите администратора, чтобы удалить первым",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "Введите имя родителя или имя пользователя для поиска",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "Активировать родительские счета",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "Добавить родителей",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "Имя родителя",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "Связь Студент",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "Управление родителями",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "Аудит журнала",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "Время операции",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "Функциональный модуль",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "Тип действия",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "Описание действия",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "Клиентское устройство",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "IP-адрес",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "Введите имя пользователя или имя для поиска",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "Все подразделения",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "Все курсы",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "все Роли",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "Все модули",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "Тип действия",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "Онлайн-курс",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "Объявление",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "учебный материал",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "ресурсы",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "Домашняя работа",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "обсуждение",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "Прямой эфир",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "проверка знаний",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "ученик",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "другие",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "войти",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "Выход",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "Создать",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "Изменить",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "удалить",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "Просмотр",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "оценивание",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "Подача",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "другие",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "Выберите время начала",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "Выберите Окончание",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "все Роли",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "Все модули",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "Все действия",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "Введите имя файла для фильтра",
     "description": "2.0 admin.js"
   }
 }

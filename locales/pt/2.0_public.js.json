@@ -2515,10 +2515,6 @@
     "message": "A senha deve ter de 8 a 16 caracteres e incluir letras e números (as senhas diferenciam maiúsculas de minúsculas)",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg5": {
-    "message": "Sua senha de login não foi atualizada em <strong class='text-red'>{dayNum}</strong> dias!",
-    "description": "2.0 public.js"
-  },
   "someonesEportfolio": {
     "message": "Nenhum",
     "description": "2.0 public.js"
@@ -2589,6 +2585,10 @@
   },
   "AIIframeLoading": {
     "message": "Carregando, por favor espere",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "Sua senha de login não foi atualizada em <strong class='text-red'>{dayNum}</strong> dias!",
     "description": "2.0 public.js"
   }
 }
