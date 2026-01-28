@@ -7759,8 +7759,32 @@
     "message": "Up to par",
     "description": "2.0 course.js"
   },
+  "notPassed": {
+    "message": "Not up to standard",
+    "description": "2.0 course.js"
+  },
+  "experimentNum": {
+    "message": "Experiment attempts",
+    "description": "2.0 course.js"
+  },
+  "experimentTotalUsedTime": {
+    "message": "Total experiment time",
+    "description": "2.0 course.js"
+  },
+  "experimentMaxGrade": {
+    "message": "Highest experiment score",
+    "description": "2.0 course.js"
+  },
   "uncompleted": {
     "message": "Uncompleted",
+    "description": "2.0 course.js"
+  },
+  "virtualTips1": {
+    "message": "This is the virtual simulation experiment learning released to students. Virtual simulation experiments are introduced by course administrators from the institution and virtual simulation experiment library, and all classes in the same course use the same experiments.",
+    "description": "2.0 course.js"
+  },
+  "virtualTips2": {
+    "message": "This is where all virtual simulation experiments published by teachers are listed. Before entering an experiment, please carefully review the detailed information of each experiment.",
     "description": "2.0 course.js"
   },
   "uploadFail5": {
@@ -8083,8 +8107,24 @@
     "message": "Uncompleted",
     "description": "2.0 course.js"
   },
+  "advancedSetup": {
+    "message": "Advanced settings",
+    "description": "2.0 course.js"
+  },
+  "AITeaAssistant": {
+    "message": "AI Teaching Assistant",
+    "description": "2.0 course.js"
+  },
   "masteryStatistics": {
     "message": "Mastery Statistics",
+    "description": "2.0 course.js"
+  },
+  "importVirtual": {
+    "message": "Import experiment",
+    "description": "2.0 course.js"
+  },
+  "virtualKeywordSearch": {
+    "message": "Enter experiment name to search",
     "description": "2.0 course.js"
   },
   "delVirtual": {
@@ -8115,12 +8155,28 @@
     "message": "Ethics Nodes",
     "description": "2.0 course.js"
   },
+  "degreeMasteryUpdateTips1": {
+    "message": "Mastery is automatically updated every day at midnight. Last updated:",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc": {
+    "message": "Mastery​ is comprehensively evaluated based on quiz results on knowledge points, as well as scores from related courseware exercises, assignments, and exams.",
+    "description": "2.0 course.js"
+  },
+  "pleaseChooseGraph": {
+    "message": "Please select a map",
+    "description": "2.0 course.js"
+  },
   "courseTime": {
     "message": "Course Duration",
     "description": "2.0 course.js"
   },
   "selectDate": {
     "message": "Please select a date",
+    "description": "2.0 course.js"
+  },
+  "stuLiveTips": {
+    "message": "Note:​ Viewing duration includes time spent watching live stream replays. Data is updated once daily at midnight.",
     "description": "2.0 course.js"
   },
   "classContent": {
@@ -8153,6 +8209,54 @@
   },
   "addVideo": {
     "message": "Add Video",
+    "description": "2.0 course.js"
+  },
+  "identityVerificationCode": {
+    "message": "Username",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_zuel": {
+    "message": "Course administrators​ can directly edit course chapter content. After editing, select \"Update\", and students can view the course chapters normally. All classes for the same course use the same course chapters, but different learning plans can be set.",
+    "description": "2.0 course.js"
+  },
+  "editCourseInfo": {
+    "message": "Edit course information",
+    "description": "2.0 course.js"
+  },
+  "uploaderScormResource": {
+    "message": "Upload SCORM file",
+    "description": "2.0 course.js"
+  },
+  "GeneratingPDF": {
+    "message": "Generating PDF...",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis2": {
+    "message": "【{name}】Course Analysis",
+    "description": "2.0 course.js"
+  },
+  "meetingName": {
+    "message": "Meeting Name",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTitleLabel": {
+    "message": "Title",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTitleplaceholder": {
+    "message": "Click to enter title",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDescLabel": {
+    "message": "Description",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDescPlaceholder": {
+    "message": "Please provide a brief introduction of the speaker or content, not exceeding 500 characters.",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDurationLabel": {
+    "message": "Duration",
     "description": "2.0 course.js"
   }
 }
