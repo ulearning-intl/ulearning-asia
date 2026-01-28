@@ -4671,12 +4671,40 @@
     "message": "أدخل اسم الملف للتصفية",
     "description": "2.0 admin.js"
   },
+  "administrator0": {
+    "message": "المسؤول",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeFail": {
+    "message": "فشل التفعيل",
+    "description": "2.0 admin.js"
+  },
+  "addApp1": {
+    "message": "مفتاح الوصول",
+    "description": "2.0 admin.js"
+  },
+  "addApp2": {
+    "message": "المفتاح المشترك",
+    "description": "2.0 admin.js"
+  },
+  "addApp3": {
+    "message": "ضبط عنوان URL",
+    "description": "2.0 admin.js"
+  },
   "File.searchPlaceholdertea": {
     "message": "أدخل اسم المستخدم/رقم الموظف/الاسم للبحث",
     "description": "2.0 admin.js"
   },
   "File.searchPlaceholderstu": {
     "message": "أدخل اسم المستخدم/رقم الطالب/الاسم للبحث",
+    "description": "2.0 admin.js"
+  },
+  "File.createdCourses": {
+    "message": "إنشاء دورة دراسية",
+    "description": "2.0 admin.js"
+  },
+  "File.publishedResources": {
+    "message": "نشر الموارد",
     "description": "2.0 admin.js"
   },
   "File.publishedActivities": {
@@ -4687,12 +4715,24 @@
     "message": "عرض الملف الشخصي",
     "description": "2.0 admin.js"
   },
+  "File.joinedCourses": {
+    "message": "الانضمام إلى الفصل الدراسي",
+    "description": "2.0 admin.js"
+  },
   "File.viewedLectures": {
     "message": "دراسة مواد الدورة التعليمية",
     "description": "2.0 admin.js"
   },
   "File.readAnnouncements": {
     "message": "قراءة الإعلانات",
+    "description": "2.0 admin.js"
+  },
+  "File.attendedClasses": {
+    "message": "الحضور",
+    "description": "2.0 admin.js"
+  },
+  "File.repliedToDiscussions": {
+    "message": "رد",
     "description": "2.0 admin.js"
   },
   "File.participatedInActivities": {
@@ -4703,12 +4743,32 @@
     "message": "الملف الشخصي للمعلم",
     "description": "2.0 admin.js"
   },
+  "File.studentfile": {
+    "message": "عرضالملف الشخصي للطالب",
+    "description": "2.0 admin.js"
+  },
+  "classroom": {
+    "message": "قاعة الدراسة",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDeleteTea": {
+    "message": "يرجى اختيار المعلّم المراد حذفه",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDisableTea": {
+    "message": "يرجى اختيار المعلّم المراد تعطيله",
+    "description": "2.0 admin.js"
+  },
   "pleaseSelectDeleteStu": {
     "message": "الرجاء اختيار الطالب المرحوز لحذفه أولاً",
     "description": "2.0 admin.js"
   },
   "pleaseSelectDisableStu": {
     "message": "الرجاء اختيار الطالب المرحوز لإيقاف نشاطه أولاً",
+    "description": "2.0 admin.js"
+  },
+  "deleteUserConfirmTips": {
+    "message": "بعد الحذف، لن يتمكن المستخدم من تسجيل الدخول. يرجى إدخال “{msg}” أدناه لتأكيد عملية الحذف.",
     "description": "2.0 admin.js"
   },
   "disabledError": {
