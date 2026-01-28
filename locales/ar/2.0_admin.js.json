@@ -4675,6 +4675,22 @@
     "message": "المسؤول",
     "description": "2.0 admin.js"
   },
+  "systemAdmin.activeFail": {
+    "message": "فشل التفعيل",
+    "description": "2.0 admin.js"
+  },
+  "addApp1": {
+    "message": "مفتاح الوصول",
+    "description": "2.0 admin.js"
+  },
+  "addApp2": {
+    "message": "المفتاح المشترك",
+    "description": "2.0 admin.js"
+  },
+  "addApp3": {
+    "message": "ضبط عنوان URL",
+    "description": "2.0 admin.js"
+  },
   "File.searchPlaceholdertea": {
     "message": "أدخل اسم المستخدم/رقم الموظف/الاسم للبحث",
     "description": "2.0 admin.js"
@@ -4735,12 +4751,24 @@
     "message": "قاعة الدراسة",
     "description": "2.0 admin.js"
   },
+  "pleaseSelectDeleteTea": {
+    "message": "يرجى اختيار المعلّم المراد حذفه",
+    "description": "2.0 admin.js"
+  },
+  "pleaseSelectDisableTea": {
+    "message": "يرجى اختيار المعلّم المراد تعطيله",
+    "description": "2.0 admin.js"
+  },
   "pleaseSelectDeleteStu": {
     "message": "الرجاء اختيار الطالب المرحوز لحذفه أولاً",
     "description": "2.0 admin.js"
   },
   "pleaseSelectDisableStu": {
     "message": "الرجاء اختيار الطالب المرحوز لإيقاف نشاطه أولاً",
+    "description": "2.0 admin.js"
+  },
+  "deleteUserConfirmTips": {
+    "message": "بعد الحذف، لن يتمكن المستخدم من تسجيل الدخول. يرجى إدخال “{msg}” أدناه لتأكيد عملية الحذف.",
     "description": "2.0 admin.js"
   },
   "disabledError": {
