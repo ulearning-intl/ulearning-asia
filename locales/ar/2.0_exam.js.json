@@ -1484,7 +1484,7 @@
     "description": "2.0 exam.js"
   },
   "batchNo": {
-    "message": "المحاضرات: {n}",
+    "message": "جلسات الامتحان: {n}",
     "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
   },
   "batchNoTime": {
@@ -1564,7 +1564,7 @@
     "description": "2.0 exam.js"
   },
   "addBatch": {
-    "message": "اضافة جلسه",
+    "message": "اضافة جلسة امتحان",
     "description": "2.0 exam.js"
   },
   "someBatch": {
@@ -2040,7 +2040,7 @@
     "description": "2.0 exam.js"
   },
   "extractQueNumberCl": {
-    "message": "الرسم: ",
+    "message": "عدد الاسئلة: ",
     "description": "2.0 exam.js"
   },
   "eachContainSubQue": {
@@ -2388,11 +2388,11 @@
     "description": "2.0 exam.js"
   },
   "inputExamName": {
-    "message": "انقر لإدخال اسم امتحان المقرر الدراسي",
+    "message": "انقر لادخال اسم امتحان المادة الدراسية",
     "description": "2.0 exam.js"
   },
   "examPapers": {
-    "message": "امتحان المقرر الدراسي",
+    "message": "امتحان المادة الدراسية  ",
     "description": "2.0 exam.js"
   },
   "appointExamPaper": {
@@ -2448,7 +2448,7 @@
     "description": "2.0 exam.js"
   },
   "participtionWay": {
-    "message": "جهاز الامتحان",
+    "message": "الدخول للامتحان باستخدام ",
     "description": "2.0 exam.js"
   },
   "onPCExam": {
@@ -2536,7 +2536,7 @@
     "description": "2.0 exam.js"
   },
   "publishExam": {
-    "message": "نشر امتحان المقرر الدراسي",
+    "message": "نشر امتحان المادة الدراسية",
     "description": "2.0 exam.js"
   },
   "setExamTips9": {
@@ -2812,7 +2812,7 @@
     "description": "2.0 exam.js"
   },
   "batchTips": {
-    "message": "لإجراء الامتحان، يجب إضافة الطلاب أو الفصل الذي يحتوي على الطلاب إلى جلسة الامتحان أولا. يمكن إنشاء جلسة الامتحان بعد نشر الامتحان.",
+    "message": "جلسات الامتحان (لإجراء الامتحان، يجب إضافة الطلاب أو الصف الذي يحتوي على الطلاب إلى جلسة الامتحان أولا. يمكن إنشاء جلسة الامتحان بعد نشر امتحان الصف",
     "description": "2.0 exam.js"
   },
   "edit": {
@@ -3248,7 +3248,7 @@
     "description": "2.0 exam.js"
   },
   "startCreatPaper": {
-    "message": "بدء تشغيل وحدة تخزين المجموعة",
+    "message": "انشاء",
     "description": "2.0 exam.js"
   },
   "autoPaperSettings": {
@@ -3288,7 +3288,7 @@
     "description": "2.0 exam.js"
   },
   "screenMonitorTips3": {
-    "message": "تشغيل مراقبة قص الشاشة",
+    "message": "تشغيل مراقبة اخذ لقطة شاشة",
     "description": "2.0 exam.js"
   },
   "screenMonitorTips4": {
@@ -3492,11 +3492,11 @@
     "description": "2.0 exam.js"
   },
   "waterMark": {
-    "message": "أظهار العلامة المائية للإمتحان",
+    "message": "اضافة العلامة المائية",
     "description": "2.0 exam.js"
   },
   "waterMarkTip": {
-    "message": "يمكن استخدامها لمنع تسرب من خلال لقطات",
+    "message": "تستخدم لكشف التسريب عن طريق اخذ لقطات الشاشة",
     "description": "2.0 exam.js"
   },
   "maxTextInputTips1": {
@@ -3508,7 +3508,7 @@
     "description": "2.0 exam.js"
   },
   "sequentialAnswerTip": {
-    "message": "بعد الافتتاح ، سيعرض المرشحون سؤالا واحدا فقط في كل صفحة عند الإجابة على الأسئلة ، ويمكنهم الإجابة فقط بالترتيب",
+    "message": "بعد البدأ ، يعرض للطلاب سؤال واحد للاجابة في كل صفحة و يتم عرض السؤال التالي في صفحة تالية عند اتمام الاجابة للصفحة الحالية",
     "description": "2.0 exam.js"
   },
   "remarkTip6": {
@@ -3568,7 +3568,7 @@
     "description": "2.0 exam.js"
   },
   "newOpenMonitorTips": {
-    "message": "يجب على المرشحين تشغيل الكاميرا والحفاظ على استقرار الشاشة في جميع الأوقات ، ولا ينصح بإجراء اختبار الهاتف المحمول",
+    "message": "يجب على الممتحنين تشغيل الكاميرا والحفاظ على استقرار الشاشة في جميع الأوقات ، ولا ينصح بإجراء الامتحان باستخدام الهاتف المحمول",
     "description": "2.0 exam.js"
   },
   "choiceExamTypeTips": {
@@ -3852,7 +3852,7 @@
     "description": "2.0 exam.js"
   },
   "remarkSettingDesc": {
-    "message": "تمنح نصف درجة للجزء الصحيح في حالة السؤال متعدد الإختيارت",
+    "message": "يتم احتساب جزء من الدرجة للجزء الصحيح من الاجابة في حال كان نوع الاجابة ذو اختيارات متعددة صحيحة",
     "description": "2.0 exam.js"
   },
   "remarkSettingTip": {
@@ -3940,7 +3940,7 @@
     "description": "2.0 exam.js"
   },
   "answerTimesNew": {
-    "message": "عدد المحاولات (تكرار الامتحان)",
+    "message": "عدد محاولات الامتحان",
     "description": "2.0 exam.js"
   },
   "answeredTimesNew": {

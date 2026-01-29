@@ -1,6 +1,6 @@
 {
   "backToCourseList": {
-    "message": "العودة الى قائمة المقررات الدراسية",
+    "message": "العودة الى قائمة المواد الدراسية",
     "description": "2.0 course.js"
   },
   "backToManageCenter": {
@@ -20,7 +20,7 @@
     "description": "2.0 course.js"
   },
   "courseAnnouncement": {
-    "message": "إعلانات المقرر",
+    "message": "اعلانات المادة",
     "description": "2.0 course.js"
   },
   "courseAnalysis": {
@@ -44,7 +44,7 @@
     "description": "2.0 course.js"
   },
   "courseDiscusstion": {
-    "message": "مناقشات الدورة الدراسية",
+    "message": "مناقشات المادة الدراسية",
     "description": "2.0 course.js"
   },
   "announcement": {
@@ -76,7 +76,7 @@
     "description": "2.0 course.js"
   },
   "classroom": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "live": {
@@ -768,7 +768,7 @@
     "description": "2.0 course.js"
   },
   "announcementHeadTip": {
-    "message": "يمكن نشر إعلانات المقرر الدراسي هنا. يمكن نشر إعلانات المقرر الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي المقرر الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون ومساعدو التدريس يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
+    "message": "يمكن نشر إعلانات الصف الدراسي هنا. يمكن نشر إعلانات الصف الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي الصف الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون و مساعديهم يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
     "description": "2.0 course.js"
   },
   "totalOf": {
@@ -1012,7 +1012,7 @@
     "description": "2.0 course.js"
   },
   "weight": {
-    "message": "ترجيح",
+    "message": "النسبه",
     "description": "2.0 course.js"
   },
   "theItemScore": {
@@ -1064,7 +1064,7 @@
     "description": "2.0 course.js"
   },
   "noStart": {
-    "message": "لم يبدأ",
+    "message": "دروس لم تبدأ",
     "description": "2.0 course.js"
   },
   "other": {
@@ -2240,11 +2240,11 @@
     "description": "2.0 course.js"
   },
   "createClass": {
-    "message": "إنشاء فصل دراسي",
+    "message": "إنشاء الصف دراسي",
     "description": "2.0 course.js"
   },
   "className": {
-    "message": "اسم الفصل",
+    "message": "اسم الصف الدراسي",
     "description": "2.0 course.js"
   },
   "classCode": {
@@ -2476,7 +2476,7 @@
     "description": "2.0 course.js"
   },
   "assistantTeacher": {
-    "message": "معيد",
+    "message": "مساعد استاذ",
     "description": "2.0 course.js"
   },
   "courseManage": {
@@ -3728,7 +3728,7 @@
     "description": "2.0 course.js"
   },
   "textbookHeadTips": {
-    "message": "يمكن لمشرف المقرر الدراسي استيراد البرامج الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، يحتاج الطلاب إلى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
+    "message": "يمكن لمشرف المقرر الدراسي استيراد المواد الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، لا يحتاج الى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
     "description": "2.0 course.js"
   },
   "textbookTips1": {
@@ -3924,7 +3924,7 @@
     "description": "2.0 course.js"
   },
   "canStudyTime": {
-    "message": "توافر",
+    "message": "الحالة",
     "description": "2.0 course.js"
   },
   "start2": {
@@ -4668,7 +4668,7 @@
     "description": "2.0 course.js"
   },
   "myScore": {
-    "message": "نقاطي",
+    "message": "درجاتي",
     "description": "2.0 course.js"
   },
   "newStrategyTips26": {
@@ -5372,7 +5372,7 @@
     "description": "2.0 course.js"
   },
   "weights": {
-    "message": "{percent}%, {count} نقطة",
+    "message": "{percent}%, {count} نسبه",
     "description": "2.0 course.js"
   },
   "importBBCourse": {
@@ -5604,7 +5604,7 @@
     "description": "2.0 course.js"
   },
   "inClassroom": {
-    "message": "في المحاضرة",
+    "message": "دروس جارية الان",
     "description": "2.0 course.js"
   },
   "classroomReport": {
@@ -5648,7 +5648,7 @@
     "description": "2.0 course.js"
   },
   "allClassroom": {
-    "message": "جميع الدورات",
+    "message": "كل الدروس",
     "description": "2.0 course.js"
   },
   "deleteClassroom": {
@@ -5840,7 +5840,7 @@
     "description": "2.0 course.js"
   },
   "joinExistClassApply": {
-    "message": "طلب الالتحاق بالفصل الدراسي / الانسحاب من الفصل الدراسي",
+    "message": "طلب الالتحاق بالصف الدراسي / الانسحاب من الصف الدراسي",
     "description": "2.0 course.js"
   },
   "applyType": {
@@ -6816,7 +6816,7 @@
     "description": "2.0 course.js"
   },
   "numClass": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "announcementValidate5": {
@@ -8037,6 +8037,22 @@
   },
   "identityVerificationCode": {
     "message": "اسم المستخدم",
+    "description": "2.0 course.js"
+  },
+  "meetingName": {
+    "message": "اسم الاجتماع",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTitleLabel": {
+    "message": "العنوان",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDescLabel": {
+    "message": "الوصف",
+    "description": "2.0 course.js"
+  },
+  "meetingRoomTDurationLabel": {
+    "message": "المدة",
     "description": "2.0 course.js"
   }
 }
