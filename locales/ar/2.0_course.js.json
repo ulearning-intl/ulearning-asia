@@ -1,6 +1,6 @@
 {
   "backToCourseList": {
-    "message": "العودة الى قائمة المقررات الدراسية",
+    "message": "العودة الى قائمة المواد الدراسية",
     "description": "2.0 course.js"
   },
   "backToManageCenter": {
@@ -20,7 +20,7 @@
     "description": "2.0 course.js"
   },
   "courseAnnouncement": {
-    "message": "إعلانات المقرر",
+    "message": "اعلانات المادة",
     "description": "2.0 course.js"
   },
   "courseAnalysis": {
@@ -44,7 +44,7 @@
     "description": "2.0 course.js"
   },
   "courseDiscusstion": {
-    "message": "مناقشات الدورة الدراسية",
+    "message": "مناقشات المادة الدراسية",
     "description": "2.0 course.js"
   },
   "announcement": {
@@ -76,7 +76,7 @@
     "description": "2.0 course.js"
   },
   "classroom": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "live": {
@@ -768,7 +768,7 @@
     "description": "2.0 course.js"
   },
   "announcementHeadTip": {
-    "message": "يمكن نشر إعلانات المقرر الدراسي هنا. يمكن نشر إعلانات المقرر الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي المقرر الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون ومساعدو التدريس يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
+    "message": "يمكن نشر إعلانات الصف الدراسي هنا. يمكن نشر إعلانات الصف الدراسي هنا.المعلمين الذين يتم إختيارهم كمشرفين علي الصف الدراسي يمكنهم إنشاء إعلانات لجميع ( الدفعات / المجموعات) في إطار هذا المقررالمعلمون و مساعديهم يمكنهم إنشاء إعلان للدفعة أو المجموعة التي يدرسنوها فقط.",
     "description": "2.0 course.js"
   },
   "totalOf": {
@@ -1012,7 +1012,7 @@
     "description": "2.0 course.js"
   },
   "weight": {
-    "message": "ترجيح",
+    "message": "النسبه",
     "description": "2.0 course.js"
   },
   "theItemScore": {
@@ -1064,7 +1064,7 @@
     "description": "2.0 course.js"
   },
   "noStart": {
-    "message": "لم يبدأ",
+    "message": "دروس لم تبدأ",
     "description": "2.0 course.js"
   },
   "other": {
@@ -2240,11 +2240,11 @@
     "description": "2.0 course.js"
   },
   "createClass": {
-    "message": "إنشاء فصل دراسي",
+    "message": "إنشاء الصف دراسي",
     "description": "2.0 course.js"
   },
   "className": {
-    "message": "اسم الفصل",
+    "message": "اسم الصف الدراسي",
     "description": "2.0 course.js"
   },
   "classCode": {
@@ -2476,7 +2476,7 @@
     "description": "2.0 course.js"
   },
   "assistantTeacher": {
-    "message": "معيد",
+    "message": "مساعد استاذ",
     "description": "2.0 course.js"
   },
   "courseManage": {
@@ -2824,7 +2824,7 @@
     "description": "2.0 course.js"
   },
   "studentNOColon": {
-    "message": "كود الطالب",
+    "message": "كود الطالب:",
     "description": "2.0 course.js"
   },
   "noStudentInClass": {
@@ -3728,7 +3728,7 @@
     "description": "2.0 course.js"
   },
   "textbookHeadTips": {
-    "message": "يمكن لمشرف المقرر الدراسي استيراد البرامج الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، يحتاج الطلاب إلى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
+    "message": "يمكن لمشرف المقرر الدراسي استيراد المواد الدراسية وتحريرها. بالنسبة للكتب المدرسية/الدورات الدراسية المدفوعة الأجر، لا يحتاج الى دفع رسوم وتنشيط الدورة لبدء التعلم. تستخدم جميع الطبقات في نفس الدورة التدريبية نفس المناهج الدراسية، ولكن يمكن تعيين خطط التعلم بشكل مختلف.",
     "description": "2.0 course.js"
   },
   "textbookTips1": {
@@ -3924,7 +3924,7 @@
     "description": "2.0 course.js"
   },
   "canStudyTime": {
-    "message": "توافر",
+    "message": "الحالة",
     "description": "2.0 course.js"
   },
   "start2": {
@@ -4668,7 +4668,7 @@
     "description": "2.0 course.js"
   },
   "myScore": {
-    "message": "نقاطي",
+    "message": "درجاتي",
     "description": "2.0 course.js"
   },
   "newStrategyTips26": {
@@ -5372,7 +5372,7 @@
     "description": "2.0 course.js"
   },
   "weights": {
-    "message": "{percent}%, {count} نقطة",
+    "message": "{percent}%, {count} نسبه",
     "description": "2.0 course.js"
   },
   "importBBCourse": {
@@ -5604,7 +5604,7 @@
     "description": "2.0 course.js"
   },
   "inClassroom": {
-    "message": "في المحاضرة",
+    "message": "دروس جارية الان",
     "description": "2.0 course.js"
   },
   "classroomReport": {
@@ -5648,7 +5648,7 @@
     "description": "2.0 course.js"
   },
   "allClassroom": {
-    "message": "جميع الدورات",
+    "message": "كل الدروس",
     "description": "2.0 course.js"
   },
   "deleteClassroom": {
@@ -5840,7 +5840,7 @@
     "description": "2.0 course.js"
   },
   "joinExistClassApply": {
-    "message": "طلب الالتحاق بالفصل الدراسي / الانسحاب من الفصل الدراسي",
+    "message": "طلب الالتحاق بالصف الدراسي / الانسحاب من الصف الدراسي",
     "description": "2.0 course.js"
   },
   "applyType": {
@@ -6184,7 +6184,7 @@
     "description": "2.0 course.js"
   },
   "seatsPrefix": {
-    "message": "# من المقاعد",
+    "message": " من المقاعد:",
     "description": "2.0 course.js"
   },
   "seats": {
@@ -6816,7 +6816,7 @@
     "description": "2.0 course.js"
   },
   "numClass": {
-    "message": "الفصول",
+    "message": "الصفوف",
     "description": "2.0 course.js"
   },
   "announcementValidate5": {
@@ -7723,8 +7723,28 @@
     "message": "المحاكاة الافتراضية",
     "description": "2.0 course.js"
   },
+  "noVirtualTips": {
+    "message": "لا توجد تجارب حالياً",
+    "description": "2.0 course.js"
+  },
+  "virtualTips": {
+    "message": "الدرجة ≥ 85: ممتاز\n60 ≤ الدرجة < 85: مجتاز\nالدرجة < 60: غير مجتاز",
+    "description": "2.0 course.js"
+  },
+  "startExperiment": {
+    "message": "بدء المختبر",
+    "description": "2.0 course.js"
+  },
+  "experimentStepDetail": {
+    "message": "شرح خطوات التجربة",
+    "description": "2.0 course.js"
+  },
   "averageGrade": {
     "message": "متوسط النتيجة",
+    "description": "2.0 course.js"
+  },
+  "experimentJoinedNum": {
+    "message": "إجمالي مرات التجربة",
     "description": "2.0 course.js"
   },
   "completedNum": {
@@ -7739,8 +7759,32 @@
     "message": "مطابق للمعايير",
     "description": "2.0 course.js"
   },
+  "notPassed": {
+    "message": "راسب",
+    "description": "2.0 course.js"
+  },
+  "experimentNum": {
+    "message": "عدد مرات إجراء التجربة",
+    "description": "2.0 course.js"
+  },
+  "experimentTotalUsedTime": {
+    "message": "إجمالي زمن إجراء التجربة",
+    "description": "2.0 course.js"
+  },
+  "experimentMaxGrade": {
+    "message": "أعلى درجة في التجربة",
+    "description": "2.0 course.js"
+  },
   "uncompleted": {
     "message": "غير مكتمل",
+    "description": "2.0 course.js"
+  },
+  "virtualTips1": {
+    "message": "هنا يتم نشر التجارب الافتراضية للطلاب للتعلم. تُقدّم التجارب الافتراضية من قِبل معلم المادة الدراسية، حيث يتم استيراد التجربة من مكتبة التجارب الافتراضية الخاصة بالمدرسة. جميع الفصول الدراسية لنفس المادة يستخدمون نفس التجربة",
+    "description": "2.0 course.js"
+  },
+  "virtualTips2": {
+    "message": "جميع التجارب الافتراضية المنشورة من المعلم موجودة هنا. اطلع على تفاصيل كل تجربة قبل البدء.",
     "description": "2.0 course.js"
   },
   "uploadFail5": {
@@ -7759,12 +7803,60 @@
     "message": "تحليلات التعلم",
     "description": "2.0 course.js"
   },
+  "whoseLearningData": {
+    "message": "ملف الطالب {studentName}",
+    "description": "2.0 course.js"
+  },
+  "homeworkGlobalData": {
+    "message": "عدد الواجبات المنجزة / إجمالي الواجبات: {homeworkNum}/{homeworkTotal}",
+    "description": "2.0 course.js"
+  },
+  "examGlobalData": {
+    "message": "عدد الامتحانات المنجزة / إجمالي الامتحانات : {examNum}/{examTotal}",
+    "description": "2.0 course.js"
+  },
+  "learningStatus": {
+    "message": "الحالة الحالية",
+    "description": "2.0 course.js"
+  },
+  "learningScore": {
+    "message": "النتيجة: {score}",
+    "description": "2.0 course.js"
+  },
   "stuData_stuId": {
-    "message": "كود الطالب",
+    "message": "كود الطالب:",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuSex": {
+    "message": "النوع",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuCreatedTime": {
+    "message": "تاريخ الانضمام",
     "description": "2.0 course.js"
   },
   "stuData_stuEmail": {
     "message": "صندوق بريد:",
+    "description": "2.0 course.js"
+  },
+  "stuData_stuPhone": {
+    "message": "هاتف الطالب",
+    "description": "2.0 course.js"
+  },
+  "stuData_courseProgress": {
+    "message": "يقوم بدراسة {num} مواد دراسية",
+    "description": "2.0 course.js"
+  },
+  "stuData_homeworkProgress": {
+    "message": "تم تسليم {num} واجب/واجبات",
+    "description": "2.0 course.js"
+  },
+  "stuData_examProgress": {
+    "message": "أدى {num} امتحان/امتحانات",
+    "description": "2.0 course.js"
+  },
+  "stuData_disscussionProgress": {
+    "message": "عدد المواضيع المنشورة: {topocNum}، وعدد الردود: {replyNumber}",
     "description": "2.0 course.js"
   },
   "examHistory": {
@@ -8019,12 +8111,60 @@
     "message": " إعدادت متقدمة ",
     "description": "2.0 course.js"
   },
+  "AITeaAssistant": {
+    "message": "المساعد الذكي",
+    "description": "2.0 course.js"
+  },
   "masteryStatistics": {
     "message": "إحصائيات الإتقان",
     "description": "2.0 course.js"
   },
+  "importVirtual": {
+    "message": "استيراد التجربة",
+    "description": "2.0 course.js"
+  },
+  "virtualKeywordSearch": {
+    "message": "أدخل اسم التجربة للبحث",
+    "description": "2.0 course.js"
+  },
+  "delVirtual": {
+    "message": "حذف التجربة",
+    "description": "2.0 course.js"
+  },
+  "graphOverview": {
+    "message": "استعراض المخطط",
+    "description": "2.0 course.js"
+  },
   "knowledgePoints": {
     "message": "درجات المعرفة",
+    "description": "2.0 course.js"
+  },
+  "emphasis": {
+    "message": "النقاط الرئيسية",
+    "description": "2.0 course.js"
+  },
+  "difficulty": {
+    "message": "النقاط الصعبة",
+    "description": "2.0 course.js"
+  },
+  "testPoints": {
+    "message": "درجات الامتحان",
+    "description": "2.0 course.js"
+  },
+  "ideologicalPoints": {
+    "message": "النقاط الأخلاقية",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryUpdateTips1": {
+    "message": "مستوى الإتقان يتم تحديثه تلقائيًا يوميًا عند منتصف الليل، آخر تحديث:",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc": {
+    "message": "يعكس مستوى الإتقان الأداء الشامل للطالب في الاختبارات، التمارين، الواجبات، ودرجات الامتحانات.",
+    "description": "2.0 course.js"
+  },
+  "pleaseChooseGraph": {
+    "message": "الرجاء تحديد المخطط",
     "description": "2.0 course.js"
   },
   "courseTime": {
@@ -8035,8 +8175,64 @@
     "message": "يرجى اختيار التاريخ",
     "description": "2.0 course.js"
   },
+  "stuLiveTips": {
+    "message": "ملاحظة: مدة المشاهدة تشمل وقت مشاهدة البث المباشر وإعادة المشاهدة، ويتم تحديث البيانات مرة واحدة يوميًا عند منتصف الليل.",
+    "description": "2.0 course.js"
+  },
+  "classContent": {
+    "message": "معلومات المادة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "myCourse": {
+    "message": "المادة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "classroomTeaching": {
+    "message": "الحصة الدراسية",
+    "description": "2.0 course.js"
+  },
+  "gradeManagement": {
+    "message": "إدارة الدرجات",
+    "description": "2.0 course.js"
+  },
+  "classroomStuding": {
+    "message": "التعلم داخل الصف",
+    "description": "2.0 course.js"
+  },
+  "allStudentLeve": {
+    "message": "جميع المراحل التعليمية",
+    "description": "2.0 course.js"
+  },
+  "addFile": {
+    "message": "إضافة ملف",
+    "description": "2.0 course.js"
+  },
+  "addVideo": {
+    "message": "إضافة فيديو",
+    "description": "2.0 course.js"
+  },
   "identityVerificationCode": {
     "message": "اسم المستخدم",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_zuel": {
+    "message": "يمكن لمعم المادة الدراسية تعديل محتوى فصول المادة مباشرة. بعد الانتهاء من التعديل، يمكنه اختيار التحديث، وسيتمكّن الطلاب من مشاهدة محتوى الفصول بشكل طبيعي. تستخدم جميع الفصول الدراسية لنفس المادة نفس محتوى الفصول، لكن يمكن إعداد خطط تعلم مختلفة لكل فصل.",
+    "description": "2.0 course.js"
+  },
+  "editCourseInfo": {
+    "message": "تعديل معلومات المادة",
+    "description": "2.0 course.js"
+  },
+  "uploaderScormResource": {
+    "message": "رفع ملف SCORM",
+    "description": "2.0 course.js"
+  },
+  "GeneratingPDF": {
+    "message": "يتم الآن إنشاء PDF",
+    "description": "2.0 course.js"
+  },
+  "courseAnalysis2": {
+    "message": "تحليل محتوى مادة [{name}]",
     "description": "2.0 course.js"
   },
   "meetingName": {
@@ -8047,12 +8243,220 @@
     "message": "العنوان",
     "description": "2.0 course.js"
   },
+  "meetingRoomTitleplaceholder": {
+    "message": "انقر هنا لإدخال العنوان",
+    "description": "2.0 course.js"
+  },
   "meetingRoomTDescLabel": {
     "message": "الوصف",
     "description": "2.0 course.js"
   },
+  "meetingRoomTDescPlaceholder": {
+    "message": "يرجى تقديم مقدمة موجزة عن المتحدث أو المحتوى، لا تتجاوز 500 حرف.",
+    "description": "2.0 course.js"
+  },
   "meetingRoomTDurationLabel": {
     "message": "المدة",
+    "description": "2.0 course.js"
+  },
+  "resourceTypeDistribution": {
+    "message": "توزيع الموارد حسب النوع",
+    "description": "2.0 course.js"
+  },
+  "questionTypeDistribution": {
+    "message": "توزيع الأسئلة حسب النوع",
+    "description": "2.0 course.js"
+  },
+  "profileDataUpdateTips": {
+    "message": "تحديث بيانات ملفي يتم يوميًا عند منتصف الليل.",
+    "description": "2.0 course.js"
+  },
+  "teaProfileExportName": {
+    "message": "ملف التعليم الخاص بـ {name}",
+    "description": "2.0 course.js"
+  },
+  "stuProfileExportName": {
+    "message": "الملف التعليمي لـ {name}",
+    "description": "2.0 course.js"
+  },
+  "employeeIdColon": {
+    "message": "الرقم الوظيفي:",
+    "description": "2.0 course.js"
+  },
+  "courseVisitOverview": {
+    "message": "إحصاءات زيارات المادة",
+    "description": "2.0 course.js"
+  },
+  "visitOverview": {
+    "message": "نظرة عامة على الزيارات",
+    "description": "2.0 course.js"
+  },
+  "collegeColon": {
+    "message": "المرحلة الدراسية:",
+    "description": "2.0 course.js"
+  },
+  "courseNum": {
+    "message": "عدد المواد الدراسية",
+    "description": "2.0 course.js"
+  },
+  "classNum": {
+    "message": "عدد الفصول الدراسية",
+    "description": "2.0 course.js"
+  },
+  "studentNum": {
+    "message": "عدد الطلاب",
+    "description": "2.0 course.js"
+  },
+  "resourceDevelopmentOverview": {
+    "message": "إحصاءات تطوير الموارد",
+    "description": "2.0 course.js"
+  },
+  "resourceUplaodNum": {
+    "message": "عدد الموارد الدراسية المرفوعة",
+    "description": "2.0 course.js"
+  },
+  "resourceSize": {
+    "message": "الحجم",
+    "description": "2.0 course.js"
+  },
+  "createdTextbookNum": {
+    "message": "عدد المناهج الدراسية المنشأة",
+    "description": "2.0 course.js"
+  },
+  "createdQuestionNum": {
+    "message": "عدد الأسئلة المنشأة",
+    "description": "2.0 course.js"
+  },
+  "createdPaperNum": {
+    "message": "عدد أوراق الامتحان المنشأة",
+    "description": "2.0 course.js"
+  },
+  "textbookStudy": {
+    "message": "تقرير تعلم الوسائط التعليمية",
+    "description": "2.0 course.js"
+  },
+  "teachingOverview": {
+    "message": "استعراض العملية التعليمية",
+    "description": "2.0 course.js"
+  },
+  "attendance2": {
+    "message": "الحضور",
+    "description": "2.0 course.js"
+  },
+  "attendanceRateTips": {
+    "message": "في جميع أنشطة تسجيل الحضور المنشورة، نسبة حضور الطلاب هي <span>{rate}</span>.",
+    "description": "2.0 course.js"
+  },
+  "studyOverview": {
+    "message": "إحصاءات حالة التعلم",
+    "description": "2.0 course.js"
+  },
+  "readPeopleNum": {
+    "message": "عدد الطلاب الذين شاهدوا المحتوى",
+    "description": "2.0 course.js"
+  },
+  "downloadNum": {
+    "message": "المشاهدات/التنزيلات",
+    "description": "2.0 course.js"
+  },
+  "discussionPublishNum": {
+    "message": "إجمالي المناقشات المنشورة",
+    "description": "2.0 course.js"
+  },
+  "teacherReplyNum": {
+    "message": "إجمالي ردود المعلم",
+    "description": "2.0 course.js"
+  },
+  "studentReplyNum": {
+    "message": "إجمالي ردود الطلاب",
+    "description": "2.0 course.js"
+  },
+  "numOfCorrections": {
+    "message": "إجمالي التصحيحات",
+    "description": "2.0 course.js"
+  },
+  "publishExam": {
+    "message": "نشر الامتحانات",
+    "description": "2.0 course.js"
+  },
+  "numOfReviews": {
+    "message": "عدد الواجبات التي تم تقييمها",
+    "description": "2.0 course.js"
+  },
+  "numOfUsedQuestions": {
+    "message": "عدد الأسئلة المستخدمة",
+    "description": "2.0 course.js"
+  },
+  "numOfUsedPapers": {
+    "message": "إجمالي أوراق الامتحان المستخدمة",
+    "description": "2.0 course.js"
+  },
+  "averagePassRate2": {
+    "message": "متوسط نسبة النجاح",
+    "description": "2.0 course.js"
+  },
+  "publishAttendance": {
+    "message": "نشر تسجيل الحضور",
+    "description": "2.0 course.js"
+  },
+  "attendance3": {
+    "message": "الحضور",
+    "description": "2.0 course.js"
+  },
+  "studyTextbookNumber": {
+    "message": "إجمالي المناهج الدراسية التي تم دراستها",
+    "description": "2.0 course.js"
+  },
+  "averageStudyProgress": {
+    "message": "متوسط تقدم الطلاب في التعلم",
+    "description": "2.0 course.js"
+  },
+  "readAnnouncementNumber": {
+    "message": "إجمالي الإعلانات التي تم الاطلاع عليها",
+    "description": "2.0 course.js"
+  },
+  "viewResourceNumber": {
+    "message": "عدد الموارد التي تم الاطلاع عليها",
+    "description": "2.0 course.js"
+  },
+  "homeworkSubmitNum": {
+    "message": "عدد الواجبات التي قدّمها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "submitExamNumber": {
+    "message": "إجمالي الامتحانات التي تم تقديمها",
+    "description": "2.0 course.js"
+  },
+  "replyPostNumber": {
+    "message": "إجمالي الردود التي كتبها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "getScoreNum": {
+    "message": "النقاط التي حصل عليها الطلاب",
+    "description": "2.0 course.js"
+  },
+  "joinVote": {
+    "message": "شارك الطالب في التصويت",
+    "description": "2.0 course.js"
+  },
+  "joinResponder": {
+    "message": "شارك الطالب في الاستجابة السريعة",
+    "description": "2.0 course.js"
+  },
+  "joinPickPeople": {
+    "message": "شارك الطالب في الاختيار",
+    "description": "2.0 course.js"
+  },
+  "joinPhotoAndUploader": {
+    "message": "قام الطالب برفع الصور",
+    "description": "2.0 course.js"
+  },
+  "joinScore": {
+    "message": "شارك الطالب في عملية التقييم",
+    "description": "2.0 course.js"
+  },
+  "roomSelectPlaceholder": {
+    "message": "اختر غرفة الاجتماع",
     "description": "2.0 course.js"
   }
 }
