@@ -3060,7 +3060,7 @@
     "description": "2.0 admin.js"
   },
   "confirmDelete": {
-    "message": "确定删除应用吗？",
+    "message": "确定删除",
     "description": "2.0 admin.js"
   },
   "deleteSuccess": {
@@ -4256,7 +4256,7 @@
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.search": {
-    "message": "请输入创建人名筛选",
+    "message": "请输入创建人或文件名筛选",
     "description": "2.0 admin.js"
   },
   "resourceLibraryCtrl.resourseLib": {
@@ -4404,7 +4404,7 @@
     "description": "2.0 admin.js"
   },
   "disable": {
-    "message": "禁用",
+    "message": "停用",
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips24": {
@@ -4777,6 +4777,34 @@
   },
   "pleaseInputCorrectText": {
     "message": "请输入指定文本",
+    "description": "2.0 admin.js"
+  },
+  "File.coursenum": {
+    "message": "课程数",
+    "description": "2.0 admin.js"
+  },
+  "File.totalActivityNum": {
+    "message": "发布活动总数",
+    "description": "2.0 admin.js"
+  },
+  "File.rollCallNum": {
+    "message": "发布点名",
+    "description": "2.0 admin.js"
+  },
+  "File.viewResourceNum": {
+    "message": "查看资源",
+    "description": "2.0 admin.js"
+  },
+  "File.submitHomeworkNum": {
+    "message": "提交作业数",
+    "description": "2.0 admin.js"
+  },
+  "File.submitExamNum": {
+    "message": "提交考试数",
+    "description": "2.0 admin.js"
+  },
+  "File.participatedInDiscussions": {
+    "message": "参与讨论",
     "description": "2.0 admin.js"
   }
 }
