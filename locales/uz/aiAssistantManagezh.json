@@ -1,0 +1,4794 @@
+{
+  "route.aiManage": {
+    "message": "AI yordamchini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManage": {
+    "message": "Bilimlar bazasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meManage": {
+    "message": "Mening bilimlar bazam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.systemManage": {
+    "message": "Tizimni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.webManage": {
+    "message": "Saytni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.digitalHuman": {
+    "message": "Raqamli odam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.manageKnowledge": {
+    "message": "Bilimlar bazasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistant": {
+    "message": "AI yordamchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.fullKnowledgeBase": {
+    "message": "Barcha bilimlar bazalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.orgManage": {
+    "message": "Tashkilotni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.userManage": {
+    "message": "Foydalanuvchilarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.meAiAssistant": {
+    "message": "Mening AI yordamchim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.allAiAssistant": {
+    "message": "Barcha AI yordamchilar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManage": {
+    "message": "Ko'rsatmalarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.myInstructions": {
+    "message": "Mening ko'rsatmalarim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.groupingManage": {
+    "message": "Guruhlarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.dataStatistics": {
+    "message": "Ma'lumotlar statistikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.logOut": {
+    "message": "Tizimdan chiqish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeBtn": {
+    "message": "Mavzu",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeSettings": {
+    "message": "Mavzuni shaxsiylashtirish sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.styleSetting": {
+    "message": "Umumiy uslub sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "navbar.themeColor": {
+    "message": "Mavzu rangi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.title": {
+    "message": "Tizim joylashuvi konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.theme": {
+    "message": "Mavzu rangi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.tagsView": {
+    "message": "Tags-View'ni yoqish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.fixedHeader": {
+    "message": "Header'ni mustahkamlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "settings.sidebarLogo": {
+    "message": "Yon panel logosi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.refresh": {
+    "message": "Yangilash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.close": {
+    "message": "O'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeOthers": {
+    "message": "Boshqalarini yopish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagsView.closeAll": {
+    "message": "Barchasini yopish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.accountLogin": {
+    "message": "Hisob bilan kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.logIn": {
+    "message": "Kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.username": {
+    "message": "Foydalanuvchi nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.password": {
+    "message": "Parol",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.casLogin": {
+    "message": "Kampus birlashtirilgan identifikatsiyalash bilan kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip1": {
+    "message": "Sizning ma'lumotlaringiz tizimda mavjud emas!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.bindTip2": {
+    "message": "Iltimos administrator bilan bog'laning, shaxsiy ma'lumotlaringiz ushbu tizimga sinxronlanganligini tasdiqlang. Agar tizimda hisobingiz bo'lsa, iltimos hisobni bog'lang.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.pleseusername": {
+    "message": "Iltimos foydalanuvchi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "login.plesepwd": {
+    "message": "Iltimos parolni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTitle": {
+    "message": "AI agenti boshqaruv tizimi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.smartRecord": {
+    "message": "Aqlli yozib olish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.easyManage": {
+    "message": "Oson boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.websiteTip": {
+    "message": "Bir nechta sinfdagi darslarni yozib olish, real vaqtda darslarni kuzatish va resurslarni saqlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.casTitle": {
+    "message": "Birlashtirilgan identifikatsiyalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.reset": {
+    "message": "Qayta tiklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestError": {
+    "message": "So'rov muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Iltimos kalit so'zni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagement": {
+    "message": "Guruhlarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupingManagementHint": {
+    "message": "Joriy hisobdagi ko'rsatma guruhlarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "search": {
+    "message": "Qidirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addingGroups": {
+    "message": "Guruh qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editGroup": {
+    "message": "Guruhni tahrirlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupName": {
+    "message": "Guruh nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGroupName": {
+    "message": "Iltimos guruh nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainSpaces": {
+    "message": "Faqat bo'shliqlardan iborat bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameRequired": {
+    "message": "Guruh nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameMaxLength": {
+    "message": "Guruh nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSuccess": {
+    "message": "Muvaffaqiyatli yaratildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirm": {
+    "message": "O'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSuccess": {
+    "message": "Muvaffaqiyatli o'chirildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "edit": {
+    "message": "Tahrirlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hint": {
+    "message": "Eslatma",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operation": {
+    "message": "Amal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createInstruction": {
+    "message": "Ko'rsatma yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editInstruction": {
+    "message": "Ko'rsatmani o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteInstruction": {
+    "message": "Ko'rsatmani o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noData": {
+    "message": "Ma'lumot yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitle": {
+    "message": "Ko'rsatma sarlavhasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescription": {
+    "message": "Ko'rsatma izohi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContent": {
+    "message": "Uzun ko'rsatma mazmuni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContent": {
+    "message": "Qisqa ko'rsatma mazmuni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectGroup": {
+    "message": "Iltimos guruhni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleLongInstruction": {
+    "message": "Misol: Iltimos [mazmun, masalan: kvant mexanikasidagi to'lqin-zarracha ikkiligi] tushunchasini, tarixiy rivojlanish yo'nalishini, asosiy eksperimental dalillarni va zamonaviy texnologiyadagi qo'llanilishini batafsil bayon qiling, va kelajakdagi mumkin bo'lgan tadqiqot yo'nalishlarini tahlil qiling.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleShortInstruction": {
+    "message": "Misol: Iltimos [mazmun, masalan: kvant mexanikasidagi to'lqin-zarracha ikkiligi] tushunchasini batafsil bayon qiling.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Kiritish qutisini kiritish uchun [ ] ni kiriting.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myInstructions": {
+    "message": "Mening ko'rsatmalarim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions": {
+    "message": "Joriy hisob ostida yaratilgan va boshqariladigan barcha ko'rsatmalarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "delete": {
+    "message": "O'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotContainOnlySpaces": {
+    "message": "Faqat bo'shliqlardan iborat bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotBeEmpty": {
+    "message": "Ko'rsatma sarlavhasi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionTitleCannotExceed200Characters": {
+    "message": "Ko'rsatma sarlavhasi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotBeEmpty": {
+    "message": "Ko'rsatma izohi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDescriptionCannotExceed200Characters": {
+    "message": "Ko'rsatma izohi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotBeEmpty": {
+    "message": "Uzun ko'rsatma mazmuni bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "longInstructionContentCannotExceed1000Characters": {
+    "message": "Uzun ko'rsatma mazmuni 1000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shortInstructionContentCannotExceed1000Characters": {
+    "message": "Qisqa ko'rsatma mazmuni 1000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectGroup": {
+    "message": "Iltimos guruhni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "all": {
+    "message": "Barchasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestion": {
+    "message": "Standart savol",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creator": {
+    "message": "Yaratuvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTime": {
+    "message": "Yaratilgan vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableStatus": {
+    "message": "Yoqish holati",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enabled": {
+    "message": "Yoqilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpen": {
+    "message": "O'chirilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewDetails": {
+    "message": "Tafsilotlarni ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "name": {
+    "message": "Nom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "type": {
+    "message": "Turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSize": {
+    "message": "Fayl hajmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "source": {
+    "message": "Resurs manbai",
+    "description": "aiAssistantManagezh.json"
+  },
+  "status": {
+    "message": "Holati",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studying": {
+    "message": "O'rganilmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learned": {
+    "message": "O'rganildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "document": {
+    "message": "Hujjat",
+    "description": "aiAssistantManagezh.json"
+  },
+  "localUpload": {
+    "message": "Mahalliy yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseware": {
+    "message": "Darslik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Bilimlar grafigi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRepository": {
+    "message": "Resurslar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resources": {
+    "message": "Resurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionAnswer": {
+    "message": "Savol-javob juftligi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentKnowledgeBaseData": {
+    "message": "Joriy bilimlar bazasidagi barcha ma'lumotlarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBase": {
+    "message": "Bilimlar bazasini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllKnowledgeBase": {
+    "message": "Joriy tashkilot ostida yaratilgan barcha bilimlar bazalarini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onMyOwn": {
+    "message": "O'zim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResources": {
+    "message": "O'qitish resurslarini import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibrary": {
+    "message": "Resurslar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputCoursewareName": {
+    "message": "Darslik nomini kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coursewareCount": {
+    "message": "Darsliklar soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noCourseware": {
+    "message": "Darsliklar yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceName": {
+    "message": "Resurs nomini kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "availableResources": {
+    "message": "Tanlanadigan resurslar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResources": {
+    "message": "Resurslar yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputKnowledgeGraphName": {
+    "message": "Bilimlar grafigi nomini kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeGraphCount": {
+    "message": "Bilimlar grafigi soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noKnowledgeGraph": {
+    "message": "Bilimlar grafigi yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputResourceLibraryName": {
+    "message": "Resurslar bazasi nomini kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceLibraryCount": {
+    "message": "Resurslar bazasi soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceLibrary": {
+    "message": "Resurslar bazasi yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loading": {
+    "message": "Yuklanmoqda...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMore": {
+    "message": "Boshqa yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedResourcesCount": {
+    "message": "Siz {num} ta resurs tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "queAnswerInfoTitle": {
+    "message": "Savol-javob juftligi tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestion": {
+    "message": "O'xshash savollar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answer": {
+    "message": "Javob",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allEnableStatus": {
+    "message": "Barcha yoqish holatlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allGroups": {
+    "message": "Barcha guruhlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQuestionAnswer": {
+    "message": "Savol-javob juftligini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editQuestionAnswer": {
+    "message": "Savol-javob juftligini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionRequired": {
+    "message": "Standart savol bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "standardQuestionMaxLength": {
+    "message": "Standart savol 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotOnlyContainSpaces": {
+    "message": "Faqat bo'shliqlardan iborat bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionRequired": {
+    "message": "Qo'shilgan o'xshash savollar bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionMaxLength": {
+    "message": "O'xshash savollar 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "similarQuestionLimit": {
+    "message": "Har bir savol-javob juftligiga ko'pi bilan 10 ta o'xshash savol qo'shilishi mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerRequired": {
+    "message": "Javob bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "answerMaxLength": {
+    "message": "Javob 5000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterStandardQuestion": {
+    "message": "Iltimos standart savolni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSimilarQuestion": {
+    "message": "Iltimos o'xshash savolni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAnswer": {
+    "message": "Iltimos javobni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSimilarQuestion": {
+    "message": "O'xshash savol qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "group": {
+    "message": "Guruh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelect": {
+    "message": "Iltimos tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSimilarQuestions": {
+    "message": "Har bir savol-javob juftligiga ko'pi bilan 10 ta o'xshash savol qo'shilishi mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dragIcon": {
+    "message": "Sudrab tartiblash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addGroup": {
+    "message": "Guruh qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyGroup": {
+    "message": "Guruhni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseDesc": {
+    "message": "Bilimlar bazasi resurslar va savol-javob juftliklarini qo'llab-quvvatlaydi, bu esa aqlli savol-javob, AI savollari va boshqalarni qo'llab-quvvatlaydi, savol-javob va savol berish aniqligini oshiradi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resource": {
+    "message": "Resurs",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myKnowledgeBase": {
+    "message": "Mening bilimlar bazam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase": {
+    "message": "Joriy hisob ostida yaratilgan va boshqariladigan barcha bilimlar bazalarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createKnowledgeBase": {
+    "message": "Bilimlar bazasini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyKnowledgeBase": {
+    "message": "Bilimlar bazasini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageKnowledgeBase": {
+    "message": "Bilimlar bazasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeBaseName": {
+    "message": "Iltimos nomni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseName": {
+    "message": "Bilimlar bazasi nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameRequired": {
+    "message": "Iltimos bilimlar bazasi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameMaxLength": {
+    "message": "Bilimlar bazasi nomi 100 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBaseConfirm": {
+    "message": "{name} o'chirilgandan so'ng, bu bilimlar bazasi AI yordamchisiga bog'lanmaydi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistants": {
+    "message": "Barcha AI yordamchilar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllAiAssistantsInOrg": {
+    "message": "Joriy tashkilot ostida yaratilgan barcha AI yordamchilarini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultKnowledgeBase": {
+    "message": "Standart bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsDefault": {
+    "message": "Standart sifatida belgilash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preview": {
+    "message": "Oldindan ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAiAssistantSettings": {
+    "message": "Standart AI yordamchi sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmSetAsDefault": {
+    "message": "Joriy {name} ni standart sifatida belgilashni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceAiAssistant": {
+    "message": "AI yordamchisini almashtirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmReplaceAiAssistant": {
+    "message": "{oldName} allaqachon ishlatilmoqda, {newName} ga almashtirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSuccessfully": {
+    "message": "Muvaffaqiyatli sozlandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shared": {
+    "message": "Ulashish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "default": {
+    "message": "Standart",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataStatistics": {
+    "message": "Ma'lumotlar statistikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherAiAssistant": {
+    "message": "O'qituvchilar dars tayyorlash AI yordamchisi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewCurrentAiAssistantUsage": {
+    "message": "Joriy AI yordamchidan foydalanish holatini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitorCount": {
+    "message": "Mehmonlar soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDialogueRounds": {
+    "message": "Umumiy dialog raundlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "averageDialogueRounds": {
+    "message": "O'rtacha dialog raundlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalQaWords": {
+    "message": "Savol-javob umumiy belgi soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitationTrends": {
+    "message": "Kirish tendensiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "day": {
+    "message": "Kun",
+    "description": "aiAssistantManagezh.json"
+  },
+  "week": {
+    "message": "Hafta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "month": {
+    "message": "Oy",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frequentQuestions": {
+    "message": "Tez-tez so'raladigan savollar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueDetails": {
+    "message": "Dialog tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionId": {
+    "message": "Sessiya ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "user": {
+    "message": "Foydalanuvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userRole": {
+    "message": "Foydalanuvchi roli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueContent": {
+    "message": "Dialog mazmuni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueRounds": {
+    "message": "Dialog raundlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "qaWordCount": {
+    "message": "Savol-javob belgi soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "time": {
+    "message": "Vaqt",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionDetails": {
+    "message": "Sessiya tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "comingSoon": {
+    "message": "Men kelibman!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement": {
+    "message": "AI yordamchini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants": {
+    "message": "Joriy hisob ostida yaratilgan barcha AI yordamchilarini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createAiAssistant": {
+    "message": "AI yordamchini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAiAssistant": {
+    "message": "AI yordamchini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanSettings": {
+    "message": "Raqamli odam sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAvatar": {
+    "message": "Avatar tanlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadAvatar": {
+    "message": "Avatar yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements": {
+    "message": "JPG, JPEG, PNG formatlarini qo'llab-quvvatlaydi, hajmi 2M dan oshmasligi kerak. Tavsiya etiladigan o'lcham: 400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantName": {
+    "message": "AI yordamchiga nom bering",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntro": {
+    "message": "Qisqacha ma'lumot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessage": {
+    "message": "Iltimos xush kelibsiz so'zini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterOpeningRemarks": {
+    "message": "Iltimos kirish so'zini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultWelcomeMessage": {
+    "message": "Salom, men AI yordamchiman",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameRequired": {
+    "message": "AI yordamchi nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameMaxLength": {
+    "message": "AI yordamchi nomi 100 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "introMaxLength": {
+    "message": "AI yordamchi qisqacha ma'lumoti 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeRequired": {
+    "message": "Xush kelibsiz so'zi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMaxLength": {
+    "message": "Xush kelibsiz so'zi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength": {
+    "message": "Kirish so'zi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired": {
+    "message": "Iltimos avatarni yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRequired": {
+    "message": "Iltimos katta modelni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginRequired": {
+    "message": "Iltimos AI plaginini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHuman": {
+    "message": "Iltimos raqamli odamni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteConfirmation": {
+    "message": "{name} o'chirilgandan so'ng, bu AI yordamchidan foydalanib bo'lmaydi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultConfirmation": {
+    "message": "Joriy {name} ni standart sifatida belgilashni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replaceConfirmation": {
+    "message": "{oldName} allaqachon ishlatilmoqda, {newName} ga almashtirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noPermission": {
+    "message": "Huquq yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInput": {
+    "message": "Ovozli kiritish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcast": {
+    "message": "Ovozli e'lon qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "associatedInstructions": {
+    "message": "Bog'langan ko'rsatmalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showShortInstructions": {
+    "message": "Qisqa ko'rsatma bo'yicha ko'rsatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharingScope": {
+    "message": "Ulashish doirasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlySelf": {
+    "message": "Faqat o'zim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareWithOthers": {
+    "message": "O'z tashkilotining boshqa o'qituvchilariga ulashish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "firstChoiceModel": {
+    "message": "Tanlangan katta model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiPlugins": {
+    "message": "AI plagini",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQa": {
+    "message": "Aqlli savol-javob",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Resurs tavsiyalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiQuestions": {
+    "message": "AI savollari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningReminder": {
+    "message": "O'rganish eslatmasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceSettings": {
+    "message": "Ovoz sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessage": {
+    "message": "Xush kelibsiz so'zi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarks": {
+    "message": "Kirish so'zi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "briefIntroHint": {
+    "message": "AI yordamchini sodda taqdim etish, foydalanuvchilarga ko'rsatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSettings": {
+    "message": "Katta model sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccess": {
+    "message": "Muvaffaqiyatli yuklandi!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageTooBig": {
+    "message": "Rasm hajmi 2MB dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileTypeNotSupported": {
+    "message": "Fayl turi qo'llab-quvvatlanmaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "defaultAssistant": {
+    "message": "Standart AI yordamchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModel": {
+    "message": "Katta model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modify": {
+    "message": "O'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatar": {
+    "message": "Avatar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelType": {
+    "message": "Katta model turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelTongyi": {
+    "message": "Qwen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelDoubao": {
+    "message": "Doubao",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarningTitle": {
+    "message": "Ogohlantirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadSuccessful": {
+    "message": "Muvaffaqiyatli yuklandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccessful": {
+    "message": "Muvaffaqiyatli o'zgartirildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccessful": {
+    "message": "Muvaffaqiyatli qo'shildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modificationAiAssistant": {
+    "message": "AI yordamchini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistantConfirm": {
+    "message": "{name} o'chirilgandan so'ng, bu AI yordamchidan foydalanib bo'lmaydi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyLink": {
+    "message": "Havolani nusxalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scanCodeShareAi": {
+    "message": "QR kod orqali AI yordamchini ulashish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "share": {
+    "message": "Ulashish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copySuccess": {
+    "message": "Muvaffaqiyatli nusxalandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteManagement": {
+    "message": "Saytni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageWebsiteConfig": {
+    "message": "Joriy veb-saytning asosiy konfiguratsiyasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteName": {
+    "message": "Veb-sayt nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteLogo": {
+    "message": "Veb-sayt logosi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadRequirements": {
+    "message": "JPG, JPEG, PNG formatlarini qo'llab-quvvatlaydi, hajmi 2M dan oshmasligi kerak. Tavsiya etiladigan o'lcham: 300*60",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWebsiteTitle": {
+    "message": "Iltimos veb-sayt sarlavhasini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteTitleMaxLength": {
+    "message": "Veb-sayt sarlavhasi ko'pi bilan 50 ta belgi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadLogo": {
+    "message": "Iltimos veb-sayt logosi yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiEmpowerment": {
+    "message": "AI imkoniyatlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagement": {
+    "message": "Tashkilotni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgManagementInstruction": {
+    "message": "Tashkilotning AI yordamchi konfiguratsiyasi va boshqalarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allLoginPermissions": {
+    "message": "Barcha kirish huquqlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAiAssistantCreatePermissions": {
+    "message": "Barcha AI yordamchi yaratish huquqlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginPermissionStatus": {
+    "message": "Kirish huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionStatus": {
+    "message": "AI yordamchi yaratish huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfig": {
+    "message": "Huquqlar konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "featureConfig": {
+    "message": "Funksiyalar konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicConfig": {
+    "message": "Asosiy konfiguratsiya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelType": {
+    "message": "Katta til modeli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tongyiModel": {
+    "message": "Qwen",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoModel": {
+    "message": "Doubao",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doubaoDaily": {
+    "message": "Doubao kunlik miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDaily": {
+    "message": "Iltimos Doubao kunlik miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDoubaoDailyNumber": {
+    "message": "Doubao kunlik miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokenPerDay": {
+    "message": "token/kun",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayRemaining": {
+    "message": "Bugungi qolgan miqdor:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalUsed": {
+    "message": "Tashkilot tomonidan jami ishlatilgan:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantConfig": {
+    "message": "AI yordamchi konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputTotalRemaining": {
+    "message": "Ovozli kiritish jami qolgan miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceInputTotal": {
+    "message": "Iltimos ovozli kiritish jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "characters": {
+    "message": "Belgi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsed": {
+    "message": "Tashkilot tomonidan ishlatilgan:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastTotalRemaining": {
+    "message": "Ovozli e'lon qilish jami qolgan miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVoiceBroadcastTotal": {
+    "message": "Iltimos ovozli e'lon qilish jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHuman": {
+    "message": "Raqamli inson",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectDigitalHuman": {
+    "message": "Raqamli odamni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfig": {
+    "message": "AI vositalari konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiTools": {
+    "message": "AI vositasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentCorrection": {
+    "message": "Aqlli tekshirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysis": {
+    "message": "Video tahlili",
+    "description": "aiAssistantManagezh.json"
+  },
+  "documentReading": {
+    "message": "Hujjat o'qish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognition": {
+    "message": "Formula tanish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAnalysisTotalRemaining": {
+    "message": "Video tahlili jami qolgan miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisTotal": {
+    "message": "Iltimos video tahlili jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterVideoAnalysisNumber": {
+    "message": "Video tahlili jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "minutes": {
+    "message": "Daqiqa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSource": {
+    "message": "Bilim manbai",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formulaRecognitionTotalRemaining": {
+    "message": "Formula tanish jami qolgan miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionTotal": {
+    "message": "Iltimos formula tanish jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterFormulaRecognitionNumber": {
+    "message": "Formula tanish jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "times": {
+    "message": "Marta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrg": {
+    "message": "Tashkilot konfiguratsiyasi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermission": {
+    "message": "AI agenti kirish huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint": {
+    "message": "AI agenti kirish huquqi yoqilgandan so'ng, tashkilotdagi barcha administratorlar va o'qituvchilar AI agenti boshqaruv tizimiga kirishlari mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermission": {
+    "message": "AI yordamchi yaratish huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint": {
+    "message": "AI yordamchi yaratish huquqi yoqilgandan so'ng, ushbu tashkilotdagi barcha administratorlar/o'qituvchilar AI yordamchi yaratishlari mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiLoginPermissionHint1": {
+    "message": "AI agenti kirish huquqi yoqilgandan so'ng, bu administrator/o'qituvchi AI agenti boshqaruv tizimiga kirishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantCreatePermissionHint1": {
+    "message": "AI yordamchi yaratish huquqi yoqilgandan so'ng, bu administrator/o'qituvchi AI yordamchi yaratishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "open": {
+    "message": "Yoqish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enableding": {
+    "message": "Yoqilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notOpening": {
+    "message": "O'chirilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagement": {
+    "message": "Foydalanuvchilarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManageInstruction": {
+    "message": "Foydalanuvchilarning AI yordamchi huquqlar konfiguratsiyasini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOrg": {
+    "message": "Barcha tashkilotlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allRoles": {
+    "message": "Barcha rollar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "account": {
+    "message": "Hisob",
+    "description": "aiAssistantManagezh.json"
+  },
+  "role": {
+    "message": "Rol",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacher": {
+    "message": "O'qituvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "admin": {
+    "message": "Administrator",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToOrg": {
+    "message": "Tegishli tashkilot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "permissionConfigUser": {
+    "message": "Huquq konfiguratsiyasi foydalanuvchisi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "close": {
+    "message": "O'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceInputNumberRequired": {
+    "message": "Ovozli kiritish jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceBroadcastNumberRequired": {
+    "message": "Ovozli e'lon qilish jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameOrganization": {
+    "message": "Tashkilot nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "searchingConversationContent": {
+    "message": "Sessiya mazmunini qidirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "student": {
+    "message": "Talaba",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTime": {
+    "message": "Boshlanish vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endTime": {
+    "message": "Tugash vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "to": {
+    "message": "gacha",
+    "description": "aiAssistantManagezh.json"
+  },
+  "questionUser": {
+    "message": "Foydalanuvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleDesc": {
+    "message": "Foydalanuvchi roli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionStartTime": {
+    "message": "Sessiya boshlanish vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sessionEndTime": {
+    "message": "Sessiya tugash vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeQa": {
+    "message": "Bilimlar bazasiga savol-javob juftligini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Bilimlar bazasini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noMoreData": {
+    "message": "Boshqa yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addres": {
+    "message": "Resurs qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "yes": {
+    "message": "Ha",
+    "description": "aiAssistantManagezh.json"
+  },
+  "no": {
+    "message": "Yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceSlicing": {
+    "message": "Resurs kesmalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceResource": {
+    "message": "Resurs kesilmaydi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSliceDesc": {
+    "message": "Resursning matn mazmuni butun shaklda mavjud bo'ladi, faqat umumiy qidirishni amalga oshirish mumkin, aniqroq joylashishni amalga oshirish qiyin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceResource": {
+    "message": "Resurs kesmalari:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceDesc": {
+    "message": "Resurs matn mazmuni bir nechta kichik kesmalarga bo'linadi, aqlli savol-javob paytida, har xil kesmalarga alohida qidirishni amalga oshirish mumkin, bu qidirish aniqligi va samaradorligini oshiradi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "whetherToSlice": {
+    "message": "Kesiladimi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccess": {
+    "message": "Muvaffaqiyatli import qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteResource": {
+    "message": "Resursni o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileSizeLimit": {
+    "message": "Fayl hajmi 500MB dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendForYou": {
+    "message": "Siz uchun quyidagi o'rganish resurslarini tavsiya etamiz:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Katta siyosiy ta'lim resurslar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nationalWebsite": {
+    "message": "Davlat aqlli ta'lim jamoat xizmatlari platformasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearn": {
+    "message": "Yu Akademiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.contentOperation": {
+    "message": "Mazmun operatsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.PPTManagement": {
+    "message": "PPT shablonlarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "Ulearning": {
+    "message": "ULearning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Resurslarni qidirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hownet": {
+    "message": "CNKI",
+    "description": "aiAssistantManagezh.json"
+  },
+  "peopleIdeologyBank": {
+    "message": "moocpeople.cn",
+    "description": "aiAssistantManagezh.json"
+  },
+  "schoolResource": {
+    "message": "Bizning maktab resurslari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "scopeResourceRetrieval": {
+    "message": "Resurs qidirish doirasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectResourceSearchScope": {
+    "message": "Iltimos resurs qidirish doirasini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitor": {
+    "message": "Mehmon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSlogan": {
+    "message": "Kelajak ta'limiga aql bilan yo'l ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteDescription": {
+    "message": "Oliy ta'lim muassasalari AI o'qitish agentlari, ta'limning raqamli aqlli transformatsiyasini ilgari suradi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moocpeople": {
+    "message": "People.cn Open Courses",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteSubSlogan": {
+    "message": "Aqliy sifatni oshirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "websiteFooter": {
+    "message": "Siyosiy ta'lim jarayonini to'liq qo'llab-quvvatlash, siyosiy boshqaruv kuchini kuchaytirishga yordam berish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allTemplateTypes": {
+    "message": "Barcha shablon turlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateManagement": {
+    "message": "Mazmun shablonlarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addContentTemplate": {
+    "message": "Mazmun shablonini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startSorting": {
+    "message": "Tartiblashni boshlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endSorting": {
+    "message": "Tartiblashni tugatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "templateType": {
+    "message": "Shablon turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTemplate": {
+    "message": "Mavzu shablonlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "catalogTemplate": {
+    "message": "Katalog shablonlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentPageTemplate": {
+    "message": "Ichki sahifa shablonlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "itemCount": {
+    "message": "Elementlar soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "download": {
+    "message": "Yuklab olish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectContentTemplateType": {
+    "message": "Mazmun shablon turini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplateType": {
+    "message": "Mazmun shablon turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptName": {
+    "message": "PPT nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameRequired": {
+    "message": "PPT nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptNameMaxLength": {
+    "message": "PPT nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortSuccessful": {
+    "message": "Muvaffaqiyatli o'zgartirildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortFailed": {
+    "message": "O'zgartirish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addThemeTemplate": {
+    "message": "Mavzu shablonini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentTemplate": {
+    "message": "Mazmun shablonlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptManagementInstruction": {
+    "message": "AI vositalarida PPT generatsiyasi uchun barcha PPT shablonlarini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder": {
+    "message": "Papka",
+    "description": "aiAssistantManagezh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantManagezh.json"
+  },
+  "image": {
+    "message": "Rasm",
+    "description": "aiAssistantManagezh.json"
+  },
+  "richtext": {
+    "message": "Rasm va matn",
+    "description": "aiAssistantManagezh.json"
+  },
+  "link": {
+    "message": "Havola",
+    "description": "aiAssistantManagezh.json"
+  },
+  "question": {
+    "message": "Imtihon savoli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exam": {
+    "message": "Imtihon varaqasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "virtual": {
+    "message": "Virtual simulyatsiya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "other": {
+    "message": "Boshqa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.agentSquare": {
+    "message": "Agentlar maydoni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addDirectoryTemplates": {
+    "message": "Katalog shablonini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInternalPageTemplate": {
+    "message": "Ichki sahifa shablonini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deepSeekR1Daily": {
+    "message": "DeepSeek-R1 kunlik miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1Daily": {
+    "message": "Iltimos DeepSeek-R1 kunlik miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDeepSeekR1DailyNumber": {
+    "message": "DeepSeek-R1 kunlik miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT generatsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPptGenerationTotal": {
+    "message": "Iltimos PPT generatsiyasi jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptGenerationNumberRequired": {
+    "message": "PPT generatsiyasi jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "timesPerDay": {
+    "message": "marta/kun",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Kalit so'zni kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquareSearch": {
+    "message": "Qidirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "shareToAgentSquare": {
+    "message": "Agentlar maydoniga ulashish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgentSquarePermissions": {
+    "message": "Barcha agentlar maydoni huquqlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionStatus": {
+    "message": "Agentlar maydoni huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermission": {
+    "message": "Agentlar maydoni huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentSquarePermissionHint": {
+    "message": "Agentlar maydoni huquqlari tashkilot bo'yicha ochiladi, yakka foydalanuvchi bo'yicha ochilmaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceContent": {
+    "message": "Resurs mazmuni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSlice": {
+    "message": "Kesma qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "slice": {
+    "message": "Kesma",
+    "description": "aiAssistantManagezh.json"
+  },
+  "save": {
+    "message": "Saqlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterContent": {
+    "message": "Iltimos mazmunni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noResourceSlice": {
+    "message": "Resurs kesmalari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSliceContentFirst": {
+    "message": "Avval kesma mazmunini saqlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDelete": {
+    "message": "O'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "mute": {
+    "message": "Sizsizlantirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unmute": {
+    "message": "Sizsizlantirishni bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "play": {
+    "message": "Ijro etish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pause": {
+    "message": "To'xtatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fullscreen": {
+    "message": "To'liq ekran",
+    "description": "aiAssistantManagezh.json"
+  },
+  "transcoding": {
+    "message": "Kodlanmoqda, iltimos keyinroq ko'ring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitWebsite": {
+    "message": "Bu veb-sayt manziliga kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "Ushbu faylni onlayn ko'rish qo'llab-quvvatlanmaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseTeam": {
+    "message": "Kurs jamoasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "courseIntroduction": {
+    "message": "Kurs tavsifi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadNotComplete": {
+    "message": "Yuklash hali tugallanmadi, yuklashni bekor qilasizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelUpload": {
+    "message": "Yuklashni bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "continueUpload": {
+    "message": "Yuklashni davom ettirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploading": {
+    "message": "{count} element yuklanmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishToAgentSquare": {
+    "message": "Agentlar maydoniga e'lon qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "published": {
+    "message": "E'lon qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPublished": {
+    "message": "E'lon qilinmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setFailed": {
+    "message": "Sozlash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.sortManagement": {
+    "message": "Tasniflarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSameLevel": {
+    "message": "Bir darajaga qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.addSubLevel": {
+    "message": "Quyi darajaga qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.modifyCategory": {
+    "message": "Tasnifni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.deleteCategory": {
+    "message": "Tasnifni o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.name": {
+    "message": "Nom",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.pleaseEnterCategoryName": {
+    "message": "Iltimos tasnif nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.cancel": {
+    "message": "Bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.confirm": {
+    "message": "Tasdiqlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.all": {
+    "message": "Barchasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.uncategorized": {
+    "message": "Tasniflanmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPublishStatus": {
+    "message": "Barcha e'lon qilish holatlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBase": {
+    "message": "Siz {num} ta bilimlar bazasini tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputNameSearch": {
+    "message": "Nomni kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sort": {
+    "message": "Tasnif",
+    "description": "aiAssistantManagezh.json"
+  },
+  "category": {
+    "message": "Tegishli tasnif",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAll": {
+    "message": "Barchasini tanlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "goCreateAgent": {
+    "message": "Agent yaratishga o'ting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setSort": {
+    "message": "Tasnifni sozlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.personalSpace": {
+    "message": "Shaxsiy makon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelTraining": {
+    "message": "Modelni o'rgatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiAssistantManagement": {
+    "message": "AI yordamchini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeManagement": {
+    "message": "Bilimlar bazasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.appManage": {
+    "message": "Ilovalarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.link": {
+    "message": "Havola",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageCurrentAccountInstructions1": {
+    "message": "Agent uchun ko'rsatma shablonlarini yarating, tezkor protsedir so'zlarini taqdim eting.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllKnowledgeBase1": {
+    "message": "O'qitish bilimlar bazasini quring, agentga professional bilimlar manbalarini taqdim eting.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantManagement1": {
+    "message": "Mening AI yordamchim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageAllAiAssistants1": {
+    "message": "Katta modelga asoslangan AI agent ilovalarini yarating va tashkil eting.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements1": {
+    "message": "JPG, JPEG, PNG, GIF formatlarini qo'llab-quvvatlaydi, hajmi 2M dan oshmasligi kerak. Tavsiya etiladigan o'lcham: 400*400",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraining": {
+    "message": "Modelni o'rgatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTrainingIntro": {
+    "message": "Tizim vertikal soha modelini o'rgatish vositalarini taqdim etadi, bu yerda mavjud ma'lumotlar to'plamidan foydalanib modelni o'rgatishingiz mumkin, o'rgatilgan model eksport qilingandan so'ng ilovalarni joylashtirishni qo'llab-quvvatlaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModel": {
+    "message": "Asosiy model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType": {
+    "message": "O'rgatish turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTask": {
+    "message": "Vazifani bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLog": {
+    "message": "Jurnalni ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteTask": {
+    "message": "Vazifani o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModel": {
+    "message": "Modelni yuklab olish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "waiting": {
+    "message": "Kutilmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "training": {
+    "message": "O'rgatilmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failed": {
+    "message": "Muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "completed": {
+    "message": "Tugallandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelled": {
+    "message": "Bekor qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTask": {
+    "message": "Vazifa yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTrainingTask": {
+    "message": "O'rgatish vazifasini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "taskName": {
+    "message": "Vazifa nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataset": {
+    "message": "Ma'lumotlar to'plami",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadData": {
+    "message": "Ma'lumotlarni yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExample": {
+    "message": "Misolni yuklab olish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingParameterConfiguration": {
+    "message": "O'rgatish parametrlari konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputTextLengthTip": {
+    "message": "Kiritilgan matnning maksimal uzunligi (Max Length):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchTrainingNumber": {
+    "message": "Partiya o'rgatish miqdori (Batch Size):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataTraversalRound": {
+    "message": "Ma'lumotlar o'tishi raundlari (Epoch):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gradientAccumulationSteps": {
+    "message": "Gradiyent to'planish qadamlari (Gradient Accumulation Steps):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRate": {
+    "message": "O'rganish darajasi (Learning Rate):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningRateRatio": {
+    "message": "O'rganish darajasi isish nisbati (Warm-Up Ratio):",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRARank": {
+    "message": "LoRA-Rank:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loRAAlpha": {
+    "message": "LoRA-alpha:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewTaskDetails": {
+    "message": "Vazifa tafsilotlarini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingTaskLog": {
+    "message": "O'rgatish vazifasi jurnali",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startTraining": {
+    "message": "O'rgatishni boshlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType1": {
+    "message": "SFT to'liq parametr o'rgatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "trainingType2": {
+    "message": "LoRA nozik sozlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "keyword": {
+    "message": "Kalit so'zlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTask": {
+    "message": "O'rgatish vazifalari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskName": {
+    "message": "Iltimos vazifa nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTaskNameTip": {
+    "message": "Vazifa nomi 1-{n} belgi bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip": {
+    "message": "Iltimos ma'lumotlar to'plamini yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip1": {
+    "message": "Ma'lumotlar to'plami fayli {n}M dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDataTip2": {
+    "message": "Ko'pi bilan {n} ta ma'lumotlar to'plami yuklanishi mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmCancelTask": {
+    "message": "Vazifani bekor qilishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelSuccess": {
+    "message": "Muvaffaqiyatli bekor qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelFail": {
+    "message": "Bekor qilish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTask": {
+    "message": "Vazifani o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteFail": {
+    "message": "O'chirish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveSuccess": {
+    "message": "Muvaffaqiyatli saqlandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveFail": {
+    "message": "Saqlash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile": {
+    "message": "Yuklash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileTip": {
+    "message": "Fayllar yuklanmoqda, iltimos keyinroq yuboring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "basicModelTip": {
+    "message": "Asosiy model bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noLog": {
+    "message": "Jurnal yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inCompression": {
+    "message": "Siqilmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip": {
+    "message": "Model fayli katta, yuklab olish manzili elektron pochtangizga yuboriladi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "email": {
+    "message": "Elektron pochta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip": {
+    "message": "Iltimos elektron pochta manzilini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "emailTip1": {
+    "message": "Iltimos to'g'ri elektron pochta manzilini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCode": {
+    "message": "Tasdiqlash kodi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verificationCodeTip": {
+    "message": "Iltimos tasdiqlash kodini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadModelTip1": {
+    "message": "Yuklab olish vazifasi yuborildi, iltimos keyinroq pochtangizni tekshiring.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getIt": {
+    "message": "Tushundim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTraingHint": {
+    "message": "Joriy versiya faqat namoyish uchun! Ochilgandan so'ng tashkilotdagi barcha foydalanuvchilar ko'rishi mumkin, rasmiy tashkilotlar uchun ochilmaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCourses": {
+    "message": "Yozib olingan kurslar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recordedCoursesCount": {
+    "message": "Yozib olingan kurslar soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputRecordedCourseName": {
+    "message": "Yozib olingan kurs nomini kiriting va qidiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRecordedCourses": {
+    "message": "Yozib olingan kurslar yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalDuration": {
+    "message": "Umumiy davomiylik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyAvailable": {
+    "message": "Iltimos kunlik foydalanish mumkin bo'lgan miqdorni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalCount": {
+    "message": "Umumiy miqdor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dailyCount": {
+    "message": "Kunlik miqdor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalDuration": {
+    "message": "Tashkilot tomonidan ishlatilgan umumiy davomiylik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgUsedTotalCount": {
+    "message": "Tashkilot tomonidan ishlatilgan umumiy miqdor",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataCannotBeLessThanZero": {
+    "message": "Ma'lumot 0 dan kichik bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotBeLessThanZero": {
+    "message": "0 dan kichik bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImport": {
+    "message": "Excel import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImport": {
+    "message": "Ommaviy import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "downloadExcelTemplate": {
+    "message": "Excel shablonini yuklab olish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFileBtn": {
+    "message": "Faylni yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importing": {
+    "message": "Import qilinmoqda, iltimos oyna yoki sahifani yopmang...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount": {
+    "message": "Muvaffaqiyatli import qilindi, {num} ta ko'rsatma import qilindi!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileHasProblems": {
+    "message": "Faylda quyidagi muammolar mavjud, iltimos tekshiring va o'zgartirgandan so'ng qayta yuklang:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyResource": {
+    "message": "O'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceName": {
+    "message": "Resurs nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameRequired": {
+    "message": "Resurs nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceNameMaxLength": {
+    "message": "Resurs nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterResourceName": {
+    "message": "Iltimos resurs nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allAgents": {
+    "message": "Barcha agentlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalAgent": {
+    "message": "Ichki agentlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalAgent": {
+    "message": "Tashqi agentlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalAgent": {
+    "message": "Tashqi agent qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalAgent": {
+    "message": "Tashqi agentni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentName": {
+    "message": "Agent nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentName": {
+    "message": "Iltimos agent nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentIntro": {
+    "message": "Agent haqida qisqacha ma'lumot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAgentIntro": {
+    "message": "Iltimos agent haqida qisqacha ma'lumotni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAgentLink": {
+    "message": "Iltimos tashqi agent havolasini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisher": {
+    "message": "E'lon qiluvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterPublisherInfo": {
+    "message": "Iltimos e'lon qiluvchi ma'lumotlarini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpType": {
+    "message": "O'tish usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "currentPage": {
+    "message": "Joriy sahifa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "newPage": {
+    "message": "Yangi sahifa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameRequired": {
+    "message": "Nom bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ainameMaxLength": {
+    "message": "Nom 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appIntroMaxLength": {
+    "message": "Ilova qisqacha ma'lumoti 2000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkRequired": {
+    "message": "Havola bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkMaxLength": {
+    "message": "Havola 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "linkFormatError": {
+    "message": "Havola formati noto'g'ri",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publisherMaxLength": {
+    "message": "E'lon qiluvchi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpTypeRequired": {
+    "message": "O'tish usuli bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setTopPlacement": {
+    "message": "Yuqoriga qo'yish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelTopPlacement": {
+    "message": "Yuqoriga qo'yishni bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editSuccess": {
+    "message": "Muvaffaqiyatli o'zgartirildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addSuccess": {
+    "message": "Muvaffaqiyatli qo'shildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantColon": {
+    "message": "AI yordamchi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "creatorColon": {
+    "message": "Yaratuvchi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethod": {
+    "message": "Tasniflash usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedCategories": {
+    "message": "Siz {num} ta tasnifni tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sortManagementInstruction": {
+    "message": "Tashkilot tomonidan yaratilgan barcha agentlarni tasniflash boshqaruvi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "add": {
+    "message": "Qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategory": {
+    "message": "Tasnif qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryName": {
+    "message": "Tasnif nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategoryMethod": {
+    "message": "Tasniflash usulini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategoryMethod": {
+    "message": "Tasniflash usulini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryMethodName": {
+    "message": "Iltimos tasniflash usuli nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongToCategoryMethod": {
+    "message": "Tegishli tasniflash usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryRequired": {
+    "message": "Tasnif bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMaxLength": {
+    "message": "Tasnif 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodRequired": {
+    "message": "Tasniflash usuli bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryMethodMaxLength": {
+    "message": "Tasniflash usuli 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryMethodConfirm": {
+    "message": "Tasniflash usuli ostidagi tasniflar sinxron ravishda o'chiriladi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryConfirm": {
+    "message": "Tasnif ostidagi AI yordamchilari joriy tasnif bilan bog'lanishi bekor qilinadi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagement": {
+    "message": "Tasniflarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyManagementInstruction": {
+    "message": "PPT mavzu shablonlarining tasniflarini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryPPTConfirm": {
+    "message": "Tasnif ostidagi PPT mavzu shablonlari joriy tasnif bilan bog'lanishi bekor qilinadi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classificationSetting": {
+    "message": "Tasnif sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pptThemeTemplate": {
+    "message": "PPT mavzu shablonlari:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classification": {
+    "message": "Tasnif",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedClassifications": {
+    "message": "Siz {num} ta tasnifni tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySuccess": {
+    "message": "Muvaffaqiyatli o'zgartirildi!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColorSetting": {
+    "message": "Mavzu rangi sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeColor": {
+    "message": "Mavzu rangi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appManageInstruction": {
+    "message": "Joriy tashkilotning ichki va tashqi ilovalarini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allApps": {
+    "message": "Barcha ilovalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "internalApp": {
+    "message": "Ichki ilovalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "externalApp": {
+    "message": "Tashqi ilova",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addExternalApp": {
+    "message": "Tashqi ilova qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editExternalApp": {
+    "message": "Tashqi ilovani o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appName": {
+    "message": "Ilova nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppName": {
+    "message": "Iltimos ilova nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameRequired": {
+    "message": "Ilova nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appNameMaxLength": {
+    "message": "Ilova nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescription": {
+    "message": "Ilova haqida qisqacha ma'lumot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterAppDescription": {
+    "message": "Iltimos ilova haqida qisqacha ma'lumotni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appDescriptionMaxLength": {
+    "message": "Ilova qisqacha ma'lumoti 2000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterExternalAppLink": {
+    "message": "Iltimos tashqi ilova havolasini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cover": {
+    "message": "Muqova",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverRequired": {
+    "message": "Ilova muqovasi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coverUploadTip": {
+    "message": "JPG, JPEG, PNG formatlarini qo'llab-quvvatlaydi, hajmi 50M dan oshmasligi kerak. Tavsiya etiladigan o'lcham: 640px*360px (16:9)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethod": {
+    "message": "O'tish usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "jumpMethodRequired": {
+    "message": "O'tish usuli bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "imageSizeTooBig": {
+    "message": "Rasm hajmi 50M dan oshiq",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishSuccess": {
+    "message": "Muvaffaqiyatli e'lon qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBase": {
+    "message": "Bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.instructionSetArchitecture": {
+    "message": "Ko'rsatmalar to'plami",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflow": {
+    "message": "Ish oqimi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.workflowEdit": {
+    "message": "Ish oqimini tashkil etish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "common.requestSuccess": {
+    "message": "So'rov muvaffaqiyatli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequirements2": {
+    "message": "JPG, JPEG, PNG, GIF formatlarini qo'llab-quvvatlaydi, hajmi 2M dan oshmasligi kerak. Tavsiya etiladigan nisbat: 1:1",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDaily": {
+    "message": "{name} kunlik miqdori",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDaily": {
+    "message": "Iltimos {name} kunlik miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterModelDailyNumber": {
+    "message": "{name} kunlik miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadFile1": {
+    "message": "Ilova yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImg": {
+    "message": "Rasmlarni yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgIntro": {
+    "message": "Rasmlarni yuklash uchun ko'p modal katta model rasmlarni tushunishi kerak. <br /> Rasm yuklash funksiyasini yoqish uchun ko'p modal katta modelni sinxron ravishda yoqish kerak.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelIntro": {
+    "message": "Ko'p modal katta model rasmlar mazmunini tushunishni qo'llab-quvvatlaydi, jumladan dizayn loyihalari kabi matnsiz rasmlarni, rasm mazmuniga asoslangan savol-javobni qo'llab-quvvatlaydi. <br/> Ko'p modal katta modelni belgilash, rasm yuklash funksiyasini sinxron ravishda yoqadi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModel": {
+    "message": "Ko'p modal katta model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro1": {
+    "message": "Ochilgandan so'ng, tashkilotdagi barcha administrator va o'qituvchi foydalanuvchilar foydalanishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowIntro2": {
+    "message": "Ish oqimi vizual jarayon tashkil etishi orqali avtomatlashtirilgan vazifalarni boshqarish vositasidir. Ish oqimi mustaqil ilova sifatida e'lon qilinishi mumkin, shuningdek agent plagini sifatida suhbatda til ko'rsatmalari orqali chaqirilishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createWorkflow": {
+    "message": "Ish oqimini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyWorkflow": {
+    "message": "Ish oqimini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestration": {
+    "message": "Tashkil etish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visit": {
+    "message": "Kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "icon": {
+    "message": "Belgi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "description": {
+    "message": "Tavsif",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameRequired": {
+    "message": "Iltimos ish oqimi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowNameMaxLength": {
+    "message": "Nom 1-200 ta belgi bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitSettingTitle": {
+    "message": "Kirish sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "simplifiedChinese": {
+    "message": "Soddalashtirilgan xitoycha",
+    "description": "aiAssistantManagezh.json"
+  },
+  "traditionalChinese": {
+    "message": "An'anaviy xitoycha",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitIp": {
+    "message": "Kirish manzili",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notEnabled": {
+    "message": "Yoqilmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "running": {
+    "message": "Yoqilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copy": {
+    "message": "Nusxalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSetting": {
+    "message": "Funksiya sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingInfo": {
+    "message": "Ish vaqtida ish oqimi tafsilotlarini yashirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermission": {
+    "message": "Kirish huquqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo1": {
+    "message": "Kirgandan so'ng kirishga ruxsat berish, doira cheklanmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo2": {
+    "message": "Kirgandan so'ng kirishga ruxsat berish, faqat bizning maktab foydalanuvchilari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "visitPermissionInfo3": {
+    "message": "Ochiq kirishga ruxsat berish, kirish talab qilinmaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflow": {
+    "message": "Ish oqimini o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWorkflowTip": {
+    "message": "Ish oqimi o'chirilgandan so'ng, barcha kirish yozuvlari sinxron ravishda o'chiriladi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Kirish huquqi yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Xizmat yoqilmagan, kirish huquqi yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectIcon": {
+    "message": "Belgini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadIcon": {
+    "message": "Belgini yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "draft": {
+    "message": "Qoralama",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewLanguage": {
+    "message": "Interfeys tili",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImgError": {
+    "message": "Rasm hajmi 2M dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "avatarRequired1": {
+    "message": "Iltimos belgini yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterWorkflowTip": {
+    "message": "Iltimos ish oqimi tavsifini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cropIcon": {
+    "message": "Belgini kesish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.InstructionManagement": {
+    "message": "Ko'rsatma shablonlarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.aiArrange": {
+    "message": "AI tashkil etishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportTemplate": {
+    "message": "Ko'rsatma shablonlarini ommaviy import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchImportQueAnsTemplate": {
+    "message": "Savol-javob juftliklari shablonlarini ommaviy import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeColon": {
+    "message": "Yaratilgan vaqti:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveDraft": {
+    "message": "Qoralama sifatida saqlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPublish": {
+    "message": "Saqlash va e'lon qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfiguration": {
+    "message": "Model konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodalLargeModelDescription": {
+    "message": "Ko'p modal katta model rasmlar mazmunini tushunishni qo'llab-quvvatlaydi, rasm mazmuniga asoslangan savol-javobni qo'llab-quvvatlaydi. <br/> Ko'p modal katta modelni belgilash, rasm yuklash funksiyasini sinxron ravishda yoqadi. <br/> Ushbu model hozircha ish oqimi kabi vositalarni mustaqil chaqirishni qo'llab-quvvatlamaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "multimodal": {
+    "message": "Ko'p modal",
+    "description": "aiAssistantManagezh.json"
+  },
+  "preferredLargeModel": {
+    "message": "Tanlangan katta model",
+    "description": "aiAssistantManagezh.json"
+  },
+  "setAsPreferred": {
+    "message": "Tanlangan sifatida belgilash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "debugAndPreview": {
+    "message": "Tuzatish va oldindan ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "saveAndPreview": {
+    "message": "Saqlash va oldindan ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings": {
+    "message": "Rol sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningRequired": {
+    "message": "Xush kelibsiz so'zi va kirish so'zi bo'sh bo'lishi mumkin emas, to'ldirilgandan so'ng, oldindan ko'rish mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "possibleQuestionRequired": {
+    "message": "Savol berish mumkin bo'lganlar bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "update": {
+    "message": "Yangilash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instruction": {
+    "message": "Promt",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledge": {
+    "message": "Bilim",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skills": {
+    "message": "Ko'nikma",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectStatus": {
+    "message": "Iltimos holatni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "statistics": {
+    "message": "Statistika",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unit": {
+    "message": "ta",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allStatus": {
+    "message": "Barcha holatlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openingRemarksMaxLength1000": {
+    "message": "Kirish so'zi 1000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "welcomeMessageAndOpeningTitle": {
+    "message": "Xush kelibsiz so'zi va kirish so'zi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterWelcomeMessageAndOpeningPlaceholder": {
+    "message": "Iltimos xush kelibsiz so'zi va kirish so'zini kiriting, AI yordamchisini tez tushunishga yordam bering.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterPossibleQuestionPlaceholder": {
+    "message": "Foydalanuvchi so'rashi mumkin bo'lgan savollarni kiriting, foydalanuvchini suhbatni boshlashga yo'naltiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addQuestion": {
+    "message": "Savol qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanAppearance": {
+    "message": "Raqamli inson qiyofasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectDigitalHumanAppearance": {
+    "message": "Iltimos raqamli odam obrazini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettingPlaceholder": {
+    "message": "Tizimning koʻrsatma soʻzlarini toʻldiring, shaxsiyat va javob berish mantiqiga bir qator cheklovlar qoʻying.\nMisol:\nRol\nSiz Xitoyning zamonaviy va yangi tarixi fanini oʻqituvchi oliy taʼlim muassasasi oʻqituvchisiz.\nVazifa\nMenga Xitoyning zamonaviy va yangi tarixi fanini darsga tayyorlashda yordam bering.\nTalablar\nXitoyning zamonaviy va yangi tarixi faniga aloqasi boʻlmagan mavzular uchun toʻgʻridan-toʻgʻri javob bering: Men Xitoyning zamonaviy va yangi tarixi faniga aloqasi boʻlmagan savollarga javob berishni yoʻqlayman.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteOperationCancelled": {
+    "message": "O'chirish amali bekor qilindi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiveQuestions": {
+    "message": "Ko'pi bilan 5 ta savol qo'shish mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchDelete": {
+    "message": "Ommaviy o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Bilimlar bazasini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBaseCount": {
+    "message": "Jami {count} ta bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "showKnowledgeSource": {
+    "message": "Bilim manbalarini ko'rsatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeSourceTooltip": {
+    "message": "Bilim manbalarini ko'rsatishni yoqish: Savol-javob jarayonida, bilimlar bazasidagi resurs nomlari bilim manbalarida ko'rsatiladi. <br/> Bilim manbalarini ko'rsatishni o'chirish: Savol-javob jarayonida, bilimlar bazasi nomlari to'g'ridan-to'g'ri ko'rsatiladi, bilimlar bazasidagi resurs nomlari bilim manbalarida ko'rsatilmaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addKnowledgeBaseNow": {
+    "message": "Bilimlar bazasini darhol qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "youHaveSelected": {
+    "message": "Siz tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseUnit": {
+    "message": "ta bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteKnowledgeBase": {
+    "message": "{name} bilimlar bazasini o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionDisplaySettings": {
+    "message": "Tezkor ko'rsatma ko'rsatish sozlamalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByLongInstruction": {
+    "message": "Uzun ko'rsatma bo'yicha ko'rsatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "displayByShortInstruction": {
+    "message": "Qisqa ko'rsatma bo'yicha ko'rsatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addInstruction": {
+    "message": "Ko'rsatma qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectInstruction": {
+    "message": "Ko'rsatmani tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allWithCount": {
+    "message": "Barchasi ({count})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionDetails": {
+    "message": "Ko'rsatma tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedInstructionCount": {
+    "message": "ta ko'rsatma",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreatedInstructions": {
+    "message": "Men yaratganman",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sharedTemplates": {
+    "message": "Ulashilgan shablonlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionTitle": {
+    "message": "Iltimos ko'rsatma sarlavhasini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterInstructionDescription": {
+    "message": "Iltimos ko'rsatma izohini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteInstruction": {
+    "message": "{title} ko'rsatmasini o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteGroup": {
+    "message": "{name} guruhini o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupNameCannotBeEmpty": {
+    "message": "Guruh nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAtLeastOneInstruction": {
+    "message": "Iltimos kamida bitta ko'rsatmani tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionAddedSuccessfully": {
+    "message": "Ko'rsatma muvaffaqiyatli qo'shildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failedToAddInstruction": {
+    "message": "Ko'rsatma qo'shish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxFiftyGroups": {
+    "message": "Ko'pi bilan 50 ta guruh qo'shish mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "skillConfigTip": {
+    "message": "AI yordamchining xususiyatlariga ko'ra mahoratlarni sozlash, xarakterli AI yordamchini yaratish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dialogueMode": {
+    "message": "Suhbat usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSettingTooltip": {
+    "message": "Bilimlar bazasini sozlash, katta model bilimlar bazasiga asoslanib foydalanuvchi savollariga javob berishi mumkin, savol-javob aniqligini oshiradi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "quickInstructionTooltip": {
+    "message": "Tezkor ko'rsatmalarni sozlash, AI yordamchining xususiyatlariga ko'ra xarakterli ko'rsatmalarni sozlash, AI yordamchi xususiyatini yaratish. Shuningdek, tez-tez ishlatiladigan ko'rsatmalarni AI yordamchiga oldindan o'rnatish, foydalanuvchilar tez chaqirishlari uchun qulay.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formValidationFailed": {
+    "message": "Shakl tasdiqlash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.grantKnowledgeBaseAccess": {
+    "message": "Bilimlar bazasini ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleSettings1": {
+    "message": "Rol va javob mantiqi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseManagement": {
+    "message": "Bilimlar bazasini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAndGrantAccess": {
+    "message": "Butun platformada yaratilgan bilimlar bazalarini ko'rish, tashkilot uchun foydalanish huquqini ochish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseNameOrId": {
+    "message": "Bilimlar bazasi nomi/ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperations": {
+    "message": "Ommaviy amallar:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchGrantAccess": {
+    "message": "Ommaviy ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccess": {
+    "message": "Ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseColon": {
+    "message": "Bilimlar bazasi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBase": {
+    "message": "Bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccess": {
+    "message": "Tashkilotni ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantKnowledgeBaseAccess": {
+    "message": "Bilimlar bazasini ochish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewReferencedKnowledgeBases": {
+    "message": "Joriy tashkilot tomonidan ishlatiladigan bilimlar bazalarini ko'rish. Eslatma: Ro'yxatda tashkilot tomonidan yaratilgan bilimlar bazalari kiritilmagan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBases": {
+    "message": "Tanlangan bilimlar bazalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "revokeAccess": {
+    "message": "Ochishni bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRevokeAccess": {
+    "message": "Ochishni bekor qilishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedOrgs": {
+    "message": "Siz {num} ta tashkilotni tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBasesNums": {
+    "message": "Jami {n} ta bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedOrgs": {
+    "message": "Tanlangan tashkilotlar yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKb": {
+    "message": "Tanlangan bilimlar bazalari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myCreate": {
+    "message": "Men yaratganman",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideUsed": {
+    "message": "Tashqaridan kiritish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "openTime": {
+    "message": "Ochilgan vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledge": {
+    "message": "Siz {num} ta bilimlar bazasini tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantInstitutionAccessName": {
+    "message": "Tashkilotni ochish:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessSuccess": {
+    "message": "Muvaffaqiyatli ochildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "grantAccessFail": {
+    "message": "Ochish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "info": {
+    "message": "Batafsil ma'lumot",
+    "description": "aiAssistantManagezh.json"
+  },
+  "org": {
+    "message": "Tegishli tashkilot:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTimeCon": {
+    "message": "Yaratilgan vaqti:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "outsideKnowledgeCount": {
+    "message": "Bilimlar bazasini ishlatish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterKnowledgeSearch": {
+    "message": "Bilimlar bazasi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagement": {
+    "message": "Umumiy ko'rsatmalarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "instructionManagementDescription": {
+    "message": "Umumiy ko'rsatmalarni boshqarish, barcha tashkilot o'qituvchilari va administratorlari uchun umumiy ko'rsatmalarni tanlash imkoniyati.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGeneration": {
+    "message": "Grafik yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationTotal": {
+    "message": "Iltimos grafik yaratish umumiy miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "graphGenerationNumberRequired": {
+    "message": "Grafik yaratish umumiy miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterGraphGenerationDaily": {
+    "message": "Iltimos grafik yaratish kunlik foydalanish mumkin bo'lgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedbackManagement": {
+    "message": "Savol-javob fikr-mulohazalarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.feedback": {
+    "message": "Savol-javob fikr-mulohazalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfiedFeedback": {
+    "message": "Qoniqarli fikr-mulohazalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfiedFeedback": {
+    "message": "Qoniqarsiz fikr-mulohazalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "report": {
+    "message": "Shikoyat qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackList": {
+    "message": "Fikr-mulohazalar ro'yxati",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allFeedback": {
+    "message": "Barcha fikr-mulohazalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "satisfied": {
+    "message": "Qoniqarli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dissatisfied": {
+    "message": "Qoniqarsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackLabel": {
+    "message": "Fikr-mulohaza teglari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "supplementaryExplanation": {
+    "message": "Qo'shimcha izoh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackType": {
+    "message": "Fikr-mulohaza turi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackPerson": {
+    "message": "Fikr-mulohaza beruvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackTime": {
+    "message": "Fikr-mulohaza vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackDetails": {
+    "message": "Fikr-mulohaza tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyReply": {
+    "message": "Javobni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeReply": {
+    "message": "Javobni olib tashlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "replyRemoved": {
+    "message": "Javob olib tashlandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userQuestion": {
+    "message": "Foydalanuvchi savoli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterReplyContent": {
+    "message": "Iltimos javob mazmunini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemoveReply": {
+    "message": "Javobni olib tashlashni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeSuccess": {
+    "message": "Muvaffaqiyatli olib tashlandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeFailed": {
+    "message": "Olib tashlash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "Zararli/xavfsiz emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pornographicVulgar": {
+    "message": "Pornografik/pastki",
+    "description": "aiAssistantManagezh.json"
+  },
+  "abuseAttack": {
+    "message": "Hujum qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "illegalCriminal": {
+    "message": "Jinoyatchilik",
+    "description": "aiAssistantManagezh.json"
+  },
+  "privacyRelated": {
+    "message": "Maxfiylikga oid",
+    "description": "aiAssistantManagezh.json"
+  },
+  "infringeCopyright": {
+    "message": "Mening mualliflik huquqim, obro'-uquqim va boshqalarga tajovuz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackOther": {
+    "message": "Boshqa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentAccurate": {
+    "message": "Mazmun aniq",
+    "description": "aiAssistantManagezh.json"
+  },
+  "easyToUnderstand": {
+    "message": "Tushunarli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "contentComplete": {
+    "message": "Mazmun to'liq",
+    "description": "aiAssistantManagezh.json"
+  },
+  "falseInformation": {
+    "message": "Ma'lumot yolg'on",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notHelpful": {
+    "message": "Yordam bermaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noReply": {
+    "message": "Javob yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAiAssistantFeedback": {
+    "message": "AI yordamchi savol-javob fikr-mulohazalari holatini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewPlatformFeedback": {
+    "message": "Butun platformadagi savol-javob fikr-mulohazalari holatini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "getFeedbackDetailsFailed": {
+    "message": "Fikr-mulohaza tafsilotlarini olish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseInputMarkdownFormat": {
+    "message": "(Iltimos markdown formatida kiriting)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.DigitalPersonManagement": {
+    "message": "Raqamli odamni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSpace": {
+    "message": "Jamoa makoni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.teamSettings": {
+    "message": "A'zolar va sozlamalar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "browserTabIcon": {
+    "message": "Brauzer yorlig'i belgisi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tabIconUploadTip": {
+    "message": "Tavsiya etiladigan o'lcham: 16×16px (PNG shafffon fon), fayl hajmi 50kb dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exampleImage": {
+    "message": "Misol rasmi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logoUploadTip": {
+    "message": "Tavsiya etiladigan o'lcham: minimal balandlik 30px, kengligi moslashuvchan (PNG shafffon fon), fayl hajmi 150kb dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit50KB": {
+    "message": "Yuklanayotgan rasm hajmi 50KB dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit150KB": {
+    "message": "Yuklanayotgan rasm hajmi 150KB dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadImageSizeLimit6MB": {
+    "message": "Yuklanayotgan rasm hajmi 6MB dan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "domainValidationRule": {
+    "message": "Domen faqat harflar va raqamlarni qo'llab-quvvatlaydi, 10 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyCategory": {
+    "message": "Tasnifni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowSkillPluginTip": {
+    "message": "Ish oqimini mahorat plagini sifatida qo'shish, suhbatda model til ko'rsatmalari asosida ish oqimini mustaqil chaqirishi mumkin. Ba'zi modellar hozircha ish oqimini mustaqil chaqirishni qo'llab-quvvatlamaydi (masalan, Tongyi Qianwen VL), agar chaqirish muvaffaqiyatsiz bo'lsa, boshqa modelni almashtirishga urinib ko'ring yoki ish oqimi plagin tavsifi va parametr izohlarini to'ldiring.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "invalid": {
+    "message": "Kuchini yo'qotgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowDeletedOrPluginNotEnabled": {
+    "message": "Ish oqimi o'chirilgan yoki plagin chaqirishi yoqilmagan.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflow": {
+    "message": "Ish oqimini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addWorkflowPluginHint": {
+    "message": "Ish oqimi plaginini qo'shish uchun, ish oqimi e'lon qilinganligiga va plagin chaqirish funksiyasi yoqilganligiga ishonch hosil qiling.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationNotEnabled": {
+    "message": "Plagin chaqirishi yoqilmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noRelatedContentFound": {
+    "message": "Bog'liq mazmun topilmadi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflowUnit": {
+    "message": "ta ish oqimi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "bindSuccess": {
+    "message": "Muvaffaqiyatli bog'landi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocation": {
+    "message": "Plagin chaqirishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginInvocationTip": {
+    "message": "Agar AI yordamchi suhbatida ish oqimini chaqirmoqchi bo'lsangiz, plagin chaqirish funksiyasini yoqing va tegishli konfiguratsiyani tugating.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginId": {
+    "message": "Plagin ID",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescription": {
+    "message": "Plagin tavsifi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pluginDescriptionPlaceholder": {
+    "message": "Ish oqimining maqsadini tasvirlang, model tushunishi va chaqirishi uchun qulay",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputParameters": {
+    "message": "Kiritish parametrlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "isRequired": {
+    "message": "Majburiymi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "writeType": {
+    "message": "To'ldirish usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userInput": {
+    "message": "Foydalanuvchi kiritishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelRecognition": {
+    "message": "Model tanishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescription": {
+    "message": "Izoh",
+    "description": "aiAssistantManagezh.json"
+  },
+  "parameterDescriptionPlaceholder": {
+    "message": "Parametr izohlarini to'ldiring, model tushunishi va tanishi uchun yordam bering",
+    "description": "aiAssistantManagezh.json"
+  },
+  "descriptionTooLong": {
+    "message": "Tavsif 1000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feedbackSimple": {
+    "message": "Fikr-mulohaza",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTeamSpace": {
+    "message": "Jamoa makonini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noTeamSpace": {
+    "message": "Jamoa makonlari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createNewTeamSpace": {
+    "message": "Yangi jamoa makonini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createSpace": {
+    "message": "Makon yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifySpace": {
+    "message": "Makonni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createTeamSpaceDescription": {
+    "message": "Jamoa makonini yarating, agentlar, bilimlar bazalari, ish oqimlarini birgalikda yaratish va ulashish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceName": {
+    "message": "Jamoa makoni nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameYourTeamSpace": {
+    "message": "Jamoa makoniga nom bering",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTeamSpaceName": {
+    "message": "Iltimos jamoa makoni nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceNameMaxLength": {
+    "message": "Jamoa makoni nomi {n} ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceMaxLength": {
+    "message": "Jamoa makonlari soni {n} tadan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamSpaceDescription": {
+    "message": "Iltimos jamoa makoni tavsifini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "descriptionMaxLength": {
+    "message": "Tavsif {n} ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageSpaceMembersAndInfo": {
+    "message": "Makon a'zolari va makon asosiy ma'lumotlarini boshqarish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "memberManagement": {
+    "message": "A'zolarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationLog": {
+    "message": "A'zolarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "serialNumber": {
+    "message": "Tartib raqami",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userName": {
+    "message": "Ism",
+    "description": "aiAssistantManagezh.json"
+  },
+  "joinTime": {
+    "message": "Qo'shilgan vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeFromTeam": {
+    "message": "Jamoadan chiqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemove": {
+    "message": "Jamoadan chiqarishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMemberSuccess": {
+    "message": "Muvaffaqiyatli jamoadan chiqarildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMemberFailed": {
+    "message": "Jamoadan chiqarish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewPermissions": {
+    "message": "Huquqlarni ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addMember": {
+    "message": "A'zo qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteSpace": {
+    "message": "Makonni o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedMembers": {
+    "message": "Tanlangan a'zolar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterNameOrAccount": {
+    "message": "Iltimos ism/hisobni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteWarning": {
+    "message": "Ehtiyotkor o'chiring, o'chirilgandan so'ng, jamoa makonidagi barcha ma'lumotlar yo'qoladi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTeamSpaceNameToDelete": {
+    "message": "Iltimos o'chirish kerak bo'lgan jamoa makoni nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamNameRequired": {
+    "message": "Jamoa makoni nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teamNameMismatch": {
+    "message": "Kiritilgan jamoa makoni nomi joriy jamoa makoni nomi bilan mos kelmaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedMembersCount": {
+    "message": "Siz {n} ta a'zoni tanladingiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "module": {
+    "message": "Modul",
+    "description": "aiAssistantManagezh.json"
+  },
+  "function": {
+    "message": "Funksiya",
+    "description": "aiAssistantManagezh.json"
+  },
+  "administrator": {
+    "message": "Administrator",
+    "description": "aiAssistantManagezh.json"
+  },
+  "member": {
+    "message": "A'zo",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistant": {
+    "message": "AI yordamchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addAiAssistant": {
+    "message": "AI yordamchini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editAiAssistant": {
+    "message": "AI yordamchini tahrirlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestrateAiAssistant": {
+    "message": "AI yordamchisini tashkil etish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteAiAssistant": {
+    "message": "AI yordamchini o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategorySameLevel": {
+    "message": "Bir darajada tasnif qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCategorySubLevel": {
+    "message": "Quyi darajada tasnif qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategory": {
+    "message": "Tasnifni o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "Bilimlar bazasini o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addResource": {
+    "message": "Resurs qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importTeachingResource": {
+    "message": "O'qitish resurslarini import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editResource": {
+    "message": "Resursni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteResource": {
+    "message": "Resursni o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createQAPair": {
+    "message": "Savol-javob juftligini yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "excelImportQAPair": {
+    "message": "Excel orqali savol-javob juftliklarini import qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "groupManagement": {
+    "message": "Guruhlarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyQAPair": {
+    "message": "Savol-javob juftligini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteQAPair": {
+    "message": "Savol-javob juftligini o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workflow": {
+    "message": "Ish oqimi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editWorkflow": {
+    "message": "Ish oqimini tahrirlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orchestrateWorkflow": {
+    "message": "Ish oqimini tashkil etish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyTeamSpace": {
+    "message": "Jamoa makonini o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyRole": {
+    "message": "Rolni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "removeMember": {
+    "message": "A'zoni chiqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationTime": {
+    "message": "Amal vaqti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operator": {
+    "message": "Amal qiluvchi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationModule": {
+    "message": "Amal moduli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationDetails": {
+    "message": "Amal tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allOperationModules": {
+    "message": "Barcha amal modullari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startDate": {
+    "message": "Boshlanish sanasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "endDate": {
+    "message": "Tugash sanasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userOrchestrating": {
+    "message": "{user} hozirda tashkil etilmoqda, tashkil etishga kirish mumkin emas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseUploadAvatar": {
+    "message": "Iltimos belgini yuklang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noselectedMembers": {
+    "message": "Tanlangan a'zolar yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addFailed": {
+    "message": "Qo'shish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "spaceTip1": {
+    "message": "[{spaceName}] makonidagi [{workflowName}] ish oqimi hozirda tashkil etilmoqda, tashkil etishga kirish mumkin emas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "spaceTip2": {
+    "message": "Shaxsiy makondagi [{workflowName}] ish oqimi hozirda tashkil etilmoqda, tashkil etishga kirish mumkin emas.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanManagement": {
+    "message": "Raqamli odamni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanManagementDesc": {
+    "message": "Platformadagi raqamli odam obrazlarini birlashtirilgan boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createDigitalHuman": {
+    "message": "Raqamli odamni yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "editDigitalHuman": {
+    "message": "Raqamli odamni tahrirlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDigitalHumanName": {
+    "message": "Iltimos raqamli odam nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanDescTip": {
+    "message": "Raqamli odam obrazidan qaysi maktab va hokazolarda foydalanish haqida izoh bering.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDescription": {
+    "message": "Iltimos izohni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortrait": {
+    "message": "Statik obraz rasmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortraitUsage": {
+    "message": "Maqsad: Raqamli odam obrazini tanlashda ko'rsatish uchun ishlatiladi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "requirements": {
+    "message": "Talab:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedSize384512": {
+    "message": "Tavsiya etiladigan o'lcham: 384*512px yoki 3:4",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedFormatPng": {
+    "message": "Tavsiya etiladigan format: png",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadPngTip": {
+    "message": "Tavsiya etiladigan format png, hajmi 2M dan oshmasligi kerak. Tavsiya etiladigan o'lcham: 384px*512px yoki 3:4",
+    "description": "aiAssistantManagezh.json"
+  },
+  "actionPackage": {
+    "message": "Harakat arxiv fayli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "packageRequirements": {
+    "message": "Arxiv fayli talablari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlyZipFormat": {
+    "message": "Faqat zip formatidagi arxiv fayllari yuklanishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "packageNamingOrder": {
+    "message": "Arxiv faylidagi harakat nomlari va tartibi o'ngdagi rasmda ko'rsatilganidek.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder1Greeting": {
+    "message": "Papka 1 [Salomlashish] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder2StandSilent": {
+    "message": "Papka 2 [Turib jimjim qolish] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder3StandSpeak": {
+    "message": "Papka 3 [Turib gapirish] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder4OneHandIntro": {
+    "message": "Papka 4 [Bir qo'l bilan tanishtirish] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folder5TwoHandIntro": {
+    "message": "Papka 5 [Ikkala qo'l bilan tanishtirish] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "folderImageGif": {
+    "message": "Papka image.gif [GIF rasmi] ga mos keladi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "gifRequirementsTitle": {
+    "message": "Arxiv faylidagi GIF rasmi talablari (harakatlarni ajratib ko'rsatish bosqichini yuklash uchun ishlatiladi)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedSize450750": {
+    "message": "Tavsiya etiladigan o'lcham: 450px*750px.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "recommendedFormatGifTransparent": {
+    "message": "Tavsiya etiladigan format: gif, va fon shafffon.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "positionRequirement": {
+    "message": "Joylashuv: Raqamli odam pastki qismga yopishgan, chap va o'ngda juda ko'p bo'sh joy bo'lmasligi kerak. Har bir kadarda bitta o'q bo'lishi kerak, raqamli odam obrazining rasm ichidagi joylashuvi o'zgarmasligi kerak.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "motionRequirement": {
+    "message": "Harakat: Turib jimjim qolish harakati bilan mos kelishi kerak. Harakatning uzluksizligini ta'minlash uchun, harakat amplitudasini juda katta qilmaslik tavsiya etiladi, GIF rasmidagi harakatning birinchi kadr va oxirgi kadri mos kelishi kerak, harakat o'zgarishi mazmuni GIF rasm o'rtasida bo'lishi kerak.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "frameImageRequirementsTitle": {
+    "message": "Arxiv faylidagi beshta harakatning kadma-kad rasm talablari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "size450750Ratio35": {
+    "message": "O'lcham: 450px*750px, kenglik-balandlik nisbati 3:5, kenglik 3, balandlik 5.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "formatPngTransparent": {
+    "message": "Format: png, va fon shafffon.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "positionRequirement2": {
+    "message": "Joylashuv: Raqamli odam pastki qismga yopishgan, chap va o'ngda juda ko'p bo'sh joy bo'lmasligi kerak. Har bir kadarda bitta o'q bo'lishi kerak, raqamli odam obrazining rasm ichidagi joylashuvi o'zgarmasligi kerak.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fiveActionsRequirement": {
+    "message": "Beshta harakat: Harakatning uzluksizligini ta'minlash uchun, har bir harakatning birinchi kadr va oxirgi kadri mos kelishi kerak, harakat o'zgarishi mazmuni eksport qilingan kadma-kad ketma-ketlik o'rtasida bo'lishi kerak.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "framingNamingRule": {
+    "message": "Kadma-kad rasmlarni nomlash qoidasi: Har bir harakatning birinchi rasmi [image_0.png] dan boshlab nomlanadi, keyingi rasmlar raqam ko'payib boradi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanNameRequired": {
+    "message": "Raqamli odam nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanNameMaxLength": {
+    "message": "Raqamli odam nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "digitalHumanDescMaxLength": {
+    "message": "Raqamli odam izohi 2000 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "staticPortraitRequired": {
+    "message": "Statik obraz rasmi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "actionPackageRequired": {
+    "message": "Harakat arxiv fayli bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteDigitalHumanConfirm": {
+    "message": "O'chirilgandan so'ng raqamli odam obrazidan foydalanib bo'lmaydi, o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationSuccess": {
+    "message": "Amal muvaffaqiyatli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "operationFailed": {
+    "message": "Amal muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadActionPackage": {
+    "message": "Harakat arxiv faylini yuklash uchun bosing",
+    "description": "aiAssistantManagezh.json"
+  },
+  "requireFormatZip": {
+    "message": "Talab etiladigan format: zip",
+    "description": "aiAssistantManagezh.json"
+  },
+  "onlyOnePackageSupported": {
+    "message": "Faqat bitta arxiv faylni yuklash qo'llab-quvvatlanadi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "largeModelConfig": {
+    "message": "Katta model konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userManagementHint": {
+    "message": "Faqat tashkilot administratorlari uchun mavjud. Yoqilgandan so'ng, tashkilot administratorlari foydalanuvchi markaziga kirib, o'z tashkiloti hisoblarini qo'shishi va boshqarishi mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConfig": {
+    "message": "Model konfiguratsiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "configOrganization": {
+    "message": "Tashkilot konfiguratsiyasi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelName": {
+    "message": "Model nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelEnabled": {
+    "message": "Model yoqilganmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelClosed": {
+    "message": "O'chirilgan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDailyUsage": {
+    "message": "Model kunlik sarfi (token/kun)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterDailyUsage": {
+    "message": "Iltimos kunlik sarfni kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "todayBalance": {
+    "message": "Bugungi qolgan miqdor:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgTotalTokenUsage": {
+    "message": "Tashkilot token jami sarfi (token)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "networkSearchEnabled": {
+    "message": "Internet qidirish yoqilganmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "networkSearchDailyUsage": {
+    "message": "Internet qidirish kunlik sarfi (marta/kun)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgNetworkSearchTotalUsage": {
+    "message": "Tashkilot internet qidirish jami sarfi (marta)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "NoSettingsHaveBeenConfigured": {
+    "message": "Sozlash elementlari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectPreferredModel": {
+    "message": "Iltimos tanlangan katta modelni sozlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadDocument": {
+    "message": "Hujjat yuklash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectAtLeastOneModel": {
+    "message": "Kamida bitta modelni yoqish shart",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.modelUsage": {
+    "message": "Modeldan foydalanish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "Dars rejasi yaratish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterLessonPlanGenerationTotal": {
+    "message": "Iltimos dars rejasi yaratish jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "lessonPlanGenerationNumberRequired": {
+    "message": "Dars rejasi yaratish jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "returnToTheServiceBackend": {
+    "message": "Xizmat orqa qismiga qaytish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "logInToTheAccount": {
+    "message": "Hisobga kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "dataBoard": {
+    "message": "Ma'lumotlar paneli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageDetails": {
+    "message": "O'qituvchilar foydalanish tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageDetails": {
+    "message": "Talabalar foydalanish tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelConsumption": {
+    "message": "Model sarfi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allYears": {
+    "message": "Barcha yillar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTotalUsage": {
+    "message": "Model jami sarfi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageDistribution": {
+    "message": "Model foydalanish tarqalishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "inputOutputDistribution": {
+    "message": "Kiritish/chiqarish tarqalishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "input": {
+    "message": "Kiritish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "output": {
+    "message": "Chiqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "roleUsageDistribution": {
+    "message": "Rol foydalanish tarqalishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "others": {
+    "message": "Boshqa",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrend": {
+    "message": "Foydalanish tendensiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "periodComparison": {
+    "message": "Davr taqqoslash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisWeekUsageComparedToLastWeek": {
+    "message": "Bu hafta sarfi o'tgan haftaga nisbatan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "thisMonthUsageComparedToLastMonth": {
+    "message": "Bu oy sarfi o'tgan oygacha nisbatan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageTrendChart": {
+    "message": "Sarf tendensiyasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageRanking": {
+    "message": "Foydalanish reytingi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherUsageRanking": {
+    "message": "O'qituvchilar foydalanish reytingi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "studentUsageRanking": {
+    "message": "Talabalar foydalanish reytingi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantUsageRanking": {
+    "message": "AI yordamchilari foydalanish reytingi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "export": {
+    "message": "Eksport qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterUserNameOrAccount": {
+    "message": "Foydalanuvchi ismi/hisobini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalTokenUsage": {
+    "message": "Tokenlar jami sarfi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensInfo": {
+    "message": "Tokenlar jami sarfi katta model sarfini statistikasi hisoblanadi. Katta model tokenlari - bu matnni qayta ishlashning asosiy birligi, sarfi kiritish (savol) va chiqarish (javob) tokenlari yig'indisidir. <br/> Katta modelda, 1 ta tokenning belgilanishi tildan farq qiladi. Xitoy tilida odatda 1 ta xitoy yoki tinish belgisi 1 ta token hisoblanadi; Ingliz tilida odatda 4 ta harf atrofida 1 ta token hisoblanadi, yoki 1 ta so'z 1 ta token hisoblanadi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelUsageInstruction": {
+    "message": "Tashkilot model foydalanish ma'lumotlari statistikasini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tokensUnit": {
+    "message": "Birlik: tokenlar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "myriad": {
+    "message": "ming",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loadError": {
+    "message": "Yuklash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "themeTip": {
+    "message": "Mazmun aniq ko'rinishi uchun, juda ochiq rangdagi mavzu rangini tanlashdan saqlaning",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip": {
+    "message": "soniyadan so'ng veb-sayt bosh sahifasiga avtomatik qaytadi, yoki qo'lda bosing",
+    "description": "aiAssistantManagezh.json"
+  },
+  "backHome": {
+    "message": "Bosh sahifaga qaytish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip1": {
+    "message": "Tasnif nomi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyNameTip2": {
+    "message": "Tasnif nomi 200 ta belgidan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "moveSuccess": {
+    "message": "Muvaffaqiyatli ko'chirildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "classifyTip1": {
+    "message": "Tanlangan tasnifda quyi darajadagi tasniflar bo'lsa, sinxron ravishda o'chiriladi. Tasnifdagi barcha bilimlar bazalari [Tasniflanmagan] tasnifiga bo'linadi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "importSuccessWithCount1": {
+    "message": "Muvaffaqiyatli import qilindi, {num} ta savol-javob juftligi import qilindi!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "stuNum": {
+    "message": "Talaba raqami",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workNum": {
+    "message": "Xodim raqami",
+    "description": "aiAssistantManagezh.json"
+  },
+  "uploadErrorTip": {
+    "message": "Yuklash muvaffaqiyatsiz, fayl talablarga mos kelmaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "functionSettingTip": {
+    "message": "Avval funksiya konfiguratsiyasini sozlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "redirecting": {
+    "message": "O'tmoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "userSetting": {
+    "message": "{user} hozirda tahrirlamoqda",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allCategory": {
+    "message": "Barcha tasniflar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "categoryManagement": {
+    "message": "Tasniflarni boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchOperation": {
+    "message": "Ommaviy amallar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategory": {
+    "message": "Ommaviy tasnif sozlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "belongCategory": {
+    "message": "Tegishli tasnif",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectCategory": {
+    "message": "Iltimos tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterCategoryName": {
+    "message": "Iltimos tasnif nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryLimit": {
+    "message": "Customizatsiya qilingan tasniflar 10 tadan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customCategoryCannotBeEmpty": {
+    "message": "Customizatsiya qilingan tasniflar bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteResourceCategoryConfirm": {
+    "message": "Tasnifdagi barcha resurslar [Boshqa materiallar] tasnifiga bo'linadi. O'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategoryTitle": {
+    "message": "Ommaviy tasnif sozlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectCategoryPlaceholder": {
+    "message": "Iltimos tasnifni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "batchSetCategorySuccess": {
+    "message": "Ommaviy tasnif sozlash muvaffaqiyatli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectResource": {
+    "message": "Iltimos resursni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "otherData": {
+    "message": "Boshqa materiallar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sliceModification": {
+    "message": "Kesmani o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagModification": {
+    "message": "Tegni o'zgartirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterTagName": {
+    "message": "Iltimos teg nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addTag": {
+    "message": "Teg qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "customTagLimit": {
+    "message": "Customizatsiya qilingan teglar 5 tadan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "tagCannotBeEmpty": {
+    "message": "Teg bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmDeleteTag": {
+    "message": "Ushbu tegni o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.viewKnowledgeBase": {
+    "message": "Bilimlar bazasini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewAllDataInKnowledgeBase": {
+    "message": "Joriy bilimlar bazasining barcha ma'lumotlarini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "manageQuestionAnswerGroupsInAccount": {
+    "message": "Joriy hisob ostida savol-javob juftligi guruhlarini boshqarish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterIntelligentReviewTotal": {
+    "message": "Iltimos aqlli tekshirish jami qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentReviewNumberRequired": {
+    "message": "Aqlli tekshirish jami qolgan miqdori raqam bo'lishi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterIntelligentReviewDaily": {
+    "message": "Iltimos aqlli tekshirish kunlik qolgan miqdorini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addCozeAgent": {
+    "message": "Coze agentini qo'shish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cozeAgent": {
+    "message": "Coze agenti",
+    "description": "aiAssistantManagezh.json"
+  },
+  "systemDescription": {
+    "message": "Tizim Coze agentlarini chuqur integratsiyalashni qo'llab-quvvatlaydi, shunda o'qitishda bir xil chaqirish imkoniyatini ta'minlaydi, ishlash ma'lumotlarini umumlashtirish statistikasini amalga oshiradi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageInstructions": {
+    "message": "Foydalanish ko'rsatmalari>>",
+    "description": "aiAssistantManagezh.json"
+  },
+  "appAuthorization": {
+    "message": "Ilova ruxsatnomasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationStep1": {
+    "message": "Quyidagi tugmani bosing, Coze hisobingizga kiriting, tizimning agent ish makoniga kirishiga ruxsat bering.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizeNow": {
+    "message": "Ruxsat berishga o'ting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "interfaceAuthorization": {
+    "message": "Interfeys ruxsatnomasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationDescription": {
+    "message": "Ko'zaki hisob ID raqamini kiriting va tizimga Ko'zaki rasmiy interfeysi orqali ish maydonidagi smart agentlarni chaqirishga ruxsat bering.Shaxsiy foydalanuvchilar foydalanuvchi UID ni kiriting (Ko'zaki platformasida 【Hisob sozlamalari】 bo'limida ko'rishingiz mumkin, yo'li: rasmiy rasmi > Hisob sozlamalari > UID).Korporativ/jamoaviy versiya foydalanuvchilar tashkilot ID ni kiriting (uni korporatif super administrator yoki administrator 【Korporativ sozlamalari】 bo'limida ko'radi, yo'li: Tashkilot boshqaruvi > Korporativ sozlamalari > Asosiy ma'lumotlar > Tashkilot ID).",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterCozeId": {
+    "message": "Coze ID sini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "idRequirements": {
+    "message": "1~200 ta belgi, faqat raqamlarni qo'llab-quvvatlaydi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nextStep": {
+    "message": "Keyingi qadam",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationFailed": {
+    "message": "Ruxsatnomani tekshirish muvaffaqiyatsiz!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "failureHint": {
+    "message": "Iltimos ilova ruxsatnomasi tugallanganligini yoki Coze ID to'g'ri ekanini tekshiring.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "workspace": {
+    "message": "Ish makoni:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unauthorizedSpace": {
+    "message": "Joriy makon ruxsatnomaga ega emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "switchSpaceHint": {
+    "message": "Iltimos boshqa makonni almashtiring yoki {link}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modifyAuthorizationScope": {
+    "message": "Ruxsatnomaga ega bo'lgan makon doirasini o'zgartirish>>",
+    "description": "aiAssistantManagezh.json"
+  },
+  "added": {
+    "message": "Qo'shildi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "unpublishedChatSdk": {
+    "message": "Chat SDK e'lon qilinmagan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publishRequirement": {
+    "message": "Coze da agent e'lon qilinganda, e'lon platformasi [Chat SDK] ni o'z ichiga olishi kerak, shunda tizim tomonidan chaqirilishi mumkin. Amal usulini {link} dan ko'ring.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usageNote": {
+    "message": "Foydalanish ko'rsatmalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit": {
+    "message": "Har safar ko'pi bilan 10 ta qo'shish mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "addLimit1": {
+    "message": "Kamida bittasini tanlash shart",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorization": {
+    "message": "Ruxsatnomani bekor qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationHint": {
+    "message": "Ruxsatnomani bekor qilgandan so'ng, qo'shilgan Coze agentlari tizim orqali kirishsiz kirishlari mumkin bo'lmaydi, lekin tizimda yaratilgan kirish ma'lumotlari hali ham ko'rish mumkin. Ruxsatnomani bekor qilishni tasdiqlaysizmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "authorizationSuccess": {
+    "message": "Ruxsatnomasi muvaffaqiyatli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationSuccess": {
+    "message": "Ruxsatnomani bekor qilish muvaffaqiyatli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cancelAuthorizationFail": {
+    "message": "Ruxsatnomani bekor qilish muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCozeAgent": {
+    "message": "Coze agentini o'chirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteHint": {
+    "message": "Coze agenti o'chirilgandan so'ng, yaratilgan kirish ma'lumotlari tizimdan o'chiriladi (Coze platformasidagi asl ma'lumotlar ta'sirlanmaydi). O'chirishni tasdiqlaysizmi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "loginAgentSystem": {
+    "message": "Agent tizimiga kirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature1": {
+    "message": "Ochilgandan so'ng, tashkilot o'qituvchilari va administrator foydalanuvchilari agent tizimiga kirishlari mumkin.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature2": {
+    "message": "Ochilgandan so'ng, agentlar maydoni kirish eshigi ko'rsatiladi va AI yordamchilarni agentlar maydoniga e'lon qilish qo'llab-quvvatlanadi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "feature3": {
+    "message": "Ochilgandan so'ng, shaxsiy makonda Coze agentlarini qo'shish mumkin; jamoa makoni hozircha qo'llab-quvvatlanmaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "demoVersion": {
+    "message": "Joriy versiya faqat namoyish uchun, rasmiy tashkilotlar uchun ochilmaydi!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noAuthUrl": {
+    "message": "Ruxsatnomalar havolasi yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agent": {
+    "message": "Agent",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip1": {
+    "message": "Token yaroqsiz, iltimos sahifani yangilab qayta urinib ko'ring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip2": {
+    "message": "Parametr xato, iltimos qayta urinib ko'ring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "errorTip3": {
+    "message": "Interfeys xato, iltimos qayta urinib ko'ring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "ideologicalApp": {
+    "message": "Siyosiy ta'lim ilovalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigStandard": {
+    "message": "AI vositalarini sozlash (standart mahsulot)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiToolConfigIdeological": {
+    "message": "AI vositalarini sozlash (siyosiy ta'lim)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "singleAddResourceLimit": {
+    "message": "Bir marta resurs qo'shish {n} tadan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceQueueLimit": {
+    "message": "Resurs qo'shish jami soni 200 tadan oshmasligi kerak",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cozeAgentTip": {
+    "message": "Eslatma: Faqat e'lon qilingan agent turi ilovalarini qo'shish mumkin; Coze platformasida agent e'lon qilinganda, e'lon kanalida [Chat SDK] ni belgilashga e'tibor bering, aks holda agent integratsiyalangandan so'ng normal kirish imkoni bo'lmaydi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "retrievalRange": {
+    "message": "Qidirish doirasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectKnowledgeBaseLimit": {
+    "message": "Ko'pi bilan {n} ta bilimlar bazasini tanlash mumkin",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeCopy": {
+    "message": "Bilimlar bazasini nusxalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccount": {
+    "message": "Manba hisobi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccountName": {
+    "message": "Manba hisobi nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterSourceAccountName": {
+    "message": "Iltimos manba hisobi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "verify": {
+    "message": "Tekshirish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "correspondingAccountName": {
+    "message": "Mos keladigan hisob nomi:",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSpace": {
+    "message": "Bilimlar bazasi joylashgan makon",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectKnowledgeSpace": {
+    "message": "Iltimos bilimlar bazasi makonini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectedKnowledgeBasesN": {
+    "message": "Tanlangan bilimlar bazalari ({n})",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noSelectedKnowledgeBases": {
+    "message": "Tanlangan bilimlar bazalari yo'q",
+    "description": "aiAssistantManagezh.json"
+  },
+  "noDataPleaseEnterSourceAccount": {
+    "message": "Ma'lumot yo'q, iltimos avval manba hisobi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccount": {
+    "message": "Maqsad hisobi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccountName": {
+    "message": "Maqsad hisobi nomi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseEnterTargetAccountName": {
+    "message": "Iltimos maqsad hisobi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyToTargetAccount": {
+    "message": "Maqsad hisobiga nusxalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyingCompleted": {
+    "message": "Nusxalanmoqda, tugallandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "doNotCloseDialog": {
+    "message": "Oyna yoki sahifani yopmang...",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyCompleted": {
+    "message": "Nusxalash tugallandi, nusxalandi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyFailed": {
+    "message": "Nusxalash muvaffaqiyatsiz (",
+    "description": "aiAssistantManagezh.json"
+  },
+  "sourceAccountNameRequired": {
+    "message": "Iltimos manba hisobi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseSpaceRequired": {
+    "message": "Iltimos bilimlar bazasi joylashgan makonni tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "targetAccountNameRequired": {
+    "message": "Iltimos maqsad hisobi nomini kiriting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "accountNotExist": {
+    "message": "Hisob mavjud emas",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectKnowledgeBase": {
+    "message": "Iltimos bilimlar bazasini tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "copyFailedMessage": {
+    "message": "Nusxalash muvaffaqiyatsiz",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBaseStatistics": {
+    "message": "Bilimlar bazasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseVerifyYourAccount": {
+    "message": "Iltimos, akkauntni tekshiring",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectTheCategoryToThichItBelongs": {
+    "message": "Iltimos, tegishli toifani tanlang",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBaseStatistics": {
+    "message": "Ma'lumotlar bazasi statistikasini ko'rish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileCount": {
+    "message": "Fayl",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourcePublish": {
+    "message": "Resurslarning taqsimlanishi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "wordCount": {
+    "message": "So'zlar soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseCategory": {
+    "message": "Ma'lumotlar bazasi toifalari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hundredMillion": {
+    "message": "milliard",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewOrgKnowledgeBaseStatistics": {
+    "message": "Tashkilotning ma'lumotlar bazasi qurilishi ma'lumotlarining statistikasini ko'rish.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBases": {
+    "message": "Ma'lumotlar bazalarining umumiy soni",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileType": {
+    "message": "Fayl turli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceCategory": {
+    "message": "Resurslarni toifalash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseContributionRanking": {
+    "message": "Ma'lumotlar bazasi hissashtirish reytingi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherResourceUploadRanking": {
+    "message": "O'qituvchilar tomonidan yuklangan resurslar soni bo'yicha reyting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseResourceRanking": {
+    "message": "Ma'lumotlar bazasidagi resurslar soni bo'yicha reyting",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allVisitors": {
+    "message": "Barcha tashrif buyuruvchilar",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportList": {
+    "message": "Ro'yxatni eksport qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportDetails": {
+    "message": "Tafsilotlarni eksport qilish",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportMethod": {
+    "message": "Eksport qilish usuli",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportAllSessionsInOneExcel": {
+    "message": "Barcha suhbatlarning tafsilotlari bir xls faylida bir nechta shtrixlarda ko'rsatiladi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportEachSessionInSeparateExcel": {
+    "message": "Har bir suhbatning tafsilotlari alohida xls fayliga eksport qilinadi.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startExport": {
+    "message": "Eksportni boshlash",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantDialogueList": {
+    "message": "AI yordamchisi suhbatlari ro'yxati",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantSessionDetails": {
+    "message": "AI yordamchisi suhbatlari tafsilotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceStatistics": {
+    "message": "Resurslarning statistikasi",
+    "description": "aiAssistantManagezh.json"
+  },
+  "overviewKnowledgeBase": {
+    "message": "Ma'lumotlar bazasi umumiy ma'lumotlari",
+    "description": "aiAssistantManagezh.json"
+  },
+  "survey": {
+    "message": "Umumiy ma'lumotlar",
+    "description": "aiAssistantManagezh.json"
+  }
+}

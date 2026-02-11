@@ -1,0 +1,3982 @@
+{
+  "lang": {
+    "message": "zh",
+    "description": "aiAssistantzh.json"
+  },
+  "AIHelp": {
+    "message": "AI yordamchi",
+    "description": "aiAssistantzh.json"
+  },
+  "AITools": {
+    "message": "AI vositalari",
+    "description": "aiAssistantzh.json"
+  },
+  "login": {
+    "message": "Kirish",
+    "description": "aiAssistantzh.json"
+  },
+  "logOut": {
+    "message": "Tizimdan chiqish",
+    "description": "aiAssistantzh.json"
+  },
+  "All": {
+    "message": "Barcha",
+    "description": "aiAssistantzh.json"
+  },
+  "enterUsername": {
+    "message": "Iltimos, foydalanuvchi nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPassword": {
+    "message": "Parolni kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip": {
+    "message": "Login yoki parol xato",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip1": {
+    "message": "Foydalanuvchi mavjud emas",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip2": {
+    "message": "Kirish muvaffaqiyatsiz",
+    "description": "aiAssistantzh.json"
+  },
+  "loginFailTip3": {
+    "message": "Siz 5 marta aralash xato kiritdingiz, 3 daqiqadan keyin qayta urinib ko'ring",
+    "description": "aiAssistantzh.json"
+  },
+  "userInfoExpired": {
+    "message": "Foydalanuvchi ma'lumoti avvalroq tugatilgan",
+    "description": "aiAssistantzh.json"
+  },
+  "hello": {
+    "message": "Salom, men AI yordamchiman",
+    "description": "aiAssistantzh.json"
+  },
+  "desc": {
+    "message": "Sizning AI yordamchi sifatida, men muloqotlarga javob berish, resurslarni tavsiye qilish, AI orqali savollar yaratish kabi xizmatlarni ta'minlayman.",
+    "description": "aiAssistantzh.json"
+  },
+  "AIAsk": {
+    "message": "Intelligent Q&A",
+    "description": "aiAssistantzh.json"
+  },
+  "guessTip": {
+    "message": "Siz so'rash ehtimolgan: ",
+    "description": "aiAssistantzh.json"
+  },
+  "inputPlaceholder": {
+    "message": "Saytingizga kiritgandan so'ng meningga savol berishingiz mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "askInputTip": {
+    "message": "Sizning savolingizni kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "resultIntro": {
+    "message": "Bundan pastki ma'lumotlar AI tomonidan yaratilgan, faqat maslahat uchun va asos uchun foydalangan holda.",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendation": {
+    "message": "Resurslar tavsiyasi",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip": {
+    "message": "Ommabop resurslar bazasi, aniq resurs tavsiyalari",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestion": {
+    "message": "AI orqali savol tuzish",
+    "description": "aiAssistantzh.json"
+  },
+  "AIQuestionTip": {
+    "message": "Efektli va aqlli savollar yaratish, o'qitish samaradorligini oshirish",
+    "description": "aiAssistantzh.json"
+  },
+  "CommandCenter": {
+    "message": "Buyruq Markazi",
+    "description": "aiAssistantzh.json"
+  },
+  "selectInstruction": {
+    "message": "Iltimos, buyruq tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "newDialogue": {
+    "message": "Yangi suhbat",
+    "description": "aiAssistantzh.json"
+  },
+  "history": {
+    "message": "Xistoryiy yozuvlar",
+    "description": "aiAssistantzh.json"
+  },
+  "thinking": {
+    "message": "Yaxshi o'ylayapman...",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeSource": {
+    "message": "Bilim manbasi",
+    "description": "aiAssistantzh.json"
+  },
+  "answerAgain": {
+    "message": "Yana javob berish",
+    "description": "aiAssistantzh.json"
+  },
+  "send": {
+    "message": "Yuborish",
+    "description": "aiAssistantzh.json"
+  },
+  "copy": {
+    "message": "Ko'chirish",
+    "description": "aiAssistantzh.json"
+  },
+  "copySuccess": {
+    "message": "Muqarrarlandi",
+    "description": "aiAssistantzh.json"
+  },
+  "copyFail": {
+    "message": "Nusxalash muvaffaqiyatsiz",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceInputPlaceholder": {
+    "message": "Qaysi tomon uchun resurslar tavsiyalang? Kalit so'zlarni ayting.",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRecommendationTip2": {
+    "message": "Sizga quyidagi o'quv resurslarini tavsiye qilamiz: ",
+    "description": "aiAssistantzh.json"
+  },
+  "changeBatch": {
+    "message": "Yana birini",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTip": {
+    "message": "Sizga quyidagi savollar yaratilmoqda: ",
+    "description": "aiAssistantzh.json"
+  },
+  "questionInputPlaceholder": {
+    "message": "Qaysi sohalar uchun savollar yaratish kerak? Kalit so'zlarni ayting.",
+    "description": "aiAssistantzh.json"
+  },
+  "Ulearn": {
+    "message": "ULearning",
+    "description": "aiAssistantzh.json"
+  },
+  "nationalWebsite": {
+    "message": "O'zbekiston Davlatining ilmiy ta'lim xalqaro xizmat platformasi",
+    "description": "aiAssistantzh.json"
+  },
+  "generating": {
+    "message": "Generlanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "contentInputTip": {
+    "message": "Jo'natish ma'lumoti bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "requestTip": {
+    "message": "Sistem yuklangan, keyinroq urinib ko'ring",
+    "description": "aiAssistantzh.json"
+  },
+  "questionType": {
+    "message": "Savol turi",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice": {
+    "message": "Bir tanlalı sual",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice": {
+    "message": "Bir necha tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse": {
+    "message": "To'g'ri - noto'g'ri savollari",
+    "description": "aiAssistantzh.json"
+  },
+  "fillBlank": {
+    "message": "Bo'sh joy to'ldirish savollari",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNums": {
+    "message": "Savollar soni",
+    "description": "aiAssistantzh.json"
+  },
+  "notFountAI": {
+    "message": "Mavjud bo'lgan AI yordamchi topilmadi",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermission": {
+    "message": "Xizmatga ruxsat yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistoryData": {
+    "message": "Mavzu haqida ma'lumotlar mavjud emas",
+    "description": "aiAssistantzh.json"
+  },
+  "noResource": {
+    "message": "Mavjud bo'lmagan tavsiye qilingan resurslar",
+    "description": "aiAssistantzh.json"
+  },
+  "requestFail": {
+    "message": "So'rov muvaffaqiyatsiz",
+    "description": "aiAssistantzh.json"
+  },
+  "noMore": {
+    "message": "Yana hech narsa yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "loginTip": {
+    "message": "Iltimos, avval ro'yxatdan o'ting",
+    "description": "aiAssistantzh.json"
+  },
+  "fromRepository": {
+    "message": "Resurslar bazasidan: ",
+    "description": "aiAssistantzh.json"
+  },
+  "fromCourse": {
+    "message": "Kursdan: ",
+    "description": "aiAssistantzh.json"
+  },
+  "BigIdeologicalResources": {
+    "message": "Katta siyosiy ta'lim resurslar bazasi",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceKeys": {
+    "message": "Resurslar tavsiyasi",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeys": {
+    "message": "AI savollar yaratish: {type}, {num} ta savol,",
+    "description": "aiAssistantzh.json"
+  },
+  "noContent": {
+    "message": "Hech qanday natija topilmadi, so'zlarni tahrirlang",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage1": {
+    "message": "Mavzu boş bo'lmasin",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage2": {
+    "message": "Variantlar ikki dan kam",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage3": {
+    "message": "Variantlar 20 dan ko'p bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage4": {
+    "message": "To'g'ri javob bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage5": {
+    "message": "To'g'ri javob variantidagi ma'lumot bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage6": {
+    "message": "Iltimos, variant matnini to'ldiring yoki ortiqcha variantlarni o'chirib yuboring",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage7": {
+    "message": "To'g'ri javoblar soni variantlar sonidan oshib ketishi mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage8": {
+    "message": "To'g'ri javobda tanlov variantidan tashqari ma'lumotlar bo'lmasin",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage9": {
+    "message": "To'g'ri javoblarda takrorlashlar mavjud",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage10": {
+    "message": "Muqobil javobning ma'lumoti bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage11": {
+    "message": "To'g'ri javoblar soni bo'sh joy sonidan kam bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "incompleteMessage12": {
+    "message": "Maximal 20 to'plam joylashtirish mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "quesOrder": {
+    "message": "Savol {n},",
+    "description": "aiAssistantzh.json"
+  },
+  "correct": {
+    "message": "To'g'ri",
+    "description": "aiAssistantzh.json"
+  },
+  "incorrect": {
+    "message": "Xato",
+    "description": "aiAssistantzh.json"
+  },
+  "answer": {
+    "message": "Javob",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisTit": {
+    "message": "Bu joyga tushuntirish joylashgan, yo'q bo'lsa to'ldirmang",
+    "description": "aiAssistantzh.json"
+  },
+  "loginInfoInvalid": {
+    "message": "Kirish ma'lumotlari etishmasligi",
+    "description": "aiAssistantzh.json"
+  },
+  "createTip": {
+    "message": "Yangi suhbatga o'tildi",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceFrom": {
+    "message": "Manba: {type}",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType1": {
+    "message": "Qurilmadan yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType2": {
+    "message": "kurs",
+    "description": "aiAssistantzh.json"
+  },
+  "sourceType3": {
+    "message": "Bilim grafi",
+    "description": "aiAssistantzh.json"
+  },
+  "systemSession": {
+    "message": "Sistem suhbatlari",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTip": {
+    "message": "Mazkur ma'lumotlarni tasdiqlash holatiga asosan, sizga ehtiyoj bo'lishi mumkin bo'lgan ma'lumotga oid resurslar quyidagicha: ",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceTipTea": {
+    "message": "Ma'lumotlar grafiqasiga asosan, sizga ehtiyoj bo'lishi mumkin bo'lgan ma'lumotlar to'yib bo'lgan resurslar quyidagicha: ",
+    "description": "aiAssistantzh.json"
+  },
+  "homework": {
+    "message": "Taposhiruv",
+    "description": "aiAssistantzh.json"
+  },
+  "utest": {
+    "message": "Mualliflik",
+    "description": "aiAssistantzh.json"
+  },
+  "ua": {
+    "message": "O'quv qo'llanmasi",
+    "description": "aiAssistantzh.json"
+  },
+  "noRemindData": {
+    "message": "Sistemda sovutisharoq yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "isTalking": {
+    "message": "Taniqlanmoqda",
+    "description": "aiAssistantzh.json"
+  },
+  "noText": {
+    "message": "Matn aniqlanmadi",
+    "description": "aiAssistantzh.json"
+  },
+  "end": {
+    "message": "Gap tugadi",
+    "description": "aiAssistantzh.json"
+  },
+  "noPermissionTip": {
+    "message": "Silaver eshitish ruxsatini yoqish",
+    "description": "aiAssistantzh.json"
+  },
+  "startRecorder": {
+    "message": "Kiritish boshlanmoqda",
+    "description": "aiAssistantzh.json"
+  },
+  "audioInputOverTimes": {
+    "message": "Sesi kiritish chekloviga yetdi. Sesi kiritish sonini oshirish uchun adminstrator bilan bog'laning",
+    "description": "aiAssistantzh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "Sesi liyosini chegarasiga yetdi. Sesi liyosini oshirish uchun manajerga bog'laning.",
+    "description": "aiAssistantzh.json"
+  },
+  "AiWorkbench": {
+    "message": "AI ish joyi",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentify": {
+    "message": "Formulani tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysis": {
+    "message": "Video tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "docReading": {
+    "message": "Hujjatni o'qish",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSet": {
+    "message": "Sozlamalar",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarking": {
+    "message": "Intellektual baholash",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingDesc": {
+    "message": "Ishtiroklar, imtihonlarda sub'ektiv savollarni avtomatik baholash uchun",
+    "description": "aiAssistantzh.json"
+  },
+  "workQueTitle": {
+    "message": "Tekshirilgan vazifa / masala",
+    "description": "aiAssistantzh.json"
+  },
+  "reselect": {
+    "message": "Qayta tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQue": {
+    "message": "Vazifa / Masala tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint": {
+    "message": "QIZILGANISH: Intellectiyam tekshirish faqat o'qituvchining baholashgan shaxsiy vazifalar va tanlovlar/imtihonlarning maslahatli savollarini o'z ichiga olgan holatlarda amalga oshiriladi, va AI baholash faqat matn tarkibiga qarab, talabalar tomonidan yuborilgan qo'llanmalar, rasm va hokazo kabi matn emas bo'lgan ma'lumotlarga bahola qila olmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "personalHomework": {
+    "message": "Shaxsiy vazifa",
+    "description": "aiAssistantzh.json"
+  },
+  "allTeachers": {
+    "message": "Barcha o'qituvchilar",
+    "description": "aiAssistantzh.json"
+  },
+  "inputHomeworkName": {
+    "message": "Tapish uchun ish nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "publisher": {
+    "message": "Yuboruvchi:",
+    "description": "aiAssistantzh.json"
+  },
+  "pendingReview": {
+    "message": "To'g'riroq ko'rish uchun: ",
+    "description": "aiAssistantzh.json"
+  },
+  "studentPeerReview": {
+    "message": "O'quvchilarning bir-biriga qarash uslubidagi vazifa uchun intellegent tahrirlash qo'llab-quvvatlanmaydi",
+    "description": "aiAssistantzh.json"
+  },
+  "systemScoring": {
+    "message": "Sistem baholash usuli taʼlimiyada inteligen tahrirlashga yordam berishilmadi",
+    "description": "aiAssistantzh.json"
+  },
+  "noData": {
+    "message": "Ma'lumotlar mavjud emas",
+    "description": "aiAssistantzh.json"
+  },
+  "test": {
+    "message": "Sinov",
+    "description": "aiAssistantzh.json"
+  },
+  "exam": {
+    "message": "Mualliflik",
+    "description": "aiAssistantzh.json"
+  },
+  "scoring": {
+    "message": "Bozuvda...",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringCompleted": {
+    "message": "Bozuv tugadi",
+    "description": "aiAssistantzh.json"
+  },
+  "loading": {
+    "message": "Yuklanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "source": {
+    "message": "Manba:",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswer": {
+    "message": "Qisqa javobli savol",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreUnit": {
+    "message": "Bal",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirement": {
+    "message": "Sarlavha / Talab",
+    "description": "aiAssistantzh.json"
+  },
+  "topicRequirementTip": {
+    "message": "Intelligent tahrirlashning aniqligini oshirish uchun, savol matni / vazifa talablarini kichik o'zgartirish mumkin. O'zgartirish faqat joriy tahrirlash ma'lumotiga ta'sir qiladi va asl savol / vazifa ma'lumotiga ta'sir qilmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirement": {
+    "message": "Iltimos, mualliflik / talabni kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswer": {
+    "message": "Muqobil javob",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceAnswerTip": {
+    "message": "To'g'riroq soatishni yaxshilash uchun, savollar javoblariga asosan baho berishni yoki yo'q qilish uchun sozlashish mumkin va javob matnini qo'llab-quvvatlashish mumkin. Tahrirlash faqat joriy tahrirlash ma'lumotiga ta'sir qiladi va asl javob matniga ta'sir qilmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "useAsScoringBasis": {
+    "message": " baholash asosida",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswer": {
+    "message": "Iltimos, javob variantini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "fullScore": {
+    "message": "Yetakli: ",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringRules": {
+    "message": "Baholarish qoidasi",
+    "description": "aiAssistantzh.json"
+  },
+  "editRules": {
+    "message": "Tahrirlash qoidalari",
+    "description": "aiAssistantzh.json"
+  },
+  "selectTemplate": {
+    "message": "Shablonni tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItem": {
+    "message": "Ballangiz",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetrics": {
+    "message": "Baholash ko'rsatkichlari",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreValue": {
+    "message": "Ballar",
+    "description": "aiAssistantzh.json"
+  },
+  "totalScore": {
+    "message": "Jami yig'im",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringScale": {
+    "message": "Bahoma ko'rsatkich",
+    "description": "aiAssistantzh.json"
+  },
+  "strict": {
+    "message": "Jigarli",
+    "description": "aiAssistantzh.json"
+  },
+  "moderate": {
+    "message": "o'rtacha",
+    "description": "aiAssistantzh.json"
+  },
+  "lenient": {
+    "message": "yaxshi",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentComment": {
+    "message": "Intelligent Comments",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled": {
+    "message": "Oyish",
+    "description": "aiAssistantzh.json"
+  },
+  "disabled": {
+    "message": "Yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "enabled1": {
+    "message": "Faol etishgan",
+    "description": "aiAssistantzh.json"
+  },
+  "deactivated": {
+    "message": "Nechtoqotish",
+    "description": "aiAssistantzh.json"
+  },
+  "encouraging": {
+    "message": "rag'batlashish",
+    "description": "aiAssistantzh.json"
+  },
+  "gentle": {
+    "message": "yaxshi davlat",
+    "description": "aiAssistantzh.json"
+  },
+  "serious": {
+    "message": "Jiddiy",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTest": {
+    "message": "Sinovni baholash",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoring": {
+    "message": "Baholashni boshlash",
+    "description": "aiAssistantzh.json"
+  },
+  "system": {
+    "message": "Tizim",
+    "description": "aiAssistantzh.json"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "useThisTemplate": {
+    "message": "Bu shablonni foydalanish",
+    "description": "aiAssistantzh.json"
+  },
+  "addScoringItem": {
+    "message": "Bahoma qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScore": {
+    "message": "Qoldiq ballar",
+    "description": "aiAssistantzh.json"
+  },
+  "delete": {
+    "message": "O'chirish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringItem": {
+    "message": "Bozgʻalish uchun koʻrsatishni kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "metric": {
+    "message": "Koʻrsatkich",
+    "description": "aiAssistantzh.json"
+  },
+  "enterScoringMetric": {
+    "message": "Bahola ko'rsatuvini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "score": {
+    "message": "Ballar",
+    "description": "aiAssistantzh.json"
+  },
+  "addMetric": {
+    "message": "Koʻrsatkich qoʻshish",
+    "description": "aiAssistantzh.json"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "noIntelligentMarkingData": {
+    "message": "Hozircha avtomatik baholash uchun ma'lumotlar mavjud emas.",
+    "description": "aiAssistantzh.json"
+  },
+  "randomPaper": {
+    "message": "Tasodifiy usulda testlar to'plangan sinovlar uchun avtomatik baholash qo'llab - quvvatlanmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "allPapers": {
+    "message": "Barcha testlar",
+    "description": "aiAssistantzh.json"
+  },
+  "inputQuizName": {
+    "message": "Sinov nomini kiritib qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "inputExamName": {
+    "message": "Sinov nomini kiritib qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "selectHomework": {
+    "message": "Iltimos, vazifani tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestion": {
+    "message": "Iltimos, savolni tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "gradingTestHint": {
+    "message": "E'tibor bering: Sinovni baholash natijalari saqlanmaydi. Baholash natijasi kutilayotganidek bo'lsa, baholashni boshlashni tanlashingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "question": {
+    "message": "Savol:",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnswer": {
+    "message": "Talaba javobi",
+    "description": "aiAssistantzh.json"
+  },
+  "enterStudentAnswer": {
+    "message": "Iltimos, talabaning javobini kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiScore": {
+    "message": "AI baholash",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgress": {
+    "message": "Baholash jarayonida...",
+    "description": "aiAssistantzh.json"
+  },
+  "reScoring": {
+    "message": "Baholashni qayta boshlash",
+    "description": "aiAssistantzh.json"
+  },
+  "next": {
+    "message": "Keyingi",
+    "description": "aiAssistantzh.json"
+  },
+  "selectWorkQueError": {
+    "message": "Iltimos, baholash uchun savolni/vazifani tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicRequirementError": {
+    "message": "Iltimos, savolni / talabni kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterReferenceAnswerError": {
+    "message": "Iltimos, javob nomzodi kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "startScoringHint": {
+    "message": "Baholashni boshlaganingizdan so'ng, tizim o'rnatilgan baholash qoidalariga muvofiq talabalar tomonidan topshirilgan javoblarni avtomatik baholaydi (o'qituvchi tomonidan oldin baholangan talabalarning baholarini o'zgartirmaydi).<br/>Baholashni boshlashga ishonch hosil qildingizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "iKnow": {
+    "message": "Men tushundim",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringInProgressHint": {
+    "message": "Baholash jarayonida...<br/><br/>Baholash jarayoni biroz vaqtni o'zlashtirishi mumkin. Siz oynani yopib, tizimni orqaga tasodif bilan baholashni davom ettirishni tanlashingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "useSuccess": {
+    "message": "Muvaffaqiyatli foydalanildi",
+    "description": "aiAssistantzh.json"
+  },
+  "remainingScoreError": {
+    "message": "Barcha baholash ko'rsatkichlarining yig'indisi yetarli baho soniga teng bo'lishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError": {
+    "message": "Balandlik {index} ni 2-500 belgida bo'lishi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringItemLengthError1": {
+    "message": "Bozor koʻrsatkich {index}ning koʻrsatkich {subIndex} soʻz soni 2 dan 500 gacha boʻlishi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "scoringMetricsAndScoreError": {
+    "message": "Balarashish {index}指标ining {subIndex} ko'rsatkichidagi baho ko'rsatkichini va qiymatini to'ldirish majburiy emas",
+    "description": "aiAssistantzh.json"
+  },
+  "maxScoringItemError": {
+    "message": "Birinchi baho qoidalarida eng ko'p 10 ta baho elementi qo'shilishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "maxMetricError": {
+    "message": "Bitta baho muammosi uchun eng ko'p 10 ta baho ko'rsatkich qo'shilishi mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNumberError": {
+    "message": "Ballar faqat raqam bo'lishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreNegativeError": {
+    "message": "Ballar 0 dan kam bo'lishi mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "scoreDecimalError": {
+    "message": "Baholar faqat bir xonali o'nlikli bo'lishi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpen": {
+    "message": "Yopiq",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAI": {
+    "message": "Mening AI yordamchi meni boshqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchDescription": {
+    "message": "Birlashtirilgan AI ta'limlik ilovalari, yengil ravishda darsliklash, samarali o'quv",
+    "description": "aiAssistantzh.json"
+  },
+  "aiWorkbenchAdminTip": {
+    "message": "AI ish joyini kurs menejeri tomonidan yengish kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "openAIWorkbench": {
+    "message": "AI ish joyini ochish",
+    "description": "aiAssistantzh.json"
+  },
+  "viewExample": {
+    "message": "Misolni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "essayQuestions": {
+    "message": "Argumentatsiya masalasi",
+    "description": "aiAssistantzh.json"
+  },
+  "shortQuestions": {
+    "message": "Qisqa savollar",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiAssistant": {
+    "message": "AI yordamchi hali qo'shilmagan",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantTeacherAdd": {
+    "message": "AI yordamchi o'qituvchi tomonidan qo'shilishi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantAdminManage": {
+    "message": "Kurs manajeri [Sozlamalar] menudasida kursga bog'liq AI yordamchi-ni boshqarishi mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "goToSettings": {
+    "message": "Sozlamalar",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSetDescription": {
+    "message": "AI ish joyida bog'langan AI yordamchi, AI vositalar va ma'lumot bazalarini sozlash",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbench": {
+    "message": "AI ish joyini yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "closeAiWorkbenchConfirm": {
+    "message": "AI ishlab chiqarish stansiyasi yopilgandan so'ng, yana ishga tushirish mumkin. Davom etishni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "repository": {
+    "message": "Bilimlar bazasi",
+    "description": "aiAssistantzh.json"
+  },
+  "addAiAssistant": {
+    "message": "AI yordamchi qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyAiAssistant": {
+    "message": "Mening AI yordamchimni boshqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "permission": {
+    "message": "Ruxsatlar",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyTeacher": {
+    "message": "Faoliyat faqat o'qituvchilarga muvofiqdir",
+    "description": "aiAssistantzh.json"
+  },
+  "onlyStudent": {
+    "message": "Faqat talabalar uchun",
+    "description": "aiAssistantzh.json"
+  },
+  "teacherAndStudent": {
+    "message": "O'qituvchi va talabalar uchun",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteConfirm": {
+    "message": "Haqiqatan ham oʻchirishni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "hint": {
+    "message": "Muhimlat",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySuccess": {
+    "message": "Muvaffaqiyatli tahrirlangan",
+    "description": "aiAssistantzh.json"
+  },
+  "addSuccess": {
+    "message": "Muvaffaqiyatli qo'shildi",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistant": {
+    "message": "AI yordamchi tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "createdByMe": {
+    "message": "Men yaratgan",
+    "description": "aiAssistantzh.json"
+  },
+  "sharedBySchool": {
+    "message": "Bu universitetda paydo bo'lgan xizmatlar",
+    "description": "aiAssistantzh.json"
+  },
+  "search": {
+    "message": "Qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "creator": {
+    "message": "Yaratuvchi",
+    "description": "aiAssistantzh.json"
+  },
+  "maxAiAssistant": {
+    "message": "Har bir kursga eng ko'p 10 ta AI yordamchi qo'shilishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAiAssistantError": {
+    "message": "Iltimos AI yordamchi tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "status": {
+    "message": "Holat",
+    "description": "aiAssistantzh.json"
+  },
+  "modifySettings": {
+    "message": "Sozlamalarni tahrirlash",
+    "description": "aiAssistantzh.json"
+  },
+  "saveSettings": {
+    "message": "Sozlamalarni saqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "noAiToolsEnabled": {
+    "message": "AI vosita hali faol emas",
+    "description": "aiAssistantzh.json"
+  },
+  "addKnowledgeBase": {
+    "message": "Ma'lumot bazasini qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "manageMyKnowledgeBase": {
+    "message": "Mening ma'lumot bazamini boshqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgeBase": {
+    "message": "O'chirish",
+    "description": "aiAssistantzh.json"
+  },
+  "noKnowledgeBase": {
+    "message": "Ma'lumot bazasiga hali qo'shilmagan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBase": {
+    "message": "Ma'lumot bazasini tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeBaseError": {
+    "message": "Iltimos, ma'lumot bazasini tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadTitle": {
+    "message": "Fail yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "fileUploadDescription": {
+    "message": "Iltimos faylingizni yuklang",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadHint": {
+    "message": "Qurilmadan yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "selectResource": {
+    "message": "Mamuriyat tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoHere": {
+    "message": "Video'ni bu joyga surib yuklang",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimit": {
+    "message": "Bugun analiz qilinadigan video soni (5 ta) tugallandi. Ertaga qaytib foydalang.",
+    "description": "aiAssistantzh.json"
+  },
+  "videoFormatError": {
+    "message": "Faoliyat faqat video formatlariga murojaat qiladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatError": {
+    "message": "Dokumendtosh faqat doc, docx, pdf formatlarini qo'llab-quvvatlaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeError": {
+    "message": "Fayl maximal o'lchami 512 MB dan ko'p bo'lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadSuccess": {
+    "message": "Yuklab olingan muvaffaqiyatli",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFail": {
+    "message": "Yuklash muvaffaqiyatsiz",
+    "description": "aiAssistantzh.json"
+  },
+  "selectDocument": {
+    "message": "Dokumnet tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "myResource": {
+    "message": "Mening resursim",
+    "description": "aiAssistantzh.json"
+  },
+  "courseResource": {
+    "message": "Dars resurslari",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourses": {
+    "message": "Barcha darslar",
+    "description": "aiAssistantzh.json"
+  },
+  "documentName": {
+    "message": "Dokuman nomi",
+    "description": "aiAssistantzh.json"
+  },
+  "videoName": {
+    "message": "Video nomi",
+    "description": "aiAssistantzh.json"
+  },
+  "size": {
+    "message": "Birinchi va ikkinchi",
+    "description": "aiAssistantzh.json"
+  },
+  "historyRecord": {
+    "message": "Tarix yozuvi",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitle": {
+    "message": "Hujjatni o'qish",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingTitleText": {
+    "message": "Avtomatik ravishda yuklab olingan hujjatlarga so'z bulg'ini generatsiya qilish, hujjat ma'lumotiga asoslanib suhbatlashish.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDragText": {
+    "message": "Dokumendan bu yerga suring",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingFormat": {
+    "message": "Faoliyat faqat Word, PDF formatlariga muvofiqdir",
+    "description": "aiAssistantzh.json"
+  },
+  "docUploadLoading": {
+    "message": "Dokumendtalar yuklanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "docLearningLoading": {
+    "message": "Dokumendagi o'rganish",
+    "description": "aiAssistantzh.json"
+  },
+  "reUpload": {
+    "message": "Yana yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDialogue": {
+    "message": "Intellektual suhbat",
+    "description": "aiAssistantzh.json"
+  },
+  "wordCloud": {
+    "message": "So'z buluti",
+    "description": "aiAssistantzh.json"
+  },
+  "document": {
+    "message": "Hujjat",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognition": {
+    "message": "Formulalarni tanish",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaRecognitionDesc": {
+    "message": "Rasmdagi turli fan formulasini avtomatik ravishda tanlash va tahrirlanadigan LaTeX formulalariga aylantirish.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImage": {
+    "message": "Rasm yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionResult": {
+    "message": "Bilasish natijasi",
+    "description": "aiAssistantzh.json"
+  },
+  "quickCopy": {
+    "message": "tezkor nusxalash",
+    "description": "aiAssistantzh.json"
+  },
+  "recognizing": {
+    "message": "Taniyapti...",
+    "description": "aiAssistantzh.json"
+  },
+  "noContentRecognized": {
+    "message": "Mavzu aniqlanmadi, iltimos yangidan yuklang",
+    "description": "aiAssistantzh.json"
+  },
+  "formulaPreview": {
+    "message": "Formula ko'rinishini ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatError": {
+    "message": "Rasm faqat png, jpg, jpeg formatlarini qo'llab-quvvatlaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "imageSizeError": {
+    "message": "Rasm maksimal 512 MB bo'lishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "recognitionLimitExceeded": {
+    "message": "Formulani aniqlash soni tugadi, xizmatkorlikga murojaat qiling yordam olish uchun.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToUpload": {
+    "message": "Yuklash tugmasini bosing",
+    "description": "aiAssistantzh.json"
+  },
+  "dragImageHere": {
+    "message": "Rasmni bu yerga surang",
+    "description": "aiAssistantzh.json"
+  },
+  "imageFormatSupport": {
+    "message": "Yalniz PNG, JPG, JPEG formatlariga qo'llab-quvvatlanadi",
+    "description": "aiAssistantzh.json"
+  },
+  "videoUsageTips": {
+    "message": "Iltimos, quyidagi ko'rsatmalarni kutilgan holatda ishlating: 1. Tarjima aniq va tabiiy bo'lishi kerak. 2. Tekhnik so'zlar (masalan, AI yordamchi, kiritish va hokazo) uchun umumiy tarjimalangan so'zlar ishlatilishi kerak. 3. Ma'lumotlarni toza va to'g'ri tasvirlash kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "videoDailyLimit": {
+    "message": "Har kuni {num} ta video tahlil qilinishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "videoHistoryRecord": {
+    "message": "Tarix yozuvi",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisTitle": {
+    "message": "Video tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisDesc": {
+    "message": "Avtomatik ravishda yuklangan videolar uchun segmentlarning kiritish nomi, podrobnosti, so'z bulg'ini yaratish.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragVideoText": {
+    "message": "Video'ni bu joyga surang",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleVideoName": {
+    "message": "Misol video.mp4",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadingVideo": {
+    "message": "Video yuklanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "browserNotSupport": {
+    "message": "Sizning brauzeringiz video etiketini qo'llab-quvvatlamaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiSummary": {
+    "message": "AI yig'ish",
+    "description": "aiAssistantzh.json"
+  },
+  "fragmentSummary": {
+    "message": "Bo'lim yorlig'i",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitles": {
+    "message": "Teks tashqi yozuvlar",
+    "description": "aiAssistantzh.json"
+  },
+  "timeline": {
+    "message": "Vaqt chizig'i",
+    "description": "aiAssistantzh.json"
+  },
+  "transcripts": {
+    "message": "Har bir so'zni yozib olish",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleSrt": {
+    "message": "Teks tashqi yozuvlar (SRT)",
+    "description": "aiAssistantzh.json"
+  },
+  "subtitleDoc": {
+    "message": "Teks tashqi yozuvlar (DOC)",
+    "description": "aiAssistantzh.json"
+  },
+  "transcriptsDoc": {
+    "message": "Har bir so'zni yozib olish (DOC)",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLimitTip": {
+    "message": "Bugun video tahlili uchun imkoniyatlar soni (5 ta) tugagan. Iltimos, ertaga qaytadan ishlatishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "unsupportedFormat": {
+    "message": "Qo'llab-quvvatlanmaydigan fayl formatlari",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimitTip": {
+    "message": "Fayl hajmi 512 M dan oshib bo'lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopic": {
+    "message": "Mavzu tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringTopicMetrics": {
+    "message": "Materialning mazmuni va savolning talablari asosida o'quvchi javobining mavzusi aniq, materialning asosiy g'oyalariga oid, g'oyasi to'g'ri va butunlay savolning talablariga mos keladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructure": {
+    "message": "Tuzilishning mantiqiyligi",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringStructureMetrics": {
+    "message": "O'quvchi javobi mantiqiy tuzilishga ega, tuzilishi mustahkam va qatlamlari aniq.",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguage": {
+    "message": "Til bilan ifodalash",
+    "description": "aiAssistantzh.json"
+  },
+  "essayScoringLanguageMetrics": {
+    "message": "O'quvchi til bilan aniq va silliq ifodalashga qodir, grammatik xatolarga yo'q, so'zlardan to'g'ri foydalanadi va belgilar soni talabga mos keladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContent": {
+    "message": "Mazmunning to'liqligi va to'g'riligi",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerContentMetrics": {
+    "message": "O'quvchi javobi savolning barcha nuqtalarini to'liq va to'g'ri qamrab oladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "shortAnswerAccuracyMetrics": {
+    "message": "G'oyalar, faktlar yoki sonlar aniq va noto'g'ri tushuntirishlar yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "or": {
+    "message": "yoki",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrieval": {
+    "message": "Resurslarni qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneration": {
+    "message": "PPT yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "pptTheme": {
+    "message": "Mavzu:",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateOutline": {
+    "message": "Yangi kontseptsiyani yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "generatePPT": {
+    "message": "PPTni yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGenerating": {
+    "message": "Kontseptsiyani yaratish jarayonida",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPPTTemplate": {
+    "message": "PPT shablonini tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectTemplate": {
+    "message": "Iltimos, PPT shablonini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadPPT": {
+    "message": "PPTni yuklab olish",
+    "description": "aiAssistantzh.json"
+  },
+  "generationSuccess": {
+    "message": "Yaratish muvaffaqiyatli amalga oshirildi.",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailed": {
+    "message": "Yaratish muvaffaqiyatsiz bo'ldi.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewOutline": {
+    "message": "Kontseptsiyani ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteSuccess": {
+    "message": "O'chirish muvaffaqiyatli amalga oshirildi.",
+    "description": "aiAssistantzh.json"
+  },
+  "addChapter": {
+    "message": "Bob qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "addInsidePage": {
+    "message": "Ichki sahifa qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "addGist": {
+    "message": "Nuqtalarni qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "maxChapters": {
+    "message": "Eng ko'p 8 bob qo'shish mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "maxInsidePages": {
+    "message": "Eng ko'p 8 sahifa qo'shilishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "maxGists": {
+    "message": "Maximal 8 nuqta (maddalar) qo'shilishi mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterTitle": {
+    "message": "Iltimos, bo'lim sarlavhasini kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChapterSubtitle": {
+    "message": "Iltimos, bo'limning pastki sarlavhasini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageTitle": {
+    "message": "Iltimos, ichki sahifa sarlavhasini kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterInsidePageSubtitle": {
+    "message": "Iltimos, ichki sahifa podnaslovini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistTitle": {
+    "message": "Iltimos, asosiy mavzu sarlavhasini kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGistContent": {
+    "message": "Iltimos, asosiy ma'lumotlarni kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "thanksForWatching": {
+    "message": "Ruxsat etgan bo'ling",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceRetrievalDesc": {
+    "message": "Intelligenti qidirish platformasi ichki va tashqi yaxshi ta'lim resurslarini qidiradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "searchScope": {
+    "message": "Ixtiyorlar ro'yxati",
+    "description": "aiAssistantzh.json"
+  },
+  "resSearch": {
+    "message": "retrieve",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistory": {
+    "message": "Qidirish tarixi:",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSearchKeyword": {
+    "message": "Iltimos, izlash uchun resursli kalit so'zlarni kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterKeyword": {
+    "message": "Iltimos, avvalgi qidiruv so'zini kiritng",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectScope": {
+    "message": "Iltimos, avvalgi qidirish doirasini tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "schoolResource": {
+    "message": "Maktab resurslari",
+    "description": "aiAssistantzh.json"
+  },
+  "bigPoliticalCourseResource": {
+    "message": "Resurslar kutubxonasi",
+    "description": "aiAssistantzh.json"
+  },
+  "searchHistoryText": {
+    "message": "Qidirish tarixiyasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "keywordAnalysis": {
+    "message": "So'rov so'zini tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentExtraction": {
+    "message": "Intellektual chiqarish va qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "complete": {
+    "message": "Yaniqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "video": {
+    "message": "Video",
+    "description": "aiAssistantzh.json"
+  },
+  "image": {
+    "message": "rasm",
+    "description": "aiAssistantzh.json"
+  },
+  "audio": {
+    "message": "Audio",
+    "description": "aiAssistantzh.json"
+  },
+  "link": {
+    "message": "link",
+    "description": "aiAssistantzh.json"
+  },
+  "publishToCourse": {
+    "message": "Kursga yuklab berish",
+    "description": "aiAssistantzh.json"
+  },
+  "courseName": {
+    "message": "Dars nomi:",
+    "description": "aiAssistantzh.json"
+  },
+  "selectAll": {
+    "message": "Barchasini tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePublishScope": {
+    "message": "Ressurslarni joylashtirish mintaqasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "myClass": {
+    "message": "Mening sinim",
+    "description": "aiAssistantzh.json"
+  },
+  "allCourseClasses": {
+    "message": "Barcha kurs guruhi (faqat kurs administratorlari uchun)",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectCourse": {
+    "message": "Kurs tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "publishSuccess": {
+    "message": "Muvaffaqiyatli joylashtirish",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnswer": {
+    "message": "AI javobini berish",
+    "description": "aiAssistantzh.json"
+  },
+  "author": {
+    "message": "Muallif:",
+    "description": "aiAssistantzh.json"
+  },
+  "summary": {
+    "message": "Qisqacha ma'lumot:",
+    "description": "aiAssistantzh.json"
+  },
+  "keyword": {
+    "message": "kalit so'z",
+    "description": "aiAssistantzh.json"
+  },
+  "bilibili": {
+    "message": "CNKI",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeNet": {
+    "message": "Sizga tavsiye qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "forYouRecommend": {
+    "message": "O'zbekiston universiteti resurslari",
+    "description": "aiAssistantzh.json"
+  },
+  "localResource": {
+    "message": "O'zbekiston universiteti resurslari",
+    "description": "aiAssistantzh.json"
+  },
+  "peopleIdeologicalCourse": {
+    "message": "moocpeople.cn",
+    "description": "aiAssistantzh.json"
+  },
+  "todayUsedCount": {
+    "message": "Sizning foydalanganingiz: {used}/{total}",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageTip": {
+    "message": "Kuniga {count} marta PPT yaratish imkoniyati mavjud",
+    "description": "aiAssistantzh.json"
+  },
+  "autoGeneratePPT": {
+    "message": "PPT yaratish muallifiyasi asosida",
+    "description": "aiAssistantzh.json"
+  },
+  "enterPPTTheme": {
+    "message": "Iltimos, PPT mavzu nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "generateOutline": {
+    "message": "Outline yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendThemes": {
+    "message": "Rekomendatsiya qoidasi",
+    "description": "aiAssistantzh.json"
+  },
+  "changeThemes": {
+    "message": "O'zgartirish",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyUsageExceeded": {
+    "message": "Sizning bugungi kiritish soni ({count}) tugallandi. Iltimos, ertaga urinib ko'ring.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeName": {
+    "message": "Iltimos, PPT mavzu nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "themeNameTooLong": {
+    "message": "Mavzu nomini 200 belgidan ko'proq kiritish mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "title": {
+    "message": "Sarlavha",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogue": {
+    "message": "Muqovva",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCatalogue": {
+    "message": "Iltimos, muallifiyani kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "addCatalogue": {
+    "message": "Muqovvat qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "chapter": {
+    "message": "Boʻlim",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePage": {
+    "message": "Ichki sahifa",
+    "description": "aiAssistantzh.json"
+  },
+  "tongyi": {
+    "message": "Qwen",
+    "description": "aiAssistantzh.json"
+  },
+  "doubao": {
+    "message": "Doubao",
+    "description": "aiAssistantzh.json"
+  },
+  "deepseek": {
+    "message": "DeepSeek-R1",
+    "description": "aiAssistantzh.json"
+  },
+  "learning": {
+    "message": "O'rgatishda...",
+    "description": "aiAssistantzh.json"
+  },
+  "learned": {
+    "message": "O'rgangan",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteChapter": {
+    "message": "Butun bo'limdagi ma'lumotni o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteGist": {
+    "message": "Nazoratlar va nazorat matnlarini o'chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "titleEmpty": {
+    "message": "Sarlavha nomi majburiy emas",
+    "description": "aiAssistantzh.json"
+  },
+  "titleContentEmpty": {
+    "message": "Sarlavha bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "catalogueEmpty": {
+    "message": "Mundarija bandi bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "contentEmpty": {
+    "message": "Mavzu boʻş boʻlishi mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTitle": {
+    "message": "Sarlavhani kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSubtitle": {
+    "message": "Iltimos, quyi sarlavhani kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "over": {
+    "message": "Tugatish",
+    "description": "aiAssistantzh.json"
+  },
+  "preview": {
+    "message": "Previzualizatsiya",
+    "description": "aiAssistantzh.json"
+  },
+  "download": {
+    "message": "Yuklab olish",
+    "description": "aiAssistantzh.json"
+  },
+  "welcomeDiscuss": {
+    "message": "Xush kelibsiz, {name} ichidagi mavzuni hamkorlik uchun savol bering, ehtimol so'rashingiz mumkin: ",
+    "description": "aiAssistantzh.json"
+  },
+  "videoGenerating": {
+    "message": "Yasalayapti...",
+    "description": "aiAssistantzh.json"
+  },
+  "pptPreview": {
+    "message": "PPT ko'rib chiqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "finished": {
+    "message": "Yaratildi",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerating": {
+    "message": "PPT yaratilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "chapterTitleEmpty": {
+    "message": "Bo'lim sarlavhasi bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "insidePageTitleEmpty": {
+    "message": "Ichki sahifa sarlavhasi bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "gistTitleEmpty": {
+    "message": "Mavzu sarlavhasi bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "gistContentEmpty": {
+    "message": "Mavzu kontenti bo'sh bo'lmasligi kerak",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGeneratingTip": {
+    "message": "PPT yaratilmoqda...<br/><br/>Siz oynasini yopishingiz mumkin, natijani keyinchalik tarixiy yozuvlarda ko'rib chiqing.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreation": {
+    "message": "Intelligent Creation",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentCreationDesc": {
+    "message": "O'qitish materiallarini shovqinidan xalos etish uchun, intellegent generatsiya yordamida yechish mumkin",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelection": {
+    "message": "Shablon tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "templateSelectionDesc": {
+    "message": "PPT plantillas beziy tanlang, yaratuvchi namoyish qilish qiyin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplication": {
+    "message": "O'quv ta'minoti",
+    "description": "aiAssistantzh.json"
+  },
+  "educationalApplicationDesc": {
+    "message": "Kurs dasturlari va guruh darslari bir bosimda yuborish, o'quv muloqotlari bevosita",
+    "description": "aiAssistantzh.json"
+  },
+  "agentSquare": {
+    "message": "Intelligent Agent Square",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRepository": {
+    "message": "Model Depo",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreated": {
+    "message": "Men yaratgan",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollection": {
+    "message": "Menimning yig'ish joyim",
+    "description": "aiAssistantzh.json"
+  },
+  "depCenter": {
+    "message": "AI Quvvat Markazi",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKeywordSearch": {
+    "message": "Kalit so'z kiritish uchun qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "goCreateAgent": {
+    "message": "Intelligent Agent yaratishga yoki 'Intelligent Agent' yaratishga yo'l qo'yish",
+    "description": "aiAssistantzh.json"
+  },
+  "noDataYet": {
+    "message": "Ma'lumot yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "myAgent": {
+    "message": "Mening inteligent agentim",
+    "description": "aiAssistantzh.json"
+  },
+  "modleFineTuning": {
+    "message": "Modelni soatlashtirish",
+    "description": "aiAssistantzh.json"
+  },
+  "APICallDescription": {
+    "message": "API chaqirish ko'rsatmalari",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCollectionAgent": {
+    "message": "Hali yig'ishilmagan inteligent agentlar",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgentSquare": {
+    "message": "Intelligenti maydoniga yo'l qo'yish",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyCreatedAgent": {
+    "message": "Halokatmagan intelligence agenti",
+    "description": "aiAssistantzh.json"
+  },
+  "comprehensiveSort": {
+    "message": "Umumiy tartiblash",
+    "description": "aiAssistantzh.json"
+  },
+  "popularFavorites": {
+    "message": "Populyar yig'ishlar",
+    "description": "aiAssistantzh.json"
+  },
+  "popularVisits": {
+    "message": "Populyar keylangan yoki yaxshi ko'rilgan mavzu",
+    "description": "aiAssistantzh.json"
+  },
+  "copyCode": {
+    "message": "Kopirovka kodini",
+    "description": "aiAssistantzh.json"
+  },
+  "callResponse": {
+    "message": "Murojaat javobi misoli",
+    "description": "aiAssistantzh.json"
+  },
+  "prerequisites": {
+    "message": "Mukammal shartlar",
+    "description": "aiAssistantzh.json"
+  },
+  "youObtainedAPI": {
+    "message": "Siz API Key olingan, bu API chaqirish uchun avtorizatsiyaga ishlatiladi",
+    "description": "aiAssistantzh.json"
+  },
+  "getModelName": {
+    "message": "Model nomini olish, modelni chaqirish uchun",
+    "description": "aiAssistantzh.json"
+  },
+  "appSquare": {
+    "message": "Aplikatsiyalar maydoni",
+    "description": "aiAssistantzh.json"
+  },
+  "visitAgentInNewPage": {
+    "message": "Yangi sahifa uchun savdo agenti",
+    "description": "aiAssistantzh.json"
+  },
+  "goToAgent": {
+    "message": "Intelligent Agentga borish",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAll": {
+    "message": "Barcha holatlarni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "dragToSort": {
+    "message": "Tezgartirish orqali sozlash va tartiblash",
+    "description": "aiAssistantzh.json"
+  },
+  "latest": {
+    "message": "yangi",
+    "description": "aiAssistantzh.json"
+  },
+  "hottest": {
+    "message": "Eng issiq",
+    "description": "aiAssistantzh.json"
+  },
+  "notOpenYet": {
+    "message": "Hozircha ochilmagan, kuting",
+    "description": "aiAssistantzh.json"
+  },
+  "back": {
+    "message": "Qaytish",
+    "description": "aiAssistantzh.json"
+  },
+  "collected": {
+    "message": "Yana qo'llanishga yuklab olingan",
+    "description": "aiAssistantzh.json"
+  },
+  "collect": {
+    "message": "Yig'ish",
+    "description": "aiAssistantzh.json"
+  },
+  "inputTopicName": {
+    "message": "Savol nomini kiritish orqali qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "allClasses": {
+    "message": "Barcha sinflar",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDesc": {
+    "message": "Har bir svetdagi PPT yaratish muammosini hal qilish uchun, mavzu asosida tezda avtomatik ravishda PPT yaratish, PPT yaratish samaradorligini oshirish.",
+    "description": "aiAssistantzh.json"
+  },
+  "docReadingDesc": {
+    "message": "Dokumantlarni yuklab olish, dokumantning tarkibiga asosan savollar so'rash, savollar yaratish, so'z bulg'ini yaratish kabi xizmatlarni qo'llab-quvvatlash.",
+    "description": "aiAssistantzh.json"
+  },
+  "toolIdentifyDesc": {
+    "message": "Yozuvli formulani rasm yuklang, rasm ichidagi formulani olish va uni LateX kodiga aylantirishga yordam beradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "clickToLogin": {
+    "message": "Tizimga kiring",
+    "description": "aiAssistantzh.json"
+  },
+  "aiCompetenceCenter": {
+    "message": "AI Quvvat Markazi",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentApplication": {
+    "message": "Intelligent App",
+    "description": "aiAssistantzh.json"
+  },
+  "openAiCenter": {
+    "message": "AI Quvvat Markazini ochish",
+    "description": "aiAssistantzh.json"
+  },
+  "collectAgent": {
+    "message": "Yig'lagan inteligent agentlar",
+    "description": "aiAssistantzh.json"
+  },
+  "more": {
+    "message": "Ko'proq",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAiAssistant": {
+    "message": "Darslik Intelligens Asistan",
+    "description": "aiAssistantzh.json"
+  },
+  "aiConversation": {
+    "message": "AI suhbatlashish yordamchi",
+    "description": "aiAssistantzh.json"
+  },
+  "conversationAssistant": {
+    "message": "Dialog Assistant",
+    "description": "aiAssistantzh.json"
+  },
+  "starting": {
+    "message": "Yuklanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "imAiConversation": {
+    "message": "Men suhbat asosiyotman",
+    "description": "aiAssistantzh.json"
+  },
+  "imListening": {
+    "message": "Men tinglayapman",
+    "description": "aiAssistantzh.json"
+  },
+  "pause": {
+    "message": "To'xtatish",
+    "description": "aiAssistantzh.json"
+  },
+  "stop": {
+    "message": "To'xtash",
+    "description": "aiAssistantzh.json"
+  },
+  "closeSubtitles": {
+    "message": "Subtitrlarni yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "commentEnd": {
+    "message": "Muhokama tugadi",
+    "description": "aiAssistantzh.json"
+  },
+  "qaAssistant": {
+    "message": "Savol-javob yordamchi",
+    "description": "aiAssistantzh.json"
+  },
+  "assistantTip1": {
+    "message": "AI-ni maqsadli rolga aylantirib, o'quvchi bilan chuqur suhbatlashish",
+    "description": "aiAssistantzh.json"
+  },
+  "commentHistory": {
+    "message": "Tarix munozarasi yozuvlari",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotSearch": {
+    "message": "Ekran surati qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "screenshotAnswer": {
+    "message": "Ekran surati yordamida javob berish",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAgent": {
+    "message": "Sinf dasturi agenti",
+    "description": "aiAssistantzh.json"
+  },
+  "getPhoto": {
+    "message": "Rasm oling",
+    "description": "aiAssistantzh.json"
+  },
+  "leaveRoom": {
+    "message": "Xonadan chiqish",
+    "description": "aiAssistantzh.json"
+  },
+  "startVoiceChat": {
+    "message": "Intelligent agentning ovozini yoqish",
+    "description": "aiAssistantzh.json"
+  },
+  "checkComment": {
+    "message": "Muhokama yozuvlarini ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "startDialog": {
+    "message": "Yangi suhbatni boshlash",
+    "description": "aiAssistantzh.json"
+  },
+  "agentManagement": {
+    "message": "Agent boshqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "startAgent": {
+    "message": "Intelligent Agentni ishga tushirish",
+    "description": "aiAssistantzh.json"
+  },
+  "youMute": {
+    "message": "Siz susuzlashtirilgan edingiz",
+    "description": "aiAssistantzh.json"
+  },
+  "chatHistory": {
+    "message": "Dialog shakllari",
+    "description": "aiAssistantzh.json"
+  },
+  "noHistory": {
+    "message": "Mavjud boʻlmagan suhbat yozuvi",
+    "description": "aiAssistantzh.json"
+  },
+  "studentOpinionsReview": {
+    "message": "O'quvchilarning nuqtai nazariyasi yig'ishlari",
+    "description": "aiAssistantzh.json"
+  },
+  "thinkingDimensions": {
+    "message": "Fikrlashning o'lchovlari",
+    "description": "aiAssistantzh.json"
+  },
+  "advantage": {
+    "message": "Yaxshi narsalar",
+    "description": "aiAssistantzh.json"
+  },
+  "furtherImprovementPoints": {
+    "message": "Qo'shimcha yaxshilashish",
+    "description": "aiAssistantzh.json"
+  },
+  "chatTime": {
+    "message": "Muhokama vaqtini: {num} daqiqa",
+    "description": "aiAssistantzh.json"
+  },
+  "chatNum": {
+    "message": "Muhokama soni: {num} marta",
+    "description": "aiAssistantzh.json"
+  },
+  "chatWordCount": {
+    "message": "Sozlar soni: {num}",
+    "description": "aiAssistantzh.json"
+  },
+  "dialogueRecord": {
+    "message": "Dialogi davomiyligi",
+    "description": "aiAssistantzh.json"
+  },
+  "AIReview": {
+    "message": "AI bahs",
+    "description": "aiAssistantzh.json"
+  },
+  "chatAssistant": {
+    "message": "Muhokama yordamchi",
+    "description": "aiAssistantzh.json"
+  },
+  "AIapp": {
+    "message": "AI tarmoqlar",
+    "description": "aiAssistantzh.json"
+  },
+  "AIintelligent": {
+    "message": "AI-intelligent",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadTip": {
+    "message": "Rasm yuklanmoqda, iltimos kuting va keyin qaytadan urinib ko'ring",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip": {
+    "message": "Faqat bir martada {n} tas rasm yuklab oling",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError2": {
+    "message": "Rasm hajmi {n} M dan ko'proq bo'lmasin",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileError3": {
+    "message": "Bunday fayl turi qo'llab-quvvatlanmaydi",
+    "description": "aiAssistantzh.json"
+  },
+  "modelImageTip": {
+    "message": "Bu katta model rasmni qo'llab-quvvatlamaydi",
+    "description": "aiAssistantzh.json"
+  },
+  "totalNum": {
+    "message": "Jami {num} ta",
+    "description": "aiAssistantzh.json"
+  },
+  "networkFrom": {
+    "message": "Mavzu manbasi",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalyzing": {
+    "message": "AI analizda, iltimos, kuting",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcesForYou": {
+    "message": "Siz uchun ehtiyotkorlik bilan tanlanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "resourcePreviewDialog": {
+    "message": "Ruxsatga koʻrsatish oynasi",
+    "description": "aiAssistantzh.json"
+  },
+  "accessUrl": {
+    "message": "Ushbu manzilga murojaat qiling",
+    "description": "aiAssistantzh.json"
+  },
+  "courseTeam": {
+    "message": "Kurs jamoasi",
+    "description": "aiAssistantzh.json"
+  },
+  "courseIntroduction": {
+    "message": "Kurs tavsifi",
+    "description": "aiAssistantzh.json"
+  },
+  "fileNotSupportPreview": {
+    "message": "Bu fayl onlayn ko'rishga murojaat etmaydi",
+    "description": "aiAssistantzh.json"
+  },
+  "transcodingInProgress": {
+    "message": "Tranzkodlash jarayonida, kuting va keyin ko'ring",
+    "description": "aiAssistantzh.json"
+  },
+  "mute": {
+    "message": "Sessiya yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "unmute": {
+    "message": "Sessiyani beklatishni bekor qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "play": {
+    "message": "O'yinlash",
+    "description": "aiAssistantzh.json"
+  },
+  "fullscreen": {
+    "message": "To'liq ekran",
+    "description": "aiAssistantzh.json"
+  },
+  "close": {
+    "message": "Yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission1": {
+    "message": "Mening ruxsatim yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission2": {
+    "message": "Xizmat ishga tushmagan, kirish huquqi yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "notVisitPermission3": {
+    "message": "Iltimos, tizimga kiringdan keyin ko'ring",
+    "description": "aiAssistantzh.json"
+  },
+  "workflow": {
+    "message": "ish jarayoni",
+    "description": "aiAssistantzh.json"
+  },
+  "ICreatedAgent": {
+    "message": "Men yaratgan inteligent agent",
+    "description": "aiAssistantzh.json"
+  },
+  "myCollectionAgent": {
+    "message": "Mening yig'lagan Intellectli agentlarim",
+    "description": "aiAssistantzh.json"
+  },
+  "selectCategory": {
+    "message": "Kategoriyani tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "reset": {
+    "message": "Reset",
+    "description": "aiAssistantzh.json"
+  },
+  "courseElite": {
+    "message": "dars yutuqchi",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkMaster": {
+    "message": "Top student in homework",
+    "description": "aiAssistantzh.json"
+  },
+  "examGod": {
+    "message": "Muqaddaslikga yutuq",
+    "description": "aiAssistantzh.json"
+  },
+  "forumKing": {
+    "message": "Postga javob yozuvchi",
+    "description": "aiAssistantzh.json"
+  },
+  "aiTopPlayer": {
+    "message": "AI asosiy o'yinchi",
+    "description": "aiAssistantzh.json"
+  },
+  "mysteriousVisitor": {
+    "message": "Rahmatli yengishuvchi",
+    "description": "aiAssistantzh.json"
+  },
+  "potentialStock": {
+    "message": "potentsialli faoliyatchi",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDrought": {
+    "message": "Ma'lumotlar quruvi",
+    "description": "aiAssistantzh.json"
+  },
+  "attendancePoor": {
+    "message": "Kartochka yordamida yengil qalmagan talaba",
+    "description": "aiAssistantzh.json"
+  },
+  "lazyMaster": {
+    "message": "Suv yurish masteri",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkImmune": {
+    "message": "Vazifa izolyator",
+    "description": "aiAssistantzh.json"
+  },
+  "failureBorder": {
+    "message": "ko'rib chiqilgan chetida yutish odam",
+    "description": "aiAssistantzh.json"
+  },
+  "onlooker": {
+    "message": "gulistonchilar",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNewbie": {
+    "message": "AI yangi yoshligi",
+    "description": "aiAssistantzh.json"
+  },
+  "visitCourseCount": {
+    "message": "Kursga {count} marta kirish",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageScore": {
+    "message": "Ishtirok mutaxassisining o'rtacha bahosi {grade} ball, birinchi joyda",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageScore": {
+    "message": "Sinfga o'rtacha bahosi {grade} ball, 1 - yechishda joylashgan",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostCount": {
+    "message": "Mavzu yozuvi {count} marta mavjud, eng yuqori joylashuvda",
+    "description": "aiAssistantzh.json"
+  },
+  "aiUsageCount": {
+    "message": "AI yordamchi {chatCount} marta foydalangan, AI vosita {toolCount} marta foydalangan",
+    "description": "aiAssistantzh.json"
+  },
+  "currentScore": {
+    "message": "Hozirgi umumiy bahosi {grade} ball",
+    "description": "aiAssistantzh.json"
+  },
+  "lowMasteryPointCount": {
+    "message": "Ma'lumotlarning 60% dan pastiga ega bo'lgan ma'lumotlar soni {count} ta",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRate": {
+    "message": "Dars yig'ishining o'rtacha yuzoviy darajasi {rate} %",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDuration": {
+    "message": "Kurs materiallarini o'rganish vaqti {time}",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAverageOnly": {
+    "message": "Vazifa yig'indisi {grade} ball",
+    "description": "aiAssistantzh.json"
+  },
+  "examAverageOnly": {
+    "message": "Mualliflik o'rtacha bahosi {grade} ball",
+    "description": "aiAssistantzh.json"
+  },
+  "forumPostOnly": {
+    "message": "Postlarni {count} marta diskussiya qilingan",
+    "description": "aiAssistantzh.json"
+  },
+  "allStudents": {
+    "message": "Barcha o'quvchilar",
+    "description": "aiAssistantzh.json"
+  },
+  "inputNameOrStudentId": {
+    "message": "Ism/Fanar sonini kiritib qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "noMoreData": {
+    "message": "Ko'proq ma'lumot yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "noSearchResults": {
+    "message": "Mavzu bilan bog'liq ma'lumot topilmadi",
+    "description": "aiAssistantzh.json"
+  },
+  "learningTasks": {
+    "message": "O'quv vazifalari",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMastery": {
+    "message": "Bilimni o'rganish",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomPerformance": {
+    "message": "Darsga chiqish",
+    "description": "aiAssistantzh.json"
+  },
+  "assessmentResults": {
+    "message": "Tekshirish natijalari",
+    "description": "aiAssistantzh.json"
+  },
+  "aiLearningAssistant": {
+    "message": "AI yordamchi",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePoint": {
+    "message": "Ma'lumot nuqtasi",
+    "description": "aiAssistantzh.json"
+  },
+  "averageMasteryRate": {
+    "message": "O'rtacha ma'lumotli darajasi",
+    "description": "aiAssistantzh.json"
+  },
+  "goodMastery": {
+    "message": "Yaxshi ma'lumotlashtirilgan",
+    "description": "aiAssistantzh.json"
+  },
+  "generalMastery": {
+    "message": "O'qish darajasi o'rtacha",
+    "description": "aiAssistantzh.json"
+  },
+  "poorMastery": {
+    "message": "Kamroq ma'lumotlashtirilgan",
+    "description": "aiAssistantzh.json"
+  },
+  "notTested": {
+    "message": "Yechilmagan",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoal": {
+    "message": "Yetishish maqsadlari",
+    "description": "aiAssistantzh.json"
+  },
+  "averageAchievementRate": {
+    "message": "O'rtacha qamroqligi:",
+    "description": "aiAssistantzh.json"
+  },
+  "weakKnowledgePoints": {
+    "message": "Zaif bilim nuqtalari",
+    "description": "aiAssistantzh.json"
+  },
+  "viewDetails": {
+    "message": "Tafsilotlarni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge1": {
+    "message": "Bu talaba",
+    "description": "aiAssistantzh.json"
+  },
+  "studentWeakKnowledge2": {
+    "message": "{num} ta bilim nuqtasi yaxshi o'rgatilgan emas. Iltimos, talabaning bilimlarini o'rgandiqni tezda kuzatib boring.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeTitle": {
+    "message": "Muammo turi",
+    "description": "aiAssistantzh.json"
+  },
+  "askCount": {
+    "message": "Savollar soni",
+    "description": "aiAssistantzh.json"
+  },
+  "freeAsk": {
+    "message": "Serfistan so'rash",
+    "description": "aiAssistantzh.json"
+  },
+  "instructionAsk": {
+    "message": "Buyruq so'rov",
+    "description": "aiAssistantzh.json"
+  },
+  "commonInstructions": {
+    "message": "Oddiy buyruqlar",
+    "description": "aiAssistantzh.json"
+  },
+  "questionKeywords": {
+    "message": "Savol kalitlovchi so'zlar",
+    "description": "aiAssistantzh.json"
+  },
+  "overallRank": {
+    "message": "Umumiy joylashuv:",
+    "description": "aiAssistantzh.json"
+  },
+  "signInRate": {
+    "message": "Kirotish darajasi",
+    "description": "aiAssistantzh.json"
+  },
+  "attendance": {
+    "message": "ish vaqtini kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "signedIn": {
+    "message": "Ro'yxatdan o'tildi",
+    "description": "aiAssistantzh.json"
+  },
+  "absent": {
+    "message": "Yo'qotish",
+    "description": "aiAssistantzh.json"
+  },
+  "sickLeave": {
+    "message": "seansli yengilish",
+    "description": "aiAssistantzh.json"
+  },
+  "personalLeave": {
+    "message": "ishga yoki shartnoma uchun mas'uliyatli vaqt olishi",
+    "description": "aiAssistantzh.json"
+  },
+  "late": {
+    "message": "kechikish",
+    "description": "aiAssistantzh.json"
+  },
+  "earlyLeave": {
+    "message": "tardishtan chiqish",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteraction": {
+    "message": "Darsda interaktivlik",
+    "description": "aiAssistantzh.json"
+  },
+  "participationCount": {
+    "message": "Qatnashish soni:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalPoints": {
+    "message": "Jami ballar:",
+    "description": "aiAssistantzh.json"
+  },
+  "points": {
+    "message": "Balans",
+    "description": "aiAssistantzh.json"
+  },
+  "voting": {
+    "message": "voxtlashish",
+    "description": "aiAssistantzh.json"
+  },
+  "quickAnswer": {
+    "message": "teglovchi javob berish",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPerson": {
+    "message": "Tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "grading": {
+    "message": "rating",
+    "description": "aiAssistantzh.json"
+  },
+  "photoUpload": {
+    "message": "Rasm yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "answering": {
+    "message": "Javob berish",
+    "description": "aiAssistantzh.json"
+  },
+  "coursewareLearning": {
+    "message": "Kurs dasturlari o'rganish",
+    "description": "aiAssistantzh.json"
+  },
+  "learningProgress": {
+    "message": "O'qish yutuqlarini",
+    "description": "aiAssistantzh.json"
+  },
+  "workExam": {
+    "message": "Masala / Muallaf",
+    "description": "aiAssistantzh.json"
+  },
+  "completionCount": {
+    "message": "Yakunlangan soni:",
+    "description": "aiAssistantzh.json"
+  },
+  "switchStudent": {
+    "message": "O'qituvchi o'zgartirish",
+    "description": "aiAssistantzh.json"
+  },
+  "studentId": {
+    "message": "Talaba raqami:",
+    "description": "aiAssistantzh.json"
+  },
+  "className": {
+    "message": "Sinif:",
+    "description": "aiAssistantzh.json"
+  },
+  "college": {
+    "message": "Fakultet:",
+    "description": "aiAssistantzh.json"
+  },
+  "export": {
+    "message": "Ekssport qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "coursePerformance": {
+    "message": "Darslarning umumiy o'rinlanishi",
+    "description": "aiAssistantzh.json"
+  },
+  "noAnalysisData": {
+    "message": "Analiz uchun hozircha ma'lumot yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantUsage": {
+    "message": "AI yordamchisi foydalanishi",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingPDF": {
+    "message": "PDF yaratilmoqda, iltimos, biroz kuting...",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitSystem": {
+    "message": "Talaba tasviri tizimi",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitReport": {
+    "message": "Talabalarning o'qish tasviri hisoboti",
+    "description": "aiAssistantzh.json"
+  },
+  "cannotFindExportContent": {
+    "message": "Ekssport qilish uchun ma'lumot topilmadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportSuccess": {
+    "message": "PDF muvaffaqiyatli eksport qilindi.",
+    "description": "aiAssistantzh.json"
+  },
+  "pdfExportFailed": {
+    "message": "PDF eksport qilish muvaffaqiyatsizlikka uchradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "uaLabel": {
+    "message": "Dars materiali:",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkLabel": {
+    "message": "乌兹别克语：Vazifa:",
+    "description": "aiAssistantzh.json"
+  },
+  "examLabel": {
+    "message": "Imtihon:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAssistantLabel": {
+    "message": "AI yordamchi:",
+    "description": "aiAssistantzh.json"
+  },
+  "aiToolLabel": {
+    "message": "AI vositalari",
+    "description": "aiAssistantzh.json"
+  },
+  "times": {
+    "message": "marta",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomAttendanceRateLabel": {
+    "message": "Darsga qatnashish darajasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionRateLabel": {
+    "message": "Darsdagi o'zaro aloqa ishtirok etish darajasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeMasteryRateLabel": {
+    "message": "Bilimlarni o'zlashtirish darajasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityGoalRateLabel": {
+    "message": "Qobiliyat maqsadlarining bajarilish darajasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "finalScoreLabel": {
+    "message": "Oxirgi baho:",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortraitDesc": {
+    "message": "Aloqador talaba tasviri, individual ta'limga yordam beradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllStudents": {
+    "message": "Barcha talabalarni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "perfectScoreGod": {
+    "message": "To'liq bahoga ega bo'lgan g'arbuz ",
+    "description": "aiAssistantzh.json"
+  },
+  "overallScoreRank": {
+    "message": "Hozirgi umumiy baho {grade} ball, {rank}-o'ralgan joyda turadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointMaster": {
+    "message": "Bilim nuqtalaridagi dahshatli qo'l ",
+    "description": "aiAssistantzh.json"
+  },
+  "goodKnowledgePointsRank": {
+    "message": "80% dan ortiq o'zlashtirilgan bilim nuqtalarining soni {count} ta, {rank}-o'ralgan joyda turadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomStar": {
+    "message": "Darsda markaziy o'rinda ",
+    "description": "aiAssistantzh.json"
+  },
+  "classroomInteractionPoints": {
+    "message": "Darsdagi o'zaro aloqada umumiy {points} ball to'plashdi va birinchi o'ralgan joyda turadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "durationKing": {
+    "message": "Vaqtni yaxshi foydalanuvchi",
+    "description": "aiAssistantzh.json"
+  },
+  "learningDurationRankFirst": {
+    "message": "Dars materialini o‘rganish davomiyligi {time}, birinchi o‘ralgan joyda turadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "schedule": {
+    "message": "harakatlanish",
+    "description": "aiAssistantzh.json"
+  },
+  "groupWork": {
+    "message": "Guruh vazifasi",
+    "description": "aiAssistantzh.json"
+  },
+  "numberCompletions": {
+    "message": "yakunlangan soni",
+    "description": "aiAssistantzh.json"
+  },
+  "total": {
+    "message": "umumiy son",
+    "description": "aiAssistantzh.json"
+  },
+  "stuPortrait": {
+    "message": "Talaba tasviri",
+    "description": "aiAssistantzh.json"
+  },
+  "aiAnalytics": {
+    "message": "AI tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "portrayalInfo": {
+    "message": "Talaba tasviri",
+    "description": "aiAssistantzh.json"
+  },
+  "aiNotAllowed": {
+    "message": "Hozirgi muassasada AI imkoniyati yo‘q.",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip1": {
+    "message": "Siz hali AI vositasini yaratmadingiz.",
+    "description": "aiAssistantzh.json"
+  },
+  "agentEmptyTip2": {
+    "message": "Siz hali AI vositasini yaratmadingiz. AI vositasining maxsus nusxasini yaratish uchun AI vositalari bozoriga o'ting.",
+    "description": "aiAssistantzh.json"
+  },
+  "appNotAllowed": {
+    "message": "Hozirgi muassasada bu AI ilovasi/qurollari yo‘q.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingDesign": {
+    "message": "Dars rejasi yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoals": {
+    "message": "O‘qitish maqsadi",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbook": {
+    "message": "Talabalarning bilim darajasi va darsliklarning tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContent": {
+    "message": "O‘qitish materiallari",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeans": {
+    "message": "O‘qitish usullari va vositalar",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingProcess": {
+    "message": "O‘qitish jarayoni",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboard": {
+    "message": "Vazifa va doira panjara",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracy": {
+    "message": "Yangilik va axloqiy - madaniy o‘rganishlar",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingGoalsMetrics": {
+    "message": "Maqsadlar aniq va o‘ziga xos bo‘lib, fanning asosiy o‘rganishlarini aks ettiradi / uch o‘lchovli maqsadlar birlashtirilgan, standart talablar va talabalarning haqiqiy holati bilan mos keladi, barchasini va shaxsiy rivojlanishni ham hisobga oladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentAnalysisAndTextbookMetrics": {
+    "message": "Talabalarning bilim asosini, qobiliyat darajasini va o‘rganish xususiyatlarini aniq aniqlang, o‘rganish qiyinchiliklarini oldindan taxmin qiling va mos keladigan strategiyalarni ishlab chiqing. · Darslikning o‘rinini, bilimlarning mantiqiy bog‘lanishini va standartlar bilan bog‘liqligini aniq tavsiflang, o‘qitish materiallarini o‘rnatilgan tartibda qayta ishlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingContentMetrics": {
+    "message": "Bilim nuqtalari ilmiy va to‘liq, muhim nuqtalar ajralib turadi, qiyinchiliklar aniq belgilangan; Materiallarning tanlovi talabalar bilan yaqin, asosiy va kengaytirilgan jihatlarni ham jamlaydi va fanning fikr usullarini aks ettiradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "teachingMethodsAndMeansMetrics": {
+    "message": "Usullar fanning xususiyatlari va talabalarning idrok qobiliyatiga mos keladi va ilhomlantirish va tadqiqotga e'tibor beradi; Vositalar (o'qitish uskunalari, texnologiyalar va hokazo) to'g'ri qo'llaniladi va muhim va qiyin nuqtalardan samarali o'tiladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "sessionDesignMetrics": {
+    "message": "Boblarni loyihalash: Kirish, yangi ma'lumot berish, mashq qilish, yig'indi kabi boblar to'liq, mantiqiy bog'liq va vaqtni muvozanatli taqsimlash.",
+    "description": "aiAssistantzh.json"
+  },
+  "studentParticipationMetrics": {
+    "message": "Talabalarning ishtiroki: Talabalarning asosiy o'rinini ajratib turadi, o'zaro munosabatli tadqiqot faoliyatlarini loyihalash, o'z vaqtida qaytarib berish baholash, oldindan rejalashtirilgan va hosil bo'lgan narsalarni hal qilish.",
+    "description": "aiAssistantzh.json"
+  },
+  "abilityTrainingMetrics": {
+    "message": "Qobiliyatlarni rivojlantirish: Fanniy fikrlash va o‘rganish usullariga qo‘llanma berishga e’tibor beradi va bilimlarning qurilish jarayonini namoyish etadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "homeworkAndBlackboardMetrics": {
+    "message": "Vazifa loyihalash qatlamli ravishda muvozanatli, miqdori o'rtacha, shakllari xilma-xil va o'qitish maqsadlari bilan mos keladi. · Doira panjarasida bilimlarning ramkasi aniq namoyon bo'ladi; Yig'indi qisqacha muhim nuqtalarni tozalaydi va qayta fikrlashga undaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "innovationAndLiteracyMetrics": {
+    "message": "O‘qitish rejasida yangilik bor, darslik g‘oyalarini aks ettiradi; O‘qituvchi xatti-harakatlari tabiiy, mutaxassislik darajasi (masalan, ifoda qilish, namuna ko‘rsatish va hokazo) yaxshi.",
+    "description": "aiAssistantzh.json"
+  },
+  "developerCenter": {
+    "message": "Dasturchilar markazi",
+    "description": "aiAssistantzh.json"
+  },
+  "videoAnalysisLongTimeTip": {
+    "message": "Videoni tahlil qilish uchun ko'p vaqt ketadi. Hozirgi sahifani yopishingiz mumkin va keyinchalik tarixiy yozuvlarda tekshirishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "orgUsageExhausted": {
+    "message": "The number of usage times of the organization has run out.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyFormulaRecognitionLimit": {
+    "message": "Kunduzgi formulani tanishish imkoniyatlari {count} marta.",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledge": {
+    "message": "Grafni yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "generating1": {
+    "message": "Yaratilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerate": {
+    "message": "Yangi qayta yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "previousStep": {
+    "message": "Oldingi bosqich",
+    "description": "aiAssistantzh.json"
+  },
+  "nextStep": {
+    "message": "Keyingi bosqich",
+    "description": "aiAssistantzh.json"
+  },
+  "generateKnowledgePoints": {
+    "message": "Bilim nuqtalasini yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "generateQuestions": {
+    "message": "Savollarni yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "saveGraph": {
+    "message": "Xaritani saqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "addChildNode": {
+    "message": "Vanut qism qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointName": {
+    "message": "Bilim nuqtasi nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRegenerate": {
+    "message": "Haqiqatan ham qayta yaratmoqchimisiz?",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSaveKnowledgeFirst": {
+    "message": "Iltimos, avval bilim nuqtalarini saqlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointLimitExceeded": {
+    "message": "Bilim nuqtalarining umumiy soni 200 dan oshmasligi kerak. Iltimos, bir qism bilim nuqtalarini o'chiring.",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmLeaveWithoutSaving": {
+    "message": "Hozir chiqishdan so'ng, yaratilgan kontent saqlanmaydi. Chiqishga ishonchingiz komilmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints": {
+    "message": "Bilim nuqtalarining umumiy soni",
+    "description": "aiAssistantzh.json"
+  },
+  "startGeneratingQuestions": {
+    "message": "Savollarni yaratishni boshlash",
+    "description": "aiAssistantzh.json"
+  },
+  "questionGenerationPrompt": {
+    "message": "Tugmani bosing, har bir bilim nuqtasi uchun bog'liq test savollari avtomatik ravishda yaratiladi.<br/>Agar kerak bo'lmasa, [Keyingi bosqich] tugmasini bosing va ushbu bosqichni o'ting.",
+    "description": "aiAssistantzh.json"
+  },
+  "difficultyLevel": {
+    "message": " Qiyinchilik darajasi: {level}",
+    "description": "aiAssistantzh.json"
+  },
+  "easy": {
+    "message": "Oson",
+    "description": "aiAssistantzh.json"
+  },
+  "medium": {
+    "message": "Oddiy",
+    "description": "aiAssistantzh.json"
+  },
+  "hard": {
+    "message": "Qiyin",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointCon": {
+    "message": "Bilim nuqtasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "overallProgress": {
+    "message": "Umumiy bosqich:",
+    "description": "aiAssistantzh.json"
+  },
+  "currentKnowledgePoint": {
+    "message": "Hozirgi bilim nuqtasi:",
+    "description": "aiAssistantzh.json"
+  },
+  "totalQuestionsNums": {
+    "message": "Jami {n} ta savol",
+    "description": "aiAssistantzh.json"
+  },
+  "generatingQuestionStream": {
+    "message": "Savollar yaratilayotgan...",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmStopGenerating": {
+    "message": "To'xtatgandan so'ng savollar yaratish tugaydi. To'xtatishga ishonchingiz komilmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmReturnWithoutSaving": {
+    "message": "Oldingi bosqichga qaytganingizda, yaratilgan savollar saqlanmaydi. Qaytishga ishonchingiz komilmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgePointNameWithCount": {
+    "message": "Bilim nuqtasi nomi ({n} ta)",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeType": {
+    "message": "Nodal tur",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeUnit": {
+    "message": "Bilim bo'limi",
+    "description": "aiAssistantzh.json"
+  },
+  "questionCount": {
+    "message": "Savollar soni",
+    "description": "aiAssistantzh.json"
+  },
+  "createAndSaveGraph": {
+    "message": "Grafni yaratish va saqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "savingGraph": {
+    "message": "Graf saqlanmoqda, sahifani yopmaslik...",
+    "description": "aiAssistantzh.json"
+  },
+  "saveFailed": {
+    "message": "Saqlash muvaffaqiyatsizlikka uchradi",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveFailed": {
+    "message": "Graf saqlanmadi, iltimos keyinroq qayta urinib ko'ring!",
+    "description": "aiAssistantzh.json"
+  },
+  "graphSaveSuccess": {
+    "message": "Graf muvaffaqiyatli saqlandi",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccess": {
+    "message": "Graf muvaffaqiyatli yaratildi!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewGraph": {
+    "message": "Grafni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "manageGraph": {
+    "message": "Grafni boshqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "creationSuccessDesc": {
+    "message": "Graf muvaffaqiyatli yaratildi. Siz {manageGraph} yoki {returnToHome} amallarini ham bajarishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "returnToHome": {
+    "message": "Bosh sahifaga qaytish",
+    "description": "aiAssistantzh.json"
+  },
+  "stopGenerating": {
+    "message": "Yaratishni to'xtatish",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGraphGeneration": {
+    "message": "AI tomonidan yaratilgan grafik",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraphGenerationDesc": {
+    "message": "Bilimlar bazasi asosida bilimlar grafigini o'z-o'zidan yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "graphName": {
+    "message": "Graf nomi",
+    "description": "aiAssistantzh.json"
+  },
+  "enterGraphName": {
+    "message": "Iltimos, grafik nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevel": {
+    "message": "Graf qatlamlari",
+    "description": "aiAssistantzh.json"
+  },
+  "includeRootNode": {
+    "message": "(Asosiy tugunni o'z ichiga oladi)",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePoints1": {
+    "message": "Bilim nuqtalarining umumiy soni",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelect": {
+    "message": "Iltimos, tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "startGenerate": {
+    "message": "Yaratishni boshlash",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameRequired": {
+    "message": "Graf nomi bo'sh bo'lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "graphNameLength": {
+    "message": "Graf nomi 1 dan 200 belgiga oralig'ida bo'lishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "graphLevelRequired": {
+    "message": "Graf qatlamlari bo'sh bo'lishi mumkin emas.",
+    "description": "aiAssistantzh.json"
+  },
+  "totalKnowledgePointsRequired": {
+    "message": "Bilim nuqtalarining umumiy soni bo'sh bo'lishi mumkin emas.",
+    "description": "aiAssistantzh.json"
+  },
+  "singleChoice1": {
+    "message": "Yagona tanlov",
+    "description": "aiAssistantzh.json"
+  },
+  "multipleChoice1": {
+    "message": "Ko'p tanlov",
+    "description": "aiAssistantzh.json"
+  },
+  "trueOrFalse1": {
+    "message": "Hukm qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteKnowledgePointsTip": {
+    "message": "Tanlangan bilim nuqtasi alohida joylashgan kichik bilim nuqtalarini o'z ichiga olsa, ular birga o'chiriladi. Haqiqatan ham o'chirishga qaror qildingizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "nodeNameLength": {
+    "message": "Bilim nuqtasi nomi 1 dan 200 belgiga oralig'ida bo'lishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLimitExceeded": {
+    "message": "Bugungi mavsumdagi imkoniyatlar soni tugagan.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyGenerationLimit": {
+    "message": "Har kuni grafik yaratish imkoniyatlari soni {count} marta.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragDocHere": {
+    "message": "Hujjatni shu yerga surib o'ting yuklash uchun.",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentMarkingHint1": {
+    "message": "E'tibor bering: Avtomatik baholash o'qituvchining baholash uchun shaxsiy vazifalariga va savollarli testlar / imtihonlarga tegishli bo'lib, javob matni va qo'shimcha fayllardagi rasmlar, hujjatlar (pdf/word/txt)ni o'z ichiga oladi. Boshqa formatdagi qo'shimcha fayllar hali avtomatik baholashga qo'llanilmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "submit": {
+    "message": "Tasdiqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "report": {
+    "message": "Shikoyat qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouSatisfied": {
+    "message": "Nima sizni mamnun qiladi?",
+    "description": "aiAssistantzh.json"
+  },
+  "whatMakesYouDissatisfied": {
+    "message": "Nima sizni mamnuniyatsiz qildi?",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackPlaceholder": {
+    "message": "（Tanlovga ko'ra kiritish mumkin） Bizga foydalanish tajribangiz haqida ko'proq ma'lumot berishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "noReplyAvailable": {
+    "message": "Hozircha javob yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "textbookKnowledgeNoContent": {
+    "message": "Darsliklarning ma'lumotlari doirasida tegishli mazmun yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "reportPlaceholder": {
+    "message": "Biz sizning shikoyatingiz sababini bilishni istaymiz. Siz uchragan muammoningizni tasvirlashingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectFeedbackType": {
+    "message": "Iltimos, taklif turini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "thankYouForFeedback": {
+    "message": "Taklifingiz uchun rahmat.",
+    "description": "aiAssistantzh.json"
+  },
+  "harmfulUnsafe": {
+    "message": "Zararli / xavfsiz emas",
+    "description": "aiAssistantzh.json"
+  },
+  "pornographicVulgar": {
+    "message": "Pornografik/pastki",
+    "description": "aiAssistantzh.json"
+  },
+  "abuseAttack": {
+    "message": "Sharobli va hujumli gaplar",
+    "description": "aiAssistantzh.json"
+  },
+  "illegalCriminal": {
+    "message": "Qonunga zid va jinoyat qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "privacyRelated": {
+    "message": "Shaxsiy ma'lumotlar bilan bog'liq",
+    "description": "aiAssistantzh.json"
+  },
+  "infringeCopyright": {
+    "message": "Mening mualliflik huquqiim, obro'm va boshqa huquqlarimga hujum qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "feedbackOther": {
+    "message": "Boshqa",
+    "description": "aiAssistantzh.json"
+  },
+  "contentAccurate": {
+    "message": "Mazmun to'g'ri",
+    "description": "aiAssistantzh.json"
+  },
+  "easyToUnderstand": {
+    "message": "Tushunishi oson",
+    "description": "aiAssistantzh.json"
+  },
+  "contentComplete": {
+    "message": "Mazmun to'liq",
+    "description": "aiAssistantzh.json"
+  },
+  "falseInformation": {
+    "message": "Ma'lumotlar soxta",
+    "description": "aiAssistantzh.json"
+  },
+  "notHelpful": {
+    "message": "Yordam berolmadi",
+    "description": "aiAssistantzh.json"
+  },
+  "addquestion": {
+    "message": "Savollar to'plamiga qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "addcourseware": {
+    "message": "Darsliklarga qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "deepThinking": {
+    "message": "Chamqli fikrlash",
+    "description": "aiAssistantzh.json"
+  },
+  "input": {
+    "message": "Kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "output": {
+    "message": "Chiqarish",
+    "description": "aiAssistantzh.json"
+  },
+  "AiAPP": {
+    "message": "AI foydalanishi",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistant": {
+    "message": "Tadqiqot va muhokama yordamchisi",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChat": {
+    "message": "AI bilan suhbatlashish",
+    "description": "aiAssistantzh.json"
+  },
+  "researchAssistantInfo": {
+    "message": "Tadqiqotli darslikda AI guruhning yordamchisi bo'lib, muhokama matnini yozib qolishga, muhokama natijalarini yig'ishga yordam berishi mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiChatInfo": {
+    "message": "AI darslik yordamchisi bo'lib, o'qituvchilar va talabalar bilan o'zaro munosabatda bo'lishi, savollariga javob berishi va darslik havoini jonlantirishiga ham imkon beradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "moreApp": {
+    "message": "Ko'proq foydalanish usullari",
+    "description": "aiAssistantzh.json"
+  },
+  "putAway": {
+    "message": "Yig'ish / Yopish",
+    "description": "aiAssistantzh.json"
+  },
+  "breakAgent": {
+    "message": "Yordamchini to'xtatish",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeDevelopment": {
+    "message": "Bilimlarni kengaytirish",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeExplanation": {
+    "message": "Bilimlarni tushuntirish",
+    "description": "aiAssistantzh.json"
+  },
+  "solvingSteps": {
+    "message": "Masala yechish tartibi",
+    "description": "aiAssistantzh.json"
+  },
+  "mindMap": {
+    "message": "Fikr shakli (Mind map)",
+    "description": "aiAssistantzh.json"
+  },
+  "answer1": {
+    "message": "Javob:",
+    "description": "aiAssistantzh.json"
+  },
+  "answerStep": {
+    "message": "Tushuntirish:",
+    "description": "aiAssistantzh.json"
+  },
+  "showAnswerAndStep": {
+    "message": "Javob va tushuntirishni ko'rsatish",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip1": {
+    "message": "Yuqoridagi mazmun asosida unda mavjud bo'lgan asosiy bilimlarni tushuntiramiz.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip2": {
+    "message": "Iltimos, yuqoridagi mazmun asosida qo'shimcha bilimlarni tushuntiring.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip3": {
+    "message": "Iltimos, yuqoridagi mazmun asosida tegishli savollar tuzing.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip4": {
+    "message": "Iltimos, ushbu savolni qanday yechish kerakligini tushuntiring va yechishning qisqacha tartib - raqamlarini ro'yxatga oling.",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip5": {
+    "message": "Yuqoridagi mazmunni fikr shakli (mind map) ko'rinishida yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAiTip6": {
+    "message": "Rasmdagi mazmunni ta'riflang",
+    "description": "aiAssistantzh.json"
+  },
+  "code": {
+    "message": "Kod",
+    "description": "aiAssistantzh.json"
+  },
+  "toAgentSquare": {
+    "message": "Intellektual agentlar bozorasiga borish",
+    "description": "aiAssistantzh.json"
+  },
+  "shotToAi": {
+    "message": "Snipping qilib, AI ga so'rash",
+    "description": "aiAssistantzh.json"
+  },
+  "teamCreate": {
+    "message": "Jamoa qurilishi",
+    "description": "aiAssistantzh.json"
+  },
+  "outsideShare": {
+    "message": "Tashqi kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "uploading": {
+    "message": "Yuklanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzing": {
+    "message": "Tushuntirilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "analyzingTip": {
+    "message": "Iltimos, tushuntirish tugaguncha kuting va keyin yuboring.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocTip": {
+    "message": "Har safar faqat {n} ta hujjat yuklash mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocMaxTip": {
+    "message": "Yuklangan hujjatlar soni chegarani {n} dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgSizeTip": {
+    "message": "Bitta rasimning o'lchami {n} MB dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocSizeTip": {
+    "message": "Bitta hujjatning o'lchami {n} MB dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFile": {
+    "message": "Hujjatni yuklash",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadImgTip1": {
+    "message": "png, jpg, jpeg, gif, bmp formatlarini qo'llab - quvvatlaydi. Eng ko'p 8 ta, har biri maksimal 10M.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTip": {
+    "message": "Word, PDF, TXT, PPT, PPTX formatlarini qo'llab - quvvatlaydi. Eng ko'p 10 ta, har biri maksimal 20M.",
+    "description": "aiAssistantzh.json"
+  },
+  "aiQuestionTip": {
+    "message": "AI tomonidan savol tuzish hozircha rasm yuklashni qo'llab - quvvatlamaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadFileTotalTip": {
+    "message": "Har safar faqat {n} ta fayl yuklash mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadAttachment": {
+    "message": "Faylni biriktirish",
+    "description": "aiAssistantzh.json"
+  },
+  "webSearch": {
+    "message": "Tarmoq orqali qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGeneration": {
+    "message": "O‘qituvchi rejasi yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadLimit10Docs": {
+    "message": "Har safar 10 ta hujjat yuklashga ruxsat beriladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "docFormatWordPdfOnly": {
+    "message": "Faqat Word va PDF formatidagi hujjatlarni yuklashga ruxsat beriladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "docSizeLimit512M": {
+    "message": "Yuklangan hujjatning o'lchami 512M dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewLessonPlan": {
+    "message": "O‘qituvchi rejasi ko‘rish",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordLessonPlan": {
+    "message": "Word formatidagi o‘qituvchi rejasi yuklab olish",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentEmpty": {
+    "message": "O‘qituvchi rejasi tarkibi bo'sh.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlan": {
+    "message": "o‘qituvchi rejasi",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadWordFailed": {
+    "message": "Word faylini yuklab olish muvaffaqiyatsiz bo'ldi",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadFailedRetry": {
+    "message": "Yuklab olish muvaffaqiyatsiz bo'ldi, iltimos qayta urinib ko'ring.",
+    "description": "aiAssistantzh.json"
+  },
+  "dailyLessonPlanGenerationLimit": {
+    "message": "Har kuni o‘qituvchi rejasi yaratish imkoniyatini {count} marta ishlatishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanByTheme": {
+    "message": "Mavzuga asoslanib bevosita o‘qituvchi rejasi yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "topicName": {
+    "message": "Mavzu nomi",
+    "description": "aiAssistantzh.json"
+  },
+  "enterTopicName": {
+    "message": "Mavzu nomini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "recommendedTopics": {
+    "message": "Taklif qilinadigan mavzular:",
+    "description": "aiAssistantzh.json"
+  },
+  "changeTopics": {
+    "message": "Boshqasini tanlash",
+    "description": "aiAssistantzh.json"
+  },
+  "studentGrade": {
+    "message": "Talabalarning maktab bosqichi",
+    "description": "aiAssistantzh.json"
+  },
+  "selectGrade": {
+    "message": "Maktab bosqichini tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "subject": {
+    "message": "Fan",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSubject": {
+    "message": "Fanni tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContent": {
+    "message": "O‘qituvchi rejasi tarkibi",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmDeleteLessonPlanModule": {
+    "message": "\"{contentTitle}\" nomli o‘qituvchi rejasi moduli haqida o‘chirishni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "deleteLessonPlanModule": {
+    "message": "O‘qituvchi rejasi moduli o‘chirilsin.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleLimit20": {
+    "message": "O‘qituvchi rejasi modullari soni 20 dan oshib bo‘lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "addLessonPlanModule": {
+    "message": "O‘qituvchi rejasi moduli qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterLessonPlanModuleName": {
+    "message": "Iltimos, o‘qituvchi rejasi moduli nomini kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanModuleNameLimit200": {
+    "message": "O‘qituvchi rejasi moduli nomi 200 belgidan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModel": {
+    "message": "Katta til modeli",
+    "description": "aiAssistantzh.json"
+  },
+  "selectLargeModel": {
+    "message": "Katta til modeli",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterials": {
+    "message": "Kopaytma materiallar",
+    "description": "aiAssistantzh.json"
+  },
+  "referenceMaterialsDesc": {
+    "message": "O‘qituvchi rejasi yaratishning aniqligini oshirish uchun dars rejasi, kitoblar va boshqa hujjatlarni yuklab bo‘lishingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "otherRequirements": {
+    "message": "Boshqa talablar",
+    "description": "aiAssistantzh.json"
+  },
+  "enterOtherRequirements": {
+    "message": "Iltimos, boshqa talablarni kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlanOneClick": {
+    "message": "Bir bosishda dars rejasi yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameRequired": {
+    "message": "Mavzu nomi majburiy kiritilishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "topicNameLimit200": {
+    "message": "Mavzu nomi 200 belgidan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "gradeRequired": {
+    "message": "Maktab bosqichi majburiy kiritilishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "subjectRequired": {
+    "message": "Fan majburiy kiritilishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanContentRequired": {
+    "message": "O‘qituvchi rejasi tarkibi majburiy kiritilishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelRequired": {
+    "message": "Katta modellar majburiy kiritilishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "saving": {
+    "message": "Saqlanmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "save": {
+    "message": "Saqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "replace": {
+    "message": "Almashtirish",
+    "description": "aiAssistantzh.json"
+  },
+  "insert": {
+    "message": "E'lon qilish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterCommandForTextOptimization": {
+    "message": "Iltimos, matnni yaxshilash uchun buyruq kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "polish": {
+    "message": "Zarf-lotinfiz",
+    "description": "aiAssistantzh.json"
+  },
+  "expand": {
+    "message": "Kengaytirish",
+    "description": "aiAssistantzh.json"
+  },
+  "condense": {
+    "message": "Qisqartirish",
+    "description": "aiAssistantzh.json"
+  },
+  "rewriteFailed": {
+    "message": "Tahrirlash muvaffaqiyatsizlikka uchradi, iltimos qayta urinib ko'ring.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanGenerationFailed": {
+    "message": "Dars rejasi yaratish muvaffaqiyatsizlikka uchradi, iltimos, qayta urinib ko'ring.",
+    "description": "aiAssistantzh.json"
+  },
+  "lessonPlanSaved": {
+    "message": "Dars rejasi saqlandi.",
+    "description": "aiAssistantzh.json"
+  },
+  "imagePreview": {
+    "message": "Rasmning ko'rinishi",
+    "description": "aiAssistantzh.json"
+  },
+  "fileSizeLimit5M": {
+    "message": "Fayl hajmi 5 M dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterContent": {
+    "message": "Matn kiriting...",
+    "description": "aiAssistantzh.json"
+  },
+  "allRepository": {
+    "message": "Barcha ma'lumotlar bazasi",
+    "description": "aiAssistantzh.json"
+  },
+  "emptyStuTip": {
+    "message": "Hozircha o'quvchi ma'lumotlari yo'q.",
+    "description": "aiAssistantzh.json"
+  },
+  "largeModelMust": {
+    "message": "Katta modellar majburiy tanlanishi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "question2": {
+    "message": "Savol",
+    "description": "aiAssistantzh.json"
+  },
+  "notSupportAiMark": {
+    "message": "Ushbu qo'shimcha fayl intellektual baholashga qo'llanib bo'lmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "view": {
+    "message": "Ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip1": {
+    "message": "Baholash sinovi natijalari saqlanmaydi.",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip2": {
+    "message": "Baholash natijasi kutilganidek ekanligiga ishonch hosil bo'lgach, baholashni boshlashni tanlashingiz mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "markTip3": {
+    "message": "Baholash sinovi muvaffaqiyatsizlikka uchradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadMarkdown": {
+    "message": "Markdown dars rejasi yuklab olish",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnalysis": {
+    "message": "Fayl tahlili davom etmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "downloadText": {
+    "message": "Dars rejasi yuklab olish",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestion": {
+    "message": "Intellektual savol yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentQuestionDesc": {
+    "message": "Bilim nuqtalariga asoslanib intellektual ravishda savollar yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "inputKnowledgePoint": {
+    "message": "Bilim nuqtalarini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgePoint": {
+    "message": "Bilim nuqtalarini tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "enterKnowledgePointNameTip": {
+    "message": "Iltimos, bilim nuqtalarining nomini kiriting va Enter tugmasini bosing.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQuestionType": {
+    "message": "Iltimos, savol turlini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "uploadDocumentHint": {
+    "message": "Darsliklar, bilim nuqtalarini tushuntirish hujjatlarini yuklab qo'yish mumkin, bu esa savollarni yaratish aniqligini oshiradi.\n",
+    "description": "aiAssistantzh.json"
+  },
+  "mediaFileNote": {
+    "message": "E'tibor bering: Audio - video fayllari, faqat yozuvli fayllari bo'lgan audio - video fayllari tanlanishi mumkin.\n",
+    "description": "aiAssistantzh.json"
+  },
+  "selectedKnowledgePointsCount": {
+    "message": "Siz {n} ta bilim nuqtasini tanladingiz.",
+    "description": "aiAssistantzh.json"
+  },
+  "saveToQuestionBank": {
+    "message": "Savollar bazasiga saqlash",
+    "description": "aiAssistantzh.json"
+  },
+  "selectSaveDirectory": {
+    "message": "Saqlash katalogini tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "saveDescription": {
+    "message": "Yaratilgan savollar tanlangan savollar bazasi katalogiga saqlanadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNumTip": {
+    "message": "Har bir bilim nuqtasi uchun yaratilgan savollar soni",
+    "description": "aiAssistantzh.json"
+  },
+  "selectQNum": {
+    "message": "Iltimos, savollar sonini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip": {
+    "message": "Tanlangan bilim nuqtalari yaratilgan savollarga avtomatik ravishda belgilanadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "noPoints": {
+    "message": "Hozircha bilim nuqtasi yo'q",
+    "description": "aiAssistantzh.json"
+  },
+  "selectKnowledgeGraphTip": {
+    "message": "Iltimos, bilimlar xaritasini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "knowledgeGraph": {
+    "message": "Bilimlar xaritası:",
+    "description": "aiAssistantzh.json"
+  },
+  "add": {
+    "message": "Qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip1": {
+    "message": "Iltimos, bilim nuqtalarini tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectPointTip2": {
+    "message": "Bilim nuqtalarining maksimal soni {n} ta",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsRequired": {
+    "message": "Bilim nuqtasi bo'sh bo'lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "pointsTips": {
+    "message": "Bilim nuqtasi 200 belgidan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionTypeRequired": {
+    "message": "Savol turi majburiy kiritish kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "questionNumRequired": {
+    "message": "Savol turi majburiy kiritish kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "modelRequired": {
+    "message": "Katta modellar sozlangan emas, administrator bilan bog'laning.",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestion": {
+    "message": "Savollar saqlanmoqda, sahifani yopmang...",
+    "description": "aiAssistantzh.json"
+  },
+  "savingQuestionFailed": {
+    "message": "Savollarni saqlash muvaffaqiyatsizlikka uchradi, iltimos, keyinroq qayta urinib ko'ring!",
+    "description": "aiAssistantzh.json"
+  },
+  "questionSaved": {
+    "message": "Savollar muvaffaqiyatli saqlandi!",
+    "description": "aiAssistantzh.json"
+  },
+  "viewQBank": {
+    "message": "Savollar bazasini ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "creationQSuccessDesc": {
+    "message": "Savollar muvaffaqiyatli saqlandi, siz {viewQBank} yoki {returnToHome} bo'lishi mumkin.",
+    "description": "aiAssistantzh.json"
+  },
+  "all": {
+    "message": "Barchasi",
+    "description": "aiAssistantzh.json"
+  },
+  "shareFolder": {
+    "message": "Bo'linadigan papka",
+    "description": "aiAssistantzh.json"
+  },
+  "selectFolderDesc": {
+    "message": "Yaratilgan savollar tanlangan savollar bazasi katalogiga saqlanadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "targetFolder": {
+    "message": "Iltimos, maqsadli papkani tanlang.",
+    "description": "aiAssistantzh.json"
+  },
+  "pointNameTip": {
+    "message": "Bilim nuqtasi nomi {n} belgidan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "allTypes": {
+    "message": "Barcha turlar",
+    "description": "aiAssistantzh.json"
+  },
+  "imageText": {
+    "message": "Rasm va matn",
+    "description": "aiAssistantzh.json"
+  },
+  "other": {
+    "message": "Boshqa",
+    "description": "aiAssistantzh.json"
+  },
+  "resourceName": {
+    "message": "Resurs nomi",
+    "description": "aiAssistantzh.json"
+  },
+  "currentPosition": {
+    "message": "hozirgi joy",
+    "description": "aiAssistantzh.json"
+  },
+  "fileAnTip": {
+    "message": "Fayl tahlili davom etmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "noQuestion": {
+    "message": "Mavzu boş bo'lmasin",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestion": {
+    "message": "Boshqa muammolar",
+    "description": "aiAssistantzh.json"
+  },
+  "otherQuestionTip": {
+    "message": "Tizim yangilanmoqda, iltimos, kutib turing!",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePage": {
+    "message": "Bitta sahifa yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGenerateSinglePage": {
+    "message": "AI bilan bitta sahifa yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageRequirements": {
+    "message": "Bitta sahifa uchun talablar",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirements": {
+    "message": "Iltimos, bitta sahifa yaratish uchun talablarni kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleLabel": {
+    "message": "Namuna:",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleSingleChoice": {
+    "message": "Artificial Intelligence bo‘yicha 1 ta tanlov savoli yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "exampleCase": {
+    "message": "Artificial Intelligence bo‘yicha 1 ta misol yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentEdit": {
+    "message": "Bitta sahifa tarkibi tahrirlash",
+    "description": "aiAssistantzh.json"
+  },
+  "generateSinglePageContent": {
+    "message": "Bitta sahifa tarkibini yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "insertPPT": {
+    "message": "PPT ni kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "insertBefore": {
+    "message": "Sahifadan oldin kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "insertAfter": {
+    "message": "Sahifadan keyin kiritish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterSinglePageRequirementsError": {
+    "message": "Iltimos, bitta sahifa uchun talablarni kiriting.",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentRequired": {
+    "message": "Bitta sahifa tarkibi bo‘sh bo‘lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "inserting": {
+    "message": "Kiritilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "insertSuccess": {
+    "message": "Kiritish muvaffaqiyatli amalga oshirildi",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageLimitError": {
+    "message": "AI bilan yaratilgan bitta sahifalar soni 10 dan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "themeGeneration": {
+    "message": "Mavzu yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc": {
+    "message": "Dars rejasi, darslik va boshqa hujjatlarni yuklash mumkin, bu esa yaratilayotgan PPT ning aniqligini oshiradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHere": {
+    "message": "Hujjatni shu yerga surib oting",
+    "description": "aiAssistantzh.json"
+  },
+  "pptUploadFormat": {
+    "message": "Hujjatlarda word, pdf formatlari qo‘llaniladi. Rasmlar uchun esa png, jpg, gif, jpeg, bmp formatlari qo‘llaniladi.",
+    "description": "aiAssistantzh.json"
+  },
+  "dragFileHereToUpload": {
+    "message": "Hujjatni shu yerga surib o‘tib yuklang.",
+    "description": "aiAssistantzh.json"
+  },
+  "outlineGeneration": {
+    "message": "Qoidabook yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutline": {
+    "message": "Tarkib qoidabooki",
+    "description": "aiAssistantzh.json"
+  },
+  "generate": {
+    "message": "Yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "pptReferenceMaterialsDesc2": {
+    "message": "Kopiyalab yoki kiritilgan qo'llanma qoidabooki, yaratilayotgan PPT ning aniqligini oshiradi.",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineRequired": {
+    "message": "Tarkib qoidabooki bo'sh bo'lmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "contentOutlineLimit30000": {
+    "message": "Tarkib qoidabookining matni 30000 ta harfdan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "pptGenerationDescribe": {
+    "message": "Mavzuga yoki qoidabookiga asoslanib PPT ni o‘qilona yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "enterThemeNameGeneratePPT": {
+    "message": "Mavzu nomini kiritib, PPT yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "pasteOrEnterOutlineGeneratePPT": {
+    "message": "Qo'llanma qoidabookini yoki matnini yuklab yoki kiritib, PPT yaratish.",
+    "description": "aiAssistantzh.json"
+  },
+  "recentlyGenerated": {
+    "message": "Yaqinda yaratilganlar",
+    "description": "aiAssistantzh.json"
+  },
+  "viewMore": {
+    "message": "Ko'proq ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "singlePageContentLengthError": {
+    "message": "Bitta sahifadagi matn 2000 ta harfdan oshmasligi kerak.",
+    "description": "aiAssistantzh.json"
+  },
+  "cozeAgent": {
+    "message": "Coze agenti",
+    "description": "aiAssistantzh.json"
+  },
+  "noSdkPermission": {
+    "message": "Tasdiqlanmagan API / Chat SDK",
+    "description": "aiAssistantzh.json"
+  },
+  "deleting": {
+    "message": "O'chirilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "selectedEchartCount": {
+    "message": "{n} ta diagramma tanlangan",
+    "description": "aiAssistantzh.json"
+  },
+  "stuAnalysis": {
+    "message": "Talabalarning o‘qish holati tahlili",
+    "description": "aiAssistantzh.json"
+  },
+  "accurateInsightLearningReport": {
+    "message": "Talabalarning o‘qish holatini aniq tushunib, o‘qilona tahlil xulosasini yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "learningInsightDashboard": {
+    "message": "Talabalarning o‘qish holatini tushuncha dasturi dialspey",
+    "description": "aiAssistantzh.json"
+  },
+  "addChart": {
+    "message": "Diagramma qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddSuccess": {
+    "message": "Diagramma muvaffaqiyatli qo'shildi",
+    "description": "aiAssistantzh.json"
+  },
+  "chartAddFailed": {
+    "message": "Diagramma qo'shishda xatolik yuz berdi",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisReport": {
+    "message": "Tahlil hisoboti",
+    "description": "aiAssistantzh.json"
+  },
+  "systemDefaultChart": {
+    "message": "Tizimning standart diagrammalari",
+    "description": "aiAssistantzh.json"
+  },
+  "collectedChart": {
+    "message": "Saklab qo'yilgan diagrammalar",
+    "description": "aiAssistantzh.json"
+  },
+  "removeChart": {
+    "message": "Diagrammani olib tashlash",
+    "description": "aiAssistantzh.json"
+  },
+  "confirmRemove": {
+    "message": "Haqiqatan ham olib tashlashni hohlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "learningAnalysisAssistant": {
+    "message": "Talabalarning o‘qish holati tahlili yordamchisi",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQuery": {
+    "message": "AI ga so'rang, o‘qilona darslarning o‘qish holati ma’lumotlarini qidirish",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseEnterQuery": {
+    "message": "Iltimos, qidiruv matnini kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "everyoneIsAsking": {
+    "message": "Misol:",
+    "description": "aiAssistantzh.json"
+  },
+  "helloLearningAssistant": {
+    "message": "Salom, men o‘qish holati tahlili yordamchiman",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassCoursewareProgress": {
+    "message": "Vazifa tugatish darajasi 30% dan past bo'lgan talabalar",
+    "description": "aiAssistantzh.json"
+  },
+  "studentsWithLowHomeworkRate": {
+    "message": "So‘nggi imtihon natijalarining taqsimoti",
+    "description": "aiAssistantzh.json"
+  },
+  "compareClassExamAverage": {
+    "message": "Baholash natijalari bo‘yicha boshidan 5 - o‘rinda turgan talabalar",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGenerating": {
+    "message": "Diagramma yaratilmoqda...",
+    "description": "aiAssistantzh.json"
+  },
+  "addedToDashboard": {
+    "message": "Dialspeyga qo'shildi",
+    "description": "aiAssistantzh.json"
+  },
+  "addToDashboard": {
+    "message": "Dialspeyga qo'shish",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollect": {
+    "message": "Saklab qo'yganlardan olib tashlash",
+    "description": "aiAssistantzh.json"
+  },
+  "cancelCollectConfirm": {
+    "message": "Saklab qo'yganlardan olib tashlaganizdan keyin qaytarib bo'lmaydi, haqiqatan ham olib tashlashni tasdiqlaysizmi?",
+    "description": "aiAssistantzh.json"
+  },
+  "aiGeneratedReferenceOnly": {
+    "message": "Yuqoridagi barcha mazmun AI tomonidan yaratilgan va faqat siz uchun maslahat uchun.",
+    "description": "aiAssistantzh.json"
+  },
+  "editName": {
+    "message": "Nomi o‘zgartirish",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedBtn": {
+    "message": "Yaratish muvaffaqiyatsiz bo‘ldi, {n} ni bosing",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGeneratingStatus": {
+    "message": "Yaratilmoqda",
+    "description": "aiAssistantzh.json"
+  },
+  "regenerateChartBtn": {
+    "message": "Diagrammani qayta yaratish",
+    "description": "aiAssistantzh.json"
+  },
+  "noChartsAdded": {
+    "message": "Hozircha diagramma qo'shilmagan.",
+    "description": "aiAssistantzh.json"
+  },
+  "enterChartName": {
+    "message": "Iltimos nomni kiriting",
+    "description": "aiAssistantzh.json"
+  },
+  "chartRegeneratedSuccess": {
+    "message": "Diagramma qayta yaratildi.",
+    "description": "aiAssistantzh.json"
+  },
+  "chartNameRequired": {
+    "message": "Nom bo'sh bo'lishi mumkin emas",
+    "description": "aiAssistantzh.json"
+  },
+  "askAiIntelligentQueryHint": {
+    "message": "Hozircha ma'lumotlarni qidirish uchun ruxsat etilayotgan diapazon (uzaytirilayotgan):<br/>- Dars asosiy ma'lumotlari: dars ma'lumotlari, sinf ma'lumotlari, o'qituvchi guruhi ma'lumotlari, talaba ma'lumotlari.<br/>- Darslik bo'limlari: darslik nomi, darslik bo'limlarining asosiy qoidasi, talabalarning darslik o'qish yodgorligi.<br/>- Bilimlar tarkibi: bilim nuqtalarining asosiy qoidasi, talabalarning bilim nuqtalarini o'rganish darajasi.<br/>- Dars vazifalari: vazifa ma'lumotlari, talabalarning vazifani bajarish holati.<br/>- Sinf tadbirlari: sinf ma'lumotlari, tadbir ma'lumotlari, talabalarning ro'yxatga olinganligi va sinf baholari.<br/>- Dars imtihonlari: imtihon ma'lumotlari, talabalarning imtihonda javob berish yodgorligi.<br/>- Dars baholash: har bir sinfning baholash qoidasi, talabalarning baholash natijalari.<br/>- Dars AI yordamchisi: AI yordamchisi ma'lumotlari, talabalarning savol qilish yodgorligi.<br/><br/>Ma'lumotlar yangilanish qoidasi: Har kuni bir marta yangilanadi.",
+    "description": "aiAssistantzh.json"
+  },
+  "viewAllCharts": {
+    "message": "Barcha diagrammalarni ko'rish",
+    "description": "aiAssistantzh.json"
+  },
+  "pleaseSelectEchart": {
+    "message": "Iltimos, diagrammani tanlang",
+    "description": "aiAssistantzh.json"
+  },
+  "generationFailedErrBtn": {
+    "message": "Hozircha tegishli ma'lumot topilmadi, iltimos, tegishli ma'lumotlarni qo'shing va keyin {n} ni bosing",
+    "description": "aiAssistantzh.json"
+  }
+}
