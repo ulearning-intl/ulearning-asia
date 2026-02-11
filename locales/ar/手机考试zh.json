@@ -24,7 +24,7 @@
     "description": "手机考试zh.json"
   },
   "points": {
-    "message": "{n} دقيقة",
+    "message": "اجمالي الدرجات {n}",
     "description": "手机考试 -> 考试详情 -> 及格分数 \n 手机考试 -> 考试详情 -> 进入考试 -> 滑动到第一页 -> 奖杯图标右侧 \n 手机考试 -> 交卷后 -> 考试详情 -> 用户头像右侧 \n 手机考试 -> 交卷后 -> 考试详情 -> 答题记录列表 (需要用户有多个答题记录，才会弹出答题记录列表)"
   },
   "examTime": {
@@ -52,11 +52,11 @@
     "description": "手机考试zh.json"
   },
   "timesOf": {
-    "message": "{current}/{total} وقت . ",
+    "message": "{current}/{total} محاولة",
     "description": "手机考试 -> 考试详情 -> 答题次数"
   },
   "passingScore": {
-    "message": "درجة النجاح",
+    "message": "اجمالي الدرجات",
     "description": "手机考试zh.json"
   },
   "lateTime": {
@@ -248,7 +248,7 @@
     "description": "手机考试zh.json"
   },
   "reExam": {
-    "message": "اعادة الامتحان",
+    "message": "اعادالجلوسة",
     "description": "手机考试zh.json"
   },
   "examNotExist": {
@@ -564,7 +564,7 @@
     "description": "手机考试zh.json"
   },
   "totalNum": {
-    "message": "مجموع الأسئلة {num}",
+    "message": "اجمالي الأسئلة {num}",
     "description": "手机考试zh.json"
   },
   "question1": {
@@ -872,7 +872,7 @@
     "description": "手机考试zh.json"
   },
   "swipeTip": {
-    "message": "اسحب لليسار أو لليمين لتبديل الصفحات",
+    "message": "مرّر الشاشة للانتقال إلى الأسئل",
     "description": "手机考试zh.json"
   },
   "mobilePermissionTip1": {
@@ -1260,7 +1260,15 @@
     "description": "手机考试zh.json"
   },
   "answerTime1": {
-    "message": "عدد الطلبات المقدمة",
+    "message": "عدد محاولات حل الامتحان",
+    "description": "手机考试zh.json"
+  },
+  "cannotScanTip": {
+    "message": "ألا تستطيع المسح الضوئي للرمز للتسجيل؟",
+    "description": "手机考试zh.json"
+  },
+  "useCodeSignin": {
+    "message": "استخدم رمز التحقق للتسجيل",
     "description": "手机考试zh.json"
   }
 }
