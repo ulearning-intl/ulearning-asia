@@ -1,0 +1,490 @@
+{
+  "virtual.grade": {
+    "message": "实验成绩",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseList": {
+    "message": "实验资源",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experiment": {
+    "message": "虚拟仿真实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterKeywordSearch": {
+    "message": "输入关键字搜索",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createVirtualCourse": {
+    "message": "创建虚仿课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createAiExperimentCourse": {
+    "message": "创建AI实验课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.responsibleTeacher": {
+    "message": "负责教师",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suitableStage": {
+    "message": "适合学段",
+    "description": "ulearning_refactor"
+  },
+  "virtual.published": {
+    "message": "已发布",
+    "description": "ulearning_refactor"
+  },
+  "virtual.unpublished": {
+    "message": "未发布",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewCourse": {
+    "message": "查看课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseHomepage": {
+    "message": "课程主页",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishCourse": {
+    "message": "发布课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteCourse": {
+    "message": "删除课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.withdrawCourse": {
+    "message": "撤回课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noCourse": {
+    "message": "暂无课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createCourse": {
+    "message": "创建课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseName": {
+    "message": "请输入课程名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.confirm": {
+    "message": "确定",
+    "description": "ulearning_refactor"
+  },
+  "virtual.cancel": {
+    "message": "取消",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseNameLimit": {
+    "message": "虚仿课程名称最多50字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allStatus": {
+    "message": "全部状态",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noPermissionTip": {
+    "message": "您的账号暂未开通虚拟仿真实验相关权限，请联系线上客服或拨打电话客服电话400 610 7808咨询开通。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.tip": {
+    "message": "提示",
+    "description": "ulearning_refactor"
+  },
+  "virtual.iKnow": {
+    "message": "我知道了",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishConfirmTip": {
+    "message": "发布课程后，教师可以在班课中引用实验资源，确定发布吗？",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishSuccess": {
+    "message": "发布成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteConfirmTip": {
+    "message": "确定删除课程吗？",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteFailTip": {
+    "message": "{name}虚仿课程中实验资源已被班课引用，无法删除。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.updateSuccess": {
+    "message": "更新成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.withdrawConfirmTip": {
+    "message": "课程撤回后，未引用实验的班课将不能使用实验资源，已引用的班课不受影响，确定撤回课程吗？",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createSuccess": {
+    "message": "创建成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.aiExperiment": {
+    "message": "AI实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterNameOrStudentId": {
+    "message": "输入姓名或学号搜索",
+    "description": "ulearning_refactor"
+  },
+  "virtual.all": {
+    "message": "全部",
+    "description": "ulearning_refactor"
+  },
+  "virtual.finished": {
+    "message": "已完成",
+    "description": "ulearning_refactor"
+  },
+  "virtual.learning": {
+    "message": "学习中",
+    "description": "ulearning_refactor"
+  },
+  "virtual.unfinished": {
+    "message": "未完成",
+    "description": "ulearning_refactor"
+  },
+  "virtual.notStart": {
+    "message": "未开始",
+    "description": "ulearning_refactor"
+  },
+  "virtual.class": {
+    "message": "班级",
+    "description": "ulearning_refactor"
+  },
+  "virtual.name": {
+    "message": "姓名",
+    "description": "ulearning_refactor"
+  },
+  "virtual.studentId": {
+    "message": "学号",
+    "description": "ulearning_refactor"
+  },
+  "virtual.status": {
+    "message": "状态",
+    "description": "ulearning_refactor"
+  },
+  "virtual.times": {
+    "message": "次数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.startTime": {
+    "message": "开始时间",
+    "description": "ulearning_refactor"
+  },
+  "virtual.endTime": {
+    "message": "结束时间",
+    "description": "ulearning_refactor"
+  },
+  "virtual.progress": {
+    "message": "学习进度",
+    "description": "ulearning_refactor"
+  },
+  "virtual.duration": {
+    "message": "时长",
+    "description": "ulearning_refactor"
+  },
+  "virtual.score": {
+    "message": "成绩",
+    "description": "ulearning_refactor"
+  },
+  "virtual.operate": {
+    "message": "操作",
+    "description": "ulearning_refactor"
+  },
+  "virtual.view": {
+    "message": "查看",
+    "description": "ulearning_refactor"
+  },
+  "virtual.reScore": {
+    "message": "重新评分",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentScoreDetail": {
+    "message": "实验步骤成绩详情",
+    "description": "ulearning_refactor"
+  },
+  "virtual.getScore": {
+    "message": "得分",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fullScoreHint": {
+    "message": "满分100分",
+    "description": "ulearning_refactor"
+  },
+  "virtual.originalScore": {
+    "message": "原始分数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.scoreUnit": {
+    "message": "分",
+    "description": "ulearning_refactor"
+  },
+  "virtual.comment": {
+    "message": "评语",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addCommentPlaceholder": {
+    "message": "请添加评语",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allTeacher": {
+    "message": "全部教师",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allClass": {
+    "message": "全部班级",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterScoreRule": {
+    "message": "请输入分数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.scorePatternRule": {
+    "message": "请输入0-100的分数，最多一位小数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.commentLimitRule": {
+    "message": "评语不能超过500字符",
+    "description": "ulearning_refactor"
+  },
+  "virtual.modifySuccess": {
+    "message": "修改成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherLabel": {
+    "message": "教师",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pageView": {
+    "message": "浏览量",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTimes": {
+    "message": "实验人次",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPeoples": {
+    "message": "实验人数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.averageTime": {
+    "message": "实验平均用时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.passRate": {
+    "message": "实验通过率",
+    "description": "ulearning_refactor"
+  },
+  "virtual.startExperiment": {
+    "message": "开始实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentIntroduction": {
+    "message": "实验介绍",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentGuide": {
+    "message": "实验指南",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherIntroduction": {
+    "message": "师资介绍",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherRoleTip": {
+    "message": "当前登录的是教师帐号，请切换到学生模式再开始实验！",
+    "description": "ulearning_refactor"
+  },
+  "virtual.switchToStudentMode": {
+    "message": "切换到学生模式",
+    "description": "ulearning_refactor"
+  },
+  "virtual.chooseExperimentTimeTip": {
+    "message": "请选择实验开始时间，可切换实验开始时间查看每次实验成绩详情。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentStartTime": {
+    "message": "实验开始时间",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentEndTime": {
+    "message": "实验结束时间",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentStatus": {
+    "message": "状态",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTimeUsed": {
+    "message": "实验用时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentScore": {
+    "message": "实验成绩",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepScore": {
+    "message": "步骤成绩",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentFile": {
+    "message": "实验文件",
+    "description": "ulearning_refactor"
+  },
+  "virtual.serialNumber": {
+    "message": "序号",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepName": {
+    "message": "实验步骤名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.timeUsedSeconds": {
+    "message": "实验用时（秒）",
+    "description": "ulearning_refactor"
+  },
+  "virtual.reasonableTimeSeconds": {
+    "message": "合理用时（秒）",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepScoreLabel": {
+    "message": "步骤得分",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fileName": {
+    "message": "文件名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fileFormat": {
+    "message": "文件格式",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewFile": {
+    "message": "查看",
+    "description": "ulearning_refactor"
+  },
+  "virtual.backToPrevious": {
+    "message": "返回上一级",
+    "description": "ulearning_refactor"
+  },
+  "virtual.trainingProject": {
+    "message": "实训项目",
+    "description": "ulearning_refactor"
+  },
+  "virtual.basicInfo": {
+    "message": "基本信息",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teamMembers": {
+    "message": "团队成员",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseHours": {
+    "message": "课程学时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.academicStage": {
+    "message": "学段",
+    "description": "ulearning_refactor"
+  },
+  "virtual.school": {
+    "message": "学校",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suitableSpeciality": {
+    "message": "适合专业",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseIntroduction": {
+    "message": "课程介绍",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseDirectory": {
+    "message": "课程目录",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseSummary": {
+    "message": "课程简介",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseTarget": {
+    "message": "课程目标",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseContent": {
+    "message": "课程内容",
+    "description": "ulearning_refactor"
+  },
+  "virtual.expectedEffect": {
+    "message": "预期效果",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teachingResourcePackage": {
+    "message": "教学资源包",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewExperimentDetail": {
+    "message": "查看实验详情",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentHours": {
+    "message": "实验学时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.belongToCourse": {
+    "message": "所属课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.organization": {
+    "message": "所属机构",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourse": {
+    "message": "进入课程",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentMustRead": {
+    "message": "实验必读",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTeachingTarget": {
+    "message": "实验教学目标",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPrinciple": {
+    "message": "实验原理",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentProcessAndMethod": {
+    "message": "实验过程与方法",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentSteps": {
+    "message": "实验步骤",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentResultAndConclusion": {
+    "message": "实验结果与结论",
+    "description": "ulearning_refactor"
+  },
+  "virtual.networkRequirement": {
+    "message": "网络要求",
+    "description": "ulearning_refactor"
+  },
+  "virtual.hardwareRequirement": {
+    "message": "硬件要求",
+    "description": "ulearning_refactor"
+  },
+  "virtual.osRequirement": {
+    "message": "操作系统要求",
+    "description": "ulearning_refactor"
+  }
+}
