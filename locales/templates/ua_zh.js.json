@@ -257,7 +257,7 @@
   },
   "autoSaveAt": {
     "message": "已于{time}自动保存",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 右上角"
+    "description": "UA -> 教师 -> 编辑课件 -> 右上角"
   },
   "automaticSorting": {
     "message": "自动排序",
@@ -276,7 +276,7 @@
     "description": "UA"
   },
   "backToCourseHomepage": {
-    "message": "返回课程章节主页",
+    "message": "返回课件主页",
     "description": "UA"
   },
   "backgroundIsWorking": {
@@ -296,7 +296,7 @@
     "description": "UA"
   },
   "bankeBindTipsLine4": {
-    "message": "如果您还没有班课，请先登录教师帐号创建班课，并关联课程章节。",
+    "message": "如果您还没有班课，请先登录教师帐号创建班课，并关联课件。",
     "description": "UA"
   },
   "bankeCode": {
@@ -616,11 +616,11 @@
     "description": "UA"
   },
   "courseChapter": {
-    "message": "课程章节章节",
+    "message": "课件章节",
     "description": "UA"
   },
   "courseContent": {
-    "message": "课程章节内容",
+    "message": "课件内容",
     "description": "UA"
   },
   "courseCover": {
@@ -656,11 +656,11 @@
     "description": "UA"
   },
   "courseQuestions": {
-    "message": "课程章节试题",
+    "message": "课件试题",
     "description": "UA"
   },
   "courseResources": {
-    "message": "课程章节资源",
+    "message": "课件资源",
     "description": "UA"
   },
   "courseReviewTips": {
@@ -720,11 +720,11 @@
     "description": "UA -> 教师 -> 首页 -> 相关代码已隐藏，因此无法在页面上看到"
   },
   "coursewareQBank": {
-    "message": "课程章节题库",
+    "message": "课件题库",
     "description": "UA"
   },
   "coursewareQuestionBank": {
-    "message": "课程章节题库",
+    "message": "课件题库",
     "description": "UA"
   },
   "create": {
@@ -744,11 +744,11 @@
     "description": "UA"
   },
   "createCourse": {
-    "message": "创建课程章节",
+    "message": "创建课件",
     "description": "UA"
   },
   "createCourseChapter": {
-    "message": "创建课程章节",
+    "message": "创建课件",
     "description": "UA"
   },
   "createNewChapter": {
@@ -984,7 +984,7 @@
     "description": "UA"
   },
   "editCourse": {
-    "message": "编辑课程章节",
+    "message": "编辑课件",
     "description": "UA"
   },
   "editCourse1": {
@@ -992,7 +992,7 @@
     "description": "UA"
   },
   "editCourseContent": {
-    "message": "编辑课程章节内容",
+    "message": "编辑课件内容",
     "description": "UA"
   },
   "editQ": {
@@ -1072,7 +1072,7 @@
     "description": "UA"
   },
   "enterCourseName": {
-    "message": "请输入课程章节名称",
+    "message": "请输入课件名称",
     "description": "UA"
   },
   "enterDescriptionOrMaterial": {
@@ -1393,19 +1393,19 @@
   },
   "evaluationHasChinese": {
     "message": "第{n}段评测内容中有中文",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
   },
   "evaluationEmpty": {
     "message": "第{n}段请输入评测内容",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
   },
   "referenceAnswerEmpty": {
     "message": "第{n}段请输入参考答案",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
   },
   "referenceTextHasChinese": {
     "message": "第{n}段评分参照文本中有中文",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分"
   },
   "followReadingFormat": {
     "message": "mp3格式，不能超过3M",
@@ -1524,7 +1524,7 @@
     "description": "UA"
   },
   "highlightsTip1": {
-    "message": "课程章节的介绍或宣传视频，显示在门户主页上",
+    "message": "课件的介绍或宣传视频，显示在门户主页上",
     "description": "UA"
   },
   "highlightsTip2": {
@@ -1749,7 +1749,7 @@
   },
   "inputMinutes": {
     "message": "{input}分钟",
-    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "modifyFail": {
     "message": "修改失败",
@@ -2061,7 +2061,7 @@
   },
   "stopTimingTip": {
     "message": "为保证学习记录的准确，系统已于{time}停止了该页面的学习，且该页面的学习记录不会保存。",
-    "description": "UA -> 学生账户 -> 学习课程章节"
+    "description": "UA -> 学生账户 -> 学习课件"
   },
   "pageHasBeenEditedConfirmDelete": {
     "message": "当前页面已被编辑，确定删除吗？",
@@ -2136,7 +2136,7 @@
     "description": "UA"
   },
   "previewCourse": {
-    "message": "预览课程章节",
+    "message": "预览课件",
     "description": "UA"
   },
   "price": {
@@ -2160,7 +2160,7 @@
     "description": "UA"
   },
   "publishConfirm": {
-    "message": "确认发布该课程章节吗",
+    "message": "确认发布该课件吗",
     "description": "UA"
   },
   "publishCourse": {
@@ -2237,11 +2237,11 @@
   },
   "questionError": {
     "message": "本页第{n}道题数据有误，试题ID：{id}",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
   },
   "questionError2": {
     "message": "试题ID：{id} 数据有误",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题"
+    "description": "UA -> 教师 -> 编辑课件 -> 练习题"
   },
   "questionsNotCompleted": {
     "message": "本页面还有题目没有完成，",
@@ -2293,7 +2293,7 @@
   },
   "recordTimeOf": {
     "message": "录音时长：{input}秒",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 弹框右上角"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 弹框右上角"
   },
   "recordingTime": {
     "message": "录制时长",
@@ -2352,7 +2352,7 @@
     "description": "UA"
   },
   "returnToCourseSection": {
-    "message": "返回课程章节",
+    "message": "返回课件",
     "description": "UA"
   },
   "reviewStatusApproved": {
@@ -2441,7 +2441,7 @@
   },
   "points": {
     "message": "{n}分",
-    "description": "教师账户 -> ua -> 课程查看 -> 课程章节试题 \n 课程查看 -> 预览课程章节 -> 选择练习题 (或者学生账户登录 -> 练习题)"
+    "description": "教师账户 -> ua -> 课程查看 -> 课件试题 \n 课程查看 -> 预览课件 -> 选择练习题 (或者学生账户登录 -> 练习题)"
   },
   "scoreModels": {
     "message": "评分模式",
@@ -2469,7 +2469,7 @@
   },
   "inputSeconds": {
     "message": "{input}秒",
-    "description": "UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课程章节  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
+    "description": "UA -> 教师 -> 编辑课件  -> 添加练习 -> 练习题下方的工具栏 -> 设置练习题 \n UA -> 教师 -> 编辑课件  -> 添加练习 -> 标题右侧 -> 限时答题按钮"
   },
   "secondLevelMenu": {
     "message": "二级菜单",
@@ -2645,7 +2645,7 @@
   },
   "selectedQue": {
     "message": "已选择{n}道题",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 导入练习"
+    "description": "UA -> 教师 -> 编辑课件 -> 导入练习"
   },
   "selectedTeacher": {
     "message": "已选择的老师",
@@ -2769,7 +2769,7 @@
   },
   "smallQue": {
     "message": "[小题{n}]",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 练习题 (需要题型为选词填空)"
+    "description": "UA -> 教师 -> 编辑课件 -> 练习题 (需要题型为选词填空)"
   },
   "sortQuestions": {
     "message": "排序题",
@@ -2973,7 +2973,7 @@
   },
   "inputTimes": {
     "message": "{input}次",
-    "description": "UA -> 教师 -> 编辑课程章节 -> 口语评分 -> 添加后下方工具栏设置按钮"
+    "description": "UA -> 教师 -> 编辑课件 -> 口语评分 -> 添加后下方工具栏设置按钮"
   },
   "timingLearningSuspended": {
     "message": "计时学习已暂停",
@@ -3036,7 +3036,7 @@
     "description": "UA"
   },
   "updateCourse": {
-    "message": "更新课程章节",
+    "message": "更新课件",
     "description": "UA"
   },
   "updateMenu": {
@@ -3196,7 +3196,7 @@
     "description": "UA"
   },
   "videoNoWifi2": {
-    "message": "（提示：在课程单元目录中，可以缓存课程章节中的媒体资源）",
+    "message": "（提示：在课程单元目录中，可以缓存课件中的媒体资源）",
     "description": "UA"
   },
   "videoNotExist": {
@@ -3256,7 +3256,7 @@
     "description": "UA"
   },
   "withdrawCourses": {
-    "message": "撤回课程章节",
+    "message": "撤回课件",
     "description": "UA"
   },
   "withdrawSuccessfully": {
@@ -3344,7 +3344,7 @@
     "description": "UA"
   },
   "codeTip": {
-    "message": "课程章节每个页面对应一张二维码，若删除课程页面，将导致该二维码无法访问！",
+    "message": "课件每个页面对应一张二维码，若删除课程页面，将导致该二维码无法访问！",
     "description": "UA"
   },
   "allResource": {
@@ -3440,7 +3440,7 @@
     "description": "UA"
   },
   "deleteQuestionTip3": {
-    "message": "所选试题在课程章节中被引用了，在这里删除不会删除课程章节中的试题，确定删除吗？",
+    "message": "所选试题在课件中被引用了，在这里删除不会删除课件中的试题，确定删除吗？",
     "description": "UA"
   },
   "savingRecord": {
@@ -3604,7 +3604,7 @@
     "description": "UA"
   },
   "importEditorCourse": {
-    "message": "导入编辑账号课程章节",
+    "message": "导入编辑账号课件",
     "description": "UA"
   },
   "password": {
@@ -3904,7 +3904,7 @@
     "description": "UA"
   },
   "videoHeadTip": {
-    "message": "标记视频片头时长，学生学习课程章节时可以跳过片头",
+    "message": "标记视频片头时长，学生学习课件时可以跳过片头",
     "description": "UA"
   },
   "markVideoHead": {
@@ -3924,7 +3924,7 @@
     "description": "UA"
   },
   "setVideo2": {
-    "message": "同步设置本课程章节所有视频的片头",
+    "message": "同步设置本课件所有视频的片头",
     "description": "UA"
   },
   "addFile": {
@@ -4036,11 +4036,11 @@
     "description": "UA"
   },
   "slotScormIntoContent": {
-    "message": "在内容中Scorm课程章节",
+    "message": "在内容中Scorm课件",
     "description": "UA"
   },
   "selectScorm": {
-    "message": "选择Scorm课程章节",
+    "message": "选择Scorm课件",
     "description": "UA"
   },
   "enterScormKeywordSearch": {
@@ -4064,11 +4064,11 @@
     "description": "UA"
   },
   "slotH5pIntoContent": {
-    "message": "在内容中插入 h5p 课程章节",
+    "message": "在内容中插入 h5p 课件",
     "description": "UA"
   },
   "selectH5p": {
-    "message": "选择 H5p 课程章节",
+    "message": "选择 H5p 课件",
     "description": "UA"
   },
   "enterH5pKeywordSearch": {
@@ -4104,7 +4104,7 @@
     "description": "UA"
   },
   "pleaseSelectFile": {
-    "message": "请选择要导出的课程章节",
+    "message": "请选择要导出的课件",
     "description": "UA"
   },
   "unSelectAll": {
