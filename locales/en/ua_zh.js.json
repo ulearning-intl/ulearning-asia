@@ -2440,7 +2440,7 @@
     "description": "UA"
   },
   "points": {
-    "message": "{n} minutes",
+    "message": "{n} points",
     "description": "教师账户 -> ua -> 课程查看 -> 课程章节试题 \n 课程查看 -> 预览课程章节 -> 选择练习题 (或者学生账户登录 -> 练习题)"
   },
   "scoreModels": {
@@ -4237,6 +4237,14 @@
   },
   "takeNotes": {
     "message": "Take notes",
+    "description": "UA"
+  },
+  "ChoosingTextbooks": {
+    "message": "Choosing textbooks",
+    "description": "UA"
+  },
+  "studentNoTextbooks": {
+    "message": "The students have no textbooks!",
     "description": "UA"
   }
 }

@@ -4806,5 +4806,17 @@
   "File.participatedInDiscussions": {
     "message": "参与讨论",
     "description": "2.0 admin.js"
+  },
+  "systemAdmin.confirmText": {
+    "message": "确定删除",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.deleteConfirmError": {
+    "message": "输入错误",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips29": {
+    "message":"删除后用户将无法登录，请在下方输入'{confirmText}'后进行确定删除操作",
+    "description": "2.0 admin.js"
   }
 }
