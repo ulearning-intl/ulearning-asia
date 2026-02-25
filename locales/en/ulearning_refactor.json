@@ -1,0 +1,490 @@
+{
+  "virtual.grade": {
+    "message": "Experiment Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseList": {
+    "message": "Experiment Resources",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experiment": {
+    "message": "Virtual Simulation Experimen",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterKeywordSearch": {
+    "message": "Enter keywords to search",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createVirtualCourse": {
+    "message": "Create Virtual Simulation Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createAiExperimentCourse": {
+    "message": "Create AI Experiment Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.responsibleTeacher": {
+    "message": "Instructor",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suitableStage": {
+    "message": "Suitable Stage",
+    "description": "ulearning_refactor"
+  },
+  "virtual.published": {
+    "message": "Published",
+    "description": "ulearning_refactor"
+  },
+  "virtual.unpublished": {
+    "message": "Unpublished",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewCourse": {
+    "message": "View Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseHomepage": {
+    "message": "Course Homepage",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishCourse": {
+    "message": "Publish Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteCourse": {
+    "message": "Delete Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.withdrawCourse": {
+    "message": "Unpublish Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noCourse": {
+    "message": "No courses available",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createCourse": {
+    "message": "Create Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseName": {
+    "message": "Please enter course name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.confirm": {
+    "message": "Confirm",
+    "description": "ulearning_refactor"
+  },
+  "virtual.cancel": {
+    "message": "Cancel",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseNameLimit": {
+    "message": "Course name cannot exceed 50 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allStatus": {
+    "message": "All Status",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noPermissionTip": {
+    "message": "Your account does not have access to virtual simulation experiments. Please contact online support or call 400 610 7808 for authorization.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.tip": {
+    "message": "Tip",
+    "description": "ulearning_refactor"
+  },
+  "virtual.iKnow": {
+    "message": "Got it",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishConfirmTip": {
+    "message": "After publishing, teachers can use the experiment resources in classes. Confirm publish?",
+    "description": "ulearning_refactor"
+  },
+  "virtual.publishSuccess": {
+    "message": "Published successfully",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteConfirmTip": {
+    "message": "Are you sure you want to delete this course?",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteFailTip": {
+    "message": "The experiment resources in {name} are being used by classes and cannot be deleted.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.updateSuccess": {
+    "message": "Updated successfully",
+    "description": "ulearning_refactor"
+  },
+  "virtual.withdrawConfirmTip": {
+    "message": "After unpublishing, new classes cannot use these resources. Existing classes will not be affected. Confirm unpublish?",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createSuccess": {
+    "message": "Created successfully",
+    "description": "ulearning_refactor"
+  },
+  "virtual.aiExperiment": {
+    "message": "AI Experiment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterNameOrStudentId": {
+    "message": "Search by name or student ID",
+    "description": "ulearning_refactor"
+  },
+  "virtual.all": {
+    "message": "All",
+    "description": "ulearning_refactor"
+  },
+  "virtual.finished": {
+    "message": "Completed",
+    "description": "ulearning_refactor"
+  },
+  "virtual.learning": {
+    "message": "In Progress",
+    "description": "ulearning_refactor"
+  },
+  "virtual.unfinished": {
+    "message": "Uncompleted",
+    "description": "ulearning_refactor"
+  },
+  "virtual.notStart": {
+    "message": "Not started",
+    "description": "ulearning_refactor"
+  },
+  "virtual.class": {
+    "message": "Class",
+    "description": "ulearning_refactor"
+  },
+  "virtual.name": {
+    "message": "Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.studentId": {
+    "message": "Student ID",
+    "description": "ulearning_refactor"
+  },
+  "virtual.status": {
+    "message": "Status",
+    "description": "ulearning_refactor"
+  },
+  "virtual.times": {
+    "message": "Attempts",
+    "description": "ulearning_refactor"
+  },
+  "virtual.startTime": {
+    "message": "Start Time",
+    "description": "ulearning_refactor"
+  },
+  "virtual.endTime": {
+    "message": "End Time",
+    "description": "ulearning_refactor"
+  },
+  "virtual.progress": {
+    "message": "Learning Progress",
+    "description": "ulearning_refactor"
+  },
+  "virtual.duration": {
+    "message": "Duration",
+    "description": "ulearning_refactor"
+  },
+  "virtual.score": {
+    "message": "Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.operate": {
+    "message": "Action",
+    "description": "ulearning_refactor"
+  },
+  "virtual.view": {
+    "message": "View",
+    "description": "ulearning_refactor"
+  },
+  "virtual.reScore": {
+    "message": "Regrade",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentScoreDetail": {
+    "message": "Experiment Step Score Details",
+    "description": "ulearning_refactor"
+  },
+  "virtual.getScore": {
+    "message": "Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fullScoreHint": {
+    "message": "Full mark 100 score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.originalScore": {
+    "message": "Original Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.scoreUnit": {
+    "message": "points",
+    "description": "ulearning_refactor"
+  },
+  "virtual.comment": {
+    "message": "Comment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addCommentPlaceholder": {
+    "message": "Add Comment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allTeacher": {
+    "message": "All Teachers",
+    "description": "ulearning_refactor"
+  },
+  "virtual.allClass": {
+    "message": "All Classes",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterScoreRule": {
+    "message": "Please enter score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.scorePatternRule": {
+    "message": "Please enter a score between 0–100 (max 1 decimal place)",
+    "description": "ulearning_refactor"
+  },
+  "virtual.commentLimitRule": {
+    "message": "Comments cannot exceed 500 characters!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.modifySuccess": {
+    "message": "Modified successfully",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherLabel": {
+    "message": "Teacher",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pageView": {
+    "message": "Views",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTimes": {
+    "message": "Number of experiments",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPeoples": {
+    "message": "Participants",
+    "description": "ulearning_refactor"
+  },
+  "virtual.averageTime": {
+    "message": "Average Time",
+    "description": "ulearning_refactor"
+  },
+  "virtual.passRate": {
+    "message": "Pass Rate",
+    "description": "ulearning_refactor"
+  },
+  "virtual.startExperiment": {
+    "message": "Start Experiment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentIntroduction": {
+    "message": "Experiment Introduction",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentGuide": {
+    "message": "Experiment Guide",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherIntroduction": {
+    "message": "Instructor Profile",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherRoleTip": {
+    "message": "You are logged in as a teacher. Please switch to student mode to start the experiment!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.switchToStudentMode": {
+    "message": "Switch to student mode",
+    "description": "ulearning_refactor"
+  },
+  "virtual.chooseExperimentTimeTip": {
+    "message": "Select a start time to view score details for each attempt.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentStartTime": {
+    "message": "Experiment Start Time",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentEndTime": {
+    "message": "Experiment End Time",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentStatus": {
+    "message": "Status",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTimeUsed": {
+    "message": "Time Used",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentScore": {
+    "message": "Experiment Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepScore": {
+    "message": "Step Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentFile": {
+    "message": "Experiment File",
+    "description": "ulearning_refactor"
+  },
+  "virtual.serialNumber": {
+    "message": "No.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepName": {
+    "message": "Step Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.timeUsedSeconds": {
+    "message": "Time Used (sec)",
+    "description": "ulearning_refactor"
+  },
+  "virtual.reasonableTimeSeconds": {
+    "message": "Recommended Time (sec)",
+    "description": "ulearning_refactor"
+  },
+  "virtual.stepScoreLabel": {
+    "message": "Step Score",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fileName": {
+    "message": "File Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.fileFormat": {
+    "message": "File Type",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewFile": {
+    "message": "View",
+    "description": "ulearning_refactor"
+  },
+  "virtual.backToPrevious": {
+    "message": "Back",
+    "description": "ulearning_refactor"
+  },
+  "virtual.trainingProject": {
+    "message": "Training Project",
+    "description": "ulearning_refactor"
+  },
+  "virtual.basicInfo": {
+    "message": "Basic Info",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teamMembers": {
+    "message": "Team Members",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseHours": {
+    "message": "Course Hours",
+    "description": "ulearning_refactor"
+  },
+  "virtual.academicStage": {
+    "message": "Stage",
+    "description": "ulearning_refactor"
+  },
+  "virtual.school": {
+    "message": "School",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suitableSpeciality": {
+    "message": "Suitable Major",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseIntroduction": {
+    "message": "Course Introduction",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseDirectory": {
+    "message": "Course Outline",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseSummary": {
+    "message": "Course Overview",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseTarget": {
+    "message": "Course Objectives",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseContent": {
+    "message": "Course Content",
+    "description": "ulearning_refactor"
+  },
+  "virtual.expectedEffect": {
+    "message": "Expected Outcomes",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teachingResourcePackage": {
+    "message": "Teaching Resources",
+    "description": "ulearning_refactor"
+  },
+  "virtual.viewExperimentDetail": {
+    "message": "View Experiment Details",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentHours": {
+    "message": "Experiment Hours",
+    "description": "ulearning_refactor"
+  },
+  "virtual.belongToCourse": {
+    "message": "Course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.organization": {
+    "message": "Organization",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourse": {
+    "message": "Enter course",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentMustRead": {
+    "message": "Experiment Guidelines",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentTeachingTarget": {
+    "message": "Teaching Objectives",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPrinciple": {
+    "message": "Experiment Principle",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentProcessAndMethod": {
+    "message": "Process & Method",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentSteps": {
+    "message": "Experiment Steps",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentResultAndConclusion": {
+    "message": "Results & Conclusion",
+    "description": "ulearning_refactor"
+  },
+  "virtual.networkRequirement": {
+    "message": "Network Requirements",
+    "description": "ulearning_refactor"
+  },
+  "virtual.hardwareRequirement": {
+    "message": "Hardware Requirements",
+    "description": "ulearning_refactor"
+  },
+  "virtual.osRequirement": {
+    "message": "OS Requirements",
+    "description": "ulearning_refactor"
+  }
+}
