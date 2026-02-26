@@ -486,5 +486,1457 @@
   "virtual.osRequirement": {
     "message": "操作系统要求",
     "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseSummary": {
+    "message": "请输入课程简介",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseCover": {
+    "message": "课程封面",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadCover": {
+    "message": "上传封面",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suggestedSize800x450": {
+    "message": "建议尺寸：800*450",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterHours": {
+    "message": "请输入学时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.hours": {
+    "message": "学时",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSuitableStage": {
+    "message": "请输入适合学段",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterTeacherName": {
+    "message": "请输入教师姓名",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSchoolName": {
+    "message": "请输入学校名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSuitableSpeciality": {
+    "message": "请输入适合专业",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseTarget": {
+    "message": "请输入课程目标",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseContent": {
+    "message": "请输入课程内容",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExpectedEffect": {
+    "message": "请输入预期效果",
+    "description": "ulearning_refactor"
+  },
+  "virtual.save": {
+    "message": "保存",
+    "description": "ulearning_refactor"
+  },
+  "virtual.saveSuccess": {
+    "message": "保存成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseSummaryLimit": {
+    "message": "课程简介最多10000字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseUploadCover": {
+    "message": "请上传封面",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterPositiveInteger": {
+    "message": "请输入正整数",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadAvatar": {
+    "message": "上传头像",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherName": {
+    "message": "教师姓名",
+    "description": "ulearning_refactor"
+  },
+  "virtual.affiliatedSchool": {
+    "message": "所属院校",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterAffiliatedSchool": {
+    "message": "请输入所属院校",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterTeacherIntroduction": {
+    "message": "请输入教师简介",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addTeacher": {
+    "message": "添加教师",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherNameLimit": {
+    "message": "教师姓名最多100字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.affiliatedSchoolLimit": {
+    "message": "所属院校最多100字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherIntroductionLimit": {
+    "message": "教师简介最多10000字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.photoSizeLimit": {
+    "message": "照片大小不超过2M!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.photoTypeLimit": {
+    "message": "照片类型必须是jpeg,jpg,png中的一种",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createProject": {
+    "message": "创建项目",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addExperiment": {
+    "message": "添加实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createTime": {
+    "message": "创建时间",
+    "description": "ulearning_refactor"
+  },
+  "virtual.edit": {
+    "message": "编辑",
+    "description": "ulearning_refactor"
+  },
+  "virtual.delete": {
+    "message": "删除",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noTrainingProject": {
+    "message": "暂无实训项目",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noExperimentResource": {
+    "message": "暂无实验资源",
+    "description": "ulearning_refactor"
+  },
+  "virtual.selectExperiment": {
+    "message": "选择实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.tonglabTip": {
+    "message": "实验内容来源于Tonglab平台，点击自动获取实验信息。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentName": {
+    "message": "实验名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExperimentName": {
+    "message": "请输入实验名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentCover": {
+    "message": "实验封面",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentUrl": {
+    "message": "实验地址",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExperimentUrl": {
+    "message": "请输入实验地址",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPublishTip": {
+    "message": "注：实验发布之前，请确保实验已按照平台接口规范完成接入，否则系统将无法采集学生实验成绩。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.downloadSpecDoc": {
+    "message": "下载平台接口规范文档",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentResource": {
+    "message": "实验资源",
+    "description": "ulearning_refactor"
+  },
+  "virtual.editExperiment": {
+    "message": "编辑实验",
+    "description": "ulearning_refactor"
+  },
+  "virtual.select": {
+    "message": "选择",
+    "description": "ulearning_refactor"
+  },
+  "virtual.importingExperimentData": {
+    "message": "正在导入实验数据...",
+    "description": "ulearning_refactor"
+  },
+  "virtual.importFail": {
+    "message": "导入失败",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteConfirm": {
+    "message": "确定删除吗？",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteSuccess": {
+    "message": "删除成功",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentCitedCannotDelete": {
+    "message": "实验资源已被班课引用，无法删除。",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadFile": {
+    "message": "上传文件",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentNameLimit": {
+    "message": "实验名称最多50字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseEnter": {
+    "message": "请输入",
+    "description": "ulearning_refactor"
+  },
+  "virtual.max10000Words": {
+    "message": "最多10000字",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseName": {
+    "message": "课程名称",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherProfile": {
+    "message": "教师简介",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseSelectExperiment": {
+    "message": "请选择实验",
+    "description": "ulearning_refactor"
+  },
+  "textbook.shareCourse": {
+    "message": "分享课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.shareTip": {
+    "message": "扫码或复制链接分享",
+    "description": "ulearning_refactor"
+  },
+  "textbook.copySuccess": {
+    "message": "复制成功",
+    "description": "ulearning_refactor"
+  },
+  "textbook.copy": {
+    "message": "复制",
+    "description": "ulearning_refactor"
+  },
+  "textbook.schoolLabel": {
+    "message": "开课院校：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.majorLabel": {
+    "message": "适用专业：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studyHoursLabel": {
+    "message": "建议学时：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.hoursUnit": {
+    "message": "课时",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalLearnerCount": {
+    "message": "累计选课人数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalLearnerCountTip": {
+    "message": "课程累计选课人数，包括校内外各期SPOC人数及自主选课学生人数，数据每天更新一次",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalSchoolCount": {
+    "message": "选课学校总数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalSchoolCountTip": {
+    "message": "选用该课程的学校总数，数据每天更新一次",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseViewCount": {
+    "message": "课程学习次数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseViewCountTip": {
+    "message": "课程主页浏览次数+课程学习人次总和，数据每天更新一次",
+    "description": "ulearning_refactor"
+  },
+  "textbook.pleaseSelect": {
+    "message": "请选择",
+    "description": "ulearning_refactor"
+  },
+  "textbook.noTermTip": {
+    "message": "本课程未设置学期，你可以加入课程自主学习",
+    "description": "ulearning_refactor"
+  },
+  "textbook.noSelfJoinTip": {
+    "message": "本课程不支持自主加入",
+    "description": "ulearning_refactor"
+  },
+  "textbook.enterCourse": {
+    "message": "进入课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.buyCourse": {
+    "message": "购买课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.joinCourse": {
+    "message": "加入课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termNotStart": {
+    "message": "本期未开始",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termEnded": {
+    "message": "本期已结束",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseDetail": {
+    "message": "课程详情",
+    "description": "ulearning_refactor"
+  },
+  "textbook.chapterDirectory": {
+    "message": "章节目录",
+    "description": "ulearning_refactor"
+  },
+  "textbook.knowledgeGraph": {
+    "message": "知识图谱",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseIntro": {
+    "message": "课程简介",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseTeam": {
+    "message": "课程团队",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teachingOutline": {
+    "message": "教学大纲",
+    "description": "ulearning_refactor"
+  },
+  "textbook.recommendTextbook": {
+    "message": "推荐教材",
+    "description": "ulearning_refactor"
+  },
+  "textbook.authorLabel": {
+    "message": "作者：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.publisherLabel": {
+    "message": "出版社：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.isbnLabel": {
+    "message": "ISBN：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.goExperience": {
+    "message": "去体验",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectClass": {
+    "message": "选择班级",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectClassTip": {
+    "message": "请选择要加入的班级",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherLabel": {
+    "message": "教师：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentCountLabel": {
+    "message": "人数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.confirm": {
+    "message": "确 定",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancel": {
+    "message": "取 消",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termIndex": {
+    "message": "第{index}次开课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.daysToGo": {
+    "message": "距离开课还有{days}天",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termInProcess": {
+    "message": "开课中",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherRoleJoinTip": {
+    "message": "当前登录的是教师帐号，请切换到学生模式再加入课程！",
+    "description": "ulearning_refactor"
+  },
+  "textbook.switchToStudentMode": {
+    "message": "切换到学生模式",
+    "description": "ulearning_refactor"
+  },
+  "textbook.sameSchoolJoinTip": {
+    "message": "本课程为同校教师开课，为避免成绩统计出现问题，请通过教师分享的班级编码或二维码加入。",
+    "description": "ulearning_refactor"
+  },
+  "textbook.iKnow": {
+    "message": "我知道了",
+    "description": "ulearning_refactor"
+  },
+  "textbook.notStudentRoleJoinTip": {
+    "message": "当前登录的不是学生帐号，请退出后使用学生帐号登录再加入课程！",
+    "description": "ulearning_refactor"
+  },
+  "textbook.logout": {
+    "message": "退出登录",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherRoleBuyTip": {
+    "message": "当前登录的是教师帐号，请切换到学生模式再购买！",
+    "description": "ulearning_refactor"
+  },
+  "textbook.notStudentRoleBuyTip": {
+    "message": "当前登录的不是学生帐号，请退出后使用学生帐号登录再购买！",
+    "description": "ulearning_refactor"
+  },
+  "textbook.declarationManage": {
+    "message": "课程申报信息管理",
+    "description": "ulearning_refactor"
+  },
+  "textbook.declarationTips": {
+    "message": "在优学院平台运行的课程，如果需要参与一流本科课程、职业教育在线精品课程等项目申报，课程负责人在这里可以管理申报信息和学期，查看运行数据。",
+    "description": "ulearning_refactor"
+  },
+  "textbook.myDeclaredCourses": {
+    "message": "我申报的课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseRunSuggestion": {
+    "message": "课程运行建议",
+    "description": "ulearning_refactor"
+  },
+  "textbook.addDeclaredCourse": {
+    "message": "添加申报课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseName": {
+    "message": "课程名称",
+    "description": "ulearning_refactor"
+  },
+  "textbook.declareType": {
+    "message": "申报类别",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termCount": {
+    "message": "开课期数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.operation": {
+    "message": "操作",
+    "description": "ulearning_refactor"
+  },
+  "textbook.versionTermManage": {
+    "message": "版本与学期管理",
+    "description": "ulearning_refactor"
+  },
+  "textbook.modify": {
+    "message": "修改",
+    "description": "ulearning_refactor"
+  },
+  "textbook.delete": {
+    "message": "删除",
+    "description": "ulearning_refactor"
+  },
+  "textbook.prevPage": {
+    "message": "上一页",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nextPage": {
+    "message": "下一页",
+    "description": "ulearning_refactor"
+  },
+  "textbook.modifyDeclaredCourse": {
+    "message": "修改申报课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.enterCourseName": {
+    "message": "请输入课程名称",
+    "description": "ulearning_refactor"
+  },
+  "textbook.firstClassCourse": {
+    "message": "一流本科课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.vocationalCourse": {
+    "message": "职业教育在线精品课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.other": {
+    "message": "其他 ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.originCourse": {
+    "message": "源课件",
+    "description": "ulearning_refactor"
+  },
+  "textbook.originCourseTip": {
+    "message": "所选课件门户将作为课程评审门户",
+    "description": "ulearning_refactor"
+  },
+  "textbook.searchPlaceholder": {
+    "message": "输入关键词搜索",
+    "description": "ulearning_refactor"
+  },
+  "textbook.unpublished": {
+    "message": "未发布",
+    "description": "ulearning_refactor"
+  },
+  "textbook.fillCourseName": {
+    "message": "请填写课程名称",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseNameLimit": {
+    "message": "课程名称不能超过200字符",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectDeclareType": {
+    "message": "请选择申报类别",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectOriginCourse": {
+    "message": "请选择源课件",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteDeclaredCourseConfirm": {
+    "message": "删除申报课程，不会删除关联的源课件和班课，但会删除已设置的学期信息。确定删除吗？",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteDeclaredCourseTitle": {
+    "message": "删除申报课程",
+    "description": "ulearning_refactor"
+  },
+  "textbook.back": {
+    "message": "返回",
+    "description": "ulearning_refactor"
+  },
+  "textbook.coursePortalLabel": {
+    "message": "课程门户：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalLabel": {
+    "message": "总数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.insideSchoolLabel": {
+    "message": "本校：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideSchoolLabel": {
+    "message": "其他高校：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.socialLearnerLabel": {
+    "message": "社会学习者：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.viewDetail": {
+    "message": "查看详情",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideSpocCount": {
+    "message": "外校SPOC总数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataUpdateTip": {
+    "message": "*数据每天更新一次",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseVersion": {
+    "message": "课件版本",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseLib": {
+    "message": "课件库",
+    "description": "ulearning_refactor"
+  },
+  "textbook.associateNewVersion": {
+    "message": "关联新版本",
+    "description": "ulearning_refactor"
+  },
+  "textbook.versionTip": {
+    "message": "课件如果有大的版本更新，为避免影响往期学生成绩，请在课件库中复制新的版本再更新。创建新版本后，需手动将新版本关联到当前课程，新版本的选课数据才能计入当前课程。",
+    "description": "ulearning_refactor"
+  },
+  "textbook.version": {
+    "message": "版本",
+    "description": "ulearning_refactor"
+  },
+  "textbook.id": {
+    "message": "ID",
+    "description": "ulearning_refactor"
+  },
+  "textbook.name": {
+    "message": "名称",
+    "description": "ulearning_refactor"
+  },
+  "textbook.createTime": {
+    "message": "创建时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.updateTime": {
+    "message": "最近更新时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelAssociation": {
+    "message": "取消关联",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseTerm": {
+    "message": "开课学期",
+    "description": "ulearning_refactor"
+  },
+  "textbook.addTerm": {
+    "message": "添加学期",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termTip": {
+    "message": "课程如果分期开课，每学期请创建新的班课，然后在这里添加学期，并关联对应的班课。设置好以后，即可在这里查看每一期的运行数据。",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termNum": {
+    "message": "期数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.startTime": {
+    "message": "开课时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.status": {
+    "message": "状态",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentCount": {
+    "message": "选课人数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataStat": {
+    "message": "数据统计",
+    "description": "ulearning_refactor"
+  },
+  "textbook.enterClass": {
+    "message": "进入班课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selfLearnerCountLabel": {
+    "message": "自主学习人数（未加入任何学期，自主选课学习的学生人数）：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.associateClass": {
+    "message": "关联班课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.associateClassTip": {
+    "message": "请选择关联的随堂班课，每个班课只能关联一个学期。",
+    "description": "ulearning_refactor"
+  },
+  "textbook.insideClass": {
+    "message": "本校班课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideClass": {
+    "message": "外校班课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.schoolName": {
+    "message": "开设院校",
+    "description": "ulearning_refactor"
+  },
+  "textbook.creator": {
+    "message": "创建人",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentNum": {
+    "message": "学生人数",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termNumTitle": {
+    "message": "第{num}期",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseVideo": {
+    "message": "课件视频",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalCount": {
+    "message": "总数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.countUnit": {
+    "message": "个",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalDuration": {
+    "message": "总时长：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.minuteUnit": {
+    "message": "分钟",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nonVideoResource": {
+    "message": "非视频资源",
+    "description": "ulearning_refactor"
+  },
+  "textbook.graphicPageCount": {
+    "message": "课件中的图文页面数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nonVideoResourceCount": {
+    "message": "课件中的非视频资源数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.ocContentCount": {
+    "message": "班课中的拓展资源数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseNotice": {
+    "message": "课程公告",
+    "description": "ulearning_refactor"
+  },
+  "textbook.count": {
+    "message": "数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.timesUnit": {
+    "message": "次",
+    "description": "ulearning_refactor"
+  },
+  "textbook.homeworkQuiz": {
+    "message": "作业/测验",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalTimes": {
+    "message": "总次数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionCount": {
+    "message": "试题数量：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionUnitTip": {
+    "message": "道（仅【测验】类型作业包含试题）",
+    "description": "ulearning_refactor"
+  },
+  "textbook.joinerCount": {
+    "message": "参与人数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.personUnit": {
+    "message": "人",
+    "description": "ulearning_refactor"
+  },
+  "textbook.discussion": {
+    "message": "讨论交流",
+    "description": "ulearning_refactor"
+  },
+  "textbook.postCount": {
+    "message": "帖子总数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherPostCount": {
+    "message": "教师发帖/回复总数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.discussionJoinerCount": {
+    "message": "参与讨论人数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalPostCount": {
+    "message": "总发帖回帖数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.exam": {
+    "message": "考试",
+    "description": "ulearning_refactor"
+  },
+  "textbook.examCount": {
+    "message": "考试次数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.examQuestionCount": {
+    "message": "考试题数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.passCount": {
+    "message": "通过人数：",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataUpdateDailyTip": {
+    "message": "* 数据每日凌晨更新",
+    "description": "ulearning_refactor"
+  },
+  "textbook.schoolList": {
+    "message": "选课学校",
+    "description": "ulearning_refactor"
+  },
+  "textbook.school": {
+    "message": "学校",
+    "description": "ulearning_refactor"
+  },
+  "textbook.spocCount": {
+    "message": "开设SPOC数量",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectStartTime": {
+    "message": "请选择开始时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectEndTime": {
+    "message": "请选择结束时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.endTimeEarlyError": {
+    "message": "结束时间不能早于开始时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectCourseVersion": {
+    "message": "请选择课件版本",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectAssociateClass": {
+    "message": "请选择关联班课",
+    "description": "ulearning_refactor"
+  },
+  "textbook.notStarted": {
+    "message": "未开始",
+    "description": "ulearning_refactor"
+  },
+  "textbook.inProgress": {
+    "message": "进行中",
+    "description": "ulearning_refactor"
+  },
+  "textbook.ended": {
+    "message": "已结束",
+    "description": "ulearning_refactor"
+  },
+  "textbook.to": {
+    "message": "至",
+    "description": "ulearning_refactor"
+  },
+  "textbook.endTime": {
+    "message": "结束时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.joinSuccessTip": {
+    "message": "加入成功！是否立即进入课程学习？",
+    "description": "ulearning_refactor"
+  },
+  "textbook.startTimePlaceholder": {
+    "message": "开始时间",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionUnit": {
+    "message": "道",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectAtLeastOneVersion": {
+    "message": "请至少选择一个版本",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelAssociateConfirm": {
+    "message": "确定取消关联吗？",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelSuccess": {
+    "message": "取消成功",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteConfirm": {
+    "message": "确定删除吗？",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteTermTitle": {
+    "message": "删除学期",
+    "description": "ulearning_refactor"
+  },
+  "course.studentCourseArchive": {
+    "message": "{name}的课程档案",
+    "description": "ulearning_refactor"
+  },
+  "course.export": {
+    "message": "导出",
+    "description": "ulearning_refactor"
+  },
+  "course.close": {
+    "message": "关闭",
+    "description": "ulearning_refactor"
+  },
+  "course.courseArchive": {
+    "message": "的课程档案",
+    "description": "ulearning_refactor"
+  },
+  "course.studentId": {
+    "message": "学号：",
+    "description": "ulearning_refactor"
+  },
+  "course.gender": {
+    "message": "性别：",
+    "description": "ulearning_refactor"
+  },
+  "course.male": {
+    "message": "男",
+    "description": "ulearning_refactor"
+  },
+  "course.female": {
+    "message": "女",
+    "description": "ulearning_refactor"
+  },
+  "course.registerTime": {
+    "message": "注册时间：",
+    "description": "ulearning_refactor"
+  },
+  "course.email": {
+    "message": "邮箱：",
+    "description": "ulearning_refactor"
+  },
+  "course.phone": {
+    "message": "手机号码：",
+    "description": "ulearning_refactor"
+  },
+  "course.learning": {
+    "message": "正在学习",
+    "description": "ulearning_refactor"
+  },
+  "course.courses": {
+    "message": "门课程",
+    "description": "ulearning_refactor"
+  },
+  "course.submitted": {
+    "message": "提交了",
+    "description": "ulearning_refactor"
+  },
+  "course.assignments": {
+    "message": "次作业",
+    "description": "ulearning_refactor"
+  },
+  "course.attended": {
+    "message": "参加了",
+    "description": "ulearning_refactor"
+  },
+  "course.exams": {
+    "message": "场考试",
+    "description": "ulearning_refactor"
+  },
+  "course.published": {
+    "message": "发布了",
+    "description": "ulearning_refactor"
+  },
+  "course.topics": {
+    "message": "个话题，",
+    "description": "ulearning_refactor"
+  },
+  "course.replies": {
+    "message": "条回复",
+    "description": "ulearning_refactor"
+  },
+  "course.courseLearningRecord": {
+    "message": "课程学习记录",
+    "description": "ulearning_refactor"
+  },
+  "course.coursewareName": {
+    "message": "课件名称",
+    "description": "ulearning_refactor"
+  },
+  "course.progress": {
+    "message": "进度",
+    "description": "ulearning_refactor"
+  },
+  "course.studyDuration": {
+    "message": "学习时长",
+    "description": "ulearning_refactor"
+  },
+  "course.lastStudyTime": {
+    "message": "最后学习时间",
+    "description": "ulearning_refactor"
+  },
+  "course.score": {
+    "message": "分数",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkRecord": {
+    "message": "作业记录",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkParticipation": {
+    "message": "参与作业次数/作业总数:{count}/{total}",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkName": {
+    "message": "作业名称",
+    "description": "ulearning_refactor"
+  },
+  "course.status": {
+    "message": "状态",
+    "description": "ulearning_refactor"
+  },
+  "course.statusLabel": {
+    "message": "状态：",
+    "description": "ulearning_refactor"
+  },
+  "course.submittedStatus": {
+    "message": "已提交",
+    "description": "ulearning_refactor"
+  },
+  "course.unsubmittedStatus": {
+    "message": "未提交",
+    "description": "ulearning_refactor"
+  },
+  "course.grade": {
+    "message": "成绩",
+    "description": "ulearning_refactor"
+  },
+  "course.gradeLabel": {
+    "message": "成绩：",
+    "description": "ulearning_refactor"
+  },
+  "course.examRecord": {
+    "message": "考试记录",
+    "description": "ulearning_refactor"
+  },
+  "course.examParticipation": {
+    "message": "参与考试次数/考试总数:{count}/{total}",
+    "description": "ulearning_refactor"
+  },
+  "course.examName": {
+    "message": "考试名称",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomRecord": {
+    "message": "课堂记录",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomParticipation": {
+    "message": "参与课堂活动次数/课堂活动总数:{count}/{total}",
+    "description": "ulearning_refactor"
+  },
+  "course.viewActivityDetail": {
+    "message": "查看活动详情>>",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomName": {
+    "message": "课堂名称",
+    "description": "ulearning_refactor"
+  },
+  "course.activityParticipationTimes": {
+    "message": "活动参与次数",
+    "description": "ulearning_refactor"
+  },
+  "course.signedIn": {
+    "message": "已签到",
+    "description": "ulearning_refactor"
+  },
+  "course.pointsEarned": {
+    "message": "获得积分",
+    "description": "ulearning_refactor"
+  },
+  "course.pointsLabel": {
+    "message": "积分：",
+    "description": "ulearning_refactor"
+  },
+  "course.activityDetail": {
+    "message": "活动详情",
+    "description": "ulearning_refactor"
+  },
+  "course.activityType": {
+    "message": "活动类型",
+    "description": "ulearning_refactor"
+  },
+  "course.totalActivities": {
+    "message": "活动总数",
+    "description": "ulearning_refactor"
+  },
+  "course.participationTimes": {
+    "message": "参加次数",
+    "description": "ulearning_refactor"
+  },
+  "course.exportData": {
+    "message": "导出数据",
+    "description": "ulearning_refactor"
+  },
+  "course.discussion": {
+    "message": "讨论",
+    "description": "ulearning_refactor"
+  },
+  "course.rollCall": {
+    "message": "点名",
+    "description": "ulearning_refactor"
+  },
+  "course.vote": {
+    "message": "投票",
+    "description": "ulearning_refactor"
+  },
+  "course.pick": {
+    "message": "选人",
+    "description": "ulearning_refactor"
+  },
+  "course.quickAnswer": {
+    "message": "抢答",
+    "description": "ulearning_refactor"
+  },
+  "course.grading": {
+    "message": "打分",
+    "description": "ulearning_refactor"
+  },
+  "course.photoUpload": {
+    "message": "拍照上传",
+    "description": "ulearning_refactor"
+  },
+  "course.quiz": {
+    "message": "答题",
+    "description": "ulearning_refactor"
+  },
+  "course.peerReviewNotStarted": {
+    "message": "互评未开始",
+    "description": "ulearning_refactor"
+  },
+  "course.peerReviewing": {
+    "message": "互评中",
+    "description": "ulearning_refactor"
+  },
+  "course.toBeGraded": {
+    "message": "待批阅",
+    "description": "ulearning_refactor"
+  },
+  "course.needsRewrite": {
+    "message": "需重写",
+    "description": "ulearning_refactor"
+  },
+  "course.appealing": {
+    "message": "申诉中",
+    "description": "ulearning_refactor"
+  },
+  "course.noStudentEvaluation": {
+    "message": "无学生评价",
+    "description": "ulearning_refactor"
+  },
+  "course.gradeNotPublished": {
+    "message": "成绩未公布",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterials": {
+    "message": "教学资料",
+    "description": "ulearning_refactor"
+  },
+  "course.back": {
+    "message": "返回",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterialsTip": {
+    "message": "您可以根据班级教学的安排，个性化的定义课程内容。您可以隐藏和显示课程内容、为内容添加“备注，点击添加新模块”、“添加单元”和“添加活动”可以自定义课程结构和内容。",
+    "description": "ulearning_refactor"
+  },
+  "course.coursewareLabel": {
+    "message": "课件：",
+    "description": "ulearning_refactor"
+  },
+  "course.resourceTypeLabel": {
+    "message": "资源类型：",
+    "description": "ulearning_refactor"
+  },
+  "course.all": {
+    "message": "全部",
+    "description": "ulearning_refactor"
+  },
+  "course.document": {
+    "message": "文档",
+    "description": "ulearning_refactor"
+  },
+  "course.image": {
+    "message": "图片",
+    "description": "ulearning_refactor"
+  },
+  "course.video": {
+    "message": "视频",
+    "description": "ulearning_refactor"
+  },
+  "course.audio": {
+    "message": "音频",
+    "description": "ulearning_refactor"
+  },
+  "course.archive": {
+    "message": "压缩包",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterialsSuffix": {
+    "message": "教学资料",
+    "description": "ulearning_refactor"
+  },
+  "course.downloadAllMaterials": {
+    "message": "下载全部资料",
+    "description": "ulearning_refactor"
+  },
+  "course.fileName": {
+    "message": "文件名",
+    "description": "ulearning_refactor"
+  },
+  "course.size": {
+    "message": "大小",
+    "description": "ulearning_refactor"
+  },
+  "course.downloadCount": {
+    "message": "下载次数",
+    "description": "ulearning_refactor"
+  },
+  "course.operation": {
+    "message": "操作",
+    "description": "ulearning_refactor"
+  },
+  "course.download": {
+    "message": "下载",
+    "description": "ulearning_refactor"
+  },
+  "course.prevPage": {
+    "message": "上一页",
+    "description": "ulearning_refactor"
+  },
+  "course.nextPage": {
+    "message": "下一页",
+    "description": "ulearning_refactor"
+  },
+  "course.publicResources": {
+    "message": "公共资源",
+    "description": "ulearning_refactor"
+  },
+  "course.viewAll": {
+    "message": "查看全部",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomActivityDetailSuffix": {
+    "message": "课堂活动详情",
+    "description": "ulearning_refactor"
+  },
+  "login.contactCustomerService": {
+    "message": "联系客服",
+    "description": "ulearning_refactor"
+  },
+  "login.websiteHomepage": {
+    "message": "网站首页",
+    "description": "ulearning_refactor"
+  },
+  "login.register": {
+    "message": "去注册",
+    "description": "ulearning_refactor"
+  },
+  "login.forgotPassword": {
+    "message": "忘记密码？",
+    "description": "ulearning_refactor"
+  },
+  "login.login": {
+    "message": "登录",
+    "description": "ulearning_refactor"
+  },
+  "login.otherLoginMethods": {
+    "message": "其他登录方式",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationLogin": {
+    "message": "机构账号登录",
+    "description": "ulearning_refactor"
+  },
+  "login.smsLogin": {
+    "message": "短信登录",
+    "description": "ulearning_refactor"
+  },
+  "login.wechatLogin": {
+    "message": "微信登录",
+    "description": "ulearning_refactor"
+  },
+  "login.welinkLogin": {
+    "message": "welink登录",
+    "description": "ulearning_refactor"
+  },
+  "login.back": {
+    "message": "返回",
+    "description": "ulearning_refactor"
+  },
+  "login.enterPhoneNumber": {
+    "message": "请输入手机号",
+    "description": "ulearning_refactor"
+  },
+  "login.enterVerificationCode": {
+    "message": "请输入验证码",
+    "description": "ulearning_refactor"
+  },
+  "login.retrieveAgain": {
+    "message": "重新获取({remaining})",
+    "description": "ulearning_refactor"
+  },
+  "login.getVerificationCode": {
+    "message": "获取验证码",
+    "description": "ulearning_refactor"
+  },
+  "login.smsLoginOnlySupportsMainlandChina": {
+    "message": "*短信登录仅支持中国大陆手机号",
+    "description": "ulearning_refactor"
+  },
+  "login.identityVerification": {
+    "message": "身份验证",
+    "description": "ulearning_refactor"
+  },
+  "login.confirm": {
+    "message": "确定",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationLoginTip": {
+    "message": "已注册并绑定过学号/工号的账号，可使用机构名称、学号/工号、密码登录优学院。",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationName": {
+    "message": "机构名称",
+    "description": "ulearning_refactor"
+  },
+  "login.studentIdOrEmployeeId": {
+    "message": "学号/工号",
+    "description": "ulearning_refactor"
+  },
+  "login.password": {
+    "message": "密码",
+    "description": "ulearning_refactor"
+  },
+  "login.loginAgreementPrefix": {
+    "message": "登录即为同意优学院",
+    "description": "ulearning_refactor"
+  },
+  "login.userAgreement": {
+    "message": "《用户协议》",
+    "description": "ulearning_refactor"
+  },
+  "login.privacyPolicy": {
+    "message": "《隐私政策》",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationAccount": {
+    "message": "机构账号",
+    "description": "ulearning_refactor"
+  },
+  "login.sms": {
+    "message": "短信",
+    "description": "ulearning_refactor"
+  },
+  "login.wechat": {
+    "message": "微信",
+    "description": "ulearning_refactor"
+  },
+  "login.enterUsernamePhoneEmail": {
+    "message": "请输入用户名/手机号/邮箱",
+    "description": "ulearning_refactor"
+  },
+  "login.enterPassword": {
+    "message": "请输入密码",
+    "description": "ulearning_refactor"
+  },
+  "login.enterDynamicCode": {
+    "message": "请输入动态验证码",
+    "description": "ulearning_refactor"
+  },
+  "login.phoneFormatError": {
+    "message": "手机号格式错误",
+    "description": "ulearning_refactor"
+  },
+  "login.selectOrganization": {
+    "message": "请选择机构",
+    "description": "ulearning_refactor"
+  },
+  "login.enterStudentIdOrEmployeeId": {
+    "message": "请输入学号/工号",
+    "description": "ulearning_refactor"
+  },
+  "login.cheatDetectedTip": {
+    "message": "系统检测到此账号在{courses}课程学习中存在作弊等不当行为，系统已自动冻结此账号，请联系任课老师或平台进行处理",
+    "description": "ulearning_refactor"
+  },
+  "login.loginFailedTooManyTimes": {
+    "message": "您已经连续输错5次，3分钟后重试",
+    "description": "ulearning_refactor"
+  },
+  "login.loginForbidden": {
+    "message": "禁止登录",
+    "description": "ulearning_refactor"
+  },
+  "login.loginError": {
+    "message": "学号/工号或密码错误",
+    "description": "ulearning_refactor"
+  },
+  "login.bindWelinkAccount": {
+    "message": "绑定welink账号",
+    "description": "ulearning_refactor"
+  },
+  "login.bind": {
+    "message": "绑定",
+    "description": "ulearning_refactor"
+  },
+  "login.and": {
+    "message": "与",
+    "description": "ulearning_refactor"
+  },
+  "login.dynamicCodeExpired": {
+    "message": "动态安全码已失效",
+    "description": "ulearning_refactor"
+  },
+  "login.dynamicCodeError": {
+    "message": "动态安全码错误",
+    "description": "ulearning_refactor"
+  },
+  "login.usernameOrPasswordError": {
+    "message": "用户名/密码错误",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.pleaseCompleteWithin": {
+    "message": "请在",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.signatureTimeoutSuffix": {
+    "message": "内完成签名，逾期未完成签名窗口将自动关闭。",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.scanQrCodeTip": {
+    "message": "请扫描二维码签名<br />（再次扫码签名将覆盖原有签名）",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.noSignature": {
+    "message": "暂无签名",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.displayArea": {
+    "message": "电子签名展示区",
+    "description": "ulearning_refactor"
   }
 }
