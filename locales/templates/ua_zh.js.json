@@ -748,7 +748,7 @@
     "description": "UA"
   },
   "createCourseChapter": {
-    "message": "创建课件",
+    "message": "创建课程章节",
     "description": "UA"
   },
   "createNewChapter": {
@@ -2352,7 +2352,7 @@
     "description": "UA"
   },
   "returnToCourseSection": {
-    "message": "返回课件",
+    "message": "返回课程章节",
     "description": "UA"
   },
   "reviewStatusApproved": {
@@ -4245,6 +4245,110 @@
   },
   "studentNoTextbooks": {
     "message": "学生没有教材！",
+    "description": "UA"
+  },
+  "backToCourseHomepage_in": {
+    "message": "返回课程章节主页",
+    "description": "UA"
+  },
+  "bankeBindTipsLine4_in": {
+    "message": "如果您还没有班课，请先登录教师帐号创建班课，并关联课程章节。",
+    "description": "UA"
+  },
+  "courseContent_in": {
+    "message": "课程章节内容",
+    "description": "UA"
+  },
+  "courseQuestions_in": {
+    "message": "课程章节试题",
+    "description": "UA"
+  },
+  "courseResources_in": {
+    "message": "课程章节资源",
+    "description": "UA"
+  },
+  "coursewareQBank_in": {
+    "message": "课程章节题库",
+    "description": "UA"
+  },
+  "createCourse_in": {
+    "message": "创建课程章节",
+    "description": "UA"
+  },
+  "editCourse_in": {
+    "message": "编辑课程章节",
+    "description": "UA"
+  },
+  "editCourseContent_in": {
+    "message": "编辑课程章节内容",
+    "description": "UA"
+  },
+  "enterCourseName_in": {
+    "message": "请输入课程章节名称",
+    "description": "UA"
+  },
+  "highlightsTip1_in": {
+    "message": "课程章节的介绍或宣传视频，显示在门户主页上",
+    "description": "UA"
+  },
+  "previewCourse_in": {
+    "message": "预览课程章节",
+    "description": "UA"
+  },
+  "publishConfirm_in": {
+    "message": "确认发布该课程章节吗",
+    "description": "UA"
+  },
+  "updateCourse_in": {
+    "message": "更新课程章节",
+    "description": "UA"
+  },
+  "videoNoWifi2_in": {
+    "message": "（提示：在课程单元目录中，可以缓存课程章节中的媒体资源）",
+    "description": "UA"
+  },
+  "withdrawCourses_in": {
+    "message": "撤回课程章节",
+    "description": "UA"
+  },
+  "codeTip_in": {
+    "message": "课程章节每个页面对应一张二维码，若删除课程页面，将导致该二维码无法访问！",
+    "description": "UA"
+  },
+  "deleteQuestionTip3_in": {
+    "message": "所选试题在课程章节中被引用了，在这里删除不会删除课程章节中的试题，确定删除吗？",
+    "description": "UA"
+  },
+  "importEditorCourse_in": {
+    "message": "导入编辑账号课程章节",
+    "description": "UA"
+  },
+  "videoHeadTip_in": {
+    "message": "标记视频片头时长，学生学习课程章节时可以跳过片头",
+    "description": "UA"
+  },
+  "setVideo2_in": {
+    "message": "同步设置本课程章节所有视频的片头",
+    "description": "UA"
+  },
+  "slotScormIntoContent_in": {
+    "message": "在内容中Scorm课程章节",
+    "description": "UA"
+  },
+  "selectScorm_in": {
+    "message": "选择Scorm课程章节",
+    "description": "UA"
+  },
+  "slotH5pIntoContent_in": {
+    "message": "在内容中插入 h5p 课程章节",
+    "description": "UA"
+  },
+  "selectH5p_in": {
+    "message": "选择 H5p 课程章节",
+    "description": "UA"
+  },
+  "pleaseSelectFile_in": {
+    "message": "请选择要导出的课程章节",
     "description": "UA"
   }
 }
