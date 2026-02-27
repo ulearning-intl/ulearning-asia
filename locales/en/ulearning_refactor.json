@@ -486,5 +486,977 @@
   "virtual.osRequirement": {
     "message": "OS Requirements",
     "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseSummary": {
+    "message": "Enter course overview",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseCover": {
+    "message": "Course Cover",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadCover": {
+    "message": "Upload Cover",
+    "description": "ulearning_refactor"
+  },
+  "virtual.suggestedSize800x450": {
+    "message": "Recommended size: 800×450",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterHours": {
+    "message": "Enter hours",
+    "description": "ulearning_refactor"
+  },
+  "virtual.hours": {
+    "message": "Learning hour",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSuitableStage": {
+    "message": "Enter suitable stage",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterTeacherName": {
+    "message": "Enter the teacher name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSchoolName": {
+    "message": "School name must be",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterSuitableSpeciality": {
+    "message": "Please enter suitable major",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseTarget": {
+    "message": "Enter course objectives",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterCourseContent": {
+    "message": "Enter course content",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExpectedEffect": {
+    "message": "Enter expected outcomes",
+    "description": "ulearning_refactor"
+  },
+  "virtual.save": {
+    "message": "Save",
+    "description": "ulearning_refactor"
+  },
+  "virtual.saveSuccess": {
+    "message": "Saved successfully!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseSummaryLimit": {
+    "message": "Overview cannot exceed 10000 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseUploadCover": {
+    "message": "Please upload a cover image",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterPositiveInteger": {
+    "message": " Please enter a positive integer ",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadAvatar": {
+    "message": "Upload Avatar",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherName": {
+    "message": "Teacher Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.affiliatedSchool": {
+    "message": "college",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterAffiliatedSchool": {
+    "message": "Enter affiliated school",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterTeacherIntroduction": {
+    "message": "Enter instructor profile",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addTeacher": {
+    "message": "Add Teacher",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherNameLimit": {
+    "message": "Name cannot exceed 100 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.affiliatedSchoolLimit": {
+    "message": "School cannot exceed 100 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherIntroductionLimit": {
+    "message": "Profile cannot exceed 10000 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.photoSizeLimit": {
+    "message": "Photo size cannot exceed 2MB!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.photoTypeLimit": {
+    "message": "Photo must be JPEG, JPG or PNG",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createProject": {
+    "message": "Create Project",
+    "description": "ulearning_refactor"
+  },
+  "virtual.addExperiment": {
+    "message": "Add Experiment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.createTime": {
+    "message": "Created at",
+    "description": "ulearning_refactor"
+  },
+  "virtual.edit": {
+    "message": "Edit",
+    "description": "ulearning_refactor"
+  },
+  "virtual.delete": {
+    "message": "Delete",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noTrainingProject": {
+    "message": "No training projects",
+    "description": "ulearning_refactor"
+  },
+  "virtual.noExperimentResource": {
+    "message": "No experiment resources",
+    "description": "ulearning_refactor"
+  },
+  "virtual.selectExperiment": {
+    "message": "Select Experiment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.tonglabTip": {
+    "message": "Experiment content from Tonglab. Click to auto-load experiment info.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentName": {
+    "message": "Experiment Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExperimentName": {
+    "message": "Enter experiment name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentCover": {
+    "message": "Experiment Cover",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentUrl": {
+    "message": "Experiment URL",
+    "description": "ulearning_refactor"
+  },
+  "virtual.enterExperimentUrl": {
+    "message": "Enter experiment URL",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentPublishTip": {
+    "message": "Note: Before publishing, ensure the experiment is integrated per the platform API specification; otherwise, scores cannot be collected.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.downloadSpecDoc": {
+    "message": "Download API Specification",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentResource": {
+    "message": "Experiment Resources",
+    "description": "ulearning_refactor"
+  },
+  "virtual.editExperiment": {
+    "message": "Edit Experiment",
+    "description": "ulearning_refactor"
+  },
+  "virtual.select": {
+    "message": "Select",
+    "description": "ulearning_refactor"
+  },
+  "virtual.importingExperimentData": {
+    "message": "Importing experiment data...",
+    "description": "ulearning_refactor"
+  },
+  "virtual.importFail": {
+    "message": "Failed to import!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteConfirm": {
+    "message": "Are you sure you want to delete it?",
+    "description": "ulearning_refactor"
+  },
+  "virtual.deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentCitedCannotDelete": {
+    "message": "This experiment is in use and cannot be deleted.",
+    "description": "ulearning_refactor"
+  },
+  "virtual.uploadFile": {
+    "message": "Upload File",
+    "description": "ulearning_refactor"
+  },
+  "virtual.experimentNameLimit": {
+    "message": "Experiment name cannot exceed 50 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseEnter": {
+    "message": "Enter ",
+    "description": "ulearning_refactor"
+  },
+  "virtual.max10000Words": {
+    "message": "Max 10000 characters",
+    "description": "ulearning_refactor"
+  },
+  "virtual.courseName": {
+    "message": "Course Name",
+    "description": "ulearning_refactor"
+  },
+  "virtual.teacherProfile": {
+    "message": "Instructor Profile",
+    "description": "ulearning_refactor"
+  },
+  "virtual.pleaseSelectExperiment": {
+    "message": "Please select an experiment",
+    "description": "ulearning_refactor"
+  },
+  "textbook.shareCourse": {
+    "message": "Share Course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.copySuccess": {
+    "message": "Duplicated successfully!",
+    "description": "ulearning_refactor"
+  },
+  "textbook.copy": {
+    "message": "Copy",
+    "description": "ulearning_refactor"
+  },
+  "textbook.hoursUnit": {
+    "message": "Learning hours",
+    "description": "ulearning_refactor"
+  },
+  "textbook.pleaseSelect": {
+    "message": "Please select",
+    "description": "ulearning_refactor"
+  },
+  "textbook.enterCourse": {
+    "message": "Open Course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.buyCourse": {
+    "message": "Buy the course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.joinCourse": {
+    "message": "Join course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseDetail": {
+    "message": "Course Details",
+    "description": "ulearning_refactor"
+  },
+  "textbook.chapterDirectory": {
+    "message": "Chapter Outline",
+    "description": "ulearning_refactor"
+  },
+  "textbook.knowledgeGraph": {
+    "message": "Knowledge Graph",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseIntro": {
+    "message": "Course Description",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseTeam": {
+    "message": "Course Team",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teachingOutline": {
+    "message": "Syllabus",
+    "description": "ulearning_refactor"
+  },
+  "textbook.recommendTextbook": {
+    "message": "Recommended Textbook",
+    "description": "ulearning_refactor"
+  },
+  "textbook.authorLabel": {
+    "message": "Author: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.goExperience": {
+    "message": "go experience",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectClass": {
+    "message": "Select Class",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherLabel": {
+    "message": "Teacher: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentCountLabel": {
+    "message": "Students:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.confirm": {
+    "message": "Confirm",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancel": {
+    "message": "Cancel",
+    "description": "ulearning_refactor"
+  },
+  "textbook.switchToStudentMode": {
+    "message": "Switch to Student View",
+    "description": "ulearning_refactor"
+  },
+  "textbook.iKnow": {
+    "message": "Got It!",
+    "description": "ulearning_refactor"
+  },
+  "textbook.logout": {
+    "message": "Log Out",
+    "description": "ulearning_refactor"
+  },
+  "textbook.declarationManage": {
+    "message": "Management of Course Declaration Information ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseName": {
+    "message": "Course Name",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termCount": {
+    "message": "No. of Course Opening Times",
+    "description": "ulearning_refactor"
+  },
+  "textbook.operation": {
+    "message": "Action",
+    "description": "ulearning_refactor"
+  },
+  "textbook.modify": {
+    "message": "Edit",
+    "description": "ulearning_refactor"
+  },
+  "textbook.delete": {
+    "message": "Delete",
+    "description": "ulearning_refactor"
+  },
+  "textbook.prevPage": {
+    "message": "Previous",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nextPage": {
+    "message": "Next",
+    "description": "ulearning_refactor"
+  },
+  "textbook.enterCourseName": {
+    "message": "Click to enter the courseware name",
+    "description": "ulearning_refactor"
+  },
+  "textbook.searchPlaceholder": {
+    "message": "Enter keyword to search",
+    "description": "ulearning_refactor"
+  },
+  "textbook.unpublished": {
+    "message": "Unpublished",
+    "description": "ulearning_refactor"
+  },
+  "textbook.back": {
+    "message": "Back",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalLabel": {
+    "message": "Total:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.viewDetail": {
+    "message": "View Details",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseLib": {
+    "message": "Coursewares",
+    "description": "ulearning_refactor"
+  },
+  "textbook.version": {
+    "message": "Version",
+    "description": "ulearning_refactor"
+  },
+  "textbook.name": {
+    "message": "Name",
+    "description": "ulearning_refactor"
+  },
+  "textbook.createTime": {
+    "message": "Created at",
+    "description": "ulearning_refactor"
+  },
+  "textbook.updateTime": {
+    "message": "Last updated",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelAssociation": {
+    "message": "Disassociate",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseTerm": {
+    "message": "Course Offerings",
+    "description": "ulearning_refactor"
+  },
+  "textbook.addTerm": {
+    "message": "Add Offering",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termNum": {
+    "message": "Offerings",
+    "description": "ulearning_refactor"
+  },
+  "textbook.startTime": {
+    "message": "Start Time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.status": {
+    "message": "Status",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentCount": {
+    "message": "Enrollments",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataStat": {
+    "message": "Statistics",
+    "description": "ulearning_refactor"
+  },
+  "textbook.creator": {
+    "message": "Creator",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studentNum": {
+    "message": "Students",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseVideo": {
+    "message": "Courseware Videos",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalDuration": {
+    "message": "Total Length: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.minuteUnit": {
+    "message": "minutes",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nonVideoResource": {
+    "message": "Non-Video Content",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseNotice": {
+    "message": "Course Announcements",
+    "description": "ulearning_refactor"
+  },
+  "textbook.count": {
+    "message": "Quantity: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.homeworkQuiz": {
+    "message": "Assignments/Quizzes",
+    "description": "ulearning_refactor"
+  },
+  "textbook.joinerCount": {
+    "message": "No. of Participants:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.discussion": {
+    "message": "Discussions",
+    "description": "ulearning_refactor"
+  },
+  "textbook.postCount": {
+    "message": "Total: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherPostCount": {
+    "message": "Teacher Posts/Replies: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.discussionJoinerCount": {
+    "message": "Active Participants: ",
+    "description": "ulearning_refactor"
+  },
+  "textbook.exam": {
+    "message": "Exams",
+    "description": "ulearning_refactor"
+  },
+  "textbook.school": {
+    "message": "School",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectStartTime": {
+    "message": "Select a start time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectEndTime": {
+    "message": "Select a end time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.endTimeEarlyError": {
+    "message": "The end time cannot be earlier than the start time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.notStarted": {
+    "message": "Not started",
+    "description": "ulearning_refactor"
+  },
+  "textbook.inProgress": {
+    "message": "In progress",
+    "description": "ulearning_refactor"
+  },
+  "textbook.ended": {
+    "message": "Ended",
+    "description": "ulearning_refactor"
+  },
+  "textbook.endTime": {
+    "message": "End Time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.startTimePlaceholder": {
+    "message": "Start Time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelSuccess": {
+    "message": "Canceled successfully!",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteConfirm": {
+    "message": "Are you sure you want to delete it?",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteTermTitle": {
+    "message": "Delete Offering",
+    "description": "ulearning_refactor"
+  },
+  "course.studentCourseArchive": {
+    "message": "{name}'s Course Records",
+    "description": "ulearning_refactor"
+  },
+  "course.export": {
+    "message": "Export",
+    "description": "ulearning_refactor"
+  },
+  "course.close": {
+    "message": "Close",
+    "description": "ulearning_refactor"
+  },
+  "course.studentId": {
+    "message": "Student ID:",
+    "description": "ulearning_refactor"
+  },
+  "course.gender": {
+    "message": "Gender:",
+    "description": "ulearning_refactor"
+  },
+  "course.registerTime": {
+    "message": "Enrolled:",
+    "description": "ulearning_refactor"
+  },
+  "course.email": {
+    "message": "Email:",
+    "description": "ulearning_refactor"
+  },
+  "course.learning": {
+    "message": "Learning",
+    "description": "ulearning_refactor"
+  },
+  "course.courses": {
+    "message": "Courses",
+    "description": "ulearning_refactor"
+  },
+  "course.submitted": {
+    "message": "submitted ",
+    "description": "ulearning_refactor"
+  },
+  "course.assignments": {
+    "message": "assignment",
+    "description": "ulearning_refactor"
+  },
+  "course.exams": {
+    "message": "Exams",
+    "description": "ulearning_refactor"
+  },
+  "course.courseLearningRecord": {
+    "message": "Courseware Learning Records",
+    "description": "ulearning_refactor"
+  },
+  "course.coursewareName": {
+    "message": "Courseware Name",
+    "description": "ulearning_refactor"
+  },
+  "course.progress": {
+    "message": "Progress",
+    "description": "ulearning_refactor"
+  },
+  "course.studyDuration": {
+    "message": "Learning Time",
+    "description": "ulearning_refactor"
+  },
+  "course.lastStudyTime": {
+    "message": "Last Learned ",
+    "description": "ulearning_refactor"
+  },
+  "course.score": {
+    "message": "Score",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkRecord": {
+    "message": "Assignment Records",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkName": {
+    "message": "Assignment Name",
+    "description": "ulearning_refactor"
+  },
+  "course.status": {
+    "message": "Status",
+    "description": "ulearning_refactor"
+  },
+  "course.statusLabel": {
+    "message": "State:",
+    "description": "ulearning_refactor"
+  },
+  "course.submittedStatus": {
+    "message": "Submitted",
+    "description": "ulearning_refactor"
+  },
+  "course.unsubmittedStatus": {
+    "message": "Not submitted",
+    "description": "ulearning_refactor"
+  },
+  "course.grade": {
+    "message": "Grade",
+    "description": "ulearning_refactor"
+  },
+  "course.gradeLabel": {
+    "message": "Grade: ",
+    "description": "ulearning_refactor"
+  },
+  "course.examRecord": {
+    "message": "Exam Records",
+    "description": "ulearning_refactor"
+  },
+  "course.examName": {
+    "message": "Exam Name",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomName": {
+    "message": "Session Name",
+    "description": "ulearning_refactor"
+  },
+  "course.signedIn": {
+    "message": "Signed in",
+    "description": "ulearning_refactor"
+  },
+  "course.pointsLabel": {
+    "message": "Points:",
+    "description": "ulearning_refactor"
+  },
+  "course.activityDetail": {
+    "message": "Details",
+    "description": "ulearning_refactor"
+  },
+  "course.activityType": {
+    "message": "Activity Type",
+    "description": "ulearning_refactor"
+  },
+  "course.totalActivities": {
+    "message": "Total activities",
+    "description": "ulearning_refactor"
+  },
+  "course.exportData": {
+    "message": "Export data",
+    "description": "ulearning_refactor"
+  },
+  "course.discussion": {
+    "message": "Discussions",
+    "description": "ulearning_refactor"
+  },
+  "course.rollCall": {
+    "message": "Roll Call",
+    "description": "ulearning_refactor"
+  },
+  "course.vote": {
+    "message": "Poll",
+    "description": "ulearning_refactor"
+  },
+  "course.pick": {
+    "message": "Random Pick",
+    "description": "ulearning_refactor"
+  },
+  "course.quickAnswer": {
+    "message": "Compete to Answer",
+    "description": "ulearning_refactor"
+  },
+  "course.grading": {
+    "message": "Peer Review",
+    "description": "ulearning_refactor"
+  },
+  "course.photoUpload": {
+    "message": "Image Upload",
+    "description": "ulearning_refactor"
+  },
+  "course.quiz": {
+    "message": "Answer",
+    "description": "ulearning_refactor"
+  },
+  "course.peerReviewing": {
+    "message": "Peer evaluating",
+    "description": "ulearning_refactor"
+  },
+  "course.toBeGraded": {
+    "message": "Ungraded",
+    "description": "ulearning_refactor"
+  },
+  "course.needsRewrite": {
+    "message": "Need to re-do",
+    "description": "ulearning_refactor"
+  },
+  "course.appealing": {
+    "message": "In appeal",
+    "description": "ulearning_refactor"
+  },
+  "course.noStudentEvaluation": {
+    "message": " No student evaluation ",
+    "description": "ulearning_refactor"
+  },
+  "course.gradeNotPublished": {
+    "message": "Unpublished",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterials": {
+    "message": "Teaching Materials",
+    "description": "ulearning_refactor"
+  },
+  "course.back": {
+    "message": "Back",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterialsTip": {
+    "message": "Teachers can customize the course content according to class teaching arrangement and situation of students. Click: \"Add Module\", \"Add Unit\", \"Add Activity\", you can set your own course structure and content for these 3 layers. Click button(s) following after the unit/activity, you can hide or unhide the unit/activity and add Remarks.",
+    "description": "ulearning_refactor"
+  },
+  "course.coursewareLabel": {
+    "message": "Courseware:",
+    "description": "ulearning_refactor"
+  },
+  "course.all": {
+    "message": "All",
+    "description": "ulearning_refactor"
+  },
+  "course.document": {
+    "message": "Documents",
+    "description": "ulearning_refactor"
+  },
+  "course.image": {
+    "message": "Image",
+    "description": "ulearning_refactor"
+  },
+  "course.video": {
+    "message": "Video",
+    "description": "ulearning_refactor"
+  },
+  "course.audio": {
+    "message": "Audio",
+    "description": "ulearning_refactor"
+  },
+  "course.archive": {
+    "message": "Compressed file",
+    "description": "ulearning_refactor"
+  },
+  "course.teachingMaterialsSuffix": {
+    "message": "Teaching Materials",
+    "description": "ulearning_refactor"
+  },
+  "course.downloadAllMaterials": {
+    "message": "Download all",
+    "description": "ulearning_refactor"
+  },
+  "course.fileName": {
+    "message": "File name",
+    "description": "ulearning_refactor"
+  },
+  "course.size": {
+    "message": "Size",
+    "description": "ulearning_refactor"
+  },
+  "course.downloadCount": {
+    "message": "No. of download times",
+    "description": "ulearning_refactor"
+  },
+  "course.operation": {
+    "message": "Action",
+    "description": "ulearning_refactor"
+  },
+  "course.download": {
+    "message": "Download",
+    "description": "ulearning_refactor"
+  },
+  "course.prevPage": {
+    "message": "Previous",
+    "description": "ulearning_refactor"
+  },
+  "course.nextPage": {
+    "message": "Next",
+    "description": "ulearning_refactor"
+  },
+  "course.publicResources": {
+    "message": "Public resource",
+    "description": "ulearning_refactor"
+  },
+  "course.viewAll": {
+    "message": "Check all",
+    "description": "ulearning_refactor"
+  },
+  "login.contactCustomerService": {
+    "message": "Contact customer service personnel",
+    "description": "ulearning_refactor"
+  },
+  "login.websiteHomepage": {
+    "message": "Homepage",
+    "description": "ulearning_refactor"
+  },
+  "login.register": {
+    "message": "Register now",
+    "description": "ulearning_refactor"
+  },
+  "login.forgotPassword": {
+    "message": "Forgot password?",
+    "description": "ulearning_refactor"
+  },
+  "login.login": {
+    "message": "Login",
+    "description": "ulearning_refactor"
+  },
+  "login.otherLoginMethods": {
+    "message": "Other Login Methods",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationLogin": {
+    "message": "Log in to your institutional account",
+    "description": "ulearning_refactor"
+  },
+  "login.smsLogin": {
+    "message": "Log in via SMS",
+    "description": "ulearning_refactor"
+  },
+  "login.wechatLogin": {
+    "message": "WeChat Login",
+    "description": "ulearning_refactor"
+  },
+  "login.back": {
+    "message": "Back",
+    "description": "ulearning_refactor"
+  },
+  "login.enterPhoneNumber": {
+    "message": "Please enter the phone number",
+    "description": "ulearning_refactor"
+  },
+  "login.enterVerificationCode": {
+    "message": "Please enter the verification code",
+    "description": "ulearning_refactor"
+  },
+  "login.getVerificationCode": {
+    "message": "Get verification code",
+    "description": "ulearning_refactor"
+  },
+  "login.identityVerification": {
+    "message": "Identity Verification",
+    "description": "ulearning_refactor"
+  },
+  "login.confirm": {
+    "message": "Confirm",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationName": {
+    "message": "Institute Name",
+    "description": "ulearning_refactor"
+  },
+  "login.studentIdOrEmployeeId": {
+    "message": "Student ID/ Work ID",
+    "description": "ulearning_refactor"
+  },
+  "login.password": {
+    "message": "Password",
+    "description": "ulearning_refactor"
+  },
+  "login.userAgreement": {
+    "message": " <User Agreement> ",
+    "description": "ulearning_refactor"
+  },
+  "login.privacyPolicy": {
+    "message": "<Privacy Policy>",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationAccount": {
+    "message": "Institutional account",
+    "description": "ulearning_refactor"
+  },
+  "login.sms": {
+    "message": "SMS",
+    "description": "ulearning_refactor"
+  },
+  "login.wechat": {
+    "message": "WeChat",
+    "description": "ulearning_refactor"
+  },
+  "login.enterUsernamePhoneEmail": {
+    "message": "Click to enter your username/phone/email",
+    "description": "ulearning_refactor"
+  },
+  "login.enterPassword": {
+    "message": "Enter your password",
+    "description": "ulearning_refactor"
+  },
+  "login.enterDynamicCode": {
+    "message": "Please enter the verification code",
+    "description": "ulearning_refactor"
+  },
+  "login.selectOrganization": {
+    "message": "Please select institution",
+    "description": "ulearning_refactor"
+  },
+  "login.enterStudentIdOrEmployeeId": {
+    "message": "Please enter student ID/ work ID",
+    "description": "ulearning_refactor"
+  },
+  "login.loginFailedTooManyTimes": {
+    "message": "You have tried 5 times and the account is locked. Please retry after 3 minutes.",
+    "description": "ulearning_refactor"
+  },
+  "login.bind": {
+    "message": "Bind",
+    "description": "ulearning_refactor"
+  },
+  "login.dynamicCodeExpired": {
+    "message": "The dynamic security code has expired",
+    "description": "ulearning_refactor"
+  },
+  "login.dynamicCodeError": {
+    "message": "Incorrect verification code",
+    "description": "ulearning_refactor"
+  },
+  "login.usernameOrPasswordError": {
+    "message": "Incorrect username/password",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.pleaseCompleteWithin": {
+    "message": "Finish reading the content",
+    "description": "ulearning_refactor"
   }
 }
