@@ -8650,5 +8650,381 @@
   "noExperimentResources": {
     "message": "暂无实验资源",
     "description": "2.0 course.js"
+  },
+  "courseware_in": {
+    "message": "课程章节",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips2_in": {
+    "message": "支持课程章节、作业、考试、手工输入等多个评分项",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTitle4_in": {
+    "message": "为课程指定课程章节~",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips4_in": {
+    "message": "只有指定课程章节后学生才能学习，课程的课程章节只能由课程管理员指定，教师和助教角色不能指定课程章节",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips3_in": {
+    "message": "注：仅统计使用优学院建课工具发布的课程章节中的视频",
+    "description": "2.0 course.js"
+  },
+  "coursewareStudyState_in": {
+    "message": "课程章节学习情况",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips6_in": {
+    "message": "本课程还未指定课程章节",
+    "description": "2.0 course.js"
+  },
+  "assessmentHeadTip_in": {
+    "message": "通过设置考核策略，可将学生课程章节学习、作业、考试等活动的成绩纳入评价体系，以实现过程与结果相结合的综合评价。创建考核策略后，系统将自动汇总并计算学生最终成绩。",
+    "description": "2.0 course.js"
+  },
+  "createStrTips9_in": {
+    "message": "该课程章节电脑版和手机版成绩分开统计，计算章节成绩时，取分数高的成绩为最终成绩。仅有电脑版的章节，计算成绩时以电脑版为准。",
+    "description": "2.0 course.js"
+  },
+  "createStrTips10_in": {
+    "message": "该课程章节电脑版和手机版内容有差异，学生如果在电脑、手机上都学习了，按两者的总学习时长计算。",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction11_in": {
+    "message": "课程章节（设置课程所用课程章节）",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction12_in": {
+    "message": "课程章节（设置课程章节学习计划）",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction13_in": {
+    "message": "课程章节（安排学生重做）",
+    "description": "2.0 course.js"
+  },
+  "semesterTips4_in": {
+    "message": "请选择该学期教学所用的班课。只能选择本账号下，使用了当前开放课程作为课程章节的班课。如果还没有班课，请先创建班课并设置课程章节。每个班课只能关联一个学期，建议您每个学期创建一个新的班课。",
+    "description": "2.0 course.js"
+  },
+  "coursewareVideo_in": {
+    "message": "课程章节视频",
+    "description": "2.0 course.js"
+  },
+  "semesterRichText_in": {
+    "message": "课程章节中的图文页面数量：{n}个",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_in": {
+    "message": "课程章节由课程管理员引入，课程管理员可自己编辑课程章节后引入到课程，也可以从现有的课程章节库中引入课程章节。对于收费教材/课程，学生需要购买激活后才能学习。同一课程所有班级使用相同的课程章节，但可以设置不同的学习计划。",
+    "description": "2.0 course.js"
+  },
+  "textbookTips1_in": {
+    "message": "从课程章节库选择并导入",
+    "description": "2.0 course.js"
+  },
+  "newCourseware_in": {
+    "message": "新建课程章节",
+    "description": "2.0 course.js"
+  },
+  "noCourseware_in": {
+    "message": "没有课程章节",
+    "description": "2.0 course.js"
+  },
+  "noCourseware2_in": {
+    "message": "暂无课程章节，请选择其他方式导入或编辑课程章节",
+    "description": "2.0 course.js"
+  },
+  "editMyCourseware_in": {
+    "message": "编辑我的课程章节",
+    "description": "2.0 course.js"
+  },
+  "importFromMyCourseware_in": {
+    "message": "从我的课程章节中导入",
+    "description": "2.0 course.js"
+  },
+  "importFromCoursewareLib_in": {
+    "message": "从课程章节库导入",
+    "description": "2.0 course.js"
+  },
+  "currentCourseware_in": {
+    "message": "当前选用的课程章节",
+    "description": "2.0 course.js"
+  },
+  "deleteTbConfirm_in": {
+    "message": "如果考核规则中设置了课程章节学习情况作为评分项，删除课程章节将会影响学生最终的汇总成绩，确定删除吗？",
+    "description": "2.0 course.js"
+  },
+  "coursewareNum_in": {
+    "message": "课程章节数：",
+    "description": "2.0 course.js"
+  },
+  "setCourseware_in": {
+    "message": "设置课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookTips4_in": {
+    "message": "当前课程还未引入课程章节，您可以从我的课程章节中或课程章节库导入",
+    "description": "2.0 course.js"
+  },
+  "textbookTips5_in": {
+    "message": "课程管理员还没有设置课程章节",
+    "description": "2.0 course.js"
+  },
+  "coursewareContent_in": {
+    "message": "课程章节内容",
+    "description": "2.0 course.js"
+  },
+  "editCoursewareContent_in": {
+    "message": "编辑课程章节内容",
+    "description": "2.0 course.js"
+  },
+  "deleteCourseware_in": {
+    "message": "删除课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookTips6_in": {
+    "message": "课程章节暂未发布",
+    "description": "2.0 course.js"
+  },
+  "coursewareNotActivated_in": {
+    "message": "课程章节未激活",
+    "description": "2.0 course.js"
+  },
+  "textbookTips7_in": {
+    "message": "请先激活课程章节后再开始学习！",
+    "description": "2.0 course.js"
+  },
+  "activeCourseware_in": {
+    "message": "激活课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookTips8_in": {
+    "message": "刮开纸质课程章节封底的涂层获取激活码，输入上方输入框内，字母不区分大小写；",
+    "description": "2.0 course.js"
+  },
+  "textbookTips9_in": {
+    "message": "课程章节需要在本人账号下激活，请勿替他人激活。",
+    "description": "2.0 course.js"
+  },
+  "textbookTips10_in": {
+    "message": "没有课程章节?去",
+    "description": "2.0 course.js"
+  },
+  "textbookTips11_in": {
+    "message": "该课程章节电脑版与手机版成绩不互通，切换可分别查看两端的进度成绩（为方便老师后期统计成绩，建议始终使用同一种设备完成学习）",
+    "description": "2.0 course.js"
+  },
+  "inputCoursewareName_in": {
+    "message": "请输入课程章节名称",
+    "description": "2.0 course.js"
+  },
+  "textbookTips13_in": {
+    "message": "本校已存在相同名称的课程章节，请修改名称",
+    "description": "2.0 course.js"
+  },
+  "textbookTips14_in": {
+    "message": "确认删除该课程章节吗？",
+    "description": "2.0 course.js"
+  },
+  "textbookTips15_in": {
+    "message": "只能添加10个课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookTips16_in": {
+    "message": "如果考核规则中设置了课程章节学习情况作为评分项，修改课程章节将会影响学生最终的汇总成绩，确认修改吗？",
+    "description": "2.0 course.js"
+  },
+  "modifyCourseware_in": {
+    "message": "修改课程章节",
+    "description": "2.0 course.js"
+  },
+  "coursewareScore_in": {
+    "message": "课程章节分数：",
+    "description": "2.0 course.js"
+  },
+  "textbookTips30_in": {
+    "message": "只针对xml课程电脑端和手机端内容不一致的课程，您可选择课程章节成绩的计分规则",
+    "description": "2.0 course.js"
+  },
+  "coursewareAverageScore_in": {
+    "message": "课程章节平均分",
+    "description": "2.0 course.js"
+  },
+  "coursewareAccumulatedStudyTime_in": {
+    "message": "课程章节累计学习时间",
+    "description": "2.0 course.js"
+  },
+  "myCourseware_in": {
+    "message": "我的课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookStrategyScope_in": {
+    "message": "课程章节考核范围",
+    "description": "2.0 course.js"
+  },
+  "noTextbooks_in": {
+    "message": "无课程章节",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType1_in": {
+    "message": "课程章节学习成绩",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType2_in": {
+    "message": "课程章节学习时长",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType3_in": {
+    "message": "课程章节学习进度",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips26_in": {
+    "message": "通过设置课程考核规则，可以将课程章节、作业、考试等各项活动的得分，按一定比例计入课程汇总成绩。考核截止后，系统将自动汇总并计算学生最终成绩。",
+    "description": "2.0 course.js"
+  },
+  "canUseTip_in": {
+    "message": "课程章节发布后才能使用",
+    "description": "2.0 course.js"
+  },
+  "courseTextbooksSupportTips_in": {
+    "message": "该课程章节仅支持统计【学习成绩】和【学习时长】，不支持统计【学习进度】",
+    "description": "2.0 course.js"
+  },
+  "noSupportSaveActiveTips_in": {
+    "message": "含有不支持课程章节学习进度评分项的教材，请去掉课程章节学习进度评分项或者去掉不支持的教材再保存",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse_in": {
+    "message": "该课程章节资源及数据均由【爱课程】提供",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse1_in": {
+    "message": "该课程章节由【爱课程】提供",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse2_in": {
+    "message": "该课程章节资源及数据均由【爱课程】提供，当天数据约第二天中午12点后可查询",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse3_in": {
+    "message": "该课程章节资源及数据均由【爱课程】提供，当天学习数据约第二天中午12点后更新",
+    "description": "2.0 course.js"
+  },
+  "coursewarePreview_in": {
+    "message": "预览课程章节",
+    "description": "2.0 course.js"
+  },
+  "iCourseAssessmentTips_in": {
+    "message": "该课程章节由【爱课程】提供，课程章节成绩不支持纳入考核",
+    "description": "2.0 course.js"
+  },
+  "coursewareStat_in": {
+    "message": "课程章节统计",
+    "description": "2.0 course.js"
+  },
+  "activateMismatch_in": {
+    "message": "激活码与当前课程章节不符",
+    "description": "2.0 course.js"
+  },
+  "textbookNullTips_in": {
+    "message": "暂无课程章节",
+    "description": "2.0 course.js"
+  },
+  "iCourseTip_in": {
+    "message": "注意：使用爱课程的课程章节，不支持设置学习计划，进度成绩仅能查看课程章节整体数据，无法查看分章节数据，课程章节成绩无法纳入考核。",
+    "description": "2.0 course.js"
+  },
+  "textbookName2_in": {
+    "message": "课程章节名称",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint1_in": {
+    "message": "1. 仅视频包含屏幕共享、多媒体、摄像头画面。视频与课程章节包含白板、课程章节、文档、屏幕共享、多媒体、摄像头画面。",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint2_in": {
+    "message": "2. 视频与课程章节可能因直播弱网，数据不完整，而生成失败，若再次生成仍失败，则无法生成，建议使用仅视频下载。",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint3_in": {
+    "message": "3. 视频与课程章节生成时长约等于直播时长，直播时长大于6小时不可生成。",
+    "description": "2.0 course.js"
+  },
+  "liveCoursewareState_in": {
+    "message": "视频课程章节状态",
+    "description": "2.0 course.js"
+  },
+  "liveCourseware_in": {
+    "message": "视频与课程章节",
+    "description": "2.0 course.js"
+  },
+  "unitCourseware_in": {
+    "message": "导入课程章节生成单元",
+    "description": "2.0 course.js"
+  },
+  "unitImportCourseware_in": {
+    "message": "导入课程章节",
+    "description": "2.0 course.js"
+  },
+  "obeRulesTips_in": {
+    "message": "设置好课程目标及成绩考核比例后，在这里可以将课程章节和各类教学活动与课程目标相关联。未关联课程目标和考核环节的数据，将不纳入达成度统计。",
+    "description": "2.0 course.js"
+  },
+  "obeTextbookTips1_in": {
+    "message": "课程章节由课程管理员统一设置评价规则。（仅支持优学院建课工具发布的课程章节）",
+    "description": "2.0 course.js"
+  },
+  "importTextbookTips_in": {
+    "message": "注：仅支持导入使用优学院建课工具发布的课程章节",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips2_in": {
+    "message": "课程章节/教材已过期，重新激活才能继续学习。",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips3_in": {
+    "message": "该课程章节来源于付费教材/课程《{name}》，激活后才能学习。",
+    "description": "2.0 course.js"
+  },
+  "subjectBank_in": {
+    "message": "课程章节库资源",
+    "description": "2.0 course.js"
+  },
+  "knowledgeGraphTips1_in": {
+    "message": "当前课程章节已发布知识图谱。",
+    "description": "2.0 course.js"
+  },
+  "insertHadCourse_in": {
+    "message": "插入已有课程章节",
+    "description": "2.0 course.js"
+  },
+  "insertNewCourse_in": {
+    "message": "新建课程章节",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourseOfAppended_in": {
+    "message": "请选择要被追加章节的课程章节",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourse_in": {
+    "message": "请选择课程章节",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc_in": {
+    "message": "掌握度是根据知识点测验成绩，以及关联的课程章节练习、作业、考试成绩综合评价所得。",
+    "description": "2.0 course.js"
+  },
+  "createdTextbookNum_in": {
+    "message": "创建课程章节数",
+    "description": "2.0 course.js"
+  },
+  "textbookStudy_in": {
+    "message": "课程章节学习",
+    "description": "2.0 course.js"
+  },
+  "studyTextbookNumber_in": {
+    "message": "学习课程章节数",
+    "description": "2.0 course.js"
   }
 }

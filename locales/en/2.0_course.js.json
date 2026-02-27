@@ -8646,5 +8646,381 @@
   "noExperimentResources": {
     "message": "No lab resources available",
     "description": "2.0 course.js"
+  },
+  "courseware_in": {
+    "message": "Courseware",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips2_in": {
+    "message": "Support many grading items such as courseware, assignments, exams, even teacher-created grading items, etc.",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTitle4_in": {
+    "message": "Assign courseware (course content) to the course.",
+    "description": "2.0 course.js"
+  },
+  "courseGuideTips4_in": {
+    "message": "Students can consume a courseware only after the courseware is assigned to the course. Only the course admin can assign courseware to the course. Teachers and teaching assistants do not have the permission to do it.",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips3_in": {
+    "message": "Notes: Includes the video(s) inserted into courseware by ULearning only",
+    "description": "2.0 course.js"
+  },
+  "coursewareStudyState_in": {
+    "message": "Courseware Learning Analysis",
+    "description": "2.0 course.js"
+  },
+  "analysisSpocTips6_in": {
+    "message": "No courseware has been assigned to this course",
+    "description": "2.0 course.js"
+  },
+  "assessmentHeadTip_in": {
+    "message": "By setting the grading rules, formative assessments and summative assessments can be combined to assess students' course performance. After the grading rules is set, the system will automatically calculate the final grade for each student.",
+    "description": "2.0 course.js"
+  },
+  "createStrTips9_in": {
+    "message": "The courseware score is calculated separately for PC and Mobile App. The higher score is counted toward the course final grade. Also the score for the PC-only content  (the content is not available for Mobile App) is counted toward the final grade.",
+    "description": "2.0 course.js"
+  },
+  "createStrTips10_in": {
+    "message": "The content of this courseware differs between the PC version and the mobile version. If students have studied on both computer and mobile, the learning time will be calculated based on the total sum of both.",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction11_in": {
+    "message": "Courseware (Assign)",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction12_in": {
+    "message": "Courseware (Set Learning Plan)",
+    "description": "2.0 course.js"
+  },
+  "teachingJurisdiction13_in": {
+    "message": "Courseware (Rework)",
+    "description": "2.0 course.js"
+  },
+  "semesterTips4_in": {
+    "message": "Available courses are your active courses using this MOOC (courseware). If no one available for external students to enroll, you have to create one first, add this MOOC to the course, and then come here to add an offering to it.",
+    "description": "2.0 course.js"
+  },
+  "coursewareVideo_in": {
+    "message": "Courseware Videos",
+    "description": "2.0 course.js"
+  },
+  "semesterRichText_in": {
+    "message": "Courseware Rich Contents: {n} ",
+    "description": "2.0 course.js"
+  },
+  "textbookHeadTips_in": {
+    "message": "Course admin can import and edit courseware. For paid textbooks/courses, students need to pay and activate the course to start learning. All classes in the same course use the same courseware, but learning plans can be set differently.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips1_in": {
+    "message": "Import from Courseware Bank",
+    "description": "2.0 course.js"
+  },
+  "newCourseware_in": {
+    "message": "Create Courseware",
+    "description": "2.0 course.js"
+  },
+  "noCourseware_in": {
+    "message": "No courseware found.",
+    "description": "2.0 course.js"
+  },
+  "noCourseware2_in": {
+    "message": "There is no courseware currently, please choose another way to import or edit courseware",
+    "description": "2.0 course.js"
+  },
+  "editMyCourseware_in": {
+    "message": "Edit/Create Courseware",
+    "description": "2.0 course.js"
+  },
+  "importFromMyCourseware_in": {
+    "message": "Import My Courseware",
+    "description": "2.0 course.js"
+  },
+  "importFromCoursewareLib_in": {
+    "message": "Import from Courseware Library ",
+    "description": "2.0 course.js"
+  },
+  "currentCourseware_in": {
+    "message": "Current Courseware",
+    "description": "2.0 course.js"
+  },
+  "deleteTbConfirm_in": {
+    "message": "If the course grading rules include the courseware as a grading item, deleting the courseware will impact the students' final grade. Are you sure you want to delete it?",
+    "description": "2.0 course.js"
+  },
+  "coursewareNum_in": {
+    "message": "Number of Courseware: ",
+    "description": "2.0 course.js"
+  },
+  "setCourseware_in": {
+    "message": "Set Courseware",
+    "description": "2.0 course.js"
+  },
+  "textbookTips4_in": {
+    "message": "This course does not have any courseware. You can import one or more from My Courseware or Courseware Library",
+    "description": "2.0 course.js"
+  },
+  "textbookTips5_in": {
+    "message": "The course admin has not set up courseware yet",
+    "description": "2.0 course.js"
+  },
+  "coursewareContent_in": {
+    "message": "Courseware Content",
+    "description": "2.0 course.js"
+  },
+  "editCoursewareContent_in": {
+    "message": "Edit Courseware",
+    "description": "2.0 course.js"
+  },
+  "deleteCourseware_in": {
+    "message": "Delete Courseware",
+    "description": "2.0 course.js"
+  },
+  "textbookTips6_in": {
+    "message": "Courseware has not been published yet",
+    "description": "2.0 course.js"
+  },
+  "coursewareNotActivated_in": {
+    "message": "Courseware has not been activated yet",
+    "description": "2.0 course.js"
+  },
+  "textbookTips7_in": {
+    "message": "Activate the courseware before you start to learn!",
+    "description": "2.0 course.js"
+  },
+  "activeCourseware_in": {
+    "message": "Activate eLearning courses:",
+    "description": "2.0 course.js"
+  },
+  "textbookTips8_in": {
+    "message": "Scratch off the coating on the back cover of the paper textbook to reveal the activation code. Enter the code in the box above. The code is not case-sensitive.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips9_in": {
+    "message": "eLearning course needs to be activated under your own account. Please do not use the code for somebody else's account.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips10_in": {
+    "message": "No courseware? Go to ",
+    "description": "2.0 course.js"
+  },
+  "textbookTips11_in": {
+    "message": "The learning results of this courseware are not synchronized between PC and Mobile App. You can switch the device to check your learning progress of both sides (It is advised that you conduct your learning on one device so that your teacher can grade your courseware learning easily.)",
+    "description": "2.0 course.js"
+  },
+  "inputCoursewareName_in": {
+    "message": "Click to enter the courseware name",
+    "description": "2.0 course.js"
+  },
+  "textbookTips13_in": {
+    "message": "The courseware name already exists. Enter a different name.",
+    "description": "2.0 course.js"
+  },
+  "textbookTips14_in": {
+    "message": "Are you sure you want to delete this courseware？",
+    "description": "2.0 course.js"
+  },
+  "textbookTips15_in": {
+    "message": "Up to 10 courseware can be added",
+    "description": "2.0 course.js"
+  },
+  "textbookTips16_in": {
+    "message": "If the course grading rules include the courseware learning as a grading item, editing the courseware will impact the students' final grade. Are you sure you want to edit it?",
+    "description": "2.0 course.js"
+  },
+  "modifyCourseware_in": {
+    "message": "Edit Courseware",
+    "description": "2.0 course.js"
+  },
+  "coursewareScore_in": {
+    "message": "Courseware Score: ",
+    "description": "2.0 course.js"
+  },
+  "textbookTips30_in": {
+    "message": "If  the courseware content for the same course is different between PC and Mobile App versions, you can select either one of the grading rules for the courseware.",
+    "description": "2.0 course.js"
+  },
+  "coursewareAverageScore_in": {
+    "message": "Courseware Avg Score",
+    "description": "2.0 course.js"
+  },
+  "coursewareAccumulatedStudyTime_in": {
+    "message": "Cumulative Learning Time",
+    "description": "2.0 course.js"
+  },
+  "myCourseware_in": {
+    "message": "My Courseware",
+    "description": "2.0 course.js"
+  },
+  "textbookStrategyScope_in": {
+    "message": "Content Scope",
+    "description": "2.0 course.js"
+  },
+  "noTextbooks_in": {
+    "message": "No courseware",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType1_in": {
+    "message": "Courseware Learning Result",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType2_in": {
+    "message": "Courseware Learning Time",
+    "description": "2.0 course.js"
+  },
+  "scoreItemType3_in": {
+    "message": "Courseware Learning Progress",
+    "description": "2.0 course.js"
+  },
+  "newStrategyTips26_in": {
+    "message": "By setting the courseware grading rules, you can assign weights to different grade items. By the grading due date, the system automatically calculates the courseware final grade for each student.",
+    "description": "2.0 course.js"
+  },
+  "canUseTip_in": {
+    "message": "Available after being published",
+    "description": "2.0 course.js"
+  },
+  "courseTextbooksSupportTips_in": {
+    "message": "This courseware supports the statistical analysis of the courseware learning and courseware learning time only, but not the course learning progress.",
+    "description": "2.0 course.js"
+  },
+  "noSupportSaveActiveTips_in": {
+    "message": "If the courseware does not support the statistical data of courseware learning progress, remove either the courseware learning progress from the grading or the courseware from the course.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse_in": {
+    "message": "The resources and data of this courseware is provided by iCourse.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse1_in": {
+    "message": "This courseware is offered by iCourse.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse2_in": {
+    "message": "The courseware resources and data are provided by iCourse. The data for the day can be found after 12 pm the next day.",
+    "description": "2.0 course.js"
+  },
+  "provideByICourse3_in": {
+    "message": "The courseware resources and data are provided by iCourse. The data for the day can be found after 12 pm the next day.",
+    "description": "2.0 course.js"
+  },
+  "coursewarePreview_in": {
+    "message": "Preview Courseware",
+    "description": "2.0 course.js"
+  },
+  "iCourseAssessmentTips_in": {
+    "message": "The courseware is provided by iCourse. It does not support the courseware learning as a grading item.",
+    "description": "2.0 course.js"
+  },
+  "coursewareStat_in": {
+    "message": "Courseware Statistics",
+    "description": "2.0 course.js"
+  },
+  "activateMismatch_in": {
+    "message": "The activation code does not match the eLearning course (courseware)!",
+    "description": "2.0 course.js"
+  },
+  "textbookNullTips_in": {
+    "message": "No courseware",
+    "description": "2.0 course.js"
+  },
+  "iCourseTip_in": {
+    "message": "Note: iCourse courseware does not support the learning plan function. You can view the learning progress data at the courseware level, but not at the module/topic level. The courseware's learning score won't be counted toward the course's final grade.",
+    "description": "2.0 course.js"
+  },
+  "textbookName2_in": {
+    "message": "Courseware Name",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint1_in": {
+    "message": "1. Only video contains screen sharing, multimedia, and camera footage. Videos and courseware include whiteboards, courseware, documents, screen sharing, multimedia, and camera footage.",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint2_in": {
+    "message": "2. The video and courseware may fail to be generated due to the live broadcast weak network and incomplete data, if the regeneration still fails, it cannot be generated, it is recommended to use video download only.",
+    "description": "2.0 course.js"
+  },
+  "dowLiveHint3_in": {
+    "message": "3. The video and courseware generation time is approximately equal to the live broadcast duration, and the live broadcast time is longer than 6 hours.",
+    "description": "2.0 course.js"
+  },
+  "liveCoursewareState_in": {
+    "message": "Video courseware status",
+    "description": "2.0 course.js"
+  },
+  "liveCourseware_in": {
+    "message": "Video & Courseware",
+    "description": "2.0 course.js"
+  },
+  "unitCourseware_in": {
+    "message": "Import Modules from Courseware",
+    "description": "2.0 course.js"
+  },
+  "unitImportCourseware_in": {
+    "message": "Import Courseware",
+    "description": "2.0 course.js"
+  },
+  "obeRulesTips_in": {
+    "message": "After setting the course objectives, you can set objectives of all activities here. ",
+    "description": "2.0 course.js"
+  },
+  "obeTextbookTips1_in": {
+    "message": "Courseware should be set by the course administrator.",
+    "description": "2.0 course.js"
+  },
+  "importTextbookTips_in": {
+    "message": "Only coursewares published using the Ulearning authoring tool can be imported.",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips2_in": {
+    "message": "The courseware/textbook has expired. You can continue learning only after it is reactivated.",
+    "description": "2.0 course.js"
+  },
+  "textbookStudyTips3_in": {
+    "message": "This courseware comes from the paid textbook/course \"{name}\" and can only be learned after activation.",
+    "description": "2.0 course.js"
+  },
+  "subjectBank_in": {
+    "message": "Courseware library resources",
+    "description": "2.0 course.js"
+  },
+  "knowledgeGraphTips1_in": {
+    "message": "The current courseware has been released with a knowledge graph.",
+    "description": "2.0 course.js"
+  },
+  "insertHadCourse_in": {
+    "message": "Insert existing courseware",
+    "description": "2.0 course.js"
+  },
+  "insertNewCourse_in": {
+    "message": "Create Courseware",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourseOfAppended_in": {
+    "message": "Please select the courseware to which you want to add chapters",
+    "description": "2.0 course.js"
+  },
+  "pleaseSelectCourse_in": {
+    "message": "Select Courseware",
+    "description": "2.0 course.js"
+  },
+  "degreeMasteryDesc_in": {
+    "message": "Mastery​ is comprehensively evaluated based on quiz results on knowledge points, as well as scores from related courseware exercises, assignments, and exams.",
+    "description": "2.0 course.js"
+  },
+  "createdTextbookNum_in": {
+    "message": "Number of Created Courseware",
+    "description": "2.0 course.js"
+  },
+  "textbookStudy_in": {
+    "message": "Courseware Learning",
+    "description": "2.0 course.js"
+  },
+  "studyTextbookNumber_in": {
+    "message": "Number of Studied Courseware",
+    "description": "2.0 course.js"
   }
 }
