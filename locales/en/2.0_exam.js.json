@@ -4183,12 +4183,36 @@
     "message": "1. Please use ULearning APP to scan the code to sign in. {br}2. After signing in, you can only use the same equipment to enter the exam.",
     "description": "2.0 exam.js"
   },
+  "attachmentHelpDescNew1": {
+    "message": "1.Upload attachments. Supported file formats include images, documents, videos, audio, and other common types. A maximum of 10 attachments are allowed per question. The maximum file size for a single file is 500MB on a computer and 200MB on a mobile device. {br}{link}{br1}2.On mobile devices, you can separately choose whether to allow file uploads from the device/local album. If not allowed, mobile devices only support uploading images by taking photos. If allowed, there is a risk that students may cheat by accessing files stored on their device. Please enable this option with discretion. {br2}3.When answering on a computer, you can select files from local storage or use a mobile device to scan a QR code for uploading.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew2": {
+    "message": "1.Upload attachments. Supported file formats include images, documents, videos, audio, and other common types. A maximum of 10 attachments are allowed per question. The maximum file size for a single upload is 500MB on a computer. {br}{link}{br1}2.When answering on a computer, you can either select a file from your local storage or use a mobile device to scan a QR code for uploading.",
+    "description": "2.0 exam.js"
+  },
   "electronicSignature": {
     "message": "Electronic Signature",
     "description": "2.0 exam.js"
   },
+  "scanCodeSignature": {
+    "message": "Scan QR code to sign",
+    "description": "2.0 exam.js"
+  },
+  "allowUploadFromMobile": {
+    "message": "Allow file upload from device/album on mobile",
+    "description": "2.0 exam.js"
+  },
+  "importExamRoomInfo": {
+    "message": "Import Exam Arrangement Information",
+    "description": "2.0 exam.js"
+  },
   "downloadTemplate": {
     "message": "Download Template",
+    "description": "2.0 exam.js"
+  },
+  "downloadTip": {
+    "message": "Download the Excel template and fill in student exam venue information according to the template requirements.",
     "description": "2.0 exam.js"
   },
   "uploadExamRoomInfoExcel": {
@@ -4203,6 +4227,14 @@
     "message": "Proctor",
     "description": "2.0 exam.js"
   },
+  "seatNumber1": {
+    "message": "Seat Number",
+    "description": "2.0 exam.js"
+  },
+  "seatNumberN": {
+    "message": "Seat Number: {n}",
+    "description": "2.0 exam.js"
+  },
   "downloadFail": {
     "message": "Failed to download!",
     "description": "2.0 exam.js"
@@ -4211,12 +4243,48 @@
     "message": "Imported successfully!",
     "description": "2.0 exam.js"
   },
+  "importError": {
+    "message": "Import Error",
+    "description": "2.0 exam.js"
+  },
+  "importErrorTip1": {
+    "message": "Some exam arrangement information in the file is not formatted correctly. Please check, revise, and upload again.",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom1": {
+    "message": "Exam Venue: {n}",
+    "description": "2.0 exam.js"
+  },
+  "examRoomImportTip": {
+    "message": "Importing, please wait...",
+    "description": "2.0 exam.js"
+  },
+  "canUseCalculator": {
+    "message": "Calculator Allowed",
+    "description": "2.0 exam.js"
+  },
+  "useCalculatorTip": {
+    "message": "When enabled, candidates can use a calculator during the exam to assist with basic calculations, including addition, subtraction, multiplication, division, square, ln , square root, and other fundamental functions.",
+    "description": "2.0 exam.js"
+  },
+  "aiBatchScore": {
+    "message": "AI Scoring​",
+    "description": "2.0 exam.js"
+  },
   "question": {
     "message": "Question",
     "description": "2.0 exam.js"
   },
+  "noReAiScore": {
+    "message": "This question is currently being scored by AI. Please do not score it again.",
+    "description": "2.0 exam.js"
+  },
   "hasEvaluation": {
     "message": " Evaluated ",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip1": {
+    "message": "Scoring in progress, please wait patiently...",
     "description": "2.0 exam.js"
   },
   "tempAnswer": {
@@ -4231,12 +4299,28 @@
     "message": " Scoring rule ",
     "description": "2.0 exam.js"
   },
+  "scoreRuleTip": {
+    "message": "The system automatically parses scoring points based on the reference answer. Clearly listing key points in the answer, with each point separated by a number, period, or semicolon, can improve the accuracy of scoring point recognition.{br}Example: 1. Uphold socialism with Chinese characteristics. 2. Uphold the leadership of the Communist Party of China. OR Uphold socialism with Chinese characteristics; uphold the leadership of the Communist Party of China.",
+    "description": "2.0 exam.js"
+  },
+  "scorePoint": {
+    "message": "Scoring Points",
+    "description": "2.0 exam.js"
+  },
   "scoreNum": {
     "message": "Points",
     "description": "2.0 exam.js"
   },
+  "addScorePoint": {
+    "message": "Add Scoring Point",
+    "description": "2.0 exam.js"
+  },
   "scoreMeasure": {
     "message": "Measure",
+    "description": "2.0 exam.js"
+  },
+  "scoreMeasureTip": {
+    "message": "Select different scoring scales to represent varying levels of strictness in AI Intelligent Scoring.{br}Strict:​ Full points are awarded only if the student's answer is completely correct regarding the scoring point; no points are given for partially correct answers.{br1}Moderate:​ Points are awarded appropriately based on how well the student's response addresses the scoring point.{br2}Lenient:​ Points are awarded if the student's answer mentions the scoring point.",
     "description": "2.0 exam.js"
   },
   "strict": {
@@ -4255,8 +4339,44 @@
     "message": "Student Response",
     "description": "2.0 exam.js"
   },
+  "changeStu": {
+    "message": "Change Student",
+    "description": "2.0 exam.js"
+  },
   "aiScore": {
     "message": "AI Score",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip2": {
+    "message": "The results of the scoring test will not be saved. You can click [Start Scoring]​ once you confirm the scoring outcome meets your expectations.",
+    "description": "2.0 exam.js"
+  },
+  "scoreInfo": {
+    "message": "Scoring Status",
+    "description": "2.0 exam.js"
+  },
+  "noScoreTip": {
+    "message": "AI Scoring is suitable for semi-open-ended subjective questions that have reference answers. After setting up the reference answers and scoring rules on the left, click [Test Scoring]​ to randomly select a student's answer and preview the scoring effect.",
+    "description": "2.0 exam.js"
+  },
+  "testScore": {
+    "message": "Test Scoring",
+    "description": "2.0 exam.js"
+  },
+  "aiScore1": {
+    "message": "AI Scoring",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreContent": {
+    "message": "When \"AI Scoring\" is selected, the system will automatically grade students' answers for this question in the current exam based on the preset scoring rules. (AI scoring will not affect or modify scores that have already been graded by the teacher.)",
+    "description": "2.0 exam.js"
+  },
+  "confirmScore": {
+    "message": "Confirm to Start Scoring?",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswerTip": {
+    "message": "No student answer is available for this question. Please enter a sample answer to begin the test.",
     "description": "2.0 exam.js"
   },
   "stuAnswerTip1": {
@@ -4267,12 +4387,68 @@
     "message": "Click to enter the reference answer",
     "description": "2.0 exam.js"
   },
+  "rulePointTip": {
+    "message": "The sum of all scoring points must equal the full score of the question.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip1": {
+    "message": "Please fill in the scoring point description.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip2": {
+    "message": "The full score can have at most 1 decimal place.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip3": {
+    "message": "Please enter the score.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip4": {
+    "message": "No scoring point detected.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip1": {
+    "message": "The full score must be between 1 and 100.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip2": {
+    "message": "The full score can have at most 1 decimal place.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip": {
+    "message": "Please enter the question's full score.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip3": {
+    "message": "Please verify the full score value.",
+    "description": "2.0 exam.js"
+  },
   "generating": {
     "message": "Generating...",
     "description": "2.0 exam.js"
   },
+  "remarking": {
+    "message": "Re‑scoring in progress...",
+    "description": "2.0 exam.js"
+  },
+  "marking": {
+    "message": "Scoring in progress",
+    "description": "2.0 exam.js"
+  },
   "plsEnter": {
     "message": "Please enter content",
+    "description": "2.0 exam.js"
+  },
+  "aiGenerateTip": {
+    "message": "Generation failed. Please enter the content manually.",
+    "description": "2.0 exam.js"
+  },
+  "errTip": {
+    "message": "An error occurred. Please contact the administrator.",
+    "description": "2.0 exam.js"
+  },
+  "intelligentReview": {
+    "message": "Intelligent Review",
     "description": "2.0 exam.js"
   },
   "encouragement": {
@@ -4329,6 +4505,22 @@
   },
   "pushExamLiucheng": {
     "message": "Publish exam process",
+    "description": "2.0 exam.js"
+  },
+  "mobileH5": {
+    "message": "H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips1": {
+    "message": "ULearning APP/H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips2": {
+    "message": "ULearning Lockdown Browser/H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips3": {
+    "message": "ULearning APP/ULearning Lockdown Browser/H5",
     "description": "2.0 exam.js"
   }
 }
