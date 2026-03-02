@@ -731,6 +731,10 @@
     "message": "Share Course",
     "description": "ulearning_refactor"
   },
+  "textbook.shareTip": {
+    "message": "Scan QR Code or Copy Link to Share",
+    "description": "ulearning_refactor"
+  },
   "textbook.copySuccess": {
     "message": "Duplicated successfully!",
     "description": "ulearning_refactor"
@@ -739,12 +743,56 @@
     "message": "Copy",
     "description": "ulearning_refactor"
   },
+  "textbook.schoolLabel": {
+    "message": "Offering Institution:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.majorLabel": {
+    "message": "Intended Majors:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.studyHoursLabel": {
+    "message": "Suggested Study Hours:",
+    "description": "ulearning_refactor"
+  },
   "textbook.hoursUnit": {
     "message": "Learning hours",
     "description": "ulearning_refactor"
   },
+  "textbook.totalLearnerCount": {
+    "message": "Total Course Enrollments",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalLearnerCountTip": {
+    "message": "This figure includes students from all SPOC sessions (both internal and external to the school) and self-enrolled students. Data is updated daily.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalSchoolCount": {
+    "message": "Total Participating Schools",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalSchoolCountTip": {
+    "message": "The total number of schools that have adopted this course. Data is updated daily.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseViewCount": {
+    "message": "Total Course Learning Engagements​",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseViewCountTip": {
+    "message": "Sum of course homepage views and total course study sessions. Data is updated daily.",
+    "description": "ulearning_refactor"
+  },
   "textbook.pleaseSelect": {
     "message": "Please select",
+    "description": "ulearning_refactor"
+  },
+  "textbook.noTermTip": {
+    "message": "This course is not bound to a specific semester. You may join and study independently.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.noSelfJoinTip": {
+    "message": "Self-enrollment is not available for this course.",
     "description": "ulearning_refactor"
   },
   "textbook.enterCourse": {
@@ -757,6 +805,14 @@
   },
   "textbook.joinCourse": {
     "message": "Join course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termNotStart": {
+    "message": "This session has not started.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termEnded": {
+    "message": "This session has ended.",
     "description": "ulearning_refactor"
   },
   "textbook.courseDetail": {
@@ -791,12 +847,24 @@
     "message": "Author: ",
     "description": "ulearning_refactor"
   },
+  "textbook.publisherLabel": {
+    "message": "Publisher:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.isbnLabel": {
+    "message": "ISBN:",
+    "description": "ulearning_refactor"
+  },
   "textbook.goExperience": {
     "message": "go experience",
     "description": "ulearning_refactor"
   },
   "textbook.selectClass": {
     "message": "Select Class",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectClassTip": {
+    "message": "Please select the class you wish to join.",
     "description": "ulearning_refactor"
   },
   "textbook.teacherLabel": {
@@ -815,24 +883,76 @@
     "message": "Cancel",
     "description": "ulearning_refactor"
   },
+  "textbook.termIndex": {
+    "message": "Course Session {index}",
+    "description": "ulearning_refactor"
+  },
+  "textbook.daysToGo": {
+    "message": "Course starts in {days} day(s).",
+    "description": "ulearning_refactor"
+  },
+  "textbook.termInProcess": {
+    "message": "In Progress",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherRoleJoinTip": {
+    "message": "You are currently logged in with a teacher account. Please switch to student mode to join the course.",
+    "description": "ulearning_refactor"
+  },
   "textbook.switchToStudentMode": {
     "message": "Switch to Student View",
+    "description": "ulearning_refactor"
+  },
+  "textbook.sameSchoolJoinTip": {
+    "message": "This course is offered by a teacher at your institution. To avoid issues with grade recording, please join using the class code or QR code provided by your teacher.",
     "description": "ulearning_refactor"
   },
   "textbook.iKnow": {
     "message": "Got It!",
     "description": "ulearning_refactor"
   },
+  "textbook.notStudentRoleJoinTip": {
+    "message": "You are not currently logged in with a student account. Please log out and log in with a student account to join the course.",
+    "description": "ulearning_refactor"
+  },
   "textbook.logout": {
     "message": "Log Out",
+    "description": "ulearning_refactor"
+  },
+  "textbook.teacherRoleBuyTip": {
+    "message": "You are currently logged in with a teacher account. Please switch to student mode to make a purchase.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.notStudentRoleBuyTip": {
+    "message": "You are not currently logged in with a student account. Please log out and log in with a student account to make a purchase.",
     "description": "ulearning_refactor"
   },
   "textbook.declarationManage": {
     "message": "Management of Course Declaration Information ",
     "description": "ulearning_refactor"
   },
+  "textbook.declarationTips": {
+    "message": "For courses hosted on the U-Campus platform, if you intend to apply for projects such as First-Class Undergraduate Courses​ or Vocational Education Online Quality Courses, the course instructor can manage application details, semesters, and view operational data here.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.myDeclaredCourses": {
+    "message": "My Course",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseRunSuggestion": {
+    "message": "Course Operation Suggestions",
+    "description": "ulearning_refactor"
+  },
+  "textbook.addDeclaredCourse": {
+    "message": "Add Course",
+    "description": "ulearning_refactor"
+  },
   "textbook.courseName": {
     "message": "Course Name",
+    "description": "ulearning_refactor"
+  },
+  "textbook.declareType": {
+    "message": "Application Category",
     "description": "ulearning_refactor"
   },
   "textbook.termCount": {
@@ -841,6 +961,10 @@
   },
   "textbook.operation": {
     "message": "Action",
+    "description": "ulearning_refactor"
+  },
+  "textbook.versionTermManage": {
+    "message": "Version & Semester Management",
     "description": "ulearning_refactor"
   },
   "textbook.modify": {
@@ -859,8 +983,32 @@
     "message": "Next",
     "description": "ulearning_refactor"
   },
+  "textbook.modifyDeclaredCourse": {
+    "message": "Edit Application Course",
+    "description": "ulearning_refactor"
+  },
   "textbook.enterCourseName": {
     "message": "Click to enter the courseware name",
+    "description": "ulearning_refactor"
+  },
+  "textbook.firstClassCourse": {
+    "message": "First-Class Undergraduate Courses",
+    "description": "ulearning_refactor"
+  },
+  "textbook.vocationalCourse": {
+    "message": "Vocational Education Online Quality Courses",
+    "description": "ulearning_refactor"
+  },
+  "textbook.other": {
+    "message": "Other",
+    "description": "ulearning_refactor"
+  },
+  "textbook.originCourse": {
+    "message": "Source Courseware",
+    "description": "ulearning_refactor"
+  },
+  "textbook.originCourseTip": {
+    "message": "The selected courseware portal will serve as the course evaluation portal.",
     "description": "ulearning_refactor"
   },
   "textbook.searchPlaceholder": {
@@ -871,24 +1019,88 @@
     "message": "Unpublished",
     "description": "ulearning_refactor"
   },
+  "textbook.fillCourseName": {
+    "message": "Please enter the course name.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseNameLimit": {
+    "message": "Course name must not exceed 200 characters.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectDeclareType": {
+    "message": "Please select an application category.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectOriginCourse": {
+    "message": "Please select source courseware.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteDeclaredCourseConfirm": {
+    "message": "Deleting the application course will not​ delete the associated source courseware or classes, but it will​ delete all configured semester information. Are you sure you want to delete?",
+    "description": "ulearning_refactor"
+  },
+  "textbook.deleteDeclaredCourseTitle": {
+    "message": "Delete Application Course",
+    "description": "ulearning_refactor"
+  },
   "textbook.back": {
     "message": "Back",
+    "description": "ulearning_refactor"
+  },
+  "textbook.coursePortalLabel": {
+    "message": "Course Portal:",
     "description": "ulearning_refactor"
   },
   "textbook.totalLabel": {
     "message": "Total:",
     "description": "ulearning_refactor"
   },
+  "textbook.insideSchoolLabel": {
+    "message": "For This Institution:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideSchoolLabel": {
+    "message": "For Other Institutions:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.socialLearnerLabel": {
+    "message": "For Public Learners:",
+    "description": "ulearning_refactor"
+  },
   "textbook.viewDetail": {
     "message": "View Details",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideSpocCount": {
+    "message": "Total External SPOCs",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataUpdateTip": {
+    "message": "*Data is updated daily.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.courseVersion": {
+    "message": "Courseware Version",
     "description": "ulearning_refactor"
   },
   "textbook.courseLib": {
     "message": "Coursewares",
     "description": "ulearning_refactor"
   },
+  "textbook.associateNewVersion": {
+    "message": "Associate New Version",
+    "description": "ulearning_refactor"
+  },
+  "textbook.versionTip": {
+    "message": "If a major update is required for the courseware, please duplicate it as a new version in the Courseware Library first. After creating the new version, you must manually associate it with this course. Only then will enrollment data from the new version be counted toward this course.",
+    "description": "ulearning_refactor"
+  },
   "textbook.version": {
     "message": "Version",
+    "description": "ulearning_refactor"
+  },
+  "textbook.id": {
+    "message": "ID",
     "description": "ulearning_refactor"
   },
   "textbook.name": {
@@ -915,6 +1127,10 @@
     "message": "Add Offering",
     "description": "ulearning_refactor"
   },
+  "textbook.termTip": {
+    "message": "If the course is offered across multiple semesters, please create a new class section for each semester. Then, add the semester here and link the corresponding class section. Once configured, you can view the operational data for each session here.",
+    "description": "ulearning_refactor"
+  },
   "textbook.termNum": {
     "message": "Offerings",
     "description": "ulearning_refactor"
@@ -935,6 +1151,34 @@
     "message": "Statistics",
     "description": "ulearning_refactor"
   },
+  "textbook.enterClass": {
+    "message": "Enter Class Section",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selfLearnerCountLabel": {
+    "message": "Self-Directed Learners Count (Students who self-enrolled but are not assigned to any semester):",
+    "description": "ulearning_refactor"
+  },
+  "textbook.associateClass": {
+    "message": "Associate Class Section",
+    "description": "ulearning_refactor"
+  },
+  "textbook.associateClassTip": {
+    "message": "Please select the corresponding in-class section to associate. Each section can only be linked to one semester.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.insideClass": {
+    "message": "Institutional Class Sections",
+    "description": "ulearning_refactor"
+  },
+  "textbook.outsideClass": {
+    "message": "External Class Sections",
+    "description": "ulearning_refactor"
+  },
+  "textbook.schoolName": {
+    "message": "Offering Institutions",
+    "description": "ulearning_refactor"
+  },
   "textbook.creator": {
     "message": "Creator",
     "description": "ulearning_refactor"
@@ -943,8 +1187,20 @@
     "message": "Students",
     "description": "ulearning_refactor"
   },
+  "textbook.termNumTitle": {
+    "message": "Session {num}",
+    "description": "ulearning_refactor"
+  },
   "textbook.courseVideo": {
     "message": "Courseware Videos",
+    "description": "ulearning_refactor"
+  },
+  "textbook.totalCount": {
+    "message": "Total Quantity:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.countUnit": {
+    "message": ".",
     "description": "ulearning_refactor"
   },
   "textbook.totalDuration": {
@@ -959,6 +1215,18 @@
     "message": "Non-Video Content",
     "description": "ulearning_refactor"
   },
+  "textbook.graphicPageCount": {
+    "message": "Image/Text Pages in Courseware:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.nonVideoResourceCount": {
+    "message": "Non-Video Resources in Courseware:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.ocContentCount": {
+    "message": "Extended Resources in Class Sections:",
+    "description": "ulearning_refactor"
+  },
   "textbook.courseNotice": {
     "message": "Course Announcements",
     "description": "ulearning_refactor"
@@ -967,12 +1235,32 @@
     "message": "Quantity: ",
     "description": "ulearning_refactor"
   },
+  "textbook.timesUnit": {
+    "message": "time(s)",
+    "description": "ulearning_refactor"
+  },
   "textbook.homeworkQuiz": {
     "message": "Assignments/Quizzes",
     "description": "ulearning_refactor"
   },
+  "textbook.totalTimes": {
+    "message": "Total Sessions:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionCount": {
+    "message": "Question Bank Size:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionUnitTip": {
+    "message": "(Only assignments of the \"Quiz\"​ type contain questions)",
+    "description": "ulearning_refactor"
+  },
   "textbook.joinerCount": {
     "message": "No. of Participants:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.personUnit": {
+    "message": "Users",
     "description": "ulearning_refactor"
   },
   "textbook.discussion": {
@@ -991,12 +1279,40 @@
     "message": "Active Participants: ",
     "description": "ulearning_refactor"
   },
+  "textbook.totalPostCount": {
+    "message": "Total Posts & Replies:",
+    "description": "ulearning_refactor"
+  },
   "textbook.exam": {
     "message": "Exams",
     "description": "ulearning_refactor"
   },
+  "textbook.examCount": {
+    "message": "Exams Taken:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.examQuestionCount": {
+    "message": "Exam Questions:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.passCount": {
+    "message": "Users Who Passed:",
+    "description": "ulearning_refactor"
+  },
+  "textbook.dataUpdateDailyTip": {
+    "message": "* Data is updated daily in the early morning.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.schoolList": {
+    "message": "Enrolling School(s)",
+    "description": "ulearning_refactor"
+  },
   "textbook.school": {
     "message": "School",
+    "description": "ulearning_refactor"
+  },
+  "textbook.spocCount": {
+    "message": "Number of SPOCs Created",
     "description": "ulearning_refactor"
   },
   "textbook.selectStartTime": {
@@ -1011,6 +1327,14 @@
     "message": "The end time cannot be earlier than the start time",
     "description": "ulearning_refactor"
   },
+  "textbook.selectCourseVersion": {
+    "message": "Please Select Courseware Version",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectAssociateClass": {
+    "message": "Please Select Associated Class Section",
+    "description": "ulearning_refactor"
+  },
   "textbook.notStarted": {
     "message": "Not started",
     "description": "ulearning_refactor"
@@ -1023,12 +1347,32 @@
     "message": "Ended",
     "description": "ulearning_refactor"
   },
+  "textbook.to": {
+    "message": "To",
+    "description": "ulearning_refactor"
+  },
   "textbook.endTime": {
     "message": "End Time",
     "description": "ulearning_refactor"
   },
+  "textbook.joinSuccessTip": {
+    "message": "Successfully enrolled! Would you like to enter the course and start learning now?",
+    "description": "ulearning_refactor"
+  },
   "textbook.startTimePlaceholder": {
     "message": "Start Time",
+    "description": "ulearning_refactor"
+  },
+  "textbook.questionUnit": {
+    "message": "Questions",
+    "description": "ulearning_refactor"
+  },
+  "textbook.selectAtLeastOneVersion": {
+    "message": "Please select at least one version.",
+    "description": "ulearning_refactor"
+  },
+  "textbook.cancelAssociateConfirm": {
+    "message": "Are you sure you want to unlink?",
     "description": "ulearning_refactor"
   },
   "textbook.cancelSuccess": {
@@ -1055,6 +1399,10 @@
     "message": "Close",
     "description": "ulearning_refactor"
   },
+  "course.courseArchive": {
+    "message": "‘s Course Profile",
+    "description": "ulearning_refactor"
+  },
   "course.studentId": {
     "message": "Student ID:",
     "description": "ulearning_refactor"
@@ -1063,12 +1411,24 @@
     "message": "Gender:",
     "description": "ulearning_refactor"
   },
+  "course.male": {
+    "message": "Male",
+    "description": "ulearning_refactor"
+  },
+  "course.female": {
+    "message": "Female",
+    "description": "ulearning_refactor"
+  },
   "course.registerTime": {
     "message": "Enrolled:",
     "description": "ulearning_refactor"
   },
   "course.email": {
     "message": "Email:",
+    "description": "ulearning_refactor"
+  },
+  "course.phone": {
+    "message": "Mobile Number:",
     "description": "ulearning_refactor"
   },
   "course.learning": {
@@ -1087,8 +1447,24 @@
     "message": "assignment",
     "description": "ulearning_refactor"
   },
+  "course.attended": {
+    "message": "has participated in",
+    "description": "ulearning_refactor"
+  },
   "course.exams": {
     "message": "Exams",
+    "description": "ulearning_refactor"
+  },
+  "course.published": {
+    "message": "has published",
+    "description": "ulearning_refactor"
+  },
+  "course.topics": {
+    "message": "topic(s),",
+    "description": "ulearning_refactor"
+  },
+  "course.replies": {
+    "message": "replies",
     "description": "ulearning_refactor"
   },
   "course.courseLearningRecord": {
@@ -1117,6 +1493,10 @@
   },
   "course.homeworkRecord": {
     "message": "Assignment Records",
+    "description": "ulearning_refactor"
+  },
+  "course.homeworkParticipation": {
+    "message": "Assignments Completed/Total: {count}/{total}",
     "description": "ulearning_refactor"
   },
   "course.homeworkName": {
@@ -1151,16 +1531,40 @@
     "message": "Exam Records",
     "description": "ulearning_refactor"
   },
+  "course.examParticipation": {
+    "message": "Exams Taken/Total: {count}/{total}",
+    "description": "ulearning_refactor"
+  },
   "course.examName": {
     "message": "Exam Name",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomRecord": {
+    "message": "Class Record",
+    "description": "ulearning_refactor"
+  },
+  "course.classroomParticipation": {
+    "message": "Class Activities Attended/Total: {count}/{total}",
+    "description": "ulearning_refactor"
+  },
+  "course.viewActivityDetail": {
+    "message": "View Activity Details >",
     "description": "ulearning_refactor"
   },
   "course.classroomName": {
     "message": "Session Name",
     "description": "ulearning_refactor"
   },
+  "course.activityParticipationTimes": {
+    "message": "Activity Participations",
+    "description": "ulearning_refactor"
+  },
   "course.signedIn": {
     "message": "Signed in",
+    "description": "ulearning_refactor"
+  },
+  "course.pointsEarned": {
+    "message": "Points Earned",
     "description": "ulearning_refactor"
   },
   "course.pointsLabel": {
@@ -1177,6 +1581,10 @@
   },
   "course.totalActivities": {
     "message": "Total activities",
+    "description": "ulearning_refactor"
+  },
+  "course.participationTimes": {
+    "message": "Total Participations",
     "description": "ulearning_refactor"
   },
   "course.exportData": {
@@ -1213,6 +1621,10 @@
   },
   "course.quiz": {
     "message": "Answer",
+    "description": "ulearning_refactor"
+  },
+  "course.peerReviewNotStarted": {
+    "message": "Peer Review Not Started",
     "description": "ulearning_refactor"
   },
   "course.peerReviewing": {
@@ -1253,6 +1665,10 @@
   },
   "course.coursewareLabel": {
     "message": "Courseware:",
+    "description": "ulearning_refactor"
+  },
+  "course.resourceTypeLabel": {
+    "message": "Resource Type:",
     "description": "ulearning_refactor"
   },
   "course.all": {
@@ -1323,6 +1739,10 @@
     "message": "Check all",
     "description": "ulearning_refactor"
   },
+  "course.classroomActivityDetailSuffix": {
+    "message": "Class Activity Details",
+    "description": "ulearning_refactor"
+  },
   "login.contactCustomerService": {
     "message": "Contact customer service personnel",
     "description": "ulearning_refactor"
@@ -1359,6 +1779,10 @@
     "message": "WeChat Login",
     "description": "ulearning_refactor"
   },
+  "login.welinkLogin": {
+    "message": "Welink Login",
+    "description": "ulearning_refactor"
+  },
   "login.back": {
     "message": "Back",
     "description": "ulearning_refactor"
@@ -1371,8 +1795,16 @@
     "message": "Please enter the verification code",
     "description": "ulearning_refactor"
   },
+  "login.retrieveAgain": {
+    "message": "Get Code Again ({remaining})",
+    "description": "ulearning_refactor"
+  },
   "login.getVerificationCode": {
     "message": "Get verification code",
+    "description": "ulearning_refactor"
+  },
+  "login.smsLoginOnlySupportsMainlandChina": {
+    "message": "*SMS login is only supported for mobile numbers from Mainland China.",
     "description": "ulearning_refactor"
   },
   "login.identityVerification": {
@@ -1381,6 +1813,10 @@
   },
   "login.confirm": {
     "message": "Confirm",
+    "description": "ulearning_refactor"
+  },
+  "login.organizationLoginTip": {
+    "message": "Accounts that are registered and bound with a Student/Staff ID can log in to U-Campus using the Institution Name, Student/Staff ID, and password.",
     "description": "ulearning_refactor"
   },
   "login.organizationName": {
@@ -1393,6 +1829,10 @@
   },
   "login.password": {
     "message": "Password",
+    "description": "ulearning_refactor"
+  },
+  "login.loginAgreementPrefix": {
+    "message": "By logging in, you agree to the Ulearning",
     "description": "ulearning_refactor"
   },
   "login.userAgreement": {
@@ -1427,6 +1867,10 @@
     "message": "Please enter the verification code",
     "description": "ulearning_refactor"
   },
+  "login.phoneFormatError": {
+    "message": "Invalid mobile number format.",
+    "description": "ulearning_refactor"
+  },
   "login.selectOrganization": {
     "message": "Please select institution",
     "description": "ulearning_refactor"
@@ -1435,12 +1879,32 @@
     "message": "Please enter student ID/ work ID",
     "description": "ulearning_refactor"
   },
+  "login.cheatDetectedTip": {
+    "message": "The system has detected misconduct, such as cheating, in the {courses} course(s) associated with this account. The account has been automatically frozen. Please contact your instructor or the platform administrator for assistance.",
+    "description": "ulearning_refactor"
+  },
   "login.loginFailedTooManyTimes": {
     "message": "You have tried 5 times and the account is locked. Please retry after 3 minutes.",
     "description": "ulearning_refactor"
   },
+  "login.loginForbidden": {
+    "message": "Login Prohibited",
+    "description": "ulearning_refactor"
+  },
+  "login.loginError": {
+    "message": "Incorrect Student/Staff ID or password.",
+    "description": "ulearning_refactor"
+  },
+  "login.bindWelinkAccount": {
+    "message": "Bind Welink Account",
+    "description": "ulearning_refactor"
+  },
   "login.bind": {
     "message": "Bind",
+    "description": "ulearning_refactor"
+  },
+  "login.and": {
+    "message": "and",
     "description": "ulearning_refactor"
   },
   "login.dynamicCodeExpired": {
@@ -1457,6 +1921,22 @@
   },
   "scanSignature.pleaseCompleteWithin": {
     "message": "Finish reading the content",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.signatureTimeoutSuffix": {
+    "message": "Complete the signature within the time limit. The signature window will close automatically if not completed on time.",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.scanQrCodeTip": {
+    "message": "Please scan the QR code to sign.\n(Scanning again will overwrite the previous signature.)",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.noSignature": {
+    "message": "No Signature Yet",
+    "description": "ulearning_refactor"
+  },
+  "scanSignature.displayArea": {
+    "message": "E-Signature Display Area",
     "description": "ulearning_refactor"
   }
 }

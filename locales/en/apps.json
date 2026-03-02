@@ -5019,6 +5019,14 @@
     "message": " {count} words have been written ",
     "description": "小应用"
   },
+  "resource.saveRecordTips1": {
+    "message": "Your learning progress is automatically saved every 2 minutes. Upon completion, please manually save before exiting the page to prevent data loss.",
+    "description": "小应用"
+  },
+  "resource.saveRecordTips2": {
+    "message": "Save Progress",
+    "description": "小应用"
+  },
   "discuss.beginning": {
     "message": "Starting the Discussions...",
     "description": "小应用"
@@ -5099,6 +5107,30 @@
     "message": "Scan to Cast",
     "description": "小应用"
   },
+  "loginCode.msg9": {
+    "message": "Site Mismatch",
+    "description": "小应用"
+  },
+  "loginCode.msg10": {
+    "message": "The current application is on the {appDomain} site, but the large-screen terminal is on the {currentDomain} site. Please adjust the site settings and scan the QR code again to log in.",
+    "description": "小应用"
+  },
+  "loginCode.msg11": {
+    "message": "QR Code Expired",
+    "description": "小应用"
+  },
+  "loginCode.msg12": {
+    "message": "Please scan the QR code again to log in.",
+    "description": "小应用"
+  },
+  "loginCode.msg13": {
+    "message": "Operation Timeout",
+    "description": "小应用"
+  },
+  "loginCode.msg14": {
+    "message": "can successful. Logging in...",
+    "description": "小应用"
+  },
   "loginCode.tip10": {
     "message": "After logging in on the large screen, you can start cross-device teaching.",
     "description": "小应用"
@@ -5133,6 +5165,18 @@
   },
   "stuList.notJoin": {
     "message": "Not Participated",
+    "description": "小应用"
+  },
+  "stuList.msg1": {
+    "message": "Link copied. Please open it in your browser.",
+    "description": "小应用"
+  },
+  "welink.msg1": {
+    "message": "Location-based check-in is not currently supported in the Welink lightweight app. Please use the U-Campus APP to complete the check-in.",
+    "description": "小应用"
+  },
+  "welink.msg2": {
+    "message": "Location-based check-in is not currently supported in mobile browsers. Please use the U-Campus APP to complete the check-in.",
     "description": "小应用"
   }
 }

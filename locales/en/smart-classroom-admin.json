@@ -9607,16 +9607,516 @@
     "message": "Task Status",
     "description": "smart-classroom-admin 项目"
   },
+  "graph.AIGenerateGraph": {
+    "message": "AI-generated map",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.AIGenerateGraphTip": {
+    "message": "Turn on AI to generate atlas. After classroom video is generated, AI automatically generates atlas according to classroom teaching content.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateProcess": {
+    "message": "Generate progress",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generatedClassroom": {
+    "message": "Generative classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.notGeneratedClassroom": {
+    "message": "No classroom generated",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.knowledgeNum": {
+    "message": "The total number of knowledge points",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.selectHandlerType": {
+    "message": "Select processing mode",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.selectHandlerTypeTip": {
+    "message": "The following knowledge points have been detected in the classroom. Please select the processing method for the newly generated knowledge points:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.totalClassroom": {
+    "message": "{num} total classes",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.existKnowledge": {
+    "message": "Existing knowledge points: {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.handlerType": {
+    "message": "Treatment:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.noGenerateKnowledge": {
+    "message": "Do not generate knowledge points",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.replaceKnowledge": {
+    "message": "Completely replace existing knowledge points",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateProcessInfo": {
+    "message": "Generate progress details",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generated": {
+    "message": "Generated:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.notGenerate": {
+    "message": "Not generated:",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateKnowledge": {
+    "message": "Generated Knowledge Points: {num}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.reGenerate": {
+    "message": "Re-Generate",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.batchHandlerType": {
+    "message": "Batch process",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.msg1": {
+    "message": "After closing, the task being generated will be cancelled. Are you sure you want to close it?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.unknownStatus": {
+    "message": "Unknown state",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.hadCancel": {
+    "message": "Canceled",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generating": {
+    "message": "Generating...",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateSuccess": {
+    "message": "Generated successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.generateError": {
+    "message": "Failed to generate",
+    "description": "smart-classroom-admin 项目"
+  },
+  "graph.plsSelectClassroom": {
+    "message": "Please select the class first",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.indexNum": {
+    "message": "No.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.role": {
+    "message": "Role",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectRole": {
+    "message": "Select Role",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.nameOrUser": {
+    "message": "Name or username",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.create": {
+    "message": "Create",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.name": {
+    "message": "Name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.userName": {
+    "message": "Username",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.workNo": {
+    "message": "Employee ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.createTime": {
+    "message": "Created at",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.operate": {
+    "message": "Action",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.add": {
+    "message": "Add",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.modify": {
+    "message": "Edit",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.delete": {
+    "message": "Delete",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.passWord": {
+    "message": "Password",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterUserName": {
+    "message": "Enter your username",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterName": {
+    "message": " Please enter your name. ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterPassword": {
+    "message": "Enter your password",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterWorkNo": {
+    "message": "Please enter your employee ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pwdErr": {
+    "message": "8-16 characters, must contain both letters and digits, letters are case sensitive!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.createAccount": {
+    "message": "Create Account",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.modifyAccount": {
+    "message": "Amend account",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sureDelete": {
+    "message": "Are you sure you want to delete it?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sureModify": {
+    "message": "Confirm modification?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.tip": {
+    "message": "Alert",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.cancel": {
+    "message": "Cancel",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.confirm": {
+    "message": "Confirm",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgNameSearch": {
+    "message": "Institution Name Search",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgId": {
+    "message": "Organization ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.orgName": {
+    "message": "Institute Name",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.classify": {
+    "message": "Classification",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.area": {
+    "message": "Region",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterOrgId": {
+    "message": "Please enter the facility ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterOrgName": {
+    "message": "Please enter the name of your institution",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectClassify": {
+    "message": "Please select the category",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectArea": {
+    "message": "Please select region",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.systemKeyWord": {
+    "message": "System lexicon",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.msg1": {
+    "message": "If you need to create more than one, use Enter to enter one line.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnter": {
+    "message": "Enter ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.noEmpty": {
+    "message": "Cannot be empty",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.school": {
+    "message": "School",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectSchool": {
+    "message": "Please select a school",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.classRoom": {
+    "message": "Classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterClassRoom": {
+    "message": "Enter the classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.date": {
+    "message": "Date",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.startDate": {
+    "message": "Start Date",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.to": {
+    "message": "To",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.endDate": {
+    "message": "End Date",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterCourseOrTeacher": {
+    "message": "Please enter course or teacher",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.reset": {
+    "message": "Reset",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.totalNum": {
+    "message": "Quantity",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.course": {
+    "message": "Course",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseEnterCourseNameOrID": {
+    "message": "Please enter the course name or ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.pleaseSelectWeek": {
+    "message": "Please select week",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.query": {
+    "message": "Search",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.sectionNum": {
+    "message": "Period {n}",
+    "description": "smart-classroom-admin 项目"
+  },
+  "eduBackStage.workSchedule": {
+    "message": "Schedule",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.team": {
+    "message": "Team",
+    "description": "smart-classroom-admin 项目"
+  },
+  "recordedClass.teamDesc": {
+    "message": "The current course may be taught by a teaching team. Please choose the course according to the academic arrangement.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.permissionsTip": {
+    "message": "Control menu opening and closing according to account role",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.startBatches": {
+    "message": "Batch open",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.batchClose": {
+    "message": "Batch close",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.onlineClassPermission": {
+    "message": "Online access",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.roleType": {
+    "message": "Types of role",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.checkPersonTip": {
+    "message": "Please check the list of personnel first",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.enablePermissions": {
+    "message": "Open Permission",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.closePermissions": {
+    "message": "Turn off permissions",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.enableUserPermissions": {
+    "message": "Are you sure you want to enable the permissions of the selected user?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "datacenter.closeUserPermissions": {
+    "message": "Are you sure you want to turn off permissions for the selected user?",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.interview": {
+    "message": "Online interview",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.interviewRecord": {
+    "message": "Interview records",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.applyClass": {
+    "message": "Application",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.adjustSequence": {
+    "message": "Adjustment of section",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.courseList": {
+    "message": "List of courses",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.subjectManage": {
+    "message": "Special column",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.materialsManagement": {
+    "message": "Material management",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.materialsUpload": {
+    "message": "Material upload",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.materialsExamine": {
+    "message": "Material review",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.materialsConsult": {
+    "message": "Access to materials",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.viewMaterials": {
+    "message": "View Materials",
+    "description": "smart-classroom-admin 项目"
+  },
   "route.supervisorySignagePage": {
     "message": "Reviewer Dashboard",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.evaluationResultsAnalysis": {
+    "message": "Evaluation Statistical Analysis",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.classroomQueryBorrowing": {
+    "message": "Classroom Inquiry Borrowing",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.idea": {
+    "message": "Rectification opinions",
     "description": "smart-classroom-admin 项目"
   },
   "route.profession": {
     "message": "Major",
     "description": "smart-classroom-admin 项目"
   },
+  "route.administrativeClass": {
+    "message": "Administrative class",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.intervieweeList": {
+    "message": "List of Interviewees",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.interviewee": {
+    "message": "Person visited",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.intervieweeScheduled": {
+    "message": "Appointment interview",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.semesterYear": {
+    "message": "Semester Year",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.editStatus": {
+    "message": "Operation status",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.expert": {
+    "message": "Specialist",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.expertAccount": {
+    "message": "Expert Account",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.expertName": {
+    "message": "Names of experts",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.expertApply": {
+    "message": "Experts to apply",
+    "description": "smart-classroom-admin 项目"
+  },
   "common.source": {
     "message": "Source",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.cancelAgree": {
+    "message": "Withdraw your consent",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.agreeListen": {
+    "message": "Agree to hear",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.adjustedSection": {
+    "message": "Section adjusted",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.adjustAfterSection": {
+    "message": "Section after adjustment",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.notOperatedSection": {
+    "message": "No operation section",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.agreedSection": {
+    "message": "Agreed Section",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.applicationRecord": {
+    "message": "Application record",
     "description": "smart-classroom-admin 项目"
   },
   "common.applicant": {
@@ -9729,6 +10229,134 @@
   },
   "evaluationAnalysis.addModifyClassroomType": {
     "message": "Add/Edit Classroom Type",
+    "description": "smart-classroom-admin 项目"
+  },
+  "route.faceDatabaseManagement": {
+    "message": "Face library management",
+    "description": "smart-classroom-admin 项目"
+  },
+  "common.weekly": {
+    "message": "Weekly",
+    "description": "smart-classroom-admin 项目"
+  },
+  "courseManage.uploadPhotos": {
+    "message": "Upload",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.notEntered": {
+    "message": "Not recorded",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.batchEntry": {
+    "message": "Batch Create",
+    "description": "smart-classroom-admin 项目"
+  },
+  "equipmentInspection.clear": {
+    "message": "Clear",
+    "description": "smart-classroom-admin 项目"
+  },
+  "supervisionTour.liveBroadcast": {
+    "message": "Underway",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.opened": {
+    "message": "Enabled",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.closed": {
+    "message": "Closed",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.messageContent": {
+    "message": "Message",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.liveBroadcastName": {
+    "message": "Name of Live Class Classroom",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.liveBroadcastDuration": {
+    "message": "Live Session Duration",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.sent": {
+    "message": "Sent!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.viewed": {
+    "message": " Viewed ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "messageManagement.notViewed": {
+    "message": " Not viewed ",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.averageAttendanceRate": {
+    "message": "Average attendance.",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.batchDownload": {
+    "message": "Batch downloads",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.setRulesSuccess": {
+    "message": "Set successfully!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.setRulesFail": {
+    "message": "Failed to set up!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.open": {
+    "message": "Enable",
+    "description": "smart-classroom-admin 项目"
+  },
+  "randomCheck.close": {
+    "message": "Close",
+    "description": "smart-classroom-admin 项目"
+  },
+  "sensitiveWords.generally": {
+    "message": "Average",
+    "description": "smart-classroom-admin 项目"
+  },
+  "sensitiveWords.good": {
+    "message": "Good",
+    "description": "smart-classroom-admin 项目"
+  },
+  "sensitiveWords.numberCourses": {
+    "message": "Number of Courses",
+    "description": "smart-classroom-admin 项目"
+  },
+  "sensitiveWords.batchDelete": {
+    "message": "Delete in bulk",
+    "description": "smart-classroom-admin 项目"
+  },
+  "centralH5.classIsOver": {
+    "message": "End Session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "centralH5.IKnow": {
+    "message": "Got It!",
+    "description": "smart-classroom-admin 项目"
+  },
+  "centralH5.emptyTip": {
+    "message": "No relevant content was found",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.createNewCourse": {
+    "message": "Create Course",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.selectSection": {
+    "message": "Select Session",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.courseID": {
+    "message": "Course ID",
+    "description": "smart-classroom-admin 项目"
+  },
+  "schedule.enterClassName": {
+    "message": "Enter the class name",
     "description": "smart-classroom-admin 项目"
   }
 }

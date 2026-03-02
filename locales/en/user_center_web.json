@@ -1,4 +1,668 @@
 {
+  "navbar.logOut": {
+    "message": "Log Out",
+    "description": "user_center_web.json"
+  },
+  "webManage.webName": {
+    "message": "Site name",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnterWebName": {
+    "message": "Enter site name",
+    "description": "user_center_web.json"
+  },
+  "webManage.domainName": {
+    "message": "Site domain name",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnterWebHost": {
+    "message": "Only numbers, letters and '-' are allowed. '-' cannot be at the start or end",
+    "description": "user_center_web.json"
+  },
+  "webManage.webTabIcon": {
+    "message": "Browser Tab Icon",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseEnter": {
+    "message": "Enter ",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggestWebTabIconUpload": {
+    "message": "Recommended size: 16×16px (PNG with transparent background), file size should not exceed 50kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseUploadLogo": {
+    "message": "Please upload logo",
+    "description": "user_center_web.json"
+  },
+  "webManage.logoExample": {
+    "message": "Example Image",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggesWebLogoUpload": {
+    "message": "Recommended size: minimum height 30px, adaptive width (PNG with transparent background), file size should not exceed 150kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.fileSizeNoMore": {
+    "message": "File size cannot exceed {num}kb",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseUploadImgHeight": {
+    "message": "Please upload a file with height greater than or equal to 30px",
+    "description": "user_center_web.json"
+  },
+  "webManage.loginBgImg": {
+    "message": "Login Page Background",
+    "description": "user_center_web.json"
+  },
+  "webManage.suggestLoginBgImgUpload": {
+    "message": "Recommended size: 16:9 ratio, supports jpg, jpeg, png formats, size should not exceed 6M",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeStyleSet": {
+    "message": "Overall Look and Feel",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeStyleSetTip": {
+    "message": "Modify the style of navigation bar and menu",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeColor": {
+    "message": "Website Theme Color",
+    "description": "user_center_web.json"
+  },
+  "webManage.themeColorTip": {
+    "message": "To ensure the content is clearly visible, please avoid choosing overly light theme colors.",
+    "description": "user_center_web.json"
+  },
+  "webManage.pleaseLoginBgImg": {
+    "message": "Please upload login page background",
+    "description": "user_center_web.json"
+  },
+  "webManage.copy": {
+    "message": "Copy",
+    "description": "user_center_web.json"
+  },
+  "webManage.preview": {
+    "message": "Preview",
+    "description": "user_center_web.json"
+  },
+  "webManage.copySuccess": {
+    "message": "Duplicated successfully!",
+    "description": "user_center_web.json"
+  },
+  "webManage.copyFail": {
+    "message": "Failed to duplicate!",
+    "description": "user_center_web.json"
+  },
+  "schedule.academicYear": {
+    "message": "Term",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekly": {
+    "message": "Week",
+    "description": "user_center_web.json"
+  },
+  "schedule.editAyear": {
+    "message": "Edit Term",
+    "description": "user_center_web.json"
+  },
+  "schedule.importSchedule": {
+    "message": "Import Class Schedule",
+    "description": "user_center_web.json"
+  },
+  "schedule.editSchedule": {
+    "message": "Edit Class Schedule",
+    "description": "user_center_web.json"
+  },
+  "schedule.schoolTime": {
+    "message": "Term Start",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekTeacherNum": {
+    "message": "Weeks",
+    "description": "user_center_web.json"
+  },
+  "schedule.weekTeaching": {
+    "message": "Week",
+    "description": "user_center_web.json"
+  },
+  "schedule.generateWT": {
+    "message": "Create Weeks",
+    "description": "user_center_web.json"
+  },
+  "schedule.workRestTime": {
+    "message": "Schedule",
+    "description": "user_center_web.json"
+  },
+  "schedule.section": {
+    "message": "Period",
+    "description": "user_center_web.json"
+  },
+  "schedule.startTimes": {
+    "message": "Start Time",
+    "description": "user_center_web.json"
+  },
+  "schedule.endTimes": {
+    "message": "End Time",
+    "description": "user_center_web.json"
+  },
+  "schedule.rest": {
+    "message": "Break",
+    "description": "user_center_web.json"
+  },
+  "schedule.date": {
+    "message": "Date",
+    "description": "user_center_web.json"
+  },
+  "schedule.duration": {
+    "message": "Duration",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg1": {
+    "message": "Set the correct schedule!",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg2": {
+    "message": "Editing the term may affect the existing schedule - Proceed with caution. Are you sure you want to edit it?",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg3": {
+    "message": "Set the start time!",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg4": {
+    "message": "Set the number of instructional weeks!",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg5": {
+    "message": "If you need to edit the class schedule, re-import the schedule. Editing the class schedule may affect the existing schedule - Proceed with caution!",
+    "description": "user_center_web.json"
+  },
+  "schedule.msg6": {
+    "message": "Are you sure you want to edit it?",
+    "description": "user_center_web.json"
+  },
+  "schedule.termName": {
+    "message": "Term Name",
+    "description": "user_center_web.json"
+  },
+  "schedule.enterTermName": {
+    "message": "Please enter the term name",
+    "description": "user_center_web.json"
+  },
+  "common.pleaseSelect": {
+    "message": "Please select",
+    "description": "user_center_web.json"
+  },
+  "common.save": {
+    "message": "Save",
+    "description": "user_center_web.json"
+  },
+  "common.cancel": {
+    "message": "Cancel",
+    "description": "user_center_web.json"
+  },
+  "common.minutes": {
+    "message": "minutes",
+    "description": "user_center_web.json"
+  },
+  "common.prompt": {
+    "message": "Alert",
+    "description": "user_center_web.json"
+  },
+  "common.addSucc": {
+    "message": "Added successfully!",
+    "description": "user_center_web.json"
+  },
+  "common.editSucc": {
+    "message": "Edited successfully!",
+    "description": "user_center_web.json"
+  },
+  "common.saveSucc": {
+    "message": "Saved successfully!",
+    "description": "user_center_web.json"
+  },
+  "common.search": {
+    "message": "Search",
+    "description": "user_center_web.json"
+  },
+  "common.number": {
+    "message": "Quantity",
+    "description": "user_center_web.json"
+  },
+  "common.delete": {
+    "message": "Delete",
+    "description": "user_center_web.json"
+  },
+  "common.oper": {
+    "message": "Action",
+    "description": "user_center_web.json"
+  },
+  "common.edit": {
+    "message": "Edit",
+    "description": "user_center_web.json"
+  },
+  "common.update": {
+    "message": "Edit",
+    "description": "user_center_web.json"
+  },
+  "common.add": {
+    "message": "Add",
+    "description": "user_center_web.json"
+  },
+  "common.newAdd": {
+    "message": "Add",
+    "description": "user_center_web.json"
+  },
+  "common.downloadTemp": {
+    "message": "Download Template",
+    "description": "user_center_web.json"
+  },
+  "common.importFile": {
+    "message": "Upload File",
+    "description": "user_center_web.json"
+  },
+  "common.all": {
+    "message": "All",
+    "description": "user_center_web.json"
+  },
+  "common.confirmDelete": {
+    "message": "Are you sure you want to delete it?",
+    "description": "user_center_web.json"
+  },
+  "common.pleaseInput": {
+    "message": "Enter ",
+    "description": "user_center_web.json"
+  },
+  "common.noNull": {
+    "message": "Cannot be empty",
+    "description": "user_center_web.json"
+  },
+  "common.beginTime": {
+    "message": "Start Date",
+    "description": "user_center_web.json"
+  },
+  "common.endTime": {
+    "message": "End Date",
+    "description": "user_center_web.json"
+  },
+  "common.more": {
+    "message": "More",
+    "description": "user_center_web.json"
+  },
+  "common.status": {
+    "message": "Status",
+    "description": "user_center_web.json"
+  },
+  "common.noStart": {
+    "message": "Not started",
+    "description": "user_center_web.json"
+  },
+  "common.ongoing": {
+    "message": "In progress",
+    "description": "user_center_web.json"
+  },
+  "common.ended": {
+    "message": "Ended",
+    "description": "user_center_web.json"
+  },
+  "common.to": {
+    "message": "To",
+    "description": "user_center_web.json"
+  },
+  "playback.msg13": {
+    "message": "Keep at least one",
+    "description": "user_center_web.json"
+  },
+  "playback.msg14": {
+    "message": "Up to 20",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.campus": {
+    "message": "Campus",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectCampus": {
+    "message": "Select a campus!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.building": {
+    "message": "Building",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectBuilding": {
+    "message": "Select a building!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomType": {
+    "message": "Classroom Type",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectRoomType": {
+    "message": "Select a classroom type!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputRoomType": {
+    "message": "Please enter classroom type",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputRoomName": {
+    "message": "Enter the classroom name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCampusName": {
+    "message": "Please enter the school name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomName": {
+    "message": "Classroom Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addRoom": {
+    "message": "Add Classroom",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateRoom": {
+    "message": "Edit Classroom",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importRoom": {
+    "message": "Import Classroom",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importList": {
+    "message": "Import Student Roster",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.floor": {
+    "message": "Floor",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputFloor": {
+    "message": "Enter the floor",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.seatCount": {
+    "message": "Seats",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputSeatCount": {
+    "message": "Please enter the number of seats",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.roomNoImportAgain": {
+    "message": "Classroom import is not completed - Please correct the invalid data in the table and upload again!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.noNullLimt": {
+    "message": "Cannot be empty, up to 200 characters.",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.inputBuildingRow": {
+    "message": "If you need to create more than one classroom building, use the Enter key to enter, one per line.",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.name": {
+    "message": "Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.moniker": {
+    "message": "Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderSelectSemester": {
+    "message": "Select a term",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacher": {
+    "message": "Teacher",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacherName": {
+    "message": "Please enter teacher name/job number",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.course": {
+    "message": "Course",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourse": {
+    "message": "Please enter course name/course number",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.class": {
+    "message": "Class",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classNo": {
+    "message": "Class ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClassName": {
+    "message": "Please enter the class name/class number",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.student": {
+    "message": "Student",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudent": {
+    "message": "Please enter student name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudentName": {
+    "message": "Please enter student name/student number",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importClassPlain": {
+    "message": "Import course selection plan",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentNo": {
+    "message": "Student ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputStudentNo": {
+    "message": " Please enter your studentID ",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentName": {
+    "message": "Student Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.collegeName": {
+    "message": "College",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCollegeName": {
+    "message": "Please enter your college.",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseCode": {
+    "message": "Course code",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourseCode": {
+    "message": "Please enter course code",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseName": {
+    "message": "Course Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCourseName": {
+    "message": "Click to enter the courseware name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherNo": {
+    "message": "Teacher ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacherNo": {
+    "message": "Please enter the teacher ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherName": {
+    "message": "Teacher Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputTeacher": {
+    "message": "Enter the teacher name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classId": {
+    "message": "Class ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClassId": {
+    "message": "Please enter the class number",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.className": {
+    "message": "Class Name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputClass": {
+    "message": "Enter the class name",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.belongSchoolYear": {
+    "message": "College",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentSelectPlainImportAgain": {
+    "message": "The student course selection plan has not been imported. Please correct the wrong data in the table and upload it again!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.createStudentSelectPlain": {
+    "message": "Create a course plan",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateStudentSelectPlain": {
+    "message": "Modify the course selection plan",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importSchedule": {
+    "message": "Import schedule",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.createCourse": {
+    "message": "Create Course",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.updateCourse": {
+    "message": "Edit Course",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.college": {
+    "message": "College",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputCollege": {
+    "message": "Enter a college",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.subjectName": {
+    "message": "Subject",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.placeholderInputSubjectName": {
+    "message": "Please enter discipline",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherPlainImportAgain": {
+    "message": "The teacher schedule has not been imported. Please correct the wrong data in the table and upload it again!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.courseId": {
+    "message": "Course ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.teacherId": {
+    "message": "Teacher ID",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.setNumber": {
+    "message": "set the number of students",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addStudent": {
+    "message": "Add Student",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.importStudentList": {
+    "message": "import student roster",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.studentListImportAgain": {
+    "message": "The student list has not been imported. Please correct the wrong data in the table and upload it again!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addPlain": {
+    "message": "add scheme",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.addTeaPlain": {
+    "message": "Add lesson plan",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.editTeaPlain": {
+    "message": "Revise the teaching plan",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.classRoom": {
+    "message": "Classroom",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.useDate": {
+    "message": "By date",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.useWeek": {
+    "message": "By week",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.selectDate": {
+    "message": "Choose the date",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.pleaseSelectClassRoom": {
+    "message": "Select a classroom!",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.weekTip": {
+    "message": "Weekly schedule reuse during selected time period",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week1": {
+    "message": "Monday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week2": {
+    "message": "Tuesday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week3": {
+    "message": "Wednesday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week4": {
+    "message": "Thursday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week5": {
+    "message": "Friday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week6": {
+    "message": "Saturday",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.week7": {
+    "message": "Sunday",
+    "description": "user_center_web.json"
+  },
   "route.courseScheduleManagement": {
     "message": "Class Schedule",
     "description": "user_center_web.json"
@@ -11,12 +675,32 @@
     "message": "Add New Term",
     "description": "user_center_web.json"
   },
+  "route.teachersClassSchedule": {
+    "message": "Teacher schedule",
+    "description": "user_center_web.json"
+  },
   "route.listStudents": {
     "message": "Student List",
     "description": "user_center_web.json"
   },
+  "route.classSchedulePlan": {
+    "message": "Schedule",
+    "description": "user_center_web.json"
+  },
+  "route.studentSelectionSchedule": {
+    "message": "Student schedule",
+    "description": "user_center_web.json"
+  },
   "route.classroomManagement": {
     "message": "Classrooms",
+    "description": "user_center_web.json"
+  },
+  "route.classroomTypeManagement": {
+    "message": "Classroom Type Management",
+    "description": "user_center_web.json"
+  },
+  "route.teachingBuildingManagement": {
+    "message": "Teaching Building Management",
     "description": "user_center_web.json"
   },
   "route.websiteManagement": {
@@ -27,12 +711,24 @@
     "message": "Confirm",
     "description": "user_center_web.json"
   },
+  "basicInfoManage.setWorkRestTime": {
+    "message": "Set as default schedule",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.quoteWorkRestTime": {
+    "message": "Reference default schedule",
+    "description": "user_center_web.json"
+  },
   "basicInfoManage.expand": {
     "message": "Expand",
     "description": "user_center_web.json"
   },
   "basicInfoManage.close": {
     "message": "Collapse",
+    "description": "user_center_web.json"
+  },
+  "basicInfoManage.noSetWorkRestTime": {
+    "message": "Custom schedule",
     "description": "user_center_web.json"
   }
 }
