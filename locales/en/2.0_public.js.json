@@ -2515,6 +2515,10 @@
     "message": "Password must be 8-16 characters and include both letters and numbers (passwords are case-sensitive)",
     "description": "2.0 public.js"
   },
+  "someonesEportfolio": {
+    "message": "someonesEportfolio",
+    "description": "2.0 public.js"
+  },
   "programPreviewEntry": {
     "message": "Entrance Settings",
     "description": "2.0 public.js"
@@ -2585,6 +2589,102 @@
   },
   "loginTipsMsg5": {
     "message": "Your login password hasn't been updated in <strong class='text-red'>{dayNum}</strong> days!",
+    "description": "2.0 public.js"
+  },
+  "newAccount": {
+    "message": "Account Registration",
+    "description": "2.0 public.js"
+  },
+  "alreadyEmail": {
+    "message": "This email has been registered.",
+    "description": "2.0 public.js"
+  },
+  "emailTimesUsedUp": {
+    "message": "The number of emails sent today has been used up.",
+    "description": "2.0 public.js"
+  },
+  "getCodeTooManyTips": {
+    "message": "Please wait for 60 seconds to make another request for the verification code",
+    "description": "2.0 public.js"
+  },
+  "SignUp": {
+    "message": "Register",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips1": {
+    "message": "Password Requirements:",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips2": {
+    "message": "8-16 characters",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips3": {
+    "message": "Must include numbers, letters, and special symbols.",
+    "description": "2.0 public.js"
+  },
+  "pwdValidatorTips": {
+    "message": "8-16 characters, containing at least 3 characters (numbers, uppercase letters, lowercase letters or special symbols)",
+    "description": "2.0 public.js"
+  },
+  "getCode": {
+    "message": "Get verification code",
+    "description": "2.0 public.js"
+  },
+  "enter4DigitCode": {
+    "message": "Enter the 4-digit verification code.",
+    "description": "2.0 public.js"
+  },
+  "registerTips": {
+    "message": "Currently, registration is only available for students. After registration, your email address will serve as your username.",
+    "description": "2.0 public.js"
+  },
+  "agreementsTips": {
+    "message": "By clicking \"Register\", you agree to and accept our <a href=\"../agreements/user.html\" target=\"_blank\">User Agreement</a> and <a href=\"../agreements/privacy.html\" target=\"_blank\"> Privacy Policy</a>.",
+    "description": "2.0 public.js"
+  },
+  "noAccounts": {
+    "message": "No account?",
+    "description": "2.0 public.js"
+  },
+  "signUpNow": {
+    "message": "Register now",
+    "description": "2.0 public.js"
+  },
+  "loginAccount": {
+    "message": "Username/Email",
+    "description": "2.0 public.js"
+  },
+  "loginAccountTips": {
+    "message": "Please enter your username/email",
+    "description": "2.0 public.js"
+  },
+  "userNameUsed": {
+    "message": "User alreay exists.",
+    "description": "2.0 public.js"
+  },
+  "registerError": {
+    "message": "Failed to register",
+    "description": "2.0 public.js"
+  },
+  "registerSuccessTips": {
+    "message": "Congratulations! You have successfully registered.",
+    "description": "2.0 public.js"
+  },
+  "feedback": {
+    "message": "Feedback",
+    "description": "2.0 public.js"
+  },
+  "userManual": {
+    "message": "User Manual",
+    "description": "2.0 public.js"
+  },
+  "authentication": {
+    "message": "Identity Verification",
+    "description": "2.0 public.js"
+  },
+  "identityVerificationCode": {
+    "message": "Identity Authentication Code",
     "description": "2.0 public.js"
   },
   "myProfile": {

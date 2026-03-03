@@ -3843,16 +3843,116 @@
     "message": "All exam facilities",
     "description": "考试快捷地址"
   },
+  "examRoomPlaceholder": {
+    "message": "Please enter exam venue name to search",
+    "description": "考试快捷地址"
+  },
   "examRoom": {
     "message": "Exam Facility",
+    "description": "考试快捷地址"
+  },
+  "seatNumber": {
+    "message": "Seat Number",
+    "description": "考试快捷地址"
+  },
+  "imgImport": {
+    "message": "Image Recognition",
+    "description": "考试快捷地址"
+  },
+  "imgImportTip": {
+    "message": "1.Please upload a clear image of the exam paper (supports png, jpg, jpeg, max size 512MB). {br}2.The system will automatically recognize questions in the image (supports single-choice, multiple-choice, true/false, fill-in-the-blank, short answer).{br}3. It recognizes printed text and neat handwriting, and converts mathematical formulas to LaTeX format.{br}4. After recognition, please preview and check the content, where you can make edits and corrections.",
     "description": "考试快捷地址"
   },
   "uploadImg": {
     "message": "Upload image",
     "description": "考试快捷地址"
   },
+  "analysisImgTip": {
+    "message": "Please wait while the title is identified...",
+    "description": "考试快捷地址"
+  },
   "selectExamRoom": {
     "message": "Select Exam Facility",
+    "description": "考试快捷地址"
+  },
+  "noExamRoom": {
+    "message": "No exam venue data available.",
+    "description": "考试快捷地址"
+  },
+  "imgLimitTip": {
+    "message": "Image size exceeds the limit.",
+    "description": "考试快捷地址"
+  },
+  "imgTypeLimitTip": {
+    "message": "Incorrect image format. Please re-upload an image in png, jpg, or jpeg format.",
+    "description": "考试快捷地址"
+  },
+  "viewUploadTypeTip": {
+    "message": "Supports common formats such as images, documents, video, and audio.Maximum 10 attachments per question.Maximum 500MB per file on the desktop client.​For unsupported formats, please compress the file(s) before uploading.<br/>Documents:​ pdf, doc, docx, xls, xlsx, ppt, pptx, txt, psd, xmind, dwg<br/>Images:​ png, jpg, gif, jpeg, bmp<br/>Video:​ mp4, avi, wmv, rm, rmvb, mpeg, mpg, mkv, mov, flv<br/>Audio:​ mp3, wav, wma<br/>Archives:​ zip, rar, 7z<br/>Subtitle Files:​ srt",
+    "description": "考试快捷地址"
+  },
+  "calculator": {
+    "message": "Calculator",
+    "description": "考试快捷地址"
+  },
+  "H5": {
+    "message": "H5",
+    "description": "考试快捷地址"
+  },
+  "BBImport": {
+    "message": "Import from BB File",
+    "description": "考试快捷地址"
+  },
+  "uploadBBFileMsg": {
+    "message": "Upload ZIP Archive",
+    "description": "考试快捷地址"
+  },
+  "h5": {
+    "message": "H5",
+    "description": "考试快捷地址"
+  },
+  "signinCodeTip1": {
+    "message": "1. Please use ULearning APP to scan the code to sign in. {br}2. After signing in, you can only use the same equipment to enter the exam.",
+    "description": "考试快捷地址"
+  },
+  "AIQuestionTitle1": {
+    "message": "Intelligent Question Generation",
+    "description": "考试快捷地址"
+  },
+  "allStatus": {
+    "message": "All status",
+    "description": "考试快捷地址"
+  },
+  "inputExamName": {
+    "message": "Enter Exam Name",
+    "description": "考试快捷地址"
+  },
+  "answerTrack": {
+    "message": "Exam Answering Pattern",
+    "description": "考试快捷地址"
+  },
+  "screenMonitor": {
+    "message": "Screen Monitoring",
+    "description": "考试快捷地址"
+  },
+  "clearAbnormal": {
+    "message": "Clear Anomaly",
+    "description": "考试快捷地址"
+  },
+  "screenAbnormal": {
+    "message": "Screen Anomaly",
+    "description": "考试快捷地址"
+  },
+  "screenNormal": {
+    "message": "Screen Normal",
+    "description": "考试快捷地址"
+  },
+  "confirmClearException": {
+    "message": "Please carefully review the system screenshot for any violations before clearing the anomaly. Are you sure you want to clear it?",
+    "description": "考试快捷地址"
+  },
+  "commitExamTip9": {
+    "message": "The screen monitoring anomaly has reached the threshold. The system will force an exam submission.",
     "description": "考试快捷地址"
   }
 }
