@@ -1,0 +1,4526 @@
+{
+  "close": {
+    "message": "Yopish",
+    "description": "2.0 exam.js"
+  },
+  "examinationResults": {
+    "message": "Imtihon natijalari",
+    "description": "2.0 exam.js"
+  },
+  "gradeSumCl": {
+    "message": "Avtomatik/Manual/Jami",
+    "description": "2.0 {filename}"
+  },
+  "examinationAnalysis": {
+    "message": "Imtihon tahlili",
+    "description": "2.0 exam.js"
+  },
+  "allBatches": {
+    "message": "Barcha sessiyalar",
+    "description": "2.0 exam.js"
+  },
+  "allClasses": {
+    "message": "Barcha sinflar",
+    "description": "2.0 exam.js"
+  },
+  "allTeachers": {
+    "message": "Barcha o'qituvchilar",
+    "description": "2.0 exam.js"
+  },
+  "submissionStatus": {
+    "message": "Yuborish holati",
+    "description": "2.0 exam.js"
+  },
+  "sort": {
+    "message": "Saralash",
+    "description": "2.0 exam.js"
+  },
+  "studentNumUp": {
+    "message": "O'sish tartibida - talaba IDsi",
+    "description": "2.0 exam.js"
+  },
+  "studentNumDown": {
+    "message": "Kamayish tartibida - talaba IDsi",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreUp": {
+    "message": "O'sish tartibida - jami ball",
+    "description": "2.0 exam.js"
+  },
+  "totalScoreDown": {
+    "message": "Kamayish tartibida - jami ball",
+    "description": "2.0 exam.js"
+  },
+  "export": {
+    "message": "Eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "derivedAchievements": {
+    "message": "Natijalarni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportAnswerRecords": {
+    "message": "Imtihon javoblarini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "fastExport": {
+    "message": "Ballarni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "customExport": {
+    "message": "Maxsus natijalarni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "startRemark": {
+    "message": "Baholash",
+    "description": "2.0 exam.js"
+  },
+  "batchRemark": {
+    "message": "Partiyaviy baholash",
+    "description": "2.0 exam.js"
+  },
+  "remarkByQuestion": {
+    "message": "Birma-bir baholash",
+    "description": "2.0 exam.js"
+  },
+  "all": {
+    "message": "Hammasi",
+    "description": "2.0 exam.js"
+  },
+  "notApproved": {
+    "message": "Baholangan emas",
+    "description": "2.0 exam.js"
+  },
+  "readed": {
+    "message": "Baholangan",
+    "description": "2.0 exam.js"
+  },
+  "notSubmitted": {
+    "message": "Yuborilmagan",
+    "description": "2.0 exam.js"
+  },
+  "exception": {
+    "message": "Belgilangan",
+    "description": "2.0 exam.js"
+  },
+  "readTip1": {
+    "message": "Kutilmoqda ",
+    "description": "2.0 exam.js"
+  },
+  "readTip2": {
+    "message": "manual ball komponenti hali baholangan emasligini bildiradi",
+    "description": "2.0 exam.js"
+  },
+  "serialNumber": {
+    "message": "Raqami",
+    "description": "2.0 exam.js"
+  },
+  "studentNumber": {
+    "message": "Talaba IDsi",
+    "description": "2.0 exam.js"
+  },
+  "name": {
+    "message": "Ism",
+    "description": "2.0 exam.js"
+  },
+  "namePrefix": {
+    "message": "Ism: {name}",
+    "description": "2.0 {filename}"
+  },
+  "accountPrefix": {
+    "message": "Foydalanuvchi nomi: {account}",
+    "description": "2.0 {filename}"
+  },
+  "schoolPrefix": {
+    "message": "Maktab: {org}",
+    "description": "2.0 {filename}"
+  },
+  "certPrefix": {
+    "message": "Baholash raqami: {no}",
+    "description": "2.0 {filename}"
+  },
+  "totalScore": {
+    "message": "Jami ball",
+    "description": "2.0 exam.js"
+  },
+  "objectiveQuestions": {
+    "message": "Avtomatik ball",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQuestions": {
+    "message": "Manual ball",
+    "description": "2.0 exam.js"
+  },
+  "examinationPapers": {
+    "message": "Foydalanilgan imtihonlar",
+    "description": "2.0 exam.js"
+  },
+  "status": {
+    "message": "Holat",
+    "description": "2.0 exam.js"
+  },
+  "submissionTime": {
+    "message": "Yuborilgan vaqt",
+    "description": "2.0 exam.js"
+  },
+  "operation": {
+    "message": "Amallar",
+    "description": "2.0 exam.js"
+  },
+  "leaveExam": {
+    "message": "Imtihondan chiqish",
+    "description": "2.0 exam.js"
+  },
+  "leaveExamTip": {
+    "message": "Agar talaba ruxsat etilganidan ko'p imtihondan chiqarsa, talabaning imtihoni majburiy ravishda yuboriladi. Zarur bo'lsa, siz bu talaba uchun qayta imtihon布置 qilishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "answerRecord": {
+    "message": "Imtihon javoblari",
+    "description": "2.0 exam.js"
+  },
+  "behaviorTrace": {
+    "message": "Jurnalni ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "markPapers": {
+    "message": "Imtihonni baholash",
+    "description": "2.0 exam.js"
+  },
+  "setUpRetest": {
+    "message": "Qayta imtihon o'rnatish",
+    "description": "2.0 exam.js"
+  },
+  "deleteRecords": {
+    "message": "Yozuvlarni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "noDataTip": {
+    "message": "Ma'lumot topilmadi. Siz imtihonga talabalar qo'shishingiz yoki qidiruv shartlarini o'zgartirib, qayta qidirishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "chooseBatch": {
+    "message": "Imtihon uchun sessiyani tanlang",
+    "description": "2.0 exam.js"
+  },
+  "betweenTime": {
+    "message": "{startTime} dan {endTime} gacha",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "2.0 exam.js"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "2.0 exam.js"
+  },
+  "toBeApproved": {
+    "message": "Baholangan emas",
+    "description": "2.0 exam.js"
+  },
+  "notAttending": {
+    "message": "Boshlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "inExam": {
+    "message": "Jarayonda",
+    "description": "2.0 exam.js"
+  },
+  "homePage": {
+    "message": "Bosh sahifa",
+    "description": "2.0 exam.js"
+  },
+  "lastPage": {
+    "message": "Oxirgi sahifa",
+    "description": "2.0 exam.js"
+  },
+  "upperPage": {
+    "message": "Oldingi sahifa",
+    "description": "2.0 exam.js"
+  },
+  "nextPage": {
+    "message": "Keyingi sahifa",
+    "description": "2.0 exam.js"
+  },
+  "jumpPage": {
+    "message": "O'tish",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip1": {
+    "message": "Qayta imtihon o'rnatilgandan so'ng, bu talaba uchun barcha oldingi imtihon yozuvlari o'chiriladi. Siz bu qayta imtihoni o'rnatishni istaysizmi?",
+    "description": "2.0 exam.js"
+  },
+  "reTestTip2": {
+    "message": "Qo'llaniladigan imtihon sessiyalari mavjud emas, sessiya qo'shmoqchimisiz?",
+    "description": "2.0 exam.js"
+  },
+  "deleteTip": {
+    "message": "Imtihon natijalarini o'chirish qaytarilmaydi. Siz o'chirishni istaysizmi?",
+    "description": "2.0 exam.js"
+  },
+  "exportTip": {
+    "message": "Faqat har bir talabaning eng yuqori ballari eksport qilinadi. Maxsus eksport uchun Ixtiyoriy natijalarni eksport qilishni tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "tips": {
+    "message": "Ogohlantirish",
+    "description": "2.0 exam.js"
+  },
+  "chooseClass": {
+    "message": "Sinfni tanlang: ",
+    "description": "2.0 exam.js"
+  },
+  "basicInformation": {
+    "message": "Asosiy ma'lumotlar",
+    "description": "2.0 exam.js"
+  },
+  "quantity": {
+    "message": "Soni",
+    "description": "2.0 exam.js"
+  },
+  "proportion": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "examStuNum": {
+    "message": "{0} ta yakunlangan",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "expectExamStuNum": {
+    "message": "Jami imtihon topshiruvchilar: {0}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate": {
+    "message": "Ishtirok etish darajasi",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "referenceRate2": {
+    "message": "Ishtirok etish darajasi: {0}% (Normasizlik darajasi: {1}%)",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "exceptionRate": {
+    "message": "Normasizlik darajasi",
+    "description": "2.0 exam.js"
+  },
+  "averageAnswerTime": {
+    "message": "O'rtacha imtihon vaqti",
+    "description": "2.0 exam.js"
+  },
+  "maximumAnswerTime": {
+    "message": "Eng uzun imtihon vaqti",
+    "description": "2.0 exam.js"
+  },
+  "minimumAnswerTime": {
+    "message": "Eng qisqa imtihon vaqti",
+    "description": "2.0 exam.js"
+  },
+  "mobile": {
+    "message": "Mobil qurilma",
+    "description": "2.0 exam.js"
+  },
+  "PC": {
+    "message": "Shaxsiy kompyuter",
+    "description": "2.0 exam.js"
+  },
+  "computeTip": {
+    "message": "Eslatma: Talabalar tomonidan ishlatiladigan qurilmalar soni bo'yicha hisoblanadi",
+    "description": "2.0 exam.js"
+  },
+  "examinationAchievementsAnalysis": {
+    "message": "Imtihon natijalari tahlili",
+    "description": "2.0 exam.js"
+  },
+  "averageAchievement": {
+    "message": "O'rtacha baho",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviation": {
+    "message": "Standart chetlanish",
+    "description": "2.0 exam.js"
+  },
+  "standardDeviationTip": {
+    "message": "Standart chetlanish talabalar natijalarining tarqalish darajasini ko'rsatadi. Katta standart chetlanish ko'pchilik ballari va ularning o'rtachasi o'rtasidagi katta farqni ko'rsatadi. Kichikroq bo'lsa, bu ballar o'rtachaga yaqinroqdir.",
+    "description": "2.0 exam.js"
+  },
+  "passRate": {
+    "message": "O'tish darajasi",
+    "description": "2.0 exam.js"
+  },
+  "highestScore": {
+    "message": "Eng yuqori ball",
+    "description": "2.0 exam.js"
+  },
+  "minimumScore": {
+    "message": "Eng past ball",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip1": {
+    "message": "*Eslatma: 1. Ma'lumotlar imtihonda qatnashmagan yoki boshlanmagan talabalarni o'z ichiga olmaydi.",
+    "description": "2.0 exam.js"
+  },
+  "scoreTip2": {
+    "message": "2. Faqat bir necha urinishlarning eng yuqori balli kiritiladi.",
+    "description": "2.0 exam.js"
+  },
+  "fractionalStatistics": {
+    "message": "Ballar taqsimoti",
+    "description": "2.0 exam.js"
+  },
+  "noStuRecord": {
+    "message": "Talaba javoblariga oid yozuvlar mavjud emas!",
+    "description": "2.0 exam.js"
+  },
+  "paperAnalysis": {
+    "message": "Imtihon tahlili",
+    "description": "2.0 exam.js"
+  },
+  "chart": {
+    "message": "Diagramma",
+    "description": "2.0 exam.js"
+  },
+  "form": {
+    "message": "Jadval",
+    "description": "2.0 exam.js"
+  },
+  "paperStatistics": {
+    "message": "Imtihon foydalanilishi",
+    "description": "2.0 exam.js"
+  },
+  "personnel": {
+    "message": "{0} ta/{1}%",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "personnel2": {
+    "message": "{count} ta",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+  },
+  "detailedAnalysis": {
+    "message": "Batafsil tahlil >>",
+    "description": "2.0 exam.js"
+  },
+  "scoreStatistics": {
+    "message": "Ballar statistikasi",
+    "description": "2.0 exam.js"
+  },
+  "paperName": {
+    "message": "Imtihon nomi",
+    "description": "2.0 exam.js"
+  },
+  "userNum": {
+    "message": "Foydalanish soni",
+    "description": "2.0 exam.js"
+  },
+  "proportion2": {
+    "message": "%",
+    "description": "2.0 exam.js"
+  },
+  "averageScore": {
+    "message": "O'rtacha ball",
+    "description": "2.0 exam.js"
+  },
+  "disabled": {
+    "message": "Faollashtirilmagan",
+    "description": "2.0 exam.js"
+  },
+  "questionAnalysis": {
+    "message": "Savol tahlili",
+    "description": "2.0 exam.js"
+  },
+  "previewPapers": {
+    "message": "Imtihoni oldindan ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "quantity2": {
+    "message": "Savollar: ",
+    "description": "2.0 exam.js"
+  },
+  "totalScore2": {
+    "message": "Mumkin bo'lgan ballar: ",
+    "description": "2.0 exam.js"
+  },
+  "paperPartAnalysis": {
+    "message": "Bo'lim ballari tahlili",
+    "description": "2.0 exam.js"
+  },
+  "pdfGeneration": {
+    "message": "PDF yaratilmoqda...",
+    "description": "2.0 exam.js"
+  },
+  "choosePaper": {
+    "message": "Imtihonni tanlang: ",
+    "description": "2.0 exam.js"
+  },
+  "exportAllQuestion": {
+    "message": "Hammasini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportCurrentQuestion": {
+    "message": "Joriy sahifani eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "paperAccuracy": {
+    "message": "Aniqlik statistikasi",
+    "description": "2.0 exam.js"
+  },
+  "questionNumSToL": {
+    "message": "Savol raqami - Eng pastdan eng yuqoriga",
+    "description": "2.0 exam.js"
+  },
+  "questionNumLToS": {
+    "message": "Savol raqami - Eng yuqoridan eng pastga",
+    "description": "2.0 exam.js"
+  },
+  "questionNum": {
+    "message": "Savol raqami",
+    "description": "2.0 exam.js"
+  },
+  "questionType": {
+    "message": "Turi",
+    "description": "2.0 exam.js"
+  },
+  "correctRate": {
+    "message": "To'g'ri javob darajasi",
+    "description": "2.0 exam.js"
+  },
+  "correctAnswer": {
+    "message": "To'g'ri javoblar",
+    "description": "2.0 exam.js"
+  },
+  "optionStuNum": {
+    "message": "Javoblar soni",
+    "description": "2.0 exam.js"
+  },
+  "difficulty": {
+    "message": "Qiyinchilik darajasi",
+    "description": "2.0 exam.js"
+  },
+  "difficultyTip": {
+    "message": "Qiyinchilik darajasi ko'pincha sinov topshiruvchilarning javoblarining aniqlik darajasiga asoslanadi. Qiyinchilik darajasi qanchalik katta bo'lsa, savol shunchalik oddiy bo'ladi. Qiymat qanchalik kichik bo'lsa, savol shunchalik qiyin bo'ladi. Odatda, savolning tegishli qiyinchilik darajasi 0.3 va 0.8 oralig'ida bo'ladi.",
+    "description": "2.0 exam.js"
+  },
+  "difficulties": {
+    "message": "Juda qiyin",
+    "description": "2.0 exam.js"
+  },
+  "general": {
+    "message": "O'rtacha",
+    "description": "2.0 exam.js"
+  },
+  "easy": {
+    "message": "Oddiy",
+    "description": "2.0 exam.js"
+  },
+  "discrimination": {
+    "message": "Ayrimlashuv",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip": {
+    "message": "Ayrimlashuv imtihon savollarining turli ta'lim natijalari bo'lgan talabalarni ajratish darajasini anglatadi. Ayrimlashuv darajasi -1 va +1 oralig'ida bo'ladi, qanchalik katta bo'lsa, shunchalik yaxshi. Odatda, imtihon savollarining ayrimlashuv darajasi 0.3 dan yuqori bo'lishi talab qilinadi.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip1": {
+    "message": ", bu savolning yaxshi ayrimlashuvga ega ekanligini ko'rsatadi.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip2": {
+    "message": ", yomon ayrimlashuvni ko'rsatadi, iltimos, tahrirlang.",
+    "description": "2.0 exam.js"
+  },
+  "discriminationTip3": {
+    "message": "Ayrimlashuvning manfiy qiymati savol yoki javob noto'g'ri ekanligini ko'rsatadi.",
+    "description": "2.0 exam.js"
+  },
+  "noData": {
+    "message": "Ma'lumot topilmadi.",
+    "description": "2.0 exam.js"
+  },
+  "recommendedAnswer": {
+    "message": "Javob kaliti: ",
+    "description": "2.0 exam.js"
+  },
+  "parsing": {
+    "message": "Javob tushuntirishi",
+    "description": "2.0 exam.js"
+  },
+  "previousQuestion": {
+    "message": "Oldingi savol",
+    "description": "2.0 exam.js"
+  },
+  "nextQuestion": {
+    "message": "Keyingi savol",
+    "description": "2.0 exam.js"
+  },
+  "previewQuestion": {
+    "message": "Oldindan ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "searchTip": {
+    "message": "Qidirish uchun kalit so'z kiriting",
+    "description": "2.0 exam.js"
+  },
+  "submitByAPP": {
+    "message": "APP orqali",
+    "description": "2.0 exam.js"
+  },
+  "submitByPC": {
+    "message": "Veb orqali",
+    "description": "2.0 exam.js"
+  },
+  "chooseExamBatch": {
+    "message": "Imtihon uchun sessiyani tanlang",
+    "description": "2.0 exam.js"
+  },
+  "unknown": {
+    "message": "Noma'lum",
+    "description": "2.0 exam.js"
+  },
+  "points": {
+    "message": "{grade} ball",
+    "description": "2.0 exam.js"
+  },
+  "paperPartName": {
+    "message": "Bo'lim nomi",
+    "description": "2.0 exam.js"
+  },
+  "peopleNum": {
+    "message": "Imtihon topshiruvchilar soni",
+    "description": "2.0 exam.js"
+  },
+  "abandonRate": {
+    "message": "Qolib ketish darajasi",
+    "description": "2.0 exam.js"
+  },
+  "hour": {
+    "message": "Soat",
+    "description": "2.0 exam.js"
+  },
+  "minute": {
+    "message": "{count} daqiqa",
+    "description": "2.0 exam.js"
+  },
+  "timeLength": {
+    "message": "{days} kun {hours} soat {minutes} daqiqa {seconds} soniya",
+    "description": "2.0 exam.js"
+  },
+  "scoringRate": {
+    "message": "Baholash foizi",
+    "description": "2.0 exam.js"
+  },
+  "score": {
+    "message": "Ball",
+    "description": "2.0 exam.js"
+  },
+  "exam": {
+    "message": "Imtihonlar",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips1": {
+    "message": "Bu erda barcha kurs imtihonlari ro'yxati ko'rsatiladi. Kurs admini barcha sinflar uchun imtihonlarni nashr etishi/yoki ko'rishi mumkin, kurs o'qituvchisi esa faqat o'z sinfi uchun imtihonlarni nashr etishi/yoki ko'rishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips2": {
+    "message": "Bu erda sizning barcha kurs imtihonlaringiz ro'yxatga olingan. Imtihon qachon mavjudligi, kech boshlashga ruxsat berilganligi va qancha vaqt, bir necha urinishlarga ruxsat berilganligi va qancha vaqt, imtihon davomiyligi haqida e'tiborli bo'ling.",
+    "description": "2.0 exam.js"
+  },
+  "examTips1": {
+    "message": "Agar imtihon uchun yuzni tekshirish yoqilgan bo'lsa, imtihondan oldin bosh suratingizni yuklab oling, tartibga solmaslikdan saqlaning.",
+    "description": "2.0 exam.js"
+  },
+  "goToIdentify": {
+    "message": "Boshlash",
+    "description": "2.0 exam.js"
+  },
+  "addExam": {
+    "message": "Kurs imtihoni qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "examPaperLibrary": {
+    "message": "Imtihon banki",
+    "description": "2.0 exam.js"
+  },
+  "questionLibrary": {
+    "message": "Savol banki",
+    "description": "2.0 exam.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "Kompyuter mosligini tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "examName": {
+    "message": "Imtihon nomi",
+    "description": "2.0 exam.js"
+  },
+  "field": {
+    "message": "Jami {count} sessiya",
+    "description": "指有多少场考试"
+  },
+  "creator": {
+    "message": "Yaratgan",
+    "description": "2.0 exam.js"
+  },
+  "examTime": {
+    "message": "Imtihon vaqti",
+    "description": "2.0 exam.js"
+  },
+  "examPaper": {
+    "message": "Versiyalar",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes": {
+    "message": "Urinishlar",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimes": {
+    "message": "Urinilgan/Urinishlar",
+    "description": "2.0 {filename}"
+  },
+  "achievement": {
+    "message": "Ball",
+    "description": "2.0 exam.js"
+  },
+  "noStart": {
+    "message": "Boshlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "onGoing": {
+    "message": "Jarayonda",
+    "description": "2.0 exam.js"
+  },
+  "hasEnded": {
+    "message": "Tugagan",
+    "description": "2.0 exam.js"
+  },
+  "examDurationCl": {
+    "message": "Imtihon davomiyligi: {count} daqiqa",
+    "description": "2.0 exam.js"
+  },
+  "lateTime": {
+    "message": "Kech boshlash: {count}",
+    "description": "2.0 exam.js"
+  },
+  "lateTimeSet": {
+    "message": "Kech boshlash",
+    "description": "2.0 exam.js"
+  },
+  "myself": {
+    "message": "Men",
+    "description": "2.0 exam.js"
+  },
+  "start": {
+    "message": "Boshlash",
+    "description": "2.0 exam.js"
+  },
+  "startDatePrefix": {
+    "message": "Boshlanish: {time}",
+    "description": "2.0 {filename}"
+  },
+  "ended": {
+    "message": "Tugash",
+    "description": "2.0 exam.js"
+  },
+  "endDatePrefix": {
+    "message": "Tugash: {time}",
+    "description": "2.0 {filename}"
+  },
+  "noBatch": {
+    "message": "Sessiyalar mavjud emas",
+    "description": "2.0 exam.js"
+  },
+  "partOf": {
+    "message": "{n} to'plam",
+    "description": "教师账号 -> 考试"
+  },
+  "randomGroupPaper": {
+    "message": "Tasodifiy imtihon",
+    "description": "2.0 exam.js"
+  },
+  "viewScore": {
+    "message": "Natijalarni ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "previewExam": {
+    "message": "Imtihoni oldindan ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "modifyExam": {
+    "message": "Imtihoni tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatch": {
+    "message": "Sessiyani tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "delete": {
+    "message": "O'chirish",
+    "description": "2.0 exam.js"
+  },
+  "startExam": {
+    "message": "Boshlash",
+    "description": "2.0 exam.js"
+  },
+  "examTips2": {
+    "message": "ULearning APP orqali imtihon topshiring",
+    "description": "2.0 exam.js"
+  },
+  "examTips3": {
+    "message": "Siz ruxsat etilgan kech boshlash vaqtini o'tib ketganingiz uchun imtihon topshira olmaysiz.",
+    "description": "2.0 exam.js"
+  },
+  "examTips4": {
+    "message": "Avtomatik/Manual: ",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinished": {
+    "message": "Ko'rsatish ",
+    "description": "2.0 exam.js"
+  },
+  "dayShowExam": {
+    "message": "Imtihon tugaganidan keyin {n} kun",
+    "description": "学生账号 -> 考试"
+  },
+  "examTips5": {
+    "message": "Natijalar hozirda e'lon qilinmagan",
+    "description": "2.0 exam.js"
+  },
+  "examTips6": {
+    "message": "Imtihonlar topilmadi.",
+    "description": "2.0 exam.js"
+  },
+  "noExam": {
+    "message": "Imtihonlar topilmadi.",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips": {
+    "message": "Tarmoq xatosi, bosing ",
+    "description": "2.0 exam.js"
+  },
+  "networkErrorTips2": {
+    "message": "Tarmoq xatosi! Yangilash uchun {button} tugmasini bosing.",
+    "description": "2.0 {filename}"
+  },
+  "loadErrorTips": {
+    "message": "Yuklash xatosi, bosing ",
+    "description": "2.0 exam.js"
+  },
+  "reload": {
+    "message": "Yangilash",
+    "description": "2.0 exam.js"
+  },
+  "unlimited": {
+    "message": "Cheklanmagan",
+    "description": "2.0 exam.js"
+  },
+  "examTips7": {
+    "message": "Siz imtihoni o'chirishni istaysizmi?",
+    "description": "2.0 exam.js"
+  },
+  "deletePaper": {
+    "message": "Imtihoni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "deleteSuccess": {
+    "message": "Muvaffaqiyatli o'chirildi!",
+    "description": "2.0 exam.js"
+  },
+  "deleteFailed": {
+    "message": "O'chirish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 exam.js"
+  },
+  "batchRemarkQue": {
+    "message": "Partiyaviy baholash",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips1": {
+    "message": "Eslatma: Agar bir necha urinishlarga ruxsat berilgan bo'lsa, standart ravishda oxirgi javob yozuvi ko'rsatiladi.",
+    "description": "2.0 exam.js"
+  },
+  "totalQue": {
+    "message": "Jami {n} ",
+    "description": "2.0 exam.js"
+  },
+  "queOf": {
+    "message": "{n} ",
+    "description": "2.0 exam.js"
+  },
+  "queIndex": {
+    "message": "Savol {n} ",
+    "description": "2.0 exam.js"
+  },
+  "answeringCount": {
+    "message": "Urinish {n}  ",
+    "description": "2.0 exam.js"
+  },
+  "seeDetails": {
+    "message": "Batafsil ma'lumotlarni ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "allAnswer": {
+    "message": "Barcha javoblar",
+    "description": "2.0 exam.js"
+  },
+  "thisQueFullScore": {
+    "message": "Mumkin bo'lgan ballar: {grade} ",
+    "description": "2.0 exam.js"
+  },
+  "noMark": {
+    "message": "Baholangan emas",
+    "description": "2.0 exam.js"
+  },
+  "hasMarked": {
+    "message": "Baholangan",
+    "description": "2.0 exam.js"
+  },
+  "batchScore": {
+    "message": "Partiyaviy baholash",
+    "description": "2.0 exam.js"
+  },
+  "openedAnonymousMarking": {
+    "message": "Anonim baholash yoqilgan",
+    "description": "2.0 exam.js"
+  },
+  "preview": {
+    "message": "Oldindan ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "download": {
+    "message": "Yuklab olish",
+    "description": "2.0 exam.js"
+  },
+  "modifyScore": {
+    "message": "Ballni tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "approximateAnswerBatchScore": {
+    "message": "O'xshash javoblar uchun partiyaviy baholash",
+    "description": "2.0 exam.js"
+  },
+  "inputScore": {
+    "message": "Ballni kiritish uchun bosing",
+    "description": "2.0 exam.js"
+  },
+  "fullScore": {
+    "message": "Jami mumkin bo'lgan ",
+    "description": "2.0 exam.js"
+  },
+  "save": {
+    "message": "Saqlash",
+    "description": "2.0 exam.js"
+  },
+  "noStudent": {
+    "message": "Boshqa talabalar yo'q",
+    "description": "2.0 exam.js"
+  },
+  "commit": {
+    "message": "Yuborish",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips2": {
+    "message": "Baho berish uchun boshqa savollar yo'q",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips3": {
+    "message": "Eslatma: siz barcha talabalar uchun bu savolni partiyaviy ravishda baholashingiz va keyin ba'zi talabalar uchun ballni alohida tahrirlashingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentPreview": {
+    "message": "Qo'shimchani oldindan ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips4": {
+    "message": "Baholash uchun talabalar orasidan tizim topdi ",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips5": {
+    "message": "o'xshash javoblar. Agar siz qidiruv natijalarini qabul qilsangiz, ballni saqlash uchun OK tugmasini bosing.",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[0]": {
+    "message": "Birdan bir tanlash",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[1]": {
+    "message": "Ko'p tanlash",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[2]": {
+    "message": "Bo'sh joyni to'ldirish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[3]": {
+    "message": "To'g'ri/yolg'on",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[4]": {
+    "message": "Essa savoli",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[5]": {
+    "message": "Moslash",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[6]": {
+    "message": "O'qish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[7]": {
+    "message": "Eshitish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[8]": {
+    "message": "Yozish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[9]": {
+    "message": "Tarjima",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[10]": {
+    "message": "Bo'sh joylarni to'ldirish testi",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[11]": {
+    "message": "Tartib",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[12]": {
+    "message": "Tushuntirish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[13]": {
+    "message": "Grammatika",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[14]": {
+    "message": "Lug'at",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[15]": {
+    "message": "Til - Og'zaki",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[16]": {
+    "message": "So'z banki",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[17]": {
+    "message": "Fayl yuklash",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[18]": {
+    "message": "Til - Ovoz bilan o'qish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[19]": {
+    "message": "O'qish - Bo'sh joyni to'ldirish",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[20]": {
+    "message": "Essa",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[21]": {
+    "message": "Tahlil",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[22]": {
+    "message": "Ko'p tanlash menyusi",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[23]": {
+    "message": "Kombinatsiya",
+    "description": "2.0 exam.js"
+  },
+  "queTypeArray[24]": {
+    "message": "Hisoblash formulas",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[0]": {
+    "message": "Juda oddiy",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[1]": {
+    "message": "Oddiy",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[2]": {
+    "message": "O'rtacha",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[3]": {
+    "message": "Qiyin",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray[4]": {
+    "message": "Juda qiyin",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips6": {
+    "message": "Bu talaba javob bermagan",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips7": {
+    "message": "Baholangan bo'lmagan javoblar orasida o'xshash javoblar topilmadi",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips8": {
+    "message": "Ballni kiritish uchun bosing",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips9": {
+    "message": "Faqat bir xonali kasrli sonli to'g'ri ball kiriting",
+    "description": "2.0 exam.js"
+  },
+  "remarkTips10": {
+    "message": "Ball umumiy mumkin bo'lgan balldan katta bo'lishi mumkin emas",
+    "description": "2.0 exam.js"
+  },
+  "timesOf": {
+    "message": "{n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
+  },
+  "baseInformation": {
+    "message": "Asosiy ma'lumotlar",
+    "description": "2.0 exam.js"
+  },
+  "examNameCl": {
+    "message": "Imtihon nomi: ",
+    "description": "2.0 exam.js"
+  },
+  "answerDurationCl": {
+    "message": "Imtihon vaqtidan foydalanilgan: {count} ",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOf": {
+    "message": "Urinishlar: {count}",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "passScoreCl": {
+    "message": "O'tish balli: ",
+    "description": "2.0 exam.js"
+  },
+  "participtionWaysCl": {
+    "message": "Ruxsat etilgan qurilmalar: ",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicTimeCl": {
+    "message": "Natijalarni ko'rsatish: ",
+    "description": "2.0 exam.js"
+  },
+  "resultPublicScopeCl": {
+    "message": "Nima ko'rsatiladi: ",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationCl": {
+    "message": "Yuzni tekshirish: ",
+    "description": "2.0 exam.js"
+  },
+  "opened": {
+    "message": "Yoqilgan",
+    "description": "2.0 exam.js"
+  },
+  "notOpened": {
+    "message": "Yoqilgan emas",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCode": {
+    "message": "Zaxira tekshirish kodi",
+    "description": "2.0 exam.js"
+  },
+  "detailTips1": {
+    "message": "1. Agar yuzni tekshirish muvaffaqiyatsiz bo'lsa yoki mavjud bo'lmasa, bu kod imtihon topshiruvchini imtihonga ruxsat berish uchun ishlatiladi.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips2": {
+    "message": "2. Kod 15 daqiqa davomida amal qiladi. 15 daqiqadan keyin, siz bu yerga kelib yangisini olishingiz kerak.",
+    "description": "2.0 exam.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "Talabaning yuz surati tekshiruvchi",
+    "description": "2.0 exam.js"
+  },
+  "sets": {
+    "message": " ",
+    "description": "2.0 exam.js"
+  },
+  "enabled": {
+    "message": "Faollashtirilgan",
+    "description": "2.0 exam.js"
+  },
+  "queNumberCl": {
+    "message": "Bo'lim savollari: ",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreCl": {
+    "message": "Jami mumkin bo'lgan: ",
+    "description": "2.0 exam.js"
+  },
+  "setExamStructure": {
+    "message": "Imtihon tuzilmasini o'rnatish",
+    "description": "2.0 exam.js"
+  },
+  "phone": {
+    "message": "Mobil qurilmalar",
+    "description": "2.0 exam.js"
+  },
+  "pcAndMobile": {
+    "message": "Shaxsiy kompyuter va mobil qurilma",
+    "description": "2.0 exam.js"
+  },
+  "notShow": {
+    "message": "Ko'rsatilmaydi",
+    "description": "2.0 exam.js"
+  },
+  "commitImmediatelyShow": {
+    "message": "Darhol",
+    "description": "2.0 exam.js"
+  },
+  "cannotAllForbidden": {
+    "message": "Hech bo'lmaganda bir imtihonni saqlang",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthentication": {
+    "message": "Yuzni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "myAuthenticationPhoto": {
+    "message": "Mening tekshirish uchun suratim",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips1": {
+    "message": "Yuz suratingizni yuklash uchun bosing",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips2": {
+    "message": "Eslatma: ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips3": {
+    "message": "Sizning yuz suratingiz imtihonga qatnashish uchun yuzni tekshirish uchun ishlatiladi. Iltimos, o'zingizning yuz suratingizni yuklang. O'qituvchi siz yuklagan surat sizning o'zingiz ekanligini tekshiradi va ko'rib chiqadi. Agar yo'q bo'lsa, bu xiyonat deb hisoblanadi. Siz imtihonga qatnasha olmaysiz yoki imtihondan o'ta olmaysiz.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips4": {
+    "message": " Surat yuklangandan so'ng yangilanishi/almashtirilishi mumkin emas. ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips5": {
+    "message": "Yuklashdan oldin, bu tayyor bo'lganini tekshiring.",
+    "description": "2.0 exam.js"
+  },
+  "authenticatePhoto": {
+    "message": "Tanlangan surat",
+    "description": "2.0 exam.js"
+  },
+  "reUpload": {
+    "message": "Qayta yuklash",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips6": {
+    "message": "Uni yuklashdan oldin u ishlayotganini tekshirish uchun sinab ko'ring",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips7": {
+    "message": "Test uchun bosing",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips8": {
+    "message": "Iltimos, kameraga qarang va etarli yorug'lik borligiga ishonch hosil qiling",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthenticateFailed": {
+    "message": "Yuzni tekshirish muvaffaqiyatsiz bo'ldi",
+    "description": "2.0 exam.js"
+  },
+  "reTry": {
+    "message": "Qayta urinish",
+    "description": "2.0 exam.js"
+  },
+  "authenticateSuccess": {
+    "message": "Yuzni tekshirish muvaffaqiyatli o'tdi",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips9": {
+    "message": "O'qituvchingizdan yoki nazoratchidan tekshirish kodini so'rang va quyida kodni kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "verificationCodeError": {
+    "message": "Noto'g'ri tekshirish kodi!",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips10": {
+    "message": "Suratni kesish",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips11": {
+    "message": "Ramkani/yoki ramka chetini surish orqali kesishni sozlash",
+    "description": "2.0 exam.js"
+  },
+  "auditor": {
+    "message": "Tekshiruvchi: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTimeCl": {
+    "message": "Tekshirish vaqti: ",
+    "description": "2.0 exam.js"
+  },
+  "refuseReasonCl": {
+    "message": "Rad etish sababi: ",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips12": {
+    "message": "Surat shaxsga mos kelmaydi",
+    "description": "2.0 exam.js"
+  },
+  "waitTeaAudit": {
+    "message": "Ko'rib chiqish uchun kutilmoqda",
+    "description": "2.0 exam.js"
+  },
+  "auditPassed": {
+    "message": "Qabul qilingan",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditPassVerb": {
+    "message": "Qabul qilish",
+    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+  },
+  "auditFailed": {
+    "message": "Rad etilgan",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips13": {
+    "message": "Yuzni tekshirish uchun ishlayotganini tekshirish uchun suratni sinab ko'ring",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips14": {
+    "message": "Fayl hajmi 10 MB dan oshmasligi kerak",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips1": {
+    "message": "Ushbu imtihon uchun anonim baholash yoqilgan",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips2": {
+    "message": "Menga tayinlangan imtihonlar: ",
+    "description": "2.0 exam.js"
+  },
+  "readedCl": {
+    "message": "Baholangan: ",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedCl": {
+    "message": "Baholangan emas: ",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips3": {
+    "message": "Imtihon tashkilotchisi baholash uchun imtihonlar sonini tayinlaydi",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips4": {
+    "message": "Yuzni tekshirish orqali imtihonga kirish",
+    "description": "2.0 exam.js"
+  },
+  "toBeAudit": {
+    "message": "Tekshirish uchun",
+    "description": "2.0 exam.js"
+  },
+  "thisTimeExamPhoto": {
+    "message": "Ushbu imtihon uchun suratlar",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips5": {
+    "message": "Tekshirish kodi orqali imtihonga kirish",
+    "description": "2.0 exam.js"
+  },
+  "studentNOCl2": {
+    "message": "Talaba IDsi: {no}",
+    "description": "2.0 {filename}"
+  },
+  "classOf": {
+    "message": "Sinf: {className}",
+    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
+  },
+  "waitApproved": {
+    "message": "Kutilmoqda",
+    "description": "2.0 exam.js"
+  },
+  "examinationBehaviorTrajectory": {
+    "message": "Amal jurnali",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips6": {
+    "message": "Tizim ruxsat etilganidan ko'p shubhali xatti-harakatlarni aniqlagani uchun, sizning imtihoningiz majburiy ravishda yuborildi.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips7": {
+    "message": "Imtihon tugaganda, tizim avtomatik ravishda imtihoni yuboradi",
+    "description": "2.0 exam.js"
+  },
+  "computerTerminal": {
+    "message": "Shaxsiy kompyuter",
+    "description": "2.0 exam.js"
+  },
+  "mobileTerminal": {
+    "message": "Mobil",
+    "description": "2.0 exam.js"
+  },
+  "mobileApp": {
+    "message": "ULearning APP",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips8": {
+    "message": "Juda uzoq qoldi, shubhali xatti-harakat + 1",
+    "description": "2.0 exam.js"
+  },
+  "intoPage": {
+    "message": "Sahifaga kirdi",
+    "description": "2.0 exam.js"
+  },
+  "leavePage": {
+    "message": "Sahifadan chiqdi",
+    "description": "2.0 exam.js"
+  },
+  "commitExam": {
+    "message": "Imtihoni yubordi",
+    "description": "2.0 exam.js"
+  },
+  "batchArrangement": {
+    "message": "Sessiyalar",
+    "description": "2.0 exam.js"
+  },
+  "examRoomArrangement": {
+    "message": "Inshootlar",
+    "description": "2.0 exam.js"
+  },
+  "markExamArrangement": {
+    "message": "Baholash",
+    "description": "2.0 exam.js"
+  },
+  "markingTips1": {
+    "message": "Manual baholashli savollarni o'z ichiga olgan imtihonlar: ",
+    "description": "2.0 exam.js"
+  },
+  "markingTips2": {
+    "message": "Baholashni teng taqsimlash",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumberCl": {
+    "message": "Baholangan emas:",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumberCl": {
+    "message": "Baholangan: ",
+    "description": "2.0 exam.js"
+  },
+  "toBeApprovedNumber": {
+    "message": "Baholangan emas",
+    "description": "2.0 exam.js"
+  },
+  "approvedNumber": {
+    "message": "Baholangan",
+    "description": "2.0 exam.js"
+  },
+  "closeAnonymousMarking": {
+    "message": "Anonim baholashni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "openAnonymousMarking": {
+    "message": "Anonim baholashni yoqish",
+    "description": "2.0 exam.js"
+  },
+  "teacher": {
+    "message": "O'qituvchi",
+    "description": "2.0 exam.js"
+  },
+  "markingTips3": {
+    "message": "Baholovchi",
+    "description": "2.0 exam.js"
+  },
+  "markingTips4": {
+    "message": "Tayinlangan",
+    "description": "2.0 exam.js"
+  },
+  "participants": {
+    "message": "Ha",
+    "description": "2.0 exam.js"
+  },
+  "noParticipants": {
+    "message": "Yo'q",
+    "description": "2.0 exam.js"
+  },
+  "finished": {
+    "message": "Yakunlangan",
+    "description": "2.0 exam.js"
+  },
+  "markRecord": {
+    "message": "Baholash yozuvlari",
+    "description": "2.0 exam.js"
+  },
+  "teacherCl": {
+    "message": "O'qituvchi: ",
+    "description": "2.0 exam.js"
+  },
+  "markTime": {
+    "message": "Baholangan vaqti",
+    "description": "2.0 exam.js"
+  },
+  "viewMarkDetail": {
+    "message": "Batafsil ma'lumotlarni ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "markingTips5": {
+    "message": "Tayinlangan imtihonlar soni manual baholashli savollarni o'z ichiga olgan imtihonlar sonidan oshmasligi kerak",
+    "description": "2.0 exam.js"
+  },
+  "arrangingExamRoom": {
+    "message": "Imtihon inshootini rejalashtirish",
+    "description": "2.0 exam.js"
+  },
+  "exportTable": {
+    "message": "Rejalashtirishni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "batch": {
+    "message": "Sessiya",
+    "description": "2.0 exam.js"
+  },
+  "batchNo": {
+    "message": "Sessiyalar: {n} ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "batchNoTime": {
+    "message": "Sessiya {n}: {startTime} dan {endTime} gacha ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "clearExamRoomPlan": {
+    "message": "Inshoot rejalashtirishni olib tashlash",
+    "description": "2.0 exam.js"
+  },
+  "noDesignatedExamRoom": {
+    "message": "-Imtihon inshooti rejalashtirilmagan-",
+    "description": "2.0 exam.js"
+  },
+  "examRoom": {
+    "message": "Imtihon inshooti",
+    "description": "2.0 exam.js"
+  },
+  "classAndStudent": {
+    "message": "Sinf/Talaba",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber": {
+    "message": "O'rindiqlar soni",
+    "description": "2.0 exam.js"
+  },
+  "examStuNumber": {
+    "message": "Imtihon topshiruvchilari",
+    "description": "2.0 exam.js"
+  },
+  "remainSeat": {
+    "message": "Mavjud o'rindiqlar",
+    "description": "2.0 exam.js"
+  },
+  "invigilator": {
+    "message": "Nazoratchi",
+    "description": "2.0 exam.js"
+  },
+  "etcOfPeople": {
+    "message": "{name}..., {n} talaba",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+  },
+  "etcOf": {
+    "message": "{name}...",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+  },
+  "peopleOf": {
+    "message": "[{n}]",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "empty": {
+    "message": "Bo'sh",
+    "description": "2.0 exam.js"
+  },
+  "nnallocated": {
+    "message": "Qo'shish uchun bosing",
+    "description": "2.0 exam.js"
+  },
+  "exanStuList": {
+    "message": "Imtihon topshiruvchilari ro'yxati",
+    "description": "2.0 exam.js"
+  },
+  "chooseInvigilator": {
+    "message": "Nazoratchini tanlang",
+    "description": "2.0 exam.js"
+  },
+  "inputTeaNameSearch": {
+    "message": "Qidirish uchun o'qituvchi ismini kiriting",
+    "description": "2.0 exam.js"
+  },
+  "roomTips1": {
+    "message": "Excel shablonini yuklab oling va shablon talablari bo'yicha talabalar imtihon joyi ma'lumotlarini to'ldiring.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips2": {
+    "message": "Are you sure you want to delete all exam facilities and proctors for this session?",
+    "description": "2.0 exam.js"
+  },
+  "addBatch": {
+    "message": "Sessiya qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "someBatch": {
+    "message": "Jami {count} sessiya",
+    "description": "2.0 exam.js"
+  },
+  "time": {
+    "message": "Vaqt",
+    "description": "2.0 exam.js"
+  },
+  "participantsClassAndStu": {
+    "message": "Classes/Students",
+    "description": "2.0 exam.js"
+  },
+  "shouldArrivePeople": {
+    "message": "Barcha imtihon topshiruvchilari",
+    "description": "2.0 exam.js"
+  },
+  "participantsNumber": {
+    "message": "Boshlangan",
+    "description": "2.0 exam.js"
+  },
+  "nonParticipantsNumber": {
+    "message": "Boshlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "studentBrackets": {
+    "message": "[Student]",
+    "description": "2.0 exam.js"
+  },
+  "someClassAndStu": {
+    "message": " classes/students",
+    "description": "2.0 exam.js"
+  },
+  "modify": {
+    "message": "Tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "checkAll": {
+    "message": "Hammasini belgilash",
+    "description": "2.0 exam.js"
+  },
+  "expandEndTime": {
+    "message": "Extend Exam Time",
+    "description": "2.0 exam.js"
+  },
+  "examTimeCl": {
+    "message": "Imtihon vaqti: ",
+    "description": "2.0 exam.js"
+  },
+  "startTime": {
+    "message": "Boshlanish vaqti",
+    "description": "2.0 exam.js"
+  },
+  "endTime": {
+    "message": "Tugash vaqti",
+    "description": "2.0 exam.js"
+  },
+  "participantsPeople": {
+    "message": "Imtihon topshiruvchilari: ",
+    "description": "2.0 exam.js"
+  },
+  "addClass": {
+    "message": "Sinf qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "addStudent": {
+    "message": "Talaba qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "selectClass": {
+    "message": "Sinfni tanlash",
+    "description": "2.0 exam.js"
+  },
+  "selectStudent": {
+    "message": "Talabani tanlash",
+    "description": "2.0 exam.js"
+  },
+  "allTeacher": {
+    "message": "Barcha o'qituvchilar",
+    "description": "2.0 exam.js"
+  },
+  "inputClassNameSearch": {
+    "message": "Enter class name to search",
+    "description": "2.0 exam.js"
+  },
+  "roomTips3": {
+    "message": "Enter student name/student ID to search",
+    "description": "2.0 exam.js"
+  },
+  "roomTips4": {
+    "message": "O'qituvchiga hech qanday sinf tayinlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "roomTips5": {
+    "message": "Sinf topilmadi.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips6": {
+    "message": "O'quvchi topilmadi.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips7": {
+    "message": "O'quvchi yo'q",
+    "description": "2.0 exam.js"
+  },
+  "batchExpand": {
+    "message": "Session extends {count} min ",
+    "description": "2.0 exam.js"
+  },
+  "roomTips8": {
+    "message": "Eslatma: Imtihon muddati uzaytirilgandan so'ng, kechikgan yoki boshqa sabablarga ko'ra imtihon vaqti yetarli bo'lmagan talabalarning imtihon vaqtlari mos ravishda uzaytiriladi. Imtihonni odatdagidek topshirgan va yuborgan talabalar ta'sir qilmaydi.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips9": {
+    "message": "Muddatni uzaytirish 1 dan 1000 gacha bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "expandSuccess": {
+    "message": "Extended successfully!",
+    "description": "2.0 exam.js"
+  },
+  "expandFailed": {
+    "message": "Kengaytirib bo'lmadi!",
+    "description": "2.0 exam.js"
+  },
+  "roomTips10": {
+    "message": "Deleting this session may remove the exam responses associated with this session. Are you sure you want to delete it?",
+    "description": "2.0 exam.js"
+  },
+  "roomTips11": {
+    "message": "Are you sure you want to delete this exam facility?",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch": {
+    "message": "Sessiyani o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "roomTips12": {
+    "message": "Set the session time",
+    "description": "2.0 exam.js"
+  },
+  "roomTips13": {
+    "message": "Imtihon topshiruvchilarini tanlang (sinflar/talabalar)",
+    "description": "2.0 exam.js"
+  },
+  "monitor": {
+    "message": "Monitor",
+    "description": "2.0 exam.js"
+  },
+  "openedFaceVerification": {
+    "message": "Face verification is enabled",
+    "description": "2.0 exam.js"
+  },
+  "viewStandbyVerificationCode": {
+    "message": "Tekshiruv kodini ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips1": {
+    "message": "1. Use this code to allow an examinee to take the exam if the face verification failed or is not available.",
+    "description": "2.0 exam.js"
+  },
+  "monitorTips2": {
+    "message": "2. The code is valid for 15 minutes. After 15 minutes, you need to come here to get a new one.",
+    "description": "2.0 exam.js"
+  },
+  "allExamRoom": {
+    "message": "Barcha imtihon vositalari",
+    "description": "2.0 exam.js"
+  },
+  "inputNameAndStuNoSearch": {
+    "message": "Enter name/student ID to search",
+    "description": "2.0 exam.js"
+  },
+  "exportMonitorInfo": {
+    "message": "Kuzatuv ma'lumotlarini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportPhotos": {
+    "message": "Fotosuratni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "noEnterExam": {
+    "message": "Boshlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "byVerificationCode": {
+    "message": "Tekshiruv kodi orqali",
+    "description": "2.0 exam.js"
+  },
+  "intoExam": {
+    "message": "Imtihoni boshlash",
+    "description": "2.0 exam.js"
+  },
+  "answering": {
+    "message": "Jarayonda",
+    "description": "2.0 exam.js"
+  },
+  "handInExam": {
+    "message": "Yuborilgan",
+    "description": "2.0 exam.js"
+  },
+  "equipment": {
+    "message": "Device",
+    "description": "2.0 exam.js"
+  },
+  "verificationType": {
+    "message": "Tekshirish usuli",
+    "description": "2.0 exam.js"
+  },
+  "intoExamTime": {
+    "message": "Boshlangan vaqti",
+    "description": "2.0 exam.js"
+  },
+  "answerTimeMinite": {
+    "message": "Davomiylik (daqiqa)",
+    "description": "2.0 exam.js"
+  },
+  "faceVerification": {
+    "message": "Yuzni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "verificationCode": {
+    "message": "Tekshirish kodi",
+    "description": "2.0 exam.js"
+  },
+  "abnormalRecord": {
+    "message": "Belgilangan yozuvlar",
+    "description": "2.0 exam.js"
+  },
+  "haveEntered": {
+    "message": "Boshlangan",
+    "description": "2.0 exam.js"
+  },
+  "notEnter": {
+    "message": "Boshlanmagan",
+    "description": "2.0 exam.js"
+  },
+  "beAnswering": {
+    "message": "Jarayonda",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl": {
+    "message": "Eslatmalar: ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips1": {
+    "message": "Yuzni tekshirish yoqilgan imtihonlar uchun talabalarning yuz fotosuratlari oldindan yuklanishi kerak. Yuz fotosuratlari siz tomonidan partiyaviy ravishda yoki talabalar tomonidan yuklanishi mumkin. Siz talabalar tomonidan yuklanishi photosuratlani tekshirishingiz kerak. Biroq, imtihon sozlamalarida siz talabalarni yuz fotosuratlari tekshirilmagan holda imtihon topshirishiga ruxsat berishni tanlashingiz mumkin. Aks holda, yuz fotosuratlari tekshirilmagan va qabul qilinmagan talabalar imtihon topshirishga ruxsat berilmaydi.",
+    "description": "2.0 exam.js"
+  },
+  "batchExportPhotos": {
+    "message": "Partiyaviy fotosuratlar import qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportAuthenticationInfo": {
+    "message": "Fotosuratni tekshirishni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "unuploadedPhotos": {
+    "message": "Yuklanmagan",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "unuploadedPhotosAlt": {
+    "message": "Fotosurat mavjud emas",
+    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+  },
+  "batchOpration": {
+    "message": "Partiyaviy amallar",
+    "description": "2.0 exam.js"
+  },
+  "finish": {
+    "message": "Done",
+    "description": "2.0 exam.js"
+  },
+  "checkAllWholePage": {
+    "message": "Ushbu sahifadagi hammasini tanlash",
+    "description": "2.0 exam.js"
+  },
+  "batchAudit": {
+    "message": "Partiyaviy fotosuratlarni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "batchClearPhoto": {
+    "message": "Partiyaviy fotosuratlarni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "replacePhoto": {
+    "message": "Yangi fotosurat yuklash",
+    "description": "2.0 exam.js"
+  },
+  "reAudit": {
+    "message": "Qayta tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "photoUploader": {
+    "message": "Yuklagan: ",
+    "description": "2.0 exam.js"
+  },
+  "photoUploadTimeCl": {
+    "message": "Yuklanish vaqti: ",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditorCl": {
+    "message": "Ko'rib chiqgan: ",
+    "description": "2.0 exam.js"
+  },
+  "photoAuditTimeCl": {
+    "message": "Ko'rib chiqilgan vaqti: ",
+    "description": "2.0 exam.js"
+  },
+  "batchExportAuthenticationPhoto": {
+    "message": "Talabalar yuz fotosuratlari partiyaviy import qilish",
+    "description": "2.0 exam.js"
+  },
+  "authenticationPhotoRequire": {
+    "message": "Yuz fotosuratiga talablar",
+    "description": "2.0 exam.js"
+  },
+  "auditTips2": {
+    "message": "Format: jpg, jpeg, png va bmp.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips3": {
+    "message": "Kenglik x Balandlik: 413x295 px yoki bir xil o'lchovga ega bo'lgan boshqa o'lcham tavsiya etiladi.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips4": {
+    "message": "Fotosurat nomi talaba IDsi ni o'z ichiga olishi kerak va boshqa raqamlar bo'lmasligi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips5": {
+    "message": "Agar sizning maktabingiz talaba ma'lumotlarini ULearningga yuborish uchun talaba ma'lumotlari tizimidan (SIS) foydalanayotgan bo'lsa. Biz maktabingizni SIS dan talabalarning yuz fotosuratlari oldindan yuklashni tavsiya etamiz.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips6": {
+    "message": "Photo Naming Examples",
+    "description": "2.0 exam.js"
+  },
+  "auditTips7": {
+    "message": "Zhang San",
+    "description": "2.0 exam.js"
+  },
+  "auditTips8": {
+    "message": "Zip all student facial photos into a .zip file to upload.",
+    "description": "2.0 exam.js"
+  },
+  "uploadPhoto": {
+    "message": "Yuklash",
+    "description": "2.0 exam.js"
+  },
+  "cancelUpload": {
+    "message": "Bekor qilish",
+    "description": "2.0 exam.js"
+  },
+  "batchAuditAuthenticationPhoto": {
+    "message": "Talabalar yuz fotosuratlari partiyaviy tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "auditTips9": {
+    "message": "Click to enter the reason(s) why the facial photo is unacceptable. For example, it is not this student's facial photo.",
+    "description": "2.0 exam.js"
+  },
+  "batchClearAuthenticationPhoto": {
+    "message": "Partiyaviy fotosuratlarni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "auditTips26": {
+    "message": "Removing photos are unrecoverable. Are you sure you want to remove these ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips10": {
+    "message": " student facial photos?",
+    "description": "2.0 exam.js"
+  },
+  "auditTips12": {
+    "message": "Oxirgi tasvir yuklanishi uchun kuting",
+    "description": "2.0 exam.js"
+  },
+  "auditTips13": {
+    "message": "Ko'rib chiqish uchun talabani tanlang",
+    "description": "2.0 exam.js"
+  },
+  "auditTips14": {
+    "message": "Fotosuratini o'chirishni istagan talabani tanlang",
+    "description": "2.0 exam.js"
+  },
+  "auditTips15": {
+    "message": "Yuklanadigan zip fayli 1 GB dan oshib ketmasligi kerak",
+    "description": "2.0 exam.js"
+  },
+  "uploaded": {
+    "message": "Yuklanildi",
+    "description": "2.0 exam.js"
+  },
+  "auditTips16": {
+    "message": "Yuklash yakunlandi! Fotosuratlar to'g'ri talabaga mos kelmoqda…",
+    "description": "2.0 exam.js"
+  },
+  "auditTips17": {
+    "message": "Import tugadi. Muvaffaqiyatli import qilingan ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips18": {
+    "message": "tekshirilgan fotosuratlar. Muvaffaqiyatsiz",
+    "description": "2.0 exam.js"
+  },
+  "auditTips19": {
+    "message": " photos. The student ID or photo file format for the following students are incorrect (",
+    "description": "2.0 exam.js"
+  },
+  "auditTips20": {
+    "message": "Import tugadi. Muvaffaqiyatli import qilingan ",
+    "description": "2.0 exam.js"
+  },
+  "auditTips21": {
+    "message": "student facial photos.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips22": {
+    "message": "Tanlangan .zip faylida fotosuratlar topilmadi. To'g'ri faylni tanlaganingizga ishonch hosil qiling.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips23": {
+    "message": "Photo importing error!",
+    "description": "2.0 exam.js"
+  },
+  "auditTips24": {
+    "message": "Yuklash muvaffaqiyatsiz! Fayl formatini tekshiring.",
+    "description": "2.0 exam.js"
+  },
+  "auditTips25": {
+    "message": "Yuklash xatosi!",
+    "description": "2.0 exam.js"
+  },
+  "myQuestionLibrary": {
+    "message": "My Question Bank",
+    "description": "2.0 exam.js"
+  },
+  "examPaperTitle": {
+    "message": "Imtihon nomi",
+    "description": "2.0 exam.js"
+  },
+  "examStructure": {
+    "message": "Imtihon tuzilmasi",
+    "description": "2.0 exam.js"
+  },
+  "queTotalNumberCl": {
+    "message": "Imtihon savollari: ",
+    "description": "2.0 exam.js"
+  },
+  "examPaperFullScore": {
+    "message": "Imtihon ballari: ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips1": {
+    "message": "Mavjud imtihon tuzilmasini nusxalash",
+    "description": "2.0 exam.js"
+  },
+  "inputSectionName": {
+    "message": "Click to enter the section name",
+    "description": "2.0 exam.js"
+  },
+  "scoreCl": {
+    "message": "Ballar: ",
+    "description": "2.0 exam.js"
+  },
+  "moveUp": {
+    "message": "Move up",
+    "description": "2.0 exam.js"
+  },
+  "moveDown": {
+    "message": "Move down",
+    "description": "2.0 exam.js"
+  },
+  "extractQueNumberCl": {
+    "message": "Draw: ",
+    "description": "2.0 exam.js"
+  },
+  "eachContainSubQue": {
+    "message": "Sub-Questions: ",
+    "description": "2.0 exam.js"
+  },
+  "eachQueScoreCl": {
+    "message": "Pts per Question: ",
+    "description": "2.0 exam.js"
+  },
+  "subQueScoreCl": {
+    "message": "Ballar: ",
+    "description": "2.0 exam.js"
+  },
+  "containSubQueType": {
+    "message": "Sub-Question Types: ",
+    "description": "2.0 exam.js"
+  },
+  "extractMenuCl": {
+    "message": "Chizish uchun savol katalogi: ",
+    "description": "2.0 exam.js"
+  },
+  "seleteMenu": {
+    "message": "Katalogni tanlash",
+    "description": "2.0 exam.js"
+  },
+  "randomTips2": {
+    "message": " (The directory is invalid)",
+    "description": "2.0 exam.js"
+  },
+  "randomTips3": {
+    "message": "Eslatma: Kombinatsiyali savol bir nechta kichik savollardan iborat. Faqat bitta kombinatsiyali savol olinishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "addQuestionType": {
+    "message": "Savol turini qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "addSection": {
+    "message": "Bo'lim qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "copyExamStructure": {
+    "message": "Imtihon tuzilmasini nusxalash",
+    "description": "2.0 exam.js"
+  },
+  "selectCourse": {
+    "message": "Kursni tanlash",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "Iltimos, kursni tanlang",
+    "description": "2.0 exam.js"
+  },
+  "selectExam": {
+    "message": "Kurs imtihonini tanlash",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExam": {
+    "message": "Iltimos, kurs imtihonini tanlang",
+    "description": "2.0 exam.js"
+  },
+  "selectExamPaper": {
+    "message": "Imtihonni tanlash",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamPaper": {
+    "message": "Iltimos, imtihonni tanlang",
+    "description": "2.0 exam.js"
+  },
+  "selectExtractMenuCl": {
+    "message": "Chizish uchun savollar katalogini tanlash",
+    "description": "2.0 exam.js"
+  },
+  "schoolQuestionLibrary": {
+    "message": "School Question Bank",
+    "description": "2.0 exam.js"
+  },
+  "randomTips4": {
+    "message": "Hech qanday katalog yaratilmagan! ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips5": {
+    "message": "Avval, borish kerak ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips6": {
+    "message": "My Question Bank ",
+    "description": "2.0 exam.js"
+  },
+  "randomTips7": {
+    "message": " to add a folder (directory).",
+    "description": "2.0 exam.js"
+  },
+  "singleChoiceQ": {
+    "message": "Multiple Choice",
+    "description": "2.0 exam.js"
+  },
+  "multipleChoiceQ": {
+    "message": "Multiple Response",
+    "description": "2.0 exam.js"
+  },
+  "completionQ": {
+    "message": "Fill in the Blank",
+    "description": "2.0 exam.js"
+  },
+  "judgementQ": {
+    "message": "True/False",
+    "description": "2.0 exam.js"
+  },
+  "shortAnswerQ": {
+    "message": "Essay Question",
+    "description": "2.0 exam.js"
+  },
+  "sequencingQ": {
+    "message": "Sequence",
+    "description": "2.0 exam.js"
+  },
+  "comprehensiveQ": {
+    "message": "Combination",
+    "description": "2.0 exam.js"
+  },
+  "pullDownSelectionQ": {
+    "message": "Multiple Drop-down",
+    "description": "2.0 exam.js"
+  },
+  "matchingQ": {
+    "message": "Matching",
+    "description": "2.0 exam.js"
+  },
+  "readingQ": {
+    "message": "Reading",
+    "description": "2.0 exam.js"
+  },
+  "listeningQ": {
+    "message": "Listening",
+    "description": "2.0 exam.js"
+  },
+  "writingQ": {
+    "message": "Writing",
+    "description": "2.0 exam.js"
+  },
+  "translationQ": {
+    "message": "Translation",
+    "description": "2.0 exam.js"
+  },
+  "clozeQ": {
+    "message": "Cloze Test",
+    "description": "2.0 exam.js"
+  },
+  "formulaQ": {
+    "message": "Calculated Formula",
+    "description": "2.0 exam.js"
+  },
+  "descriptionModule": {
+    "message": "Explanation Module",
+    "description": "2.0 exam.js"
+  },
+  "syntaxModule": {
+    "message": "Grammar Module",
+    "description": "2.0 exam.js"
+  },
+  "lexicalModule": {
+    "message": "Vocabulary Module",
+    "description": "2.0 exam.js"
+  },
+  "spokenModule": {
+    "message": "Spoken Language Module",
+    "description": "2.0 exam.js"
+  },
+  "readingQBankedCloze": {
+    "message": "Reading - Gap Filling",
+    "description": "2.0 exam.js"
+  },
+  "attachUploadQ": {
+    "message": "File Upload",
+    "description": "2.0 exam.js"
+  },
+  "listeningObjectivesQ": {
+    "message": "Listening -  Objective Question",
+    "description": "2.0 exam.js"
+  },
+  "completionQDisorder": {
+    "message": "Fill in Blank - Unordered",
+    "description": "2.0 exam.js"
+  },
+  "discussionQ": {
+    "message": "Essay",
+    "description": "2.0 exam.js"
+  },
+  "materialAnalysisQ": {
+    "message": "Analysis",
+    "description": "2.0 exam.js"
+  },
+  "autoGroupPaper": {
+    "message": "Auto-Generate Exam",
+    "description": "2.0 exam.js"
+  },
+  "randomTips8": {
+    "message": "Imtihon nomi 1 dan 200 belgi oralig'ida bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "randomTips9": {
+    "message": "Imtihonga kamida bitta bo'lim qo'shing",
+    "description": "2.0 exam.js"
+  },
+  "randomTips10": {
+    "message": "Bo'lim nomi 1 dan 200 belgi oralig'ida bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "randomTips11": {
+    "message": "Imtihon tuzilmasi to'liq emas. Iltimos, qayta urinishdan oldin tekshirib, kerakli o'zgartirishlarni kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "randomTips12": {
+    "message": "Katalogda etarli savollar yo'q. Boshqa katalog qo'shing.",
+    "description": "2.0 exam.js"
+  },
+  "selectExamRoom": {
+    "message": "Imtihon maydonchasi tanlash",
+    "description": "2.0 exam.js"
+  },
+  "confirmExamRoom": {
+    "message": "Imtihon inshootini tasdiqlang",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips1": {
+    "message": "Har bir sessiyadagi imtihon topshiruvchilar soni: ",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips2": {
+    "message": " (Total number of seats in the selected exam facility should be greater than this value)",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips3": {
+    "message": "Tanlangan imtihon maydonchasidagi o'rindiqlar soni: ",
+    "description": "2.0 exam.js"
+  },
+  "addExamRoom": {
+    "message": "Imtihon maydonchasi qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "examRoomName": {
+    "message": "Imtihon inshooti nomi",
+    "description": "2.0 exam.js"
+  },
+  "type": {
+    "message": "Type",
+    "description": "2.0 exam.js"
+  },
+  "normalClassroom": {
+    "message": "Oddiy sinov xonasi",
+    "description": "2.0 exam.js"
+  },
+  "computerRoom": {
+    "message": "Computer lab",
+    "description": "2.0 exam.js"
+  },
+  "lastStep": {
+    "message": "Back",
+    "description": "2.0 exam.js"
+  },
+  "nextStep": {
+    "message": "Keyingi qadam",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips4": {
+    "message": "Har bir sessiya uchun imtihon maydonchasini tanlang. Har bir sessiya uchun mavjud o'rindiqlar soni talabalar sonidan ko'p bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "seatOf": {
+    "message": "{n} seats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "examStudentOf": {
+    "message": "{n} examinees",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "seatsOf": {
+    "message": "{n} seats",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips5": {
+    "message": "O'rindiqlar tizim tomonidan avtomatik ravishda tayinlanadi. Siz o'rindiqlarni qo'lda tahrirlashingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips6": {
+    "message": "O'rindiqlar tayinlashini tahrirlash uchun sinfni tanlang yoki maydonchani almashtirish uchun ikkita sinfni tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamRoom": {
+    "message": "Imtihon maydonchasini tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "exchangeExamRoom": {
+    "message": "Exchange Exam Facility",
+    "description": "2.0 exam.js"
+  },
+  "saveArranging": {
+    "message": "Saqlash",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips7": {
+    "message": "Siz butun sinfni yoki ba'zi talabalarni boshqa imtihon maydonchasiga ko'chirishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips11": {
+    "message": "Are you sure you want to delete this exam facility?",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips12": {
+    "message": "Click to enter the exam facility name",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips13": {
+    "message": "Enter a number larger than 0",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips14": {
+    "message": "Tanlangan imtihon zalining mavjud o'rindiqlari imtihon sessiyasi ishtirokchilaridan ko'p bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips15": {
+    "message": "Imtihon maydonchasini tanlash",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTip16": {
+    "message": "{n} sessiyasining mavjud o'rindiqlari soni imtihon topshiruvchilari sonidan kam",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "roomEditorTips17": {
+    "message": "Ko'chiriladigan talabalar soni nol bo'lishi mumkin emas",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips18": {
+    "message": "Ko'chiriladigan talabalar soni umumiy talabalar sonidan oshib ketmasligi kerak",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips19": {
+    "message": "Ko'chiriladigan talabalar soni qolgan o'rindiqlari sonidan oshib ketmasligi kerak",
+    "description": "2.0 exam.js"
+  },
+  "roomEditorTips20": {
+    "message": "Qolgan o'rindiqlar yetarli emas",
+    "description": "2.0 exam.js"
+  },
+  "inputExamName": {
+    "message": "Click to enter the course exam name",
+    "description": "2.0 exam.js"
+  },
+  "examPapers": {
+    "message": "Course Exam",
+    "description": "2.0 exam.js"
+  },
+  "appointExamPaper": {
+    "message": "Pre-defined Exam",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips1": {
+    "message": "(Can't be edited after the exam starts)",
+    "description": "2.0 exam.js"
+  },
+  "enable": {
+    "message": "Enable",
+    "description": "2.0 exam.js"
+  },
+  "disable": {
+    "message": "Disable",
+    "description": "2.0 exam.js"
+  },
+  "questionNumber": {
+    "message": "Imtihon savollari: ",
+    "description": "2.0 exam.js"
+  },
+  "passScore": {
+    "message": "O'tish balli",
+    "description": "2.0 exam.js"
+  },
+  "examResult": {
+    "message": "Show Results",
+    "description": "2.0 exam.js"
+  },
+  "immediateDisplay": {
+    "message": "Immediately",
+    "description": "2.0 exam.js"
+  },
+  "afterDaysShow": {
+    "message": "Displays after {n} days",
+    "description": "教师账号 -> 考试 -> 添加考试"
+  },
+  "weekAfterShow": {
+    "message": "{count} week(s) after the exam",
+    "description": "2.0 exam.js"
+  },
+  "noShow": {
+    "message": "Ko'rsatmaslik",
+    "description": "2.0 exam.js"
+  },
+  "examDuration": {
+    "message": "Imtihon davomiyligi",
+    "description": "2.0 exam.js"
+  },
+  "showScope": {
+    "message": "Nima ko'rsatilsin? ",
+    "description": "2.0 exam.js"
+  },
+  "participtionWay": {
+    "message": "Imtihon qurilmasi",
+    "description": "2.0 exam.js"
+  },
+  "onPCExam": {
+    "message": "PC",
+    "description": "2.0 exam.js"
+  },
+  "onMobileExam": {
+    "message": "Mobile device",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips2": {
+    "message": "Ham kompyuter, ham mobil qurilma",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips3": {
+    "message": "Calculated formula questions are not supported by mobile exam yet",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips4": {
+    "message": "{paperName} imtihoni Mobil ilova tomonidan qo'llab-quvvatlanmaydigan test savollarini o'z ichiga oladi. Imtihonni faqat kompyuter uchun imtihonga o'zgartiring yoki qo'llab-quvvatlanmaydigan imtihon savollarini olib tashlang yoki o'zgartiring.",
+    "description": "2.0 exam.js"
+  },
+  "examTimes": {
+    "message": "Imtihon urinishlari",
+    "description": "2.0 exam.js"
+  },
+  "most": {
+    "message": "Maksimal ",
+    "description": "2.0 exam.js"
+  },
+  "mostExamCount": {
+    "message": "{count} time(s)",
+    "description": "2.0 exam.js"
+  },
+  "unlimitTimes": {
+    "message": "Chegara yo'q",
+    "description": "2.0 exam.js"
+  },
+  "lateTip": {
+    "message": "Imtihon boshlanganidan {count} daqiqadan keyin kirishga ruxsat berilmaydi",
+    "description": "2.0 exam.js"
+  },
+  "commitLimitTip": {
+    "message": "{count} daqiqa ichida yuborish mumkin emas",
+    "description": "2.0 exam.js"
+  },
+  "abnormalMonitor": {
+    "message": "Suspicious Behavior Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips5": {
+    "message": "Monitor the number of times a student leaves the exam screen during the exam. If more than ",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips6": {
+    "message": "times, the exam will be submitted involuntarily.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips7": {
+    "message": "Faqat mobil ilova orqali imtihonni qo'llab-quvvatlaydi - talaba ilova ekranidan chiqishini, ilovani yopishini yoki ilovani orqa fonda ishlatishini aniqlaydi",
+    "description": "2.0 exam.js"
+  },
+  "identityVerification": {
+    "message": "Authentication",
+    "description": "2.0 exam.js"
+  },
+  "openFaceVerification": {
+    "message": "Enable face verification",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips8": {
+    "message": "Fotosuratlari ko'rib chiqish jarayonida bo'lgan talabalarni imtihonga kirishiga ruxsat berish",
+    "description": "2.0 exam.js"
+  },
+  "description": {
+    "message": "Explanation",
+    "description": "2.0 exam.js"
+  },
+  "fold": {
+    "message": "Collapse",
+    "description": "2.0 exam.js"
+  },
+  "unfold": {
+    "message": "Expand",
+    "description": "2.0 exam.js"
+  },
+  "publishExam": {
+    "message": "Publish Course Exam",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips9": {
+    "message": " (Optional feature with extra charge. Contact service.sg@ulearning.cn or your LMS admin for more information.)",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips10": {
+    "message": " (The service has expired. If you need to continue to use the service, please contact customer service at service.sg@ulearning.cn or your LMS admin.)",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchs": {
+    "message": "Sessiyani tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "batchs": {
+    "message": "Session",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips11": {
+    "message": "Are you sure you want to delete this session?",
+    "description": "2.0 exam.js"
+  },
+  "publishSuccess": {
+    "message": "Published successfully!",
+    "description": "2.0 exam.js"
+  },
+  "modifyExamSuccess": {
+    "message": "Imtihon muvaffaqiyatli tahrirlandi!",
+    "description": "2.0 exam.js"
+  },
+  "modifyBatchSuccess": {
+    "message": "Sessiya muvaffaqiyatli tahrirlandi!",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips12": {
+    "message": "Takrorlanuvchi imtihonlar olib tashlangan",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips13": {
+    "message": "Javoblar yozuvlari bo'lgan imtihonlarni o'chirib bo'lmaydi",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips14": {
+    "message": "Keep at least one exam",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips15": {
+    "message": "Imtihon nomi 2 dan 100 belgi oralig'ida bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "pleaseSelectExamTime": {
+    "message": "Imtihon davomiyligi 0 ga teng yoki undan katta bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips16": {
+    "message": "Keep at least one exam enabled",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips17": {
+    "message": "O'tish balli {range} oralig'ida bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips18": {
+    "message": "Oraliq.",
+    "description": "2.0 exam.js"
+  },
+  "setExamTips19": {
+    "message": "Imtihon topshiruvchilarini tanlang (sinflar/talabalar)",
+    "description": "2.0 exam.js"
+  },
+  "allBatch": {
+    "message": "Barcha sessiyalar",
+    "description": "2.0 exam.js"
+  },
+  "inputNameSearch": {
+    "message": "Enter name to search",
+    "description": "2.0 exam.js"
+  },
+  "approve": {
+    "message": "Baholash",
+    "description": "2.0 exam.js"
+  },
+  "scoreAnalysis": {
+    "message": "Imtihon natijalari tahlili",
+    "description": "2.0 exam.js"
+  },
+  "averageFinishedTime": {
+    "message": "O'rtacha yakunlash vaqti",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips1": {
+    "message": "Hisobotdagi ma'lumotlar imtihondan o'tmagan o'quvchilarni o'z ichiga olmaydi",
+    "description": "2.0 exam.js"
+  },
+  "statisticsTips2": {
+    "message": "Agar bir nechta urinishlarga ruxsat berilsa, eng yuqori ball hisoblanadi",
+    "description": "2.0 exam.js"
+  },
+  "userNumber": {
+    "message": "Foydalanuvchilar soni",
+    "description": "2.0 exam.js"
+  },
+  "viewQue": {
+    "message": "Imtihon savollarini ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "examInfo": {
+    "message": "Imtihon ma'lumotlari",
+    "description": "2.0 exam.js"
+  },
+  "examinationManagement": {
+    "message": "Imtihon boshqaruvi",
+    "description": "2.0 exam.js"
+  },
+  "examMonitor": {
+    "message": "Imtihon nazorati",
+    "description": "2.0 exam.js"
+  },
+  "analysisReport": {
+    "message": "Analysis Report",
+    "description": "2.0 exam.js"
+  },
+  "class": {
+    "message": "Class",
+    "description": "2.0 exam.js"
+  },
+  "roomTips14": {
+    "message": "Enter student ID/name to search",
+    "description": "2.0 exam.js"
+  },
+  "allStudent": {
+    "message": "Barcha talabalar",
+    "description": "2.0 exam.js"
+  },
+  "auditFailed2": {
+    "message": "Reject",
+    "description": "2.0 exam.js"
+  },
+  "remainSeatOf": {
+    "message": "{n} seats remaining",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+  },
+  "remainSeatOf2": {
+    "message": "{roomName} ({n} seats remaining)",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "modifyRoomTip": {
+    "message": "Move {n} students from {className} (total students: {total}) to the following exam facility: ",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+  },
+  "objectivesQ": {
+    "message": "Auto-Grading Questions",
+    "description": "2.0 exam.js"
+  },
+  "subjectiveQ": {
+    "message": "Manual-Grading Questions",
+    "description": "2.0 exam.js"
+  },
+  "commitTime": {
+    "message": "Submission Time",
+    "description": "2.0 exam.js"
+  },
+  "view": {
+    "message": "Ko'rish",
+    "description": "2.0 exam.js"
+  },
+  "classRange": {
+    "message": "Classes: {className}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "exportDate": {
+    "message": "Eksport sanasi: {date}",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "conceptDesc": {
+    "message": "Concept Notes: ",
+    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+  },
+  "mark": {
+    "message": "Mark",
+    "description": "2.0 exam.js"
+  },
+  "securitySetting": {
+    "message": "Anti-Cheating Settings",
+    "description": "2.0 exam.js"
+  },
+  "answerSetting": {
+    "message": "Javob sozlamalari",
+    "description": "2.0 exam.js"
+  },
+  "attachAccess": {
+    "message": "Mantiqiy savollar uchun biriktiruvchilarga ruxsat",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor": {
+    "message": "Device Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor1": {
+    "message": "Enable device monitoring. Students are not allowed to switch to another device or browser during the exam.",
+    "description": "2.0 exam.js"
+  },
+  "deviceMonitor2": {
+    "message": "Agar qurilmani almashtirish zarur bo'lsa, o'qituvchi tekshiruv kodi berishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor": {
+    "message": "IP Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor1": {
+    "message": "Enable IP monitoring. Students are not allowed to switch to another network during the exam.",
+    "description": "2.0 exam.js"
+  },
+  "ipMonitor2": {
+    "message": "Agar tarmoqni almashtirish zarur bo'lsa, o'qituvchi tekshiruv kodi berishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor": {
+    "message": "Camera Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor1": {
+    "message": "Enable camera monitoring. Student photos will taken randomly every 3 to 5 minutes and displayed on the student exam log page.",
+    "description": "2.0 exam.js"
+  },
+  "photoMonitor2": {
+    "message": "Make sure that the exam devices used by students all have a front-facing camera.",
+    "description": "2.0 exam.js"
+  },
+  "showAfterBatchEnd": {
+    "message": "Barcha imtihon sessiyalari tugaganidan keyin",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitor": {
+    "message": "Screen Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips1": {
+    "message": "(Support the exams via ULearning App only)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips2": {
+    "message": "Enable screen monitoring. The exam will be submitted involuntarily if the students switch from the exam screen to another screen/App more than {count} times {tip}",
+    "description": "tip处的插值是 “（仅支持手机考试）”，因为tip需要独立的设置样式。"
+  },
+  "faceAuth": {
+    "message": "Yuzni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips15": {
+    "message": "Enable face verification. The students need to pass face verification to start the exam.",
+    "description": "2.0 exam.js"
+  },
+  "faceAuthTips16": {
+    "message": "Imtihon oldidan talabalarning yuz fotosuratlarini yuklashingiz kerak.",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime": {
+    "message": "Yuborilgan vaqti",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTime2": {
+    "message": "Submission Time: {time}",
+    "description": "2.0 exam.js"
+  },
+  "minSubmitTimeTips1": {
+    "message": "Imtihon boshlanganidan keyin {count} {minuteTip} ichida imtihon yuborilishga ruxsat berilmaydi",
+    "description": "minuteTip 的插值是分钟，就是下面的minuteTip"
+  },
+  "minuteTip": {
+    "message": "min",
+    "description": "2.0 exam.js"
+  },
+  "batchTips": {
+    "message": "Imtihon topshirish uchun talabalar yoki talabalarni o'z ichiga olgan sinf avval imtihon sessiyasiga qo'shilishi kerak. Sinf imtihoni nashr etilgandan keyin imtihon sessiyasi(larini) yaratish mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "edit": {
+    "message": "Tahrirlash",
+    "description": "2.0 exam.js"
+  },
+  "examTips": {
+    "message": "Imtihon ko'rsatmalari",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips": {
+    "message": "Maksimal 2000 belgi",
+    "description": "2.0 exam.js"
+  },
+  "defaultExamTips": {
+    "message": "Buni kelajakda foydalanish uchun standart shablon sifatida saqlang",
+    "description": "2.0 exam.js"
+  },
+  "detailTips3": {
+    "message": "1. For the exams with the device monitoring and IP monitoring enabled, if it is necessary, a student can switch to another device or network through this verification code.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips4": {
+    "message": "2. For the exams with face verification enabled, a student can start the exam through this verification code if he or she cannot enter the exam via face verification.",
+    "description": "2.0 exam.js"
+  },
+  "detailTips5": {
+    "message": "3. The code is valid for 15 minutes. After 15 minutes, you need to come here to get a new one.",
+    "description": "2.0 exam.js"
+  },
+  "leave": {
+    "message": "Leave",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips4": {
+    "message": "Imtihondan oldin {detectEnv} ni bosing va tarmoq, uskunalar, brauzer va boshqalarining normal ekanligini tasdiqlang.",
+    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
+  },
+  "detectEnv": {
+    "message": "Imtihon qurilmasini muvofiqlikni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto": {
+    "message": "Rasmni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "deletePhoto2": {
+    "message": "Fotosuratni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "replaceDevice": {
+    "message": "Switch Device",
+    "description": "2.0 exam.js"
+  },
+  "replaceIp": {
+    "message": "Switch IP",
+    "description": "2.0 exam.js"
+  },
+  "systemPhoto": {
+    "message": "Captured Photo",
+    "description": "2.0 exam.js"
+  },
+  "inCorrectPhoto": {
+    "message": "Fotosurat foydalanuvchiga mos kelmaydi",
+    "description": "2.0 exam.js"
+  },
+  "photoRemoved": {
+    "message": "Fotosurat o'chirilgan",
+    "description": "2.0 exam.js"
+  },
+  "deviceID": {
+    "message": "Device ID: {id}",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto": {
+    "message": "Are you sure you want to delete all the student photos captured for this class?",
+    "description": "2.0 exam.js"
+  },
+  "confirmDeletePhoto2": {
+    "message": "Are you sure you want to delete the photos captured for this student?",
+    "description": "2.0 exam.js"
+  },
+  "recordShowAfterSubmit": {
+    "message": "Right after submission",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaper": {
+    "message": "Namuna imtihonni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportDemoPaperSuccess": {
+    "message": "Namuna imtihon Imtihon Kutubxonaga saqlanadi",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips1": {
+    "message": "Imtihon tugaganidan keyin",
+    "description": "2.0 exam.js"
+  },
+  "afterExamFinishedTips2": {
+    "message": "{n} days after the exam ended",
+    "description": "2.0 {filename}"
+  },
+  "weekPublish": {
+    "message": "{n} weeks after the exam ended",
+    "description": "2.0 exam.js"
+  },
+  "noPublish": {
+    "message": "Ko'rsatmaslik",
+    "description": "2.0 exam.js"
+  },
+  "deleteBatch2": {
+    "message": "Sessiyani o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "examDaysPublish": {
+    "message": "Imtihon yakunlangandan keyin {n} kun o'tgach natijalar ko'rsatiladi",
+    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+  },
+  "auditTipsClassroom": {
+    "message": "Face verification is on. Student facial photos need to be uploaded in advance. Photos can be imported in bulk by the teacher or uploaded by students. If a facial photo is uploaded by the student, it has to be reviewed and approved by the teacher.",
+    "description": "2.0 exam.js"
+  },
+  "faceServiceTips": {
+    "message": "Face verification and camera monitoring are not enabled for your institute (optional services with extra charge). Contact your LMS admin for details.",
+    "description": "2.0 exam.js"
+  },
+  "borwserTip": {
+    "message": "Siz ishlatayotgan brauzer: {browser}. Iltimos, imtihonni topshirish uchun Chrome dan foydalaning.",
+    "description": "2.0 {filename}"
+  },
+  "offlineTip": {
+    "message": "Imtihonni topshirish uchun avval offline imtihon joyini o'rnatishingiz kerak.",
+    "description": "2.0 {filename}"
+  },
+  "restoreLocalRecord": {
+    "message": "Resume the exam's local answer-record mode",
+    "description": "2.0 {filename}"
+  },
+  "findExamTip": {
+    "message": "Agar siz quyidagi imtihon ro'yxatida topshirishingiz kerak bo'lgan imtihoni topa olmasangiz, to'g'ri hisobga kirdingizmi yoki to'g'ri sinfda ekaningizni tekshiring.",
+    "description": "2.0 {filename}"
+  },
+  "faceServiceTipsNew": {
+    "message": "Face verification and camera monitoring are not enabled for your institute (optional services with extra charge). Contact your LMS admin for details.",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWeb": {
+    "message": "Faqat veb",
+    "description": "2.0 exam.js"
+  },
+  "onlyMobile": {
+    "message": "Faqat ULearning ilovasi",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExe": {
+    "message": "Faqat bloklangan brauzer",
+    "description": "2.0 exam.js"
+  },
+  "unlimit": {
+    "message": "Cheklov yo'q",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips": {
+    "message": "{PCExe} yordamida imtihon topshirish uchun talabalar imtihon davomida imtihon ekranidan chiqishi mumkin emas, bu katta ahamiyatga ega testlar uchun yoki test markazi yoki kompyuter laboratoriyasida o'tkaziladigan imtihonlar uchun mos keladi.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe": {
+    "message": "Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeTips1": {
+    "message": "Ushbu variant uchun mijoz kompyuterida imtihondan oldin ULearning bloklangan brauzer o'rnatilishi kerak. ULearning bloklangan brauzeri hozirda faqat Win7 yoki undan yuqori tizimlarni qo'llab-quvvatlaydi, Mac ni qo'llab-quvvatlamaydi. Tizimning ishlashini ta'minlash uchun rasmiy imtihondan oldin tizimni sinab ko'rishingiz tavsiya etiladi.",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration": {
+    "message": "Imtihon davomiyligi",
+    "description": "2.0 exam.js"
+  },
+  "resultPublic": {
+    "message": "Publication Scope",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorItem": {
+    "message": "Enable the camera monitoring, including snapshot taking, gesture detecting, and suspicious behavior recording. ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorTips": {
+    "message": "Talabalardan qurilmalarining old kamerasini yoqishlari va uni barqaror ushlab turishlari talab qilinadi - faqat shaxsiy kompyuter orqali imtihonlarni qo'llab-quvvatlaydi.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent": {
+    "message": "Camera monitoring includes: ",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent1": {
+    "message": "1. Snapshots: Taking the photo of the student and/or the environment in front of the camera every 1 minute.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent2": {
+    "message": "2. AI-powered Gesture Detection: Monitoring the students' gestures via camera and detecting and making notes of suspicious behaviors such as leaving seat, long-time deviated eye focuses, talking with others, etc.",
+    "description": "2.0 exam.js"
+  },
+  "openMonitorContent3": {
+    "message": "3. Suspicious Behavior Recording: Recording suspicious behaviors and uploading the video for later review.",
+    "description": "2.0 exam.js"
+  },
+  "cameraMonitor": {
+    "message": "Camera Monitoring",
+    "description": "2.0 exam.js"
+  },
+  "PCExe1": {
+    "message": "ULearning Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "PCweb": {
+    "message": "Web",
+    "description": "2.0 exam.js"
+  },
+  "examHeadTips5": {
+    "message": "Bu yerda o'qituvchilar tomonidan nashr etilgan barcha imtihonlar mavjud, imtihonga kirishdan oldin har bir imtihonning tafsilotlarini diqqat bilan ko'rib chiqing.",
+    "description": "2.0 exam.js"
+  },
+  "downloadPCExe": {
+    "message": "ULearning bloklangan brauzerini yuklab olish",
+    "description": "2.0 exam.js"
+  },
+  "webEnvTest": {
+    "message": "Computer Compliance Check",
+    "description": "2.0 exam.js"
+  },
+  "examFaceVerification": {
+    "message": "Imtihon yuzni tekshirish",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCExeBtnTips": {
+    "message": "Iltimos, ULearning bloklangan brauzeri orqali imtihon topshirng",
+    "description": "2.0 exam.js"
+  },
+  "onlyPCWebBtnTips": {
+    "message": "Iltimos, qurilmasining veb brauzeri orqali imtihon topshirng",
+    "description": "2.0 exam.js"
+  },
+  "monitorRecords": {
+    "message": "Monitoring Records",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminder": {
+    "message": "Suspicious Behavior Notifications",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderFilter": {
+    "message": "Shubhali xatti-harakatlarni filtrlash",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle1": {
+    "message": "Suspicious exam answering patterns",
+    "description": "2.0 exam.js"
+  },
+  "mobileExam": {
+    "message": "ULearning ilovasi orqali imtihon",
+    "description": "2.0 exam.js"
+  },
+  "exception1": {
+    "message": "Imtihon ekranidan chiqish davomiyligi > 5 soniya ",
+    "description": "2.0 exam.js"
+  },
+  "exception2": {
+    "message": "Imtihon tizim tomonidan majburiy ravishda yuboriladi",
+    "description": "2.0 exam.js"
+  },
+  "exceptionReminderTitle2": {
+    "message": "Suspicious Gestures",
+    "description": "2.0 exam.js"
+  },
+  "leaveSeat": {
+    "message": "Leaving Seat",
+    "description": "2.0 exam.js"
+  },
+  "deviation": {
+    "message": "Ko'z fokusining og'ish davomiyligi > 2 soniya",
+    "description": "2.0 exam.js"
+  },
+  "deviation1": {
+    "message": "Deviated eye focus",
+    "description": "2.0 exam.js"
+  },
+  "talk": {
+    "message": "Talking with others",
+    "description": "2.0 exam.js"
+  },
+  "examMonitorRecords": {
+    "message": "Imtihon nazorati yozuvlari",
+    "description": "2.0 exam.js"
+  },
+  "answerTrack": {
+    "message": "Imtihon javoblarining naqshlari",
+    "description": "2.0 exam.js"
+  },
+  "clearfixMonitorRecords": {
+    "message": "Kuzatuv yozuvlarini o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "normalState": {
+    "message": "Oddiy holat",
+    "description": "2.0 exam.js"
+  },
+  "confirmClearMonitorRecords": {
+    "message": "Are you sure you want to remove the monitoring records?",
+    "description": "2.0 exam.js"
+  },
+  "timeDay": {
+    "message": "{days} days ",
+    "description": "2.0 exam.js"
+  },
+  "timeHour": {
+    "message": "{hours} hours ",
+    "description": "2.0 exam.js"
+  },
+  "timeSecond": {
+    "message": "{seconds} seconds",
+    "description": "2.0 exam.js"
+  },
+  "UTestName": {
+    "message": "U-Test Exam System",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputName": {
+    "message": "Iltimos, foydalanuvchi nomini kiriting",
+    "description": "2.0 exam.js"
+  },
+  "UTestInputPsd": {
+    "message": "Iltimos, parolni kiriting",
+    "description": "2.0 exam.js"
+  },
+  "UTestLoginErr": {
+    "message": "Noto'g'ri foydalanuvchi nomi va/yoki parol!",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogin": {
+    "message": "Log In",
+    "description": "2.0 exam.js"
+  },
+  "UTestLogout": {
+    "message": "Log Out",
+    "description": "2.0 exam.js"
+  },
+  "UTestDesc": {
+    "message": "Eslatma: ULearning Lockdown Browser faqat imtihon topshirish uchun ishlatiladi. Foydalanuvchi ro'yxatdan o'tish va kursga yozilish ULearning platformasi yoki ULearning ilovasi orqali amalga oshirilishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "recoverLocalExamRecord": {
+    "message": "Recover local answer records",
+    "description": "2.0 exam.js"
+  },
+  "ISee": {
+    "message": "Got It!",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips1": {
+    "message": "Mahalliy javob yozuvlari topilmadi!",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips2": {
+    "message": "Eslatma: Mahalliy javob yozuvlari tarmoq uzilishi kabi ekstremal sharoitlarda javob yozuvlarining yo'qolishi uchun zaxiralardir. Ko'p hollarda qo'lda tiklash talab qilinmaydi. Mahalliy javob yozuvlarini tiklash platformaga yuklangan javob yozuvlarini almashtiradi. Shuning uchun, agar ma'lumotlarni tiklash kerak bo'lsa, javob yozuvlarini qachon saqlaganligingizga e'tibor bering va ehtiyotkorlik bilan amal qiling.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips3": {
+    "message": "Ushbu imtihonning javob yozuvlari yuborilgan va mahalliy javob yozuvlari tiklanishi mumkin emas.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips4": {
+    "message": "Platformada saqlangan javob yozuvlari mahalliy javob yozuvlaridan yangiroq. Javob yozuvlarini tiklash shart emas.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTips5": {
+    "message": "Recovering the local answer records will overwrite the answer records uploaded and saved previously to the platform. Are you sure you want to recover it?",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime": {
+    "message": "Javob yozuvlari mahalliy ravishda saqlangan vaqt ",
+    "description": "2.0 exam.js"
+  },
+  "remoteRecordTime": {
+    "message": "Javob yozuvlari platformaga saqlangan vaqt ",
+    "description": "2.0 exam.js"
+  },
+  "confirmRecover": {
+    "message": "Tasdiqlash",
+    "description": "2.0 exam.js"
+  },
+  "comfirmDelete": {
+    "message": "Are you sure you want to delete?",
+    "description": "2.0 exam.js"
+  },
+  "recover": {
+    "message": "Recover",
+    "description": "2.0 exam.js"
+  },
+  "recoverErrorTips": {
+    "message": "Qayta tiklab bo'lmadi - keyinroq qayta urinib ko'ring!",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips1": {
+    "message": "Eksport vaqti uzoq bo'lishi mumkin, iltimos, sabr qiling.",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips2": {
+    "message": "Agar brauzeringiz popup oynalarni bloklasa, uni har doim popup oynalarni ruxsat berishga o'rnating.",
+    "description": "2.0 exam.js"
+  },
+  "recordProgressTips3": {
+    "message": "Generating the answer records..., completed ",
+    "description": "2.0 exam.js"
+  },
+  "cancelExport": {
+    "message": "Eksportni bekor qilish",
+    "description": "2.0 exam.js"
+  },
+  "randomTips13": {
+    "message": "Har bir savol turi uchun tortiladigan savollar soni 1 dan 100 gacha bo'lgan butun son bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "randomTips14": {
+    "message": "Har bir savol uchun mumkin bo'lgan ball 0-100 oralig'ida bo'lishi kerak",
+    "description": "2.0 exam.js"
+  },
+  "randomTips15": {
+    "message": "Siz maksimal 10 ta bo'lim qo'shishingiz mumkin",
+    "description": "2.0 exam.js"
+  },
+  "randomTips16": {
+    "message": "Duplication is not supported for the selected question type",
+    "description": "2.0 exam.js"
+  },
+  "startCreatPaper": {
+    "message": "Generate Exam",
+    "description": "2.0 exam.js"
+  },
+  "autoPaperSettings": {
+    "message": "Imtihon yaratish sozlamalari",
+    "description": "2.0 exam.js"
+  },
+  "paperNum": {
+    "message": "Imtihonlar soni",
+    "description": "2.0 exam.js"
+  },
+  "paperTip": {
+    "message": "Generating exam, please wait...",
+    "description": "2.0 exam.js"
+  },
+  "paperTip1": {
+    "message": "Imtihon muvaffaqiyatli yaratilgan va imtihon bankining joriy katalogiga saqlangan",
+    "description": "2.0 exam.js"
+  },
+  "goView": {
+    "message": "Go to Check",
+    "description": "2.0 exam.js"
+  },
+  "continueCreate": {
+    "message": "Continue to Generate Exam",
+    "description": "2.0 exam.js"
+  },
+  "oralSubject": {
+    "message": "Language - Oral",
+    "description": "2.0 exam.js"
+  },
+  "oralReading": {
+    "message": "Language - Read Aloud",
+    "description": "2.0 exam.js"
+  },
+  "blankChoice": {
+    "message": "Word Bank",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips3": {
+    "message": "Enable screen monitoring",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips4": {
+    "message": "Imtihon ekranidan {n} marta ko'proq chiqsa, imtihonni majburiy ravishda yuboring.",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips5": {
+    "message": "Imtihon ekranidan {s} soniyadan ko'proq chiqsa, imtihonni majburiy ravishda yuboring.",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips6": {
+    "message": "(Can be set to 5-300 seconds)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips7": {
+    "message": "Choose at least one of the two screen monitoring methods",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips8": {
+    "message": "Screen monitoring methods - Select at least one",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips9": {
+    "message": "Enable screen monitoring",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips10": {
+    "message": "(Only valid for mobile exams, the system will automatically take screenshots to record candidate behavior)",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips11": {
+    "message": "Jami {n} ta g'ayritabiiy aniqlash martaiga erganingizdan keyin majburiy ravishda yuboriladi",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips12": {
+    "message": "G'ayritabiiy holatlarni aniqlagandan so'ng, talabalar zaxira tekshiruv kodi orqali imtihonda davom etishi mumkin",
+    "description": "2.0 exam.js"
+  },
+  "screenMonitorTips13": {
+    "message": "Faollashtirilgandan so'ng, tizim avtomatik ravishda ishtirokchi mobil telefon ekranini tasodifiy olishadi va o'qituvchilar monitoring konsolidan ishtirokchi skrinshot yozuvlarini real vaqtda ko'rishlari mumkin, bu suzuvchi oynalar kabi yolg'onlik qilish xatti-harakatlarini aniqlashga yordam beradi.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips9": {
+    "message": "Switched away from the exam screen more times than allowed and the exam was submitted involuntarily.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips10": {
+    "message": "Switched away from the exam screen for longer than the time allowed and the exam was submitted involuntarily.",
+    "description": "2.0 exam.js"
+  },
+  "remark": {
+    "message": "Regrade",
+    "description": "2.0 exam.js"
+  },
+  "remarkingTip": {
+    "message": "Oxirgi baholash vazifasi hali qayta ishlanmoqda, iltimos, keyinroq tekshiring.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip1": {
+    "message": "Agar imtihon boshlanganidan so'ng imtihon savollarining javoblarini o'zgartirsangiz, ushbu funksiyani imtihonni avtomatik ravishda qayta baholash uchun foydalaning.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip2": {
+    "message": "Re-grading is only for questions that are graded automatically by the system, and will not affect the results of questions that are manually graded.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip3": {
+    "message": "Are you sure you want to regrade?",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip4": {
+    "message": "Baho berish biroz vaqt olishi mumkin va orqa fonda qayta ishlanadi. Iltimos, qayta baholash natijalarini keyinroq tekshiring.",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersion": {
+    "message": "Windows Version",
+    "description": "2.0 exam.js"
+  },
+  "windowsVersionDesc": {
+    "message": "Supports Windows 7 and above system versions",
+    "description": "2.0 exam.js"
+  },
+  "macVersion": {
+    "message": "Mac Version",
+    "description": "2.0 exam.js"
+  },
+  "macVersionDesc": {
+    "message": "Supports macOS10.11 and above system versions",
+    "description": "2.0 exam.js"
+  },
+  "shareExamUrl": {
+    "message": "Share Exam URL",
+    "description": "2.0 exam.js"
+  },
+  "shareExamDesc": {
+    "message": "Share the exam link (URL) with the exam-takers. The the exam-takers can click the link to start the exam directly (if already logged in) or click the link to log in and then start the exam automatically (if not yet logged).",
+    "description": "2.0 exam.js"
+  },
+  "examUrl": {
+    "message": "Imtihon URL manzili",
+    "description": "2.0 exam.js"
+  },
+  "copy": {
+    "message": "Nusxalash",
+    "description": "2.0 exam.js"
+  },
+  "noBatchDesc": {
+    "message": "Ushbu imtihonda boshlanmagan sessiya yo'q.",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip": {
+    "message": "Qayta imtihonni rejalashtirganda，Siz talabani faqat boshlanmagan sessiyaga qo'shishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "noBatchTip1": {
+    "message": "Do you want to add a new session？",
+    "description": "2.0 exam.js"
+  },
+  "toAddBatch": {
+    "message": "Sessiya qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "startTimeErrorTip": {
+    "message": "Boshlanish vaqti hozirgi vaqtdan oldin bo'lishi mumkin emas.",
+    "description": "2.0 exam.js"
+  },
+  "editBatchTimeTip": {
+    "message": "Eslatma: Ushbu sessiya davom etmoqda, boshlanish vaqtini o'zgartirish mumkin emas, tugash vaqtini kechiktirish mumkin, ammo oldindan boshlash mumkin emas.",
+    "description": "2.0 exam.js"
+  },
+  "addAnswerTime": {
+    "message": "Extend the answer time",
+    "description": "2.0 exam.js"
+  },
+  "batchExpandNew": {
+    "message": "{count} daqiqa qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "addTimeTip": {
+    "message": "(Enter an integral between 1~100)",
+    "description": "2.0 exam.js"
+  },
+  "addBatchLabel": {
+    "message": "Extend the end time of this session at the same time",
+    "description": "2.0 exam.js"
+  },
+  "addTimeDesc": {
+    "message": "Ushbu funksiyaga yordam berib, siz ushbu sessiyada imtihon topshirayotgan barcha talabalar uchun javob vaqtini partiyaviy ravishda uzaytirishingiz mumkin. Eslatma: {br1}1. Faqat savollar javob berayotgan talabalar uchun amal qiladi. Boshlanmagan va allaqachon yuborgan talabalar ta'sir qilmaydi. {br2} 2. Amalga oshirilgandan so'ng, talabalarning hisoblagichlari bir necha soniyada yangilanadi. {br3} 3. Agar ushbu sessiyaning qolgan vaqti siz ko'paytirmoqchi bo'lgan vaqtdan kam bo'lsa, iltimos, bir vaqtning o'zida sessiyaning tugash vaqtini uzaytiring.",
+    "description": "2.0 exam.js"
+  },
+  "cannotAddTip": {
+    "message": "Ushbu sessiyaning qolgan vaqti 1 daqiqadan kam. chalkashlikdan qochish uchun siz javob vaqtini uzaytirishingiz mumkin emas.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips15": {
+    "message": "Muddatni uzaytirish 1 dan 100 gacha bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "roomTips16": {
+    "message": "Ushbu sessiya tugagan.",
+    "description": "2.0 exam.js"
+  },
+  "exportAnalysisExcelreport": {
+    "message": "Tahlil hisobotini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysisExcel": {
+    "message": "Excel versiyasini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "waitExeclDownload": {
+    "message": "Iltimos, kuting, qayta ishlanmoqda...",
+    "description": "2.0 exam.js"
+  },
+  "donwloadFalse": {
+    "message": "Eksport qilishda muvaffaqiyatsiz.",
+    "description": "2.0 exam.js"
+  },
+  "excelMsg": {
+    "message": "Ushbu funksiyaga yordam berib, siz tahlil hisobotidagi asosiy ma'lumotlarni Excel fayliga eksport qilishingiz mumkin. Iltimos, avval hisobga olish kerak bo'lgan sinflarni tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "derivedExaminationAnalysis": {
+    "message": "Tahlil hisobotini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "activeExam": {
+    "message": "Activate the exam",
+    "description": "2.0 exam.js"
+  },
+  "randomQuestion": {
+    "message": "Shuffle questions",
+    "description": "2.0 exam.js"
+  },
+  "randomItem": {
+    "message": "Shuffle answers",
+    "description": "2.0 exam.js"
+  },
+  "randomItemTip": {
+    "message": "Bitta / bir nechta variantli savollarni o'z ichiga oladi",
+    "description": "2.0 exam.js"
+  },
+  "waterMark": {
+    "message": "Turn on exam watermark",
+    "description": "2.0 exam.js"
+  },
+  "waterMarkTip": {
+    "message": "Skrinshot orqali savollarni o'zaro taqdim etishni oldini olish uchun ishlatilishi mumkin",
+    "description": "2.0 exam.js"
+  },
+  "maxTextInputTips1": {
+    "message": "Enter up to {n} characters",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswer": {
+    "message": "Disable skipping questions",
+    "description": "2.0 exam.js"
+  },
+  "sequentialAnswerTip": {
+    "message": "O'chirgandan so'ng, har bir sahifada faqat bitta savol ko'rsatiladi va imtihon topshiruvchilari faqat joriy savolni yakunlagandan so'ng keyingi savolga o'tishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip6": {
+    "message": "Iltimos, qayta baholash talab qilinadigan savol turlarining diapazonini tanlang:",
+    "description": "2.0 exam.js"
+  },
+  "radio1": {
+    "message": "Objective questions only",
+    "description": "2.0 exam.js"
+  },
+  "radio2": {
+    "message": "Barcha avtomatik baholash savollari (yuqoridagi ob'ektiv savollarni, shuningdek, Bo'sh joyni to'ldirish va Tillarni o'qishni o'z ichiga oladi)",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip7": {
+    "message": "Eslatma: Qayta baholash Essay savollari kabi qo'lda baholangan savollar bahosiga ta'sir qilmaydi. Bo'sh joyni to'ldirish savollari va boshqa avtomatik baholash savollari, agar ular qo'lda baholangan bo'lsa, qayta baholash qo'lda baholash ballini almashtiradi, shuning uchun iltimos, ehtiyotkorlik bilan foydalaning.  ",
+    "description": "2.0 exam.js"
+  },
+  "gradingAgain": {
+    "message": "Baho berishni boshlash",
+    "description": "2.0 exam.js"
+  },
+  "radio1Msg": {
+    "message": "Objective questions only (including Multiple Choice, Multiple Response, True/False, Sequence, Multiple Drop-down, Word Bank, Cloze Test)",
+    "description": "2.0 exam.js"
+  },
+  "radio2Msg": {
+    "message": "Barcha avtomatik baholash savollari (yuqoridagi ob'ektiv savollarni, shuningdek, Bo'sh joyni to'ldirish va Tillarni o'qishni o'z ichiga oladi)",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltag": {
+    "message": "Faqat mening sinflarimning sessiyalarini ko'rsatish",
+    "description": "2.0 exam.js"
+  },
+  "ownSpieltagMsg": {
+    "message": "Faqat imtihon yaratuvchisi ishlay oladi",
+    "description": "2.0 exam.js"
+  },
+  "teacherexamListNone": {
+    "message": "Imtihon uchun hech qanday sessiya rejalashtirilmagan",
+    "description": "2.0 exam.js"
+  },
+  "PCExeOrAppTips": {
+    "message": "Iltimos, imtihonni topshirish uchun ULearning APP/Imtihon mijozini ishlating",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips12": {
+    "message": "Tizim tomonidan avtomatik ravishda yuborilgan.",
+    "description": "2.0 exam.js"
+  },
+  "remarkTip5": {
+    "message": "Imtihon boshlanganidan so'ng, agar siz imtihon savollarining javoblarini yoki ballarini o'zgartirsangiz, ushbu funksiyani talabalar ballarini qayta baholash uchun foydalaning.",
+    "description": "2.0 exam.js"
+  },
+  "textCount": {
+    "message": "{n} words",
+    "description": "2.0 exam.js"
+  },
+  "newOpenMonitorTips": {
+    "message": "Imtihon davomida imtihon topshiruvchilardan kamera yoqilgan holda bo'lishlari talab qilinadi, shuning uchun bu xususiyat mobil imtihonlar uchun tavsiya etilmaydi.",
+    "description": "2.0 exam.js"
+  },
+  "choiceExamTypeTips": {
+    "message": "Kamida bitta qurilma turini tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "descriptionCl1": {
+    "message": "Imtihon bir nechta qurilmalardan foydalanishni qo'llab-quvvatlaydi. Turli qurilmalarning talablari va yolg'onlikni oldini olish darajasi quyidagicha, iltimos, imtihon stsenariyasiga ko'ra mos keladigan qurilmani tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "systemRequire": {
+    "message": "System Requirements",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequire": {
+    "message": "Device Requirements",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevel": {
+    "message": "Anti-cheating Level",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc1": {
+    "message": "- Windows 7 and above {br}- macOS 14 and above",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc2": {
+    "message": "- Browser: Google Chrome / Edge / Safari",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc3": {
+    "message": "- iOS 9.0 and above {br}- Android 6.0 and above",
+    "description": "2.0 exam.js"
+  },
+  "equipmentRequireDesc": {
+    "message": "- If the exam contains audio or video materials, headphones or speakers are required. {br}- If the exam  includes oral questions, a internal/external microphone is required. {br1}- If face recognition/camera monitoring is enabled, a internal/external camera is requried.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc1": {
+    "message": "Relatively loose. {br} Supports all basic monitoring methods, but cannot completely prohibit examinees from leaving during the exam.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc2": {
+    "message": "Relatively strict. {br} In addition to all basic monitoring methods, the APP also has built-in anti-cheating measures such as prohibiting split screen and recording screens; At the same time, the detection of leaving is also more strict.",
+    "description": "2.0 exam.js"
+  },
+  "antiCheatingLevelDesc3": {
+    "message": "Eng qat'iy. {br} Imtihon topshiruvchilari alohida bloklangan brauzerni o'rnatishlari kerak. Imtihonga kirgandan so'ng, ular imtihoni yuborishgacha chiqib bo'lmaydilar.",
+    "description": "2.0 exam.js"
+  },
+  "PCExe2": {
+    "message": "Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "H5": {
+    "message": "Mobile H5",
+    "description": "2.0 exam.js"
+  },
+  "questionLevel": {
+    "message": "Difficulty:",
+    "description": "2.0 exam.js"
+  },
+  "subQuestionLevel": {
+    "message": "Difficulty of each sub-question:",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[0]": {
+    "message": "Juda oddiy",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[1]": {
+    "message": "Easy",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[2]": {
+    "message": "O'rtacha",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[3]": {
+    "message": "Difficult",
+    "description": "2.0 exam.js"
+  },
+  "difficultyLevelArray1[4]": {
+    "message": "Juda qiyin",
+    "description": "2.0 exam.js"
+  },
+  "selectLevelip": {
+    "message": "Kamida bitta qiyinchilik darajasini tanlang.",
+    "description": "2.0 exam.js"
+  },
+  "localRecordTime1": {
+    "message": "Saving time of the local record",
+    "description": "2.0 exam.js"
+  },
+  "PCexeType": {
+    "message": "ULearning Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "appType": {
+    "message": "ULearning APP",
+    "description": "2.0 exam.js"
+  },
+  "PCType": {
+    "message": "ULearning  Web Portal",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCType": {
+    "message": "ULearning APP / Web Portal",
+    "description": "2.0 exam.js"
+  },
+  "appOrPCexeType": {
+    "message": "ULearning APP / Lockdown Browser",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips": {
+    "message": "Iltimos, {type} orqali imtihon topshirng",
+    "description": "2.0 exam.js"
+  },
+  "examSignIn": {
+    "message": "Imtihonga kiritish",
+    "description": "2.0 exam.js"
+  },
+  "enableSignIn": {
+    "message": "Enable exam sign-in",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInTip": {
+    "message": "Faqat mobil imtihonlar uchun. Yoqilganda, imtihon topshiruvchilari faqat ro'yxatdan o'tish kodini skanerlash orqali ro'yxatdan o'tishgandan so'ng imtihonga kirishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInIntro": {
+    "message": "Imtihonga kiritish sinflarda yoki boshqa belgilangan joylarda o'tkaziladigan imtihonlar uchun qo'llaniladi. {br}Imtihonga kiritish yoqilganda, imtihon topshiruvchilari faqat kiritish kodini skanerlash orqali kiritishdan keyin imtihonga kirishlari mumkin. {br1}Imtihon boshlanishidan oldin o'qituvchilar ULearning APP orqali kiritish kodini ko'rishi va taqdim etishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInNote": {
+    "message": "Eslatma:",
+    "description": "2.0 exam.js"
+  },
+  "enableSignInDesc": {
+    "message": "1. The sign-in starts when the instructor presents the sign-in code and is not limited by the exam start time. Sign-in is no longer allowed after all exam sessions are ended. {br}2. If sign-in is enabled, it is recommended that the time required for sign-in be set aside when scheduling the sessions. {br1}3. Exams allow multiple attemps will only require sign-in once. {br2}4. After signing in, examinees can only use the equipment they signed in with to enter the exam.",
+    "description": "2.0 exam.js"
+  },
+  "signInCode": {
+    "message": "Imtihonga kiritish kodi",
+    "description": "2.0 exam.js"
+  },
+  "facePhotoVerify": {
+    "message": "Facial photo review",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTitle": {
+    "message": "Mobile Monitor",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeIntro": {
+    "message": "Ro'yxatdan o'tish kodi dinamik QR kod, iltimos, uni ULearning ilovasida tekshiring yoki siz quyidagi QR kodni skanerlab mobil monitoringga kirib ko'rishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeTip": {
+    "message": "Maslahat: Kurs guruhining a'zosi bo'lmagan mutaxassislar ham ushbu QR kodni skanerlab mobil monitoringga kirishlari mumkin. Mobil brauzer yordamida kirishda qo'shimcha tekshiruv kodini kiritishingiz kerak.",
+    "description": "2.0 exam.js"
+  },
+  "refresh": {
+    "message": "Refresh",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeDesc": {
+    "message": "Ushbu tekshiruv kodi imtihon topshiruvchilari maxsus sharoitlarda imtihonga kirib bo'lmasa, imtihonga kirish uchun ishlatilishi mumkin, shu jumladan: {br}- qurilma/IP monitoringi yoqilgan imtihonlar, bu erda imtihon davomida imtihon topshiruvchilari qurilmalarni yoki IPlarni o'zgartirishlari kerak. {br1}- yuzni tanib olish yoqilgan imtihonlar, bu erda imtihon topshiruvchilari yuzni tekshirishdan o'ta olmaydilar.",
+    "description": "2.0 exam.js"
+  },
+  "standbyVerificationCodeTip": {
+    "message": "Tekshiruv kodi {minute} ichida amal qiladi, muddati tugagandan so'ng uni yana olish uchun yangilang.",
+    "description": "2.0 exam.js"
+  },
+  "signedIn": {
+    "message": "Signed in",
+    "description": "2.0 exam.js"
+  },
+  "notSignIn": {
+    "message": "Unsigned",
+    "description": "2.0 exam.js"
+  },
+  "answerTimes1": {
+    "message": "{n} - urinish  ",
+    "description": "2.0 exam.js"
+  },
+  "answerDuration1": {
+    "message": "Ishlatilgan imtihon vaqti: {count} ",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcel": {
+    "message": "Kiritish yozuvini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportSignInExcelDesc": {
+    "message": "Using this feature, you can export sign-in records for the selected sessions and classes.",
+    "description": "2.0 exam.js"
+  },
+  "exportInfo": {
+    "message": "Eksport ma'lumotlari:",
+    "description": "2.0 exam.js"
+  },
+  "courseClass": {
+    "message": "Course class",
+    "description": "2.0 exam.js"
+  },
+  "college": {
+    "message": "College",
+    "description": "2.0 exam.js"
+  },
+  "naturalClass": {
+    "message": "Cohort",
+    "description": "2.0 exam.js"
+  },
+  "exportType": {
+    "message": "Eksport format: ",
+    "description": "2.0 exam.js"
+  },
+  "exportType1": {
+    "message": "Barcha sinflarni bitta ish varaqasida o'z ichiga olgan Excel faylini eksport qilish.",
+    "description": "2.0 exam.js"
+  },
+  "exportType2": {
+    "message": "Har bir sinf uchun bitta ish varaqasi bo'lgan Excel faylini eksport qilish.",
+    "description": "2.0 exam.js"
+  },
+  "exportType3": {
+    "message": "Har bir sinf uchun bitta Excel faylini eksport qilish.",
+    "description": "2.0 exam.js"
+  },
+  "startExport": {
+    "message": "Eksportni boshlash",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmit": {
+    "message": "Early Terminate",
+    "description": "2.0 exam.js"
+  },
+  "answerNums": {
+    "message": "Javob berayotgan talabalar soni: {num}",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip1": {
+    "message": "Using this function will end the current session early, and all students in the exam will be forced to submit. There may be a delay of about 10 seconds to 1 minute. This operation cannot be undone, so please use it with caution.",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip3": {
+    "message": "Are you sure to terminate early?",
+    "description": "2.0 exam.js"
+  },
+  "forceSubmitTip4": {
+    "message": "Talaba savollar javob berayotdi. Ushbu funksiyadan foydalanish orqali talaba erta yuboriladi. Taxminan 10 soniya dan 1 daqiqagacha kechikish bo'lishi mumkin. Ushbu amal bekor qilinmaydi, shuning uchun iltimos, ehtiyotkorlik bilan foydalaning.",
+    "description": "2.0 exam.js"
+  },
+  "answerUsedTime": {
+    "message": "Ishlatilgan imtihon vaqti",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips11": {
+    "message": "O'qituvchi tomonidan notashabbus ravishda yuborilgan imtihon.",
+    "description": "2.0 exam.js"
+  },
+  "submitSuccess": {
+    "message": "So'rov muvaffaqiyatli yuborildi.",
+    "description": "2.0 exam.js"
+  },
+  "submitFail": {
+    "message": "Operation failed.",
+    "description": "2.0 exam.js"
+  },
+  "student": {
+    "message": "Imtihon topshiruvchisi:",
+    "description": "2.0 exam.js"
+  },
+  "submitStatus": {
+    "message": "Yuborilmoqda",
+    "description": "2.0 exam.js"
+  },
+  "remarkSetting": {
+    "message": "Scoring Settings",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingDesc": {
+    "message": "Half marks for partially correct answers",
+    "description": "2.0 exam.js"
+  },
+  "remarkSettingTip": {
+    "message": "Noto'g'ri tanlov uchun ball yo'q",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitor": {
+    "message": "Enable screenshot monitoring",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorDesc": {
+    "message": "Faqat mobil imtihonlar uchun qo'llaniladi, skrinshotlar aniqlanganda, birinchi marta ogohlantirish beriladi va ikkinchi marta majburiy yuborish amalga oshiriladi.",
+    "description": "2.0 exam.js"
+  },
+  "screenshotMonitorTip": {
+    "message": "Ushbu funksiya faqat iOS uchun amal qiladi, Android imtihonda skrinshotlarni o'chirib qo'ydi.",
+    "description": "2.0 exam.js"
+  },
+  "screenshot": {
+    "message": "Screenshot",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips13": {
+    "message": "Screenshot of the violation, forced submission by the system.",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom": {
+    "message": "Imtihon xonasi: {n}",
+    "description": "2.0 exam.js"
+  },
+  "questionTrain": {
+    "message": "Savol banki mashg'ulotlari",
+    "description": "2.0 exam.js"
+  },
+  "questionBankManage": {
+    "message": "Savol banki boshqaruvi >>",
+    "description": "2.0 exam.js"
+  },
+  "openQuestion": {
+    "message": "Turn on Question Bank Training",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestion": {
+    "message": "Close Question Bank Training",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg1": {
+    "message": "Ushbu funksiyani kurs administratorlari yoqing/yopingishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "openQuestionMsg2": {
+    "message": "Yoqilgandan so'ng, talabalar savollar bankiga kirib mashqni boshlashi mumkin. Haqiqatan ham yoqmoqchimisiz?",
+    "description": "2.0 exam.js"
+  },
+  "closeQuestionMsg": {
+    "message": "O'chirilgandan so'ng, talabalar savollar bankiga kirib mashq qilishlari mumkin emas. Haqiqatan ham o'chirmoqchimisiz?",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg1": {
+    "message": "Using the Question Bank Training function, you can designate a question bank for students to practice before the exam. This feature needs to be turned on by the course administrator. Before the official exam, it is recommended to close the question bank training entrance.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg2": {
+    "message": "Savol banki mashg'ulot moduli:",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg3": {
+    "message": "1. All students in the course can enter the question bank to practice, and only computer access is supported for the time being.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg4": {
+    "message": "2. The training question bank only supports importing objective questions and fill-in-the-blank questions.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg5": {
+    "message": "3. Students can check the correct answers immediately after submitting, and there is no limit to the number of submits.",
+    "description": "2.0 exam.js"
+  },
+  "helpMsg6": {
+    "message": "Special note: Question bank training is currently an experimental function, and entry and function may change in the future.",
+    "description": "2.0 exam.js"
+  },
+  "getInToqueBank": {
+    "message": "Go to the question bank >>",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesNew": {
+    "message": "Urinishlar",
+    "description": "2.0 exam.js"
+  },
+  "answeredTimesNew": {
+    "message": "Urinilgan/Urinishlar",
+    "description": "2.0 exam.js"
+  },
+  "studentBatch": {
+    "message": "Session: {startTime} - {endTime} ",
+    "description": "2.0 exam.js"
+  },
+  "studentSeatNumber": {
+    "message": "O'rindiqlar soni: {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentExamStudentOf": {
+    "message": "Imtihon topshiruvchilari: {n}",
+    "description": "2.0 exam.js"
+  },
+  "studentRemainSeat": {
+    "message": "Remaining seats: {n}",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboard": {
+    "message": "Enable Secure Keyboard",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip": {
+    "message": "Faqat mobil imtihon uchun, Xitoy va ingliz tillarini, raqamlarni va oddiy punktuatsiyalarni kiritishni qo'llab-quvvatlaydi",
+    "description": "2.0 exam.js"
+  },
+  "openSafeKeyboardTip1": {
+    "message": "Xavfsiz klaviatura mobil telefon kirish usulining maxsus funksiyasi bilan yolg'onlik qilishni oldini olish uchun ishlatilishi mumkin, ammo kirish tajribasi mobil telefonning o'ziga tegishli klaviaturasiga qaraganda silliq emas va katta matn parchalari talab qiladigan savollar bo'lsa, uni yoqish tavsiya etilmaydi.",
+    "description": "2.0 exam.js"
+  },
+  "gradeTips14": {
+    "message": "Vaqt tugadi, imtihon tizim tomonidan avtomatik ravishda yuborilgan.",
+    "description": "2.0 exam.js"
+  },
+  "answerTimesOfNew": {
+    "message": "Urinishlar: {count}",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDesc": {
+    "message": "Biriktiruvchilar rasmlar, hujjatlar, videolar, audio va boshqalar kabi oddiy formatlarni qo'llab-quvvatlaydi. {link} {br} Har bir savol uchun maksimal 10 ta biriktiruvchi yuklang. {br1} Kompyuter tomonidan yuklash, bitta fayl 500M dan oshmasligi kerak; Mobil yuklash uchun, bitta fayl 200M dan oshmasligi kerak. {br2} Kompyuter tomonidan javoblar mahalliy ravishda tanlashi mumkin yoki mobil telefon yordamida kodni skanerlab yuklash mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpLink": {
+    "message": "Click to view allowed file formats",
+    "description": "2.0 exam.js"
+  },
+  "deleteExam": {
+    "message": "Imtihonni o'chirish",
+    "description": "2.0 exam.js"
+  },
+  "exportLayout": {
+    "message": "Eksport format",
+    "description": "2.0 exam.js"
+  },
+  "standardType": {
+    "message": "Standart",
+    "description": "2.0 exam.js"
+  },
+  "compactType": {
+    "message": "Compact  (saves printing paper)",
+    "description": "2.0 exam.js"
+  },
+  "attachments": {
+    "message": "Fayllarni eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "yes": {
+    "message": "Ha",
+    "description": "2.0 exam.js"
+  },
+  "no": {
+    "message": "Yo'q",
+    "description": "2.0 exam.js"
+  },
+  "moreOperation": {
+    "message": "Actions",
+    "description": "2.0 exam.js"
+  },
+  "systemRequireDesc4": {
+    "message": "- iOS 11.0 and above {br} - Android 6.0 and above",
+    "description": "2.0 exam.js"
+  },
+  "refreshed": {
+    "message": "Refreshed",
+    "description": "2.0 exam.js"
+  },
+  "refreshInterval": {
+    "message": "Refresh interval: {seconds} seconds",
+    "description": "2.0 exam.js"
+  },
+  "signInTip": {
+    "message": "1. Please use ULearning APP to scan the code to sign in. {br}2. After signing in, you can only use the same equipment to enter the exam.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew": {
+    "message": "Biriktiruvchilar rasmlar, hujjatlar, videolar, audio va boshqalar kabi oddiy formatlarni qo'llab-quvvatlaydi. {link} {br} Har bir savol uchun maksimal 10 ta biriktiruvchi yuklang. {br1} Kompyuter tomonidan yuklash, bitta fayl 500M dan oshmasligi kerak; Mobil yuklash uchun, bitta fayl 200M dan oshmasligi kerak. {br2} Kompyuter tomonidan javoblar mahalliy ravishda tanlashi mumkin yoki mobil telefon yordamida kodni skanerlab yuklash mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "shareBank": {
+    "message": "Shared Question Bank",
+    "description": "2.0 exam.js"
+  },
+  "onlyShowMyCollect": {
+    "message": "Faqat mening sevimlilarim ko'rsatiladi",
+    "description": "2.0 exam.js"
+  },
+  "isOver": {
+    "message": "Expired",
+    "description": "2.0 exam.js"
+  },
+  "shareFolder": {
+    "message": "Shared Folders",
+    "description": "2.0 exam.js"
+  },
+  "hideQuestionType": {
+    "message": "Hide the question type name",
+    "description": "2.0 exam.js"
+  },
+  "classesTips1": {
+    "message": "Sinfni tanlash",
+    "description": "2.0 exam.js"
+  },
+  "saveDraft": {
+    "message": "Qoralama sifatida saqlash",
+    "description": "2.0 exam.js"
+  },
+  "confirmTip1": {
+    "message": "Sure you want to cancel?",
+    "description": "2.0 exam.js"
+  },
+  "exportTip1": {
+    "message": "Agar talabada bir nechta javob yozuvlari bo'lsa, standart ravishda faqat eng yuqori ball eksport qilinadi.",
+    "description": "2.0 exam.js"
+  },
+  "studentInfo": {
+    "message": "Talaba ma'lumotlari",
+    "description": "2.0 exam.js"
+  },
+  "username": {
+    "message": "Username",
+    "description": "2.0 exam.js"
+  },
+  "classTeacher": {
+    "message": "Class teacher",
+    "description": "2.0 exam.js"
+  },
+  "natureClass": {
+    "message": "Cohort",
+    "description": "2.0 exam.js"
+  },
+  "sex": {
+    "message": "Gender",
+    "description": "2.0 exam.js"
+  },
+  "affiliatedCollege": {
+    "message": "Department",
+    "description": "2.0 exam.js"
+  },
+  "email": {
+    "message": "Email",
+    "description": "2.0 exam.js"
+  },
+  "phoneNumber": {
+    "message": "Phone number",
+    "description": "2.0 exam.js"
+  },
+  "exportTip2": {
+    "message": "Imtihondan g'ayritabiiy chiqishlar soni",
+    "description": "2.0 exam.js"
+  },
+  "exportTip3": {
+    "message": "Imtihonning har bir qismi uchun ballar",
+    "description": "2.0 exam.js"
+  },
+  "everyQuestionScore": {
+    "message": "Har bir savol uchun ball",
+    "description": "2.0 exam.js"
+  },
+  "exportTip4": {
+    "message": "Bitta Excel bitta sinf",
+    "description": "2.0 exam.js"
+  },
+  "exportTip5": {
+    "message": "Barcha sinflar bitta Excelda",
+    "description": "2.0 exam.js"
+  },
+  "orderRule": {
+    "message": "Collation",
+    "description": "2.0 exam.js"
+  },
+  "ascendingOrderByScore": {
+    "message": "O'sish tartibida - talaba IDsi",
+    "description": "2.0 exam.js"
+  },
+  "descendingOrderByScore": {
+    "message": "Kamayish tartibida - talaba IDsi",
+    "description": "2.0 exam.js"
+  },
+  "ascendingOrderByTotalScore": {
+    "message": "O'sish tartibida - jami ball",
+    "description": "2.0 exam.js"
+  },
+  "descendingOrderByTotalScore": {
+    "message": "Kamayish tartibida - jami ball",
+    "description": "2.0 exam.js"
+  },
+  "exportSetting": {
+    "message": "Eksport sozlamalari",
+    "description": "2.0 exam.js"
+  },
+  "exportTip6": {
+    "message": "Talabaning eng yuqori balli yozuvini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "exportTip7": {
+    "message": "Barcha talabalar javoblarini eksport qilish",
+    "description": "2.0 exam.js"
+  },
+  "saveSuccess": {
+    "message": "Muvaffaqiyatli saqlandi!",
+    "description": "2.0 exam.js"
+  },
+  "exportTip8": {
+    "message": "Iltimos, eksport qilinadigan elementlarni tanlang",
+    "description": "2.0 exam.js"
+  },
+  "draft": {
+    "message": "Draft",
+    "description": "2.0 exam.js"
+  },
+  "mobileMonitorCodeIntro1": {
+    "message": "Ro'yxatdan o'tish kodi dinamik QR kod, iltimos, uni ULearning ilovasida tekshiring yoki siz quyidagi QR kodni skanerlab mobil monitoringga kirib ko'rishingiz mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "signInTip1": {
+    "message": "1. Please use ULearning APP to scan the code to sign in. {br}2. After signing in, you can only use the same equipment to enter the exam.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew1": {
+    "message": "1.Upload attachments. Supported file formats include images, documents, videos, audio, and other common types. A maximum of 10 attachments are allowed per question. The maximum file size for a single file is 500MB on a computer and 200MB on a mobile device. {br}{link}{br1}2.On mobile devices, you can separately choose whether to allow file uploads from the device/local album. If not allowed, mobile devices only support uploading images by taking photos. If allowed, there is a risk that students may cheat by accessing files stored on their device. Please enable this option with discretion. {br2}3.When answering on a computer, you can select files from local storage or use a mobile device to scan a QR code for uploading.",
+    "description": "2.0 exam.js"
+  },
+  "attachmentHelpDescNew2": {
+    "message": "1.Upload attachments. Supported file formats include images, documents, videos, audio, and other common types. A maximum of 10 attachments are allowed per question. The maximum file size for a single upload is 500MB on a computer. {br}{link}{br1}2.When answering on a computer, you can either select a file from your local storage or use a mobile device to scan a QR code for uploading.",
+    "description": "2.0 exam.js"
+  },
+  "electronicSignature": {
+    "message": "Electronic Signature",
+    "description": "2.0 exam.js"
+  },
+  "scanCodeSignature": {
+    "message": "Scan QR code to sign",
+    "description": "2.0 exam.js"
+  },
+  "allowUploadFromMobile": {
+    "message": "Mobil qurilmadan/albomdan fayl yuklashga ruxsat berish",
+    "description": "2.0 exam.js"
+  },
+  "importExamRoomInfo": {
+    "message": "Imtihon tartiblash ma'lumotlarini import qilish",
+    "description": "2.0 exam.js"
+  },
+  "downloadTemplate": {
+    "message": "Shablonni yuklab olish",
+    "description": "2.0 exam.js"
+  },
+  "downloadTip": {
+    "message": "Excel shablonini yuklab oling va shablon talablari bo'yicha talabalar imtihon joyi ma'lumotlarini to'ldiring.",
+    "description": "2.0 exam.js"
+  },
+  "uploadExamRoomInfoExcel": {
+    "message": "Faylni yuklash",
+    "description": "2.0 exam.js"
+  },
+  "uploadFileTip": {
+    "message": "To'ldirilgan Excel faylini yuklang",
+    "description": "2.0 exam.js"
+  },
+  "invigilator1": {
+    "message": "Nazoratchi",
+    "description": "2.0 exam.js"
+  },
+  "seatNumber1": {
+    "message": "O'rindiq raqami",
+    "description": "2.0 exam.js"
+  },
+  "seatNumberN": {
+    "message": "O'rindiq raqami: {n}",
+    "description": "2.0 exam.js"
+  },
+  "downloadFail": {
+    "message": "Yuklab olish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 exam.js"
+  },
+  "importSuccess": {
+    "message": "Muvaffaqiyatli import qilindi!",
+    "description": "2.0 exam.js"
+  },
+  "importError": {
+    "message": "Import xatosi",
+    "description": "2.0 exam.js"
+  },
+  "importErrorTip1": {
+    "message": "Fayldagi ba'zi imtihon tartiblash ma'lumotlari noto'g'ri formatlangan. Iltimos, tekshiring, tahrirlang va qayta yuklang.",
+    "description": "2.0 exam.js"
+  },
+  "studentExamRoom1": {
+    "message": "Imtihon joyi: {n}",
+    "description": "2.0 exam.js"
+  },
+  "examRoomImportTip": {
+    "message": "Import qilinmoqda, iltimos, kuting...",
+    "description": "2.0 exam.js"
+  },
+  "canUseCalculator": {
+    "message": "Kalkulyatorga ruxsat",
+    "description": "2.0 exam.js"
+  },
+  "useCalculatorTip": {
+    "message": "Yoqilganda, imtihon davomida ishtirokchilar asosiy hisoblashlarni yordam berish uchun kalkulyatordan foydalanishi mumkin, shu jumladan qo'shish, ayirish, ko'paytirish, bo'lish, kvadrat, ln, kvadrat ildiz va boshqa asosiy funktsiyalar.",
+    "description": "2.0 exam.js"
+  },
+  "aiBatchScore": {
+    "message": "AI baholash?",
+    "description": "2.0 exam.js"
+  },
+  "question": {
+    "message": "Savol",
+    "description": "2.0 exam.js"
+  },
+  "noReAiScore": {
+    "message": "Ushbu savol hozirda AI tomonidan baholash jarayonida. Iltimos, uni yana baholamang.",
+    "description": "2.0 exam.js"
+  },
+  "hasEvaluation": {
+    "message": " Baholangan ",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip1": {
+    "message": "Baholash jarayonida, iltimos, sabrli kuting...",
+    "description": "2.0 exam.js"
+  },
+  "tempAnswer": {
+    "message": "Maslahat berilgan javob",
+    "description": "2.0 exam.js"
+  },
+  "generate": {
+    "message": "Yaratish",
+    "description": "2.0 exam.js"
+  },
+  "scoreRule": {
+    "message": " Baholash qoidasi ",
+    "description": "2.0 exam.js"
+  },
+  "scoreRuleTip": {
+    "message": "Tizim maslahat berilgan javobga asoslanib, baholash nuqtalarini avtomatik ravishda tahlil qiladi. Javobda asosiy nuqtalarni aniq ro'yxatga olish, har bir nuqtani raqam, nuqta yoki nuqta vergul bilan ajratish, baholash nuqtalarini tanib olishning aniqligini oshirishi mumkin.{br}Misol: 1. Xitoy xususiy tizimli sotsializmni qo'llab-quvvatlash. 2. Xitoy Kommunistik Partiyasining rahbarligini qo'llab-quvvatlash. Yoki Xitoy xususiy tizimli sotsializmni qo'llab-quvvatlash; Xitoy Kommunistik Partiyasining rahbarligini qo'llab-quvvatlash.",
+    "description": "2.0 exam.js"
+  },
+  "scorePoint": {
+    "message": "Baholash nuqtalari",
+    "description": "2.0 exam.js"
+  },
+  "scoreNum": {
+    "message": "Ballar",
+    "description": "2.0 exam.js"
+  },
+  "addScorePoint": {
+    "message": "Baholash nuqtasi qo'shish",
+    "description": "2.0 exam.js"
+  },
+  "scoreMeasure": {
+    "message": "O'lchov",
+    "description": "2.0 exam.js"
+  },
+  "scoreMeasureTip": {
+    "message": "AI Intelligent Baholashda og'irlik darajasining turli darajalarini tanlash orqali turli darajadagi qattiqlikni ifodalash mumkin.{br}Qattiq:鈥?Talabaning javobi baholash nuqtasi bo'yicha butunlay to'g'ri bo'lsa, to'liq ball beriladi; qisman to'g'ri javoblar uchun ball berilmaydi.{br1}O'rtacha:鈥?Talabaning javobi baholash nuqtasini qanchalik yaxshi qamrab oldiiga qarab ball beriladi.{br2}Erkin:鈥?Agar talabaning javobi baholash nuqtasini eslatib o'tsa, ball beriladi.",
+    "description": "2.0 exam.js"
+  },
+  "strict": {
+    "message": "Qattiq",
+    "description": "2.0 exam.js"
+  },
+  "moderate": {
+    "message": "O'rtacha",
+    "description": "2.0 exam.js"
+  },
+  "loose": {
+    "message": "Erkin",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswer": {
+    "message": "Talaba javobi",
+    "description": "2.0 exam.js"
+  },
+  "changeStu": {
+    "message": "Talabani o'zgartirish",
+    "description": "2.0 exam.js"
+  },
+  "aiScore": {
+    "message": "AI balli",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreTip2": {
+    "message": "Baholash testi natijalari saqlanmaydi. Baholash natijasi sizning kutilganingizga mos kelganini tasdiqlaganingizdan so'ng [Baholashni boshlash] tugmasini bosing.鈥?",
+    "description": "2.0 exam.js"
+  },
+  "scoreInfo": {
+    "message": "Baholash holati",
+    "description": "2.0 exam.js"
+  },
+  "noScoreTip": {
+    "message": "AI Baholash maslahat berilgan javoblarga ega bo'lgan yarim ochiq mavzu savollari uchun mos keladi. Chap tomonda maslahat berilgan javoblar va baholash qoidalari o'rnatilgandan so'ng, [Test baholash] tugmasini bosing.鈥?bir talabaning javobini tasodifiy tanlang va baholash natijasini oldindan ko'ring.",
+    "description": "2.0 exam.js"
+  },
+  "testScore": {
+    "message": "Test baholash",
+    "description": "2.0 exam.js"
+  },
+  "aiScore1": {
+    "message": "AI baholash",
+    "description": "2.0 exam.js"
+  },
+  "aiScoreContent": {
+    "message": "AI Baholash tanlangan bo'lsa, tizim ushbu savol uchun talabalar javoblarini oldindan belgilangan baholash qoidalariga asoslanib, joriy imtihonda avtomatik ravishda baholaydi. (AI baholash o'qituvchi tomonidan allaqachon baholangan ballarni ta'sir qilmaydi yoki o'zgartirmaydi.)",
+    "description": "2.0 exam.js"
+  },
+  "confirmScore": {
+    "message": "Baholashni boshlashga rozimisiz?",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswerTip": {
+    "message": "Ushbu savol uchun talaba javobi mavjud emas. Testni boshlash uchun namuna javob kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "stuAnswerTip1": {
+    "message": "Talaba javobini kiriting",
+    "description": "2.0 exam.js"
+  },
+  "rightAnswerTip": {
+    "message": "Maslahat berilgan javobni kiriting",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip": {
+    "message": "Barcha baholash nuqtalarining yig'indisi savolning to'liq balliga teng bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip1": {
+    "message": "Iltimos, baholash nuqtasi tavsifini to'ldiring.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip2": {
+    "message": "To'liq ball ko'pi bilan 1 xonali kasrli son bo'lishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip3": {
+    "message": "Iltimos, ballni kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "rulePointTip4": {
+    "message": "Baholash nuqtasi aniqlanmadi.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip1": {
+    "message": "To'liq ball 1 dan 100 gacha bo'lishi kerak.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip2": {
+    "message": "To'liq ball ko'pi bilan 1 xonali kasrli son bo'lishi mumkin.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip": {
+    "message": "Iltimos, savolning to'liq ballini kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "fullScoreTip3": {
+    "message": "Iltimos, to'liq ball qiymatini tekshiring.",
+    "description": "2.0 exam.js"
+  },
+  "generating": {
+    "message": "Yaratilmoqda...",
+    "description": "2.0 exam.js"
+  },
+  "remarking": {
+    "message": "Qayta baholash jarayonida...",
+    "description": "2.0 exam.js"
+  },
+  "marking": {
+    "message": "Baholash jarayonida",
+    "description": "2.0 exam.js"
+  },
+  "plsEnter": {
+    "message": "Iltimos, kontent kiriting",
+    "description": "2.0 exam.js"
+  },
+  "aiGenerateTip": {
+    "message": "Yaratish muvaffaqiyatsiz bo'ldi. Iltimos, kontentni qo'lda kiriting.",
+    "description": "2.0 exam.js"
+  },
+  "errTip": {
+    "message": "Xato yuz berdi. Iltimos, administrator bilan bog'laning.",
+    "description": "2.0 exam.js"
+  },
+  "intelligentReview": {
+    "message": "Intellektual ko'rib chiqish",
+    "description": "2.0 exam.js"
+  },
+  "encouragement": {
+    "message": "Targ'iblash",
+    "description": "2.0 exam.js"
+  },
+  "gentle": {
+    "message": "Yumshoq",
+    "description": "2.0 exam.js"
+  },
+  "serious": {
+    "message": "Jiddiy",
+    "description": "2.0 exam.js"
+  },
+  "questionBankinfo1": {
+    "message": "Ma'lumot mavjud emas, iltimos, quyidagiga o'ting",
+    "description": "2.0 exam.js"
+  },
+  "questionBankinfo2": {
+    "message": " Mening savol bankim katalog tuzilmasini yoki savol kontentini yaratadi>>",
+    "description": "2.0 exam.js"
+  },
+  "questionBankinfo3": {
+    "message": "，Yaratildi va bosilishi mumkin",
+    "description": "2.0 exam.js"
+  },
+  "questionBankinfo4": {
+    "message": "yangilash.",
+    "description": "2.0 exam.js"
+  },
+  "examSetting": {
+    "message": "Imtihon sozlamalari",
+    "description": "2.0 exam.js"
+  },
+  "venueSettings": {
+    "message": "Joy sozlamalari",
+    "description": "2.0 exam.js"
+  },
+  "processFlowchoosePaper": {
+    "message": "Imtihonni tanlang",
+    "description": "2.0 exam.js"
+  },
+  "processFlowSteps1": {
+    "message": "Imtihon varaqlarini to'g'ridan-to'g'ri imtihon varaqlar bankidan tanlang yoki tasodifiy imtihon varaqlarini yaratib oling <br>(Kontent oldindan savol bankida va imtihon bankida tayyorlanishi mumkin)",
+    "description": "2.0 exam.js"
+  },
+  "processFlowSteps2": {
+    "message": "Imtihon bilan bog'liq sozlamalarni o'rnating",
+    "description": "2.0 exam.js"
+  },
+  "processFlowSteps3": {
+    "message": "Imtihon vaqtini va imtihon talabalarini o'rnating",
+    "description": "2.0 exam.js"
+  },
+  "pushExamLiucheng": {
+    "message": "Imtihon jarayonini nashr etish",
+    "description": "2.0 exam.js"
+  },
+  "mobileH5": {
+    "message": "H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips1": {
+    "message": "ULearning APP/H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips2": {
+    "message": "ULearning Lockdown Browser/H5",
+    "description": "2.0 exam.js"
+  },
+  "examTypeTips3": {
+    "message": "ULearning APP/ULearning Lockdown Browser/H5",
+    "description": "2.0 exam.js"
+  }
+}

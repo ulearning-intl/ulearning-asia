@@ -1,0 +1,1522 @@
+{
+  "formulaEditing": {
+    "message": "Formula muharrir",
+    "description": "对应公式编辑器页面"
+  },
+  "symbol": {
+    "message": "Belgilar",
+    "description": "对应公式编辑器页面"
+  },
+  "formula": {
+    "message": "Formula",
+    "description": "对应公式编辑器页面"
+  },
+  "subject": {
+    "message": "Fanlar",
+    "description": "对应公式编辑器页面"
+  },
+  "inlineFormula": {
+    "message": "Satr ichidagi formula",
+    "description": "对应公式编辑器页面"
+  },
+  "formulaBlock": {
+    "message": "Formula",
+    "description": "对应公式编辑器页面"
+  },
+  "history": {
+    "message": "Tarix yozuvlari:",
+    "description": "对应公式编辑器页面"
+  },
+  "help": {
+    "message": "Yordam",
+    "description": "对应公式编辑器页面"
+  },
+  "defaultTip": {
+    "message": "Use \\\\ and \\ cr to wrap lines. Related links include",
+    "description": "对应公式编辑器页面"
+  },
+  "close": {
+    "message": "Yopish",
+    "description": "对应公式编辑器页面"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "对应公式编辑器页面"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].name": {
+    "message": "Asosiy belgilar",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[0].tip": {
+    "message": "Qo'shish yoki ayirish, ustida qo'shish belgisi. Tegishli\\mp",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[1].tip": {
+    "message": "[infinity] Cheksizlikning qisqacha shakli",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[2].tip": {
+    "message": "teng :=taxminiy:\\eqsim katta yoki teng:\\ge kichik yoki teng:\\le ekvivalent:\\equiv",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[3].tip": {
+    "message": "\\keyingisi belgilar uchun qo'llanilmaydi, chiziq chizish mumkin",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[4].tip": {
+    "message": "o'xshashlik, taxminiy",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[5].tip": {
+    "message": "Ko'paytirish \\times bilan ko'rsatilishi mumkin. * belgisidan ham ko'paytirishni ko'rsatish uchun foydalanish mumkin ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[6].tip": {
+    "message": "Bo'lish",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[7].tip": {
+    "message": "Ta'kidlash belgisi o'z-o'zi bilan ko'rsatiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[8].tip": {
+    "message": "Oddiy asimptotik taqsimot belgisini, variyant shakli \\varpropto bilan ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[9].tip": {
+    "message": "Kichikroq belgi, \\lt kichikroqni belgilaydi, html da <> ishlatilgan, katta va kichikroqni belgilash uchun \\It va \\gt dan foydalanish tavsiya etiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[10].tip": {
+    "message": "Juda kichikroqni ko'rsatish uchun I dan foydalaning, tegishli:\\It,\\lll",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[11].tip": {
+    "message": "Kattaroq belgi, \\gt kattaroqni belgilaydi, html da <> ishlatilgan, katta va kichikroqni belgilash uchun \\lt va \\gt dan foydalanish tavsiya etiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[12].tip": {
+    "message": "Juda kattaroqni ko'rsatish uchun ikkita g dan foydalaning, tegishli:\\gt\\ggg\\gggtr",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[13].tip": {
+    "message": " less&equal kichikroq yoki tengning qisqacha shakli, tegishli \\lt\\ge ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[14].tip": {
+    "message": "greater&equal katta va tengning qisqacha shakli, tegishli\\lt\\ge",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[15].tip": {
+    "message": "Ayirish-qo'shish belgisi, ustida ayirish belgisi, pastda qo'shish belgisi ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[16].tip": {
+    "message": "Congruentning qisqacha shakli ekvivalentni belgilaydi. Tegishli:\\ncog",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[17].tip": {
+    "message": "Taxminiy. Tegishli:\\approxeq",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[18].tip": {
+    "message": "Ekvivalent",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[19].tip": {
+    "message": "Har qanday biri, hammasi, har biri",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[20].tip": {
+    "message": "Qisman hosila belgisini",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[21].tip": {
+    "message": " Kökni belgilash uchun \\sqrt [index]{radicand}dan foydalaning yoki indeksni belgilash uchun \\root dan foydalaning \\of kökni belgilash uchun",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[22].tip": {
+    "message": " Kökni belgilash uchun \\sqrt [index]{radicand}dan foydalaning yoki indeksni belgilash uchun \\root dan foydalaning \\of kökni belgilash uchun ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[23].tip": {
+    "message": "Birlashma to'plami, va. Tegishli:\\Cup\\bigcup\\cap",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[24].tip": {
+    "message": "Qirqish, va shunday. Tegishli:\\Cap\\bigcap\\cup",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[25].tip": {
+    "message": "Bo'sh to'plam belgisi,tegishli:\\varnothing",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[26].tip": {
+    "message": "% mathjax da bir qatorli izohlarni belgilaydi, foiz belgisi \\% bilan ko'rsatiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[27].tip": {
+    "message": "Daraja soni belgisini",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[28].tip": {
+    "message": "Fahrenheit darajasi, tegishli belgilarni ko'rsatish uchun yuqori va pastki burchak belgilari bilan hamkorlik qilish uchun \\circ belgisi dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[29].tip": {
+    "message": "Selsiy darajasi, tegishli belgilarni ko'rsatish uchun yuqori va pastki burchak belgilari bilan hamkorlik qilish uchun \\circ belgisi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[30].tip": {
+    "message": "Pastki uchburchak, tegishli:\\triangle\\vartriangle",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[31].tip": {
+    "message": "Uchburchakning variyanti, tegishli:\\triangle",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[32].tip": {
+    "message": "Nabla operator belgisini",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[33].tip": {
+    "message": "Mavjud, tegishli:\\nexists",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[34].tip": {
+    "message": "Mavjud emas,tegishli:\\nexists",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[35].tip": {
+    "message": "Tegishli,tegishli:\\notin\\ni",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[36].tip": {
+    "message": "Kiritish, tegishli:\\owns\\in",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[0].list[37].tip": {
+    "message": "Chap o'ng oyna, tegishli:\\rightarrow\\uparrow\\downarrow",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].name": {
+    "message": "Yunon harfi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[0].tip": {
+    "message": "Alpha ning kichik harfi, katta harfni belgilash uchun \\A dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[1].tip": {
+    "message": "Beta ning kichik harfi, katta harfni belgilash uchun \\B dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[2].tip": {
+    "message": "Gamma ning kichik harfi, katta harfni belgilash uchun \\Gamma dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varGamma dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[3].tip": {
+    "message": " Delta ning kichik harfi, katta harfni belgilash uchun \\Delta dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varDelta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[4].tip": {
+    "message": " Epsilon ning kichik harfi, katta harfni belgilash uchun \\E dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varepsilon dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[5].tip": {
+    "message": " Epsilonning kichik harfning variatsiyasi, kichik harfning variatsiyasini belgilash uchun \\epsilon dan foydalaning, katta harfni belgilash uchun E dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[6].tip": {
+    "message": "Zeta ning kichik harfi, katta harfni belgilash uchun \\Z dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[7].tip": {
+    "message": " Eta ning kichik harfi, katta harfni belgilash uchun \\H dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[8].tip": {
+    "message": " Theta, katta harfni belgilash uchun \\Theta dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\vartheta dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varTheta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[9].tip": {
+    "message": " Theta ning kichik harfning variatsiyasi, to'g'ri holatni belgilash uchun \\theta dan foydalaning, katta harfni belgilash uchun \\Theta dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varTheta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[10].tip": {
+    "message": "Iota ning kichik harfi, katta harfni belgilash uchun \\I dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[11].tip": {
+    "message": "Kappa ning kichik harfi, katta harfni belgilash uchun \\K dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varkappa dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[12].tip": {
+    "message": " Lambda ning kichik harfi, katta harfni belgilash uchun \\Lambda dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varlambda dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[13].tip": {
+    "message": "Mu ning kichik harfi, katta harfni belgilash uchun \\M dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[14].tip": {
+    "message": " Nu ning kichik harfi, katta harfni belgilash uchun \\N dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[15].tip": {
+    "message": "Xi ning kichik harfi, katta harfni belgilash uchun \\Xi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varXi dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[16].tip": {
+    "message": "Omicron ning kichik harfi, katta harfni belgilash uchun \\O dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[17].tip": {
+    "message": "kichik harf uslubi, katta harf uslubi PI bilan belgilaydi, kichik harf uslubi varpi bilan belgilaydi, katta harf uslubi varpi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[18].tip": {
+    "message": "Rho ning kichik harfi, katta harfni belgilash uchun \\P dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varrho dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[19].tip": {
+    "message": " Rho ning kichik harfning variatsiyasi, to'g'ri holatni belgilash uchun \\rho dan foydalaning, katta harfni belgilash uchun \\P dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[20].tip": {
+    "message": " Sigma ning kichik harfi, katta harfni belgilash uchun \\Sigma dan foydalaning, yig'indisi belgisine teng. Kichik harfning variatsiyasini belgilash uchun \\varsigma dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varSigma dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[21].tip": {
+    "message": " Sigma ning kichik harfi, to'g'ri holatni belgilash uchun \\Sigma dan foydalaning, katta harfni belgilash uchun \\Sigma dan foydalaning, yig'indisi belgisi \\sum ga teng. Katta harfning variatsiyasini belgilash uchun \\varSigma dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[22].tip": {
+    "message": "Tao ning kichik harfi, katta harfni belgilash uchun \\T dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[23].tip": {
+    "message": " Upsilon ning kichik harfi, katta harfni belgilash uchun \\Upsilon dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varupsilon dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varUpsilon dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[24].tip": {
+    "message": " Phi ning kichik harfi, katta harfni belgilash uchun \\Phi dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varphi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPhi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[25].tip": {
+    "message": " Phi ning kichik harfi, to'g'ri holatni belgilash uchun \\phi dan foydalaning, katta harfni belgilash uchun \\Phi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPhi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[26].tip": {
+    "message": "Chi ning kichik harfi, katta harfni belgilash uchun \\X dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[27].tip": {
+    "message": "Psi ning kichik harfi, katta harfni belgilash uchun \\Psi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPsi dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[28].tip": {
+    "message": " Omega ning kichik harfi, katta harfni belgilash uchun \\Omega dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varOmega dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[29].tip": {
+    "message": "Alpha ning katta harfi, kichik harfni belgilash uchun \\alpha dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[30].tip": {
+    "message": " Beta ning katta harfi, kichik harfni belgilash uchun \\beta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[31].tip": {
+    "message": " Gamma ning katta harfi, kichik harfni belgilash uchun \\gamma dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varGamma dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[32].tip": {
+    "message": " Delta ning katta harfi, kichik harfni belgilash uchun \\delta dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varDelta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[33].tip": {
+    "message": " Epsilon ning katta harfi, kichik harfni belgilash uchun \\epsilon dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varepsilon dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[34].tip": {
+    "message": "Zeta ning katta harfi, kichik harfni belgilash uchun \\zeta dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[35].tip": {
+    "message": " Eta ning katta harfi, kichik harfni belgilash uchun \\eta dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[36].tip": {
+    "message": "Theta ning katta harfi, kichik harfni belgilash uchun \\theta dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\vartheta dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varTheta dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[37].tip": {
+    "message": "Iota ning katta harfi, kichik harfni belgilash uchun \\iota dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[38].tip": {
+    "message": " Kappa ning katta harfi, kichik harfni belgilash uchun \\kappa dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varkappa dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[39].tip": {
+    "message": " Lambda ning katta harfi, kichik harfni belgilash uchun \\lambda dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varLambda dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[40].tip": {
+    "message": "Mu ning katta harfi, kichik harfni belgilash uchun \\mu dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[41].tip": {
+    "message": " Nu ning katta harfi, kichik harfni belgilash uchun \\nu dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[42].tip": {
+    "message": " Xi ning katta harfi, kichik harfni belgilash uchun \\xi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varXi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[43].tip": {
+    "message": "Omicron ning katta harfi, kichik harfni belgilash uchun \\omicron dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[44].tip": {
+    "message": " Pi ning katta harfi, kichik harfni belgilash uchun \\pi dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varPi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[45].tip": {
+    "message": " Rho ning katta harfi, kichik harfni belgilash uchun \\P dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varrho dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[46].tip": {
+    "message": " Sigma ning katta harfi, yig'indisi belgisi \\sum ga teng. Kichik harfni belgilash uchun \\sigma dan foydalaning. Kichik harfning variatsiyasini belgilash uchun \\varsigma dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varSigma dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[47].tip": {
+    "message": "Tau ning katta harfi, kichik harfni belgilash uchun \\tau dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[48].tip": {
+    "message": " Upsilon ning katta harfi, kichik harfni belgilash uchun \\upsilon dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varupsilon dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varUpsilon dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[49].tip": {
+    "message": " Phi ning katta harfi, kichik harfni belgilash uchun \\phi dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varphi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPhi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[50].tip": {
+    "message": " Phi ning katta harfi, kichik harfni belgilash uchun \\phi dan foydalaning, kichik harfning variatsiyasini belgilash uchun \\varphi dan foydalaning, katta harfning variatsiyasini belgilash uchun \\varPhi dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[51].tip": {
+    "message": "Upper case of Chi, use \\chi to denote lower case",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[52].tip": {
+    "message": " Upper case of Chi, use \\chi to denote lower case, use \\varPsi to denote variation of upper case",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[1].list[53].tip": {
+    "message": "Upper case ofOmega, use\\ omega to denote lower case, use\\ varOmega to denote variation of upper case",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].name": {
+    "message": "Sign of letters",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[0].tip": {
+    "message": "Any one, All, Every one",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[1].tip": {
+    "message": "Complementary sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[2].tip": {
+    "message": "Set of complex number",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[3].tip": {
+    "message": "Partial derivative sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[4].tip": {
+    "message": "Eth sign ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[5].tip": {
+    "message": "Variation of Epsilon sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[6].tip": {
+    "message": "Double Gamma function sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[7].tip": {
+    "message": "Hand-written upper case H",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[8].tip": {
+    "message": "Ancient German letter H",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[9].tip": {
+    "message": "Lower case h sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[10].tip": {
+    "message": "Planck constant sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[11].tip": {
+    "message": "Lower case of Iota, use \\I  to denote upper case",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[12].tip": {
+    "message": "Capital complex number notation",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[13].tip": {
+    "message": "Lower case j",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[14].tip": {
+    "message": "Lower case Kappa",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[15].tip": {
+    "message": "Hand-written L sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[16].tip": {
+    "message": "Hand-written lower case I sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[17].tip": {
+    "message": "Upper case N sign, denotes natural numbers set",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[19].tip": {
+    "message": "Upper case Q sign, denotes rational numbers set",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[21].tip": {
+    "message": "Ancient German letter R sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[22].tip": {
+    "message": "Board body R, denotes real numbers set ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[23].tip": {
+    "message": "Board body Z, denotes whole numbers set",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[24].tip": {
+    "message": "Hand-written e, denotes natural index number sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[25].tip": {
+    "message": "Exist sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[26].tip": {
+    "message": "Not exist sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[27].tip": {
+    "message": "Hand-written F sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[28].tip": {
+    "message": "Hand-written N",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[29].tip": {
+    "message": "Ancient Hebrew letter sign aleph",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[30].tip": {
+    "message": "Transfinite cardinal number sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[31].tip": {
+    "message": "Gimel function sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[2].list[32].tip": {
+    "message": "An ancient Semitic sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].name": {
+    "message": "Operative sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[0].tip": {
+    "message": "Plus sign is denoted by itself",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[1].tip": {
+    "message": "Minus sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[2].tip": {
+    "message": "Times sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[3].tip": {
+    "message": "Division sign, related:\\times times sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[4].tip": {
+    "message": "Plus-minus sign, plus on the top. Related:\\mp",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[5].tip": {
+    "message": "Minus-plus sign, plus on the top. Related:\\pm",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[6].tip": {
+    "message": "Direct proportional to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[7].tip": {
+    "message": "Snow flake sign, star sign ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[8].tip": {
+    "message": "Circle sign, complex function action sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[9].tip": {
+    "message": "Dot sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[10].tip": {
+    "message": "Big black dot sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[11].tip": {
+    "message": "Intersection sign, related:\\cup",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[12].tip": {
+    "message": "Union set sign, related:\\cap",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[13].tip": {
+    "message": "Disjoint union operator",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[14].tip": {
+    "message": "Denotes greatest lower bound",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[15].tip": {
+    "message": " least upper bound ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[16].tip": {
+    "message": "Ajratish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[17].tip": {
+    "message": "Deny sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[18].tip": {
+    "message": "Equal sign, related:\\not=",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[19].tip": {
+    "message": "Not equal sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[20].tip": {
+    "message": "Less than sign, related:\\le\\gtll",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[21].tip": {
+    "message": "Greater than sign, related:\\ge\\lt\\gg",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[22].tip": {
+    "message": "Less than or equal to sign, related:\\It\\ge",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[23].tip": {
+    "message": "Greater than or equal to , related:\\gt\\le",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[24].tip": {
+    "message": "Not less than",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[25].tip": {
+    "message": "Neither less than nor equal to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[26].tip": {
+    "message": "Not greater than",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[27].tip": {
+    "message": "Neither greater than nor equal to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[28].tip": {
+    "message": "Equivalent sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[29].tip": {
+    "message": "Range sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[30].tip": {
+    "message": "Approximately equal to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[31].tip": {
+    "message": " Approximately equal to ",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[32].tip": {
+    "message": "Equivalent sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[33].tip": {
+    "message": "Not equivalent",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[34].tip": {
+    "message": "Not approximate to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[35].tip": {
+    "message": "Not approximate to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[36].tip": {
+    "message": "Not equivalent to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[37].tip": {
+    "message": "Direct proportional to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[38].tip": {
+    "message": "Far smaller than",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[39].tip": {
+    "message": "Far larger than",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[40].tip": {
+    "message": "Belong to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[41].tip": {
+    "message": "Include",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[42].tip": {
+    "message": "Not belong to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[43].tip": {
+    "message": "Not include",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[44].tip": {
+    "message": "Subset",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[45].tip": {
+    "message": "Superset",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[46].tip": {
+    "message": "Consists of",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[47].tip": {
+    "message": "Consist",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[48].tip": {
+    "message": "Preceding",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[49].tip": {
+    "message": "Succeeding",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[50].tip": {
+    "message": "Predecessor or apposition",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[51].tip": {
+    "message": "Successor or apposition",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[56].tip": {
+    "message": "Parallel to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[57].tip": {
+    "message": "Perpendicular to",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[58].tip": {
+    "message": "Derivative relationship",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[62].tip": {
+    "message": "Summation sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[63].tip": {
+    "message": "Single integral",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[64].tip": {
+    "message": "Double integral",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[65].tip": {
+    "message": "Triple integral",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[66].tip": {
+    "message": "Circle integral sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[67].tip": {
+    "message": "Area integral sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[68].tip": {
+    "message": "Volume integral sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[69].tip": {
+    "message": "Cumprod sign",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[71].tip": {
+    "message": "Qirqish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[72].tip": {
+    "message": "Birlashma to'plami belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[73].tip": {
+    "message": "Ajratish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[3].list[74].tip": {
+    "message": "Birlashish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[4].name": {
+    "message": "Arrow",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[4].list[56].name": {
+    "message": "\\xrightarrow[Heating]{Catalyst}",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[4].list[57].name": {
+    "message": "\\xlongequal{Light up}",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].name": {
+    "message": "Hand-written letter",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[0].tip": {
+    "message": "Lower case variation letter, can be denoted by \\cal",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[1].tip": {
+    "message": "Upper case variation letter, can be denoted by \\cal",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[2].tip": {
+    "message": "Black board letter, can be denoted by \\Bbb",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[3].tip": {
+    "message": "Black board letter, can be denoted by \\Bbb",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[4].tip": {
+    "message": "Ancient German letter, can be denoted by \\frak",
+    "description": "对应公式编辑器页面"
+  },
+  "symbols[5].list[5].tip": {
+    "message": " Ancient German letter, can be denoted by \\frak ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].name": {
+    "message": "Common formulas",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[0].tip": {
+    "message": "Use \\sqrt [index]{radicand}to denote radical, square root can be denoted by \\sqrt{}. Related:\\root",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[1].tip": {
+    "message": " Use \\sqrt [index]{radicand}to denote radical, square root can be denoted by \\sqrt{}. Related:\\root ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[2].tip": {
+    "message": "Use_ to denote subscript, if subscript is more than a sign, use {} to contain. Related^",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[3].tip": {
+    "message": "Use ^ to denote superscript, if superscript is more than a sign, use {} to contain. Related _",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[4].tip": {
+    "message": "Subscript and superscript exist at the same time",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[5].tip": {
+    "message": "There is a composite structure in superscript",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[6].tip": {
+    "message": "Fraction can be denoted by \\frac{numerator}{denominator} or \\dfrac{numerator}{denominator} . The former can be adjusted according to the display of lines and equation, the latter display consistently in both lines and equation",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[7].tip": {
+    "message": "The horizontal form of fraction is usually used to denote simple fractions",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[8].tip": {
+    "message": "Fraction can be denoted by \\frac{numerator}{denominator} or \\dfrac{numerator}{denominator} . The former can be adjusted according to the display of lines and equation, the latter display consistently in both lines and equation",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[9].tip": {
+    "message": "Fraction can be denoted by \\frac{numerator}{denominator} or \\dfrac{numerator}{denominator} . The former can be adjusted according to the display of lines and equation, the latter display consistently in both lines and equation",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[10].tip": {
+    "message": "Differential ratio",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[11].tip": {
+    "message": "Finite difference ratio",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[12].tip": {
+    "message": "Partial differential ratio",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[13].tip": {
+    "message": "Differential ratio",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[14].tip": {
+    "message": "Common expressions of complex functions",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[15].tip": {
+    "message": "Common root form",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[16].tip": {
+    "message": "Common root form",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[0].list[17].tip": {
+    "message": "Continuous fraction form ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].name": {
+    "message": "Function",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[0].tip": {
+    "message": "Logarithm function, related:\\n",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[1].tip": {
+    "message": "Common logarithm function, related:\\n",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[2].tip": {
+    "message": "Logarithm function with a natural number as base number, related:\\log",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[3].tip": {
+    "message": "Sine function",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[4].tip": {
+    "message": "Cosine function",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[5].tip": {
+    "message": "Tangent function,related:\\cot",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[6].tip": {
+    "message": "Cotangent function, related:\\tan",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[7].tip": {
+    "message": "Secant function, related:\\csc",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[8].tip": {
+    "message": "Secant function, related:\\sec",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[9].tip": {
+    "message": "Hyperbolic sine function, related:\\cosh",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[10].tip": {
+    "message": "Hyperbolic cosine function, related:\\sinh",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[11].tip": {
+    "message": "Hyperbolic tangent function, related:\\coth",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[12].tip": {
+    "message": "Hyperbolic cotangent function, related:\\tanh",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[13].tip": {
+    "message": "Arc-sine function",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[14].tip": {
+    "message": "Arc-cosine function",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[15].tip": {
+    "message": "Arc-tangent function ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[1].list[16].tip": {
+    "message": "Trigonometric equation",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].name": {
+    "message": "Bracket",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[0].tip": {
+    "message": "Parenthesis, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[1].tip": {
+    "message": "Square bracket, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[2].tip": {
+    "message": "Vertical separator, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[3].tip": {
+    "message": "Brace, use transform backslash expressions to denote",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[4].tip": {
+    "message": "Angle bracket, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[5].tip": {
+    "message": "Square bracket, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[6].tip": {
+    "message": "Left and right corner sign, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[7].tip": {
+    "message": "Can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[8].tip": {
+    "message": "Angle bracket, can use \\left and \\right to adjust the height",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[9].tip": {
+    "message": " Left and right corner sign , can use \\left and \\right to adjust the height ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[10].tip": {
+    "message": "Beard , can use \\left and \\right to adjust the height ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[11].tip": {
+    "message": "Norm tag, can use \\left and \\right to adjust the height ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[12].tip": {
+    "message": "in",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[14].tip": {
+    "message": "Scalar product sign",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[16].tip": {
+    "message": "Vertical column denotes 1",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[17].tip": {
+    "message": "Vertical column denotes 2",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[18].tip": {
+    "message": " Vertical column denotes 3",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[19].tip": {
+    "message": " Vertical column denotes 4",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[20].tip": {
+    "message": "Binomial distribution coefficient denotes, related:\\binom n k",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[21].tip": {
+    "message": " Binomial distribution coefficient , related:\\binom n k",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[23].tip": {
+    "message": "Common form of fraction",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[2].list[24].tip": {
+    "message": "Piecewise fraction, use \\begin{case} equation\\end{cases} to denote",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].name": {
+    "message": "Derivative sign",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[0].tip": {
+    "message": "Hat label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[1].tip": {
+    "message": "Curve label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[3].tip": {
+    "message": "Dot label, usually used on derivatives ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[4].tip": {
+    "message": "Double-dot label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[5].tip": {
+    "message": "Triple-dot label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[14].tip": {
+    "message": "Number of degree label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[15].tip": {
+    "message": "Direction label 1",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[16].tip": {
+    "message": " Direction label 2",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[3].list[17].tip": {
+    "message": " Direction label 3",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].name": {
+    "message": "Calculus",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[0].tip": {
+    "message": "Differential label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[1].tip": {
+    "message": "Partial differential label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[2].tip": {
+    "message": "Finite difference label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[3].tip": {
+    "message": "Derivative label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[4].tip": {
+    "message": "The first derivative of function label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[5].tip": {
+    "message": "Integral label 1, integration is limited on the left",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[6].tip": {
+    "message": " Integral label 2, integration is limited on the top and bottom ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[7].tip": {
+    "message": "Double integral label, related:\\int\\iiint",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[8].tip": {
+    "message": "Double integral label, integration is limited on the right. Use \\limits_{lower limit}^{upper limit} to denotes upper and lower limits’ label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[9].tip": {
+    "message": "Double integral label, integration is limited on top and bottom",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[10].tip": {
+    "message": "Triple integral label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[11].tip": {
+    "message": " Triple integral, integration is limited on the right, use \\limits_{lower limit}^{upper limit} to denote upper and lower limits’ label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[12].tip": {
+    "message": "Triple integral, integration is limited on the top and bottom",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[13].tip": {
+    "message": "Contour integral label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[14].tip": {
+    "message": " Contour integral, integration is limited on top and bottom",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[15].tip": {
+    "message": " Contour integral, integration is limited on the right",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[16].tip": {
+    "message": "Area integral label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[17].tip": {
+    "message": "Area integral, integration is limited on top and bottom",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[18].tip": {
+    "message": " Area integral, integration is limited on the right",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[19].tip": {
+    "message": "Volume integral label",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[20].tip": {
+    "message": "Volume integral label, integration is limited on top and bottom ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[21].tip": {
+    "message": " Volume integral label, integration is limited on the right",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[22].tip": {
+    "message": "Limit, limit label is on the right",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[4].list[23].tip": {
+    "message": "Limit, use \\limits_{} to display limit label on the right bottom",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].name": {
+    "message": "Matrix",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[0].tip": {
+    "message": " Ellipsis, display by horizontally centered ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[1].tip": {
+    "message": " Ellipsis, display on the bottom line position ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[2].tip": {
+    "message": "Vertical ellipsis",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[3].tip": {
+    "message": "Oblique ellipsis, usually used to denote the omitted part of the matrix",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[4].tip": {
+    "message": "Single-row matrixes, use & to separate different columns",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[5].tip": {
+    "message": " Single-row matrixes, use \\\\or\\cr to separate different columns ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[6].tip": {
+    "message": "2*2 matrix denotes, not including brackets",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[7].tip": {
+    "message": "Parenthesis surrounds 2*2 matrix, use \\left \\right to adjust the size of parenthesis automatically",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[8].tip": {
+    "message": "Arrow bracket surrounds 2*2 matrix, use \\left \\right to adjust the size of parenthesis automatically ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[9].tip": {
+    "message": "Square bracket surrounds 2*2 matrix, use \\left \\right to adjust the size of parenthesis automatically ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[10].tip": {
+    "message": "Qavs 2*2 matritsani o'rab, qavsning o'lchamini avtomatik ravishda sozlash uchun \\left \\right dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[11].tip": {
+    "message": "Vertikal chiziq 2*2 matritsani o'rab, qavsning o'lchamini avtomatik ravishda sozlash uchun \\left \\right dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[12].tip": {
+    "message": "Ikki marta vertikal chiziq 2*2 matritsani o'rab, qavsning o'lchamini avtomatik ravishda sozlash uchun \\left \\right dan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[13].tip": {
+    "message": "Kvadrat qavs 2*2 matritsani o'rab, {bmatrix} muhit yorlig'idan foydalaning ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[14].tip": {
+    "message": "Matritsa 1*3, turli ustunlarni ajratish uchun & dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[15].tip": {
+    "message": "Matrix 3*1, use \\\\ or \\cr to separate different columns",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[16].tip": {
+    "message": "Matritsa 2*3",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[17].tip": {
+    "message": "Augmented matrix, use \\begin{array}\\end{array} environment, add vertical lines at the aligning label behind \\begin{array}, to denote vertical separation { cc|c }",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[18].tip": {
+    "message": "Umumiy 3*3 matritsa",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[19].tip": {
+    "message": "3*3 ko'p qatlamli matritsa",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[20].name": {
+    "message": "\\begin{array}{c|lcr} n & \\text{left-align} & \\text{center-align} & \\text{right-aligned} \\cr \\hline 1 & 0.24 & 1 & 125 \\cr 2 & -1 & 189 & -8 \\cr 3 & -20 & 2000 & 1+10i \\end{array}",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[20].tip": {
+    "message": "Jadval ko'rinishidagi matritsa. Vertikal ajratish chiziqlari qo'shish uchun hizalanish yorlig'i { c|lcr } dan foydalaning, gorizontal ajratish chiziqlari belgilash uchun \\hline dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[5].list[21].tip": {
+    "message": "Matritsa m*n",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].name": {
+    "message": "Katta operator",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[0].tip": {
+    "message": "Yig'indisi belgisi, belgining o'lchami yuqori va pastki cheklovlarga qarab avtomatik ravishda sozlanadi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[1].tip": {
+    "message": " Yig'indisi belgisi, yuqori va pastki cheklovlarni belgilash uchun yuqori kichik shkala dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[2].tip": {
+    "message": "Yig'indisi belgisi, yuqori va pastki cheklovlarni o'ng yuqori va o'ng pastda ko'rsatish uchun \\limits_{lower limit}^{upper limit} dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[3].tip": {
+    "message": "Umumiy yig'indisi yorlig'i",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[4].tip": {
+    "message": "Ko'paytirish belgisi, belgining o'lchami tenglamaga qarab avtomatik ravishda sozlanadi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[5].tip": {
+    "message": "Ko'paytirish belgisi, yuqori va pastki cheklovlar belgining o'ng tomonida",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[6].tip": {
+    "message": " Ko'paytirish belgisi, yuqori va pastki cheklovlar o'ng yuqori va o'ng pastda ko'rsatiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[7].tip": {
+    "message": "Umumiy ko'paytirish shakli",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[12].tip": {
+    "message": "Qirqish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[13].tip": {
+    "message": " Qirqish belgisi, yuqori va pastki cheklovlar o'ng tomonida ko'rsatiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[14].tip": {
+    "message": " Qirqish belgisi, yuqori va pastki cheklovlar o'ng yuqori va o'ng pastda ko'rsatiladi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[15].tip": {
+    "message": "Umumiy qirqish operatsiyasi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[16].tip": {
+    "message": "Birlashma to'plami belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[17].tip": {
+    "message": " Birlashma to'plami belgisi, yuqori va pastki cheklovlar o'ng tomonida ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[18].tip": {
+    "message": " Birlashma to'plami belgisi, yuqori va pastki cheklovlar o'ng yuqori va o'ng pastda ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[19].tip": {
+    "message": "Umumiy birlashma to'plami operatsiyasi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[20].tip": {
+    "message": "Ajratish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[21].tip": {
+    "message": "Ajratish belgisi, yuqori va pastki cheklovlar o'ng tomonida ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[22].tip": {
+    "message": " Ajratish belgisi, yuqori va pastki cheklovlar o'ng yuqori va o'ng pastda ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[23].tip": {
+    "message": "Umumiy ajratish operatsiyasi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[24].tip": {
+    "message": "Birlashish belgisi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[25].tip": {
+    "message": "Birlashish belgisi, yuqori va pastki cheklovlar o'ng tomonida ko'rsatiladi ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[26].tip": {
+    "message": "Conjunction sign, upper and lower limits are displayed on the right above and right below ",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[27].tip": {
+    "message": "Umumiy birlashish operatsiyasi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[28].tip": {
+    "message": "Ikki o'zgaruvchanli yig'indisi umumiy tenglamasi",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[6].list[29].tip": {
+    "message": "Umumiy to'plam operatsiyasi formulalari",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[7].name": {
+    "message": "Katta formula",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[7].list[0].tip": {
+    "message": "Hizalanish joyini belgilash uchun & dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[7].list[1].tip": {
+    "message": "Text is denoted by \\text",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[7].list[2].tip": {
+    "message": "Use \\begin{align}\\end{align} surrounds equation set",
+    "description": "对应公式编辑器页面"
+  },
+  "formulas[7].list[3].tip": {
+    "message": "Tenglama qator almashishni talab qilsa, \\cr yoki \\ dan foydalaning, hizalanish joyini ta'minlash uchun & dan foydalaning",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[0].name": {
+    "message": "Matematika",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[0].list[0].tip": {
+    "message": "Hisoblashning asosiy teoremasi",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[0].list[1].tip": {
+    "message": "Matritsa ko'paytirish",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[1].name": {
+    "message": "Fizika",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[1].list[0].tip": {
+    "message": "The integral form of Maxwell’s equation",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[1].list[1].tip": {
+    "message": " The integral form of Maxwell’s equation ",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].name": {
+    "message": "Chemistry",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[0].tip": {
+    "message": "Umumiy kimyoviy formulalar",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[1].tip": {
+    "message": " Common chemical formulas ",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[2].tip": {
+    "message": "Kimyoviy aloqalarni belgilash",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[3].tip": {
+    "message": "Yadroning sun'iy o'zgarishi",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[4].name": {
+    "message": "\\ce{5O2 + 4P \\xlongequal{ignite} 2P2O5}",
+    "description": "对应公式编辑器页面"
+  },
+  "subjects[2].list[4].tip": {
+    "message": "Kimyoviy tenglama",
+    "description": "对应公式编辑器页面"
+  }
+}
