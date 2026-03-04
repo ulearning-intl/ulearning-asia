@@ -1,0 +1,610 @@
+{
+  "allStudentsList": {
+    "message": "Barcha talabalar",
+    "description": "2.0 certification.js "
+  },
+  "passStuList": {
+    "message": "Yutuq topgan talabalar",
+    "description": "2.0 certification.js "
+  },
+  "excellenceStuList": {
+    "message": "A'lo darajada o'tgan talabalar",
+    "description": "2.0 certification.js "
+  },
+  "unqualifiedStuList": {
+    "message": "Sifatli emas bo'lgan talabalar",
+    "description": "2.0 certification.js "
+  },
+  "allClasses": {
+    "message": "Barcha sinflar",
+    "description": "2.0 certification.js "
+  },
+  "pass": {
+    "message": "Sifatli",
+    "description": "2.0 certification.js "
+  },
+  "certificateConfirm": {
+    "message": "Sertifikatlarni berishga ishonchingiz komilmi?",
+    "description": "2.0 certificate.js"
+  },
+  "certificateIssuedSuccess": {
+    "message": "Muvaffaqiyatli berildi!",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificateFailed": {
+    "message": "Sertifikatlarni berishda xatolik yuz berdi!",
+    "description": "2.0 certification.js "
+  },
+  "batchIssueCertificates": {
+    "message": "Sertifikatlarni to'plam ravishda berish",
+    "description": "2.0 certification.js "
+  },
+  "batchTip": {
+    "message": "Barcha qabul qilingan talabalarga sertifikat berishga ishonchingiz komilmi? E'tibor bering, sertifikatlar berilgandan so'ng ularni o'zgartirish yoki qaytarib olish mumkin emas",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificate": {
+    "message": "Sertifikat berish",
+    "description": "2.0 certification.js "
+  },
+  "refreshFailed": {
+    "message": "Yangilashda xatolik yuz berdi",
+    "description": "2.0 certification.js "
+  },
+  "excellent": {
+    "message": "A'lo",
+    "description": "2.0 certification.js "
+  },
+  "certificateManagement": {
+    "message": "Sertifikatlarni boshqarish",
+    "description": "2.0 certification.js "
+  },
+  "certificateMaTip": {
+    "message": "Faqat dars o'qituvchilari yoki administratorlar sertifikatlarni boshqarishi va berishi mumkin",
+    "description": "2.0 certification.js "
+  },
+  "certificateSettings": {
+    "message": "Sertifikatlarni sozlash",
+    "description": "2.0 certification.js "
+  },
+  "certificateTemplate": {
+    "message": "Mening sertifikat shablonlarim",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificate": {
+    "message": "Shablon yaratish",
+    "description": "2.0 certificate.js"
+  },
+  "createBgImage": {
+    "message": "Orqa fon rasmi",
+    "description": "2.0 certificate.js"
+  },
+  "studentName": {
+    "message": "Talabaning ismi",
+    "description": "2.0 certificate.js"
+  },
+  "certificateBody": {
+    "message": "Sertifikat mazmuni",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNum": {
+    "message": "Sertifikat raqami",
+    "description": "2.0 certificate.js"
+  },
+  "createDate": {
+    "message": "Sana",
+    "description": "2.0 certificate.js"
+  },
+  "createSignature": {
+    "message": "Elektron imzo",
+    "description": "2.0 certificate.js"
+  },
+  "issuingUnit": {
+    "message": "Tashkilot tomonidan",
+    "description": "2.0 certificate.js"
+  },
+  "operating": {
+    "message": "Ko'rsatmalar: ",
+    "description": "2.0 certificate.js"
+  },
+  "changeBg": {
+    "message": "O'zgartirish",
+    "description": "2.0 certificate.js"
+  },
+  "editText": {
+    "message": "Tahrirlash",
+    "description": "2.0 certificate.js"
+  },
+  "scanCode": {
+    "message": "Skannerlash",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip1": {
+    "message": "Sertifikat komponentlarini tanlang",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip2": {
+    "message": "Sertifikat shablonining oldindan ko'rish",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip3": {
+    "message": "1. Orqa fon rasmi majburiy hisoblanadi. O'z orqa fon rasmingizni yuklash uchun O'zgartirish havolasini bosing. U jpg/jpeg/png formatlarini qo'llab-quvvatlaydi, maksimal 2 MB. Kenglik x Balandlik: 1754x1240 px yoki bir xil nisbatdagi boshqa o'lcham tavsiya etiladi.",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip4": {
+    "message": "Sertifikat mazmuni moslashtirilishi va tahrirlanishi mumkin. Elektron imzoningizni skanerlash va yuklash uchun Skannerlash havolasini bosing.",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip5": {
+    "message": "3. Agar Talabaning ismi va Tashkilot tomonidan tanlangan bo'lsa, ularning qiymatlari sertifikat berilganda tizim tomonidan avtomatik ravishda to'ldiriladi. Talabalarni profilida qonuniy ism foydalanishlari haqida eslatib oling.",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip6": {
+    "message": "4. Agar Sertifikat raqami va Sana tanlangan bo'lsa, ularning qiymatlari sertifikat berilganda tizim tomonidan avtomatik ravishda yaratiladi. Ularni tahrirlash mumkin emas.",
+    "description": "2.0 certificate.js"
+  },
+  "noFinish": {
+    "message": "Siz tanlagan elektron imzo yakunlanmagan, {finishSign} yoki {cancelSelect}",
+    "description": "{finishSign} va {cancelSelect} ikkita tugma bo'lib, to'liq jumla: Siz tanlagan elektron imzo yakunlanmagan, iltimos, imzoningizni yakunlang yoki tanlovni bekor qiling"
+  },
+  "finishSign": {
+    "message": "Imzoni yakunlash",
+    "description": "2.0 certificate.js"
+  },
+  "cancelSelect": {
+    "message": "Tanlovni bekor qilish",
+    "description": "2.0 certificate.js"
+  },
+  "cropBgImg": {
+    "message": "Orqa fon rasmini kesish ",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateName": {
+    "message": "Shablon nomini tahrirlash",
+    "description": "2.0 certificate.js"
+  },
+  "newTemplateTip": {
+    "message": "Shablon nomini kiriting",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateTip": {
+    "message": "Eslatma: Takroriy shablon nomlari ruxsat etilmaydi!",
+    "description": "2.0 certificate.js"
+  },
+  "outTime": {
+    "message": "Scanerlash vaqtida xatolik",
+    "description": "2.0 certificate.js"
+  },
+  "eligibleCertificateTem": {
+    "message": "Yutuq sertifikati shabloni",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCertificateTem": {
+    "message": "A'lo daraja sertifikati shabloni",
+    "description": "2.0 certificate.js"
+  },
+  "systemTemplate": {
+    "message": "Tizim shabloni",
+    "description": "2.0 certificate.js"
+  },
+  "selectTemplate": {
+    "message": "Shablonni tanlash",
+    "description": "2.0 certificate.js"
+  },
+  "refreshGrade": {
+    "message": "Natijalarni yangilash",
+    "description": "2.0 certification.js "
+  },
+  "exportList": {
+    "message": "Natijalarni eksport qilish",
+    "description": "2.0 certification.js "
+  },
+  "certSummary": {
+    "message": "Jami: {total} | Sifatli: {qualified} | Sifatli emas: {unqualified} | Yutuq darajasi: {rate}%",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish"
+  },
+  "certSummary2": {
+    "message": "Jami: {total} | Sifatli: {qualified} | Sifatli emas: {unqualified} | Yutuq darajasi: {rate}% | A'lo daraja: {excellent}%\n",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish"
+  },
+  "type": {
+    "message": "Sertifikat",
+    "description": "2.0 certification.js "
+  },
+  "certificateRequest": {
+    "message": "Qabul qilinish shartlari",
+    "description": "2.0 certification.js "
+  },
+  "selectedCertificateTem": {
+    "message": "Tanlangan shablon",
+    "description": "2.0 certificate.js"
+  },
+  "preview": {
+    "message": "Oldindan ko'rish",
+    "description": "2.0 certificate.js"
+  },
+  "passNum": {
+    "message": "Talabalar soni",
+    "description": "2.0 certification.js "
+  },
+  "proportion": {
+    "message": "Foizda",
+    "description": "2.0 certification.js "
+  },
+  "conformityCertificate": {
+    "message": "Yutuq sertifikati",
+    "description": "2.0 certification.js "
+  },
+  "sample": {
+    "message": "Ko'rish uchun bosing",
+    "description": "2.0 certification.js "
+  },
+  "sureSelect": {
+    "message": "Tanlovni tasdiqlash",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate": {
+    "message": "Shablon yaratish",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate2": {
+    "message": "Yangi sertifikat shabloni yaratish",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplate": {
+    "message": "Shablonni tahrirlash",
+    "description": "2.0 certificate.js"
+  },
+  "signErrorTip": {
+    "message": "Avval elektron imzo tanlang",
+    "description": "2.0 certificate.js"
+  },
+  "electronicSignature": {
+    "message": "Elektron imzo",
+    "description": "2.0 certificate.js"
+  },
+  "courseName": {
+    "message": "Dars nomi",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip1": {
+    "message": "Shablon nomi bo'sh bo'lmasligi kerak!",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip2": {
+    "message": "Shablon nomi allaqachon mavjud!",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip3": {
+    "message": "Shablon muvaffaqiyatli yaratildi!",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip4": {
+    "message": "Shablon muvaffaqiyatli yangilandi!",
+    "description": "2.0 certificate.js"
+  },
+  "editContent": {
+    "message": "Sertifikat mazmunini tahrirlash",
+    "description": "2.0 certificate.js"
+  },
+  "editContentTip1": {
+    "message": "Eslatma: Quotation belgilari ichidagi dars nomi (Guillemets - yon tomonga ikki baravar chevronlar shaklida) tizim tomonidan avtomatik ravishda to'ldiriladi. Siz shablon uchun kotirovka belgilari ichidagi dars nomini tahrirlashingiz mumkin. Biroq, agar siz dars nomi bilan kotirovka belgilarini o'chirsangiz, tizim bu shablondan foydalanib dars uchun sertifikat berishda dars nomini avtomatik ravishda to'ldirmaydi. Siz dars nomini qo'lda kiritishingiz kerak.",
+    "description": "2.0 certificate.js"
+  },
+  "scanCodeTitle": {
+    "message": "Imzo uchun QR kodni skanerlash",
+    "description": "2.0 certificate.js"
+  },
+  "signTip": {
+    "message": "Imzoningizni {time} ichida yakunlash uchun ULearning ilovasidan QA kodni skanerlang. Ruxsat etilgan vaqt ichida yakunlanmasa, oynani avtomatik ravishda yopishadi.",
+    "description": "2.0 certificate.js"
+  },
+  "defaultText": {
+    "message": "Standart",
+    "description": "2.0 certificate.js"
+  },
+  "setDefault": {
+    "message": "Standart sifatida belgilash",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefault": {
+    "message": "Standartni bekor qilish",
+    "description": "2.0 certificate.js"
+  },
+  "copyTemplate": {
+    "message": "Ko'chirib olish",
+    "description": "2.0 certificate.js"
+  },
+  "delTemplate": {
+    "message": "O'chirish",
+    "description": "2.0 certificate.js"
+  },
+  "confirmDelete": {
+    "message": "O'chirilgandan keyin tiklanmaydi, haqiqatan ham o'chirmoqchimisiz?",
+    "description": "2.0 certificate.js"
+  },
+  "deleteSuccessMsg": {
+    "message": "Muvaffaqiyatli o'chirildi!",
+    "description": "2.0 certificate.js"
+  },
+  "deleteFailMsg": {
+    "message": "O'chirishda xatolik yuz berdi!",
+    "description": "2.0 certificate.js"
+  },
+  "defaultSucMsg": {
+    "message": "Standart sifatida belgilash muvaffaqiyatli!",
+    "description": "2.0 certificate.js"
+  },
+  "defaultFailMsg": {
+    "message": "Standart sifatida belgilashda xatolik yuz berdi!",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultSuc": {
+    "message": "Standartni bekor qilish muvaffaqiyatli!",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultFail": {
+    "message": "Standartni bekor qilishda xatolik yuz berdi!",
+    "description": "2.0 certificate.js"
+  },
+  "copySuccessMsg": {
+    "message": "Muvaffaqiyatli ko'chirib olindi!",
+    "description": "2.0 certificate.js"
+  },
+  "copyFailMsg": {
+    "message": "Ko'chirib olishda xatolik yuz berdi!",
+    "description": "2.0 certificate.js"
+  },
+  "fileTypeError": {
+    "message": "Faqat jpg/jpeg/png formatidagi orqa fon rasmlari qo'llab-quvvatlanadi!",
+    "description": "2.0 certificate.js"
+  },
+  "nameErrorTip": {
+    "message": "Shablon nomi 70 ta belgidan oshmasligi kerak!",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip": {
+    "message": "Shablon mazmuni 256 ta belgidan oshmasligi kerak!",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip2": {
+    "message": "Shablon mazmunini kiriting",
+    "description": "2.0 certificate.js"
+  },
+  "courseAssessmentScore": {
+    "message": "Yakuniy baho",
+    "description": "2.0 certification.js "
+  },
+  "assessRule1": {
+    "message": "Yakuniy baho ≥ {min} ball va  < {max} ball\n",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish \n Talaba akkaunti -> Tekshirish -> Dars sertifikati"
+  },
+  "assessRule2": {
+    "message": "Yakuniy baho ≥ {n} ball",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish \n Talaba akkaunti -> Tekshirish -> Dars sertifikati"
+  },
+  "assessRule3": {
+    "message": "Yakuniy baho  < {n} ball",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish"
+  },
+  "excellenceCertificate": {
+    "message": "A'lo daraja sertifikati",
+    "description": "2.0 certification.js "
+  },
+  "unqualified": {
+    "message": "Sifatli emas",
+    "description": "2.0 certification.js "
+  },
+  "studentList": {
+    "message": "Talabalar ro'yxati",
+    "description": "2.0 certification.js "
+  },
+  "lastCertificateIssued": {
+    "message": "Oxirgi berilgan: ",
+    "description": "2.0 certification.js "
+  },
+  "username": {
+    "message": "Foydalanuvchi nomi",
+    "description": "2.0 certification.js "
+  },
+  "actualName": {
+    "message": "Qonuniy ism",
+    "description": "2.0 certification.js "
+  },
+  "explanation": {
+    "message": "ko'proq >>",
+    "description": "2.0 certification.js "
+  },
+  "explanationContent": {
+    "message": "Sertifikat berilganda yakuniy bahoga asoslangan. Yangilangan yakuniy baho allaqachon berilgan sertifikatning sifatini va turini o'zgartirmaydi.",
+    "description": "2.0 certification.js "
+  },
+  "certificateType": {
+    "message": "Sertifikat",
+    "description": "2.0 certification.js "
+  },
+  "certificateIssued": {
+    "message": "Berilgan sertifikatlar",
+    "description": "2.0 certification.js "
+  },
+  "NoResults": {
+    "message": "Hech qanday natija topilmadi!",
+    "description": "2.0 certification.js "
+  },
+  "noCourseAssessment": {
+    "message": "Baholash qoidalari o'rnatilmagan darslar uchun sertifikatlar berilmaydi.",
+    "description": "2.0 certification.js "
+  },
+  "clickToSet": {
+    "message": "Sozlash uchun bosing >>",
+    "description": "2.0 certification.js "
+  },
+  "noCertificate": {
+    "message": "Sertifikatlar hali o'rnatilmagan",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip1": {
+    "message": " Sertifikat berilgan va sertifikat sozlamalarini o'zgartirish qo'llab-quvvatlanmaydi ",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip2": {
+    "message": "Eslatma: Sertifikatlarni o'rnatishdan oldin baholash qoidalari o'rnatilishi kerak.",
+    "description": "2.0 certification.js "
+  },
+  "gradeRule1": {
+    "message": "Yutuq sertifikati uchun yakuniy baho ≥ {input} ball\n",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish -> Sertifikatlarni sozlash"
+  },
+  "gradeRule2": {
+    "message": "Yutuq sertifikati uchun yakuniy baho ≥ {inputLow} ball, lekin < {inputHigh} ball\n",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish -> Sertifikatlarni sozlash"
+  },
+  "gradeRule3": {
+    "message": "A'lo daraja sertifikati uchun yakuniy baho ≥ {input} ball\n",
+    "description": "O'qituvchi akkaunti -> Tekshirish -> Sertifikatlarni boshqarish -> Sertifikatlarni sozlash"
+  },
+  "setPass": {
+    "message": "Faqat Yutuq sertifikati",
+    "description": "2.0 certification.js "
+  },
+  "setPassAndExcellence": {
+    "message": "Hamma Yutuq va A'lo daraja sertifikatlari",
+    "description": "2.0 certification.js "
+  },
+  "enterScore": {
+    "message": "Baho ni shu yerga kiriting",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip": {
+    "message": "To'g'ri baho kiriting, faqat bir xona o'nlik",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip1": {
+    "message": "Kirgan baho yakuniy baho uchun belgilangan mumkin bo'lgan ballardan oshmasligi kerak.",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip2": {
+    "message": "Yutuq bahosi a'lo bahodan yuqori bo'lishi mumkin emas",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip3": {
+    "message": "Faqat sinf administratori sertifikatlarni o'rnata oladi",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip4": {
+    "message": "Ba'zi sertifikatlar allaqachon berilgan. Sertifikatlarning qabul qilinish shartlari o'zgartirilmaydi.",
+    "description": "2.0 certification.js "
+  },
+  "save": {
+    "message": "Saqlash",
+    "description": "2.0 certification.js "
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "2.0 certification.js "
+  },
+  "close": {
+    "message": "Yopish",
+    "description": "2.0 certification.js "
+  },
+  "certificate": {
+    "message": "Sertifikat",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip5": {
+    "message": "Muvaffaqiyatli saqlandi!",
+    "description": "2.0 certification.js "
+  },
+  "studentID": {
+    "message": "Talaba IDsi",
+    "description": "2.0 certification.js "
+  },
+  "school": {
+    "message": "Maktab",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedCert2": {
+    "message": "{coursename} darsini muvaffaqiyatli tamomlaganingiz uchun tabriklaymiz. Sizga Yutuq sertifikati beriladi.",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCert2": {
+    "message": "{coursename} darsini muvaffaqiyatli tamomlaganingiz uchun tabriklaymiz. Sizga A'lo daraja sertifikati beriladi.\n",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNo": {
+    "message": "Sertifikat raqami",
+    "description": "2.0 certification.js "
+  },
+  "certificateSignature": {
+    "message": "Elektron imzo",
+    "description": "2.0 certificate.js"
+  },
+  "CertificateIssuing": {
+    "message": "Tashkilot tomonidan",
+    "description": "2.0 certificate.js"
+  },
+  "issueDate": {
+    "message": "Sana",
+    "description": "2.0 certification.js "
+  },
+  "certificateReq": {
+    "message": "Sertifikatlarning qabul qilinish shartlari: ",
+    "description": "2.0 certification.js "
+  },
+  "viewExample": {
+    "message": "Namunani ko'rish",
+    "description": "2.0 certification.js "
+  },
+  "myCertificate": {
+    "message": "Mening sertifikatlarim",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedNotice": {
+    "message": "Siz Yutuq sertifikati uchun zarur bo'lgan minimal dars bahosiga erishdingiz va sertifikatlarning qabul qilinish shartlarini qondirdingiz. Tabriklaymiz!",
+    "description": "Talaba akkaunti -> Tekshirish -> Dars sertifikati (o'qituvchi sertifikat berganidan keyin ko'rinadi)"
+  },
+  "excellentNotice": {
+    "message": "Siz A'lo daraja sertifikati uchun zarur bo'lgan minimal dars bahosiga erishdingiz va sertifikatlarning qabul qilinish shartlarini qondirdingiz. Tabriklaymiz!",
+    "description": "Talaba akkaunti -> Tekshirish -> Dars sertifikati (o'qituvchi sertifikat berganidan keyin ko'rinadi)"
+  },
+  "certificateStuTip": {
+    "message": "Eslatma: Sertifikatlar berilgandan so'ng yangilanmaydi, hatto dars bahoingiz o'zgargan bo'lsa ham.",
+    "description": "2.0 certification.js "
+  },
+  "downloadCertificate": {
+    "message": "Sertifikatni yuklab olish",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip": {
+    "message": "Hech qanday sertifikat topilmadi",
+    "description": "2.0 certification.js "
+  },
+  "certTip": {
+    "message": "Sertifikatlardagi ma'lumotlarning to'g'riligini ta'minlash uchun, iltimos {informLink} ",
+    "description": "Talaba akkaunti -> Tekshirish -> Dars sertifikati (hali sertifikat berilmaganida ko'rinadi)"
+  },
+  "informLink": {
+    "message": "profil ma'lumotlaringizni to'ldiring (agar hali qilmagan bo'lsangiz).",
+    "description": "2.0 certificate.js"
+  },
+  "notSetCerTip": {
+    "message": "Sizning o'qituvchingiz hech qanday dars sertifikati o'rnatmagan.",
+    "description": "2.0 certification.js "
+  },
+  "newTemplate": {
+    "message": "Shablon nomini kiriting",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip3": {
+    "message": "Shablon mazmuni 100 ta belgidan oshmasligi kerak",
+    "description": "2.0 certificate.js"
+  },
+  "saveTemplateCheck": {
+    "message": "Kamida bitta elementni belgilang",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip4": {
+    "message": "Shablon mazmuni 160 so'zdan oshmasligi kerak",
+    "description": "2.0 certificate.js"
+  }
+}

@@ -1,0 +1,1570 @@
+{
+  "teacher": {
+    "message": "O'qituvchi",
+    "description": "2.0 index.js"
+  },
+  "teacher2": {
+    "message": "O'qituvchi",
+    "description": "2.0 index.js"
+  },
+  "welcomeTea": {
+    "message": "Xush kelibsiz, {name}!",
+    "description": "印尼语翻译老师请注意：由于印尼语前面有一个性别称呼，因此，整个句子使用 “|” 分为三个部分，第一个部分对应女性，第二个部分对应男性，但三个部分对应性别未知。其它老师请无视。"
+  },
+  "day": {
+    "message": "Kun",
+    "description": "2.0 index.js"
+  },
+  "hour": {
+    "message": "Soat",
+    "description": "2.0 index.js"
+  },
+  "student": {
+    "message": "O'quvchi",
+    "description": "2.0 index.js"
+  },
+  "welcomeStu": {
+    "message": "Xush kelibsiz, {name}!",
+    "description": "2.0 index.js"
+  },
+  "more": {
+    "message": " Ko'proq",
+    "description": "2.0 index.js"
+  },
+  "allCourse": {
+    "message": "Barcha kurslar",
+    "description": "2.0 index.js"
+  },
+  "publicCourse": {
+    "message": "Ochiq kurslar",
+    "description": "2.0 index.js"
+  },
+  "searchCourse": {
+    "message": "Kurs qidirish",
+    "description": "2.0 index.js"
+  },
+  "createCourse": {
+    "message": "Kurs yaratish",
+    "description": "2.0 index.js"
+  },
+  "joinCourse": {
+    "message": "Kurs/Sinfga yozilish",
+    "description": "2.0 index.js"
+  },
+  "activeTextbook": {
+    "message": "E-kitobni faollashtirish",
+    "description": "2.0 index.js"
+  },
+  "toSelectCourse": {
+    "message": "Kursni tanlash",
+    "description": "2.0 index.js"
+  },
+  "create": {
+    "message": "Yaratish",
+    "description": "2.0 index.js"
+  },
+  "all": {
+    "message": "Hamma",
+    "description": "2.0 index.js"
+  },
+  "ing": {
+    "message": "Jarayonda",
+    "description": "2.0 index.js"
+  },
+  "ended": {
+    "message": "Tugagan",
+    "description": "2.0 index.js"
+  },
+  "end": {
+    "message": "Tugatish",
+    "description": "2.0 index.js"
+  },
+  "close": {
+    "message": "Yopish",
+    "description": "2.0 index.js"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "2.0 index.js"
+  },
+  "modify": {
+    "message": "Tahrirlash",
+    "description": "2.0 index.js"
+  },
+  "delete": {
+    "message": "O'chirish",
+    "description": "2.0 index.js"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "2.0 index.js"
+  },
+  "unpublish": {
+    "message": "Nashr etilmagan",
+    "description": "2.0 index.js"
+  },
+  "published": {
+    "message": "Nashr etilgan",
+    "description": "2.0 index.js"
+  },
+  "waitForCheck": {
+    "message": "Ro'yxatdan o'tish so'rovi yuborilgan va o'qituvchining tasdiqlanishini kutmoqda.",
+    "description": "2.0 index.js"
+  },
+  "undoApplication": {
+    "message": "Ro'yxatdan o'tish so'rovini bekor qilish",
+    "description": "2.0 index.js"
+  },
+  "none": {
+    "message": "Yo'q",
+    "description": "2.0 index.js"
+  },
+  "modifyCourse": {
+    "message": "Kursni tahrirlash",
+    "description": "2.0 index.js"
+  },
+  "endCourse": {
+    "message": "Kursni tugatish",
+    "description": "2.0 index.js"
+  },
+  "deleteCourse": {
+    "message": "Kursni o'chirish",
+    "description": "2.0 index.js"
+  },
+  "courseDetail": {
+    "message": "Kurs tafsilotlari",
+    "description": "2.0 index.js"
+  },
+  "quitCourse": {
+    "message": "Chiqish",
+    "description": "2.0 index.js"
+  },
+  "checkCourseSummary": {
+    "message": "Kurs xulosasi",
+    "description": "2.0 index.js"
+  },
+  "class": {
+    "message": "Sinf",
+    "description": "2.0 index.js"
+  },
+  "courseWillEnd": {
+    "message": "Kurs {time} da tugaydi",
+    "description": "课程列表"
+  },
+  "courseHasEnd": {
+    "message": "{time} da tugagan",
+    "description": "课程列表 -> 已结束"
+  },
+  "courseCountdown": {
+    "message": "Kurs boshlanishidan oldin {n} kun qoldi",
+    "description": "课程列表 (需要课程为公开课)"
+  },
+  "searchNoCourse": {
+    "message": "Kurslar topilmadi!",
+    "description": "2.0 index.js"
+  },
+  "noCourse": {
+    "message": "Kurs topilmadi!",
+    "description": "2.0 index.js"
+  },
+  "clickToCreateCourse": {
+    "message": "Kurs yaratish uchun o'ng yuqori burchakdagi Kurs yaratish tugmasini bosing",
+    "description": "2.0 index.js"
+  },
+  "clickToJoinCourse": {
+    "message": "Sinfga yozilish uchun o'ng yuqori burchakdagi tugmani bosing!",
+    "description": "2.0 index.js"
+  },
+  "notJoinCourse": {
+    "message": "Siz hech qanday kursga yozilmagansiz",
+    "description": "2.0 index.js"
+  },
+  "netError": {
+    "message": "Tarmoq xatosi - Sahifani qayta yuklash uchun {reloadButton} tugmasini bosing",
+    "description": "教师或学生账户 -> 课程列表"
+  },
+  "reload": {
+    "message": "Qayta yuklash",
+    "description": "2.0 index.js"
+  },
+  "courseTitle": {
+    "message": "Kurs nomi",
+    "description": "2.0 index.js"
+  },
+  "courseExist": {
+    "message": "Kurs nomi allaqachon mavjud",
+    "description": "2.0 index.js"
+  },
+  "courseTitleTips": {
+    "message": "Bir xil nomli kurs allaqachon mavjud. Sizga alohida kurs yaratish kerakligini bilish uchun avval ushbu kursning administratori bilan muloqot qilish tavsiya etiladi.",
+    "description": "2.0 index.js"
+  },
+  "courseTitleExistTips": {
+    "message": "Bir xil nomli kurs ({name} tomonidan yaratilgan) allaqachon mavjud. Sizga alohida kurs yaratish kerakligini bilish uchun avval ushbu kursning administratori bilan muloqot qilish tavsiya etiladi.",
+    "description": "2.0 index.js"
+  },
+  "isContinueCreate": {
+    "message": "Yaratishni davom ettirishni xohlaysizmi?",
+    "description": "2.0 index.js"
+  },
+  "continCreate": {
+    "message": "Yaratishni davom ettirish",
+    "description": "2.0 index.js"
+  },
+  "continue": {
+    "message": "Davom ettirish",
+    "description": "2.0 index.js"
+  },
+  "courseType": {
+    "message": "Kurs turi",
+    "description": "2.0 index.js"
+  },
+  "unchangeableTips": {
+    "message": "Yaratilgandan keyin o'zgartirilishi mumkin emas, ehtiyot bo'ling.",
+    "description": "2.0 index.js"
+  },
+  "schoolCourse": {
+    "message": "Maktab ichki kurslari",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips1": {
+    "message": "Ochiq kurslar faqat ba'zi hamkor maktablar va o'qituvchilar uchun ochiq",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips2": {
+    "message": "Agar siz ochiq kurslar yaratmoqchi bo'lsangiz yoki onlayn ochiq kurs dasturlariga ariza qilmoqchi bo'lsangiz, iltimos, ehtiyojlaringiz va talablaringiz bilan mijoz xizmatlari (service.sg@ulearning.cn) bilan bog'laning. Biz tez orada siz bilan bog'lanamiz.",
+    "description": "2.0 index.js"
+  },
+  "publicCcourseTips3": {
+    "message": "Onlayn kurslar umumiy e'lon ostida. Bu o'z tezligida o'qish - barcha uchun bitta sessiya va hech qanday sinf faoliyati yo'q.",
+    "description": "2.0 index.js"
+  },
+  "schoolCourseTips1": {
+    "message": "Faqat maktab o'quvchilari uchun ochiq, sinf faoliyati bilan. Bir nechta kurs sessiyalari (sinflar) taqdim etilishi mumkin.",
+    "description": "2.0 index.js"
+  },
+  "courseCover": {
+    "message": "Kurs qopqog'i",
+    "description": "2.0 index.js"
+  },
+  "localUpload": {
+    "message": "Rasm yuklash",
+    "description": "2.0 index.js"
+  },
+  "courseTips": {
+    "message": "Eslatma: Bir nechta o'qituvchi tomonidan o'qitiladigan yoki boshqariladigan kurslar uchun faqat bitta kurs yaratilishi kerak. Kurs yaratilgandan keyin boshqa o'qituvchilar qo'shilishi mumkin.",
+    "description": "2.0 index.js"
+  },
+  "cropCover": {
+    "message": "Rasmni kesish",
+    "description": "2.0 index.js"
+  },
+  "deleteCourseTips1": {
+    "message": "Ehtiyot bo'ling. Kurs o'chirish qaytarilmaydi. Haqiqatan ham uni o'chirishni xohlaysizmi?",
+    "description": "2.0 index.js"
+  },
+  "deleteCourseTips2": {
+    "message": "Kurs quyidagi ochiq kurslar bilan bog'langan. Agar o'chirishni xohlaysiz, iltimos, avval U-Author akkauntingizga kirib bog'lanishni bekor qiling.",
+    "description": "2.0 index.js"
+  },
+  "pleaseInput": {
+    "message": "O'chirish uchun quyida kiriting",
+    "description": "2.0 index.js"
+  },
+  "confirmDelete": {
+    "message": "O'chirishni tasdiqlash",
+    "description": "2.0 index.js"
+  },
+  "openCourse": {
+    "message": "Ochiq kurslar",
+    "description": "2.0 index.js"
+  },
+  "editorAcount": {
+    "message": "U-Author akkaunti",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips1": {
+    "message": "Kursdan chiqishga aminmisiz? Chiqishdan keyingiz ",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips2": {
+    "message": "1. Kurs materiallarini ko'rishni davom ettirib bo'lmaydi",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips3": {
+    "message": "2. Oldingi vazifalar, imtihonlar, sinf faoliyati kabi yozuvlarga kirib bo'lmaydi",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips4": {
+    "message": "3. Kurs xabarlari olishni davom ettirib bo'lmaydi",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips5": {
+    "message": "Kursdan chiqishdan keyin, siz kurs materiallarini ko'rish va kurs faoliyatlarida qatnashishga qodir bo'lmayapsiz.",
+    "description": "2.0 index.js"
+  },
+  "quitCourseTips6": {
+    "message": "Kursdan chiqishga aminmisiz?",
+    "description": "2.0 index.js"
+  },
+  "confirmQuit": {
+    "message": "Tasdiqlash",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips1": {
+    "message": "Kurs faqat ko'rish uchun, lekin o'qituvchilar kurs ma'lumotlarini eksport qilishi mumkin.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips2": {
+    "message": "Kurs faqat ro'yxatdan o'tgan o'quvchilar uchun ko'rish uchun.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips3": {
+    "message": "Tugaganidan keyin, kurs kurs katalog saytidan olib tashlanadi va yangi ro'yxatdan o'tishni qabul qilmaydi.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips4": {
+    "message": "Kurs tugaganidan keyin, siz kurs va uning mazmunini tahrirlashga qodir bo'lmayapsiz.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips5": {
+    "message": "Kursga ro'yxatdan o'tgan o'quvchilar o'qishni davom ettirishi mumkin.",
+    "description": "2.0 index.js"
+  },
+  "unshelveCourseTips6": {
+    "message": "Tugagan kurslar qayta nashr etilishi mumkin emas.",
+    "description": "2.0 index.js"
+  },
+  "confirmEnd": {
+    "message": "Ushbu kursni tugatishga aminmisiz?",
+    "description": "2.0 index.js"
+  },
+  "confirmEndCourse": {
+    "message": "Ushbu kursni tugatishga aminmisiz?",
+    "description": "2.0 index.js"
+  },
+  "courseTitleRequired": {
+    "message": "Kurs nomi bo'sh bo'lishi mumkin emas",
+    "description": "2.0 index.js"
+  },
+  "courseTitleLengthTips": {
+    "message": "Kurs nomi 2-100 belgi bo'lishi kerak!",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips1": {
+    "message": "Hamma uchun e'tibor!",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips2": {
+    "message": "Sinfga ikki usulda yozilishingiz mumkin:",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips3": {
+    "message": "1. Mobil qurilmangizdagi ULearning ilovasi orqali kurs sinfining QR kodini skanerlang va ro'yxatdan o'tish uchun ko'rsatmalarni bajaring.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips4": {
+    "message": "2. Sinf kodini (o'qituvchingiz tomonidan taqdim etilgan) kiriting, sinfni qidirib toping va ro'yxatdan o'tish uchun ko'rsatmalarni bajaring.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips5": {
+    "message": "O'qituvchingiz/maktablingiz kurs sinfining QR kodi yoki sinf kodi taqdim etishi mumkin",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips6": {
+    "message": "Kurs sinfiga yozilish uchun maslahatlar",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips7": {
+    "message": "Siz ro'yxatdan o'tmoqchi bo'lgan kurs sinfi tomonidan taqdim etiladi  ",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips8": {
+    "message": ", bu sizning maktabingiz emas. Agar siz ushbu kurs sinfiga yozilsangiz, maktab ma'lumotlaringiz o'zgartiriladi .",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips9": {
+    "message": ". Ro'yxatdan o'tishga aminmisiz？",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips10": {
+    "message": "Siz allaqachon ushbu kurs sinfiga yozildingiz va endi o'qish sayohatingizni boshlashingiz mumkin.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips11": {
+    "message": "Kurs allaqachon tugagan va yangi ro'yxatdan o'tishni qabul qilmaydi",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips12": {
+    "message": "Siz allaqachon ushbu kurs tomonidan taqdim etilgan sinflardan biriga yozildingiz. Siz bir xil kursning bir nechta sinflariga yozilishingiz mumkin emas. Agar siz noto'g'ri sinfga yozildingiz va boshqasiga o'tmoqchi bo'lsangiz, iltimos, buni o'qituvchingizga buyuring.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips13": {
+    "message": "Ro'yxatdan o'tish so'rovi yuborilgan va o'qituvchining tasdiqlanishini kutmoqda.",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips14": {
+    "message": "Ro'yxatdan o'tish muvaffaqiyatsiz tugadi!",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips15": {
+    "message": "Foydalanuvchi roli o'quvchi emas va sinfga qo'shilishi mumkin emas",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips16": {
+    "message": "Tabriklaymiz! Siz ro'yxatdan o'tdingiz va endi o'qishni boshlashingiz mumkin.",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips1": {
+    "message": "Sinfni qidirish/ro'yxatdan o'tish uchun kodni kiriting",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips2": {
+    "message": "Get the class code from you teacher and  then enter the code above",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips3": {
+    "message": "Hech qanday sinf topilmadi! To'g'ri sinf kodini kiritganingizga ishonch hosil qiling.",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips4": {
+    "message": "Iltimos, to'g'ri sinf kodini kiriting",
+    "description": "2.0 index.js"
+  },
+  "courseCodeTips5": {
+    "message": "Iltimos, sinf kodini kiriting",
+    "description": "2.0 index.js"
+  },
+  "downloadUmoocTips": {
+    "message": "ULearning ilovasini yuklab olish uchun skanerlang",
+    "description": "2.0 index.js"
+  },
+  "className": {
+    "message": "Sinf nomi",
+    "description": "2.0 index.js"
+  },
+  "orgName": {
+    "message": "Institut nomi",
+    "description": "2.0 index.js"
+  },
+  "ownerCourse": {
+    "message": "Kurs",
+    "description": "2.0 index.js"
+  },
+  "confirmJoin": {
+    "message": "Ro'yxatdan o'tishni tasdiqlash",
+    "description": "2.0 index.js"
+  },
+  "enterCourse": {
+    "message": "Kursni ochish",
+    "description": "2.0 index.js"
+  },
+  "closePage": {
+    "message": "Ushbu sahifani yopish",
+    "description": "2.0 index.js"
+  },
+  "searching": {
+    "message": "Qidirilmoqda...",
+    "description": "2.0 index.js"
+  },
+  "searchClass": {
+    "message": "Sinfni qidirish",
+    "description": "2.0 index.js"
+  },
+  "searchError": {
+    "message": "Qidirish muvaffaqiyatsiz tugadi!",
+    "description": "2.0 index.js"
+  },
+  "improveCourse": {
+    "message": "Kurs sozlamalarini to'ldirish",
+    "description": "2.0 index.js"
+  },
+  "createCourseTips1": {
+    "message": "Tabriklaymiz! Kurs yaratildi! Siz kerakli bo'lganda kurs sozlamalarini to'ldirishni davom ettirishingiz mumkin.",
+    "description": "2.0 index.js"
+  },
+  "courseTeam": {
+    "message": "O'qituvchi jamoasi",
+    "description": "2.0 index.js"
+  },
+  "courseTeamTips": {
+    "message": "Agar ushbu kursning turli taqdim etilishi uchun bir nechta o'qituvchilar kerak bo'lsa, iltimos, Jamoa o'qitish variantini tanlang.",
+    "description": "2.0 index.js"
+  },
+  "personalTeaching": {
+    "message": "Shaxsiy o'qitish",
+    "description": "2.0 index.js"
+  },
+  "teamTeaching": {
+    "message": "Jamoa o'qitish",
+    "description": "2.0 index.js"
+  },
+  "personalTeachingTips": {
+    "message": "Agar barcha kurs sinflari bitta o'qituvchi tomonidan boshqariladigan/o'qitiladigan bo'lsa, iltimos, Shaxsiy o'qitish variantini tanlang.",
+    "description": "2.0 index.js"
+  },
+  "currentCourseIs": {
+    "message": "Joriy kurs ",
+    "description": "2.0 index.js"
+  },
+  "courseRoleTips": {
+    "message": " rejimida. Ushbu kursda siz ",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips1": {
+    "message": ". Iltimos, quyidagi ma'lumotlarni to'ldiring: ",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips2": {
+    "message": "Kurs menejrlari o'qituvchi jamoasida eng yuqori imtiyozlarga ega. Ular kursning barcha a'zolarini boshqara oladilar va barcha sinflarning o'qish jarayoni, faoliyat natijalari va baholash natijalarini tekshiradilar.",
+    "description": "2.0 index.js"
+  },
+  "improveCourseTips3": {
+    "message": "O'qituvchilar va o'qituvchi yordamchilari odatda kurs menejeri tomonidan qo'shiladi. Turli rollar turli imtiyozlarga ega. O'rnatish uchun ko'rsatmalarni bajaring.",
+    "description": "2.0 index.js"
+  },
+  "relateTextbook": {
+    "message": "Kurs materiallarini tayinlash",
+    "description": "2.0 index.js"
+  },
+  "textbookTips1": {
+    "message": "Kursga kurs materiallarini tayinlang. Agar sizning kursingiz uchun kurs materiallari kerak emas bo'lsa, uni o'tkazib yuborishingiz mumkin.",
+    "description": "2.0 index.js"
+  },
+  "textbookTips2": {
+    "message": "No courseware has been assigned to this course by the course manager.",
+    "description": "2.0 index.js"
+  },
+  "textbookTips3": {
+    "message": "The courseware assigned to this course is listed below: ",
+    "description": "2.0 index.js"
+  },
+  "addTeacher": {
+    "message": "Add Teacher",
+    "description": "2.0 index.js"
+  },
+  "createTeachingTeam": {
+    "message": "Set up Teaching Team",
+    "description": "2.0 index.js"
+  },
+  "teachingTeamTips1": {
+    "message": "Add teachers to the course and assign a role to the teachers added: Course Manager, Teacher , or Teaching Assistant (TA).",
+    "description": "2.0 index.js"
+  },
+  "teachingTeamTips2": {
+    "message": "The teaching team members for this course are listed below: ",
+    "description": "2.0 index.js"
+  },
+  "courseCreator": {
+    "message": "Course Creator",
+    "description": "2.0 index.js"
+  },
+  "courseAdministrator": {
+    "message": "Course Manager",
+    "description": "2.0 index.js"
+  },
+  "teachingAssistant": {
+    "message": "Teaching Assistant",
+    "description": "2.0 index.js"
+  },
+  "setClass": {
+    "message": "Set up Class",
+    "description": "2.0 index.js"
+  },
+  "skipSetting": {
+    "message": "Skip",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips1": {
+    "message": "Create a class (or let a teaching team member create it) and assign a teacher to the class.",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips2": {
+    "message": "Either create your class or let the admin or course manager assign a class to you",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips3": {
+    "message": "Wait for the admin or course manager to assign a class to you",
+    "description": "2.0 index.js"
+  },
+  "classSettingTips4": {
+    "message": "The classes in this course are listed below: ",
+    "description": "2.0 index.js"
+  },
+  "teachingProcess": {
+    "message": "Teaching Flow Chart",
+    "description": "2.0 index.js"
+  },
+  "processTips1": {
+    "message": "As a cloud-based learning management platform, ULearning is flexible for you to organize your courses using many different teaching/learning models such as flipped classroom, SPOC, blended, hybrid learning, etc.",
+    "description": "2.0 index.js"
+  },
+  "processTips2": {
+    "message": "With ULearning, a course can offer multiple classes. The classes can have the shared components as well as individually customized components. They can be taught by an individual teacher or by multiple teachers as a team. The teachers can apply whatever teaching/learning model as needed to the class they are teaching.",
+    "description": "2.0 index.js"
+  },
+  "processTips3": {
+    "message": "In the team teaching model, the course managers can add teachers to the team, assign each teacher a class, and set up the privilege for them to teach/manage the course/class. The course managers (only the course managers) can set up, add, and modify the shared course components for all classes in the course. This will greatly reduce the teacher workload of these shared course components across all classes. Teachers in different classes can still have the customized teaching/learning components such assignments, exams, discussions, etc. for their own classes.",
+    "description": "2.0 index.js"
+  },
+  "processTips4": {
+    "message": "It is recommended that you choose the appropriate teaching model as desired before the course starts. If the team teaching option is selected, make sure to coordinate to split the tasks among the team members and to avoid any duplicated work. For example, the course just needs to be created once by a team member.",
+    "description": "2.0 index.js"
+  },
+  "processTips5": {
+    "message": "The teaching process for both models is listed below. Click each button to see the details of each process step: ",
+    "description": "2.0 index.js"
+  },
+  "startCourse": {
+    "message": "Kurs yaratish",
+    "description": "2.0 index.js"
+  },
+  "prepareTeachingContent": {
+    "message": "Prepare Content",
+    "description": "2.0 index.js"
+  },
+  "publishTeachingActivity": {
+    "message": "Create/Publish Teaching/Learning Activities",
+    "description": "2.0 index.js"
+  },
+  "classInteraction": {
+    "message": "Classroom Interactions",
+    "description": "2.0 index.js"
+  },
+  "assesment": {
+    "message": "Assessment and Evaluation",
+    "description": "2.0 index.js"
+  },
+  "courseManager": {
+    "message": "Course Manager",
+    "description": "2.0 index.js"
+  },
+  "theTeacher": {
+    "message": "Course Teacher",
+    "description": "2.0 index.js"
+  },
+  "setCourseTeam": {
+    "message": "Set up Teaching Team",
+    "description": "2.0 index.js"
+  },
+  "designatedTextbook": {
+    "message": "Kurs materiallarini tayinlash",
+    "description": "2.0 index.js"
+  },
+  "setStudyPlan": {
+    "message": "Set up Learning plan",
+    "description": "2.0 index.js"
+  },
+  "setHomework": {
+    "message": "Create/Publish Assignments",
+    "description": "2.0 index.js"
+  },
+  "rollcall": {
+    "message": "Roll Call",
+    "description": "2.0 index.js"
+  },
+  "scheduleExam": {
+    "message": "Exams",
+    "description": "2.0 index.js"
+  },
+  "inviteStudent": {
+    "message": "Invite Students to Enroll Course/Class",
+    "description": "2.0 index.js"
+  },
+  "viewProgress": {
+    "message": "Check Learning Progress/Results",
+    "description": "2.0 index.js"
+  },
+  "publishDiscussion": {
+    "message": "Create/Publish Discussions",
+    "description": "2.0 index.js"
+  },
+  "answer": {
+    "message": "Compete to Answer",
+    "description": "2.0 index.js"
+  },
+  "setAssesmentRules": {
+    "message": "Set Grading Rules",
+    "description": "2.0 index.js"
+  },
+  "publishAnnouncement": {
+    "message": "Create/Publish Announcements",
+    "description": "2.0 index.js"
+  },
+  "uploadResource": {
+    "message": "Upload Resources",
+    "description": "2.0 index.js"
+  },
+  "vote": {
+    "message": "Poll",
+    "description": "2.0 index.js"
+  },
+  "summaryGrade": {
+    "message": "Result Summary",
+    "description": "2.0 index.js"
+  },
+  "doHomework": {
+    "message": "Work on/Complete Assignments",
+    "description": "2.0 index.js"
+  },
+  "joinInteraction": {
+    "message": "Participate in Interactions",
+    "description": "2.0 index.js"
+  },
+  "joinExam": {
+    "message": "Take Exams",
+    "description": "2.0 index.js"
+  },
+  "viewAnnouncement": {
+    "message": "View Announcements",
+    "description": "2.0 index.js"
+  },
+  "studyTextbook": {
+    "message": "Learning Content (Courseware/Textbook)",
+    "description": "2.0 index.js"
+  },
+  "joinDiscussion": {
+    "message": "Participate in Discussions",
+    "description": "2.0 index.js"
+  },
+  "viewTotalGrade": {
+    "message": "View Learning Results (Summary)",
+    "description": "2.0 index.js"
+  },
+  "viewResource": {
+    "message": "View Resources",
+    "description": "2.0 index.js"
+  },
+  "courseSource": {
+    "message": "Course Source",
+    "description": "2.0 index.js"
+  },
+  "courseSorts": {
+    "message": "Course Classification",
+    "description": "2.0 index.js"
+  },
+  "total": {
+    "message": "Total ",
+    "description": "2.0 index.js"
+  },
+  "totalTextbook": {
+    "message": "Total {n} courseware (textbooks)",
+    "description": "非国际版首页 -> 更多教材"
+  },
+  "detail": {
+    "message": "Details ",
+    "description": "2.0 index.js"
+  },
+  "author": {
+    "message": "Author",
+    "description": "2.0 index.js"
+  },
+  "press": {
+    "message": "Publisher",
+    "description": "2.0 index.js"
+  },
+  "noTextbook": {
+    "message": "No courseware (textbook)",
+    "description": "2.0 index.js"
+  },
+  "english": {
+    "message": "English",
+    "description": "2.0 index.js"
+  },
+  "thought": {
+    "message": "Philosophy",
+    "description": "2.0 index.js"
+  },
+  "generalEducation": {
+    "message": "General Education",
+    "description": "2.0 index.js"
+  },
+  "prepareTest": {
+    "message": "Test Preparation",
+    "description": "2.0 index.js"
+  },
+  "wisdomTextbook": {
+    "message": "Ulearning Smart Textbook",
+    "description": "2.0 index.js"
+  },
+  "onlineOpencourse": {
+    "message": "Ulearning Online Open Courses",
+    "description": "2.0 index.js"
+  },
+  "qualityCourse": {
+    "message": "National Selected Online Open Course Learning Platform",
+    "description": "2.0 index.js"
+  },
+  "integratedSort": {
+    "message": "Comprehensive Sorting",
+    "description": "2.0 index.js"
+  },
+  "sortByHot": {
+    "message": "Sort by time - newest",
+    "description": "2.0 index.js"
+  },
+  "sortByLatest": {
+    "message": "Sort by popularity - hottest",
+    "description": "2.0 index.js"
+  },
+  "classification": {
+    "message": "Classification",
+    "description": "2.0 index.js"
+  },
+  "totalCourse": {
+    "message": "Total {n} courses",
+    "description": "非国际版首页 -> 更多课程"
+  },
+  "nationalBoutique": {
+    "message": "National selected courses",
+    "description": "2.0 index.js"
+  },
+  "courseJoinCount": {
+    "message": "{n} students enrolled",
+    "description": "非国际版首页 -> 更多课程"
+  },
+  "summary": {
+    "message": "Course Description",
+    "description": "2.0 index.js"
+  },
+  "subjectWebsite": {
+    "message": "Subject Website",
+    "description": "2.0 index.js"
+  },
+  "shuziwaiyuan": {
+    "message": "Digital College of Foreign Languages",
+    "description": "2.0 index.js"
+  },
+  "shuzimayuan": {
+    "message": "Digital College of Philosophy",
+    "description": "2.0 index.js"
+  },
+  "renminshuangchuang": {
+    "message": "Digital College of Entrepreneurship",
+    "description": "2.0 index.js"
+  },
+  "dangjianyun": {
+    "message": "Digital College of Political Science",
+    "description": "2.0 index.js"
+  },
+  "peoplePublic": {
+    "message": "People.cn Open Courses",
+    "description": "2.0 index.js"
+  },
+  "haodaxue": {
+    "message": "CNMOOC",
+    "description": "2.0 index.js"
+  },
+  "jiaoshifazhanzhongxin": {
+    "message": "Teacher Development Center",
+    "description": "2.0 index.js"
+  },
+  "recommendCourse": {
+    "message": "Recommend Courses",
+    "description": "2.0 index.js"
+  },
+  "moreCourse": {
+    "message": "More Courses",
+    "description": "2.0 index.js"
+  },
+  "institution": {
+    "message": "Institute",
+    "description": "2.0 index.js"
+  },
+  "moreInstitution": {
+    "message": "More Institutes",
+    "description": "2.0 index.js"
+  },
+  "leiketang": {
+    "message": "Leiketang Portal",
+    "description": "2.0 index.js"
+  },
+  "news": {
+    "message": "News",
+    "description": "2.0 index.js"
+  },
+  "moreNews": {
+    "message": "More News",
+    "description": "2.0 index.js"
+  },
+  "starUmooc": {
+    "message": "Follow us on social media",
+    "description": "2.0 index.js"
+  },
+  "umoocPublic": {
+    "message": "ULearning on social media",
+    "description": "2.0 index.js"
+  },
+  "moreNews2": {
+    "message": "For more information",
+    "description": "2.0 index.js"
+  },
+  "inputCourseName": {
+    "message": "Please enter the course name",
+    "description": "2.0 index.js"
+  },
+  "ulearning": {
+    "message": "Ulearning",
+    "description": "2.0 index.js"
+  },
+  "ulearning2APP": {
+    "message": "ULearn2.0APP",
+    "description": "2.0 index.js"
+  },
+  "mobileTeachingSystem": {
+    "message": "Mobile teaching/learning platform",
+    "description": "2.0 index.js"
+  },
+  "download": {
+    "message": "Download",
+    "description": "2.0 index.js"
+  },
+  "HomePage": {
+    "message": "HOME",
+    "description": "2.0 index.js"
+  },
+  "Textbook": {
+    "message": "Textbooks/Courseware",
+    "description": "2.0 index.js"
+  },
+  "Courses": {
+    "message": "Courses",
+    "description": "2.0 index.js"
+  },
+  "Schools": {
+    "message": "Schools",
+    "description": "2.0 index.js"
+  },
+  "ResourceLibrary": {
+    "message": "Resources",
+    "description": "2.0 index.js"
+  },
+  "QuestionLibrary": {
+    "message": "Question Bank",
+    "description": "2.0 index.js"
+  },
+  "ExamLibrary": {
+    "message": "Exam Bank",
+    "description": "2.0 index.js"
+  },
+  "homePage": {
+    "message": "Homepage",
+    "description": "2.0 index.js"
+  },
+  "lastPage": {
+    "message": "Last Page",
+    "description": "2.0 index.js"
+  },
+  "frontPage": {
+    "message": "<",
+    "description": "2.0 index.js"
+  },
+  "backPage": {
+    "message": ">",
+    "description": "2.0 index.js"
+  },
+  "jumpPage": {
+    "message": "Jump",
+    "description": "2.0 index.js"
+  },
+  "textbook": {
+    "message": "Textbooks/Courseware",
+    "description": "2.0 index.js"
+  },
+  "course": {
+    "message": "Courses",
+    "description": "2.0 index.js"
+  },
+  "schoolCloud": {
+    "message": "Schools",
+    "description": "2.0 index.js"
+  },
+  "searchTextbookCourse": {
+    "message": "Qidirish",
+    "description": "2.0 index.js"
+  },
+  "throwingScreen": {
+    "message": "Cast Screen",
+    "description": "2.0 index.js"
+  },
+  "app": {
+    "message": "APP",
+    "description": "2.0 index.js"
+  },
+  "downloadAPP": {
+    "message": "Download APP",
+    "description": "2.0 index.js"
+  },
+  "help": {
+    "message": "Help",
+    "description": "2.0 index.js"
+  },
+  "teachProcess": {
+    "message": "Teaching Process",
+    "description": "2.0 index.js"
+  },
+  "resourceLibrary": {
+    "message": "Resource Library",
+    "description": "2.0 index.js"
+  },
+  "questionLibrary": {
+    "message": "Question Bank",
+    "description": "2.0 index.js"
+  },
+  "examLibrary": {
+    "message": "Exam Bank",
+    "description": "2.0 index.js"
+  },
+  "littleTools": {
+    "message": "Ilovalar",
+    "description": "2.0 index.js"
+  },
+  "oralPractice": {
+    "message": "Language - Oral Test",
+    "description": "2.0 index.js"
+  },
+  "eventActivity": {
+    "message": "Contests",
+    "description": "2.0 index.js"
+  },
+  "practiceTeaching": {
+    "message": "Practicums",
+    "description": "2.0 index.js"
+  },
+  "wordsListenAndWrite": {
+    "message": "Dictation",
+    "description": "2.0 index.js"
+  },
+  "myOrder": {
+    "message": "My Orders",
+    "description": "2.0 index.js"
+  },
+  "myTextbook": {
+    "message": "My eTextbooks",
+    "description": "2.0 index.js"
+  },
+  "message": {
+    "message": "Messages",
+    "description": "2.0 index.js"
+  },
+  "searchAllCourse": {
+    "message": "Search all courses",
+    "description": "2.0 index.js"
+  },
+  "search": {
+    "message": "Qidirish",
+    "description": "2.0 index.js"
+  },
+  "aboutUsCl": {
+    "message": "About US: ",
+    "description": "2.0 index.js"
+  },
+  "aboutWenhua": {
+    "message": "About Wenhua",
+    "description": "2.0 index.js"
+  },
+  "contactUs": {
+    "message": "Contact Us",
+    "description": "2.0 index.js"
+  },
+  "ulearnCloud": {
+    "message": "Ulearning Cloud",
+    "description": "2.0 index.js"
+  },
+  "textbookList": {
+    "message": "Courseware List",
+    "description": "2.0 index.js"
+  },
+  "helpCenter": {
+    "message": "Help Center",
+    "description": "2.0 index.js"
+  },
+  "friendLinkCl": {
+    "message": "Useful Links: ",
+    "description": "2.0 index.js"
+  },
+  "moocPublicCourse": {
+    "message": "People.cn Open Courses",
+    "description": "2.0 index.js"
+  },
+  "teacherCenter": {
+    "message": "Teacher Development Center",
+    "description": "2.0 index.js"
+  },
+  "footerCopyRight": {
+    "message": "Copyright©2020 by ULearning. All rights reserved.",
+    "description": "2.0 index.js"
+  },
+  "footerStatement": {
+    "message": "Privacy",
+    "description": "2.0 index.js"
+  },
+  "footerClause": {
+    "message": "Terms",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode1": {
+    "message": "京ICP证120126号",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode2": {
+    "message": "Internet Publishing Permit (China): 新出网证(京)字218号",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode3": {
+    "message": "出版物经营许可证 新出发京批字第直120206号",
+    "description": "2.0 index.js"
+  },
+  "footerCertificateCode4": {
+    "message": "京公网安备 11010502036460号",
+    "description": "2.0 index.js"
+  },
+  "searchResult": {
+    "message": "Search Results ",
+    "description": "2.0 index.js"
+  },
+  "textbookDetail": {
+    "message": "Courseware (Textbook) Details",
+    "description": "2.0 index.js"
+  },
+  "thematicCurriculum": {
+    "message": "Subject Courses",
+    "description": "2.0 index.js"
+  },
+  "myHomePage": {
+    "message": "My Homepage",
+    "description": "2.0 index.js"
+  },
+  "news2": {
+    "message": "News",
+    "description": "2.0 index.js"
+  },
+  "manageMOOC": {
+    "message": "MOOC Admin",
+    "description": "2.0 index.js"
+  },
+  "recoveryCourse": {
+    "message": "Restore Course",
+    "description": "2.0 index.js"
+  },
+  "copyCourse": {
+    "message": "Duplicate Course",
+    "description": "2.0 index.js"
+  },
+  "copyCourseTip": {
+    "message": "Duplicating course allows you to create a new course based on a existing course. All course content and activities will be duplicated, but reset as \"Unpublished\" status.",
+    "description": "2.0 index.js"
+  },
+  "addClass": {
+    "message": "Add Class",
+    "description": "2.0 index.js"
+  },
+  "addClassPlaceHolder": {
+    "message": "Enter one class name per line without duplication",
+    "description": "2.0 index.js"
+  },
+  "addClassTip": {
+    "message": "You can add classes when duplicating a course.",
+    "description": "2.0 index.js"
+  },
+  "copyItem": {
+    "message": "Duplicate Items",
+    "description": "2.0 index.js"
+  },
+  "announcement": {
+    "message": "Announcements",
+    "description": "2.0 index.js"
+  },
+  "courseware": {
+    "message": "Courseware",
+    "description": "2.0 index.js"
+  },
+  "resourse": {
+    "message": "Resources",
+    "description": "2.0 index.js"
+  },
+  "homework": {
+    "message": "Assignments",
+    "description": "2.0 index.js"
+  },
+  "discusstion": {
+    "message": "Discussions",
+    "description": "2.0 index.js"
+  },
+  "exam": {
+    "message": "Exams",
+    "description": "2.0 index.js"
+  },
+  "coursewareTip": {
+    "message": "(Content only)",
+    "description": "2.0 index.js"
+  },
+  "homeworkTip": {
+    "message": "(Will be reset as \"Draft\" status)",
+    "description": "2.0 index.js"
+  },
+  "examTip": {
+    "message": "(Exclude exam sessions)",
+    "description": "2.0 index.js"
+  },
+  "confirmCopyCourse": {
+    "message": "Tasdiqlash",
+    "description": "2.0 index.js"
+  },
+  "noClassTip": {
+    "message": "Class cannot be empty",
+    "description": "2.0 index.js"
+  },
+  "sameClassTip": {
+    "message": "Sinf nomlari takrorlanishi mumkin emas",
+    "description": "2.0 index.js"
+  },
+  "copyCourseError": {
+    "message": "Kurs yaratish muvaffaqiyatsiz tugadi!",
+    "description": "2.0 index.js"
+  },
+  "onlineTime": {
+    "message": "Ushbu hafta sizning jami onlayn vaqtiniz: {duration}",
+    "description": "2.0 index.js"
+  },
+  "courseStatus": {
+    "message": "Kurs holati",
+    "description": "2.0 index.js"
+  },
+  "courseSort": {
+    "message": "Kurs toifalari",
+    "description": "2.0 index.js"
+  },
+  "autoStudy": {
+    "message": "e-Ta'lim",
+    "description": "2.0 index.js"
+  },
+  "courseHelpTitle": {
+    "message": "Ushbu hafta jami onlayn vaqt",
+    "description": "2.0 index.js"
+  },
+  "courseHelpExplain": {
+    "message": "Ushbu hafta jami onlayn vaqt ULearning (PC va/yoki ULearning APP) ga kirgan va faol bo'lgan vaqtning yig'indisini anglatadi:",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[0]": {
+    "message": "Bu hafta dushandan yakshanbagacha bo'lgan kunlarni anglatadi.",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[1]": {
+    "message": "PC va ULearning App ning bir xil vaqtini faqat bitta marta hisoblaydi.",
+    "description": "2.0 index.js"
+  },
+  "courseHelpInfo[2]": {
+    "message": "Ekraningizda hech qanday harakatlarsiz uzoq vaqt qolgan vaqt hisoblanmaydi.",
+    "description": "2.0 index.js"
+  },
+  "activityCalendar": {
+    "message": "Kalendar",
+    "description": "2.0 index.js"
+  },
+  "activityFilters": {
+    "message": "Filtr",
+    "description": "2.0 index.js"
+  },
+  "byType": {
+    "message": "Turi bo'yicha",
+    "description": "2.0 index.js"
+  },
+  "byCourse": {
+    "message": "Kurs bo'yicha",
+    "description": "2.0 index.js"
+  },
+  "live": {
+    "message": "Jonli sessiyalar",
+    "description": "2.0 index.js"
+  },
+  "start": {
+    "message": "Boshlash",
+    "description": "2.0 index.js"
+  },
+  "allTimeOpen": {
+    "message": "Ochiq",
+    "description": "2.0 index.js"
+  },
+  "backToCustomerService": {
+    "message": "Mijoz xizmatlariga qaytish",
+    "description": "2.0 index.js"
+  },
+  "backToManagementCenter": {
+    "message": "Boshqaruv markaziga qaytish",
+    "description": "2.0 index.js"
+  },
+  "toTeacher": {
+    "message": "O'quvchi ko'rinishidan chiqish",
+    "description": "2.0 index.js"
+  },
+  "toStudent": {
+    "message": "O'quvchi ko'rinishi",
+    "description": "2.0 index.js"
+  },
+  "bindTitle": {
+    "message": "Maslahatlar",
+    "description": "2.0 index.js"
+  },
+  "bindTip": {
+    "message": "Hurmatli foydalanuvchi, akkauntingizning xavfsizligini oshirish uchun iltimos, akkauntingizni telefon raqamingiz yoki elektron pochta manzilingizga bog'lang.",
+    "description": "2.0 index.js"
+  },
+  "bindPhone": {
+    "message": "Telefon raqamini bog'lash",
+    "description": "2.0 index.js"
+  },
+  "bindMail": {
+    "message": "Elektron pochta bog'lash",
+    "description": "2.0 index.js"
+  },
+  "switchFail": {
+    "message": "Almashtirish muvaffaqiyatsiz tugadi!",
+    "description": "2.0 index.js"
+  },
+  "courseFile": {
+    "message": "Kurs arxivlari",
+    "description": "2.0 index.js"
+  },
+  "waitForCheckExit": {
+    "message": "Chiqish so'rovi yuborilgan va o'qituvchining tasdiqlanishini kutmoqda.",
+    "description": "2.0 index.js"
+  },
+  "moocPublicCourse2": {
+    "message": "Ochiq kurslar",
+    "description": "2.0 index.js"
+  },
+  "courseRecorded": {
+    "message": "Sinf yozuvlari",
+    "description": "2.0 index.js"
+  },
+  "eLearning": {
+    "message": "e-Ta'lim",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips17": {
+    "message": "1. Yangi akkaunt olish va sinf kodi olish uchun avictvet@avic-intl.cn elektron pochta manziliga xabar yuboring  ",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips18": {
+    "message": "2. Sinf kodi olish uchun maktablingiz yoki o'qituvchingiz bilan bog'laning  ",
+    "description": "2.0 index.js"
+  },
+  "educationWisdom": {
+    "message": "Milliy aqlli ta'lim jamoat xizmatlari platformasi",
+    "description": "2.0 index.js"
+  },
+  "optional": {
+    "message": "(Majburiy emas)",
+    "description": "2.0 index.js"
+  },
+  "wanfangchachong": {
+    "message": "Wanfang takrorlanishni tekshirish",
+    "description": "2.0 index.js"
+  },
+  "courseUnits": {
+    "message": "Modullar",
+    "description": "2.0 index.js"
+  },
+  "courseUnitsTip": {
+    "message": "(Nusxalangan blok ostidagi faoliyatlar standart ravishda Nashr etilmagan holatda, vazifalar esa Loyiha holatda)",
+    "description": "2.0 index.js"
+  },
+  "textbookBank": {
+    "message": "Kurs materiallari",
+    "description": "2.0 index.js"
+  },
+  "courseDeclaration": {
+    "message": "Kurs deklaratsiyasi",
+    "description": "2.0 index.js"
+  },
+  "addClassTip2": {
+    "message": "Ushbu vaqtda yangi sinf yaratilganda, tizim faoliyatni barcha yangi yaratilgan sinflarga nashr etadi va o'quvchilar har bir sinfga mustaqil ravishda qo'shilishi kerak; Siz, shuningdek, sinf boshlangandan keyin sinflar va o'quvchilarni paketda import qilishingiz mumkin",
+    "description": "2.0 index.js"
+  },
+  "viewMore": {
+    "message": "Ko'proq ma'lumot",
+    "description": "2.0 index.js"
+  },
+  "importCCContent": {
+    "message": "CC faylini import qilish",
+    "description": "2.0 index.js"
+  },
+  "applicationCenter": {
+    "message": "Ilovalar",
+    "description": "2.0 index.js"
+  },
+  "knowledgeGraph": {
+    "message": "Bilim grafigi",
+    "description": "2.0 index.js"
+  },
+  "courseLibrary": {
+    "message": "Kurs kutubxonasi",
+    "description": "2.0 index.js"
+  },
+  "courseEduLevel_1": {
+    "message": "Bakalavr kurslari",
+    "description": "2.0 index.js"
+  },
+  "courseEduLevel_2": {
+    "message": "Magistratura kurslari",
+    "description": "2.0 index.js"
+  },
+  "courseCreateType_1": {
+    "message": "Sinkronlashtirilgan sinflar",
+    "description": "2.0 index.js"
+  },
+  "courseCreateType_2": {
+    "message": "O'z-o'zidan qurilgan kurslar",
+    "description": "2.0 index.js"
+  },
+  "welcomePat": {
+    "message": "Xush kelibsiz, {name}!",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents1": {
+    "message": "Bog'langan o'quvchilar:",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents2": {
+    "message": "Bog'langan emas",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents3": {
+    "message": "+O'quvchi qo'shish",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents4": {
+    "message": "Eslatma",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents5": {
+    "message": "Iltimos, avval o'quvchi qo'shing!",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents6": {
+    "message": "Bog'langan o'quvchi qo'shish",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents7": {
+    "message": "O'quvchi shaxsiy kodi",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents8": {
+    "message": "Iltimos, o'quvchi shaxsiy kodini kiriting",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents9": {
+    "message": "Qidirish",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents10": {
+    "message": "Ism",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents11": {
+    "message": "Iltimos, o'rta qismini kiriting",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents12": {
+    "message": "Iltimos, o'quvchi raqamining o'rta qismini kiriting",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents13": {
+    "message": "O'quvchi ID",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents14": {
+    "message": "Ota-onalar roli",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents15": {
+    "message": "Ota",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents16": {
+    "message": "Onam",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents17": {
+    "message": "Bobom",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents18": {
+    "message": "Buvam",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents19": {
+    "message": "Boshqalar",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents20": {
+    "message": "Bog'lanishni bekor qilishga aminmisiz?",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents21": {
+    "message": "Bog'lanishni bekor qilish",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents22": {
+    "message": "Iltimos, shaxsiy kodini kiriting",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents23": {
+    "message": "O'quvchi ma'lumotlari topilmadi",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents24": {
+    "message": "O'quvchi ma'lumotlarini so'rash muvaffaqiyatsiz tugadi, iltimos, keyinroq qayta urinib ko'ring",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents25": {
+    "message": "Iltimos, avval o'quvchi ma'lumotlarini so'rang",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents26": {
+    "message": "Ism tasdiqlash muvaffaqiyatsiz tugadi, iltimos, kirish kontenti o'quvchi ma'lumotlari bilan mos kelishini tasdiqlang",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents27": {
+    "message": "O'quvchi ID tasdiqlash muvaffaqiyatsiz tugadi, iltimos, kirish kontenti o'quvchi ma'lumotlari bilan mos kelishini tasdiqlang",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents28": {
+    "message": "O'quvchi qo'shish muvaffaqiyatsiz tugadi, iltimos, keyinroq qayta urinib ko'ring",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents29": {
+    "message": "Bog'langan o'quvchi muvaffaqiyatli qo'shildi",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents30": {
+    "message": "O'quvchi qo'shish muvaffaqiyatsiz tugadi, iltimos, keyinroq qayta urinib ko'ring",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents31": {
+    "message": "Iltimos, olib tashlanadigan o'quvchini tanlang",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents32": {
+    "message": "Bog'lanish bekor qilindi",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents33": {
+    "message": "Bog'lanishni bekor qilish muvaffaqiyatsiz tugadi, iltimos, keyinroq qayta urinib ko'ring",
+    "description": "2.0 index.js"
+  },
+  "parentsOrstudents34": {
+    "message": "O'quvchi shaxsiy kodi o'quvchining shaxsiy profilida ko'rilishi mumkin",
+    "description": "2.0 index.js"
+  },
+  "joinSmartClassroom": {
+    "message": "Sinfga qo'shilish",
+    "description": "2.0 index.js"
+  },
+  "footerSystemName": {
+    "message": "Wenhua - Ulearning OMO Aqlli Ta'lim Tizimi V1.0",
+    "description": "2.0 index.js"
+  }
+}

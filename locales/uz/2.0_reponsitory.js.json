@@ -1,0 +1,822 @@
+{
+  "examPaperLibrary": {
+    "message": "Imtihonlar banki",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaper": {
+    "message": "Imtihonni tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirm": {
+    "message": "Tasdiqlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "cancel": {
+    "message": "Bekor qilish",
+    "description": "2.0 reponsitory.js"
+  },
+  "close": {
+    "message": "Yopish",
+    "description": "2.0 reponsitory.js"
+  },
+  "insertExamPaper": {
+    "message": "Imtihonni kiritish",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedPaper": {
+    "message": "{n} ta imtihon tanlandi",
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
+  },
+  "myExamPaper": {
+    "message": "Mening imtihonlar bankim",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolExamPaper": {
+    "message": "Maktab imtihonlar banki",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareExamPaper": {
+    "message": "Ulashilgan imtihonlar banki",
+    "description": "2.0 reponsitory.js"
+  },
+  "back": {
+    "message": "Orqaga",
+    "description": "2.0 reponsitory.js"
+  },
+  "currentPosition": {
+    "message": "Joriy holat: ",
+    "description": "2.0 reponsitory.js"
+  },
+  "allExamPaper": {
+    "message": "Barcha imtihonlar",
+    "description": "2.0 reponsitory.js"
+  },
+  "inpputExamPaperNameSearch": {
+    "message": "Imtihon nomini qidirish uchun kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "addFolder": {
+    "message": "Jild qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "addExamPaper": {
+    "message": "Imtihon qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "aotoGroupExamPaper": {
+    "message": "Avtomatik imtihon yaratish",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperName": {
+    "message": "Imtihon nomi",
+    "description": "2.0 reponsitory.js"
+  },
+  "score": {
+    "message": "Ballar",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharingScope": {
+    "message": "Ulashish",
+    "description": "2.0 reponsitory.js"
+  },
+  "lastModifyTime": {
+    "message": "Oxirgi yangilangan ",
+    "description": "2.0 reponsitory.js"
+  },
+  "operation": {
+    "message": "Amallar",
+    "description": "2.0 reponsitory.js"
+  },
+  "personal": {
+    "message": "Shaxsiy",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolTeacher": {
+    "message": "Maktab o'qituvchisi",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolTeacher2": {
+    "message": "Maktab o'qituvchisi",
+    "description": "2.0 reponsitory.js"
+  },
+  "allTeacher": {
+    "message": "Barcha o'qituvchilar",
+    "description": "2.0 reponsitory.js"
+  },
+  "allTeacher2": {
+    "message": "Barcha o'qituvchilar",
+    "description": "2.0 reponsitory.js"
+  },
+  "appointTeacher": {
+    "message": "O'qituvchini tayinlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "modify": {
+    "message": "Tahrirlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "move": {
+    "message": "Ko'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "delete": {
+    "message": "O'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "preview": {
+    "message": "Ko'rish",
+    "description": "2.0 reponsitory.js"
+  },
+  "download": {
+    "message": "Yuklab olish",
+    "description": "2.0 reponsitory.js"
+  },
+  "rename": {
+    "message": "Nomni o'zgartirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "share": {
+    "message": "Ulashish",
+    "description": "2.0 reponsitory.js"
+  },
+  "copy": {
+    "message": "Nusxa olish",
+    "description": "2.0 reponsitory.js"
+  },
+  "copied": {
+    "message": "Nusxa olindi",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips1": {
+    "message": "Hech qanday imtihon topilmadi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips2": {
+    "message": "Hech qanday imtihon yo'q - imtihon qo'shish uchun bosing",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips3": {
+    "message": "Hech qanday imtihon topilmadi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "networkError": {
+    "message": "Tarmoq xatosi - {reloadButton} tugmasini bosing ",
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源 \n 课程列表 -> 上方试卷库"
+  },
+  "reload": {
+    "message": "Qayta yuklash",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips4": {
+    "message": "Jild nomini kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "onlyOneSelf": {
+    "message": "Shaxsiy",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToThisUnitAppointedTeacher": {
+    "message": "Tanlangan o'qituvchilar bilan ulashish",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToThisUnitOtherTeacher": {
+    "message": "Maktab o'qituvchilari bilan ulashish",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareToAllTeacher": {
+    "message": "Barcha o'qituvchilar bilan ulashish",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteTips": {
+    "message": "O'chirish uchun eslatma",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips5": {
+    "message": "Bu jildni o'chirishni istaysizmi? Jildni o'chirish jild ichidagi barcha imtihonlarni o'chiradi. Buning o'z navbatida ushbu imtihonlardan foydalanadigan kurs imtihonlariga ham ta'sir qiladi.",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips6": {
+    "message": "Faqat imtihonlarni saqlang va jildni o'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteAll": {
+    "message": "Barchasini o'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectTeacher": {
+    "message": "O'qituvchini tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputTeacherNameSearch": {
+    "message": "O'qituvchi nomini qidirish uchun kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "checkAll": {
+    "message": "Barchasini tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "achievement": {
+    "message": "Baholar",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClass": {
+    "message": "Barcha sinflar",
+    "description": "2.0 reponsitory.js"
+  },
+  "homePage": {
+    "message": "Birinchi sahifa",
+    "description": "2.0 reponsitory.js"
+  },
+  "lastPage": {
+    "message": "Oxirgi sahifa",
+    "description": "2.0 reponsitory.js"
+  },
+  "frontPage": {
+    "message": "Oldingi sahifa",
+    "description": "2.0 reponsitory.js"
+  },
+  "backPage": {
+    "message": "Keyingi sahifa",
+    "description": "2.0 reponsitory.js"
+  },
+  "jumpPage": {
+    "message": "O'tish",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips7": {
+    "message": "Foydalanilayotgan imtihonlarni tahrirlay olmaysiz!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips8": {
+    "message": "O'chirgandan keyin ma'lumotlar tiklanmaydi. O'chirishni istaysizmi？",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteExamPaper": {
+    "message": "Imtihonni o'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteSuccess": {
+    "message": "Muvaffaqiyatli o'chirildi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteFailed": {
+    "message": "O'chirish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips9": {
+    "message": "Imtihon mavjud emas!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips10": {
+    "message": "Imtihoni faqat yaratuvchi o'chirishi mumkin!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips11": {
+    "message": "Javoblar yozuvlari bo'lgan imtihonlarni o'chirish mumkin emas!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips12": {
+    "message": "Allaqachon imtihonda ishlatilganlarni o'chirish mumkin emas!",
+    "description": "2.0 reponsitory.js"
+  },
+  "examPaperTips13": {
+    "message": "Javob izohi kerakmi?",
+    "description": "2.0 reponsitory.js"
+  },
+  "copySuccess": {
+    "message": "Muvaffaqiyatli nusxa olindi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "copyFailed": {
+    "message": "Nusxa olish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifySuccess": {
+    "message": "Muvaffaqiyatli tahrirlandi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifyFailed": {
+    "message": "Tahrirlash muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "createSuccess": {
+    "message": "Muvaffaqiyatli yaratildi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "createFailed": {
+    "message": "Yaratish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "myResource": {
+    "message": "Mening resurslarim",
+    "description": "2.0 reponsitory.js"
+  },
+  "schoolResource": {
+    "message": "Maktab resurslari",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareReource": {
+    "message": "Ulashilgan resurslar",
+    "description": "2.0 reponsitory.js"
+  },
+  "allResource": {
+    "message": "Barcha resurslar",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputKeywordSearch": {
+    "message": "Qidirish uchun kalit so'zni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "modifyShareScope": {
+    "message": "Ulashishni tahrirlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "publishToCourse": {
+    "message": "Kursga nashr qilish",
+    "description": "2.0 reponsitory.js"
+  },
+  "addResource": {
+    "message": "Resurs qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "addLink": {
+    "message": "Havola qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "addRichtext": {
+    "message": "Boy kontent qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceName": {
+    "message": "Resurs nomi",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadFile": {
+    "message": "Faylni yuklash",
+    "description": "2.0 reponsitory.js"
+  },
+  "selected": {
+    "message": "Tanlangan",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedItems": {
+    "message": "{n} ta element tanlandi",
+    "description": "课程列表 -> 上方资源库 \n 课程列表 -> 上方试卷库"
+  },
+  "cancelMultipleSelection": {
+    "message": "Barchasini bekor qilish",
+    "description": "2.0 reponsitory.js"
+  },
+  "totalOf": {
+    "message": "Jami {n} ",
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源"
+  },
+  "size": {
+    "message": "Hajmi",
+    "description": "2.0 reponsitory.js"
+  },
+  "createTime": {
+    "message": "Yaratilgan sana ",
+    "description": "2.0 reponsitory.js"
+  },
+  "publish": {
+    "message": "Nashr qilish",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips1": {
+    "message": "No resources found!",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips2": {
+    "message": "No resources found!",
+    "description": "2.0 reponsitory.js"
+  },
+  "folderName": {
+    "message": "Jild nomi",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploaded": {
+    "message": "Yuklangan",
+    "description": "2.0 reponsitory.js"
+  },
+  "addTeacher2": {
+    "message": "O'qituvchi qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputNameSearch": {
+    "message": "Qidirish uchun nomni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips16": {
+    "message": "Resurslarni nashr qilmoqchi bo'lgan kurslarni tanlang: ",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips17": {
+    "message": "Hali hech qanday kurs yo'q - avval kurs yarating",
+    "description": "2.0 reponsitory.js"
+  },
+  "save": {
+    "message": "Saqlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "create": {
+    "message": "Yaratish",
+    "description": "2.0 reponsitory.js"
+  },
+  "createMicroCourse": {
+    "message": "Kichik kurs yaratish",
+    "description": "2.0 reponsitory.js"
+  },
+  "microCourseName": {
+    "message": "Kichik kurs nomi",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips6": {
+    "message": "Kichik kurs nomini kiritish uchun bosing",
+    "description": "2.0 reponsitory.js"
+  },
+  "KnowledgePoints": {
+    "message": "Bilim nuqtalar",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips7": {
+    "message": "Maksimal 5 ta bilim nuqtasini kiriting va qo'shish uchun Enter tugmasini bosing",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips8": {
+    "message": "Ko'proq fikr-mulohaza olish uchun izoh va yoqtirishni yoqish",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips9": {
+    "message": " (Izoh tafsilotlari kichik kurs statistikasining \"Izoh tahlili\" bo'limida topilishi mumkin)",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips10": {
+    "message": "Yuborilgandan keyin javoblar va izohlarni ko'rsatish",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectTeacher": {
+    "message": "O'qituvchilarni tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "shareSuccess": {
+    "message": "Muvaffaqiyatli ulashildi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "moveSuccess": {
+    "message": "Muvaffaqiyatli ko'chirildi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "moveFailed": {
+    "message": "Ko'chirish muvaffaqiyatsiz bo'ldi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteResource": {
+    "message": "Resursni o'chirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "deleteResourceTips": {
+    "message": "Tanlangan resurs(larni) o'chirishni istaysizmi?",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectCourse": {
+    "message": "Kursni tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "publishSuccess": {
+    "message": "Muvaffaqiyatli nashr qilindi!",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourceTips11": {
+    "message": "Kichik kurs nomi bo'sh bo'lmasligi kerak",
+    "description": "2.0 reponsitory.js"
+  },
+  "newMicroCourse": {
+    "message": "Kichik kurs yaratish",
+    "description": "2.0 reponsitory.js"
+  },
+  "recordMicroCourse": {
+    "message": "Kichik kursni yozib olish",
+    "description": "2.0 reponsitory.js"
+  },
+  "peopleResource": {
+    "message": "People.cn ochiq kurslar",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPageAllRes": {
+    "message": "Ushbu sahifadagi barchasini tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "select": {
+    "message": "Tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClassify": {
+    "message": "Barcha kategoriyalar",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectedCount": {
+    "message": "Tanlangan: {n} ",
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
+  },
+  "selectRes": {
+    "message": "Resursni tanlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "courseKeyword": {
+    "message": "Kursni qidirish uchun kalit so'zni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "unitKeyword": {
+    "message": "Modul/mavzu qidirish uchun kalit so'zni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "resKeyword": {
+    "message": "Resursni qidirish uchun kalit so'zni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "archivePwdSet": {
+    "message": "Xavfsizlik parolingizni o'rnating/qayta o'rnating",
+    "description": "2.0 reponsitory.js"
+  },
+  "tips": {
+    "message": "Ogohlantirish",
+    "description": "2.0 reponsitory.js"
+  },
+  "unbindPhoneTips": {
+    "message": "Sizning hisobingizda tiklash elektron pochtasi yoki mobil raqam yo'q. Imtihonlaringizni himoya qilish uchun, avval hisobingizga tiklash usuli qo'shishingiz kerak.",
+    "description": "2.0 reponsitory.js"
+  },
+  "toBind": {
+    "message": "Elektron pochta yoki mobil raqam qo'shish",
+    "description": "2.0 reponsitory.js"
+  },
+  "setPaperPwd": {
+    "message": "Xavfsizlik parolini o'rnatish",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperPwdTips1": {
+    "message": "Xavfsizlik parolini o'rnatgandan keyin, tanlangan imtihonlarni yoki imtihon jildlarini himoya qilishingiz mumkin. Himoyalangan imtihonlar yoki jildlar faqat bu parol bilan ko'rilishi yoki himoyasiz bo'lishi mumkin.",
+    "description": "2.0 reponsitory.js"
+  },
+  "updatePaperPwd": {
+    "message": "Xavfsizlik parolini qayta o'rnatish",
+    "description": "2.0 reponsitory.js"
+  },
+  "oldPwd": {
+    "message": "Eski parol",
+    "description": "2.0 reponsitory.js"
+  },
+  "newPwd": {
+    "message": "Yangi parol",
+    "description": "2.0 reponsitory.js"
+  },
+  "newPwdAgain": {
+    "message": "Yangi parolni tasdiqlash",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdNullTips": {
+    "message": "Parolingizni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdErrorTips": {
+    "message": "Noto'g'ri parol",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdRegTips": {
+    "message": "Parol 6-16 ta son yoki harf bo'lishi kerak",
+    "description": "2.0 reponsitory.js"
+  },
+  "pwdDifTips": {
+    "message": "Passwords don’t match",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPwd": {
+    "message": "Parolingizni kiriting",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputAgain": {
+    "message": "Confirm your password",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperPwd": {
+    "message": "Remove Security Password",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperPwdTips": {
+    "message": "After you remove the security password, all secured exams and folders will be unsecured!",
+    "description": "2.0 reponsitory.js"
+  },
+  "setPaperPwdTips": {
+    "message": "Xavfsizlik parolini o'rnatgandan keyin, tanlangan imtihonlarni yoki imtihon jildlarini himoya qilishingiz mumkin. Himoyalangan imtihonlar yoki jildlar faqat bu parol bilan ko'rilishi yoki himoyasiz bo'lishi mumkin.",
+    "description": "2.0 reponsitory.js"
+  },
+  "forgetPwd": {
+    "message": "Forgot password?",
+    "description": "2.0 reponsitory.js"
+  },
+  "authentication": {
+    "message": "Verification",
+    "description": "2.0 reponsitory.js"
+  },
+  "mail": {
+    "message": "Email",
+    "description": "2.0 reponsitory.js"
+  },
+  "sms": {
+    "message": "SMS",
+    "description": "2.0 reponsitory.js"
+  },
+  "phone": {
+    "message": "Mobile no. ",
+    "description": "2.0 reponsitory.js"
+  },
+  "picCode": {
+    "message": "CAPTCHA Verification Code",
+    "description": "2.0 reponsitory.js"
+  },
+  "smsCode": {
+    "message": "SMS Verification Code",
+    "description": "2.0 reponsitory.js"
+  },
+  "mailCode": {
+    "message": "Email Verification Code",
+    "description": "2.0 reponsitory.js"
+  },
+  "getCode": {
+    "message": "Send",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPicCodeTips": {
+    "message": "Enter the CAPTCHA code",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputCodeTips": {
+    "message": "Enter the verification code",
+    "description": "2.0 reponsitory.js"
+  },
+  "authType": {
+    "message": "Verification Method",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperLock": {
+    "message": "Secure",
+    "description": "2.0 reponsitory.js"
+  },
+  "paperUnLock": {
+    "message": "Unsecure",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharedPaperLockTips": {
+    "message": "Shared exams or folders cannot be secured. You can reset the sharing and then secure the exams or folders.",
+    "description": "2.0 reponsitory.js"
+  },
+  "operateSuccess": {
+    "message": "It's done successfully!",
+    "description": "2.0 reponsitory.js"
+  },
+  "sendSuccess": {
+    "message": "It's done successfully!",
+    "description": "2.0 reponsitory.js"
+  },
+  "inputPaperPwd": {
+    "message": "Enter Security Password",
+    "description": "2.0 reponsitory.js"
+  },
+  "codeTimerTips": {
+    "message": "Can be requested after {n} seconds",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadPaper": {
+    "message": "Download Exam",
+    "description": "2.0 reponsitory.js"
+  },
+  "isContainAnaly": {
+    "message": "Whether to include answer explanations",
+    "description": "2.0 reponsitory.js"
+  },
+  "isContainAttach": {
+    "message": "Whether to export attachments",
+    "description": "2.0 reponsitory.js"
+  },
+  "attachDownloadTips": {
+    "message": "If the attachment is large, the download time may be longer",
+    "description": "2.0 reponsitory.js"
+  },
+  "yes": {
+    "message": "Yes",
+    "description": "2.0 reponsitory.js"
+  },
+  "no": {
+    "message": "No",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirmImport": {
+    "message": "Confirm to Import",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip": {
+    "message": "Select up to {n} sets at a time",
+    "description": "2.0 reponsitory.js"
+  },
+  "importFail": {
+    "message": "Failed to import!",
+    "description": "2.0 reponsitory.js"
+  },
+  "importSuccess": {
+    "message": "Imported successfully!",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperTip": {
+    "message": "The folder contains used exams and cannot be deleted.",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip1": {
+    "message": "Select the exam and import the questions from the exam into the current folder.  Selecting up to {n} sets at a time.",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectPaper": {
+    "message": "Please select the exam",
+    "description": "2.0 reponsitory.js"
+  },
+  "pageSizes": {
+    "message": "{n} items/page",
+    "description": "2.0 reponsitory.js"
+  },
+  "myClass": {
+    "message": "My class",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourcePublishingScope": {
+    "message": "Resource release scope:",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClass2": {
+    "message": "All classes of the course (valid for course administrators only)",
+    "description": "2.0 reponsitory.js"
+  },
+  "attachDownload": {
+    "message": "Batch downloads",
+    "description": "2.0 reponsitory.js"
+  },
+  "notDownload": {
+    "message": "The following files are not available for download",
+    "description": "2.0 reponsitory.js"
+  },
+  "confirmDownload": {
+    "message": "Confirm the download?",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadProgress": {
+    "message": "Downloading, do not close the current page",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadSuccess": {
+    "message": " Download successful ",
+    "description": "2.0 reponsitory.js"
+  },
+  "downloadError": {
+    "message": "Failed to download!",
+    "description": "2.0 reponsitory.js"
+  },
+  "subjectResource": {
+    "message": "Subject Resource Library",
+    "description": "2.0 reponsitory.js"
+  },
+  "knowledgePoints": {
+    "message": "Bilim nuqtalar",
+    "description": "2.0 reponsitory.js"
+  },
+  "moreOperation": {
+    "message": "Amallar",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadFolder": {
+    "message": "Upload the folder",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadProgram": {
+    "message": "Upload VR Content",
+    "description": "2.0 reponsitory.js"
+  },
+  "programDetailWarning": {
+    "message": "The content entrance has not been set for this resource. Please go to Edit to add a content entrance!",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharePerson": {
+    "message": "Shared Person",
+    "description": "2.0 reponsitory.js"
+  },
+  "errorType": {
+    "message": "The file type is not supported",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploaderScormResource": {
+    "message": "Upload SCORM resources",
+    "description": "2.0 reponsitory.js"
+  },
+  "scormTypeError": {
+    "message": "The selected resources contain non SCORM type resources, please select again",
+    "description": "2.0 reponsitory.js"
+  }
+}
