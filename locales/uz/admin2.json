@@ -1,0 +1,6402 @@
+{
+  "organization.orgnization": {
+    "message": "Tashkilotlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgDesc": {
+    "message": "Tashkilotlar ro'yxatini ko'rish, kichik tashkilotlarni yaratish va boshqarish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addTenant": {
+    "message": "Ijarachi qo'shish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addOrganization": {
+    "message": "Kichik tashkilot qo'shish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.search": {
+    "message": "Qidirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.allStatus": {
+    "message": "Barcha holatlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.trial": {
+    "message": "Sinov",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.normal": {
+    "message": "Faol",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.expiringSoon": {
+    "message": "Yaqinda tugaydi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.suspend": {
+    "message": "Faol bo'lmagan",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.archive": {
+    "message": "Arxiv",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgName": {
+    "message": "Tashkilot nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.admin": {
+    "message": "Boshqaruvchi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.startTime": {
+    "message": "Boshlanish vaqti",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.status": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.action": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.edit": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addSubOrg": {
+    "message": "Kichik tashkilot qo'shish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.activate": {
+    "message": "Faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addTenantDesc": {
+    "message": "Kichik tashkilot qo'shish, tafsilotlarni ko'rish uchun Tashkilot Boshqaruvi tugmasini bosing.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.parentOrg": {
+    "message": "Asosiy tashkilot",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgType": {
+    "message": "Tashkilot turi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.remarkOptional": {
+    "message": "Eslatmalar (ixtiyoriy)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.cancel": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.save": {
+    "message": "Saqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.createdSuccess": {
+    "message": "Muvaffaqiyatli yaratildi!",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.createdSuccessDesc": {
+    "message": "Yangi ijarachi yaratildi, orqaga qaytish uchun Orqaga tugmasini bosing. Tashkilotni sozlash uchun quyidagi havolani bosing.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.generalSettings": {
+    "message": "Umumiy sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.accountSettings": {
+    "message": "Hisob qo'shish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.featuresSettings": {
+    "message": "Xususiyatlar konfiguratsiyasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.back": {
+    "message": "Orqaga",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.serverError": {
+    "message": "Server xatosi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.serverErrorDesc": {
+    "message": "Server xatosi mavjud, ma'lumotlarni yubormadingiz. Qayta urinish uchun \"Qayta urinib ko'ring\" tugmasini bosing yoki \"Bekor qilish\" tugmasini bosing va keyinroq urinib ko'ring",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.tryAgain": {
+    "message": "Qayta urinib ko'ring",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.settings": {
+    "message": "Sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.settingsDesc": {
+    "message": "Tashkilotni sozlash va tafsilotli ko'rsatmalar uchun Tashkilot Sozlamalarini ochish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.general": {
+    "message": "Umumiy sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.features": {
+    "message": "Xususiyatlar konfiguratsiyasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resources": {
+    "message": "Resurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.apps": {
+    "message": "Ilovalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.basicSettings": {
+    "message": "Asosiy sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.remark": {
+    "message": "Eslatma",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.detailSettings": {
+    "message": "Tafsilotli sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgId": {
+    "message": "Tashkilot ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgLogo": {
+    "message": "Tashkilot ikonasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.defaultTimezone": {
+    "message": "Standart vaqt zoni",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.language": {
+    "message": "Til",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteNameOptional": {
+    "message": "Sayt nomi (ixtiyoriy)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.customDomain": {
+    "message": "O'zgaruvchan domen",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.orgAddressOptional": {
+    "message": "Manzil (ixtiyoriy)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.phoneOptional": {
+    "message": "Telefon (ixtiyoriy)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.emailOptional": {
+    "message": "Bog'lanish elektron pochtasi (ixtiyoriy)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.privacyPolicies": {
+    "message": "Maxfiylik sozlamalari",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.policyType": {
+    "message": "Maxfiylik turi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.policyContent": {
+    "message": "Maxfiylik shartlari mazmuni",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.updateSettings": {
+    "message": "Sozlamalarni yangilash",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.reset": {
+    "message": "Qayta o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.default": {
+    "message": "Standart",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.custom": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resetconfirm": {
+    "message": "Qayta o'rnatish tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resetconfirmDesc": {
+    "message": "Siz quyidagi maydonlarga o'zgartirishlar kiritdingiz, ularni qayta o'rnatishni tasdiqlaysizmi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.confirm": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.updateSuccess": {
+    "message": "Muvaffaqiyatli yangilandi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.saveSuccess": {
+    "message": "Muvaffaqiyatli saqlandi!",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.organizationText": {
+    "message": "kichik tashkilot",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.proxyOrganization": {
+    "message": "agentlik",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step10": {
+    "message": "{user}ning umumiy ma'lumotlarini o'rnatish.",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step11": {
+    "message": "{user}ga mavjud resurslarni sozlash",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "organization.step12": {
+    "message": "{user} uchun super administrator yaratish",
+    "description": "新管理端——机构管理——添加代理机构/租户/子机构"
+  },
+  "login.title": {
+    "message": "Kirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.username": {
+    "message": "Foydalanuvchi nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.password": {
+    "message": "Parol",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.logIn": {
+    "message": "Kirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.tokenTips": {
+    "message": "Kirish holati noto'g'ri",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.loginStatus": {
+    "message": "Sizning kirish holatingiz endi haqiqiy emas! Siz ushbu sahifada qolishni bekor qila olasiz yoki qayta kirish uchun OK tugmasini bosing",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.reloginBtn": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "login.cancelBtn": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.organizationManager": {
+    "message": "Tashkilotlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.organizationSetting": {
+    "message": "Tashkilot sozlamalari",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.setting": {
+    "message": "Sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.permissionManager": {
+    "message": "Ruxsat",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.announcements": {
+    "message": "E'lonlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.courseManager": {
+    "message": "Kurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.courseStatistics": {
+    "message": "Kurs statistikasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.examManage": {
+    "message": "Imtihonlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.examAnalysis": {
+    "message": "Imtihon tahlili",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.routerBack": {
+    "message": "Orqaga",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.people": {
+    "message": "Foydalanuvchilar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.liveOptions": {
+    "message": "Bulut uchrashuv xonalarini sozlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.live": {
+    "message": "Canli sessiyalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.liveAnalysis": {
+    "message": "Canli sessiya tahlili",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionDesc": {
+    "message": "Tizim ruxsatlarini boshqarish va rollarni o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionRegist": {
+    "message": "Ruxsat ro'yxatga olish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroup": {
+    "message": "Ruxsat guruhlari",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManager": {
+    "message": "Rollar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicManager": {
+    "message": "Xususiyatlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.keywordPlaceholder": {
+    "message": "Kalit so'zlar bo'yicha qidirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.statusPlaceholder": {
+    "message": "Barcha toifalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristic": {
+    "message": "Yangi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader2": {
+    "message": "Tashkilotga tegishli",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader3": {
+    "message": "Toifa",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader4": {
+    "message": "Teglar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader5": {
+    "message": "Faollashtirilgan",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader6": {
+    "message": "Ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader7": {
+    "message": "Qulf qilingan",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.characteristicListHeader8": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicAdd": {
+    "message": "Yangi xususiyat",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicEdit": {
+    "message": "Xususiyatni tahrirlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.saveBtn": {
+    "message": "Saqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.cancelBtn": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicplaceholder1": {
+    "message": "Xususiyat nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem2": {
+    "message": "Xususiyat identifikatori",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicplaceholder2": {
+    "message": "Identifikatorni kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem3": {
+    "message": "Toifa",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicplaceholder3": {
+    "message": "Iltimos, toifa tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem4": {
+    "message": "Teglar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicplaceholder4": {
+    "message": "Xususiyatga teg qo'shing",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem5": {
+    "message": "Tashkilotga tegishli",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem7": {
+    "message": "Faollashtirilgan",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem8": {
+    "message": "Ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem9": {
+    "message": "Qulf qilingan",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicFormitem10": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addCharacteristicplaceholder10": {
+    "message": "Xususiyat uchun tavsif qo'shing",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.OrgType1": {
+    "message": "Boshqaruv tashkiloti",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.OrgType2": {
+    "message": "Ta'lim tashkiloti",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.OrgType3": {
+    "message": "Ichki tashkilot",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.edit": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.delete": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.repeatTip": {
+    "message": "The name is already taken, please use a different one",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.formTip1": {
+    "message": "Text cannot exceed {num} characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.saveSuccessTip": {
+    "message": "The feature is added successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.editSuccessTip": {
+    "message": "The feature is edited successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deleteSuccessTip": {
+    "message": "The feature is deleted successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionConfirmTitle": {
+    "message": "Operation confirmation",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionConfirmDesc": {
+    "message": "This operation will affect all orgnizations in the system, please confirm before continuing.",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionConfirmTip": {
+    "message": "Enter '{msg}' to confirm the operation",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionConfirmMsg": {
+    "message": "Feature change",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deleteConfirmTitle": {
+    "message": "Delete feature",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deleteConfirmDesc": {
+    "message": "After the feature is removed, the organization's settings for the feature will be cleared at the same time, the operation is irreversible, please ensure that the relevant code has been processed before continuing.",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.confirmBtn": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deleteBtn": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader2": {
+    "message": "Ilovalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader3": {
+    "message": "Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader4": {
+    "message": "Permission identification",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader5": {
+    "message": "Sort",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader6": {
+    "message": "Routing",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader7": {
+    "message": "API",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader8": {
+    "message": "Ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionHeader9": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.appPickerPlaceholder": {
+    "message": "All apps",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.menuType1": {
+    "message": "Directory",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.menuType2": {
+    "message": "Menu",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.menuType3": {
+    "message": "Page",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.menuType4": {
+    "message": "Page element",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionCheckPwd": {
+    "message": "Enter the administrator password to confirm the above operations",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader2": {
+    "message": "Role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader3": {
+    "message": "Toifa",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader4": {
+    "message": "Sort",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader5": {
+    "message": "Ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupHeader6": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGriupFilterPlaceholder1": {
+    "message": "All role domains",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGriupFilterPlaceholder2": {
+    "message": "Barcha toifalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupAdd": {
+    "message": "Add permission group",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGroupEdit": {
+    "message": "Edit permission group",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItemPlaceholder1": {
+    "message": "Enter a permission group name",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem2": {
+    "message": "Role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItemPlaceholder2": {
+    "message": "Select a role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem3": {
+    "message": "Toifa",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItemPlaceholder3": {
+    "message": "Select category",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem4": {
+    "message": "Permissions",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItemPlaceholder4": {
+    "message": "Select Permissions",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem5": {
+    "message": "Sort",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItemPlaceholder5": {
+    "message": "Enter the permission group number",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem6": {
+    "message": "Ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionGropuFormItem7": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deletePermissionGroupConfirmTitle": {
+    "message": "Operation confirmation",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deletePermissionGroupConfirmDesc": {
+    "message": "Are you sure you want to delete this permission group?",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deletePermissionGroupConfirmTitle1": {
+    "message": "Warning",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deletePermissionGroupConfirmDesc1": {
+    "message": "The permission group is already associated with the role, please remove the association with the role before deleting it ",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.changeStatusDesc": {
+    "message": "Modifying a permission group affects all roles associated with the permission group, are you sure you want to modify the permission group?",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionCreatetSuccess": {
+    "message": "The permission group is added successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionEditSuccess": {
+    "message": "The permission group is edited successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.permissionDeleteSuccess": {
+    "message": "The permission group has been deleted",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.saveSuccess": {
+    "message": "Muvaffaqiyatli saqlandi!",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerPlaceload1": {
+    "message": "All role domains",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerPlaceload2": {
+    "message": "All base roles",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader1": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader2": {
+    "message": "Role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader3": {
+    "message": "Base role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader4": {
+    "message": "Scope of application",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader5": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader6": {
+    "message": "Number of roles",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerHeader7": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormTitle": {
+    "message": "Add Role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem1": {
+    "message": "Rol nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem2": {
+    "message": "Role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem3": {
+    "message": "Base role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem4": {
+    "message": "Role scope",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem5": {
+    "message": "Data range",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem6": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem7": {
+    "message": "Applies only to this orgnization",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItem8": {
+    "message": "Apply to this orgnization and sub-orgnizations",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItemSubmit": {
+    "message": "Sozlamalarni yangilash",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerFormItemPlaceholder1": {
+    "message": "Rol nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerSettingPermission": {
+    "message": "Configure permissions",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerViewRole": {
+    "message": "View users",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerAddUser": {
+    "message": "Add User",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerCreateByRole": {
+    "message": "Create by role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleManagerDeleteRole": {
+    "message": "Delete the role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleSettingPermissionSetting": {
+    "message": "Permission settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleSettingFilter": {
+    "message": "Filter by name",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleNameTips": {
+    "message": "Please enter the role name",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleRoleAreaPlaceload": {
+    "message": "Select a role domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleBaseRolePlaceload": {
+    "message": "Select the base role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleDataRangePlaceload": {
+    "message": "Select a data range",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleDataRangeOption1": {
+    "message": "This organization and its sub-organizations",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleDataRangeOption2": {
+    "message": "This orgnization only",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleTextareaPlaceload": {
+    "message": "Enter the remark information",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionconfirmDeleteRole": {
+    "message": "Are you sure you want to delete the role?",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionConfirm": {
+    "message": "Operation confirmation",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionconfirmBtnMsg": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionRoleChange": {
+    "message": "Role changes",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.actionRoleByDel": {
+    "message": "The role has been removed",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.isConfirmRoleSetting": {
+    "message": "You changed the base role, do you want to reset permissions according to the new base role?",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.isConfirmText1": {
+    "message": "Operation confirmation",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.isConfirmText2": {
+    "message": "Save changes and do not reset permissions.",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.isConfirmText3": {
+    "message": "Save change and reset permissions.",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.isConfirmText4": {
+    "message": "The role update succeeded",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addRoleSuccess": {
+    "message": "The role was added successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.addRoleFail": {
+    "message": "Failed to add role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.noPermissionUpdate": {
+    "message": "You do not have permission to modify this role",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.rolePermissionSuccess": {
+    "message": "The role permissions are modified",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleAllSort": {
+    "message": "Barcha toifalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.roleNull": {
+    "message": "None",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.warning": {
+    "message": "Warning",
+    "description": "新版管理后台 zh.json"
+  },
+  "permission.deleteRoleFail": {
+    "message": "The role is already associated with the user and cannot be deleted, please remove the association of the role with the user and continue with the deletion",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadBtn": {
+    "message": "Upload image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.imageUploadTips": {
+    "message": "Click to upload image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmBtn": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteBtn": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.cancelBtn": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.exportBtn": {
+    "message": "Export",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.startDate": {
+    "message": "Start time",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.endDate": {
+    "message": "End Time",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.dateTo": {
+    "message": "to",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.closeBtn": {
+    "message": "Close",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.exportTitle": {
+    "message": "Batch export",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.exportTip": {
+    "message": "Set the data range to be exported",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.exportSuccess": {
+    "message": "The data is exported successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.selectPlaceholder": {
+    "message": "Please select",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.back": {
+    "message": "Return",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newAnno": {
+    "message": "Create announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.title": {
+    "message": "Announcement title",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.content": {
+    "message": "Announcement content",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.upload": {
+    "message": "Upload attachments",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.successUpload": {
+    "message": "File uploaded successfully!",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.delUpload": {
+    "message": "The operation will delete the item, do you want to continue?",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.hint": {
+    "message": "Tips",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.organizations": {
+    "message": "The scope of the receiving organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.addOrg": {
+    "message": "Please select the organization that needs to receive the announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.check": {
+    "message": "View",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.edit": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.range": {
+    "message": "Recipient",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Admins": {
+    "message": "All administrators",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Teachers": {
+    "message": "All teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Students": {
+    "message": "All students",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.methods": {
+    "message": "Publishing method",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.now": {
+    "message": "Publish now",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.later": {
+    "message": "Schedule releases",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.pubTime": {
+    "message": "Published time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.selectTime": {
+    "message": "Please select a release time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moreOptions": {
+    "message": "More Settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.sendEmail": {
+    "message": "Synchronously sent to the email",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.isSendEmail": {
+    "message": "Is it synchronously sent to email?",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.sendIntro": {
+    "message": "The notification is sent synchronously to the recipient's email (not sent if there is no recipient's email)",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.showAnno": {
+    "message": "Display notification reminders on the page",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.showIntro": {
+    "message": "Display the message at the top of the page or in a pop-up window, and no longer display it after the expiration time is reached",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.showWay": {
+    "message": "Display method",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.atTop": {
+    "message": "Top reminder",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.topIntro": {
+    "message": "Notifications appear at the top and don't disappear until the recipient closes or views them.",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.atRight": {
+    "message": "The right pop-up window alerts",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.rightIntro": {
+    "message": "The notification is displayed on the right side and disappears automatically after 10s",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Expiration": {
+    "message": "Expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.ExpirationIntro": {
+    "message": "After this time, the recipient will not receive the above reminder method",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.selectExpiration": {
+    "message": "Select the expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishAnno": {
+    "message": "Publish announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.orgRange": {
+    "message": "Please select the scope of the organization to be notified",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.orgRanges": {
+    "message": "Scope of receiving organizations:",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Organizaiton": {
+    "message": "Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.cancel": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.confirm": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.delSuccess": {
+    "message": "Deleted successfully!",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.delFail": {
+    "message": "The deletion has been canceled",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errTitle": {
+    "message": "Please enter a title for the announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errTitle1": {
+    "message": "Up to 100 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errContent": {
+    "message": "Click Enter the content of the announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errContent1": {
+    "message": "Text cannot exceed {num} characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errRange": {
+    "message": "Select a recipient",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errWay": {
+    "message": "Select a sending method",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errSendTime": {
+    "message": "Set the release time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errExpiration": {
+    "message": "Set the expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.errShowWay": {
+    "message": "Set the display method",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.successPub": {
+    "message": "The announcement published successful",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.failPub": {
+    "message": "Failed to publish announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.announcements": {
+    "message": "E'lonlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.searchAnno": {
+    "message": "Please enter the announcement title to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.readTotal": {
+    "message": "Read/Total",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.pubUser": {
+    "message": "Publisher",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.annoEdit": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.annoView": {
+    "message": "View",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.annodel": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.viewAnno": {
+    "message": "View announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.Attachment": {
+    "message": "Attachment:",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.download": {
+    "message": "Yuklab olish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.AllStudents": {
+    "message": "All students",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.AllTeachers": {
+    "message": "All teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.AllAdmins": {
+    "message": "All administrators",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.No": {
+    "message": "None",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.selectStatus": {
+    "message": "Select the status",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.status": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.all": {
+    "message": "Barcha holatlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.read": {
+    "message": "Read",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.unread": {
+    "message": "Unread",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.knowMore": {
+    "message": "Learn more 》",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.sendAndFailErr": {
+    "message": "The sending time must not be equal to or later than the expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noPublish": {
+    "message": "Unpublished",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.fileErr": {
+    "message": "The upload file format is incorrect!",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.checkMore": {
+    "message": "More",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.okDown": {
+    "message": "Downloaded",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.delete": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseManager": {
+    "message": "Kurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseDesc": {
+    "message": "Courses hosted by the school.",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseStatistics": {
+    "message": "Course Statistics",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseStatisticsDesc": {
+    "message": "Note: Data is updated once a day, last updated {date}",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseTypeSettings": {
+    "message": "Course type settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.createCourse": {
+    "message": "Create Course",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.fullYear": {
+    "message": "All years",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.allState": {
+    "message": "All statuses",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.processing": {
+    "message": "In progress",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.over": {
+    "message": "Ended",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.allType": {
+    "message": "All types",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.searchPlaceholder": {
+    "message": "Enter course name or teacher name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseID": {
+    "message": "Course ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseName": {
+    "message": "Course name",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseCode": {
+    "message": "Course code",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseType": {
+    "message": "Course type",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.subordinateCollege": {
+    "message": "Organization belonged to",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.state": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseCreator": {
+    "message": "Kurs yaratuvchisi",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.createTime": {
+    "message": "Created at",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.teacherNum": {
+    "message": "No. of teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.classNum": {
+    "message": "No. of classes",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.studentNum": {
+    "message": "No. of Students",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.actions": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.editCourse": {
+    "message": "Modify the course",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.addPerson": {
+    "message": "Add user",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.joinCourse": {
+    "message": "Enter the course",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseAnalysis": {
+    "message": "Course Analysis",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.to": {
+    "message": "to",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.startDate": {
+    "message": "Start time",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.endDate": {
+    "message": "End time",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.setTheClassTypeOfTheSchoolClass": {
+    "message": "Add/Edit Course Categories",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.addContinue": {
+    "message": "Continue to add",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.cancel": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.confirm": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.selectOrg": {
+    "message": "Select an organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseGeneral": {
+    "message": "Overview",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseGeneralDesc": {
+    "message": "Only new courses created within the selected time range are counted, excluding courses with less than 10 students",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.numberOfCoursesRunning": {
+    "message": "Kurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.totalNumberOfCoursewareUsed": {
+    "message": "Courseware used",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.numberOfLecturesPerTeacher": {
+    "message": "Courses taught per teacher",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.numberOfCoursesTakenPerStudent": {
+    "message": "Courses enrolled per student",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.theCumulativeNumberOfStudentsEnrolledInCourses": {
+    "message": "Total enrollments",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseSizeDistribution": {
+    "message": "Course size & distribution",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.courseSizeDistributionDesc": {
+    "message": "Only new courses created within the selected time range are counted, excluding courses with less than 10 students",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.peopleCouse": {
+    "message": "{num} people's course",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.teachModelAnalyze": {
+    "message": "Teaching mode analysis",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.teachModelAnalyzeDesc": {
+    "message": "Only new courses created within the selected time range are counted, excluding courses with less than 10 students",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.resourceLearningClass": {
+    "message": "Self-study courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.resourceLearningClassDesc": {
+    "message": "Activities (other than announcements, courseware, and resources) are less than 5",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.classroomInteractiveCourse": {
+    "message": "Teacher-led courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.classroomInteractiveCourseDesc": {
+    "message": "Activities (assignments, discussions, live sessions, and classroom activities) are more than 20 and 80%+ of them are live sessions and classroom activities",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.blendedCourse": {
+    "message": "Hybrid courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.blendedCourseDesc": {
+    "message": "Activities (at least 3 different types from assignments, discussions, live sessions, and classroom activities) are more than 20, while live sessions and classroom activities are less than 50%",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.otherTypesOfCourses": {
+    "message": "Other types of courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.otherTypesOfCoursesDesc": {
+    "message": "Courses not included in the first three categories",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.evaluationMethod": {
+    "message": "Course grading analysis",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.evaluationMethodDesc": {
+    "message": "Only new courses created within the selected time range are counted, excluding courses with less than 10 students",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.examPercentage": {
+    "message": "% of courses with exams",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.theProportionOfAssessmentRules": {
+    "message": "% of courses with grading rules",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.in": {
+    "message": "Among them:",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.onlyStatisticsOfCoursewareLearning": {
+    "message": "Only courseware learning is counted",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.includeClassRollCallAndPerformanceInTheAssessment": {
+    "message": "includes roll calls and participation (Random Pick and Compete to Answer)",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.incorporateTestScoresIntoAssessments": {
+    "message": "includes exams",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.lengthTip": {
+    "message": "Length 2-200",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.saveError": {
+    "message": "Failed to save!",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.saveErrorRepeat": {
+    "message": "Save failed with duplicate course name",
+    "description": "新版管理后台 zh.json"
+  },
+  "course.back": {
+    "message": "Orqaga",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.analysis": {
+    "message": "Analysis",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.filterPlaceholder1": {
+    "message": "Enter exam/teacher name search",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.filterPlaceholder3": {
+    "message": "All exams",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.filterPlaceholder4": {
+    "message": "Select an organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead1": {
+    "message": "Exam Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead2": {
+    "message": "Publisher",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead3": {
+    "message": "Kurs",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead4": {
+    "message": "Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead5": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead6": {
+    "message": "Period of validity",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead7": {
+    "message": "Participants",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examsTableHead8": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examGrade": {
+    "message": "View results",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.analysisTitle1": {
+    "message": "Basic Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.baseTip1": {
+    "message": "Exams released",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.baseTip2": {
+    "message": "No. of exam attempts",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.baseTip3": {
+    "message": "No. of examinees",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.examAnalysisTitle": {
+    "message": "Exam overview",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.selectOrg": {
+    "message": "Select an organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.status1": {
+    "message": "All exams",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.status2": {
+    "message": "Not started",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.status3": {
+    "message": "In progress",
+    "description": "新版管理后台 zh.json"
+  },
+  "exams.status4": {
+    "message": "Ended",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.userManager": {
+    "message": "Foydalanuvchilar",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.userDesc1": {
+    "message": "Manage accounts and enrollments in your organization by clicking",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.userDesc2": {
+    "message": "user management",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.userDesc3": {
+    "message": "to see more information",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountManager": {
+    "message": "Accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerManager": {
+    "message": "Enrollments",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.account": {
+    "message": "Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountfilter1": {
+    "message": "Search by name, mail, SIS ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountfilter2": {
+    "message": "Barcha holatlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction1": {
+    "message": "Invite users",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction2": {
+    "message": "Create Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction3": {
+    "message": "Add in bulk",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction4": {
+    "message": "Synchronize with SIS",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction5": {
+    "message": "Export",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction6": {
+    "message": "Statistics",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountAction7": {
+    "message": "Sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable1": {
+    "message": "Display name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable2": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable3": {
+    "message": "SIS ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable4": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable5": {
+    "message": "Created at",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable6": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTable7": {
+    "message": "Batch password modification",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTableAction1": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTableAction3": {
+    "message": "Faol bo'lmagan",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTableAction4": {
+    "message": "Activate account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountTableAction5": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createAccount": {
+    "message": "Create Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editAccount": {
+    "message": "Modify account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm1": {
+    "message": "Full name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm2": {
+    "message": "Display name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm3": {
+    "message": "SIS ID (optional)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm4": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm5": {
+    "message": "New password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm6": {
+    "message": "Register to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm7": {
+    "message": "Rollar",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createForm8": {
+    "message": "Send email notifications after account creation",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormPlaceholder1": {
+    "message": "Full name  will be used in the certificate and official report",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormPlaceholder2": {
+    "message": "The name displayed in the system",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormPlaceholder3": {
+    "message": "ID in the SIS system",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormPlaceholder4": {
+    "message": "Enter your email address",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormPlaceholder5": {
+    "message": "At least 8 digits of the password, including letters and numbers",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormErr6": {
+    "message": "The email address is required",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormErr7": {
+    "message": "The email  is already in use, please change another.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormErr8": {
+    "message": "The email address is invalid",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormErr10": {
+    "message": "Must contain characters and numbers",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createFormErr12": {
+    "message": "Select at least one role",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteUser": {
+    "message": "Invite users",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteTitle": {
+    "message": "Invite users",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteDesc": {
+    "message": "Create a new account via email invitation",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm1": {
+    "message": "Email address (separated by commas)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm2": {
+    "message": "Add to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm3": {
+    "message": "Role",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm4": {
+    "message": "Additional message (optional)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm5": {
+    "message": "Invitation expiration time (optional)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteForm6": {
+    "message": "Email address (separated by commas)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder1": {
+    "message": "Examples: sample@example.net, sample2@example.net",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder2": {
+    "message": "Add to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder3": {
+    "message": "Select Role",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder4": {
+    "message": "Additional information in the invitation email",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder5": {
+    "message": "Select a date",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder6": {
+    "message": "Attached message in the verification mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteFormPlaceholder7": {
+    "message": "Enter the email addresses of existing accounts, separated by commas",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteTable1": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteTable2": {
+    "message": "Add to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteTable3": {
+    "message": "Role",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteTable4": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.deleteAccount": {
+    "message": "Delete the account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.disableAccount": {
+    "message": "Deactivate account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.removeAccount": {
+    "message": "Remove enrollment",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeAccount": {
+    "message": "Activate account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.deleteDesc": {
+    "message": "Deleting an account will permanently remove the user's data (including courses, grades) and user files, which cannot be undone.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.disableDesc": {
+    "message": "After the account is deactivated, the user cannot log in to the system, the user data will not be deleted, and the account can be reactivated. Click the button below to confirm the action.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.removeDesc": {
+    "message": "After removing the enrollment, the account cannot use the resources and applications of the organization, the data created by the account in the organization will be retained.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeDesc": {
+    "message": "After activating the account, the account can use various functions normally, confirm that you want to activate the account?",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.delete": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.disable": {
+    "message": "Faol bo'lmagan",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.remove": {
+    "message": "Remove",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.active": {
+    "message": "Faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.sendUserMail": {
+    "message": "Send a notification to the user's email",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPassword": {
+    "message": "Change Password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.amendBtn": {
+    "message": "Change",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.allStatus": {
+    "message": "All:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.passStatus": {
+    "message": "Passed:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.errorStatus": {
+    "message": "Errors:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerfilter1": {
+    "message": "Search by name and email address",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerfilter3": {
+    "message": "All roles",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerAccount": {
+    "message": "Register accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerAction1": {
+    "message": "Add (bulk)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerAction2": {
+    "message": "Synchronize with SIS",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerAction3": {
+    "message": "Export",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerAction4": {
+    "message": "Statistics",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTable1": {
+    "message": "Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTable2": {
+    "message": "Account attribution",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTable3": {
+    "message": "Register to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTable4": {
+    "message": "Rollar",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTable5": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTableAction1": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerFormTitle": {
+    "message": "Register accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerFormDesc": {
+    "message": "Enroll existing accounts to your organization, contact your account administrator if you need to create a new account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerForm1": {
+    "message": "Select from existing accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerBtnText": {
+    "message": "Register account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.preStep": {
+    "message": "Previous",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.nextStep": {
+    "message": "Next",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.cancel": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.close": {
+    "message": "Close",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.save": {
+    "message": "Saqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.create": {
+    "message": "Create",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.edit": {
+    "message": "Tahrirlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPasswordErr1": {
+    "message": "Please fill in the password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPasswordErr2": {
+    "message": "The password is 8-20 digits and contains letters and numbers",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPasswordErr3": {
+    "message": "The new password cannot be the same as the original password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPasswordErr4": {
+    "message": "Please confirm the password again",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editPasswordErr5": {
+    "message": "Password input is inconsistent",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.mailNull": {
+    "message": "An email address is required",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.mailOver": {
+    "message": "Cannot exceed 5000 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editRegister": {
+    "message": "Modify the registration",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerTo": {
+    "message": "Register to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editUserRet": {
+    "message": "The enrollment relationship of the account {mail} has been modified",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteUserErr": {
+    "message": "The number of accounts has reached the maximum number of accounts of the orgnization, and it is not possible to create a new account, please contact the administrator to purchase a new account.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.passwordSuccess": {
+    "message": "The password has been modified",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.passwordFail": {
+    "message": "Password modification failed",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountOver": {
+    "message": "The number of accounts has reached the maximum number of accounts of the orgnization, and it is not possible to create a new account, please contact the administrator to purchase a new account.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.delRegisterRole1": {
+    "message": "Learn more",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.delRegisterRole2": {
+    "message": "Enrollments",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.loadingText2": {
+    "message": "Processing..., please wait.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.sendCodeToMail": {
+    "message": "Send a verification email",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.selectUser": {
+    "message": "Select the user",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.usersCount": {
+    "message": "Number of items:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.selected": {
+    "message": "Selected: ",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.select": {
+    "message": "Select",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.search": {
+    "message": "Search...",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.isNew": {
+    "message": "Latest first",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.isNotNew": {
+    "message": "Latest last",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.newPassword": {
+    "message": "New password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.autoGenerate": {
+    "message": "Automatically generated",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.autoGenerateSuccess": {
+    "message": "Auto-generated password to copy to clipboard",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.confirmPassword": {
+    "message": "Confirm password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.lastLogin": {
+    "message": "Last login:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.usersItem1": {
+    "message": "Available sessions",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.usersItem2": {
+    "message": "Kurs",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.usersItem3": {
+    "message": "Storage",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.stopUserSuccess": {
+    "message": "Account deactivation is successful",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.stopUserFail": {
+    "message": "Account deactivation failed",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeUserSuccess": {
+    "message": "Account activation successful",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeUserFail": {
+    "message": "Failed to activate account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.deleteUserSuccess": {
+    "message": "The account is successfully deleted",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.deleteUserFail": {
+    "message": "Failed to delete the account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.lessOneUser": {
+    "message": "Add at least one existing account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.lessOneMail": {
+    "message": "Add at least one invitation email",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createAccountSuccess": {
+    "message": "The account is created",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.createAccountFail": {
+    "message": "Failed to create account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteMailSuccess": {
+    "message": "New accounts created via email invitation {mail} and other {num} accounts have been added",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.registerMailSuccess": {
+    "message": "{mail} and other {num} accounts have been registered to the {org} ",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.inviteMailFail": {
+    "message": "Enrollment invitations have been sent to {num1} mailboxes such as {mail1}. {mail2} and other {num2} mailboxes failed to send mail. You can do the following:",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeStatus": {
+    "message": "Faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.suspendStatus": {
+    "message": "Deactived",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.pendingStatus": {
+    "message": "Pending",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.removeAccountSuccess": {
+    "message": "The enrollment is removed successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.removeAccountFail": {
+    "message": "Failed to remove enrollment",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.editRegisterFail": {
+    "message": "Failed to modify enrollment relationship",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.noAccount": {
+    "message": "The account does not exist and cannot be added, contact the account administrator to add the account",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountList": {
+    "message": "List of accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.byEmail": {
+    "message": "By mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.byAccount": {
+    "message": "Select existing accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.sendNewMail": {
+    "message": "After changing the email, send a verification email to the new email address",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.tabItem1": {
+    "message": "Configuration",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.tabItem2": {
+    "message": "Resurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsForm1": {
+    "message": "Cloud server provider",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsForm2": {
+    "message": "Virtual meeting room enablement",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsForm3": {
+    "message": "Boshqaruvchi",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsForm4": {
+    "message": "Enable cloud recording ",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.updateBtn": {
+    "message": "Update",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFilterPlaceholder1": {
+    "message": "Enter the room name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFilterPlaceholder2": {
+    "message": "All statuses",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.addResource": {
+    "message": "Create",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader1": {
+    "message": "Room ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader2": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader3": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader4": {
+    "message": "Seats",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader5": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader6": {
+    "message": "Date of Expiry",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader7": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader8": {
+    "message": "Assigning to",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableHeader9": {
+    "message": "Assign teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableAction1": {
+    "message": "O'zgartirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableAction3": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableAction4": {
+    "message": "Configuration",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableAction5": {
+    "message": "Faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsTableAction6": {
+    "message": "Disable",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel1": {
+    "message": "Room name",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel1Placeholder": {
+    "message": "Please enter a room name",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel2": {
+    "message": "Room ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel2Placeholder": {
+    "message": "Please enter the meeting room ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel3": {
+    "message": "Seats",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel3Placeholder": {
+    "message": "Please enter the number of seats",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel4": {
+    "message": "Date of Expiry",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel4Placeholder": {
+    "message": "Please select an expiry date",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel5": {
+    "message": "Description",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel5Placeholder": {
+    "message": "You can give a brief description of the meeting room (optional)",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel6": {
+    "message": "Assigning to",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel6Placeholder": {
+    "message": "Select organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel7": {
+    "message": "Assign teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.optionsFormLabel7Placeholder": {
+    "message": "Select teachers",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.filterPlaceholder1": {
+    "message": "Enter live session name or teacher name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.filterPlaceholder3": {
+    "message": "All statuses",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.filterPlaceholder4": {
+    "message": "Select an organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead1": {
+    "message": "Live Session Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead2": {
+    "message": "Teacher",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead3": {
+    "message": "Kurs",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead4": {
+    "message": "Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead5": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead6": {
+    "message": "Live session duration",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead8": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableHead9": {
+    "message": "All Examinees",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.baseTip1": {
+    "message": "Canli sessiyalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.baseTip2": {
+    "message": "Teachers Who Delivered Live Session",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.baseTip3": {
+    "message": "Total Participants of All Live Sessions",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.baseTip4": {
+    "message": "Concurrent Participants of Highest-Attended Session",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.baseTip5": {
+    "message": "Total Length of All Live Sessions",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveAnalysisTitle": {
+    "message": "Live Session Overview",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.selectOrg": {
+    "message": "Select an organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status1": {
+    "message": "Not started",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status2": {
+    "message": "In progress",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status3": {
+    "message": "Ended",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status4": {
+    "message": "Normal",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status5": {
+    "message": "Yaqinda tugaydi",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.status6": {
+    "message": "Expired",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveTableAction1": {
+    "message": "Enter the meeting",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveHeaderAction1": {
+    "message": "Export the list",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveHeaderAction2": {
+    "message": "Bulut uchrashuv xonalarini sozlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.analysis": {
+    "message": "Statistical analysis",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.analysisTitle1": {
+    "message": "Basic Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveChartTitle1": {
+    "message": "Live Session Duration",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveChartTitle2": {
+    "message": "Top 5 Teachers - Most Live Sessions Delivered",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.liveChartTitle3": {
+    "message": "Top 5 Courses - Most Live Sessions Delivered",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.hour": {
+    "message": "{hour} hours ",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.moreHour": {
+    "message": "{hour} hours or more",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.lessHour": {
+    "message": "{hour} hours",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFormLabel1": {
+    "message": "Orgnization scope",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFormPlaceholder1": {
+    "message": "Please select orgnizations",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFormLabel2": {
+    "message": "Time range",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFormPlaceholder2": {
+    "message": "Please select a time range",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFormLabel3": {
+    "message": "Live session status",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.distributeTeachersTip": {
+    "message": "Only teachers under the assigned organizaiton can be selected.<br/>By default, all teachers under the assigned organizaiton are selected. ",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider1": {
+    "message": "Cloud meetings",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider2": {
+    "message": "Talk-Cloud",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider3": {
+    "message": "Polyv",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider4": {
+    "message": "welink",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider5": {
+    "message": "Tencent Meetings",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.saveMeetingOptionSuccess": {
+    "message": "The cloud room configuration has been updated",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.createMeetingRoomTitle": {
+    "message": "Create a cloud room",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.editMeetingRoomTitle": {
+    "message": "Modify the cloud room",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.createMeetingRoomSuccess": {
+    "message": "The meeting room is created successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.editMeetingRoomSuccess": {
+    "message": "The meeting room is modified successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.deleteMeetingRoomTitle": {
+    "message": "Delete the meeting room ",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.deleteMeetingRoomDesc": {
+    "message": "After deleting the meeting room, all data related to the meeting room  will be deleted and the storage space will be freed, this operation is irreversible, do you want to do this?",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.deleteMeetingRoomConfirm": {
+    "message": "Delete the meeting room ",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.deleteMeetingRoomSuccess": {
+    "message": "The meeting room is deleted successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.setMeetingRoomTitle": {
+    "message": "Configure meeting rooms",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.exportFileTitle": {
+    "message": "Live sessions list",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.title": {
+    "message": "Resurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.desc": {
+    "message": "View your orgnization's available and used resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resource": {
+    "message": "Resource status",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.start": {
+    "message": "Start",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.end": {
+    "message": "End",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.used": {
+    "message": "Used",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.expired": {
+    "message": "Expired",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.expired1": {
+    "message": "Expired",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.total": {
+    "message": "Total",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.totalQuota": {
+    "message": "Total quota",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.serverTitle": {
+    "message": "Service expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.storeTitle": {
+    "message": "Archive expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.totalAccountTitle": {
+    "message": "Total accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.activeAccountTitle": {
+    "message": "Active accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.yunTitle": {
+    "message": "Cloud storage",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.yunMeetingTitle": {
+    "message": "Virtual Meeting Room",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.lesseeTitle": {
+    "message": "Tenant",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.totalActiveAccountTitle": {
+    "message": "Total active accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.bigScreen": {
+    "message": "Smart screen",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.baseResourceSetting": {
+    "message": "General resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceSettingDesc1": {
+    "message": "Control the resources available to the organization, click",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceSettingDesc2": {
+    "message": "Resource Management",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceSettingDesc3": {
+    "message": "See more information",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceTitle1": {
+    "message": "Lease",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceTitle2": {
+    "message": "Cloud storage",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceTitle3": {
+    "message": "Accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceItem1": {
+    "message": "Service expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceItem2": {
+    "message": "Archive expiration time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceItem3": {
+    "message": "Maximum storage  (GB)",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceItem4": {
+    "message": "Maximum number of accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceItem5": {
+    "message": "Maximum number of active accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceSubmit": {
+    "message": "Sozlamalarni yangilash",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceReset": {
+    "message": "Qayta o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.confirm1": {
+    "message": "Change resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.confirm2": {
+    "message": "The following resources will be changed, confirm and continue",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.confirm3": {
+    "message": "About",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.confirm4": {
+    "message": "Resource changes",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.confirm6": {
+    "message": "Tasdiqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resourceChange": {
+    "message": "Resource changes",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.sendMail": {
+    "message": "Send a notification email to the site administrator",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips1": {
+    "message": "The expiration time is less than one month, please plan your use",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips2": {
+    "message": "The service period has reached the end of the period, contact the account manager to expand",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips3": {
+    "message": "The archive expires less than one month, make a backup",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips4": {
+    "message": "The archive expiration time has expired and will be deleted within 5 business days",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips5": {
+    "message": "The account has exceeded 80% usage, please plan to use it",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips6": {
+    "message": "The maximum account usage has been reached, and the new account cannot be created, contact the account manager to expand resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips7": {
+    "message": "Active accounts have exceeded 80% usage, please plan your use",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips8": {
+    "message": "The maximum active account usage has been reached, and you cannot add or activate accounts, contact your account manager to expand resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips9": {
+    "message": "Cloud storage has exceeded 80% usage, so plan your use",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips10": {
+    "message": "The maximum storage has been reached, contact your account manager to expand",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips11": {
+    "message": "Some meeting rooms have expired, please contact your customer success manager to renew your contract in time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.tips12": {
+    "message": "All meeting rooms have expired and cannot be used, please contact your customer success manager to renew your contract in time",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule2": {
+    "message": "The maximum storage space cannot be less than 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule3": {
+    "message": "If the storage space exceeds 1000G, please contact the customer success manager for handling",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule4": {
+    "message": "The maximum number of accounts cannot be less than 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule5": {
+    "message": "The maximum cannot exceed 10 million",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule6": {
+    "message": "The maximum number of active accounts cannot be less than 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule7": {
+    "message": "The maximum number of accounts cannot be exceeded",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.downloadErrlog": {
+    "message": "Download error log",
+    "description": "新版管理后台"
+  },
+  "users.passwordP1": {
+    "message": "The password is 8-20 digits and contains letters and numbers",
+    "description": "新版管理后台"
+  },
+  "users.passwordP2": {
+    "message": "Enter password again",
+    "description": "新版管理后台"
+  },
+  "users.mailAddressErr": {
+    "message": "This email has been registered.",
+    "description": "新版管理后台"
+  },
+  "users.editAccountSuccess": {
+    "message": "The account is modified successfully",
+    "description": "新版管理后台"
+  },
+  "live.liveTableAction2": {
+    "message": "The meeting has ended",
+    "description": "新版管理后台"
+  },
+  "organization.choseAdmin": {
+    "message": "Select administrator",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.choseAdminTip": {
+    "message": "Enter name or email address  to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.loading": {
+    "message": "Loading...",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.nomore": {
+    "message": "No more",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.OrgType1": {
+    "message": "Boshqaruv tashkiloti",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.OrgType2": {
+    "message": "Ta'lim tashkiloti",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.OrgType3": {
+    "message": "Ichki tashkilot",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step1": {
+    "message": "Umumiy sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step2": {
+    "message": "Set general information of tenant.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step3": {
+    "message": "Resurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step4": {
+    "message": "Configure the resources available to the tenant",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step5": {
+    "message": "Set administrator",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step6": {
+    "message": "Create a super administrator for tenant",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step7": {
+    "message": "Notify other stakeholders",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step8": {
+    "message": "Send a notification email to stakeholders",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step9": {
+    "message": "Email preview",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepDesc": {
+    "message": "After the tenant is created, an email notification of details will send to the stakeholders, include  tenant and agent administrator. If you need to send it to other people, enter emails address below.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepBtn1": {
+    "message": "Next",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepBtn2": {
+    "message": "Previous",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepBtn4": {
+    "message": "Close",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepSuccess": {
+    "message": "Tenant created successfully. Click the close button  to return. Click the link below to continue setting up the tenant.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp1": {
+    "message": "Respectful ",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp2": {
+    "message": "Thank you for using ULearning, here are the details of your order",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp3": {
+    "message": "General:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp4": {
+    "message": "Tenant name: ",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp5": {
+    "message": "Resources:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp6": {
+    "message": "Service start time: ",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp7": {
+    "message": "Service expiration time:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp8": {
+    "message": "Archive expiration time:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp9": {
+    "message": "Maximum number of accounts:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp10": {
+    "message": "Maximum number of active accounts:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp11": {
+    "message": "Maximum cloud storage: ",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp12": {
+    "message": "Review the following information to help your use:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp13": {
+    "message": "ULearning User Manual",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp14": {
+    "message": "\"How to use\" video clips for teachers (En)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp15": {
+    "message": "\"How to use\" video clips for students (En)",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp16": {
+    "message": "If you have any questions, please contact your Customer Success Manager",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp17": {
+    "message": "Sincerely",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp18": {
+    "message": "ULearning team",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp19": {
+    "message": "sg.service@ulearning.asia",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.repeatTip": {
+    "message": "The name is already taken, please use a different one",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addRuleErr2": {
+    "message": "Text cannot exceed {num} characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailerr": {
+    "message": "The email {mail} is incorrect",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.toggleOrgSuccess": {
+    "message": "The institution switch is successful, and the page will be updated soon",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.addAnnouncement": {
+    "message": "Create announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.announcementDetail": {
+    "message": "View announcements",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.orgResource": {
+    "message": "Resurslar",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.baseResourceSetting": {
+    "message": "General resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.rolePermissionSetting": {
+    "message": "Configure permissions",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.baseResourceSettingSuccess": {
+    "message": "The general resource is configured successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.error": {
+    "message": "Failed to operate",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.updateconfirmDesc": {
+    "message": "You have made edits to the following fields. Do you confirm updating these fields?",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.repeatTip1": {
+    "message": "The identifier is already in use, use a different identifier",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.uploadLogoTip": {
+    "message": "Upload icons can only be in PNG, JPG, JPEG, GIF formats!",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.emailErrorTip": {
+    "message": "Please enter a valid email",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.userAgreementType": {
+    "message": "User Agreement Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.userAgreementContent": {
+    "message": "User Agreement Content",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.userAgreementContentTip": {
+    "message": "The user agreement content cannot be empty",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.policyContentTip": {
+    "message": "The content of the privacy policy cannot be empty",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.updatepolicyContentSuccess": {
+    "message": "The privacy settings were updated successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate1": {
+    "message": "Site templates",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate2": {
+    "message": "Menu Style",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate3": {
+    "message": "Recommended if you want to customize the menu and content of the homepage",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate4": {
+    "message": "Login Style",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate5": {
+    "message": "Recommended if you want to keep the homepage clean with a login box",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.errorTip1": {
+    "message": "This ID is already taken, please use a different ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.errorTip2": {
+    "message": "The domain name is already occupied, please enter a different name",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploaderTitle": {
+    "message": "Fayl tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploaderDesc": {
+    "message": "Drag and drop files here or select files (.csv .xlsx)",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.batchAddErrorTip1": {
+    "message": "The file format is incorrect, please select .csv or .xlsx file",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.batchAddErrorTip2": {
+    "message": "Files cannot exceed 5M",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.backStepBtn": {
+    "message": "Previous",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.continueBtn": {
+    "message": "Continue",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.dataTotal": {
+    "message": "Total ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.dataFail": {
+    "message": "Errors",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.dataPass": {
+    "message": "Passed",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.options": {
+    "message": "Options",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.batchAddMaxTip": {
+    "message": "The data imported at a time cannot exceed {n}, please import it in stages",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.exportErrorList": {
+    "message": "Download error data",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.inputRequireErrorTip": {
+    "message": "Please fill in {labelTitle}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.selectRequireErrorTip": {
+    "message": "Please select {labelTitle}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.minErrorTip": {
+    "message": "The content must not be less than {min} characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.maxErrorTip": {
+    "message": "Content cannot exceed {max} characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddCountTitle": {
+    "message": "Batch add accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddCountDesc": {
+    "message": "Add multiple items of data at once from a file",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddCountRule": {
+    "message": "A single import does not exceed 1000 items, and the file does not exceed 5M",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.template1": {
+    "message": "Template (.csv)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.template2": {
+    "message": "Template (.xlsx)",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRuleTitle": {
+    "message": "Data requirements",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule1": {
+    "message": "【fullname】Text, required, no more than 128 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule2": {
+    "message": "【display_name】Text, required, no more than 64 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule3": {
+    "message": "【Email】Required, not repeatable",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule4": {
+    "message": "【sis_id】Optional, text, no more than 128 characters, not repeatable",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule5": {
+    "message": "【password】Required, text, 8-20 digits, including letters and numbers",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule6": {
+    "message": "【enroll_to】Optional, registered with this institution by default",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.dataRule7": {
+    "message": "【role】Required, multiple roles separated by commas, a list of roles supported by the institution to which the user is registered",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.sendEmailTitle": {
+    "message": "Send a notification email after the account is created",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.sendEmailDesc": {
+    "message": "After the account is added, a notification email will be sent to the user according to the account email address.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.submitBtn": {
+    "message": "Add",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.accountMaxTip": {
+    "message": "The number of accounts has reached the maximum number of accounts of the institution, and it is not possible to create new accounts.<br/> Contact your administrator to purchase a new account.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.activeAccountMaxTip": {
+    "message": "The maximum number of active accounts has been reached and new accounts cannot be created,<br/>Contact your administrator to purchase a new active account.",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip1": {
+    "message": "Please enter your full name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip2": {
+    "message": "The full name cannot exceed 128 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip3": {
+    "message": "Please enter a display name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip4": {
+    "message": "The display name cannot exceed 64 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip5": {
+    "message": "Please enter your email address",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip6": {
+    "message": "The email format is incorrect, please fill in the correct email address",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip7": {
+    "message": "This email address is already registered, please use another email",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip8": {
+    "message": "There are duplicates of email addresses in the file, please make sure that the email addresses in the file are unique",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip9": {
+    "message": "SIS IDs cannot exceed 128 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip10": {
+    "message": "The SIS ID is already in use, please use a different ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip11": {
+    "message": "SIS IDs are duplicated, ensuring that the SIS ID is unique in the file",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip12": {
+    "message": "Please enter the password",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip13": {
+    "message": "The password must not be less than 8 digits",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip14": {
+    "message": "The password cannot be more than 20 digits",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip15": {
+    "message": "The password must contain letters and numbers",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip16": {
+    "message": "Please enter the name of the orgnization you want to enroll to",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip17": {
+    "message": "Organization name not found, please use the correct organization name",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip18": {
+    "message": "The name of the organization cannot exceed 256 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip19": {
+    "message": "The organization name must be at least two characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip20": {
+    "message": "Please fill in the role",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip21": {
+    "message": "Unable to verify, please fill in the name of the role to assign",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip22": {
+    "message": "Role names cannot exceed 128 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip23": {
+    "message": "Use roles that are supported by the orgnization",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddUserErrorTip24": {
+    "message": "Data that has not passed the verification is currently imported",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddSuccessTip": {
+    "message": "{n} accounts were added",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.batchAddFailTip": {
+    "message": "{n} accounts failed to add",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.exportErrorData": {
+    "message": " Click to export error data",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.addCountMaxTip": {
+    "message": "The number of accounts to be created ({addNum}) exceeds the number of remaining active accounts ({maxNum}) in the orgnization, and the new account cannot be created, please contact the administrator to purchase a new account.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth1": {
+    "message": "Authentication",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth2": {
+    "message": "Set the user login and authentication methods and SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth3": {
+    "message": "Sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth4": {
+    "message": "Authentication settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth5": {
+    "message": "Basic Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth6": {
+    "message": "Login page URL",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth7": {
+    "message": "Customize page",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth8": {
+    "message": "Login settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth9": {
+    "message": "Allow email password login",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth10": {
+    "message": "Allow users to log in to the system through email and password. When this feature is disabled, users cannot log in with email and password, and they cannot change their personal passwords.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth11": {
+    "message": "Disable email password login",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.auth12": {
+    "message": "With this setting, users will no longer be allowed to sign in with email and password. Before you make changes, make sure that users have an alternative sign-in method. Click the Confirm button to apply the changes.",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.switchOldVersion": {
+    "message": "Switch to older version",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.switchRole": {
+    "message": "Switch role",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.switchRoleDesc": {
+    "message": "Select the role you want to use",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.setting": {
+    "message": "Sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.logout": {
+    "message": "Log Out",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.hello": {
+    "message": "Hello, {userNickName}",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.email": {
+    "message": "Email: {email}",
+    "description": "新版管理后台 zh.json"
+  },
+  "layout.userId": {
+    "message": "UserId:{userId}",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.dashboard": {
+    "message": "Dashboard",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso": {
+    "message": "Single sign-on",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.ssoSetting": {
+    "message": "Single sign-on setup",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.openSSO": {
+    "message": "Enable SSO Login",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.openSSOTip": {
+    "message": "After SSO login is enabled, the system supports SP-initated login or IdP login. When disabled, users are no longer allowed to log in through SSO.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.addSSO": {
+    "message": "Add SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.SSOName": {
+    "message": "SSO name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.SSOList": {
+    "message": "SSO list",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.connectType": {
+    "message": "Connection type",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.status": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.isDefault": {
+    "message": "Standart",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSO": {
+    "message": "Create SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.baseSetting": {
+    "message": "Umumiy sozlamalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.attrMapping": {
+    "message": "Attribute mapping",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.roleMapping": {
+    "message": "Role mapping",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.options": {
+    "message": "Options",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSAMLConnect": {
+    "message": "Create a SAML connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso18": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso19": {
+    "message": "Redirect URL",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso20": {
+    "message": "IdP settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso21": {
+    "message": "Get a metadata file from your IDP and upload it here, or enter the values manually.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso22": {
+    "message": "Upload the IdP XML",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso23": {
+    "message": "Issuer string or entity ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso24": {
+    "message": "IDP redirect endpoint",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso25": {
+    "message": "SAML subject identity attribute name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso26": {
+    "message": "X.509 public certificates",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso27": {
+    "message": "Sign AuthnRequest",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso28": {
+    "message": "No(default)",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso29": {
+    "message": "Ha",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso30": {
+    "message": "SAML request binding",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso31": {
+    "message": "HTTP-Redirect",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso32": {
+    "message": "HTTP-Post(default)",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso33": {
+    "message": "Include assertion consumer service URLs",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso34": {
+    "message": "Authentication request signing algorithm",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso35": {
+    "message": "SHA1",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso36": {
+    "message": "SHA256(default)",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso37": {
+    "message": "AuthnContextClassRef",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.downloadSPXML": {
+    "message": "Download the SP Metadata XML",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.emailIdpAttr": {
+    "message": "Email IdP attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputEmailIdp": {
+    "message": "Enter the IdP attribute corresponding to the email",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.nameIdpAttr": {
+    "message": "Full name IdP attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputnameIdp": {
+    "message": "Enter the IdP attribute that corresponds to the user's full name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputnameIdpTip": {
+    "message": "If not set, the user's email address will be used as the full name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.usernameIdpAttr": {
+    "message": "The user name IdP attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputusernameIdp": {
+    "message": "Enter the IdP attribute that corresponds to the user name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputusernameIdpTip": {
+    "message": "If not set, the user's email address will be used as the full name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.customMapping": {
+    "message": "Turn on custom attribute mapping",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.IdpMappingLMS": {
+    "message": "Map IdP attributes to user attributes of the LMS",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.add": {
+    "message": "Add",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.LMSAttr": {
+    "message": "LMS attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.IdpAttr": {
+    "message": "IdP attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.action": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultOrg": {
+    "message": "Default authority",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.IdPOrgAttr": {
+    "message": "IdP institution attributes",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.setIdPOrgAttr": {
+    "message": "Set the organization properties on the IdP side",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso48": {
+    "message": "Institution mapping rules",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption1": {
+    "message": "Enable auto-provisioning",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption2": {
+    "message": "If there is no matching nameid, a new account is automatically created",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption3": {
+    "message": "Update user properties at logon",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption4": {
+    "message": "If the IdP attribute changes when the user logs in, the user attributes are automatically updated",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption5": {
+    "message": "Set as the default SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOOption6": {
+    "message": "This SSO is set as the system default SSO through which users log in",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso57": {
+    "message": "Role mapping rules",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.active": {
+    "message": "Faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.stop": {
+    "message": "Disable",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.edit": {
+    "message": "Tahrirlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso61": {
+    "message": "Test",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.del": {
+    "message": "O'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.delSSO": {
+    "message": "Delete the SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.delSSOTip": {
+    "message": "You are about to delete the following SSO connections, which will disable users from logging in to the system using sp-initate and idp-initate. Confirm that the deletion continues.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso65": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso66": {
+    "message": "Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sso67": {
+    "message": "IdP",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.activeSSO": {
+    "message": "Activate the SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.activeSSOTip": {
+    "message": "You are about to activate the following SSO connection, which will allow users to log in to the system using sp-initate and idp-initate. If not, disable this setting.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.stopSSO": {
+    "message": "Deactivate the SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.stopSSOTip": {
+    "message": "You are about to deactivate the following SSO connection, which will disable users from logging into the system using sp-initate and idp-initate.",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.nextStep": {
+    "message": "Next",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.save": {
+    "message": "Saqlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.cancel": {
+    "message": "Bekor qilish",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.close": {
+    "message": "Close",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.createSSOSuccess": {
+    "message": "The SSO connection is saved",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.copySuccess": {
+    "message": "Duplicated successfully!",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.NameErrTip1": {
+    "message": "please input name",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.NameErrTip2": {
+    "message": "Cannot exceed 64 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.NameErrTip3": {
+    "message": "Name already used, please re-enter",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.uploadIdpErr": {
+    "message": "The current limit is {num} files",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.creatSSOErr1": {
+    "message": "Please enter the issuer string or entity ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.creatSSOErr2": {
+    "message": "Please enter the IDP redirect destination",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.creatSSOErr4": {
+    "message": "Please enter the X.509 public certificate",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO": {
+    "message": "Test SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO1": {
+    "message": "Follow these steps to test the SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO2": {
+    "message": "Connection test",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO3": {
+    "message": "Test the connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO4": {
+    "message": "Login test",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO5": {
+    "message": "Follow these steps to test SSO login",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO6": {
+    "message": "Login address",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO7": {
+    "message": "Exit the test",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSSO9": {
+    "message": "Logout address",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.testSuccess": {
+    "message": "The connection is normal",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.copy": {
+    "message": "Copy",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Accounts": {
+    "message": "Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Courses": {
+    "message": "Kurs",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CourseEnrollments": {
+    "message": "Course enrollment",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Activities": {
+    "message": "Learning activities",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.UserLogin": {
+    "message": "User login trends",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Detail": {
+    "message": "Details",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Description": {
+    "message": "Description of the indicator",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.DataScope": {
+    "message": "Data range",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.Update": {
+    "message": "Data updates",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.timeFilterWeek": {
+    "message": "Last 7 days",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.timeFilterMonth": {
+    "message": "Last 30 Days",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.AccountsDescription": {
+    "message": "The total number of accounts of the organization and its subsidiaries, and the change in this number yesterday",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.AccountsDataScope": {
+    "message": "Scope of the organization: the institution and its sub-institutions<br/>Account scope: All accounts, including active accounts and suspended accounts<br/>Time range: All time",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.AccountsUpdate": {
+    "message": "Updated daily<br/>Last updated: {time}",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesDescription": {
+    "message": "The number of all courses in the institution and its sub-institutions, as well as the change in the number yesterday",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesDataScope": {
+    "message": "Scope of the organization: This organization and its sub-institutions<br/>Course Scope: All courses, including active, closed, and archived courses<br/>Time Range: All time",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesUpdate": {
+    "message": "Updated daily<br/>Last updated: {time}",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesEnrollmentsDescription": {
+    "message": "The number of students enrolled in all courses of the institution and its sub-institutions, and the change in this number yesterday",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesEnrollmentsDataScope": {
+    "message": "Scope of the organization: the institution and its sub-institutions<br/>Course Scope: All courses, including active, ended, and archived courses<br/>Time Range: All time",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.CoursesEnrollmentsUpdate": {
+    "message": "Updated daily<br/>Last updated: {time}",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.ActivitiesDescription": {
+    "message": "The number of learning activities for all courses belonging to the institution and its sub-institutions and the change in that number yesterday, including assignments, quizzes, discussions, classes, live streams and exams.",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.ActivitiesDataScope": {
+    "message": "Scope of the organization: the institution and its sub-institutions<br/>Course Scope: All courses, including active, ended, and archived courses<br/>Time Range: All time",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.ActivitiesUpdate": {
+    "message": "Updated daily<br/>Last updated: {time}",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.UserloginDescription": {
+    "message": "Displays the number of users logged in to the system per day",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.UserloginDataScope": {
+    "message": "Scope of the organization: This organization and its sub-institutions<br/>Account scope: All accounts belonging to the organization and sub-institutions<br/>Time range: 00:00 - 24:00 in the time zone of the institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "dashboard.UserloginUpdate": {
+    "message": "Updated daily<br/>Last updated: {time}",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.uploadLogoTip2": {
+    "message": "Please upload an image of {ratio} ratio",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.editSSO": {
+    "message": "Edit the SSO connection",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.disabledSSO": {
+    "message": "Disable SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.disabledSSOTip": {
+    "message": "Disabling this setting will prevent users from logging in using SSO connections, including SP-initiated and IDP-initiated. Click Confirm to continue",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.xmlParseError": {
+    "message": "XML parsing failed",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.address": {
+    "message": "Address",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.phtone": {
+    "message": "telephone number",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.sex": {
+    "message": "Jins",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultRole": {
+    "message": "Default user role",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.selectDefaultRole": {
+    "message": "Select the default user role",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultRoleMapping": {
+    "message": "IdP role attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.settingDefaultRoleMapping": {
+    "message": "Enter the role attribute on the IdP side",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultErrtip1": {
+    "message": "Please select the default institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultErrtip2": {
+    "message": "Enter the IdP organization attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultErrtip3": {
+    "message": "Select the default user role",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.defaultErrtip4": {
+    "message": "Enter the IdP role attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.inputIdPValue": {
+    "message": "Please enter the IdP attribute",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.delSSOSuccess": {
+    "message": "The SSO deletion is successful",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.activeSsoSuccess": {
+    "message": "SSO login is enabled",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.disableSsoSuccess": {
+    "message": "SSO login is closed",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.activeSSOTitle": {
+    "message": "Enable SSO",
+    "description": "新版管理后台 zh.json"
+  },
+  "auth.activeSSODesc": {
+    "message": "Enabling this setting allows users to log in using SSO connections, including SP-initiated and IDP-initiat logins. Click the Confirm button to continue",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.cloudStorage": {
+    "message": "Cloud storage",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.detail": {
+    "message": "Details ",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.action": {
+    "message": "Amal",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.yes": {
+    "message": "Ha",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.no": {
+    "message": "Not",
+    "description": "新版管理后台 zh.json"
+  },
+  "users.loginUser": {
+    "message": "Act as User",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage1": {
+    "message": "Qidirish uchun nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage2": {
+    "message": "Institute",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage3": {
+    "message": "Used (GB)",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage4": {
+    "message": "Quota (GB)",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage5": {
+    "message": "Proportion",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.cloudStorage6": {
+    "message": "View institutional resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "live.cloudMeetingProvider6": {
+    "message": "Welink Workshop",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.reset": {
+    "message": "Qayta o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.plot": {
+    "message": "Site",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.instnum": {
+    "message": "Number of institutions",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.usernum": {
+    "message": "Number of users",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.effectivetime": {
+    "message": "Expired Date",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resetTip": {
+    "message": "This operation resets the SIS Sync Token, should I continue?",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resetToken": {
+    "message": "Reset the token",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.resetOK": {
+    "message": "Reset successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.forever": {
+    "message": "Valid forever",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.concurrencyNum": {
+    "message": "Concurrency",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteLanguage": {
+    "message": "Institutional language",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.defaultLanguage": {
+    "message": "Default language",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.college": {
+    "message": "college",
+    "description": "新版管理后台 zh.json"
+  },
+  "dataCenter.attendanceTotalNum": {
+    "message": "Roll Calls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.voteTotalNum": {
+    "message": "Polls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pleaseUseAdminAccount": {
+    "message": "Log in with admin account",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherLoginTrend": {
+    "message": "Teacher Login Trends",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentLoginTrend": {
+    "message": "Student Login Trends",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teacherTimes": {
+    "message": "Teacher Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.studentTimes": {
+    "message": "Students Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTotalNum": {
+    "message": "Total Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.personalHomework": {
+    "message": "Individual Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.groupHomework": {
+    "message": "Group Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTest": {
+    "message": "Quiz",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examAnalysis": {
+    "message": "Course Exam Analytics",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceTypeDistribution": {
+    "message": "Resource Type Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingDynamic": {
+    "message": "Data Snapshots",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseWorking": {
+    "message": "Course Analytics",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityAnalysis": {
+    "message": "Activity Analytics",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.todayDynamic": {
+    "message": "Today's Snapshot",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataRefreshTips": {
+    "message": "Refreshes every 5 mins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginNum": {
+    "message": "Teachers Logged in",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaLoginCount": {
+    "message": "Teacher Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginNum": {
+    "message": "Students Logged in",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuLoginCount": {
+    "message": "Student Logins",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomework": {
+    "message": "Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscuss": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishLive": {
+    "message": "Canli sessiyalar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExam": {
+    "message": "Course Exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendance": {
+    "message": "Roll Calls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVote": {
+    "message": "Polls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPick": {
+    "message": "Random Picks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswer": {
+    "message": "Compete to Answers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScore": {
+    "message": "Peer Reviews",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.twoWeeksDynamic": {
+    "message": "Past 2 Weeks' Snapshot",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityDataTips": {
+    "message": "Export reports for more detailed data",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport1": {
+    "message": "Daily Report of Past 2 Weeks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport2": {
+    "message": "Semester Weekly Report",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.exportReport3": {
+    "message": "Semester Monthly Report",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityRanking": {
+    "message": "Top Activities",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.last2weeks": {
+    "message": "Past 2 Weeks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveCourseTop": {
+    "message": "Top 5 Most Active Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveTeaTop": {
+    "message": "Top 5 Most Active Teachers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.mostActiveStuTop": {
+    "message": "Top 5 Most Active Students",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.generalStatistics": {
+    "message": "Overview",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.runCourseNum": {
+    "message": "Kurslar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.useCoursewareTotalNum": {
+    "message": "Courseware Used",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaAverageTeachCourseNum": {
+    "message": "Courses Taught per Teacher",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseNum": {
+    "message": "Courses Enrolled per Student",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuAverageChooseCourseCount": {
+    "message": "Total Enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseSizeDistribution": {
+    "message": "Course size & distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips2": {
+    "message": "Data based on courses created within selected dates, excluding courses with 10- enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips3": {
+    "message": "Courses with 1000+ Enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips4": {
+    "message": "Courses with 201-1000 Enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips5": {
+    "message": "Courses with 51-200 Enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips6": {
+    "message": "Courses with 50- Enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teachingModeAnalysis": {
+    "message": "Teaching Mode Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips7": {
+    "message": "Self-Study Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips8": {
+    "message": "Activities (other than announcements, courseware, and resources) are less than 5",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips9": {
+    "message": "Teacher-Led Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips10": {
+    "message": "Activities (assignments, discussions, live sessions, and classroom activities) are more than 20 and 80%+ of them are live sessions and classroom activities",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips11": {
+    "message": "Hybrid Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips12": {
+    "message": "Activities (at least 3 different types from assignments, discussions, live sessions, and classroom activities) are more than 20, while live sessions and classroom activities are less than 50%",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips13": {
+    "message": "Other Types of Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips14": {
+    "message": "Courses not included in the first three categories",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseEvaluationAnalysis": {
+    "message": "Course Grading Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips15": {
+    "message": "Data based on courses created within selected dates, excluding courses with 10- enrollments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips16": {
+    "message": "% of courses with exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips17": {
+    "message": "% of courses with grading rules",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips18": {
+    "message": "Among Them",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips19": {
+    "message": "counts courseware learning only",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips20": {
+    "message": "includes roll calls and participation (Random Pick and Compete to Answer)",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips21": {
+    "message": "includes exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityTotalNum": {
+    "message": "Total activities",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips22": {
+    "message": "Counts activities published within selected dates only",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.courseActivityAnalysis": {
+    "message": "Classroom Activity Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.pickTotalNum": {
+    "message": "Number of Random Picks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.responderTotalNum": {
+    "message": "Number of Compete to Answers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.scoreTotalNum": {
+    "message": "Number of Peer Reviews",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAttendanceTeaNum": {
+    "message": "Teachers Who Launched Roll Call",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishVoteTeaNum": {
+    "message": "Teachers Who Launched Poll",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishPickTeaNum": {
+    "message": "Teachers Who Launched Random Pick",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnswerTeaNum": {
+    "message": "Teachers Who Launched Compete to Answer",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishScoreTeaNum": {
+    "message": "Teachers Who Launched Peer Review",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuSignStatusDistribution": {
+    "message": "Student Attendance Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips23": {
+    "message": "Counts the roll calls with 80%+ attendance rate only",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips24": {
+    "message": "Top 5 Teachers - Most Activities Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips25": {
+    "message": "Top 5 Courses - Most Classroom Activities Launched",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceAnalysis": {
+    "message": "Resource Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips26": {
+    "message": "Resources Uploaded to Resource Library",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips27": {
+    "message": "Resources Published to Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips28": {
+    "message": "Teachers Who Published Resources",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips29": {
+    "message": "Resource Views by Students",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips30": {
+    "message": "Counts only the resources uploaded by teachers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips31": {
+    "message": "Top 5 Teachers - Most Resources Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips32": {
+    "message": "Top 5 Courses - Most Resources Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkAnalysis": {
+    "message": "Assignment Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishHomeworkTeaNum": {
+    "message": "Teachers Who Published Assignment",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuCommitHomeworkNum": {
+    "message": "Assignment Submissions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaMarkHomeworkNum": {
+    "message": "Assignments Graded by Teachers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.homeworkTypeDistribution": {
+    "message": "Assignment Type Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips33": {
+    "message": "Top 5 Teachers - Most Assignments Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips34": {
+    "message": "Top 5 Courses - Most Assignments Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionAnalysis": {
+    "message": "Discussion Analysis",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTotalNum": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishDiscussTeaNum": {
+    "message": "Teachers Who Published Discussion",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.stuReplyTotalNum": {
+    "message": "Student Replies",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.teaReplyTotalNum": {
+    "message": "Teacher Replies",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussTypeDistribution": {
+    "message": "Discussion Type Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips35": {
+    "message": "Top 5 Teachers - Most Discussions Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips36": {
+    "message": "Top 5 Courses - Most Discussions Published",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveAnalysis": {
+    "message": "Canli sessiya tahlili",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTotalNum": {
+    "message": "Canli sessiyalar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveTeaNum": {
+    "message": "Teachers Who Delivered Live Session",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleLiveViewNum": {
+    "message": "Concurrent Participants of Highest-Attended Session",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveViewNum": {
+    "message": "Total Participants of All Live Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.hour": {
+    "message": "hours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeLiveDuration": {
+    "message": "Total Length of All Live Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveDuration": {
+    "message": "Live Session Duration",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips37": {
+    "message": "Top 5 Teachers - Most Live Sessions Delivered",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips38": {
+    "message": "Top 5 Courses - Most Live Sessions Delivered",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips39": {
+    "message": "Counts course exams published within selected dates only",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTotalNum": {
+    "message": "Course Exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examBatch": {
+    "message": "Course Exam Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.singleExamPeopleNum": {
+    "message": "Examinees of Highest-Attended Session",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.cumulativeExamPeopleNum": {
+    "message": "Total Examinees of All Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishExamTeaNum": {
+    "message": "Teachers Who Published Course Exam",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.questionTotalNum": {
+    "message": "Exam Questions in Question Bank",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips40": {
+    "message": "Total number of exam questions created by teachers in Question Bank - not restricted by the dates you selected.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examPaperTotalNum": {
+    "message": "Exams Used in Course Exam",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips41": {
+    "message": "Total number of exam created by teachers in Exam Bank - not restricted by the dates you selected.",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeDistribution": {
+    "message": "Exam Type Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceDistribution": {
+    "message": "Exam Access Device Distribution",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataTips42": {
+    "message": "Top 5 Highest-Attended Exam Sessions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData0": {
+    "message": "E'lonlar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData1": {
+    "message": "Assignments",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData2": {
+    "message": "Discussions",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData3": {
+    "message": "Canli sessiyalar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData4": {
+    "message": "Imtihonlar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData5": {
+    "message": "Roll Calls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData6": {
+    "message": "Polls",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData7": {
+    "message": "Compete to Answers",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData8": {
+    "message": "Random Picks",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.activityXData9": {
+    "message": "Peer Reviews",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData0": {
+    "message": "Absent",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData1": {
+    "message": "Late",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData2": {
+    "message": "Early Leave",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData3": {
+    "message": "Excused Leave",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData4": {
+    "message": "Sick Leave",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.signAnalyzeXData5": {
+    "message": "Present",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData0": {
+    "message": "Links",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData1": {
+    "message": "Micro Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData2": {
+    "message": "Images",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData3": {
+    "message": "Rich Content",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData4": {
+    "message": "Other",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData5": {
+    "message": "Documents",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData6": {
+    "message": "Audios",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.resourceXData7": {
+    "message": "Videos",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData0": {
+    "message": "Discussion - Time Limit",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.discussionXData1": {
+    "message": "Discussion - No Time Limit",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData0": {
+    "message": "Within 1 hour",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData1": {
+    "message": "1-2 hours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.liveXData2": {
+    "message": "More than 2 hours",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData0": {
+    "message": "Pre-Defined Exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examTypeXData1": {
+    "message": "Random Exams",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.examDeviceXData1": {
+    "message": "Mobile Devices",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.schoolCreatedCourse": {
+    "message": "School Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.externalIntroduction": {
+    "message": "External Courses",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCExe": {
+    "message": "ULearning Lockdown Browser",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.PCweb": {
+    "message": "Web",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.publishAnnouncement2": {
+    "message": "E'lonlar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.noData": {
+    "message": "No data found",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.thisSemester": {
+    "message": "Current Semester",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.all": {
+    "message": "Barcha holatlar",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.course": {
+    "message": "course",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.timeBetween": {
+    "message": "to",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.allCollege": {
+    "message": "All colleges",
+    "description": "2.0 admin.js"
+  },
+  "routers.dataCenter": {
+    "message": "Data center",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate6": {
+    "message": "Customization",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.siteTemplate7": {
+    "message": "For custom web pages, please select this template",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.newsNotice": {
+    "message": "Press release",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.event": {
+    "message": "Event management",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.memberRegistration": {
+    "message": "Member Registration Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.resourceLibrary": {
+    "message": "Resource library",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.allStatus": {
+    "message": "Barcha holatlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.notStarted": {
+    "message": "Not started",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.inProgress": {
+    "message": "In progress",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.ended": {
+    "message": "Ended",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.createTitme": {
+    "message": "Created at",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.status": {
+    "message": "Holat",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.edit": {
+    "message": "Tahrirlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickDate": {
+    "message": "Select a date",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.pickTime": {
+    "message": "Select time",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.orderNumber": {
+    "message": "No.",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip1": {
+    "message": "Recommended image aspect ratio: 16:9; Formats: png, jpg, gif, jpeg, bmp; Single image size: up to 2 MB",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip2": {
+    "message": "Upload the image again after uploading it to update the image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip3": {
+    "message": "Image size cannot exceed {size}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadTip4": {
+    "message": "Please upload an image",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.urlErrorTip": {
+    "message": "Please enter the correct URL",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNotice": {
+    "message": "Press release",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.news": {
+    "message": "News",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.notice": {
+    "message": "E'lonlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publish": {
+    "message": "Publish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNews": {
+    "message": "Publish news",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsTitle": {
+    "message": "News headlines",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsContent": {
+    "message": "News content",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.uploadThumbnail": {
+    "message": "Upload a preview",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsSuccess": {
+    "message": "Publish the news successfully",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsFailure": {
+    "message": "Failed to publish news",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip1": {
+    "message": "Please enter a news title",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip2": {
+    "message": "Please enter the content of the news",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.publishNewsTip3": {
+    "message": "Please select the organization you want to receive the news from",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventManagement": {
+    "message": "Event management",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.addEvent": {
+    "message": "New Events",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.searchByEventTitle": {
+    "message": "Enter an activity title search",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventTitle": {
+    "message": "The title of the event",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventStartDateTime": {
+    "message": "Event start time",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventEndDateTime": {
+    "message": "The end time of the event",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.eventContent": {
+    "message": "Event content",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.volunteerRecruitmentLink": {
+    "message": "Volunteer recruitment link",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.searchNewsAnno": {
+    "message": "Please enter the title of the press release to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.title2": {
+    "message": "The title of the news announcement",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.newsNoticeDesc": {
+    "message": "*Announcements will be displayed in the school portal and by the college, news will only be displayed in the school portal",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.startTImenotGreaterThanEndTime": {
+    "message": "The activity start time cannot be greater than the event end time",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.secondDomain": {
+    "message": "Second-level domain names",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.zf": {
+    "message": "Compiled character",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.addProxyOrganization": {
+    "message": "Add an agency",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrg": {
+    "message": "Remove Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.deleteOrgTip": {
+    "message": "If you delete the current organization, the subordinate organization will also be deleted",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.confirmDelete": {
+    "message": "Confirm the deletion",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMinErrorTip": {
+    "message": "Must not be less than {min}",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.numMaxErrorTip": {
+    "message": "Must not be greater than {max}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRange": {
+    "message": "Can be set to {range}",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.settingRangeTip": {
+    "message": "The minimum value is the total amount of resources occupied by the current organization, and the maximum value is the remaining available resource credit",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.resourceTip1": {
+    "message": "Storage and account quotas",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "organization.resourceTip2": {
+    "message": "If a quota is set, the resources used by the current organization cannot exceed the maximum quota\nIf no quota is set, the current organization shares the quota of resources available to the upper level",
+    "description": "新版管理后台 -> 机构管理 -> 添加租户 -> 资源设置"
+  },
+  "common.nextStepBtn": {
+    "message": "Next",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1": {
+    "message": "Step 1",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step1Desc": {
+    "message": "Internationalization options",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2": {
+    "message": "Step 2",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.step2Desc": {
+    "message": "General Options",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.noticeRequireError": {
+    "message": "The title and content of the default language of the institution cannot be empty",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.pla": {
+    "message": "Enter school name to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName": {
+    "message": "School Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.schoolName_En": {
+    "message": "School Name in English",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.country": {
+    "message": "Country/Region",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_person": {
+    "message": "Contact Person",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.connect_phone": {
+    "message": "Bog'lanish telefon raqami",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.email": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "memberRegistration.register_time": {
+    "message": "Application Time",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLang": {
+    "message": "Set up multi-language for the name of the institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "websiteNameLangError": {
+    "message": "The name of the institution is a required field in the default language",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.title": {
+    "message": "Member Application Information Details",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.back": {
+    "message": "Orqaga",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionLogo": {
+    "message": "Institution LOGO",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.institutionName": {
+    "message": "Institution name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.englishInstitutionName": {
+    "message": "English Institution name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.countryRegion": {
+    "message": "Country/Region",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "Founding year",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "University address",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.legalPerson": {
+    "message": "Legal person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "University website",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "Contact person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "Phone number",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.email": {
+    "message": "E-mail",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.introduction": {
+    "message": "Brief university introduction/College introduction",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allType": {
+    "message": "Folder",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status0": {
+    "message": "Compressed",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status1": {
+    "message": "Other",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status2": {
+    "message": "HTML",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status3": {
+    "message": "Imitation resource",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.status4": {
+    "message": "Link",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col1": {
+    "message": "Resource name",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col2": {
+    "message": "Creator",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col3": {
+    "message": "Type",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col4": {
+    "message": "Size",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.col5": {
+    "message": "Creation time",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.filter": {
+    "message": "Enter the creator or resource name to filter search",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.analysisTitle": {
+    "message": "Resource statistics",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.num": {
+    "message": "Number of resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.peopleNum": {
+    "message": "Number of people who uploaded resources",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.viewNum": {
+    "message": "Number of resource views",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.px": {
+    "message": "Sort by:",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.placeholder1": {
+    "message": "Please select the sorting method",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rz": {
+    "message": "Operation log",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTime": {
+    "message": "Operation time",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzUser": {
+    "message": "User",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.fzPeple": {
+    "message": "Copy Person",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.nowFile": {
+    "message": "·Current Viewing File",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allTheType": {
+    "message": "All types",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.share": {
+    "message": "Share",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.upLoad": {
+    "message": "Upload",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.allUpLoadType": {
+    "message": "All upload status",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip1": {
+    "message": "Copy and share records",
+    "description": "新版管理后台 zh.json"
+  },
+  "resourceLibrary.rzTip2": {
+    "message": "Resource publishing records",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.systemSetting": {
+    "message": "System settings",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.bachPassword": {
+    "message": "Bulk change password",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outDay": {
+    "message": "Password expiration days",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip1": {
+    "message": "Set the number of days before the user is prompted to change the password",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip2": {
+    "message": "Set whether the user can skip changing the password when prompted",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip3": {
+    "message": "Default password after reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip4": {
+    "message": "Successfully changed {successNum} accounts; failed to change {failNum} accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.tip5": {
+    "message": "This operation will permanently delete this file, do you want to continue?",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.outIf": {
+    "message": "Can the password expiration be skipped",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple": {
+    "message": "Enter the number of days for password expiration",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple2": {
+    "message": "Enter the default password after reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.ple3": {
+    "message": "The password must be at least 8 characters",
+    "description": "新版管理后台 zh.json"
+  },
+  "userSetting.notice1": {
+    "message": "Successfully changed",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step13": {
+    "message": "Set the lease term",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step14": {
+    "message": "The remaining {number} are available.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepDesc2": {
+    "message": "After {user} creates it, he will send an email notification to the relevant persons, informing them of the detailed information of this {user}. The email will be sent to {user}'s administrator and system administrator. If it is necessary to send it to other relevant persons, please enter the email addresses below.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.stepSuccess2": {
+    "message": "{user} created successfully. Click the close button  to return. Click the link below to continue setting up the user - {user}.",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.mailTemp4_2": {
+    "message": "{user} Name:",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.step15": {
+    "message": "Insufficient available resources, creation failed",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.serviceSystem": {
+    "message": "Customer Service",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.courseArea": {
+    "message": "Course Domain Management",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.moreBtn": {
+    "message": "More",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveSuccess": {
+    "message": "Muvaffaqiyatli saqlandi!",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.saveFail": {
+    "message": "Failed to save!",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteSuccess": {
+    "message": "Deleted successfully!",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.deleteFail": {
+    "message": "Failed to delete!",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.noData": {
+    "message": "No data",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.tipTitle": {
+    "message": "Tips",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.download": {
+    "message": "Yuklab olish",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.uploadFile": {
+    "message": "Upload File",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule8": {
+    "message": "{type} cannot exceed {number}.",
+    "description": "新版管理后台 zh.json"
+  },
+  "saas.rule9": {
+    "message": "Enter digits only",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.title": {
+    "message": "Member Application Information Details",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.back": {
+    "message": "Orqaga",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionLogo": {
+    "message": "Institution Logo",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.institutionName": {
+    "message": "Institute Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.englishInstitutionName": {
+    "message": "English Institution Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.countryRegion": {
+    "message": "Country/Region",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.foundingYear": {
+    "message": "Founding year",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityAddress": {
+    "message": "University address",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.legalPerson": {
+    "message": "Legal person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.universityWebsite": {
+    "message": "University Website",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.contactPerson": {
+    "message": "Contact Person",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.phoneNumber": {
+    "message": "Phone Number",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.email": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "educationUniversity.detail.introduction": {
+    "message": "Brief university introduction/College introduction",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.listSerachPlaceholder": {
+    "message": "Enter the name of the course domain to search",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaTitle": {
+    "message": "Course List",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaList": {
+    "message": "Course Domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.areaOrg": {
+    "message": "Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.deleteBtn": {
+    "message": "Edit Courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.createBtn": {
+    "message": "Create Course Domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.editBtn": {
+    "message": "Edit Course Domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseAreaTitle": {
+    "message": "Course domain name",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseAreaTitlePlaceholder": {
+    "message": "Please enter the name of the course domain.",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.allCourses": {
+    "message": "All courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.selectedCourses": {
+    "message": "Courses Selected",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.courseListFilterPlaceholder": {
+    "message": "Qidirish uchun kurs nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.settingCourseArea": {
+    "message": "Course Domain",
+    "description": "新版管理后台 zh.json"
+  },
+  "courseArea.deleteCourseAreaTip": {
+    "message": "Are you sure you want to delete the course domain {coursearea}?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.tab1": {
+    "message": "User operation",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.tab2": {
+    "message": "Tools",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userName": {
+    "message": "Foydalanuvchi nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.realname": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.studentId": {
+    "message": "Student ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.phone": {
+    "message": "Phone",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.email": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.search": {
+    "message": "Qidirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.orgName": {
+    "message": "Institute Name",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.usersActions": {
+    "message": "Related operations",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetDefaultPwd": {
+    "message": "Change password (default:{defaultPwd})",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetUserPwd": {
+    "message": "Change Password (Custom Password)",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleCourse": {
+    "message": "Change courses or delete courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleOrg": {
+    "message": "Change of institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayStudentStudy": {
+    "message": "Extend the study period of students",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse": {
+    "message": "Course Assigned",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.toggleRole": {
+    "message": "Change user role",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.restartCount": {
+    "message": "Recover account",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.learningRecord": {
+    "message": "Study Record Log",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.deletePhone": {
+    "message": "Unbind mobile phone number",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetCount": {
+    "message": "Restore the account that has been deactivated",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.switchUserPage": {
+    "message": "Switch to the user interface",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changePwdTip": {
+    "message": "Are you sure you want to reset <strong>{username}s</strong> password  to <strong>{password}</strong> ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changePwdPlcaeholder": {
+    "message": "Please enter the new password",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.changeOrgPlcaeholder": {
+    "message": "Please select institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.withoutUserTip": {
+    "message": "Please first select the user that you want to edit",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetCountTip": {
+    "message": "Are you sure to restore the account of the deactivated user - <strong>{username}</strong> ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.restartCountTip": {
+    "message": "Are you sure to restore the account of the frozen user - <strong>{username}</strong> ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.deletePhoneTip": {
+    "message": "Are you sure you want to unbind the mobile phone number bound to user <strong>{username}</strong> ?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userOrgs": {
+    "message": "Organization",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleTea": {
+    "message": "Teacher",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleStu": {
+    "message": "Student",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleAdmin": {
+    "message": "Boshqaruvchi",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.roleEditor": {
+    "message": "Tahrirlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.role": {
+    "message": "Role",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseDeadline": {
+    "message": "Current maturity date",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseNewDeadline": {
+    "message": "Modify the expiration date",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseListTitle": {
+    "message": "All of <strong>{userName}'s</strong> courses",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle1": {
+    "message": "Account",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userToolsTitle2": {
+    "message": "Imtihonlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool1": {
+    "message": "Merge student accounts",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool2": {
+    "message": "Batch enrollment into the class",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool3": {
+    "message": "Offer courses to students in batches / Extend the study period",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool4": {
+    "message": "Batch password reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool5": {
+    "message": "Exam schedule monitoring (view all exams)",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool6": {
+    "message": "Tools",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userTool7": {
+    "message": "Tools",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips": {
+    "message": "Operation Instructions: Enter the \"user names\" of the two accounts A and B that need to be merged. You can separately check if the accounts exist. After confirming that the users exist, select the account to be retained. Click \"Confirm\" to execute.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentUserA": {
+    "message": "Account A",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentUserB": {
+    "message": "Account B",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.checkAccount": {
+    "message": "Verify account information",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixDerection": {
+    "message": "Which account should be merged into?",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userInfoName": {
+    "message": "Name:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userInfoUserId": {
+    "message": "User ID:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseList": {
+    "message": "Course:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userOrgLabel": {
+    "message": "Institution:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips1": {
+    "message": "Please enter account A.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips2": {
+    "message": "Please enter account B.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips3": {
+    "message": "No account information was found for this username! Please check it again.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.remixStudentTips4": {
+    "message": "Please select the objects to be merged. ",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdTitle": {
+    "message": "Batch password reset",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod": {
+    "message": "Reset password method:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod1": {
+    "message": "Reset password by institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod2": {
+    "message": "Reset student passwords according to class codes",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdMethod3": {
+    "message": "Reset student passwords based on class ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.orgSearchPlaceholder": {
+    "message": "Please enter the keyword to select the institution.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdByClass": {
+    "message": "Class Code:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiChangePwdByClassPlaceholder": {
+    "message": "Please enter the class code. Separate multiple class codes with a comma.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseId": {
+    "message": "Course ID:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.courseIdPlaceholder": {
+    "message": "Please enter class course code",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTargetLabel": {
+    "message": "Roles:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTarget1": {
+    "message": "Teacher",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdTarget2": {
+    "message": "Student",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting": {
+    "message": "New Password Setup:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting1": {
+    "message": "Reset to the same as the student ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSetting2": {
+    "message": "Set a new password",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.resetPwdSettingPlaceholder": {
+    "message": "Please enter the new password",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClass": {
+    "message": "Batch enrollment into the class",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips1": {
+    "message": "Notice:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips2": {
+    "message": "1,please select file,and then import",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips3": {
+    "message": "2,the format of file is excel,  fill the context according to style;",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips4": {
+    "message": "3.Please excel file format cell numbers set to text (format - \"Cell -\" Digital)",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassTips5": {
+    "message": "4.Please check student information in excel document carefully to avoid making faultyroad_f ",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel1": {
+    "message": "Step 1: Download the file templates",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel2": {
+    "message": "Step 2: Select the institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.multiJoinClassLabel3": {
+    "message": "Step 3: Choose to import the local modified",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel1": {
+    "message": "Course Delivery Method:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel2": {
+    "message": "Duration:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel3": {
+    "message": "Select Course:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.userCourseEditorLabel4": {
+    "message": "Operation:",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod1": {
+    "message": "Offer courses by institution",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod2": {
+    "message": "Offer classes by class group",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod3": {
+    "message": "Start the course following the learning card approach",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourseMethod4": {
+    "message": "Start the class based on the class ID",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDays": {
+    "message": "Extend for the specified number of days",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDaysPlaceholder": {
+    "message": "Iltimos, belgilangan kunlar sonini kiriting.",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDate": {
+    "message": "Muayyan sana bo'yicha uzaytirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.delayByDatePlaceholder": {
+    "message": "Iltimos, sana tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.days": {
+    "message": "Kunlar",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourse": {
+    "message": "Qidirish uchun kurs nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourseByOrgPlaceholder": {
+    "message": "Muassasa tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.searchCourseByKeywordPlaceholder": {
+    "message": "Qidirish uchun kurs nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse1": {
+    "message": "Hisobini faollashtirmagan talabalar uchun o'quv muddatini faollashtirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.openCourse2": {
+    "message": "Allaqachon ro'yxatdan o'tgan talabalar uchun o'quv muddatini uzaytirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "service.uploadFilePlaceholder": {
+    "message": "Fayl tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteResource": {
+    "message": "Faqat resursni o'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "Kurslarga nashr etilgan resursni o'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "Resurslar kutubxonasiga nusxalangan resursni o'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "Nashr etilgan va nusxalanganlarni o'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.title": {
+    "message": "Kurs tanlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.tip": {
+    "message": "Resursni qaysi kurslarga nashr etishni tanlang:",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.selectAll": {
+    "message": "Barchasini tanlash",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "Muvaffaqiyatli nashr etildi",
+    "description": "新版管理后台 zh.json"
+  },
+  "selectCourse.publishFail": {
+    "message": "Nashr etish muvaffaqiyatsiz bo'ldi",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.openRegister": {
+    "message": "Ro'yxatdan o'tishni ochish",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.allowStuRegister": {
+    "message": "Talabalar ro'yxatdan o'tishiga ruxsat berish",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.registrationInfo": {
+    "message": "Tadbir ro'yxatdan o'tish ma'lumotlari",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.complete": {
+    "message": "Kontent to'liq ekanligini tekshiring",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.male": {
+    "message": "Erkak",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.female": {
+    "message": "Qiz",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.needInput": {
+    "message": "Kirish kerak",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.allCategory": {
+    "message": "Barcha toifalar",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.category": {
+    "message": "Yangiliklar tasnifi",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.trans": {
+    "message": "Tarjima qilingandan keyin ko'rsatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveUp": {
+    "message": "Yuqoriga ko'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.moveDown": {
+    "message": "Pastga ko'chirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.categorySettings": {
+    "message": "Yangiliklar toifalarini o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.addCategory": {
+    "message": "Toifa qo'shish",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pla": {
+    "message": "Qidirish uchun nomini kiriting",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.name": {
+    "message": "Nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.gender": {
+    "message": "Jins",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.birthDate": {
+    "message": "Tug'ilgan sana",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.age": {
+    "message": "Yosh",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.phone": {
+    "message": "Bog'lanish telefon raqami",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.email": {
+    "message": "Elektron pochta",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.registerTtime": {
+    "message": "Ro'yxatdan o'tish vaqti",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.idNumber": {
+    "message": "Passport yoki ID raqami",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.education": {
+    "message": "Ta'lim manzili",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.workExp": {
+    "message": "Ish tarixi",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.projectExp": {
+    "message": "Loyiha tajribasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.proofMaterials": {
+    "message": "Dalil materiallari",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.pre-view": {
+    "message": "Ko'rib chiqish",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.download": {
+    "message": "Yuklab olish",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.detail": {
+    "message": "Tadbir ro'yxatdan o'tish tafsilotlari",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.project": {
+    "message": "Loyihalar boshqaruvchi",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.career": {
+    "message": "Kasbiy boshqaruvchi",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.push": {
+    "message": "Loyihani nashr etish",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectName": {
+    "message": "Loyiha nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newNum": {
+    "message": "Maslahat raqami ",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.courseNum": {
+    "message": "Kurslar soni",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.projectContent": {
+    "message": "Loyiha umumiy ko'rinishi",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newsManage": {
+    "message": "Yangiliklar boshqaruvi",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newPush": {
+    "message": "Yangiliklarni nashr etish",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newTitle": {
+    "message": "Yangiliklar sarlavhasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newContent": {
+    "message": "Yangiliklar mazmuni",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.beProject": {
+    "message": "Tegishli loyiha",
+    "description": "新版管理后台 zh.json"
+  },
+  "project.newType": {
+    "message": "Yangiliklar toifasi",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.name": {
+    "message": "Kasb nomi",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.exam": {
+    "message": "Sertifikat imtihoni",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.push": {
+    "message": "Kasbni nashr etish",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.setType": {
+    "message": "Tasniflarni o'rnatish",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.beType": {
+    "message": "Kurs tasnifi",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.zh": {
+    "message": "Xitoycha",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.en": {
+    "message": "Inglizcha",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.introduction": {
+    "message": "Kasb haqida",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.professionalStandard": {
+    "message": "Kasb standarti",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.certification": {
+    "message": "Kasb sertifikati",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.associatedCourses": {
+    "message": "Kurs",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.searchCourse": {
+    "message": "Kursni qidirish",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.courseCreator": {
+    "message": "Kurs yaratuvchisi",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.selectExam": {
+    "message": "Imtihonni tanlang",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.examTime": {
+    "message": "Imtihon vaqti",
+    "description": "新版管理后台 zh.json"
+  },
+  "careerManage.typeNameInput": {
+    "message": "Iltimos, tasnif nomini kiriting.",
+    "description": "新版管理后台 zh.json"
+  }
+}
