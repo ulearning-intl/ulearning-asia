@@ -3952,7 +3952,7 @@
     "description": "smart-classroom 项目"
   },
   "wxwb.msg6": {
-    "message": "使用优学院APP/微信扫码登录",
+    "message": "使用优学院APP扫码登录",
     "description": "smart-classroom 项目"
   },
   "integrating.stuAddScore": {
@@ -4389,6 +4389,114 @@
   },
   "wx.classQrGet": {
     "message": "生成课堂码",
+    "description": "smart-classroom 项目"
+  },
+  "screen.classExperimentalResources": {
+    "message": "班课实验资源",
+    "description": "smart-classroom 项目"
+  },
+  "screen.myExperimentalResources": {
+    "message": "我的实验资源",
+    "description": "smart-classroom 项目"
+  },
+  "screen.experimentalResourcesError": {
+    "message": "实验资源加载失败，请稍后重试",
+    "description": "smart-classroom 项目"
+  },
+  "integrating.averageScore": {
+    "message": "平均积分",
+    "description": "smart-classroom 项目"
+  },
+  "integrating.medianScore": {
+    "message": "中位积分",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.title": {
+    "message": "题组",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.question": {
+    "message": "题目",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.question1": {
+    "message": "题",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.num": {
+    "message": "{num}道",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.singleChoice": {
+    "message": "单选",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.multipleChoice": {
+    "message": "多选",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.judge": {
+    "message": "判断",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.fillBlank": {
+    "message": "填空",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.importFromBank": {
+    "message": "从题库导入",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.intelligentQuestion": {
+    "message": "智能出题",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.questionNum": {
+    "message": "题数",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.current": {
+    "message": "回答正确！",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.error": {
+    "message": "回答错误！",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.tip": {
+    "message": "还有题目未完成，确认要提交吗？",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.deleteQuestion": {
+    "message": "删除题目",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.add": {
+    "message": "添加到题组",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.unSaveTip": {
+    "message": "第{num}题未保存，请先保存题目",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.addQuestionTip": {
+    "message": "请至少添加一道题目",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.titleTip": {
+    "message": "请输入题组标题",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.batchSetting": {
+    "message": "批量设置",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.batchSetScore": {
+    "message": "批量设置分数:",
+    "description": "smart-classroom 项目"
+  },
+  "questionGroup.scoreTip": {
+    "message": "第 {num} 题分数必须大于 0",
     "description": "smart-classroom 项目"
   }
 }
