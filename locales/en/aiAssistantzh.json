@@ -404,7 +404,7 @@
     "description": "aiAssistantzh.json"
   },
   "AiWorkbench": {
-    "message": "AI Bench",
+    "message": "AI Workbench",
     "description": "aiAssistantzh.json"
   },
   "toolIdentify": {
@@ -412,7 +412,7 @@
     "description": "aiAssistantzh.json"
   },
   "videoAnalysis": {
-    "message": "Video AI Analysis",
+    "message": "Video Analysis",
     "description": "aiAssistantzh.json"
   },
   "docReading": {
@@ -424,7 +424,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentMarking": {
-    "message": "Intelligent Marking",
+    "message": "Smart Grading",
     "description": "aiAssistantzh.json"
   },
   "intelligentMarkingDesc": {
@@ -444,7 +444,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentMarkingHint": {
-    "message": "Note: Intelligent marking is only applicable to individual assignments scored by teachers and quizzes/exams containing short-answer questions. Moreover, AI marking is limited to text content and does not currently support marking attachments, pictures, and other non-text content submitted by students.",
+    "message": "Note: Smart grading is only applicable to individual assignments scored by teachers and quizzes/exams containing short-answer questions. Moreover, AI marking is limited to text content and does not currently support marking attachments, pictures, and other non-text content submitted by students.",
     "description": "aiAssistantzh.json"
   },
   "personalHomework": {
@@ -812,11 +812,11 @@
     "description": "aiAssistantzh.json"
   },
   "aiWorkbenchAdminTip": {
-    "message": "The AI ​​Bench needs to be enabled by the course admin",
+    "message": "The AI Workbench needs to be enabled by the course admin",
     "description": "aiAssistantzh.json"
   },
   "openAIWorkbench": {
-    "message": "Enable AI Bench",
+    "message": "Enable AI Workbench",
     "description": "aiAssistantzh.json"
   },
   "viewExample": {
@@ -848,15 +848,15 @@
     "description": "aiAssistantzh.json"
   },
   "aiSetDescription": {
-    "message": "Set up the AI ​​assistants, AI tools, and knowledge bases associated with the AI Bench",
+    "message": "Set up the AI ​​assistants, AI tools, and knowledge bases associated with the AI Workbench",
     "description": "aiAssistantzh.json"
   },
   "closeAiWorkbench": {
-    "message": "Close AI Bench",
+    "message": "Close AI Workbench",
     "description": "aiAssistantzh.json"
   },
   "closeAiWorkbenchConfirm": {
-    "message": "After the AI ​​Bench is closed, it can be opened again. Are you sure you want to close it?",
+    "message": "After the AI Workbench is closed, it can be opened again. Are you sure you want to close it?",
     "description": "aiAssistantzh.json"
   },
   "repository": {
@@ -1156,7 +1156,7 @@
     "description": "aiAssistantzh.json"
   },
   "videoAnalysisTitle": {
-    "message": "Video AI Analysis",
+    "message": "Video Analysis",
     "description": "aiAssistantzh.json"
   },
   "videoAnalysisDesc": {
@@ -1264,7 +1264,7 @@
     "description": "aiAssistantzh.json"
   },
   "resourceRetrieval": {
-    "message": "Resource Search",
+    "message": "Resource Retrieval",
     "description": "aiAssistantzh.json"
   },
   "pptGeneration": {
@@ -2708,7 +2708,7 @@
     "description": "aiAssistantzh.json"
   },
   "generateKnowledge": {
-    "message": "Generate Knowledge Graph",
+    "message": "Knowledge Graph Generation",
     "description": "aiAssistantzh.json"
   },
   "generating1": {
@@ -2880,7 +2880,7 @@
     "description": "aiAssistantzh.json"
   },
   "aiGraphGeneration": {
-    "message": "AI-generated map",
+    "message": "AI-generated knowledge graph",
     "description": "aiAssistantzh.json"
   },
   "knowledgeGraphGenerationDesc": {
@@ -3236,7 +3236,7 @@
     "description": "aiAssistantzh.json"
   },
   "lessonPlanGeneration": {
-    "message": "Lesson plan generation",
+    "message": "Lesson Plan Generation",
     "description": "aiAssistantzh.json"
   },
   "uploadLimit10Docs": {
@@ -3500,7 +3500,7 @@
     "description": "aiAssistantzh.json"
   },
   "intelligentQuestion": {
-    "message": "Intelligent Question Generation",
+    "message": "Question Generation",
     "description": "aiAssistantzh.json"
   },
   "intelligentQuestionDesc": {
@@ -3831,6 +3831,10 @@
     "message": "{n} charts have been selected",
     "description": "aiAssistantzh.json"
   },
+  "stuAnalysis": {
+    "message": "Learning Analysis",
+    "description": "aiAssistantzh.json"
+  },
   "accurateInsightLearningReport": {
     "message": "Accurately understand students' learning situations and intelligently generate analysis reports",
     "description": "aiAssistantzh.json"
@@ -3849,6 +3853,10 @@
   },
   "chartAddFailed": {
     "message": "Failed to add the chart",
+    "description": "aiAssistantzh.json"
+  },
+  "analysisReport": {
+    "message": "Analysis",
     "description": "aiAssistantzh.json"
   },
   "systemDefaultChart": {
@@ -3879,6 +3887,10 @@
     "message": "Please enter the query content.",
     "description": "aiAssistantzh.json"
   },
+  "everyoneIsAsking": {
+    "message": "Example:",
+    "description": "aiAssistantzh.json"
+  },
   "helloLearningAssistant": {
     "message": "Hi, I'm the Learning Situation Analysis Assistant.",
     "description": "aiAssistantzh.json"
@@ -3907,6 +3919,10 @@
     "message": "Add to the dashboard",
     "description": "aiAssistantzh.json"
   },
+  "cancelCollect": {
+    "message": "Unfavorite",
+    "description": "aiAssistantzh.json"
+  },
   "cancelCollectConfirm": {
     "message": "Once you remove a bookmark, it cannot be restored. Are you sure you want to remove this bookmark?",
     "description": "aiAssistantzh.json"
@@ -3915,8 +3931,16 @@
     "message": "The above content was generated by AI and is provided for your reference only.",
     "description": "aiAssistantzh.json"
   },
+  "editName": {
+    "message": "Edit",
+    "description": "aiAssistantzh.json"
+  },
   "generationFailedBtn": {
     "message": "Generation failed. Click {n}",
+    "description": "aiAssistantzh.json"
+  },
+  "chartGeneratingStatus": {
+    "message": "Generating",
     "description": "aiAssistantzh.json"
   },
   "regenerateChartBtn": {
@@ -3927,8 +3951,16 @@
     "message": "No charts have been added yet.",
     "description": "aiAssistantzh.json"
   },
+  "enterChartName": {
+    "message": "please input name",
+    "description": "aiAssistantzh.json"
+  },
   "chartRegeneratedSuccess": {
     "message": "The chart has been regenerated.",
+    "description": "aiAssistantzh.json"
+  },
+  "chartNameRequired": {
+    "message": "Name cannot be empty",
     "description": "aiAssistantzh.json"
   },
   "askAiIntelligentQueryHint": {
@@ -3945,6 +3977,34 @@
   },
   "generationFailedErrBtn": {
     "message": "No relevant data has been retrieved yet. Please provide the necessary data and then {n}.",
+    "description": "aiAssistantzh.json"
+  },
+  "selectLanguage": {
+    "message": "Select video language:",
+    "description": "aiAssistantzh.json"
+  },
+  "generateLessonPlan": {
+    "message": "Generate Lesson Plan",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentReview": {
+    "message": "Intelligent Review",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentDuplicateCheck": {
+    "message": "Smart Plagiarism Check",
+    "description": "aiAssistantzh.json"
+  },
+  "policyInterpretation": {
+    "message": "Policy Analysis",
+    "description": "aiAssistantzh.json"
+  },
+  "intelligentReading": {
+    "message": "Smart Reading",
+    "description": "aiAssistantzh.json"
+  },
+  "hotTopicRecommendation": {
+    "message": "Trending Recommendations",
     "description": "aiAssistantzh.json"
   }
 }

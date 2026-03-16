@@ -1672,11 +1672,11 @@
     "description": "新版管理后台 zh.json"
   },
   "exams.baseTip2": {
-    "message": "No. of cparticipants",
+    "message": "No. of exam attempts",
     "description": "新版管理后台 zh.json"
   },
   "exams.baseTip3": {
-    "message": "No. of cparticipants",
+    "message": "No. of examinees",
     "description": "新版管理后台 zh.json"
   },
   "exams.examAnalysisTitle": {
@@ -1708,7 +1708,7 @@
     "description": "新版管理后台 zh.json"
   },
   "users.userDesc1": {
-    "message": "Manage accounts and Enrollments in your organization.",
+    "message": "Manage accounts and enrollments in your organization by clicking",
     "description": "新版管理后台 zh.json"
   },
   "users.userDesc2": {
@@ -1716,7 +1716,7 @@
     "description": "新版管理后台 zh.json"
   },
   "users.userDesc3": {
-    "message": "See more information",
+    "message": "to see more information",
     "description": "新版管理后台 zh.json"
   },
   "users.accountManager": {
@@ -6163,8 +6163,44 @@
     "message": "Failed to publish",
     "description": "新版管理后台 zh.json"
   },
+  "organization.openRegister": {
+    "message": "Open Onrollment",
+    "description": "新版管理后台 zh.json"
+  },
+  "organization.allowStuRegister": {
+    "message": "Allow students to register",
+    "description": "新版管理后台 zh.json"
+  },
+  "routers.registrationInfo": {
+    "message": "Event Registration Information",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.complete": {
+    "message": "Check whether the content is complete",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.male": {
+    "message": "Man",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.female": {
+    "message": "Girl",
+    "description": "新版管理后台 zh.json"
+  },
+  "common.needInput": {
+    "message": "Need to enter",
+    "description": "新版管理后台 zh.json"
+  },
   "notice.allCategory": {
     "message": "All categories",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.category": {
+    "message": "News classification",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.trans": {
+    "message": "Display after translation",
     "description": "新版管理后台 zh.json"
   },
   "notice.moveUp": {
@@ -6173,6 +6209,10 @@
   },
   "notice.moveDown": {
     "message": "Move down",
+    "description": "新版管理后台 zh.json"
+  },
+  "notice.categorySettings": {
+    "message": "Set News Categories",
     "description": "新版管理后台 zh.json"
   },
   "notice.addCategory": {
@@ -6211,12 +6251,36 @@
     "message": "Enrolled time",
     "description": "新版管理后台 zh.json"
   },
+  "event.idNumber": {
+    "message": "Passport or ID number",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.education": {
+    "message": "Education background",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.workExp": {
+    "message": "Work history",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.projectExp": {
+    "message": "Project experience",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.proofMaterials": {
+    "message": "Evidentiary material",
+    "description": "新版管理后台 zh.json"
+  },
   "event.pre-view": {
     "message": "Preview",
     "description": "新版管理后台 zh.json"
   },
   "event.download": {
     "message": "Download",
+    "description": "新版管理后台 zh.json"
+  },
+  "event.detail": {
+    "message": "Event registration details",
     "description": "新版管理后台 zh.json"
   },
   "routers.project": {

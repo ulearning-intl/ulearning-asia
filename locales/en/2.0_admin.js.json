@@ -4679,6 +4679,18 @@
     "message": "Activation failed",
     "description": "2.0 admin.js"
   },
+  "addApp1": {
+    "message": "Consumer Key",
+    "description": "2.0 admin.js"
+  },
+  "addApp2": {
+    "message": "Shared Secret",
+    "description": "2.0 admin.js"
+  },
+  "addApp3": {
+    "message": "Configuration URL",
+    "description": "2.0 admin.js"
+  },
   "File.searchPlaceholdertea": {
     "message": "Search by Username/Employee ID/Name",
     "description": "2.0 admin.js"
@@ -4793,6 +4805,18 @@
   },
   "File.participatedInDiscussions": {
     "message": "Discussion Participation",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.confirmText": {
+    "message": "Confirm delete",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.deleteConfirmError": {
+    "message": "Input Error",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips29": {
+    "message": "After deletion, the user will be unable to log in. Please confirm the deletion by entering '{confirmText}' below",
     "description": "2.0 admin.js"
   }
 }

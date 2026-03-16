@@ -1232,7 +1232,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "videoAnalysis": {
-    "message": "Video AI Analysis",
+    "message": "Video Analysis",
     "description": "aiAssistantManagezh.json"
   },
   "documentReading": {
@@ -1500,7 +1500,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "resourceRetrieval": {
-    "message": "Resource Search",
+    "message": "Resource Retrieval",
     "description": "aiAssistantManagezh.json"
   },
   "hownet": {
@@ -1696,7 +1696,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "pptGeneration": {
-    "message": "PPT generator",
+    "message": "PPT Generation",
     "description": "aiAssistantManagezh.json"
   },
   "enterPptGenerationTotal": {
@@ -2932,7 +2932,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "roleSettingPlaceholder": {
-    "message": "Please fill in the system prompt to define the character and constrain response logic. ¶\nExample: ¶\n# Character ¶\nYou are a university lecturer teaching the Compendium of Modern and Contemporary Chinese History course. ¶\n# Task ¶\nProvide instructional support for my Compendium of Modern and Contemporary Chinese History course preparation. ¶\n# Requirements ¶\nContent unrelated to the Compendium of Modern and Contemporary Chinese History course will receive the reply: 'I do not support answering content unrelated to this course.'",
+    "message": "Please fill in the system prompt to define the character and constrain response logic. \nExample: \n# Character \nYou are a university lecturer teaching the Compendium of Modern and Contemporary Chinese History course. \n# Task \nProvide instructional support for my Compendium of Modern and Contemporary Chinese History course preparation. \n# Requirements \nContent unrelated to the Compendium of Modern and Contemporary Chinese History course will receive the reply: 'I do not support answering content unrelated to this course.'",
     "description": "aiAssistantManagezh.json"
   },
   "deleteOperationCancelled": {
@@ -3212,7 +3212,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "graphGeneration": {
-    "message": "Generate Knowledge Graph",
+    "message": "Knowledge Graph Generation",
     "description": "aiAssistantManagezh.json"
   },
   "enterGraphGenerationTotal": {
@@ -3412,7 +3412,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "logoUploadTip": {
-    "message": "建议尺寸：最小高度30px，宽度自适应（PNG透明背景），文件大小不超过150kb",
+    "message": "Recommended size: minimum height 30px, width adaptive (PNG with transparent background), file size no more than 150kb.",
     "description": "aiAssistantManagezh.json"
   },
   "uploadImageSizeLimit50KB": {
@@ -4208,7 +4208,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "myriad": {
-    "message": "ten thousand",
+    "message": "10k",
     "description": "aiAssistantManagezh.json"
   },
   "loadError": {
@@ -4364,7 +4364,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "viewAllDataInKnowledgeBase": {
-    "message": "View all the data in the current knowledge base",
+    "message": "View all the data of the current knowledge base",
     "description": "aiAssistantManagezh.json"
   },
   "manageQuestionAnswerGroupsInAccount": {
@@ -4677,6 +4677,146 @@
   },
   "copyFailedMessage": {
     "message": "Failed to duplicate!",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.knowledgeBaseStatistics": {
+    "message": "Knowledge base statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseVerifyYourAccount": {
+    "message": "Please verify the account.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectTheCategoryToThichItBelongs": {
+    "message": "Please select the category to which it belongs.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewKnowledgeBaseStatistics": {
+    "message": "View knowledge base statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileCount": {
+    "message": "Files",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourcePublish": {
+    "message": "Resource distribution",
+    "description": "aiAssistantManagezh.json"
+  },
+  "wordCount": {
+    "message": "Word count",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseCategory": {
+    "message": "Knowledge base classification",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hundredMillion": {
+    "message": "hundred million",
+    "description": "aiAssistantManagezh.json"
+  },
+  "viewOrgKnowledgeBaseStatistics": {
+    "message": "View the statistical data of institutional knowledge base construction.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalKnowledgeBases": {
+    "message": "Total number of knowledge bases",
+    "description": "aiAssistantManagezh.json"
+  },
+  "fileType": {
+    "message": "File type",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceCategory": {
+    "message": "Resource Categories",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseContributionRanking": {
+    "message": "Knowledge base contribution ranking",
+    "description": "aiAssistantManagezh.json"
+  },
+  "teacherResourceUploadRanking": {
+    "message": "Ranking of the number of resources uploaded by teachers",
+    "description": "aiAssistantManagezh.json"
+  },
+  "knowledgeBaseResourceRanking": {
+    "message": "Ranking of the number of resources in the knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allVisitors": {
+    "message": "All visitors",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportList": {
+    "message": "Export list",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportDetails": {
+    "message": "Export Details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportMethod": {
+    "message": "Export Format",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportAllSessionsInOneExcel": {
+    "message": "All conversation details are displayed in multiple worksheets within one Excel file.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "exportEachSessionInSeparateExcel": {
+    "message": "Export the details of each conversation as an Excel file.",
+    "description": "aiAssistantManagezh.json"
+  },
+  "startExport": {
+    "message": "Start to Export",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantDialogueList": {
+    "message": "AI assistant conversation list",
+    "description": "aiAssistantManagezh.json"
+  },
+  "aiAssistantSessionDetails": {
+    "message": "AI assistant conversation details",
+    "description": "aiAssistantManagezh.json"
+  },
+  "resourceStatistics": {
+    "message": "Resource Statistics",
+    "description": "aiAssistantManagezh.json"
+  },
+  "overviewKnowledgeBase": {
+    "message": "Overview of the knowledge base",
+    "description": "aiAssistantManagezh.json"
+  },
+  "survey": {
+    "message": "Overview",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentQuestionGeneration": {
+    "message": "Question Generation",
+    "description": "aiAssistantManagezh.json"
+  },
+  "generateLessonPlan": {
+    "message": "Generate Lesson Plan",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentReview": {
+    "message": "Intelligent Review",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentDuplicateCheck": {
+    "message": "Smart Plagiarism Check",
+    "description": "aiAssistantManagezh.json"
+  },
+  "policyInterpretation": {
+    "message": "Policy Analysis",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentReading": {
+    "message": "Smart Reading",
+    "description": "aiAssistantManagezh.json"
+  },
+  "hotspotRecommendation": {
+    "message": "Trending Recommendations",
     "description": "aiAssistantManagezh.json"
   }
 }
