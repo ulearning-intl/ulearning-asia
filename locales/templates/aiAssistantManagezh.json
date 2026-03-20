@@ -4818,5 +4818,117 @@
   "hotspotRecommendation": {
     "message": "热点推荐",
     "description": "aiAssistantManagezh.json"
+  },
+  "route.AgentManagement": {
+    "message": "智能体管理",
+    "description": "aiAssistantManagezh.json"
+  },
+  "route.coCreationWorkshop": {
+    "message": "共创工坊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coCreationWorkshop": {
+    "message": "共创工坊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coCreationWorkshopIntro": {
+    "message": "发掘和推荐优秀智能体案例，共创AI赋能教育教学的最佳实践",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coCreationSource": {
+    "message": "来源：{creatorName} @ {orgName}",
+    "description": "aiAssistantManagezh.json"
+  },
+  "coCreationSelectedCount": {
+    "message": "已选：{num}/100",
+    "description": "aiAssistantManagezh.json"
+  },
+  "createOrg": {
+    "message": "创建机构",
+    "description": "aiAssistantManagezh.json"
+  },
+  "putOnCoCreationWorkshop": {
+    "message": "上架共创工坊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "putOnCoCreationWorkshopDone": {
+    "message": "已上架共创工坊",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgColon": {
+    "message": "机构：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "putOnStatus": {
+    "message": "上架状态",
+    "description": "aiAssistantManagezh.json"
+  },
+  "putOn": {
+    "message": "已上架",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notPutOn": {
+    "message": "未上架",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usagePermission": {
+    "message": "使用权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectUsagePermission": {
+    "message": "请选择使用权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "orgAdminOnly": {
+    "message": "(仅机构管理员可用)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "maxSelectThree": {
+    "message": "(最多选择3个)",
+    "description": "aiAssistantManagezh.json"
+  },
+  "publish": {
+    "message": "发布",
+    "description": "aiAssistantManagezh.json"
+  },
+  "referenced": {
+    "message": "引入",
+    "description": "aiAssistantManagezh.json"
+  },
+  "agentManagementInstruction": {
+    "message": "查看和管理本机构所有智能体应用，包括AI助手、工作流、扣子智能体等。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "english": {
+    "message": "英文",
+    "description": "aiAssistantManagezh.json"
+  },
+  "cannotExceed200CharactersWithGe": {
+    "message": "不能超过200个字符",
+    "description": "aiAssistantManagezh.json"
+  },
+  "deleteCategoryNameConfirm": {
+    "message": "确定删除【{name}】分类吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "nameColon": {
+    "message": "名称：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "allPlatformAgentManagementInstruction": {
+    "message": "管理全平台的智能体应用，包括AI助手、扣子智能体、工作流。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "confirmRemoveFromOrg": {
+    "message": "确定将【{name}】从本机构移除吗？",
+    "description": "aiAssistantManagezh.json"
+  },
+  "remove": {
+    "message": "移除",
+    "description": "aiAssistantManagezh.json"
+  },
+  "pleaseSelectAccess": {
+    "message": "请选择访问权限",
+    "description": "aiAssistantManagezh.json"
   }
 }
