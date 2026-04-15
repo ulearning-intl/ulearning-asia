@@ -944,35 +944,35 @@
     "description": "考试快捷地址"
   },
   "unableToCalculateAnswer": {
-    "message": "Cannot be calculated - check your formula!",
+    "message": "Hisoblab bo'lmaydi - formulangizni tekshiring!",
     "description": "考试快捷地址"
   },
   "inputRangeTip": {
-    "message": "Please enter a valid value range",
+    "message": "Iltimos, haqiqiy qiymat oralig'ini kiriting",
     "description": "考试快捷地址"
   },
   "readText": {
-    "message": "Read-Aloud Content",
+    "message": "Ovozli o'qish mazmuni",
     "description": "考试快捷地址"
   },
   "readTextTip": {
-    "message": "English only, no more than {n} words",
+    "message": "Faqat ingliz tilida, {n} so'zdan oshmasin",
     "description": "考试快捷地址"
   },
   "wordNum": {
-    "message": "Words",
+    "message": "So'zlar",
     "description": "考试快捷地址"
   },
   "readTextTip1": {
-    "message": "Read-aloud content cannot be empty",
+    "message": "Ovozli o'qish mazmuni bo'sh bo'lishi mumkin emas",
     "description": "考试快捷地址"
   },
   "readTextTip2": {
-    "message": "Read-aloud content cannot exceed {n} words",
+    "message": "Ovozli o'qish mazmuni {n} so'zdan oshmasligi kerak",
     "description": "考试快捷地址"
   },
   "inputReferenceAnswer": {
-    "message": "Click to enter the reference answer",
+    "message": "Namuna javobni kiritish uchun bosing",
     "description": "考试快捷地址"
   },
   "formula": {
@@ -980,23 +980,23 @@
     "description": "考试快捷地址"
   },
   "remarked": {
-    "message": "Graded",
+    "message": "Baholangan",
     "description": "考试快捷地址"
   },
   "toBeGradedManually": {
-    "message": "Manual grading - pending",
+    "message": "Qo'lda baholash - kutmoqda",
     "description": "考试快捷地址"
   },
   "correctAnswerNotAnnounce": {
-    "message": "Answers not yet posted",
+    "message": "Javoblar hali e'lon qilinmadi",
     "description": "考试快捷地址"
   },
   "select": {
-    "message": "Select",
+    "message": "Tanlash",
     "description": "考试快捷地址"
   },
   "paramErrorTip": {
-    "message": "Error - incomplete page parameters!",
+    "message": "Xato - sahifa parametrlari to'liq emas!",
     "description": "考试快捷地址"
   },
   "getDataFail": {
@@ -1080,27 +1080,27 @@
     "description": "考试快捷地址"
   },
   "batchEditScore": {
-    "message": "Points per question",
+    "message": "Har bir savol uchun ball",
     "description": "考试快捷地址"
   },
   "inputScore": {
-    "message": "Enter score",
+    "message": "Ballni kiriting",
     "description": "考试快捷地址"
   },
   "batchEditTimes": {
-    "message": "Number of plays per audio",
+    "message": "Har bir audio uchun ijro soni",
     "description": "考试快捷地址"
   },
   "batchSetting": {
-    "message": "Batch Setting",
+    "message": "Guruh sozlamalari",
     "description": "考试快捷地址"
   },
   "partName": {
-    "message": "Name",
+    "message": "Nomi",
     "description": "考试快捷地址"
   },
   "desc": {
-    "message": "Description",
+    "message": "Tavsif",
     "description": "考试快捷地址"
   },
   "savePaper": {
@@ -1108,7 +1108,7 @@
     "description": "考试快捷地址"
   },
   "editName": {
-    "message": "Edit",
+    "message": "Tahrirlash",
     "description": "考试快捷地址"
   },
   "fullScore": {
@@ -1300,31 +1300,31 @@
     "description": "考试快捷地址"
   },
   "confirmPaperTip": {
-    "message": "Are you sure you want to submit?",
+    "message": "Topshirishni xohlaysizmi?",
     "description": "考试快捷地址"
   },
   "confirmPaperTip1": {
-    "message": "Question {n} is not yet answered. Do you still want to submit the exam?\n",
+    "message": "{n}-savol hali javob berilmagan. Imtihonni baribir topshirmoqchimisiz?\n",
     "description": "考试快捷地址"
   },
   "confirmPaper": {
-    "message": "Submit Exam",
+    "message": "Imtihonni topshirish",
     "description": "考试快捷地址"
   },
   "timeOverTip": {
-    "message": "The time has run out. Your exam will be submitted automatically in 3 seconds.",
+    "message": "Vaqt tugadi. Imtihoningiz 3 soniyadan keyin avtomatik ravishda topshiriladi.",
     "description": "考试快捷地址"
   },
   "nextPart": {
-    "message": "Next Section",
+    "message": "Keyingi bo'lim",
     "description": "考试快捷地址"
   },
   "isLast": {
-    "message": "The End",
+    "message": "Oxiri",
     "description": "考试快捷地址"
   },
   "examinee": {
-    "message": "Examinee",
+    "message": "Imtihon topshiruvchi",
     "description": "考试快捷地址"
   },
   "result": {
@@ -1341,6 +1341,10 @@
   },
   "totalNumberOfQuestions": {
     "message": "Questions",
+    "description": "考试快捷地址"
+  }
+}
+
     "description": "考试快捷地址"
   },
   "totalScore": {
@@ -1596,59 +1600,57 @@
     "description": "考试快捷地址"
   },
   "importLoadMsg2": {
-    "message": "If your browser blocks pop-ups, please set it to always allow pop-ups.",
+    "message": "Agar brauzeringiz pop-uplarni bloklasa, iltimos, har doim ruxsat berishga sozlang.",
     "description": "考试快捷地址"
   },
   "importLoadMsg3": {
-    "message": "Exporting…, {n}/{m} completed.",
+    "message": "Eksport qilinmoqda…, {n}/{m} tugallandi.",
     "description": "考试快捷地址"
   },
   "cancelExportRecord": {
-    "message": "Cancel Export",
+    "message": "Eksportni bekor qilish",
     "description": "考试快捷地址"
   },
   "imporBanktNone": {
-    "message": "There are no questions in this folder.",
+    "message": "Bu papkada savollar yo'q.",
     "description": "考试快捷地址"
   },
   "importBankErrorMsg": {
-    "message": "Failed to export！",
+    "message": "Eksport qilish muvaffaqiyatsiz!",
     "description": "考试快捷地址"
   },
   "allQuestionsType": {
-    "message": "All Types",
+    "message": "Barcha turlar",
     "description": "考试快捷地址"
   },
   "allQuestionsLevel": {
-    "message": "All Difficulty",
+    "message": "Barcha qiyinlik darajalari",
     "description": "考试快捷地址"
   },
   "allQuestionsTime": {
-    "message": "Newest to Oldest",
+    "message": "Yangidan eskiga",
     "description": "考试快捷地址"
   },
-  "allQuestionsTimePositive": {
-    "message": "Oldest to Newest",
     "description": "考试快捷地址"
   },
   "writeSearch": {
-    "message": "Search Question / Folder",
+    "message": "Savol / Papka qidirish",
     "description": "考试快捷地址"
   },
   "titleDetails": {
-    "message": "Question Details",
+    "message": "Savol tafsilotlari",
     "description": "考试快捷地址"
   },
   "choiceQueType": {
-    "message": "Select to Create",
+    "message": "Yaratish uchun tanlang",
     "description": "考试快捷地址"
   },
   "textImport": {
-    "message": "Import via Text",
+    "message": "Matn orqali import qilish",
     "description": "考试快捷地址"
   },
   "paperImport": {
-    "message": "Import from Exam",
+    "message": "Imtihondan import qilish",
     "description": "考试快捷地址"
   },
   "paperImportError": {
@@ -1852,35 +1854,35 @@
     "description": "考试快捷地址"
   },
   "queLocation": {
-    "message": "Position",
+    "message": "Joylashuv",
     "description": "考试快捷地址"
   },
   "founder": {
-    "message": "Creator",
+    "message": "Yaratuvchi",
     "description": "考试快捷地址"
   },
   "own": {
-    "message": "Myself",
+    "message": "O'zim",
     "description": "考试快捷地址"
   },
   "batchType1": {
-    "message": "Rename",
+    "message": "Qayta nomlash",
     "description": "考试快捷地址"
   },
   "batchType2": {
-    "message": "Move",
+    "message": "Ko'chirish",
     "description": "考试快捷地址"
   },
   "batchType3": {
-    "message": "Share",
+    "message": "Ulashish",
     "description": "考试快捷地址"
   },
   "batchType5": {
-    "message": "Edit",
+    "message": "Tahrirlash",
     "description": "考试快捷地址"
   },
   "batchType6": {
-    "message": "Duplicate",
+    "message": "Dublikat qilish",
     "description": "考试快捷地址"
   },
   "copySuccess": {
@@ -1908,35 +1910,35 @@
     "description": "考试快捷地址"
   },
   "rootDirectory": {
-    "message": "Root Directory",
+    "message": "Asosiy katalog",
     "description": "考试快捷地址"
   },
   "targetFolder": {
-    "message": "Please select a folder.",
+    "message": "Iltimos, papkani tanlang.",
     "description": "考试快捷地址"
   },
   "sharePeople": {
-    "message": "Share to: ",
+    "message": "Ulashing: ",
     "description": "考试快捷地址"
   },
   "justOwn": {
-    "message": "Private",
+    "message": "Shaxsiy",
     "description": "考试快捷地址"
   },
   "choiceschoolTeacher": {
-    "message": "Selected teachers",
+    "message": "Tanlangan o'qituvchilar",
     "description": "考试快捷地址"
   },
   "choiceschoolAllTeacher": {
-    "message": "All school teachers",
+    "message": "Maktabdagi barcha o'qituvchilar",
     "description": "考试快捷地址"
   },
   "choicesallTeacher": {
-    "message": "All teachers",
+    "message": "Barcha o'qituvchilar",
     "description": "考试快捷地址"
   },
   "choiceTeacher": {
-    "message": "Select",
+    "message": "Tanlash",
     "description": "考试快捷地址"
   },
   "searchTeacher": {
@@ -2420,15 +2422,15 @@
     "description": "考试快捷地址"
   },
   "student": {
-    "message": "Students",
+    "message": "Talabalar",
     "description": "考试快捷地址"
   },
   "signInCode": {
-    "message": "Sign-in Code",
+    "message": "Kirish kodi",
     "description": "考试快捷地址"
   },
   "verificationCode": {
-    "message": "Spare verification code",
+    "message": "Zaxira tasdiqlash kodi",
     "description": "考试快捷地址"
   },
   "notEnter": {
@@ -2436,15 +2438,15 @@
     "description": "考试快捷地址"
   },
   "signedIn": {
-    "message": "Signed in",
+    "message": "Kirgan",
     "description": "考试快捷地址"
   },
   "haveEntered": {
-    "message": "Entered",
+    "message": "Kirgan",
     "description": "考试快捷地址"
   },
   "leave": {
-    "message": "Leaving",
+    "message": "Chiqib ketish",
     "description": "考试快捷地址"
   },
   "answering": {
@@ -2452,15 +2454,15 @@
     "description": "考试快捷地址"
   },
   "handInExam": {
-    "message": "Submitted",
+    "message": "Topshirilgan",
     "description": "考试快捷地址"
   },
   "answerTimes1": {
-    "message": "Attempt {n}  ",
+    "message": "{n}-urinish",
     "description": "考试快捷地址"
   },
   "copyLink": {
-    "message": "Copy Link",
+    "message": "Havoladan nusxa olish",
     "description": "考试快捷地址"
   },
   "wx": {
@@ -2468,43 +2470,43 @@
     "description": "考试快捷地址"
   },
   "shareTo": {
-    "message": "Share to",
+    "message": "Ulashish",
     "description": "考试快捷地址"
   },
   "behaviorRecord": {
-    "message": "Monitoring Records",
+    "message": "Kuzatuv yozuvlari",
     "description": "考试快捷地址"
   },
   "exe1": {
-    "message": "Lockdown Browser",
+    "message": "Qulflangan brauzer",
     "description": "考试快捷地址"
   },
   "notSignIn": {
-    "message": "Unsigned",
+    "message": "Imzolanmagan",
     "description": "考试快捷地址"
   },
   "intoPage": {
-    "message": "Enter page",
+    "message": "Sahifaga kirish",
     "description": "考试快捷地址"
   },
   "leavePage": {
-    "message": "Leaving page",
+    "message": "Sahifadan chiqish",
     "description": "考试快捷地址"
   },
   "leavePageTimeTip": {
-    "message": "Leave time > 5 seconds",
+    "message": "Chiqish vaqti > 5 soniya",
     "description": "考试快捷地址"
   },
   "replaceDevice": {
-    "message": "Switch Device",
+    "message": "Qurilmani almashtirish",
     "description": "考试快捷地址"
   },
   "replaceIp": {
-    "message": "Switch IP",
+    "message": "IP manzilini almashtirish",
     "description": "考试快捷地址"
   },
   "commitExam": {
-    "message": "Submit exam",
+    "message": "Imtihonni topshirish",
     "description": "考试快捷地址"
   },
   "commitExamTip1": {
@@ -2567,40 +2569,40 @@
     "message": "No data found.",
     "description": "考试快捷地址"
   },
-  "pulling": {
-    "message": "Pull down to refresh...",
+  "pullRefresh": {
+    "message": "Yangilash uchun torting...",
     "description": "考试快捷地址"
   },
-  "loosing": {
-    "message": "Release to refresh...",
+  "releaseRefresh": {
+    "message": "Yangilash uchun qo'yib yuboring...",
     "description": "考试快捷地址"
   },
   "loading": {
-    "message": "Loading...",
+    "message": "Yuklanmoqda...",
     "description": "考试快捷地址"
   },
   "enterTip": {
-    "message": "Enter student ID or name",
+    "message": "Talaba ID raqami yoki ismini kiriting",
     "description": "考试快捷地址"
   },
   "noData": {
-    "message": "No data found",
+    "message": "Ma'lumot topilmadi",
     "description": "考试快捷地址"
   },
   "copySuccess1": {
-    "message": "Copied",
+    "message": "Nusxa olindi",
     "description": "考试快捷地址"
   },
   "shareTip": {
-    "message": "Please install the WeChat app first.",
+    "message": "Iltimos, avval WeChat ilovasini o'rnating.",
     "description": "考试快捷地址"
   },
   "tokenTip": {
-    "message": "You are already logged in at another terminal.",
+    "message": "Siz boshqa qurilmada allaqachon tizimga kirgansiz.",
     "description": "考试快捷地址"
   },
   "scanTip": {
-    "message": "Please scan the correct QR code.",
+    "message": "Iltimos, to'g'ri QR kodni skanerlang.",
     "description": "考试快捷地址"
   },
   "forceSubmit": {
@@ -2932,31 +2934,31 @@
     "description": "考试快捷地址"
   },
   "completeRemarkTip1": {
-    "message": "Congratulations, all students in your class have been graded!",
+    "message": "Tabriklaymiz, sinfdagi barcha talabalar baholandi!",
     "description": "考试快捷地址"
   },
   "remarkBackTip": {
-    "message": "The grading is not completed. Are you sure to leave?",
+    "message": "Baholash tugallanmadi. Chiqishni xohlaysizmi?",
     "description": "考试快捷地址"
   },
   "remarkBackBtn1": {
-    "message": "Don't leave yet",
+    "message": "Hali chiqmaslik",
     "description": "考试快捷地址"
   },
   "remarkBackBtn2": {
-    "message": "Confirm to leave",
+    "message": "Chiqishni tasdiqlash",
     "description": "考试快捷地址"
   },
   "allowedTimes1": {
-    "message": "Attempts allowed",
+    "message": "Ruxsat etilgan urinishlar",
     "description": "考试快捷地址"
   },
   "scoreTips1": {
-    "message": "Enter score here",
+    "message": "Ballni shu yerga kiriting",
     "description": "考试快捷地址"
   },
   "openLockScreen": {
-    "message": "Launch Lockdown Browser",
+    "message": "Qulflangan brauzerni ishga tushirish",
     "description": "考试快捷地址"
   },
   "openLockScreenMsg": {
@@ -3116,7 +3118,7 @@
     "description": "考试快捷地址"
   },
   "link": {
-    "message": "Entrance to the old version",
+    "message": "Eski versiyaga kirish",
     "description": "考试快捷地址"
   },
   "beta": {
@@ -3124,23 +3126,21 @@
     "description": "考试快捷地址"
   },
   "openApp": {
-    "message": "Take Exam via ULearning App",
+    "message": "ULearning ilovasi orqali imtihon topshirish",
     "description": "考试快捷地址"
   },
   "allowedTimes": {
-    "message": "Attempts Allowed",
+    "message": "Ruxsat etilgan urinishlar",
     "description": "考试快捷地址"
   },
   "usedTimes": {
-    "message": "Attempts Used",
+    "message": "Foydalanilgan urinishlar",
     "description": "考试快捷地址"
   },
   "joinTypes": {
-    "message": "Web/ULearning app/ULearning lockdown browser",
+    "message": "Veb/ULearning ilovasi/ULearning qulflangan brauzeri",
     "description": "考试快捷地址"
   },
-  "ltiTip2": {
-    "message": "If you need to take the exam via ULearning APP or ULearning Lockdown Browser, you can log in with your U-Test account. Your username is: {loginName}, and the initial password is the same as the username. You can modify your password after loggin in.",
     "description": "考试快捷地址"
   },
   "examUploadTip": {
@@ -3424,15 +3424,15 @@
     "description": "考试快捷地址"
   },
   "exitShareTip1": {
-    "message": "Are you sure you want to exit?",
+    "message": "Chiqishni xohlaysizmi?",
     "description": "考试快捷地址"
   },
   "inputPw": {
-    "message": "Enter your password",
+    "message": "Parolingizni kiriting",
     "description": "考试快捷地址"
   },
   "inputCheckPw": {
-    "message": "Please enter the password",
+    "message": "Iltimos, parolni kiriting",
     "description": "考试快捷地址"
   },
   "forgetPw": {
@@ -3440,7 +3440,7 @@
     "description": "考试快捷地址"
   },
   "authenticationMethods": {
-    "message": "Verification Method",
+    "message": "Tasdiqlash usuli",
     "description": "考试快捷地址"
   },
   "mobileSMS": {
@@ -3448,7 +3448,7 @@
     "description": "考试快捷地址"
   },
   "emailCaptcha": {
-    "message": "Email Verification Code",
+    "message": "Email tasdiqlash kodi",
     "description": "考试快捷地址"
   },
   "SMSCaptcha": {
@@ -3548,63 +3548,63 @@
     "description": "考试快捷地址"
   },
   "insertPaperTip": {
-    "message": "Please select exam",
+    "message": "Iltimos, imtihonni tanlang",
     "description": "考试快捷地址"
   },
   "insertPaperTip1": {
-    "message": "Select up to {n} exams at a time",
+    "message": "Bir vaqtning o'zida {n} tagacha imtihonni tanlang",
     "description": "考试快捷地址"
   },
   "insertSuccess": {
-    "message": "Imported successfully!",
+    "message": "Muvaffaqiyatli import qilindi!",
     "description": "考试快捷地址"
   },
   "insertFail": {
-    "message": "Failed to import!",
+    "message": "Import qilish muvaffaqiyatsiz!",
     "description": "考试快捷地址"
   },
   "allPaper": {
-    "message": "All Exams",
+    "message": "Barcha imtihonlar",
     "description": "考试快捷地址"
   },
   "bankSortTypes[0]": {
-    "message": "Sort by default",
+    "message": "Standart saralash",
     "description": "考试快捷地址"
   },
   "bankSortTypes[1]": {
-    "message": "Most favorites",
+    "message": "Eng ko'p sevimlilar",
     "description": "考试快捷地址"
   },
   "bankSortTypes[2]": {
-    "message": "Largest amount",
+    "message": "Eng katta miqdor",
     "description": "考试快捷地址"
   },
   "bankSortTypes[3]": {
-    "message": "Last update",
+    "message": "Oxirgi yangilanish",
     "description": "考试快捷地址"
   },
   "searchBank": {
-    "message": "Search the question bank",
+    "message": "Savol bankini qidirish",
     "description": "考试快捷地址"
   },
   "questionNums": {
-    "message": "Number of questions",
+    "message": "Savollar soni",
     "description": "考试快捷地址"
   },
   "updateTime": {
-    "message": "Last updated",
+    "message": "Oxirgi yangilangan",
     "description": "考试快捷地址"
   },
   "timeOver": {
-    "message": "Expired",
+    "message": "Muddati tugagan",
     "description": "考试快捷地址"
   },
   "deadLine": {
-    "message": "Valid until",
+    "message": "Amal qilish muddati",
     "description": "考试快捷地址"
   },
   "collect": {
-    "message": "Favorite",
+    "message": "Sevimlilar",
     "description": "考试快捷地址"
   },
   "cancelCollect": {
