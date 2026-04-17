@@ -1,4 +1,4 @@
-﻿{
+{
   "confirm": {
     "message": "Tasdiqlash",
     "description": "lvc zh.json"
@@ -492,7 +492,7 @@
     "description": "lvc zh.json"
   },
   "deleteRecordingFileTip": {
-    "message": "Yozib olish faylini o'chirgandan so'ng, foydalanuvchi faylning o'ynatishini ko'ra olmaydi, va bu amalni tiklab bo'lmaydi. O'chirmoqchimisiz?",
+    "message": "Yozib olish faylini o'chirgandan so'ng, foydalanchi faylning o'ynatishini ko'ra olmaydi, va bu amalni tiklab bo'lmaydi. O'chirmoqchimisiz?",
     "description": "lvc zh.json"
   },
   "previewFile": {
@@ -600,55 +600,55 @@
     "description": "lvc zh.json"
   },
   "selectUser": {
-    "message": "Please select a user",
+    "message": "Foydalanuvchini tanlang",
     "description": "lvc zh.json"
   },
   "selectUser2": {
-    "message": "Select the user",
+    "message": "Foydalanuvchini tanlash",
     "description": "lvc zh.json"
   },
   "selectRoom": {
-    "message": "Please select a meeting room",
+    "message": "Uchrashuv xonasini tanlang",
     "description": "lvc zh.json"
   },
   "selectRoom2": {
-    "message": "Select the meeting room",
+    "message": "Uchrashuv xonasini tanlash",
     "description": "lvc zh.json"
   },
   "inputUserName": {
-    "message": "Click to enter the username",
+    "message": "Foydalanuvchi nomini kiriting",
     "description": "lvc zh.json"
   },
   "inputPassword": {
-    "message": "Please enter the password",
+    "message": "Parolni kiriting",
     "description": "lvc zh.json"
   },
   "loginSuccess": {
-    "message": "Login successful",
+    "message": "Tizimga muvaffaqiyatli kirdingiz",
     "description": "lvc zh.json"
   },
   "selectRangeSize": {
-    "message": "Select a size",
+    "message": "O'lchamni tanlang",
     "description": "lvc zh.json"
   },
   "greaterThan": {
-    "message": "Greater than",
+    "message": "Dan katta",
     "description": "lvc zh.json"
   },
   "lessThan": {
-    "message": "Less than",
+    "message": "Dan kichik",
     "description": "lvc zh.json"
   },
   "clear": {
-    "message": "Clear",
+    "message": "Tozalash",
     "description": "lvc zh.json"
   },
   "uploadFIle2": {
-    "message": "Upload the file",
+    "message": "Faylni yuklash",
     "description": "lvc zh.json"
   },
   "inputFIleName": {
-    "message": "Click to enter the file name",
+    "message": "Fayl nomini kiriting",
     "description": "lvc zh.json"
   },
   "batchDeleteFile": {
@@ -656,7 +656,7 @@
     "description": "lvc zh.json"
   },
   "batchDeleteFIleTip": {
-    "message": "You'll delete {0} files, and once they're deleted, users won't be able to view and download them. This operation cannot be restored, are you sure you want to delete it?",
+    "message": "Siz {0} ta faylni o'chirasiz, o'chirilgandan so'ng foydalanuvchilar ularni ko'ra va yuklab ola olmaydi. Bu amalni tiklab bo'lmaydi, o'chirmoqchimisiz?",
     "description": "lvc zh.json"
   },
   "batchDeleteFIleTip2": {
@@ -668,83 +668,83 @@
     "description": "lvc zh.json"
   },
   "deleteFileTip": {
-    "message": "Once a file is deleted, users will not be able to view this file playback. This operation cannot be restored, are you sure you want to delete it?",
+    "message": "Fayl o'chirilgandan so'ng, foydalanuvchilar ushbu faylni ko'ra olmaydi. Bu amalni tiklab bo'lmaydi, o'chirmoqchimisiz?",
     "description": "lvc zh.json"
   },
   "uploadFIleTip": {
-    "message": "The upload file size must not exceed 1000 MB",
+    "message": "Yuklanadigan fayl hajmi 1000 MB dan oshmasligi kerak",
     "description": "lvc zh.json"
   },
   "uploadFileFailure": {
-    "message": "Upload failed!",
+    "message": "Yuklash muvaffaqiyatsiz bo'ldi!",
     "description": "lvc zh.json"
   },
   "roomFeature": {
-    "message": "Room features",
+    "message": "Xona imkoniyatlari",
     "description": "lvc zh.json"
   },
   "limitWhiteBoard": {
-    "message": "Turn on the whiteboard",
+    "message": "Oq taxtani yoqish",
     "description": "lvc zh.json"
   },
   "limitWhiteBoardTips": {
-    "message": "When turned on, the whiteboard tool is available in the room. Once closed, the whiteboard tool cannot be used in the room",
+    "message": "Yoqilganda, xonada oq taxta vositasi mavjud bo'ladi. O'chirilganda, oq taxta vositasidan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "limitRollcall": {
-    "message": "Turn on roll call",
+    "message": "Davomatni yoqish",
     "description": "lvc zh.json"
   },
   "limitRollcallTips": {
-    "message": "When turned on, the roll call tool is available in the room. Once closed, the roll call tool cannot be used in the room",
+    "message": "Yoqilganda, xonada davomat vositasi mavjud bo'ladi. O'chirilganda, davomat vositasidan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "limitVote": {
-    "message": "Turn on polls",
+    "message": "Ovoz berishni yoqish",
     "description": "lvc zh.json"
   },
   "limitVoteTips": {
-    "message": "When turned on, the voting tool is available in the room. Once closed, voting tools cannot be used in the room",
+    "message": "Yoqilganda, xonada ovoz berish vositasi mavjud bo'ladi. O'chirilganda, ovoz berish vositasidan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "limitPhotograph": {
-    "message": "Turn on snapshot",
+    "message": "Suratga olishni yoqish",
     "description": "lvc zh.json"
   },
   "limitPhotographTips": {
-    "message": "When turned on, snapshot can be used in the room. When closed,snapshot cannot be used in the room",
+    "message": "Yoqilganda, xonada suratga olishdan foydalanish mumkin. O'chirilganda, suratga olishdan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "limitHorn": {
-    "message": "Horn",
+    "message": "Bildirishnoma",
     "description": "lvc zh.json"
   },
   "limitHornTips": {
-    "message": "When turned on, the horn tool can be used in the room. When turned off, the horn tool cannot be used in the room",
+    "message": "Yoqilganda, xonada bildirishnoma vositasidan foydalanish mumkin. O'chirilganda, bildirishnoma vositasidan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "limitPolling": {
-    "message": "Polling",
+    "message": "So'rovnoma",
     "description": "lvc zh.json"
   },
   "limitPollingTips": {
-    "message": "When enabled, the room can be set up for polling. When turned off, the polling setting cannot be used in the room",
+    "message": "Yoqilganda, xonada so'rovnoma sozlamalarini o'rnatish mumkin. O'chirilganda, so'rovnoma sozlamalaridan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "pullAndPush": {
-    "message": "Pull and ingest stream settings",
+    "message": "Stream olish va yuborish sozlamalari",
     "description": "lvc zh.json"
   },
   "pullAndPushTips": {
-    "message": "After enabled, stream pulling and ingest settings can be performed in the room. After this is disabled, you cannot use stream pulling and ingest settings in the room",
+    "message": "Yoqilgandan so'ng, xonada stream olish va yuborish sozlamalarini amalga oshirish mumkin. O'chirilganda, xonada stream olish va yuborish sozlamalaridan foydalanib bo'lmaydi",
     "description": "lvc zh.json"
   },
   "User": {
-    "message": "Registered user",
+    "message": "Ro'yxatdan o'tgan foydalanuvchi",
     "description": "lvc zh.json"
   },
   "Guest": {
-    "message": "Visitor",
+    "message": "Mehmon",
     "description": "lvc zh.json"
   }
 }
