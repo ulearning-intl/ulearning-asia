@@ -782,5 +782,13 @@
   "m.UpError4": {
     "message": "最多上传{max}个附件",
     "description": "个人作业zh_js"
+  },
+  "m.UpAttachSizeLimitError": {
+    "message": "文件不能超过{size}",
+    "description": "个人作业zh_js"
+  },
+  "m.PCREQUEST_BROWSER": {
+    "message": "请输入作业要求。作业最多支持5000字；手机浏览器仅支持上传图片和录音，其它类型附件需要学生使用电脑网页版提交。",
+    "description": "个人作业zh_js"
   }
 }
