@@ -4836,7 +4836,7 @@
     "description": "aiAssistantManagezh.json"
   },
   "coCreationSource": {
-    "message": "来源：{creatorName} @ {orgName}",
+    "message": "来源：{creatorName} {'@'} {orgName}",
     "description": "aiAssistantManagezh.json"
   },
   "coCreationSelectedCount": {
@@ -4929,6 +4929,130 @@
   },
   "pleaseSelectAccess": {
     "message": "请选择访问权限",
+    "description": "aiAssistantManagezh.json"
+  },
+  "intelligentLessonPreparation": {
+    "message": "智能备课",
+    "description": "aiAssistantManagezh.json"
+  },
+  "speechModelTitle": {
+    "message": "语音模型",
+    "description": "aiAssistantManagezh.json"
+  },
+  "speechModelDescription": {
+    "message": "控制机构视/音频语音处理，功能：知识库中可支持自动提取视/音频文件字幕、视频分析。",
+    "description": "aiAssistantManagezh.json"
+  },
+  "speechModelUsage": {
+    "message": "模型总用量（分钟）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterSpeechModelUsage": {
+    "message": "请输入总用量（分钟）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalRemaining": {
+    "message": "总余量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "usedAmount": {
+    "message": "已使用",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelSectionTitle": {
+    "message": "模型：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "textToImageModelTitle": {
+    "message": "文生图模型：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelDailyUsageTimes": {
+    "message": "模型每日用量（次/天）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "enterTotalUsage": {
+    "message": "请输入总用量",
+    "description": "aiAssistantManagezh.json"
+  },
+  "modelTotalUsageTimes": {
+    "message": "模型总用量（次）",
+    "description": "aiAssistantManagezh.json"
+  },
+  "totalBalance": {
+    "message": "总余量：",
+    "description": "aiAssistantManagezh.json"
+  },
+  "testVoice": {
+    "message": "如果您能听到这段话，说明语音播报功能正常。如果您需要使用语音播报功能，请确保开启，并且在使用过程中遵守相关法律法规。谢谢！",
+    "description": "aiAssistantManagezh.json"
+  },
+  "audioPlayOverTimes": {
+    "message": "语音播报已达上限，如需增加语音播报，请联系管理员",
+    "description": "aiAssistantManagezh.json"
+  },
+  "autoPlayBroadcast": {
+    "message": "是否自动播报",
+    "description": "aiAssistantManagezh.json"
+  },
+  "selectVoiceTone": {
+    "message": "选择音色",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.CHERRY": {
+    "message": "阳光积极女声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.MAIA": {
+    "message": "知性温柔女声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.JENNIFER": {
+    "message": "电影质感女声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.ELIAS": {
+    "message": "严谨亲和女声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.MOON": {
+    "message": "清澈透亮男声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.KAI": {
+    "message": "清朗明快男声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.RYAN": {
+    "message": "醇厚磁性男声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.NEIL": {
+    "message": "沉稳播音男声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.STELLA": {
+    "message": "甜美女童声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "voiceNames.MOCHI": {
+    "message": "可爱男童声",
+    "description": "aiAssistantManagezh.json"
+  },
+  "learningFailed": {
+    "message": "学习失败",
+    "description": "aiAssistantManagezh.json"
+  },
+  "insufficientSubtitleQuota": {
+    "message": "！视/音频字幕提取额度不足",
+    "description": "aiAssistantManagezh.json"
+  },
+  "videoAudio": {
+    "message": "视/音频",
+    "description": "aiAssistantManagezh.json"
+  },
+  "notSupportedAddition": {
+    "message": "不支持添加",
     "description": "aiAssistantManagezh.json"
   }
 }
