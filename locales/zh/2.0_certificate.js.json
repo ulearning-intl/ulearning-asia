@@ -1,0 +1,610 @@
+{
+  "allStudentsList": {
+    "message": "全部学生名单",
+    "description": "2.0 certification.js "
+  },
+  "passStuList": {
+    "message": "合格学生名单",
+    "description": "2.0 certification.js "
+  },
+  "excellenceStuList": {
+    "message": "优秀学生名单",
+    "description": "2.0 certification.js "
+  },
+  "unqualifiedStuList": {
+    "message": "不合格学生名单",
+    "description": "2.0 certification.js "
+  },
+  "allClasses": {
+    "message": "全部班级",
+    "description": "2.0 certification.js "
+  },
+  "pass": {
+    "message": "合格",
+    "description": "2.0 certification.js "
+  },
+  "certificateConfirm": {
+    "message": "确定发放证书？",
+    "description": "2.0 certificate.js"
+  },
+  "certificateIssuedSuccess": {
+    "message": "发放证书成功",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificateFailed": {
+    "message": "发放证书失败",
+    "description": "2.0 certification.js "
+  },
+  "batchIssueCertificates": {
+    "message": "批量发放证书",
+    "description": "2.0 certification.js "
+  },
+  "batchTip": {
+    "message": "确定要给所有符合条件但还未发放证书的学生统一发放证书吗？证书一经发放不能修改和撤回，请谨慎操作。",
+    "description": "2.0 certification.js "
+  },
+  "issueCertificate": {
+    "message": "发放证书",
+    "description": "2.0 certification.js "
+  },
+  "refreshFailed": {
+    "message": "刷新失败",
+    "description": "2.0 certification.js "
+  },
+  "excellent": {
+    "message": "优秀",
+    "description": "2.0 certification.js "
+  },
+  "certificateManagement": {
+    "message": "证书管理",
+    "description": "2.0 certification.js "
+  },
+  "certificateMaTip": {
+    "message": "只有课程负责人能设置证书获得条件及发放证书",
+    "description": "2.0 certification.js "
+  },
+  "certificateSettings": {
+    "message": "证书设置",
+    "description": "2.0 certification.js "
+  },
+  "certificateTemplate": {
+    "message": "我的证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificate": {
+    "message": "新建模板",
+    "description": "2.0 certificate.js"
+  },
+  "createBgImage": {
+    "message": "背景图",
+    "description": "2.0 certificate.js"
+  },
+  "studentName": {
+    "message": "学生姓名",
+    "description": "2.0 certificate.js"
+  },
+  "certificateBody": {
+    "message": "证书正文",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNum": {
+    "message": "证书编号",
+    "description": "2.0 certificate.js"
+  },
+  "createDate": {
+    "message": "发证日期",
+    "description": "2.0 certificate.js"
+  },
+  "createSignature": {
+    "message": "电子签名",
+    "description": "2.0 certificate.js"
+  },
+  "issuingUnit": {
+    "message": "发证单位",
+    "description": "2.0 certificate.js"
+  },
+  "operating": {
+    "message": "操作说明:",
+    "description": "2.0 certificate.js"
+  },
+  "changeBg": {
+    "message": "更换",
+    "description": "2.0 certificate.js"
+  },
+  "editText": {
+    "message": "编辑",
+    "description": "2.0 certificate.js"
+  },
+  "scanCode": {
+    "message": "扫码",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip1": {
+    "message": "选择项目构成证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip2": {
+    "message": "证书模板预览",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip3": {
+    "message": "1.背景图为必选项，点击“更换”可自定义上传背景图，支持jpg/jpeg/png格式图片，不超过2M建议尺寸1754px*1240px(A4比例)。",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip4": {
+    "message": "2.【证书正文】可自定义编辑，【电子签名】可扫码签字上传，选择该项后有操作按钮哦。",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip5": {
+    "message": "3.【学生姓名】、【发证单位】取值学生用户的个人资料信息，若选择该项，系统将在证书发放时进行自动匹配，请提示学生在个人中心使用真实姓名。",
+    "description": "2.0 certificate.js"
+  },
+  "createCertificateTip6": {
+    "message": "4.【证书编号】、【发证时间】为系统自动生成，不可编辑，若选择该项，系统将在证书发放时进行自动生成。",
+    "description": "2.0 certificate.js"
+  },
+  "noFinish": {
+    "message": "您选择的电子签名未完成，请 {finishSign} 或 {cancelSelect}",
+    "description": "{finishSign} 和 {cancelSelect} 是两个按钮，完整句子为：您选择的电子签名未完成，请 完成签名 或 取消选择"
+  },
+  "finishSign": {
+    "message": "完成签名",
+    "description": "2.0 certificate.js"
+  },
+  "cancelSelect": {
+    "message": "取消选择",
+    "description": "2.0 certificate.js"
+  },
+  "cropBgImg": {
+    "message": "截取背景图",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateName": {
+    "message": "编辑模板名称",
+    "description": "2.0 certificate.js"
+  },
+  "newTemplateTip": {
+    "message": "请输入模板名称",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplateTip": {
+    "message": "注：模板名称不可重复",
+    "description": "2.0 certificate.js"
+  },
+  "outTime": {
+    "message": "扫码超时",
+    "description": "2.0 certificate.js"
+  },
+  "eligibleCertificateTem": {
+    "message": "合格证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCertificateTem": {
+    "message": "优秀证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "systemTemplate": {
+    "message": "系统模板",
+    "description": "2.0 certificate.js"
+  },
+  "selectTemplate": {
+    "message": "选择模板",
+    "description": "2.0 certificate.js"
+  },
+  "refreshGrade": {
+    "message": "刷新成绩",
+    "description": "2.0 certification.js "
+  },
+  "exportList": {
+    "message": "导出名单",
+    "description": "2.0 certification.js "
+  },
+  "certSummary": {
+    "message": "本课程学生人数共{total}人，根据证书获取条件，合格人数{qualified}人，不合格人数{unqualified}人，合格率 {rate}%",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "certSummary2": {
+    "message": "本课程学生人数共{total}人，根据证书获取条件，合格人数{qualified}人，不合格人数{unqualified}人，合格率 {rate}%，优秀率 {excellent}%",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "type": {
+    "message": "类型",
+    "description": "2.0 certification.js "
+  },
+  "certificateRequest": {
+    "message": "证书要求",
+    "description": "2.0 certification.js "
+  },
+  "selectedCertificateTem": {
+    "message": "已选择的证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "preview": {
+    "message": "预览",
+    "description": "2.0 certificate.js"
+  },
+  "passNum": {
+    "message": "合格人数",
+    "description": "2.0 certification.js "
+  },
+  "proportion": {
+    "message": "所占比例",
+    "description": "2.0 certification.js "
+  },
+  "conformityCertificate": {
+    "message": "合格证书",
+    "description": "2.0 certification.js "
+  },
+  "sample": {
+    "message": "样例",
+    "description": "2.0 certification.js "
+  },
+  "sureSelect": {
+    "message": "确认选择",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate": {
+    "message": "新建模板",
+    "description": "2.0 certificate.js"
+  },
+  "createTemplate2": {
+    "message": "新建证书模板",
+    "description": "2.0 certificate.js"
+  },
+  "editTemplate": {
+    "message": "编辑模板",
+    "description": "2.0 certificate.js"
+  },
+  "signErrorTip": {
+    "message": "请先选中电子签名",
+    "description": "2.0 certificate.js"
+  },
+  "electronicSignature": {
+    "message": "电子签名",
+    "description": "2.0 certificate.js"
+  },
+  "courseName": {
+    "message": "《课程名称》",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip1": {
+    "message": "模板名称不能为空",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip2": {
+    "message": "模板名称不能重复",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip3": {
+    "message": "模板创建成功",
+    "description": "2.0 certificate.js"
+  },
+  "templateTip4": {
+    "message": "模板修改成功",
+    "description": "2.0 certificate.js"
+  },
+  "editContent": {
+    "message": "编辑证书正文",
+    "description": "2.0 certificate.js"
+  },
+  "editContentTip1": {
+    "message": "注：书名号内的课程名称为系统自动取值，可编辑书名号中间内容，若连带书名号一起删除课程名称则该模板中无法自动取值系统数据，需自行编辑。",
+    "description": "2.0 certificate.js"
+  },
+  "scanCodeTitle": {
+    "message": "请扫描二维码签字",
+    "description": "2.0 certificate.js"
+  },
+  "signTip": {
+    "message": "请在 {time} 内完成签字，逾期未完成签字将自动关闭窗口",
+    "description": "2.0 certificate.js"
+  },
+  "defaultText": {
+    "message": "默认",
+    "description": "2.0 certificate.js"
+  },
+  "setDefault": {
+    "message": "设为默认",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefault": {
+    "message": "取消默认",
+    "description": "2.0 certificate.js"
+  },
+  "copyTemplate": {
+    "message": "复制模板",
+    "description": "2.0 certificate.js"
+  },
+  "delTemplate": {
+    "message": "删除模板",
+    "description": "2.0 certificate.js"
+  },
+  "confirmDelete": {
+    "message": "删除后不可恢复，请确认是否删除？",
+    "description": "2.0 certificate.js"
+  },
+  "deleteSuccessMsg": {
+    "message": "删除成功",
+    "description": "2.0 certificate.js"
+  },
+  "deleteFailMsg": {
+    "message": "删除失败",
+    "description": "2.0 certificate.js"
+  },
+  "defaultSucMsg": {
+    "message": "设置默认成功",
+    "description": "2.0 certificate.js"
+  },
+  "defaultFailMsg": {
+    "message": "设置默认失败",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultSuc": {
+    "message": "取消默认成功",
+    "description": "2.0 certificate.js"
+  },
+  "cancelDefaultFail": {
+    "message": "取消默认失败",
+    "description": "2.0 certificate.js"
+  },
+  "copySuccessMsg": {
+    "message": "复制成功",
+    "description": "2.0 certificate.js"
+  },
+  "copyFailMsg": {
+    "message": "复制失败",
+    "description": "2.0 certificate.js"
+  },
+  "fileTypeError": {
+    "message": "背景图片仅支持jpg/jpeg/png格式",
+    "description": "2.0 certificate.js"
+  },
+  "nameErrorTip": {
+    "message": "模板名称不能超过70个字",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip": {
+    "message": "模板内容不能超过70个字",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip2": {
+    "message": "请输入证书正文内容",
+    "description": "2.0 certificate.js"
+  },
+  "courseAssessmentScore": {
+    "message": "课程考核得分",
+    "description": "2.0 certification.js "
+  },
+  "assessRule1": {
+    "message": "课程考核得分≥{min}分，<{max}分",
+    "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
+  },
+  "assessRule2": {
+    "message": "课程考核得分≥{n}分",
+    "description": "教师账户 -> 考核 -> 证书管理 \n 学生账户 -> 考核 -> 课程证书"
+  },
+  "assessRule3": {
+    "message": "课程考核得分<{n}分",
+    "description": "教师账户 -> 考核 -> 证书管理"
+  },
+  "excellenceCertificate": {
+    "message": "优秀证书",
+    "description": "2.0 certification.js "
+  },
+  "unqualified": {
+    "message": "不合格",
+    "description": "2.0 certification.js "
+  },
+  "studentList": {
+    "message": "学生名单",
+    "description": "2.0 certification.js "
+  },
+  "lastCertificateIssued": {
+    "message": "上次发放证书时间：",
+    "description": "2.0 certification.js "
+  },
+  "username": {
+    "message": "用户名",
+    "description": "2.0 certification.js "
+  },
+  "actualName": {
+    "message": "真实姓名",
+    "description": "2.0 certification.js "
+  },
+  "explanation": {
+    "message": "说明",
+    "description": "2.0 certification.js "
+  },
+  "explanationContent": {
+    "message": "课程考核得分为您发放证书时学生的考核成绩。如果在您发放证书后学生又进行了学习导致成绩发生变化，新成绩不作为证书类型的判定依据，仍按您发放证书时的成绩判定学生的证书类型。",
+    "description": "2.0 certification.js "
+  },
+  "certificateType": {
+    "message": "证书类型",
+    "description": "2.0 certification.js "
+  },
+  "certificateIssued": {
+    "message": "已发放证书",
+    "description": "2.0 certification.js "
+  },
+  "NoResults": {
+    "message": "筛选暂无结果",
+    "description": "2.0 certification.js "
+  },
+  "noCourseAssessment": {
+    "message": "本课程还未设置考核策略无法获取证书名单，",
+    "description": "2.0 certification.js "
+  },
+  "clickToSet": {
+    "message": "点击去设置>>",
+    "description": "2.0 certification.js "
+  },
+  "noCertificate": {
+    "message": "本课程暂未设置证书获得条件",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip1": {
+    "message": "证书已发放，不支持修改证书设置",
+    "description": "2.0 certification.js "
+  },
+  "certificateTip2": {
+    "message": "注：只有课程负责人可进行证书设置。未设置成绩策略的班级，无法统计证书获得情况。",
+    "description": "2.0 certification.js "
+  },
+  "gradeRule1": {
+    "message": "课程汇总成绩≥ {input} 分，可获得合格证书",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "gradeRule2": {
+    "message": "课程汇总成绩≥ {inputLow} 分，但< {inputHigh} 分，可获得合格证书",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "gradeRule3": {
+    "message": "课程汇总成绩≥ {input} 分，可获得优秀证书",
+    "description": "教师账户 -> 考核 -> 证书管理 -> 证书设置"
+  },
+  "setPass": {
+    "message": "仅设置课程合格证书",
+    "description": "2.0 certification.js "
+  },
+  "setPassAndExcellence": {
+    "message": "设置课程合格、优秀证书",
+    "description": "2.0 certification.js "
+  },
+  "enterScore": {
+    "message": "请输入分数",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip": {
+    "message": "请输入正确的分数，仅保留一位小数",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip1": {
+    "message": "分数不能超过100",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip2": {
+    "message": "合格分数不能超过优秀分数",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip3": {
+    "message": "只有课程负责人才能设置",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip4": {
+    "message": "已有证书发放，不能修改分数线",
+    "description": "2.0 certification.js "
+  },
+  "save": {
+    "message": "保存",
+    "description": "2.0 certification.js "
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "2.0 certification.js "
+  },
+  "close": {
+    "message": "关闭",
+    "description": "2.0 certification.js "
+  },
+  "certificate": {
+    "message": "证书",
+    "description": "2.0 certification.js "
+  },
+  "enterScoreTip5": {
+    "message": "保存成功",
+    "description": "2.0 certification.js "
+  },
+  "studentID": {
+    "message": "学号",
+    "description": "2.0 certification.js "
+  },
+  "school": {
+    "message": "学校",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedCert2": {
+    "message": "恭喜你顺利完成《{coursename}》课程的学习和考核，成绩合格。",
+    "description": "2.0 certificate.js"
+  },
+  "excellentCert2": {
+    "message": "恭喜你顺利完成《{coursename}》课程的学习和考核，成绩优秀。",
+    "description": "2.0 certificate.js"
+  },
+  "certificateNo": {
+    "message": "证书编号",
+    "description": "2.0 certification.js "
+  },
+  "certificateSignature": {
+    "message": "电子签名",
+    "description": "2.0 certificate.js"
+  },
+  "CertificateIssuing": {
+    "message": "发证单位",
+    "description": "2.0 certificate.js"
+  },
+  "issueDate": {
+    "message": "发证日期",
+    "description": "2.0 certification.js "
+  },
+  "certificateReq": {
+    "message": "证书获得条件：",
+    "description": "2.0 certification.js "
+  },
+  "viewExample": {
+    "message": "查看样例",
+    "description": "2.0 certification.js "
+  },
+  "myCertificate": {
+    "message": "我的证书",
+    "description": "2.0 certification.js "
+  },
+  "qualifiedNotice": {
+    "message": "您的课程考核分数已达到了合格证书获取条件，恭喜您获得以下证书。",
+    "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
+  },
+  "excellentNotice": {
+    "message": "您的课程考核分数已达到了优秀证书获取条件，恭喜您获得以下证书。",
+    "description": "学生账户 -> 考核 -> 课程证书 (教师发放证书后，才会显示)"
+  },
+  "certificateStuTip": {
+    "message": "注：老师发放证书后又继续学习产生成绩变动的，证书不再更新。",
+    "description": "2.0 certification.js "
+  },
+  "downloadCertificate": {
+    "message": "下载证书",
+    "description": "2.0 certification.js "
+  },
+  "noCerTip": {
+    "message": "还未获得课程证书",
+    "description": "2.0 certification.js "
+  },
+  "certTip": {
+    "message": "为保证证书信息准确性，请务必{informLink}",
+    "description": "学生账户 -> 考核 -> 课程证书 (还未发放证书时，才会显示)"
+  },
+  "informLink": {
+    "message": "完善个人基本信息",
+    "description": "2.0 certificate.js"
+  },
+  "notSetCerTip": {
+    "message": "老师还没设置证书获得条件",
+    "description": "2.0 certification.js "
+  },
+  "newTemplate": {
+    "message": "请输入模板名称",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip3": {
+    "message": "模板内容不能超过100个字",
+    "description": "2.0 certificate.js"
+  },
+  "saveTemplateCheck": {
+    "message": "请至少勾选一项",
+    "description": "2.0 certificate.js"
+  },
+  "contentErrorTip4": {
+    "message": "模板内容不能超过160个字",
+    "description": "2.0 certificate.js"
+  }
+}
