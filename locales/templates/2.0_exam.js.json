@@ -9,7 +9,7 @@
   },
   "gradeSumCl": {
     "message": "客观题/主观题/总分",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "examinationAnalysis": {
     "message": "考试分析",
@@ -125,19 +125,19 @@
   },
   "namePrefix": {
     "message": "姓名：{name}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "accountPrefix": {
     "message": "帐号：{account}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "schoolPrefix": {
     "message": "学校：{org}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "certPrefix": {
     "message": "评估证号：{no}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "totalScore": {
     "message": "总分",
@@ -205,7 +205,7 @@
   },
   "betweenTime": {
     "message": "{startTime} 至 {endTime}",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> “全部场次”选择框 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 设置重考(要求当前没有批次) -> 添加批次 \n 教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 -> 添加场次"
+    "description": "2.0 exam.js"
   },
   "confirm": {
     "message": "确定",
@@ -271,6 +271,10 @@
     "message": "选择班级：",
     "description": "2.0 exam.js"
   },
+  "derivedExaminationAnalysis": {
+    "message": "导出考试分析",
+    "description": "2.0 exam.js"
+  },
   "basicInformation": {
     "message": "基本情况",
     "description": "2.0 exam.js"
@@ -285,19 +289,19 @@
   },
   "examStuNum": {
     "message": "{0}人参加考试",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "expectExamStuNum": {
     "message": "应参考人数为{0}",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "referenceRate": {
     "message": "参考率",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "referenceRate2": {
     "message": "参考率：{0}%（其中异常率：{1}%）",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "exceptionRate": {
     "message": "其中异常率",
@@ -389,11 +393,11 @@
   },
   "personnel": {
     "message": "{0}人次/{1}%",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "personnel2": {
     "message": "{count}人次",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析"
+    "description": "2.0 exam.js"
   },
   "detailedAnalysis": {
     "message": "详细分析",
@@ -653,7 +657,7 @@
   },
   "field": {
     "message": "共{count}场",
-    "description": "指有多少场考试"
+    "description": "2.0 exam.js"
   },
   "creator": {
     "message": "创建人",
@@ -673,7 +677,7 @@
   },
   "answeredTimes": {
     "message": "已答次数/允许次数",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "achievement": {
     "message": "成绩",
@@ -713,7 +717,7 @@
   },
   "startDatePrefix": {
     "message": "开始：{time}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "ended": {
     "message": "结束",
@@ -721,7 +725,7 @@
   },
   "endDatePrefix": {
     "message": "结束：{time}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "noBatch": {
     "message": "暂无批次",
@@ -729,7 +733,7 @@
   },
   "partOf": {
     "message": "{n}份",
-    "description": "教师账号 -> 考试"
+    "description": "2.0 exam.js"
   },
   "randomGroupPaper": {
     "message": "随机组卷",
@@ -777,7 +781,7 @@
   },
   "dayShowExam": {
     "message": "考试结束后{n}天显示",
-    "description": "学生账号 -> 考试"
+    "description": "2.0 exam.js"
   },
   "examTips5": {
     "message": "成绩暂不公布",
@@ -797,7 +801,7 @@
   },
   "networkErrorTips2": {
     "message": "网络错误，点击{button}重新加载",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "loadErrorTips": {
     "message": "加载出错了，点击",
@@ -1077,7 +1081,7 @@
   },
   "timesOf": {
     "message": "{n}次",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息 \n 教师账号 -> 考试 -> 考试监控 -> 列表形式 -> 异常记录"
+    "description": "2.0 exam.js"
   },
   "baseInformation": {
     "message": "基本信息",
@@ -1093,7 +1097,7 @@
   },
   "answerTimesOf": {
     "message": "答题次数：{count}",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+    "description": "2.0 exam.js"
   },
   "passScoreCl": {
     "message": "及格分数：",
@@ -1277,11 +1281,11 @@
   },
   "auditPassed": {
     "message": "审核通过",
-    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+    "description": "2.0 exam.js"
   },
   "auditPassVerb": {
     "message": "审核通过",
-    "description": "有两个审核通过文本，对应key是auditPassed的表示审核通过的状态，对应key是auditPassVerb表示执行通过审核通过的动作，常用于按钮"
+    "description": "2.0 exam.js"
   },
   "auditFailed": {
     "message": "审核未通过",
@@ -1333,11 +1337,11 @@
   },
   "studentNOCl2": {
     "message": "学号：{no}",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "classOf": {
     "message": "班级：{className}",
-    "description": "此功能已被替换，但代码还在，为了安全，所以重构了插值。"
+    "description": "2.0 exam.js"
   },
   "waitApproved": {
     "message": "等待批阅",
@@ -1485,11 +1489,11 @@
   },
   "batchNo": {
     "message": "场次{n}",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考务管理 -> 场次按排 \n 教师账号 -> 考试 -> 查看成绩 -> 考试监控 \n 教师账号 -> 考试 -> 添加考试 \n 教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "batchNoTime": {
     "message": "场次{n}: {startTime} 至 {endTime}",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+    "description": "2.0 exam.js"
   },
   "clearExamRoomPlan": {
     "message": "清除考场安排",
@@ -1525,15 +1529,15 @@
   },
   "etcOfPeople": {
     "message": "{name}等{n}人",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排"
+    "description": "2.0 exam.js"
   },
   "etcOf": {
     "message": "{name}等",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 (当学生单独参加考试，没有在班级中时，才会出现这个)"
+    "description": "2.0 exam.js"
   },
   "peopleOf": {
     "message": "[{n}人]",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "empty": {
     "message": "空",
@@ -1825,11 +1829,11 @@
   },
   "unuploadedPhotos": {
     "message": "未上传照片",
-    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+    "description": "2.0 exam.js"
   },
   "unuploadedPhotosAlt": {
     "message": "未上传照片",
-    "description": "有两个未上传照片，分别为unuploadedPhotos和unuploadedPhotosAlt，unuploadedPhotos表示未上传照片的人数，unuploadedPhotosAlt是未上传照片时的替代文本，类似于网页上当图片加载失败后，会显示替代文本"
+    "description": "2.0 exam.js"
   },
   "batchOpration": {
     "message": "批量操作",
@@ -2313,15 +2317,15 @@
   },
   "seatOf": {
     "message": "{n}座",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "examStudentOf": {
     "message": "{n}考生",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "seatsOf": {
     "message": "{n}座位",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "roomEditorTips5": {
     "message": "系统已根据班级人数和考场座位数自动生成编排结果，您可以手动调整，确认以后保存编排结果。",
@@ -2369,7 +2373,7 @@
   },
   "roomEditorTip16": {
     "message": "场次{n}座位数小于考生数",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "roomEditorTips17": {
     "message": "移动人数不能为零",
@@ -2429,7 +2433,7 @@
   },
   "afterDaysShow": {
     "message": "{n}天后显示",
-    "description": "教师账号 -> 考试 -> 添加考试"
+    "description": "2.0 exam.js"
   },
   "weekAfterShow": {
     "message": "考试结束{count}周后显示",
@@ -2587,10 +2591,6 @@
     "message": "考试名称应该在2~100个字符之间",
     "description": "2.0 exam.js"
   },
-  "pleaseSelectExamTime": {
-    "message": "考试答题时长应该大于等于0",
-    "description": "2.0 exam.js"
-  },
   "setExamTips16": {
     "message": "至少保留一个启用试卷",
     "description": "2.0 exam.js"
@@ -2677,15 +2677,15 @@
   },
   "remainSeatOf": {
     "message": "余{n}座",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场"
+    "description": "2.0 exam.js"
   },
   "remainSeatOf2": {
     "message": "{roomName}（余{n}座）",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+    "description": "2.0 exam.js"
   },
   "modifyRoomTip": {
     "message": "将{className}（学生总数：{total}人）中的{n}人移动到以下考场：",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考场按排 -> 编排考场 -> 修改考场"
+    "description": "2.0 exam.js"
   },
   "objectivesQ": {
     "message": "客观题",
@@ -2705,15 +2705,15 @@
   },
   "classRange": {
     "message": "班级范围：{className}",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+    "description": "2.0 exam.js"
   },
   "exportDate": {
     "message": "导出日期：{date}",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+    "description": "2.0 exam.js"
   },
   "conceptDesc": {
     "message": "概念说明：",
-    "description": "教师账号 -> 课程 -> 考试 -> 选择一门考试 -> 考试分析 -> 导出考试分析"
+    "description": "2.0 exam.js"
   },
   "mark": {
     "message": "标注",
@@ -2781,7 +2781,7 @@
   },
   "screenMonitorTips2": {
     "message": "开启切屏监控，离开超过{count}次后强制交卷 {tip}",
-    "description": "tip处的插值是 “（仅支持手机考试）”，因为tip需要独立的设置样式。"
+    "description": "2.0 exam.js"
   },
   "faceAuth": {
     "message": "人脸识别",
@@ -2805,7 +2805,7 @@
   },
   "minSubmitTimeTips1": {
     "message": "考试开始后{count}{minuteTip}内不允许交卷",
-    "description": "minuteTip 的插值是分钟，就是下面的minuteTip"
+    "description": "2.0 exam.js"
   },
   "minuteTip": {
     "message": "分钟",
@@ -2849,7 +2849,7 @@
   },
   "examHeadTips4": {
     "message": "考试前请{detectEnv}，确认网络、设备、浏览器等正常。",
-    "description": "detectEnv 的插值是“检测考试环境”，就是下面的 detectEnv 字段"
+    "description": "2.0 exam.js"
   },
   "detectEnv": {
     "message": "检测考试环境",
@@ -2913,7 +2913,7 @@
   },
   "afterExamFinishedTips2": {
     "message": "考试结束后{n}天显示",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "weekPublish": {
     "message": "{n} 周后公布",
@@ -2929,7 +2929,7 @@
   },
   "examDaysPublish": {
     "message": "考试结束{n}天后公布",
-    "description": "教师账号 -> 考试 -> 查看成绩 -> 考试信息"
+    "description": "2.0 exam.js"
   },
   "auditTipsClassroom": {
     "message": "开启了人脸识别验证，需要提前上传考生认证照片。照片可以由教师批量导入，也可以由学生自已上传。学生自已上传的照片，教师可以进行审核。",
@@ -2941,19 +2941,19 @@
   },
   "borwserTip": {
     "message": "现在浏览器是：{browser}，请使用Internet Explorer进行考试！",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "offlineTip": {
     "message": "请配置离线考试地址后再进行考试",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "restoreLocalRecord": {
     "message": "恢复本地答题记录",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "findExamTip": {
     "message": "如果在下方考试列表中，没有找到需要参加的考试，请检查登录的帐号是否正确，或者是否加入了正确的班级。",
-    "description": "2.0 {filename}"
+    "description": "2.0 exam.js"
   },
   "faceServiceTipsNew": {
     "message": "人脸识别和摄像监控为收费服务，您所在机构暂未开通，如需开通请联系客服",
@@ -3311,26 +3311,6 @@
     "message": "切屏监控方式，至少选择一种",
     "description": "2.0 exam.js"
   },
-  "screenMonitorTips9": {
-    "message": "开启屏幕监控",
-    "description": "2.0 exam.js"
-  },
-  "screenMonitorTips10": {
-    "message": "（仅手机端考试生效，系统将自动截图记录考生行为）",
-    "description": "2.0 exam.js"
-  },
-  "screenMonitorTips11": {
-    "message": "累计检测异常次数达到{n}次后强制收卷",
-    "description": "2.0 exam.js"
-  },
-  "screenMonitorTips12": {
-    "message": "检测到异常后学生可通过备用验证码继续考试",
-    "description": "2.0 exam.js"
-  },
-  "screenMonitorTips13": {
-    "message": "开启后，系统会自动随机抓拍考生手机屏幕，教师可在监控台实时查看考生截图记录，识别悬浮窗等作弊行为。",
-    "description": "2.0 exam.js"
-  },
   "gradeTips9": {
     "message": "中途离开达到规定次数，系统强制交卷",
     "description": "2.0 exam.js"
@@ -3361,6 +3341,10 @@
   },
   "remarkTip4": {
     "message": "评分耗时可能较长，系统将在后台处理，请稍后再查看重新评分后的成绩。",
+    "description": "2.0 exam.js"
+  },
+  "activeExam": {
+    "message": "激活考试",
     "description": "2.0 exam.js"
   },
   "windowsVersion": {
@@ -3471,14 +3455,6 @@
     "message": "使用此功能，可以将分析报告中的主要数据，导出到Excel表中。请先选择需要统计的班级范围。",
     "description": "2.0 exam.js"
   },
-  "derivedExaminationAnalysis": {
-    "message": "导出考试分析",
-    "description": "2.0 exam.js"
-  },
-  "activeExam": {
-    "message": "激活考试",
-    "description": "2.0 exam.js"
-  },
   "randomQuestion": {
     "message": "题目乱序",
     "description": "2.0 exam.js"
@@ -3489,174 +3465,6 @@
   },
   "randomItemTip": {
     "message": "包括单选题、多选题",
-    "description": "2.0 exam.js"
-  },
-  "waterMark": {
-    "message": "开启答题水印",
-    "description": "2.0 exam.js"
-  },
-  "waterMarkTip": {
-    "message": "可用于防止截屏泄题",
-    "description": "2.0 exam.js"
-  },
-  "maxTextInputTips1": {
-    "message": "最多输入{n}个字符",
-    "description": "2.0 exam.js"
-  },
-  "sequentialAnswer": {
-    "message": "禁止跳题",
-    "description": "2.0 exam.js"
-  },
-  "sequentialAnswerTip": {
-    "message": "开启后考生答题时每页只显示一题，且只能按顺序作答",
-    "description": "2.0 exam.js"
-  },
-  "remarkTip6": {
-    "message": "请选择需要重新评分的题型范围：",
-    "description": "2.0 exam.js"
-  },
-  "radio1": {
-    "message": "仅客观题",
-    "description": "2.0 exam.js"
-  },
-  "radio2": {
-    "message": "所有支持系统评分的题型(包括客观题、填空题、公式计算题、口语朗读题)",
-    "description": "2.0 exam.js"
-  },
-  "remarkTip7": {
-    "message": "注：重新评分不会影响简答题等人工评分的题目成绩。填空题等支持系统评分的题型，如果已经人工批阅过，系统重新评分会覆盖人工批阅记录，请谨慎使用。",
-    "description": "2.0 exam.js"
-  },
-  "gradingAgain": {
-    "message": "开始评分",
-    "description": "2.0 exam.js"
-  },
-  "radio1Msg": {
-    "message": "仅客观题（包括单选、多选、判断、排序、下拉选择、选词填空、完型填空）",
-    "description": "2.0 exam.js"
-  },
-  "radio2Msg": {
-    "message": "所有支持重新评分的题型（包括上述客观题型，以及填空题、口语朗读题）",
-    "description": "2.0 exam.js"
-  },
-  "ownSpieltag": {
-    "message": "只看我的班级所在场次",
-    "description": "2.0 exam.js"
-  },
-  "ownSpieltagMsg": {
-    "message": "仅考试创建人可操作",
-    "description": "2.0 exam.js"
-  },
-  "teacherexamListNone": {
-    "message": "考试无场次安排",
-    "description": "2.0 exam.js"
-  },
-  "PCExeOrAppTips": {
-    "message": "请使用优学院APP/考试客户端参加考试",
-    "description": "2.0 exam.js"
-  },
-  "gradeTips12": {
-    "message": "系统自动补交",
-    "description": "2.0 exam.js"
-  },
-  "remarkTip5": {
-    "message": "考试开始后，如果修改了试卷中的题目答案或分值，使用此功能，可以对已评分的试卷重新自动评分。",
-    "description": "2.0 exam.js"
-  },
-  "textCount": {
-    "message": "{n}字",
-    "description": "2.0 exam.js"
-  },
-  "newOpenMonitorTips": {
-    "message": "考生须全程开启摄像头并保持画面稳定，不建议手机考试使用",
-    "description": "2.0 exam.js"
-  },
-  "choiceExamTypeTips": {
-    "message": "请至少选择一种考试方式",
-    "description": "2.0 exam.js"
-  },
-  "descriptionCl1": {
-    "message": "考试支持多种参与方式，不同参与方式对设备的要求，以及防作弊等级的区别如下，请根据考试场景选择合适的参与方式。",
-    "description": "2.0 exam.js"
-  },
-  "systemRequire": {
-    "message": "系统要求",
-    "description": "2.0 exam.js"
-  },
-  "equipmentRequire": {
-    "message": "设备要求",
-    "description": "2.0 exam.js"
-  },
-  "antiCheatingLevel": {
-    "message": "防作弊等级",
-    "description": "2.0 exam.js"
-  },
-  "systemRequireDesc1": {
-    "message": "- Windows 7 及以上{br}- macOS 14 及以上",
-    "description": "2.0 exam.js"
-  },
-  "systemRequireDesc2": {
-    "message": "- 浏览器：Google Chrome / Edge / Safari",
-    "description": "2.0 exam.js"
-  },
-  "systemRequireDesc3": {
-    "message": "- iOS 9.0 及以上{br}- Android 6.0 及以上",
-    "description": "2.0 exam.js"
-  },
-  "equipmentRequireDesc": {
-    "message": "- 考试题目中如果包含音视频，需配备内置/外接耳机。{br}- 考试题目中如果包含录音题，需配备内置/外接麦克风。{br1}- 考试如果开启了人脸识别/摄像监控，需配备内置/外接摄像头。",
-    "description": "2.0 exam.js"
-  },
-  "antiCheatingLevelDesc1": {
-    "message": "相对宽松。{br}支持所有基础监控方式，但不能完全限制考生中途离开。",
-    "description": "2.0 exam.js"
-  },
-  "antiCheatingLevelDesc2": {
-    "message": "较为严格。{br}除所有基础监控方式外，APP还内置了禁止分屏、录屏等多种防作弊措施；同时对切屏的检测也更为严格。",
-    "description": "2.0 exam.js"
-  },
-  "antiCheatingLevelDesc3": {
-    "message": "最为严格。{br}考生需安装独立考试客户端，进入考试后，中途不能离开考试界面，交卷后才能退出。",
-    "description": "2.0 exam.js"
-  },
-  "PCExe2": {
-    "message": "锁屏客户端",
-    "description": "2.0 exam.js"
-  },
-  "H5": {
-    "message": "手机H5",
-    "description": "2.0 exam.js"
-  },
-  "questionLevel": {
-    "message": "题目难度：",
-    "description": "2.0 exam.js"
-  },
-  "subQuestionLevel": {
-    "message": "每道小题难度：",
-    "description": "2.0 exam.js"
-  },
-  "difficultyLevelArray1[0]": {
-    "message": "容易",
-    "description": "2.0 exam.js"
-  },
-  "difficultyLevelArray1[1]": {
-    "message": "较容易",
-    "description": "2.0 exam.js"
-  },
-  "difficultyLevelArray1[2]": {
-    "message": "一般",
-    "description": "2.0 exam.js"
-  },
-  "difficultyLevelArray1[3]": {
-    "message": "较难",
-    "description": "2.0 exam.js"
-  },
-  "difficultyLevelArray1[4]": {
-    "message": "困难",
-    "description": "2.0 exam.js"
-  },
-  "selectLevelip": {
-    "message": "难度至少选择一项",
     "description": "2.0 exam.js"
   },
   "localRecordTime1": {
@@ -3685,198 +3493,6 @@
   },
   "examTypeTips": {
     "message": "请使用{type}参加考试",
-    "description": "2.0 exam.js"
-  },
-  "examSignIn": {
-    "message": "考试签到",
-    "description": "2.0 exam.js"
-  },
-  "enableSignIn": {
-    "message": "开启考试签到码",
-    "description": "2.0 exam.js"
-  },
-  "enableSignInTip": {
-    "message": "仅适用于手机考试，开启此项，考生扫码签到后才能进入考试答题",
-    "description": "2.0 exam.js"
-  },
-  "enableSignInIntro": {
-    "message": "考试签到适用于教室集中考试场景，可用于防止场外替考。{br}开启了签到的考试，考生扫码签到后才能进入考试。{br1}考试开始前，教师可以使用手机，在优学院APP的考试监控页面查看和出示签到码。",
-    "description": "2.0 exam.js"
-  },
-  "enableSignInNote": {
-    "message": "注意：",
-    "description": "2.0 exam.js"
-  },
-  "enableSignInDesc": {
-    "message": "1. 签到开始时间，以教师出示签到码的时间为准，不受考试开始时间限制；考试场次全部结束后，不再允许签到。{br}2. 开启了签到的考试，建议在安排考试场次时，预留出现场签到所需时间，避免造成混乱。{br1}3. 考试如果有多次答题机会，仅需要签到1次。{br2}4. 考生签到后，只能使用签到的设备进入考试答题。如果遇到特殊情况需要更换设备，可以向监考教师索取验证码进入。",
-    "description": "2.0 exam.js"
-  },
-  "signInCode": {
-    "message": "考试签到码",
-    "description": "2.0 exam.js"
-  },
-  "facePhotoVerify": {
-    "message": "人脸照片审核",
-    "description": "2.0 exam.js"
-  },
-  "mobileMonitorCodeTitle": {
-    "message": "移动监控台",
-    "description": "2.0 exam.js"
-  },
-  "mobileMonitorCodeIntro": {
-    "message": "考试签到码为动态二维码，请使用【优学院】APP进入考试查看，或使用手机扫描下方二维码，进入移动监控台查看。",
-    "description": "2.0 exam.js"
-  },
-  "mobileMonitorCodeTip": {
-    "message": "提示：非课程团队的教师，如果需要参与监考，也可以使用手机浏览器扫描此二维码，进入移动监控台。使用手机浏览器进入时，需要输入备用验证码。",
-    "description": "2.0 exam.js"
-  },
-  "refresh": {
-    "message": "刷新",
-    "description": "2.0 exam.js"
-  },
-  "standbyVerificationCodeDesc": {
-    "message": "考生遇特殊情况无法进入考试时，可凭此验证码进入，包括：{br}- 开启了设备 / IP监控的考试，考生中途需要更换设备或 IP。{br1}- 开启了人脸识别的考试，考生无法通过人脸验证",
-    "description": "2.0 exam.js"
-  },
-  "standbyVerificationCodeTip": {
-    "message": "验证码{minute}内有效，失效后请刷新重新获取。",
-    "description": "2.0 exam.js"
-  },
-  "signedIn": {
-    "message": "已签到",
-    "description": "2.0 exam.js"
-  },
-  "notSignIn": {
-    "message": "未签到",
-    "description": "2.0 exam.js"
-  },
-  "answerTimes1": {
-    "message": "第{n}次答题",
-    "description": "2.0 exam.js"
-  },
-  "answerDuration1": {
-    "message": "用时：{count}",
-    "description": "2.0 exam.js"
-  },
-  "exportSignInExcel": {
-    "message": "导出签到表",
-    "description": "2.0 exam.js"
-  },
-  "exportSignInExcelDesc": {
-    "message": "使用此功能，可以导出当前所选场次和班级的签到记录。",
-    "description": "2.0 exam.js"
-  },
-  "exportInfo": {
-    "message": "导出信息：",
-    "description": "2.0 exam.js"
-  },
-  "courseClass": {
-    "message": "课程班级",
-    "description": "2.0 exam.js"
-  },
-  "college": {
-    "message": "学院",
-    "description": "2.0 exam.js"
-  },
-  "naturalClass": {
-    "message": "行政班级/自然班级",
-    "description": "2.0 exam.js"
-  },
-  "exportType": {
-    "message": "导出方式",
-    "description": "2.0 exam.js"
-  },
-  "exportType1": {
-    "message": "导出一个Excel文件，且所有班级在一个工作表中",
-    "description": "2.0 exam.js"
-  },
-  "exportType2": {
-    "message": "导出一个Excel文件，且每个班级一个工作表",
-    "description": "2.0 exam.js"
-  },
-  "exportType3": {
-    "message": "每个班级导出一个Excel文件",
-    "description": "2.0 exam.js"
-  },
-  "startExport": {
-    "message": "开始导出",
-    "description": "2.0 exam.js"
-  },
-  "forceSubmit": {
-    "message": "提前收卷",
-    "description": "2.0 exam.js"
-  },
-  "answerNums": {
-    "message": "正在答题人数：{num}",
-    "description": "2.0 exam.js"
-  },
-  "forceSubmitTip1": {
-    "message": "使用此功能，将提前结束当前场次，并对所有正在答题的学生强制收卷。收卷可能会有10秒~1分钟左右的延迟。此操作不可撤回，请谨慎使用。",
-    "description": "2.0 exam.js"
-  },
-  "forceSubmitTip3": {
-    "message": "确定提前收卷吗？",
-    "description": "2.0 exam.js"
-  },
-  "forceSubmitTip4": {
-    "message": "考生正在答题，使用此功能，将强制回收考生试卷。收卷可能会有10秒~1分钟左右的延迟。此操作不可撤回，请谨慎使用。",
-    "description": "2.0 exam.js"
-  },
-  "answerUsedTime": {
-    "message": "已用答题时长",
-    "description": "2.0 exam.js"
-  },
-  "gradeTips11": {
-    "message": "教师提前收卷",
-    "description": "2.0 exam.js"
-  },
-  "submitSuccess": {
-    "message": "请求发送成功",
-    "description": "2.0 exam.js"
-  },
-  "submitFail": {
-    "message": "提前收卷失败",
-    "description": "2.0 exam.js"
-  },
-  "student": {
-    "message": "考生：",
-    "description": "2.0 exam.js"
-  },
-  "submitStatus": {
-    "message": "收卷中",
-    "description": "2.0 exam.js"
-  },
-  "remarkSetting": {
-    "message": "评分设置",
-    "description": "2.0 exam.js"
-  },
-  "remarkSettingDesc": {
-    "message": "多选题部分正确得一半分",
-    "description": "2.0 exam.js"
-  },
-  "remarkSettingTip": {
-    "message": "错选不得分",
-    "description": "2.0 exam.js"
-  },
-  "screenshotMonitor": {
-    "message": "开启截图监控",
-    "description": "2.0 exam.js"
-  },
-  "screenshotMonitorDesc": {
-    "message": "仅适用于手机考试，检测到考生有截图行为时，第一次给予警告，第二次强制交卷",
-    "description": "2.0 exam.js"
-  },
-  "screenshotMonitorTip": {
-    "message": "受手机系统特性影响，此功能仅苹果手机有效，安卓手机已直接禁止在考试中截图",
-    "description": "2.0 exam.js"
-  },
-  "screenshot": {
-    "message": "截图",
-    "description": "2.0 exam.js"
-  },
-  "gradeTips13": {
-    "message": "违规截图，系统强制交卷",
     "description": "2.0 exam.js"
   },
   "studentExamRoom": {
@@ -3947,564 +3563,8 @@
     "message": "已提交次数/允许次数",
     "description": "2.0 exam.js"
   },
-  "studentBatch": {
-    "message": "场次: {startTime} - {endTime}",
-    "description": "2.0 exam.js"
-  },
-  "studentSeatNumber": {
-    "message": "座位数: {n}",
-    "description": "2.0 exam.js"
-  },
-  "studentExamStudentOf": {
-    "message": "考生: {n}",
-    "description": "2.0 exam.js"
-  },
-  "studentRemainSeat": {
-    "message": "余座: {n}",
-    "description": "2.0 exam.js"
-  },
-  "openSafeKeyboard": {
-    "message": "启用安全键盘",
-    "description": "2.0 exam.js"
-  },
-  "openSafeKeyboardTip": {
-    "message": "仅适用于手机，支持中英文、数字及常用标点符号输入",
-    "description": "2.0 exam.js"
-  },
-  "openSafeKeyboardTip1": {
-    "message": "安全键盘可用于防止使用手机输入法特殊功能作弊的行为，但输入体验不如手机自带键盘流畅，如果试卷中有需要输入大段文字的题目，不推荐启用。",
-    "description": "2.0 exam.js"
-  },
-  "gradeTips14": {
-    "message": "时间用尽，系统自动交卷",
-    "description": "2.0 exam.js"
-  },
-  "answerTimesOfNew": {
-    "message": "提交次数：{count}",
-    "description": "2.0 exam.js"
-  },
-  "attachmentHelpDesc": {
-    "message": "附件支持图片、文档、视频、音频等常见格式。{link}{br}每道题最多上传10个附件。{br1}电脑端上传，单个文件不超过500M;手机端上传，单个文件不超过200M。{br2}电脑端答题可以从本地选择文件或者使用手机扫码拍照上传。",
-    "description": "2.0 exam.js"
-  },
-  "attachmentHelpLink": {
-    "message": "点击查看允许上传的文件格式",
-    "description": "2.0 exam.js"
-  },
-  "deleteExam": {
-    "message": "删除考试",
-    "description": "2.0 exam.js"
-  },
-  "exportLayout": {
-    "message": "导出版式",
-    "description": "2.0 exam.js"
-  },
-  "standardType": {
-    "message": "标准版",
-    "description": "2.0 exam.js"
-  },
-  "compactType": {
-    "message": "紧凑版（节省打印纸张）",
-    "description": "2.0 exam.js"
-  },
-  "attachments": {
-    "message": "导出附件",
-    "description": "2.0 exam.js"
-  },
-  "yes": {
-    "message": "是",
-    "description": "2.0 exam.js"
-  },
-  "no": {
-    "message": "否",
-    "description": "2.0 exam.js"
-  },
   "moreOperation": {
     "message": "更多操作",
-    "description": "2.0 exam.js"
-  },
-  "systemRequireDesc4": {
-    "message": "- iOS 11.0 及以上{br}- Android 6.0 及以上",
-    "description": "2.0 exam.js"
-  },
-  "refreshed": {
-    "message": "已刷新",
-    "description": "2.0 exam.js"
-  },
-  "refreshInterval": {
-    "message": "刷新间隔：{seconds} 秒",
-    "description": "2.0 exam.js"
-  },
-  "signInTip": {
-    "message": "1.请登录【优学院】 APP扫码签到。{br}2.签到后，请使用签到设备进入考试答题，中途不能更换设备，特殊情况请向监考老师索取验证码签到。",
-    "description": "2.0 exam.js"
-  },
-  "attachmentHelpDescNew": {
-    "message": "电脑端上传附件，支持图片、文档、视频、音频等常见格式。手机端仅支持拍照上传图片。{link}{br}每道题最多上传10个附件。{br1}电脑端上传，单个文件不超过500M;手机端上传，单个文件不超过200M。{br2}电脑端答题可以从本地选择文件或者使用手机扫码拍照上传。",
-    "description": "2.0 exam.js"
-  },
-  "shareBank": {
-    "message": "共享题库",
-    "description": "2.0 exam.js"
-  },
-  "onlyShowMyCollect": {
-    "message": "只显示我收藏的",
-    "description": "2.0 exam.js"
-  },
-  "isOver": {
-    "message": "已到期",
-    "description": "2.0 exam.js"
-  },
-  "shareFolder": {
-    "message": "共享文件夹",
-    "description": "2.0 exam.js"
-  },
-  "hideQuestionType": {
-    "message": "隐藏题型名称",
-    "description": "2.0 exam.js"
-  },
-  "classesTips1": {
-    "message": "请选择班级",
-    "description": "2.0 exam.js"
-  },
-  "saveDraft": {
-    "message": "保存草稿",
-    "description": "2.0 exam.js"
-  },
-  "confirmTip1": {
-    "message": "确定取消吗？",
-    "description": "2.0 exam.js"
-  },
-  "exportTip1": {
-    "message": "学生有多条答题记录时，默认只导出最高成绩。",
-    "description": "2.0 exam.js"
-  },
-  "studentInfo": {
-    "message": "学生信息",
-    "description": "2.0 exam.js"
-  },
-  "username": {
-    "message": "用户名",
-    "description": "2.0 exam.js"
-  },
-  "classTeacher": {
-    "message": "班级教师",
-    "description": "2.0 exam.js"
-  },
-  "natureClass": {
-    "message": "自然班级",
-    "description": "2.0 exam.js"
-  },
-  "sex": {
-    "message": "性别",
-    "description": "2.0 exam.js"
-  },
-  "affiliatedCollege": {
-    "message": "所属院系",
-    "description": "2.0 exam.js"
-  },
-  "email": {
-    "message": "邮箱",
-    "description": "2.0 exam.js"
-  },
-  "phoneNumber": {
-    "message": "手机号",
-    "description": "2.0 exam.js"
-  },
-  "exportTip2": {
-    "message": "异常离开考试次数(需在发布考试时设置异常监控)",
-    "description": "2.0 exam.js"
-  },
-  "exportTip3": {
-    "message": "试卷各部分得分(请确保考试所用各套试卷结构一致)",
-    "description": "2.0 exam.js"
-  },
-  "everyQuestionScore": {
-    "message": "试卷每道题得分",
-    "description": "2.0 exam.js"
-  },
-  "exportTip4": {
-    "message": "每个班级导出一个excel文件",
-    "description": "2.0 exam.js"
-  },
-  "exportTip5": {
-    "message": "所有班级在一个excel文件中分多个工作表显示",
-    "description": "2.0 exam.js"
-  },
-  "orderRule": {
-    "message": "排序规则",
-    "description": "2.0 exam.js"
-  },
-  "ascendingOrderByScore": {
-    "message": "按学号升序",
-    "description": "2.0 exam.js"
-  },
-  "descendingOrderByScore": {
-    "message": "按学号降序",
-    "description": "2.0 exam.js"
-  },
-  "ascendingOrderByTotalScore": {
-    "message": "按总分升序",
-    "description": "2.0 exam.js"
-  },
-  "descendingOrderByTotalScore": {
-    "message": "按总分降序",
-    "description": "2.0 exam.js"
-  },
-  "exportSetting": {
-    "message": "导出设置",
-    "description": "2.0 exam.js"
-  },
-  "exportTip6": {
-    "message": "导出学生得分最高的一次答题记录",
-    "description": "2.0 exam.js"
-  },
-  "exportTip7": {
-    "message": "导出学生全部答题记录",
-    "description": "2.0 exam.js"
-  },
-  "saveSuccess": {
-    "message": "保存成功",
-    "description": "2.0 exam.js"
-  },
-  "exportTip8": {
-    "message": "请选择导出项",
-    "description": "2.0 exam.js"
-  },
-  "draft": {
-    "message": "草稿",
-    "description": "2.0 exam.js"
-  },
-  "mobileMonitorCodeIntro1": {
-    "message": "考试签到码为动态二维码，请使用【优学院】APP进入考试查看，或使用手机扫描下方二维码，进入移动监控台查看。",
-    "description": "2.0 exam.js"
-  },
-  "signInTip1": {
-    "message": "1.请登录【优学院】 APP扫码签到。{br}2.签到后，请使用签到设备进入考试答题，中途不能更换设备，特殊情况请向监考老师索取验证码签到。",
-    "description": "2.0 exam.js"
-  },
-  "attachmentHelpDescNew1": {
-    "message": "1. 上传附件，支持图片、文档、视频、音频等常见格式；每道题最多上传10个附件；电脑端单个文件不超过500M，手机端单个文件不超过200M。{br}{link}{br1}2. 手机端可单独选择是否允许从本机/相册选择文件上传。如不允许，则手机端仅支持拍照上传图片；如果允许，会存在学生通过查看本机文件作弊的风险，请酌情选择。{br2}3. 电脑端答题可以从本地选择文件，或者使用手机扫码上传。",
-    "description": "2.0 exam.js"
-  },
-  "attachmentHelpDescNew2": {
-    "message": "1. 上传附件，支持图片、文档、视频、音频等常见格式；每道题最多上传10个附件；电脑端单个文件不超过500M。{br}{link}{br1}2. 电脑端答题可以从本地选择文件，或者使用手机扫码上传。",
-    "description": "2.0 exam.js"
-  },
-  "electronicSignature": {
-    "message": "电子签名",
-    "description": "2.0 exam.js"
-  },
-  "scanCodeSignature": {
-    "message": "扫码签名",
-    "description": "2.0 exam.js"
-  },
-  "allowUploadFromMobile": {
-    "message": "手机端允许从本机/相册选择文件上传",
-    "description": "2.0 exam.js"
-  },
-  "importExamRoomInfo": {
-    "message": "导入排考信息",
-    "description": "2.0 exam.js"
-  },
-  "downloadTemplate": {
-    "message": "下载模板",
-    "description": "2.0 exam.js"
-  },
-  "downloadTip": {
-    "message": "下载Excel模板,并按照模板要求填写学生考场信息",
-    "description": "2.0 exam.js"
-  },
-  "uploadExamRoomInfoExcel": {
-    "message": "上传文件",
-    "description": "2.0 exam.js"
-  },
-  "uploadFileTip": {
-    "message": "上传填写完成的Excel文件",
-    "description": "2.0 exam.js"
-  },
-  "invigilator1": {
-    "message": "监考教师",
-    "description": "2.0 exam.js"
-  },
-  "seatNumber1": {
-    "message": "座位号",
-    "description": "2.0 exam.js"
-  },
-  "seatNumberN": {
-    "message": "座位号：{n}",
-    "description": "2.0 exam.js"
-  },
-  "downloadFail": {
-    "message": "下载失败",
-    "description": "2.0 exam.js"
-  },
-  "importSuccess": {
-    "message": "导入成功",
-    "description": "2.0 exam.js"
-  },
-  "importError": {
-    "message": "导入错误",
-    "description": "2.0 exam.js"
-  },
-  "importErrorTip1": {
-    "message": "文件中部分排考信息不规范，请检查修改后再上传。",
-    "description": "2.0 exam.js"
-  },
-  "studentExamRoom1": {
-    "message": "考场：{n}",
-    "description": "2.0 exam.js"
-  },
-  "examRoomImportTip": {
-    "message": "正在导入，请稍后...",
-    "description": "2.0 exam.js"
-  },
-  "canUseCalculator": {
-    "message": "允许使用计算器",
-    "description": "2.0 exam.js"
-  },
-  "useCalculatorTip": {
-    "message": "开启后考生答题过程中可以使用计算器辅助计算，满足加、减、乘、除、平方、ln、根号等最基本的计算功能。",
-    "description": "2.0 exam.js"
-  },
-  "aiBatchScore": {
-    "message": "智能评分",
-    "description": "2.0 exam.js"
-  },
-  "question": {
-    "message": "题目",
-    "description": "2.0 exam.js"
-  },
-  "noReAiScore": {
-    "message": "本题正在AI智能评分中，请勿重复评分。",
-    "description": "2.0 exam.js"
-  },
-  "hasEvaluation": {
-    "message": "已评",
-    "description": "2.0 exam.js"
-  },
-  "aiScoreTip1": {
-    "message": "正在评分中，请耐心等待....",
-    "description": "2.0 exam.js"
-  },
-  "tempAnswer": {
-    "message": "参考答案",
-    "description": "2.0 exam.js"
-  },
-  "generate": {
-    "message": "生成",
-    "description": "2.0 exam.js"
-  },
-  "scoreRule": {
-    "message": "评分规则",
-    "description": "2.0 exam.js"
-  },
-  "scoreRuleTip": {
-    "message": "系统会根据参考答案内容自动解析评分点。答案内容清晰罗列要点，每个要点用序号/句号/分号分隔，可增加评分点识别准确度。 {br}例：1. 坚持中国特色社会主义 2. 坚持党的领导 或 坚持中国特色社会主义；坚持党的领导。",
-    "description": "2.0 exam.js"
-  },
-  "scorePoint": {
-    "message": "得分点",
-    "description": "2.0 exam.js"
-  },
-  "scoreNum": {
-    "message": "分值",
-    "description": "2.0 exam.js"
-  },
-  "addScorePoint": {
-    "message": "添加得分点",
-    "description": "2.0 exam.js"
-  },
-  "scoreMeasure": {
-    "message": "评分尺度",
-    "description": "2.0 exam.js"
-  },
-  "scoreMeasureTip": {
-    "message": "选择不同的评分尺度在AI智能评分中代表不同的严厉程度。 {br}严格：学生答案中评分点完全正确给满分，不完全正确不给分。 {br1}适中：根据答案中学生作答评分点情况适当给分。 {br2}宽松：学生答案中提及评分点就给分。",
-    "description": "2.0 exam.js"
-  },
-  "strict": {
-    "message": "严格",
-    "description": "2.0 exam.js"
-  },
-  "moderate": {
-    "message": "适中",
-    "description": "2.0 exam.js"
-  },
-  "loose": {
-    "message": "宽松",
-    "description": "2.0 exam.js"
-  },
-  "stuAnswer": {
-    "message": "学生答案",
-    "description": "2.0 exam.js"
-  },
-  "changeStu": {
-    "message": "更换学生",
-    "description": "2.0 exam.js"
-  },
-  "aiScore": {
-    "message": "AI评分",
-    "description": "2.0 exam.js"
-  },
-  "aiScoreTip2": {
-    "message": "评分测试的结果不会保存，确认评分结果符合预期可以点击【开始评分】。",
-    "description": "2.0 exam.js"
-  },
-  "scoreInfo": {
-    "message": "得分情况",
-    "description": "2.0 exam.js"
-  },
-  "noScoreTip": {
-    "message": "AI评分适用于有参考答案的半开放式主观题，在左侧设置好参考答案和评分规则后，点击【测试评分】，可以随机抽取学生答案，预览评分效果。",
-    "description": "2.0 exam.js"
-  },
-  "testScore": {
-    "message": "测试评分",
-    "description": "2.0 exam.js"
-  },
-  "aiScore1": {
-    "message": "AI智能评分",
-    "description": "2.0 exam.js"
-  },
-  "aiScoreContent": {
-    "message": "选择AI智能评分后，系统会按照已设置的评分规则对本次考试中学生该题目所提交的答案进行AI智能评分（AI智能评分不会影响更改教师已批阅过学生的分数）。",
-    "description": "2.0 exam.js"
-  },
-  "confirmScore": {
-    "message": "确定开始评分吗？",
-    "description": "2.0 exam.js"
-  },
-  "stuAnswerTip": {
-    "message": "无学生作答题目，请输入学生答案后开始测试。",
-    "description": "2.0 exam.js"
-  },
-  "stuAnswerTip1": {
-    "message": "请输入学生答案",
-    "description": "2.0 exam.js"
-  },
-  "rightAnswerTip": {
-    "message": "请输入参考答案",
-    "description": "2.0 exam.js"
-  },
-  "rulePointTip": {
-    "message": "各得分点之和应等于满分。",
-    "description": "2.0 exam.js"
-  },
-  "rulePointTip1": {
-    "message": "请填写得分点",
-    "description": "2.0 exam.js"
-  },
-  "rulePointTip2": {
-    "message": "得分点分值最多保留1位小数",
-    "description": "2.0 exam.js"
-  },
-  "rulePointTip3": {
-    "message": "请填写得分",
-    "description": "2.0 exam.js"
-  },
-  "rulePointTip4": {
-    "message": "未解析到评分点",
-    "description": "2.0 exam.js"
-  },
-  "fullScoreTip1": {
-    "message": "满分需要在1-100之间",
-    "description": "2.0 exam.js"
-  },
-  "fullScoreTip2": {
-    "message": "满分最多保留1位小数",
-    "description": "2.0 exam.js"
-  },
-  "fullScoreTip": {
-    "message": "请输入题目满分",
-    "description": "2.0 exam.js"
-  },
-  "fullScoreTip3": {
-    "message": "请核对题目满分值",
-    "description": "2.0 exam.js"
-  },
-  "generating": {
-    "message": "生成中...",
-    "description": "2.0 exam.js"
-  },
-  "remarking": {
-    "message": "重新评分中...",
-    "description": "2.0 exam.js"
-  },
-  "marking": {
-    "message": "评分中",
-    "description": "2.0 exam.js"
-  },
-  "plsEnter": {
-    "message": "请输入内容",
-    "description": "2.0 exam.js"
-  },
-  "aiGenerateTip": {
-    "message": "生成失败，请手动输入内容",
-    "description": "2.0 exam.js"
-  },
-  "errTip": {
-    "message": "出错了，请联系管理员",
-    "description": "2.0 exam.js"
-  },
-  "intelligentReview": {
-    "message": "智能点评",
-    "description": "2.0 exam.js"
-  },
-  "encouragement": {
-    "message": "鼓励",
-    "description": "2.0 exam.js"
-  },
-  "gentle": {
-    "message": "温和",
-    "description": "2.0 exam.js"
-  },
-  "serious": {
-    "message": "严肃",
-    "description": "2.0 exam.js"
-  },
-  "questionBankinfo1": {
-    "message": "没有数据请前往",
-    "description": "2.0 exam.js"
-  },
-  "questionBankinfo2": {
-    "message": " 我的题库创建目录结构或题目内容>>",
-    "description": "2.0 exam.js"
-  },
-  "questionBankinfo3": {
-    "message": "，已创建完成可点击",
-    "description": "2.0 exam.js"
-  },
-  "questionBankinfo4": {
-    "message": "刷新 。",
-    "description": "2.0 exam.js"
-  },
-  "examSetting": {
-    "message": "考试设置",
-    "description": "2.0 exam.js"
-  },
-  "venueSettings": {
-    "message": "场次设置",
-    "description": "2.0 exam.js"
-  },
-  "processFlowchoosePaper": {
-    "message": "选择试卷",
-    "description": "2.0 exam.js"
-  },
-  "processFlowSteps1": {
-    "message": "从试卷库直接选择试卷或随机组卷 <br>(可在题库和试卷库提前准备好内容)",
-    "description": "2.0 exam.js"
-  },
-  "processFlowSteps2": {
-    "message": "进行考试相关设置",
-    "description": "2.0 exam.js"
-  },
-  "processFlowSteps3": {
-    "message": "设置考试时间与考试学生",
-    "description": "2.0 exam.js"
-  },
-  "pushExamLiucheng": {
-    "message": "发布考试流程",
     "description": "2.0 exam.js"
   },
   "mobileH5": {

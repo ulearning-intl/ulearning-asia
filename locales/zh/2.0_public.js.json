@@ -1,0 +1,2702 @@
+{
+  "homePage": {
+    "message": "首页",
+    "description": "2.0 public.js"
+  },
+  "lastPage": {
+    "message": "末页",
+    "description": "2.0 public.js"
+  },
+  "frontPage": {
+    "message": "上页",
+    "description": "2.0 public.js"
+  },
+  "backPage": {
+    "message": "下页",
+    "description": "2.0 public.js"
+  },
+  "jumpPage": {
+    "message": "跳转",
+    "description": "2.0 public.js"
+  },
+  "search": {
+    "message": "搜索",
+    "description": "2.0 public.js"
+  },
+  "friendshipLink": {
+    "message": "友情链接",
+    "description": "2.0 public.js"
+  },
+  "ulearning": {
+    "message": "优学院",
+    "description": "2.0 public.js"
+  },
+  "peopleMooc": {
+    "message": "人民公开课",
+    "description": "2.0 public.js"
+  },
+  "leiClass": {
+    "message": "雷课堂",
+    "description": "2.0 public.js"
+  },
+  "helpCenter": {
+    "message": "帮助中心",
+    "description": "2.0 public.js"
+  },
+  "signin": {
+    "message": "登录",
+    "description": "2.0 public.js"
+  },
+  "signup": {
+    "message": "注册",
+    "description": "2.0 public.js"
+  },
+  "signout": {
+    "message": "退出登录",
+    "description": "2.0 public.js"
+  },
+  "myHomePage": {
+    "message": "我的首页",
+    "description": "2.0 public.js"
+  },
+  "backToHomePage": {
+    "message": "回到首页",
+    "description": "2.0 public.js"
+  },
+  "personalPage": {
+    "message": "个人资料",
+    "description": "2.0 public.js"
+  },
+  "signupNow": {
+    "message": "立即注册",
+    "description": "2.0 public.js"
+  },
+  "username": {
+    "message": "用户名/手机号",
+    "description": "2.0 public.js"
+  },
+  "password": {
+    "message": "密码",
+    "description": "2.0 public.js"
+  },
+  "forgetPassword": {
+    "message": "忘记密码？",
+    "description": "2.0 public.js"
+  },
+  "usernameNotExist": {
+    "message": "用户名不存在",
+    "description": "2.0 public.js"
+  },
+  "wrongPassword": {
+    "message": "用户名/密码错误",
+    "description": "2.0 public.js"
+  },
+  "wrongCode": {
+    "message": "动态安全码错误",
+    "description": "2.0 public.js"
+  },
+  "verificationCodePlaceholder": {
+    "message": "请输入6位动态验证码",
+    "description": "2.0 public.js"
+  },
+  "sendVerificationCode": {
+    "message": "发送验证码",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterUsername": {
+    "message": "请输入用户名/手机号",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterPassword": {
+    "message": "请输入密码",
+    "description": "2.0 public.js"
+  },
+  "pleaseEnterVerificationCode": {
+    "message": "请输入动态验证码",
+    "description": "2.0 public.js"
+  },
+  "wrongToManyTimes": {
+    "message": "您已经连续输错5次，3分钟后重试",
+    "description": "2.0 public.js"
+  },
+  "searchCourse": {
+    "message": "搜索全部课程",
+    "description": "2.0 public.js"
+  },
+  "Classification": {
+    "message": "分类",
+    "description": "2.0 public.js"
+  },
+  "defaultOrder": {
+    "message": "综合排序",
+    "description": "2.0 public.js"
+  },
+  "mostRecent": {
+    "message": "最新",
+    "description": "2.0 public.js"
+  },
+  "mostPopular": {
+    "message": "最热",
+    "description": "2.0 public.js"
+  },
+  "all": {
+    "message": "全部",
+    "description": "2.0 public.js"
+  },
+  "other": {
+    "message": "其他",
+    "description": "2.0 public.js"
+  },
+  "department": {
+    "message": "院系",
+    "description": "2.0 public.js"
+  },
+  "allDepartment": {
+    "message": "全部学院",
+    "description": "2.0 public.js"
+  },
+  "totalCourse": {
+    "message": "共{n}门课程",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "departments": {
+    "message": "院系",
+    "description": "2.0 public.js"
+  },
+  "moreDepartments": {
+    "message": "更多院系",
+    "description": "2.0 public.js"
+  },
+  "allDepartments": {
+    "message": "所有院系",
+    "description": "2.0 public.js"
+  },
+  "announcement": {
+    "message": "公告",
+    "description": "2.0 public.js"
+  },
+  "moreAnnouncement": {
+    "message": "更多公告",
+    "description": "2.0 public.js"
+  },
+  "otherAnnouncement": {
+    "message": "其他公告",
+    "description": "2.0 public.js"
+  },
+  "moreCourse": {
+    "message": "更多课程",
+    "description": "2.0 public.js"
+  },
+  "joinCourseCount": {
+    "message": "参与人数：{n}",
+    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+  },
+  "customNavigation": {
+    "message": "自定义导航",
+    "description": "2.0 public.js"
+  },
+  "courseManager": {
+    "message": "课程负责人：",
+    "description": "2.0 public.js"
+  },
+  "affiliatedCollege": {
+    "message": "所属学院：",
+    "description": "2.0 public.js"
+  },
+  "classNum": {
+    "message": "班级数量：",
+    "description": "2.0 public.js"
+  },
+  "courseStartTime": {
+    "message": "开课时间：",
+    "description": "2.0 public.js"
+  },
+  "usingTextbook": {
+    "message": "所用课件",
+    "description": "2.0 public.js"
+  },
+  "noTextbook": {
+    "message": "暂无所用教材",
+    "description": "2.0 public.js"
+  },
+  "courseAnnouncement": {
+    "message": "课程公告",
+    "description": "2.0 public.js"
+  },
+  "publisher": {
+    "message": "发布人：",
+    "description": "2.0 public.js"
+  },
+  "publishTime": {
+    "message": "发布时间：",
+    "description": "2.0 public.js"
+  },
+  "noCourseAnnouncement": {
+    "message": "暂无课程公告",
+    "description": "2.0 public.js"
+  },
+  "teachingActivity": {
+    "message": "教学活动",
+    "description": "2.0 public.js"
+  },
+  "homework": {
+    "message": "作业",
+    "description": "2.0 public.js"
+  },
+  "noHomework": {
+    "message": "暂无作业",
+    "description": "2.0 public.js"
+  },
+  "no": {
+    "message": "暂无",
+    "description": "2.0 public.js"
+  },
+  "discussion": {
+    "message": "讨论",
+    "description": "2.0 public.js"
+  },
+  "noDiscussion": {
+    "message": "暂无讨论",
+    "description": "2.0 public.js"
+  },
+  "exam": {
+    "message": "考试",
+    "description": "2.0 public.js"
+  },
+  "noExam": {
+    "message": "暂无考试",
+    "description": "2.0 public.js"
+  },
+  "teachingTeam": {
+    "message": "教学团队",
+    "description": "2.0 public.js"
+  },
+  "noTeachingTeam": {
+    "message": "暂无教学团队",
+    "description": "2.0 public.js"
+  },
+  "joinCourse": {
+    "message": "加入课程",
+    "description": "2.0 public.js"
+  },
+  "searchNoCourse": {
+    "message": "没有搜索到相应的课程",
+    "description": "2.0 public.js"
+  },
+  "noCourse": {
+    "message": "没有课程",
+    "description": "2.0 public.js"
+  },
+  "netError": {
+    "message": "网络错误，点击{reloadButton}",
+    "description": "自定义门户网站 -> 课程 (公开课程等)"
+  },
+  "reload": {
+    "message": "重新加载",
+    "description": "2.0 public.js"
+  },
+  "viewDetail": {
+    "message": "查看详情",
+    "description": "2.0 public.js"
+  },
+  "contentSummary": {
+    "message": "内容简介：",
+    "description": "2.0 public.js"
+  },
+  "studyTimesOf": {
+    "message": "{n}次学习",
+    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+  },
+  "totalSearchResult": {
+    "message": "共搜索到与 “{keyword}” 相关的{n}个结果",
+    "description": "自定义门户网站 -> 上方搜索框搜索"
+  },
+  "schoolCourse": {
+    "message": "校内课程",
+    "description": "2.0 public.js"
+  },
+  "openCourse": {
+    "message": "开放课程",
+    "description": "2.0 public.js"
+  },
+  "moreSearchResult": {
+    "message": "更多搜索结果",
+    "description": "2.0 public.js"
+  },
+  "annex": {
+    "message": "附件",
+    "description": "2.0 public.js"
+  },
+  "peoplePublicChannel": {
+    "message": "人民网-公开课频道",
+    "description": "2.0 public.js"
+  },
+  "personalResource": {
+    "message": "个人资源",
+    "description": "2.0 public.js"
+  },
+  "resourceTips1": {
+    "message": "文件不能超过1G",
+    "description": "2.0 public.js"
+  },
+  "addResource": {
+    "message": "添加资源",
+    "description": "2.0 public.js"
+  },
+  "modifyResource": {
+    "message": "修改资源",
+    "description": "2.0 public.js"
+  },
+  "modifyResourceName": {
+    "message": "修改资源名称",
+    "description": "2.0 public.js"
+  },
+  "myResource": {
+    "message": "我的资源",
+    "description": "2.0 public.js"
+  },
+  "courseResource": {
+    "message": "课程资源",
+    "description": "2.0 public.js"
+  },
+  "subjectResourceLibrary": {
+    "message": "学科资源库",
+    "description": "2.0 public.js"
+  },
+  "inputKeywordSearch": {
+    "message": "输入关键字搜索",
+    "description": "2.0 public.js"
+  },
+  "resourceTips2": {
+    "message": "单个文件最大1G",
+    "description": "2.0 public.js"
+  },
+  "localUpload": {
+    "message": "本地上传",
+    "description": "2.0 public.js"
+  },
+  "back": {
+    "message": "返回",
+    "description": "2.0 public.js"
+  },
+  "currentPosition": {
+    "message": "当前位置：",
+    "description": "2.0 public.js"
+  },
+  "allResource": {
+    "message": "全部资源",
+    "description": "2.0 public.js"
+  },
+  "resourceName": {
+    "message": "资源名称",
+    "description": "2.0 public.js"
+  },
+  "noResource": {
+    "message": "没有资源",
+    "description": "2.0 public.js"
+  },
+  "publisher2": {
+    "message": "发布者",
+    "description": "2.0 public.js"
+  },
+  "confirm": {
+    "message": "确定",
+    "description": "2.0 public.js"
+  },
+  "cancel": {
+    "message": "取消",
+    "description": "2.0 public.js"
+  },
+  "pleaseAddContent": {
+    "message": "请添加内容",
+    "description": "2.0 public.js"
+  },
+  "resourceTips3": {
+    "message": "图文不能超过两万个字符",
+    "description": "2.0 public.js"
+  },
+  "saveSuccess": {
+    "message": "保存成功",
+    "description": "2.0 public.js"
+  },
+  "saveFailed": {
+    "message": "保存失败",
+    "description": "2.0 public.js"
+  },
+  "modify": {
+    "message": "修改",
+    "description": "2.0 public.js"
+  },
+  "add": {
+    "message": "新建",
+    "description": "2.0 public.js"
+  },
+  "resource": {
+    "message": "资源",
+    "description": "2.0 public.js"
+  },
+  "resourceTips4": {
+    "message": "请填写资源名称",
+    "description": "2.0 public.js"
+  },
+  "delete": {
+    "message": "删除",
+    "description": "2.0 public.js"
+  },
+  "size": {
+    "message": "大小",
+    "description": "2.0 public.js"
+  },
+  "duration": {
+    "message": "时长",
+    "description": "2.0 public.js"
+  },
+  "cover": {
+    "message": "封面",
+    "description": "2.0 public.js"
+  },
+  "reUpload": {
+    "message": "重传",
+    "description": "2.0 public.js"
+  },
+  "upload": {
+    "message": "上传",
+    "description": "2.0 public.js"
+  },
+  "subtitle": {
+    "message": "字幕",
+    "description": "2.0 public.js"
+  },
+  "contentValidateTips5": {
+    "message": "仅支持srt格式",
+    "description": "2.0 public.js"
+  },
+  "linkAddress": {
+    "message": "链接地址",
+    "description": "2.0 public.js"
+  },
+  "resourceTips5": {
+    "message": "请输入链接地址",
+    "description": "2.0 public.js"
+  },
+  "content": {
+    "message": "内容",
+    "description": "2.0 public.js"
+  },
+  "resourceDescription": {
+    "message": "资源简介",
+    "description": "2.0 public.js"
+  },
+  "resourceTips6": {
+    "message": "非必填项，可不填",
+    "description": "2.0 public.js"
+  },
+  "downloadSettings": {
+    "message": "下载设置",
+    "description": "2.0 public.js"
+  },
+  "allowDownload": {
+    "message": "允许下载",
+    "description": "2.0 public.js"
+  },
+  "disallowDownload": {
+    "message": "不允许下载",
+    "description": "2.0 public.js"
+  },
+  "publishScope": {
+    "message": "发布范围",
+    "description": "2.0 public.js"
+  },
+  "myClassess": {
+    "message": "我的班级",
+    "description": "2.0 public.js"
+  },
+  "courseAllClass": {
+    "message": "课程全部班级",
+    "description": "2.0 public.js"
+  },
+  "resourceTips7": {
+    "message": "请选择需要添加的资源",
+    "description": "2.0 public.js"
+  },
+  "changePassword": {
+    "message": "修改密码",
+    "description": "2.0 public.js"
+  },
+  "safeguard": {
+    "message": "安全保护",
+    "description": "2.0 public.js"
+  },
+  "securitySetting": {
+    "message": "安全设置",
+    "description": "2.0 public.js"
+  },
+  "welcomeUlearn": {
+    "message": "欢迎来到优学院",
+    "description": "2.0 public.js"
+  },
+  "wrongUsernamePassword": {
+    "message": "用户名或密码错误",
+    "description": "2.0 public.js"
+  },
+  "wrongDynamicCode": {
+    "message": "动态码错误",
+    "description": "2.0 public.js"
+  },
+  "loginTips1": {
+    "message": "本站点暂时只开放给学生学习使用，请使用学生账号登录，您也可以使用微信扫码登录后进行学习",
+    "description": "2.0 public.js"
+  },
+  "wxLogin": {
+    "message": "微信登录",
+    "description": "2.0 public.js"
+  },
+  "registeredAccount": {
+    "message": "注册账号",
+    "description": "2.0 public.js"
+  },
+  "forgotPassword": {
+    "message": "忘记密码",
+    "description": "2.0 public.js"
+  },
+  "userWXLogin": {
+    "message": "使用微信登录",
+    "description": "2.0 public.js"
+  },
+  "bindUlearnAccount": {
+    "message": "绑定优学院账号",
+    "description": "2.0 public.js"
+  },
+  "loginTips2": {
+    "message": "绑定后可实现账号同步",
+    "description": "2.0 public.js"
+  },
+  "loginTips3": {
+    "message": "本站点暂时只开放给学生学习使用，请绑定学生账号，没有学生账号可以不用绑定哦~",
+    "description": "2.0 public.js"
+  },
+  "unbound": {
+    "message": "不绑定",
+    "description": "2.0 public.js"
+  },
+  "unboundSkip": {
+    "message": "不绑定，跳过",
+    "description": "2.0 public.js"
+  },
+  "reSend": {
+    "message": "重新发送",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips1": {
+    "message": "调整图片尺寸与位置",
+    "description": "2.0 public.js"
+  },
+  "uploadImgTips2": {
+    "message": "拖动虚线框调整尺寸和位置",
+    "description": "2.0 public.js"
+  },
+  "save": {
+    "message": "保存",
+    "description": "2.0 public.js"
+  },
+  "baseInfo": {
+    "message": "基本信息",
+    "description": "2.0 public.js"
+  },
+  "userName": {
+    "message": "用户名",
+    "description": "2.0 public.js"
+  },
+  "headImg": {
+    "message": "头像",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImg": {
+    "message": "上传头像",
+    "description": "2.0 public.js"
+  },
+  "uploadHeadImgTips": {
+    "message": "jpg/jpeg/png格式图片，不超过2M建议尺寸80px*80px",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber": {
+    "message": "手机号码",
+    "description": "2.0 public.js"
+  },
+  "modifyRelatedPhone": {
+    "message": "修改关联手机",
+    "description": "2.0 public.js"
+  },
+  "relatePhone": {
+    "message": "关联手机",
+    "description": "2.0 public.js"
+  },
+  "fullName": {
+    "message": "姓名",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips1": {
+    "message": "名字很重要，建议使用真实姓名",
+    "description": "2.0 public.js"
+  },
+  "gender": {
+    "message": "性别",
+    "description": "2.0 public.js"
+  },
+  "male": {
+    "message": "男",
+    "description": "2.0 public.js"
+  },
+  "female": {
+    "message": "女",
+    "description": "2.0 public.js"
+  },
+  "email": {
+    "message": "邮箱",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips2": {
+    "message": "用于找回密码",
+    "description": "2.0 public.js"
+  },
+  "birthday": {
+    "message": "出生日期",
+    "description": "2.0 public.js"
+  },
+  "telphoneNum": {
+    "message": "电话",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips3": {
+    "message": "请选择出生日期",
+    "description": "2.0 public.js"
+  },
+  "schoolInfo": {
+    "message": "学校信息",
+    "description": "2.0 public.js"
+  },
+  "college": {
+    "message": "所在院校",
+    "description": "2.0 public.js"
+  },
+  "department2": {
+    "message": "所属院系",
+    "description": "2.0 public.js"
+  },
+  "department3": {
+    "message": "学院",
+    "description": "2.0 public.js"
+  },
+  "grade": {
+    "message": "年级",
+    "description": "2.0 public.js"
+  },
+  "pleaseChoose": {
+    "message": "请选择",
+    "description": "2.0 public.js"
+  },
+  "normalClass": {
+    "message": "自然班级",
+    "description": "2.0 public.js"
+  },
+  "studentNo": {
+    "message": "学号",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips4": {
+    "message": "请如实填写，关系成绩",
+    "description": "2.0 public.js"
+  },
+  "thirdAccount": {
+    "message": "第三方账号",
+    "description": "2.0 public.js"
+  },
+  "unbind": {
+    "message": "解除绑定",
+    "description": "2.0 public.js"
+  },
+  "bindWX": {
+    "message": "绑定微信",
+    "description": "2.0 public.js"
+  },
+  "phoneNum": {
+    "message": "手机号",
+    "description": "2.0 public.js"
+  },
+  "inputPhoneNum": {
+    "message": "请输入手机号",
+    "description": "2.0 public.js"
+  },
+  "inputCorrectPhoneNum": {
+    "message": "请输入正确手机号",
+    "description": "2.0 public.js"
+  },
+  "verificationCode": {
+    "message": "验证码",
+    "description": "2.0 public.js"
+  },
+  "inputVerificationCode": {
+    "message": "请输入验证码",
+    "description": "2.0 public.js"
+  },
+  "hanNationality": {
+    "message": "汉族",
+    "description": "2.0 public.js"
+  },
+  "city": {
+    "message": "城市",
+    "description": "2.0 public.js"
+  },
+  "town": {
+    "message": "县镇",
+    "description": "2.0 public.js"
+  },
+  "countryside": {
+    "message": "农村",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips5": {
+    "message": "该邮箱已经被使用，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips6": {
+    "message": "该学号已经被使用，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips7": {
+    "message": "该手机号已经被使用，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips8": {
+    "message": "不能为空",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips9": {
+    "message": "邮箱格式填写不正确",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips10": {
+    "message": "输入字符的长度不能超过",
+    "description": "2.0 public.js"
+  },
+  "modifyFailed": {
+    "message": "修改失败",
+    "description": "2.0 public.js"
+  },
+  "unbindSuccess": {
+    "message": "解绑成功",
+    "description": "2.0 public.js"
+  },
+  "getVerificationCode": {
+    "message": "获取验证码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips11": {
+    "message": "请输入电话号码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips12": {
+    "message": "请输入正确的电话号码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips13": {
+    "message": "该手机号已被使用",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips14": {
+    "message": "保存手机号成功",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCode": {
+    "message": "验证码错误",
+    "description": "2.0 public.js"
+  },
+  "bindSuccess": {
+    "message": "绑定成功",
+    "description": "2.0 public.js"
+  },
+  "bindFailed": {
+    "message": "绑定失败",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips15": {
+    "message": "该微信已绑定优学院其他账号，请更换微信账号重新绑定",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips16": {
+    "message": "当前已开始登录保护，如不需要可关闭",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips17": {
+    "message": "开启后，登录时将先进行身份验证，以保障你的账号安全",
+    "description": "2.0 public.js"
+  },
+  "loginProtection": {
+    "message": "登录保护",
+    "description": "2.0 public.js"
+  },
+  "close": {
+    "message": "关闭",
+    "description": "2.0 public.js"
+  },
+  "open": {
+    "message": "开启",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips18": {
+    "message": "登录保护手机验证",
+    "description": "2.0 public.js"
+  },
+  "phone": {
+    "message": "手机",
+    "description": "2.0 public.js"
+  },
+  "thisAccount": {
+    "message": "此账号",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips19": {
+    "message": "未关联手机号码,",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips20": {
+    "message": "请先在个人资料中完善手机号再开启",
+    "description": "2.0 public.js"
+  },
+  "setSuccess": {
+    "message": "设置成功！",
+    "description": "2.0 public.js"
+  },
+  "oldPassword": {
+    "message": "旧密码",
+    "description": "2.0 public.js"
+  },
+  "newpassword": {
+    "message": "新密码",
+    "description": "2.0 public.js"
+  },
+  "confirmPassword": {
+    "message": "确认密码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips21": {
+    "message": "用户名和密码不能相同",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips22": {
+    "message": "请输入旧密码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips23": {
+    "message": "请输入正确的旧密码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips24": {
+    "message": "请输入新密码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips25": {
+    "message": "8-16位，必须同时包含字母和数字（区分大小写）",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips26": {
+    "message": "请输入确认密码",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips27": {
+    "message": "两次密码输入不一致",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips28": {
+    "message": "密码修改成功！",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips29": {
+    "message": "旧密码错误！",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips30": {
+    "message": "修改密码失败！",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText1": {
+    "message": "APP下载",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText2": {
+    "message": "扫码下载【优学院】APP",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText3": {
+    "message": "咨询客服",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText4": {
+    "message": "帮助中心",
+    "description": "2.0 public.js"
+  },
+  "fixedNavText5": {
+    "message": "返回顶部",
+    "description": "2.0 public.js"
+  },
+  "myOrder": {
+    "message": "我的订单",
+    "description": "2.0 public.js"
+  },
+  "improveCourse": {
+    "message": "完善课程",
+    "description": "2.0 public.js"
+  },
+  "teachingProcess": {
+    "message": "教学流程图示",
+    "description": "2.0 public.js"
+  },
+  "studyPlan": {
+    "message": "学习计划",
+    "description": "2.0 public.js"
+  },
+  "studyProgress": {
+    "message": "学习进度",
+    "description": "2.0 public.js"
+  },
+  "myTextbook": {
+    "message": "我的教材",
+    "description": "2.0 public.js"
+  },
+  "arrangingExamRoom": {
+    "message": "编排考场",
+    "description": "2.0 public.js"
+  },
+  "studyStatistics": {
+    "message": "成绩统计",
+    "description": "2.0 public.js"
+  },
+  "randomGroupPaper": {
+    "message": "随机组卷",
+    "description": "2.0 public.js"
+  },
+  "faceAuthentication": {
+    "message": "人脸认证",
+    "description": "2.0 public.js"
+  },
+  "questionAnalysis": {
+    "message": "试题分析",
+    "description": "2.0 public.js"
+  },
+  "batchRemarkQue": {
+    "message": "批量批阅试题",
+    "description": "2.0 public.js"
+  },
+  "examPaperLibrary": {
+    "message": "试卷库",
+    "description": "2.0 public.js"
+  },
+  "monitor": {
+    "message": "监控台",
+    "description": "2.0 public.js"
+  },
+  "faceVerificationPhotoVerify": {
+    "message": "人脸认证照片审核",
+    "description": "2.0 public.js"
+  },
+  "joinCourseClass": {
+    "message": "加入班课",
+    "description": "2.0 public.js"
+  },
+  "classDivideGroup": {
+    "message": "班级分组",
+    "description": "2.0 public.js"
+  },
+  "resourceStatistic": {
+    "message": "资源统计",
+    "description": "2.0 public.js"
+  },
+  "resourcePreview": {
+    "message": "资源预览",
+    "description": "2.0 public.js"
+  },
+  "resourceImport": {
+    "message": "资源导入",
+    "description": "2.0 public.js"
+  },
+  "publishToCourse": {
+    "message": "资源发布到课程",
+    "description": "2.0 public.js"
+  },
+  "resourceLibrary": {
+    "message": "资源库",
+    "description": "2.0 public.js"
+  },
+  "examEnvironmentDetection": {
+    "message": "考试环境检测",
+    "description": "2.0 public.js"
+  },
+  "createAssessment": {
+    "message": "创建考核策略",
+    "description": "2.0 public.js"
+  },
+  "modifyAssessment": {
+    "message": "修改考核策略",
+    "description": "2.0 public.js"
+  },
+  "viewScore": {
+    "message": "查看成绩",
+    "description": "2.0 public.js"
+  },
+  "courseAnalysis": {
+    "message": "课程分析",
+    "description": "2.0 public.js"
+  },
+  "coursewareContent": {
+    "message": "课件内容",
+    "description": "2.0 public.js"
+  },
+  "livePlayback": {
+    "message": "直播回看",
+    "description": "2.0 public.js"
+  },
+  "liveAnalysis": {
+    "message": "直播分析",
+    "description": "2.0 public.js"
+  },
+  "live": {
+    "message": "直播",
+    "description": "2.0 public.js"
+  },
+  "semesterManagement": {
+    "message": "学期管理",
+    "description": "2.0 public.js"
+  },
+  "foreignMember": {
+    "message": "外校成员",
+    "description": "2.0 public.js"
+  },
+  "copyRight": {
+    "message": "京公网安备 11010502036460号",
+    "description": "2.0 public.js"
+  },
+  "certificateManagement": {
+    "message": "证书管理",
+    "description": "2.0 public.js"
+  },
+  "certificateSettings": {
+    "message": "证书设置",
+    "description": "2.0 public.js"
+  },
+  "certificateTemplate": {
+    "message": "我的证书模板",
+    "description": "2.0 public.js"
+  },
+  "createCertificate": {
+    "message": "新建模板",
+    "description": "2.0 public.js"
+  },
+  "selectTemplate": {
+    "message": "选择模板",
+    "description": "2.0 public.js"
+  },
+  "electronicSignature": {
+    "message": "电子签名",
+    "description": "2.0 public.js"
+  },
+  "liveManagement": {
+    "message": "直播管理",
+    "description": "2.0 public.js"
+  },
+  "setAssesmentRules": {
+    "message": "设置考核规则",
+    "description": "2.0 public.js"
+  },
+  "basicInfo": {
+    "message": "基本信息",
+    "description": "2.0 public.js"
+  },
+  "activityCalendar": {
+    "message": "日历",
+    "description": "2.0 public.js"
+  },
+  "studyEportfolio": {
+    "message": "学业档案",
+    "description": "2.0 public.js"
+  },
+  "ofEportfolio": {
+    "message": "的学业档案",
+    "description": "2.0 public.js"
+  },
+  "myHomePage2": {
+    "message": "我的主页",
+    "description": "2.0 public.js"
+  },
+  "eportfolio": {
+    "message": "档案",
+    "description": "2.0 public.js"
+  },
+  "folder": {
+    "message": "文件夹",
+    "description": "2.0 public.js"
+  },
+  "fileSize": {
+    "message": "文件大小",
+    "description": "2.0 public.js"
+  },
+  "eportfolioTips": {
+    "message": "这是私密档案，您没有权限查看~",
+    "description": "2.0 public.js"
+  },
+  "addFolder2": {
+    "message": "新建文件夹",
+    "description": "2.0 public.js"
+  },
+  "inputFolderName": {
+    "message": "请输入文件夹名称",
+    "description": "2.0 public.js"
+  },
+  "addEportfolio": {
+    "message": "新建档案",
+    "description": "2.0 public.js"
+  },
+  "editEportfolio": {
+    "message": "编辑档案",
+    "description": "2.0 public.js"
+  },
+  "inputEportfolioName": {
+    "message": "输入档案名称",
+    "description": "2.0 public.js"
+  },
+  "permission": {
+    "message": "权限",
+    "description": "2.0 public.js"
+  },
+  "private": {
+    "message": "私密",
+    "description": "2.0 public.js"
+  },
+  "notPrivate": {
+    "message": "公开",
+    "description": "2.0 public.js"
+  },
+  "tag": {
+    "message": "标签",
+    "description": "2.0 public.js"
+  },
+  "add2": {
+    "message": "添加",
+    "description": "2.0 public.js"
+  },
+  "tagName": {
+    "message": "标签名称",
+    "description": "2.0 public.js"
+  },
+  "inputAddTagName": {
+    "message": "点击添加标签",
+    "description": "2.0 public.js"
+  },
+  "homePageTemplate": {
+    "message": "个人主页模板",
+    "description": "2.0 public.js"
+  },
+  "template1": {
+    "message": "版式一",
+    "description": "2.0 public.js"
+  },
+  "template2": {
+    "message": "版式二",
+    "description": "2.0 public.js"
+  },
+  "copyLinkTips": {
+    "message": "复制链接分享给其他人",
+    "description": "2.0 public.js"
+  },
+  "copySuccess": {
+    "message": "复制成功",
+    "description": "2.0 public.js"
+  },
+  "copyLink": {
+    "message": "复制链接",
+    "description": "2.0 public.js"
+  },
+  "importHw": {
+    "message": "导入作业",
+    "description": "2.0 public.js"
+  },
+  "importHwTips": {
+    "message": "下面是你近期在课程中提交过的作业，你可以选择想要保存或分享的作业，导入到你的学业档案中。导入的作业会保存成图文档案，包括作业附件（仅图片和文档），导入到当前所在目录。",
+    "description": "2.0 public.js"
+  },
+  "allCourses": {
+    "message": "全部课程",
+    "description": "2.0 public.js"
+  },
+  "uploaded": {
+    "message": "已上传",
+    "description": "2.0 public.js"
+  },
+  "allEportfolio": {
+    "message": "全部档案",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips1": {
+    "message": "确定删除该档案吗？",
+    "description": "2.0 public.js"
+  },
+  "deleteEportfolioTips2": {
+    "message": "删除文件夹会同时删除其中包含的档案，确定删除吗？",
+    "description": "2.0 public.js"
+  },
+  "searchByNameAndTag": {
+    "message": "根据名称和标签搜索",
+    "description": "2.0 public.js"
+  },
+  "noDesc": {
+    "message": "暂无简介",
+    "description": "2.0 public.js"
+  },
+  "previewEportfolio": {
+    "message": "预览档案",
+    "description": "2.0 public.js"
+  },
+  "personalHomepage": {
+    "message": "个人主页",
+    "description": "2.0 public.js"
+  },
+  "accountManage": {
+    "message": "账号管理",
+    "description": "2.0 public.js"
+  },
+  "afterImportPerssion": {
+    "message": "导入后的档案权限：",
+    "description": "2.0 public.js"
+  },
+  "importHwTips2": {
+    "message": "请先选择作业",
+    "description": "2.0 public.js"
+  },
+  "moveFolder": {
+    "message": "移动文件夹",
+    "description": "2.0 public.js"
+  },
+  "deleteFolder": {
+    "message": "删除文件夹",
+    "description": "2.0 public.js"
+  },
+  "editPhone": {
+    "message": "修改手机",
+    "description": "2.0 public.js"
+  },
+  "editMail": {
+    "message": "修改邮箱",
+    "description": "2.0 public.js"
+  },
+  "editPhone1": {
+    "message": "修改手机号",
+    "description": "2.0 public.js"
+  },
+  "inpitMail": {
+    "message": "请输入邮箱",
+    "description": "2.0 public.js"
+  },
+  "getFail": {
+    "message": "获取失败",
+    "description": "2.0 public.js"
+  },
+  "paramError": {
+    "message": "参数错误",
+    "description": "2.0 public.js"
+  },
+  "mailTip": {
+    "message": "邮箱格式不正确",
+    "description": "2.0 public.js"
+  },
+  "phoneTip": {
+    "message": "手机号格式不正确",
+    "description": "2.0 public.js"
+  },
+  "mailTip1": {
+    "message": "邮箱已被绑定",
+    "description": "2.0 public.js"
+  },
+  "phoneTip1": {
+    "message": "手机号已被绑定",
+    "description": "2.0 public.js"
+  },
+  "mailTip2": {
+    "message": "手机号已被使用",
+    "description": "2.0 public.js"
+  },
+  "phoneTip2": {
+    "message": "邮箱已被使用",
+    "description": "2.0 public.js"
+  },
+  "codeTip1": {
+    "message": "获取验证码过于频繁，请60s后再试",
+    "description": "2.0 public.js"
+  },
+  "codeTip2": {
+    "message": "获取验证码过于频繁",
+    "description": "2.0 public.js"
+  },
+  "codeTip3": {
+    "message": "验证码已过期",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin": {
+    "message": "账号密码登录",
+    "description": "2.0 public.js"
+  },
+  "account": {
+    "message": "用户名 / 手机号 / 邮箱",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip": {
+    "message": "短信登录仅支持中国大陆手机号",
+    "description": "2.0 public.js"
+  },
+  "goRegister": {
+    "message": "去注册",
+    "description": "2.0 public.js"
+  },
+  "phoneLogin": {
+    "message": "短信登录",
+    "description": "2.0 public.js"
+  },
+  "mimaLogin1": {
+    "message": "密码登录",
+    "description": "2.0 public.js"
+  },
+  "accountTip": {
+    "message": "请输入用户名/手机号/邮箱",
+    "description": "2.0 public.js"
+  },
+  "userNotExit": {
+    "message": "用户不存在",
+    "description": "2.0 public.js"
+  },
+  "loginFail": {
+    "message": "登录失败",
+    "description": "2.0 public.js"
+  },
+  "getAgain": {
+    "message": "重新获取",
+    "description": "2.0 public.js"
+  },
+  "phoneLoginTip1": {
+    "message": "手机号未注册",
+    "description": "2.0 public.js"
+  },
+  "phoneNumber1": {
+    "message": "手机号",
+    "description": "2.0 public.js"
+  },
+  "mail": {
+    "message": "邮箱",
+    "description": "2.0 public.js"
+  },
+  "otherTypeLogin": {
+    "message": "其他方式登录",
+    "description": "2.0 public.js"
+  },
+  "success": {
+    "message": "成功",
+    "description": "2.0 public.js"
+  },
+  "video": {
+    "message": "视频",
+    "description": "2.0 public.js"
+  },
+  "audio": {
+    "message": "音频",
+    "description": "2.0 public.js"
+  },
+  "picture": {
+    "message": "图片",
+    "description": "2.0 public.js"
+  },
+  "document": {
+    "message": "文档",
+    "description": "2.0 public.js"
+  },
+  "archive": {
+    "message": "压缩包",
+    "description": "2.0 public.js"
+  },
+  "link": {
+    "message": "链接",
+    "description": "2.0 public.js"
+  },
+  "richText": {
+    "message": "图文",
+    "description": "2.0 public.js"
+  },
+  "microCourse": {
+    "message": "微课",
+    "description": "2.0 public.js"
+  },
+  "otherResource": {
+    "message": "其他",
+    "description": "2.0 public.js"
+  },
+  "allType": {
+    "message": "全部类型",
+    "description": "2.0 public.js"
+  },
+  "saved": {
+    "message": "已保存",
+    "description": "2.0 public.js"
+  },
+  "modifySuccess": {
+    "message": "修改成功",
+    "description": "2.0 course.js"
+  },
+  "jqueryValidatorRequired": {
+    "message": "这是必填字段",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRemote": {
+    "message": "请修正此字段",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEmail": {
+    "message": "请输入有效的电子邮件地址",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorUrl": {
+    "message": "请输入有效的网址",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDate": {
+    "message": "请输入有效的日期",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDateISO": {
+    "message": "请输入有效的日期 (YYYY-MM-DD)",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorNumber": {
+    "message": "请输入有效的数字",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorDigits": {
+    "message": "只能输入数字",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorCreditcard": {
+    "message": "请输入有效的信用卡号码",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorEqualTo": {
+    "message": "你的输入不相同",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorExtension": {
+    "message": "请输入有效的后缀",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMaxlength": {
+    "message": "最多可以输入 {0} 个字符",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMinlength": {
+    "message": "最少要输入 {0} 个字符",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRangelength": {
+    "message": "请输入长度在 {0} 到 {1} 之间的字符串",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRange": {
+    "message": "请输入范围在 {0} 到 {1} 之间的数值",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMax": {
+    "message": "请输入不大于 {0} 的数值",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorMin": {
+    "message": "请输入不小于 {0} 的数值",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorLoginName": {
+    "message": "用户名不能包含中文、空格和特殊字符",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorPassWord": {
+    "message": "8-16位，必须同时包含字母和数字（区分大小写）",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorStudentID": {
+    "message": "请输入4-20位字母或数字，字母区分大小写",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorRealName": {
+    "message": "不能含有非法字符和空格",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsMobile": {
+    "message": "请正确填写您的手机号码",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsZipCode": {
+    "message": "请正确填写您的邮政编码",
+    "description": "2.0 public.js"
+  },
+  "jqueryValidatorIsEmail": {
+    "message": "请正确填写您的邮箱",
+    "description": "2.0 public.js"
+  },
+  "identityVerification": {
+    "message": "身份验证",
+    "description": "2.0 public.js"
+  },
+  "selectDomain": {
+    "message": "机构域名",
+    "description": "2.0 public.js"
+  },
+  "inputDomainTip": {
+    "message": "请输入您所在机构的域名",
+    "description": "2.0 public.js"
+  },
+  "networkError": {
+    "message": "出错了，请稍后重试",
+    "description": "2.0 public.js"
+  },
+  "unopenedError": {
+    "message": "抱歉，此机构没有开通SSO登录功能",
+    "description": "2.0 public.js"
+  },
+  "invalidDomainError": {
+    "message": "没有找到所在域，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "blankError": {
+    "message": "域名为空",
+    "description": "2.0 public.js"
+  },
+  "selectClassification": {
+    "message": "选择分类",
+    "description": "2.0 public.js"
+  },
+  "secondClassification": {
+    "message": "二级分类（可多选）",
+    "description": "2.0 public.js"
+  },
+  "alphabeta": {
+    "message": "按字母排序",
+    "description": "2.0 public.js"
+  },
+  "revevance": {
+    "message": "按相关度排序",
+    "description": "2.0 public.js"
+  },
+  "timeSort": {
+    "message": "按更新时间排序",
+    "description": "2.0 public.js"
+  },
+  "application": {
+    "message": "开放申请",
+    "description": "2.0 public.js"
+  },
+  "notApplication": {
+    "message": "未开放申请",
+    "description": "2.0 public.js"
+  },
+  "applicationTime": {
+    "message": "申请时间：",
+    "description": "2.0 public.js"
+  },
+  "enrolment": {
+    "message": "招生人数：",
+    "description": "2.0 public.js"
+  },
+  "tuition": {
+    "message": "学费",
+    "description": "2.0 public.js"
+  },
+  "credits": {
+    "message": "学分",
+    "description": "2.0 public.js"
+  },
+  "learningStyles": {
+    "message": "学习方式",
+    "description": "2.0 public.js"
+  },
+  "studyTime": {
+    "message": "学习时长",
+    "description": "2.0 public.js"
+  },
+  "certificate": {
+    "message": "证书",
+    "description": "2.0 public.js"
+  },
+  "contactUs": {
+    "message": "联系我们",
+    "description": "2.0 public.js"
+  },
+  "noProgram": {
+    "message": "没有搜索到相应的专业",
+    "description": "2.0 public.js"
+  },
+  "enroll": {
+    "message": "申请",
+    "description": "2.0 public.js"
+  },
+  "majorName": {
+    "message": "专业名称",
+    "description": "2.0 public.js"
+  },
+  "majorName2": {
+    "message": "专业",
+    "description": "2.0 public.js"
+  },
+  "enrollEmail": {
+    "message": "邮件地址",
+    "description": "2.0 public.js"
+  },
+  "enrollPhone": {
+    "message": "联系电话",
+    "description": "2.0 public.js"
+  },
+  "enrollOther": {
+    "message": "附加信息",
+    "description": "2.0 public.js"
+  },
+  "inputFullName": {
+    "message": "输入您的全名",
+    "description": "2.0 public.js"
+  },
+  "inputEmail": {
+    "message": "输入邮件地址",
+    "description": "2.0 public.js"
+  },
+  "inputOther": {
+    "message": "您的其他信息（选填）",
+    "description": "2.0 public.js"
+  },
+  "submitApply": {
+    "message": "提交申请",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg1": {
+    "message": "请填写您的姓名",
+    "description": "2.0 public.js"
+  },
+  "errorNameMsg2": {
+    "message": "姓名不能超过50个字符",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg1": {
+    "message": "请填写您的邮件地址",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg2": {
+    "message": "邮件地址不正确",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg3": {
+    "message": "该邮件地址已提交过申请，取消或者使用其他邮件地址",
+    "description": "2.0 public.js"
+  },
+  "errorMailMsg4": {
+    "message": "邮件最长应该不超过254个字符",
+    "description": "2.0 public.js"
+  },
+  "errorPhoneMsg": {
+    "message": "联系电话不正确",
+    "description": "2.0 public.js"
+  },
+  "errorOtherMsg": {
+    "message": "最长300个字符",
+    "description": "2.0 public.js"
+  },
+  "selectMajor": {
+    "message": "选择专业",
+    "description": "2.0 public.js"
+  },
+  "securityCodeExpired": {
+    "message": "动态安全码已失效",
+    "description": "2.0 public.js"
+  },
+  "securityCodeError": {
+    "message": "动态安全码错误",
+    "description": "2.0 public.js"
+  },
+  "enterCourse": {
+    "message": "进入课程",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "已申请，等待教师批准",
+    "description": "2.0 public.js"
+  },
+  "newVersion": {
+    "message": "新管理员端",
+    "description": "2.0 public.js"
+  },
+  "loginTip": {
+    "message": "请输入用户名或密码",
+    "description": "2.0 public.js"
+  },
+  "schoolBadge": {
+    "message": "校徽",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadge": {
+    "message": "上传校徽",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip1": {
+    "message": "格式：.png, .bmp, .jpg, .jpeg, .gif； 大小：不超过2M； 建议尺寸：120*120px",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip2": {
+    "message": "只能上传png,bmp,jpg,jpeg,gif的文件",
+    "description": "2.0 public.js"
+  },
+  "uploadSchoolBadgeTip3": {
+    "message": "上传的文件应小于 2MB",
+    "description": "2.0 public.js"
+  },
+  "uploadLogo": {
+    "message": "上传logo",
+    "description": "2.0 public.js"
+  },
+  "background": {
+    "message": "背景图",
+    "description": "2.0 public.js"
+  },
+  "setBackground": {
+    "message": "设置网站背景(最多选择5个)",
+    "description": "2.0 public.js"
+  },
+  "customImage": {
+    "message": "自定义图片",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip1": {
+    "message": "图片规格：png, bmp, jpg, jpeg, gif；大小：<=5M；尺寸：不小于1920*1080px（当您上传的图片未达到建议尺寸时,我们将按照上传图片的原始大小在页面居中显示）。",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip2": {
+    "message": "当您上传了多张图片时，按照上传的顺序显示。",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip3": {
+    "message": "只能上传png,bmp,jpg,jpeg,gif的文件",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip4": {
+    "message": "上传的文件应小于5MB",
+    "description": "2.0 public.js"
+  },
+  "uploadBackgroundTip5": {
+    "message": "不能超过5个",
+    "description": "2.0 public.js"
+  },
+  "editFriendLinks": {
+    "message": "编辑友情链接",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder1": {
+    "message": "请输入链接名",
+    "description": "2.0 public.js"
+  },
+  "friendLinksPlaceholder2": {
+    "message": "请按 http://www.ulearning.cn 的格式输入",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip1": {
+    "message": "说明：最多可添加10个链接地址，链接名称最多为20个字，拖动可进行重新排序。",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip2": {
+    "message": "最多添加10个",
+    "description": "2.0 public.js"
+  },
+  "addFriendLinks": {
+    "message": "添加链接",
+    "description": "2.0 public.js"
+  },
+  "resource1": {
+    "message": "类型",
+    "description": "2.0 public.js"
+  },
+  "resource2": {
+    "message": "分类",
+    "description": "2.0 public.js"
+  },
+  "resource3": {
+    "message": "视频",
+    "description": "2.0 public.js"
+  },
+  "resource4": {
+    "message": "音频",
+    "description": "2.0 public.js"
+  },
+  "resource5": {
+    "message": "图片",
+    "description": "2.0 public.js"
+  },
+  "resource6": {
+    "message": "文档",
+    "description": "2.0 public.js"
+  },
+  "resource7": {
+    "message": "链接",
+    "description": "2.0 public.js"
+  },
+  "searchResource": {
+    "message": "搜索资源",
+    "description": "2.0 public.js"
+  },
+  "resourceDetail": {
+    "message": "资源详情",
+    "description": "2.0 public.js"
+  },
+  "hotResource": {
+    "message": "热门资源",
+    "description": "2.0 public.js"
+  },
+  "uploadTime": {
+    "message": "上传时间",
+    "description": "2.0 public.js"
+  },
+  "viewCount": {
+    "message": "浏览量",
+    "description": "2.0 public.js"
+  },
+  "downloadCount": {
+    "message": "下载量",
+    "description": "2.0 public.js"
+  },
+  "name": {
+    "message": "名称",
+    "description": "2.0 public.js"
+  },
+  "searchNoResource": {
+    "message": "还未发布任何资源呐",
+    "description": "2.0 public.js"
+  },
+  "uploadFile": {
+    "message": "上传文件",
+    "description": "2.0 public.js"
+  },
+  "addLink": {
+    "message": "添加链接",
+    "description": "2.0 public.js"
+  },
+  "addRichtext": {
+    "message": "添加图文",
+    "description": "2.0 public.js"
+  },
+  "passwordRegTips": {
+    "message": "8-16位，须包含至少3种字符（数字、大写字母、小写字母或特殊符号）",
+    "description": "2.0 public.js"
+  },
+  "friendLinksTip3": {
+    "message": "不能超过20个字",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus1": {
+    "message": "课程已结束",
+    "description": "2.0 public.js"
+  },
+  "curCourseStatus2": {
+    "message": "课程未开始",
+    "description": "2.0 public.js"
+  },
+  "joinNum": {
+    "message": "人参与",
+    "description": "2.0 public.js"
+  },
+  "courseinfo1": {
+    "message": "开课院校",
+    "description": "2.0 public.js"
+  },
+  "courseinfo2": {
+    "message": "建议学习时长",
+    "description": "2.0 public.js"
+  },
+  "courseinfo3": {
+    "message": "学科分类",
+    "description": "2.0 public.js"
+  },
+  "courseinfo4": {
+    "message": "适用专业",
+    "description": "2.0 public.js"
+  },
+  "coursebtn1": {
+    "message": "立即体验",
+    "description": "2.0 public.js"
+  },
+  "coursebtn2": {
+    "message": "开始学习",
+    "description": "2.0 public.js"
+  },
+  "coursebtn3": {
+    "message": "加入班课",
+    "description": "2.0 public.js"
+  },
+  "coursebtn4": {
+    "message": "立即购买",
+    "description": "2.0 public.js"
+  },
+  "coursebtn5": {
+    "message": "去体验",
+    "description": "2.0 public.js"
+  },
+  "coursetime": {
+    "message": "课时",
+    "description": "2.0 public.js"
+  },
+  "courseTitle1": {
+    "message": "章节目录",
+    "description": "2.0 public.js"
+  },
+  "courseTitle2": {
+    "message": "课程介绍",
+    "description": "2.0 public.js"
+  },
+  "courseTitle3": {
+    "message": "课程大纲",
+    "description": "2.0 public.js"
+  },
+  "courseTitle4": {
+    "message": "课程团队",
+    "description": "2.0 public.js"
+  },
+  "courseTitle5": {
+    "message": "推荐教材",
+    "description": "2.0 public.js"
+  },
+  "courseTitle6": {
+    "message": "推荐课程",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook1": {
+    "message": "定价",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook2": {
+    "message": "作者",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook3": {
+    "message": "译者",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook4": {
+    "message": "国内",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook5": {
+    "message": "国外",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook6": {
+    "message": "出版社",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook7": {
+    "message": "作者简介",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook8": {
+    "message": "译者简介",
+    "description": "2.0 public.js"
+  },
+  "recommendTextbook9": {
+    "message": "教材特色",
+    "description": "2.0 public.js"
+  },
+  "send": {
+    "message": "发送",
+    "description": "2.0 public.js"
+  },
+  "login1": {
+    "message": "标题",
+    "description": "2.0 public.js"
+  },
+  "login2": {
+    "message": "页面布局",
+    "description": "2.0 public.js"
+  },
+  "login3": {
+    "message": "背景图片",
+    "description": "2.0 public.js"
+  },
+  "login4": {
+    "message": "保存设置",
+    "description": "2.0 public.js"
+  },
+  "login5": {
+    "message": "你的邮箱",
+    "description": "2.0 public.js"
+  },
+  "login6": {
+    "message": "输入你的邮箱地址",
+    "description": "2.0 public.js"
+  },
+  "login7": {
+    "message": "记住我",
+    "description": "2.0 public.js"
+  },
+  "login8": {
+    "message": "验证邮件",
+    "description": "2.0 public.js"
+  },
+  "login9": {
+    "message": "我们已向 {email} 发送了一封确认电子邮件，请在下面输入验证码以验证您的电子邮件。",
+    "description": "2.0 public.js"
+  },
+  "login10": {
+    "message": "发送了一封确认电子邮件，请在下面输入验证码以验证您的电子邮件。",
+    "description": "2.0 public.js"
+  },
+  "login11": {
+    "message": "邮件未收到？",
+    "description": "2.0 public.js"
+  },
+  "login12": {
+    "message": "账号已停用",
+    "description": "2.0 public.js"
+  },
+  "login13": {
+    "message": "您的账户已被停用，您将无法登录系统。请联系您所在组织的管理员以重新激活您的账户。",
+    "description": "2.0 public.js"
+  },
+  "login14": {
+    "message": "请输入您的邮件地址",
+    "description": "2.0 public.js"
+  },
+  "login15": {
+    "message": "邮件格式不正确，请输入正确的邮件地址",
+    "description": "2.0 public.js"
+  },
+  "login16": {
+    "message": "请输入您的密码",
+    "description": "2.0 public.js"
+  },
+  "login17": {
+    "message": "密码长度8-20位，必须包含字母与数字",
+    "description": "2.0 public.js"
+  },
+  "login18": {
+    "message": "传入信息不完整",
+    "description": "2.0 public.js"
+  },
+  "login19": {
+    "message": "账号不存在",
+    "description": "2.0 public.js"
+  },
+  "login20": {
+    "message": "账号处于待激活状态",
+    "description": "2.0 public.js"
+  },
+  "login21": {
+    "message": "账号被停用",
+    "description": "2.0 public.js"
+  },
+  "login22": {
+    "message": "错误次数达到了五次",
+    "description": "2.0 public.js"
+  },
+  "login23": {
+    "message": "账号已经被删除",
+    "description": "2.0 public.js"
+  },
+  "login24": {
+    "message": "密码错误",
+    "description": "2.0 public.js"
+  },
+  "login25": {
+    "message": "发送邮件过于频繁",
+    "description": "2.0 public.js"
+  },
+  "login26": {
+    "message": "发送邮件失败",
+    "description": "2.0 public.js"
+  },
+  "login27": {
+    "message": "信息失效",
+    "description": "2.0 public.js"
+  },
+  "firstLogin1": {
+    "message": "你好",
+    "description": "2.0 public.js"
+  },
+  "firstLogin2": {
+    "message": "用户同意书",
+    "description": "2.0 public.js"
+  },
+  "firstLogin3": {
+    "message": "完善你的个人信息",
+    "description": "2.0 public.js"
+  },
+  "firstLogin4": {
+    "message": "偏好设置",
+    "description": "2.0 public.js"
+  },
+  "firstLogin5": {
+    "message": "完成！",
+    "description": "2.0 public.js"
+  },
+  "firstLogin6": {
+    "message": "请您阅读以下协议与隐私政策，签署用户同意以使用",
+    "description": "2.0 public.js"
+  },
+  "firstLogin7": {
+    "message": "使用协议",
+    "description": "2.0 public.js"
+  },
+  "firstLogin8": {
+    "message": "此用户协议涉及用户如何使用本网站。如果您想查看完整的用户协议，请参阅完整的用户协议。",
+    "description": "2.0 public.js"
+  },
+  "firstLogin9": {
+    "message": "我同意",
+    "description": "2.0 public.js"
+  },
+  "firstLogin10": {
+    "message": "用户协议",
+    "description": "2.0 public.js"
+  },
+  "firstLogin11": {
+    "message": "隐私政策",
+    "description": "2.0 public.js"
+  },
+  "firstLogin12": {
+    "message": "此隐私声明与在本网站上创建的用户帐户有关。如果您想查看完整的文本，请参阅完整的隐私声明。",
+    "description": "2.0 public.js"
+  },
+  "firstLogin13": {
+    "message": "Cookies政策",
+    "description": "2.0 public.js"
+  },
+  "firstLogin14": {
+    "message": "我们的Cookie政策解释了什么是Cookie，我们如何使用Cookie，我们与之合作的第三方可能如何在本网站上使用Cookie以及您在Cookie方面的选择。如果您想查看完整文本，请参阅完整的Cookie政策。",
+    "description": "2.0 public.js"
+  },
+  "firstLogin15": {
+    "message": "你的全名",
+    "description": "2.0 public.js"
+  },
+  "firstLogin16": {
+    "message": "显示名",
+    "description": "2.0 public.js"
+  },
+  "firstLogin17": {
+    "message": "更改密码",
+    "description": "2.0 public.js"
+  },
+  "firstLogin18": {
+    "message": "语言",
+    "description": "2.0 public.js"
+  },
+  "firstLogin19": {
+    "message": "欢迎您来到Ulearning，祝您学习的旅途一帆风顺",
+    "description": "2.0 public.js"
+  },
+  "firstLogin20": {
+    "message": "完成设置",
+    "description": "2.0 public.js"
+  },
+  "firstLogin21": {
+    "message": "8-20位密码，包含数字与字母",
+    "description": "2.0 public.js"
+  },
+  "firstLogin22": {
+    "message": "请填写全名",
+    "description": "2.0 public.js"
+  },
+  "firstLogin23": {
+    "message": "全名不能多于128个字符",
+    "description": "2.0 public.js"
+  },
+  "firstLogin24": {
+    "message": "请填写显示名",
+    "description": "2.0 public.js"
+  },
+  "firstLogin25": {
+    "message": "显示名不能多于64个字符",
+    "description": "2.0 public.js"
+  },
+  "firstLogin26": {
+    "message": "密码格式不正确，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "firstLogin27": {
+    "message": "密码不一致，请重新输入",
+    "description": "2.0 public.js"
+  },
+  "firstLogin28": {
+    "message": "不能使用原密码",
+    "description": "2.0 public.js"
+  },
+  "cookieSettings": {
+    "message": "Cookies设置",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle1": {
+    "message": "Cookies偏好设置",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip1": {
+    "message": "我们的网站上使用三种cookie：必需、功能和第三方。您可以选择是否应用功能和开启第三方cookie。单击不同的cookie类别以了解每个类别的详细信息并更改默认设置。",
+    "description": "2.0 public.js"
+  },
+  "cookiesAll": {
+    "message": "一直开启",
+    "description": "2.0 public.js"
+  },
+  "cookiesMore": {
+    "message": "更多信息",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle2": {
+    "message": "必须的Cookies",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip2": {
+    "message": "必需的cookie对于基本网站功能是必要的。一些示例包括：传输网站所需的会话cookie、身份验证cookie和安全cookie。",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle3": {
+    "message": "功能性Cookie",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip3": {
+    "message": "功能性cookie增强了网站上的功能、性能和服务。一些示例包括：用于分析网站流量的cookie、用于用户研究的cookie以及用于显示未针对特定个人的广告的cookie。",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle4": {
+    "message": "第三方cookies",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip4": {
+    "message": "除了我们自己的 cookie 外，我们还可能使用各种第三方 cookie 来报告网站的使用统计数据并优化营销工作。",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle5": {
+    "message": "跟踪 cookie: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip5": {
+    "message": "跟踪网站行为并将其与其他指标联系起来，以更好地了解使用习惯。",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle6": {
+    "message": "优化 cookie: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip6": {
+    "message": "允许从不同的营销渠道实时跟踪用户转化，以评估它们的效果。",
+    "description": "2.0 public.js"
+  },
+  "cookiesTitle7": {
+    "message": "合作伙伴 cookie: ",
+    "description": "2.0 public.js"
+  },
+  "cookiesTip7": {
+    "message": "向我们的合作伙伴提供营销转化指标，以便他们优化他们的付费营销工作。",
+    "description": "2.0 public.js"
+  },
+  "policies": {
+    "message": "协议",
+    "description": "2.0 public.js"
+  },
+  "usePolicy": {
+    "message": "用户使用协议",
+    "description": "2.0 public.js"
+  },
+  "privacyPolicy": {
+    "message": "隐私协议",
+    "description": "2.0 public.js"
+  },
+  "cookiesPolicy": {
+    "message": "Cookies政策",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting1": {
+    "message": "我们使用cookie来记住您的登录详细信息，提供安全的登录体验，收集统计信息以优化网站功能。",
+    "description": "2.0 public.js"
+  },
+  "cookiesSetting2": {
+    "message": "您可以在我们的Cookie政策中查看我们使用的cookie类型的详细描述。点击“同意”以接受所有cookie或“拒绝”以仅允许必要的cookie。点击Cookies设置，进行详细的Cookies配置。",
+    "description": "2.0 public.js"
+  },
+  "refuse": {
+    "message": "拒绝",
+    "description": "2.0 public.js"
+  },
+  "agree": {
+    "message": "同意",
+    "description": "2.0 public.js"
+  },
+  "userPolicy": {
+    "message": "用户协议",
+    "description": "2.0 public.js"
+  },
+  "switchRole": {
+    "message": "切换角色",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "选择角色",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "选择你希望使用的角色",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "确认",
+    "description": "2.0 public.js"
+  },
+  "register01": {
+    "message": "邀请注册",
+    "description": "2.0 public.js"
+  },
+  "register02": {
+    "message": "已经有账号了？",
+    "description": "2.0 public.js"
+  },
+  "register03": {
+    "message": "去登录",
+    "description": "2.0 public.js"
+  },
+  "register04": {
+    "message": "勾选此复选框表示您同意",
+    "description": "2.0 public.js"
+  },
+  "register05": {
+    "message": "和",
+    "description": "2.0 public.js"
+  },
+  "register06": {
+    "message": "邀请已失效",
+    "description": "2.0 public.js"
+  },
+  "register07": {
+    "message": "邮件邀请已过期。如果您未完成注册，请联系管理员重新发送邀请。",
+    "description": "2.0 public.js"
+  },
+  "register08": {
+    "message": "注册已完成",
+    "description": "2.0 public.js"
+  },
+  "register09": {
+    "message": "邀请已完成，您可以使用电子邮件和密码登录。",
+    "description": "2.0 public.js"
+  },
+  "register10": {
+    "message": "验证码失效",
+    "description": "2.0 public.js"
+  },
+  "register11": {
+    "message": "验证码已经使用过",
+    "description": "2.0 public.js"
+  },
+  "register12": {
+    "message": "邮箱不存在",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "我们已向 {registeremail} 发送了一封注册邀请电子邮件。",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "二级站点信息错误",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "不存在邮箱对应的账号",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "登录账号不是该站点或子机构的账号",
+    "description": "2.0 public.js"
+  },
+  "register13": {
+    "message": "验证码已发送，请检查您的邮件",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "系统检测到此账号在 {textbooks} 课程学习中存在作弊等不当行为，系统已自动冻结此账号，请联系任课老师或平台进行处理",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "验证码不正确，请输入正确验证码",
+    "description": "2.0 public.js"
+  },
+  "sso": {
+    "message": "账号未开通",
+    "description": "2.0 public.js"
+  },
+  "sso1": {
+    "message": "该账号尚未开通服务，请联系您的管理员开通服务后，通过SSO方式登录。",
+    "description": "2.0 public.js"
+  },
+  "sso2": {
+    "message": "账号已在其他机构注册",
+    "description": "2.0 public.js"
+  },
+  "sso3": {
+    "message": "该账号已在其他机构注册，请您在已注册的机构登录。如果您需要在此机构登录，请联系管理员在本机构注册角色。",
+    "description": "2.0 public.js"
+  },
+  "sso4": {
+    "message": "SSO登录",
+    "description": "2.0 public.js"
+  },
+  "sso5": {
+    "message": "或者",
+    "description": "2.0 public.js"
+  },
+  "firstLogin29": {
+    "message": "全名将用于成绩单与正式报告",
+    "description": "2.0 public.js"
+  },
+  "firstLogin30": {
+    "message": "你在系统中显示的名字",
+    "description": "2.0 public.js"
+  },
+  "centralCertificationSystem": {
+    "message": "中央认证登录",
+    "description": "2.0 public.js"
+  },
+  "confirmUnbind": {
+    "message": "确定解除绑定？",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": "提醒",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "绑定Welink",
+    "description": "2.0 public.js"
+  },
+  "userNameReadOnlyTips": {
+    "message": "本校禁止学生修改姓名，如需修改，请联系学校管理员或客服",
+    "description": "2.0 public.js"
+  },
+  "moreOperation": {
+    "message": "更多操作",
+    "description": "2.0 public.js"
+  },
+  "loginTipsTitle": {
+    "message": "尊敬的用户：",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg1": {
+    "message": "您的登录密码已经 <strong class='text-red'>180</strong> 天没有更新了！",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg2": {
+    "message": "为了保护您账号的安全，请您修改登录密码，防止密码被恶意破解，提高账号的安全性。",
+    "description": "2.0 public.js"
+  },
+  "btn_changePwd": {
+    "message": "修改密码",
+    "description": "2.0 public.js"
+  },
+  "btn_nextTimeChangePwd": {
+    "message": "下次再说",
+    "description": "2.0 public.js"
+  },
+  "btn_refuseChangePwd": {
+    "message": "继续使用，不修改",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg3": {
+    "message": "您的密码过于简单，为保护您的账号安全，请您修改密码。",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "密码策略：8~16位，必须同时包含字母和数字（区分大小写）",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": "",
+    "description": "2.0 public.js"
+  },
+  "programPreviewEntry": {
+    "message": "预览设置",
+    "description": "2.0 public.js"
+  },
+  "selectProgramPreviewEntry": {
+    "message": "选择预览入口",
+    "description": "2.0 public.js"
+  },
+  "programDetailWarning": {
+    "message": "该资源未设置预览入口，请返回列表，点击【修改】添加预览入口！",
+    "description": "2.0 public.js"
+  },
+  "programPortalWarning": {
+    "message": "该资源未设置预览入口，请联系管理员添加预览入口！",
+    "description": "2.0 public.js"
+  },
+  "pleaseChooseEntranceTips": {
+    "message": "上传成功，请完成资源设置！",
+    "description": "2.0 public.js"
+  },
+  "selectEntrance": {
+    "message": "选择",
+    "description": "2.0 public.js"
+  },
+  "resource8": {
+    "message": "虚拟仿真资源",
+    "description": "2.0 public.js"
+  },
+  "organizationStatusWrong": {
+    "message": "机构状态错误，请联系机构管理员",
+    "description": "2.0 public.js"
+  },
+  "loginNumberLimit": {
+    "message": "可登录人数已超过限制，请稍后再试",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "虚仿资源",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "密码仅能支持字母（区分大小写）、数字和特殊符号（特殊符号为英语输入法下!@#$%^&*()-_+={}[]:;',./<>?|）",
+    "description": "2.0 public.js"
+  },
+  "backToManageCenter": {
+    "message": "返回管理中心",
+    "description": "2.0 public.js"
+  },
+  "joinCourseSuccess": {
+    "message": "加入课程成功",
+    "description": "2.0 public.js"
+  },
+  "joinCourseFailure": {
+    "message": "加入课程失败",
+    "description": "2.0 public.js"
+  },
+  "AiWorkbench": {
+    "message": "工作台",
+    "description": "2.0 public.js"
+  },
+  "notOpen": {
+    "message": "未开启",
+    "description": "2.0 public.js"
+  },
+  "AIIframeLoading": {
+    "message": "加载中请稍后...",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "您的登录密码已经 <strong class='text-red'> {dayNum} </strong> 天没有更新了！",
+    "description": "2.0 public.js"
+  },
+  "newAccount": {
+    "message": "账号注册",
+    "description": "2.0 public.js"
+  },
+  "alreadyEmail": {
+    "message": "邮箱已被注册",
+    "description": "2.0 public.js"
+  },
+  "emailTimesUsedUp": {
+    "message": "今日发送次数已达上限",
+    "description": "2.0 public.js"
+  },
+  "getCodeTooManyTips": {
+    "message": "获取验证码过于频繁，请60s后再试",
+    "description": "2.0 public.js"
+  },
+  "SignUp": {
+    "message": "注册",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips1": {
+    "message": "密码要求：",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips2": {
+    "message": "8-16个字符",
+    "description": "2.0 public.js"
+  },
+  "signUpPwdTips3": {
+    "message": "需包含数字、字母、特殊符号",
+    "description": "2.0 public.js"
+  },
+  "pwdValidatorTips": {
+    "message": "8-16位，须包含至少3种字符（数字、大写字母、小写字母或特殊符号）",
+    "description": "2.0 public.js"
+  },
+  "getCode": {
+    "message": "获取验证码",
+    "description": "2.0 public.js"
+  },
+  "enter4DigitCode": {
+    "message": "填写4位数验证码",
+    "description": "2.0 public.js"
+  },
+  "registerTips": {
+    "message": "目前仅支持学生注册；注册后，您的邮箱即为您的用户名。",
+    "description": "2.0 public.js"
+  },
+  "agreementsTips": {
+    "message": "点击注册，即表示您同意并接受我们的 <a href=\"../agreements/user.html\" target=\"_blank\">用户协议</a> 和 <a href=\"../agreements/privacy.html\" target=\"_blank\">隐私政策</a>。",
+    "description": "2.0 public.js"
+  },
+  "noAccounts": {
+    "message": "没有账号？",
+    "description": "2.0 public.js"
+  },
+  "signUpNow": {
+    "message": "立即注册",
+    "description": "2.0 public.js"
+  },
+  "loginAccount": {
+    "message": "用户名 / 邮箱",
+    "description": "2.0 public.js"
+  },
+  "loginAccountTips": {
+    "message": "请输入用户名/邮箱",
+    "description": "2.0 public.js"
+  },
+  "userNameUsed": {
+    "message": "用户已存在",
+    "description": "2.0 public.js"
+  },
+  "registerError": {
+    "message": "注册失败",
+    "description": "2.0 public.js"
+  },
+  "registerSuccessTips": {
+    "message": "恭喜您完成注册。",
+    "description": "2.0 public.js"
+  },
+  "feedback": {
+    "message": "问题反馈",
+    "description": "2.0 public.js"
+  },
+  "userManual": {
+    "message": "用户手册",
+    "description": "2.0 public.js"
+  },
+  "authentication": {
+    "message": "身份验证",
+    "description": "2.0 public.js"
+  },
+  "identityVerificationCode": {
+    "message": "身份认证码",
+    "description": "2.0 public.js"
+  },
+  "myProfile": {
+    "message": "我的档案",
+    "description": "2.0 public.js"
+  },
+  "coursewareLibrary": {
+    "message": "课件库",
+    "description": "2.0 public.js"
+  },
+  "myCloud": {
+    "message": "我的云盘",
+    "description": "2.0 public.js"
+  }
+}

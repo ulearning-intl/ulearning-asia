@@ -63,6 +63,22 @@
     "message": "回到首页",
     "description": "2.0 public.js"
   },
+  "switchRole": {
+    "message": "切换角色",
+    "description": "2.0 public.js"
+  },
+  "selectRole": {
+    "message": "选择角色",
+    "description": "2.0 public.js"
+  },
+  "switchRoleDesc": {
+    "message": "选择你希望使用的角色",
+    "description": "2.0 public.js"
+  },
+  "switchRoleSubmit": {
+    "message": "确认",
+    "description": "2.0 public.js"
+  },
   "personalPage": {
     "message": "个人资料",
     "description": "2.0 public.js"
@@ -157,7 +173,7 @@
   },
   "totalCourse": {
     "message": "共{n}门课程",
-    "description": "自定义门户网站 -> 课程 (公开课程等)"
+    "description": "2.0 public.js"
   },
   "departments": {
     "message": "院系",
@@ -189,7 +205,7 @@
   },
   "joinCourseCount": {
     "message": "参与人数：{n}",
-    "description": "自定义门户网站 -> 上方搜索框搜索 \n 自定义门户网站 -> 课程(不包括公开课) \n 自定义门户网站 -> 课程详情 \n 管理员账户 -> 系统管理 -> 网站设置 -> 菜单式"
+    "description": "2.0 public.js"
   },
   "customNavigation": {
     "message": "自定义导航",
@@ -279,6 +295,14 @@
     "message": "加入课程",
     "description": "2.0 public.js"
   },
+  "enterCourse": {
+    "message": "进入课程",
+    "description": "2.0 public.js"
+  },
+  "waitingApply": {
+    "message": "已申请，等待教师批准",
+    "description": "2.0 public.js"
+  },
   "searchNoCourse": {
     "message": "没有搜索到相应的课程",
     "description": "2.0 public.js"
@@ -289,7 +313,7 @@
   },
   "netError": {
     "message": "网络错误，点击{reloadButton}",
-    "description": "自定义门户网站 -> 课程 (公开课程等)"
+    "description": "2.0 public.js"
   },
   "reload": {
     "message": "重新加载",
@@ -305,11 +329,11 @@
   },
   "studyTimesOf": {
     "message": "{n}次学习",
-    "description": "自定义门户网站 -> 公开课程 \n 自定义门户网站 -> 上方搜索框搜索"
+    "description": "2.0 public.js"
   },
   "totalSearchResult": {
     "message": "共搜索到与 “{keyword}” 相关的{n}个结果",
-    "description": "自定义门户网站 -> 上方搜索框搜索"
+    "description": "2.0 public.js"
   },
   "schoolCourse": {
     "message": "校内课程",
@@ -695,6 +719,14 @@
     "message": "请选择",
     "description": "2.0 public.js"
   },
+  "confirmUnbind": {
+    "message": "确定解除绑定？",
+    "description": "2.0 public.js"
+  },
+  "remind": {
+    "message": "提醒",
+    "description": "2.0 public.js"
+  },
   "normalClass": {
     "message": "自然班级",
     "description": "2.0 public.js"
@@ -717,6 +749,10 @@
   },
   "bindWX": {
     "message": "绑定微信",
+    "description": "2.0 public.js"
+  },
+  "bindWelink": {
+    "message": "绑定Welink",
     "description": "2.0 public.js"
   },
   "phoneNum": {
@@ -809,6 +845,10 @@
   },
   "wrongVerificationCode": {
     "message": "验证码错误",
+    "description": "2.0 public.js"
+  },
+  "wrongVerificationCodeTip": {
+    "message": "验证码不正确，请输入正确验证码",
     "description": "2.0 public.js"
   },
   "bindSuccess": {
@@ -917,6 +957,10 @@
   },
   "userInfoTips30": {
     "message": "修改密码失败！",
+    "description": "2.0 public.js"
+  },
+  "userInfoTips31": {
+    "message": "密码仅能支持字母（区分大小写）、数字和特殊符号（特殊符号为英语输入法下!@#$%^&*()-_+={}[]:;',./<>?|）",
     "description": "2.0 public.js"
   },
   "fixedNavText1": {
@@ -1117,6 +1161,10 @@
   },
   "studyEportfolio": {
     "message": "学业档案",
+    "description": "2.0 public.js"
+  },
+  "someonesEportfolio": {
+    "message": "",
     "description": "2.0 public.js"
   },
   "ofEportfolio": {
@@ -1445,7 +1493,7 @@
   },
   "modifySuccess": {
     "message": "修改成功",
-    "description": "2.0 course.js"
+    "description": "2.0 public.js"
   },
   "jqueryValidatorRequired": {
     "message": "这是必填字段",
@@ -1711,22 +1759,6 @@
     "message": "选择专业",
     "description": "2.0 public.js"
   },
-  "securityCodeExpired": {
-    "message": "动态安全码已失效",
-    "description": "2.0 public.js"
-  },
-  "securityCodeError": {
-    "message": "动态安全码错误",
-    "description": "2.0 public.js"
-  },
-  "enterCourse": {
-    "message": "进入课程",
-    "description": "2.0 public.js"
-  },
-  "waitingApply": {
-    "message": "已申请，等待教师批准",
-    "description": "2.0 public.js"
-  },
   "newVersion": {
     "message": "新管理员端",
     "description": "2.0 public.js"
@@ -1811,6 +1843,10 @@
     "message": "最多添加10个",
     "description": "2.0 public.js"
   },
+  "friendLinksTip3": {
+    "message": "不能超过20个字",
+    "description": "2.0 public.js"
+  },
   "addFriendLinks": {
     "message": "添加链接",
     "description": "2.0 public.js"
@@ -1843,6 +1879,14 @@
     "message": "链接",
     "description": "2.0 public.js"
   },
+  "resource8": {
+    "message": "虚拟仿真资源",
+    "description": "2.0 public.js"
+  },
+  "resource9": {
+    "message": "虚仿资源",
+    "description": "2.0 public.js"
+  },
   "searchResource": {
     "message": "搜索资源",
     "description": "2.0 public.js"
@@ -1873,26 +1917,6 @@
   },
   "searchNoResource": {
     "message": "还未发布任何资源呐",
-    "description": "2.0 public.js"
-  },
-  "uploadFile": {
-    "message": "上传文件",
-    "description": "2.0 public.js"
-  },
-  "addLink": {
-    "message": "添加链接",
-    "description": "2.0 public.js"
-  },
-  "addRichtext": {
-    "message": "添加图文",
-    "description": "2.0 public.js"
-  },
-  "passwordRegTips": {
-    "message": "8-16位，须包含至少3种字符（数字、大写字母、小写字母或特殊符号）",
-    "description": "2.0 public.js"
-  },
-  "friendLinksTip3": {
-    "message": "不能超过20个字",
     "description": "2.0 public.js"
   },
   "curCourseStatus1": {
@@ -2047,10 +2071,6 @@
     "message": "我们已向 {email} 发送了一封确认电子邮件，请在下面输入验证码以验证您的电子邮件。",
     "description": "2.0 public.js"
   },
-  "login10": {
-    "message": "发送了一封确认电子邮件，请在下面输入验证码以验证您的电子邮件。",
-    "description": "2.0 public.js"
-  },
   "login11": {
     "message": "邮件未收到？",
     "description": "2.0 public.js"
@@ -2117,6 +2137,26 @@
   },
   "login27": {
     "message": "信息失效",
+    "description": "2.0 public.js"
+  },
+  "login28": {
+    "message": "我们已向 {registeremail} 发送了一封注册邀请电子邮件。",
+    "description": "2.0 public.js"
+  },
+  "login29": {
+    "message": "二级站点信息错误",
+    "description": "2.0 public.js"
+  },
+  "login30": {
+    "message": "不存在邮箱对应的账号",
+    "description": "2.0 public.js"
+  },
+  "login31": {
+    "message": "登录账号不是该站点或子机构的账号",
+    "description": "2.0 public.js"
+  },
+  "login32": {
+    "message": "系统检测到此账号在 {textbooks} 课程学习中存在作弊等不当行为，系统已自动冻结此账号，请联系任课老师或平台进行处理",
     "description": "2.0 public.js"
   },
   "firstLogin1": {
@@ -2231,124 +2271,12 @@
     "message": "不能使用原密码",
     "description": "2.0 public.js"
   },
-  "cookieSettings": {
-    "message": "Cookies设置",
+  "firstLogin29": {
+    "message": "全名将用于成绩单与正式报告",
     "description": "2.0 public.js"
   },
-  "cookiesTitle1": {
-    "message": "Cookies偏好设置",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip1": {
-    "message": "我们的网站上使用三种cookie：必需、功能和第三方。您可以选择是否应用功能和开启第三方cookie。单击不同的cookie类别以了解每个类别的详细信息并更改默认设置。",
-    "description": "2.0 public.js"
-  },
-  "cookiesAll": {
-    "message": "一直开启",
-    "description": "2.0 public.js"
-  },
-  "cookiesMore": {
-    "message": "更多信息",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle2": {
-    "message": "必须的Cookies",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip2": {
-    "message": "必需的cookie对于基本网站功能是必要的。一些示例包括：传输网站所需的会话cookie、身份验证cookie和安全cookie。",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle3": {
-    "message": "功能性Cookie",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip3": {
-    "message": "功能性cookie增强了网站上的功能、性能和服务。一些示例包括：用于分析网站流量的cookie、用于用户研究的cookie以及用于显示未针对特定个人的广告的cookie。",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle4": {
-    "message": "第三方cookies",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip4": {
-    "message": "除了我们自己的 cookie 外，我们还可能使用各种第三方 cookie 来报告网站的使用统计数据并优化营销工作。",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle5": {
-    "message": "跟踪 cookie: ",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip5": {
-    "message": "跟踪网站行为并将其与其他指标联系起来，以更好地了解使用习惯。",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle6": {
-    "message": "优化 cookie: ",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip6": {
-    "message": "允许从不同的营销渠道实时跟踪用户转化，以评估它们的效果。",
-    "description": "2.0 public.js"
-  },
-  "cookiesTitle7": {
-    "message": "合作伙伴 cookie: ",
-    "description": "2.0 public.js"
-  },
-  "cookiesTip7": {
-    "message": "向我们的合作伙伴提供营销转化指标，以便他们优化他们的付费营销工作。",
-    "description": "2.0 public.js"
-  },
-  "policies": {
-    "message": "协议",
-    "description": "2.0 public.js"
-  },
-  "usePolicy": {
-    "message": "用户使用协议",
-    "description": "2.0 public.js"
-  },
-  "privacyPolicy": {
-    "message": "隐私协议",
-    "description": "2.0 public.js"
-  },
-  "cookiesPolicy": {
-    "message": "Cookies政策",
-    "description": "2.0 public.js"
-  },
-  "cookiesSetting1": {
-    "message": "我们使用cookie来记住您的登录详细信息，提供安全的登录体验，收集统计信息以优化网站功能。",
-    "description": "2.0 public.js"
-  },
-  "cookiesSetting2": {
-    "message": "您可以在我们的Cookie政策中查看我们使用的cookie类型的详细描述。点击“同意”以接受所有cookie或“拒绝”以仅允许必要的cookie。点击Cookies设置，进行详细的Cookies配置。",
-    "description": "2.0 public.js"
-  },
-  "refuse": {
-    "message": "拒绝",
-    "description": "2.0 public.js"
-  },
-  "agree": {
-    "message": "同意",
-    "description": "2.0 public.js"
-  },
-  "userPolicy": {
-    "message": "用户协议",
-    "description": "2.0 public.js"
-  },
-  "switchRole": {
-    "message": "切换角色",
-    "description": "2.0 public.js"
-  },
-  "selectRole": {
-    "message": "选择角色",
-    "description": "2.0 public.js"
-  },
-  "switchRoleDesc": {
-    "message": "选择你希望使用的角色",
-    "description": "2.0 public.js"
-  },
-  "switchRoleSubmit": {
-    "message": "确认",
+  "firstLogin30": {
+    "message": "你在系统中显示的名字",
     "description": "2.0 public.js"
   },
   "register01": {
@@ -2399,32 +2327,8 @@
     "message": "邮箱不存在",
     "description": "2.0 public.js"
   },
-  "login28": {
-    "message": "我们已向 {registeremail} 发送了一封注册邀请电子邮件。",
-    "description": "2.0 public.js"
-  },
-  "login29": {
-    "message": "二级站点信息错误",
-    "description": "2.0 public.js"
-  },
-  "login30": {
-    "message": "不存在邮箱对应的账号",
-    "description": "2.0 public.js"
-  },
-  "login31": {
-    "message": "登录账号不是该站点或子机构的账号",
-    "description": "2.0 public.js"
-  },
   "register13": {
     "message": "验证码已发送，请检查您的邮件",
-    "description": "2.0 public.js"
-  },
-  "login32": {
-    "message": "系统检测到此账号在 {textbooks} 课程学习中存在作弊等不当行为，系统已自动冻结此账号，请联系任课老师或平台进行处理",
-    "description": "2.0 public.js"
-  },
-  "wrongVerificationCodeTip": {
-    "message": "验证码不正确，请输入正确验证码",
     "description": "2.0 public.js"
   },
   "sso": {
@@ -2451,34 +2355,6 @@
     "message": "或者",
     "description": "2.0 public.js"
   },
-  "firstLogin29": {
-    "message": "全名将用于成绩单与正式报告",
-    "description": "2.0 public.js"
-  },
-  "firstLogin30": {
-    "message": "你在系统中显示的名字",
-    "description": "2.0 public.js"
-  },
-  "centralCertificationSystem": {
-    "message": "中央认证登录",
-    "description": "2.0 public.js"
-  },
-  "confirmUnbind": {
-    "message": "确定解除绑定？",
-    "description": "2.0 public.js"
-  },
-  "remind": {
-    "message": "提醒",
-    "description": "2.0 public.js"
-  },
-  "bindWelink": {
-    "message": "绑定Welink",
-    "description": "2.0 public.js"
-  },
-  "userNameReadOnlyTips": {
-    "message": "本校禁止学生修改姓名，如需修改，请联系学校管理员或客服",
-    "description": "2.0 public.js"
-  },
   "moreOperation": {
     "message": "更多操作",
     "description": "2.0 public.js"
@@ -2495,6 +2371,18 @@
     "message": "为了保护您账号的安全，请您修改登录密码，防止密码被恶意破解，提高账号的安全性。",
     "description": "2.0 public.js"
   },
+  "loginTipsMsg3": {
+    "message": "您的密码过于简单，为保护您的账号安全，请您修改密码。",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg4": {
+    "message": "密码策略：8~16位，必须同时包含字母和数字（区分大小写）",
+    "description": "2.0 public.js"
+  },
+  "loginTipsMsg5": {
+    "message": "您的登录密码已经 <strong class='text-red'> {dayNum} </strong> 天没有更新了！",
+    "description": "2.0 public.js"
+  },
   "btn_changePwd": {
     "message": "修改密码",
     "description": "2.0 public.js"
@@ -2507,16 +2395,12 @@
     "message": "继续使用，不修改",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg3": {
-    "message": "您的密码过于简单，为保护您的账号安全，请您修改密码。",
+  "organizationStatusWrong": {
+    "message": "机构状态错误，请联系机构管理员",
     "description": "2.0 public.js"
   },
-  "loginTipsMsg4": {
-    "message": "密码策略：8~16位，必须同时包含字母和数字（区分大小写）",
-    "description": "2.0 public.js"
-  },
-  "someonesEportfolio": {
-    "message": "",
+  "loginNumberLimit": {
+    "message": "可登录人数已超过限制，请稍后再试",
     "description": "2.0 public.js"
   },
   "programPreviewEntry": {
@@ -2543,26 +2427,6 @@
     "message": "选择",
     "description": "2.0 public.js"
   },
-  "resource8": {
-    "message": "虚拟仿真资源",
-    "description": "2.0 public.js"
-  },
-  "organizationStatusWrong": {
-    "message": "机构状态错误，请联系机构管理员",
-    "description": "2.0 public.js"
-  },
-  "loginNumberLimit": {
-    "message": "可登录人数已超过限制，请稍后再试",
-    "description": "2.0 public.js"
-  },
-  "resource9": {
-    "message": "虚仿资源",
-    "description": "2.0 public.js"
-  },
-  "userInfoTips31": {
-    "message": "密码仅能支持字母（区分大小写）、数字和特殊符号（特殊符号为英语输入法下!@#$%^&*()-_+={}[]:;',./<>?|）",
-    "description": "2.0 public.js"
-  },
   "backToManageCenter": {
     "message": "返回管理中心",
     "description": "2.0 public.js"
@@ -2585,10 +2449,6 @@
   },
   "AIIframeLoading": {
     "message": "加载中请稍后...",
-    "description": "2.0 public.js"
-  },
-  "loginTipsMsg5": {
-    "message": "您的登录密码已经 <strong class='text-red'> {dayNum} </strong> 天没有更新了！",
     "description": "2.0 public.js"
   },
   "newAccount": {
@@ -2687,16 +2547,16 @@
     "message": "身份认证码",
     "description": "2.0 public.js"
   },
-  "myProfile": {
-    "message": "我的档案",
-    "description": "2.0 public.js"
-  },
   "coursewareLibrary": {
     "message": "课件库",
     "description": "2.0 public.js"
   },
   "myCloud": {
     "message": "我的云盘",
+    "description": "2.0 public.js"
+  },
+  "myProfile": {
+    "message": "我的档案",
     "description": "2.0 public.js"
   }
 }
