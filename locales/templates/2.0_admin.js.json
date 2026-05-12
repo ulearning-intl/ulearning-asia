@@ -41,15 +41,15 @@
   },
   "totalOfItems": {
     "message": "共{n}条",
-    "description": "2.0 admin.js"
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/notDeclared 同上 \n https://courseweb.tongshike.cn/admin/#/courseDeclaration/pending 同上 \n 管理员账号 -> 系统管理 -> 管理员设置 https://courseweb.tongshike.cn/admin/#/main/system/administrator \n https://courseweb.tongshike.cn/admin/#/check \n 管理员账号 -> 课程管理 -> 本校自建MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/local \n 管理员账号 -> 课程管理 -> 外部引用MOOC https://courseweb.tongshike.cn/admin/#/main/teaching/course/open/foreign \n 管理员账号 -> 课程管理 -> 本校课程 https://courseweb.tongshike.cn/admin/#/main/teaching/course/school \n 管理员账号 -> 课程管理 -> 本校自建MOOC -> 选课名单 \n 管理员账号 -> 考试管理 https://courseweb.tongshike.cn/admin/#/main/teaching/exam \n 管理员账号 -> 教师管理 https://courseweb.tongshike.cn/admin/#/main/teaching/teacher \n 管理员账号 -> 学生管理 https://courseweb.tongshike.cn/admin/#/main/teaching/student \n 管理员账号 -> 自然班级 https://courseweb.tongshike.cn/admin/#/main/teaching/naturalClass \n 管理员账号 -> 通知公告 https://courseweb.tongshike.cn/admin/#/main/teaching/notice"
   },
   "totalOfVideo": {
     "message": "共{n}个视频",
-    "description": "2.0 admin.js"
+    "description": "https://courseweb.tongshike.cn/admin/#/main/dataCenter/interactionTextbook \n https://courseweb.tongshike.cn/admin/#/main/uaDataAnalysis"
   },
   "numberOf": {
     "message": "{n}个",
-    "description": "2.0 admin.js"
+    "description": "https://courseweb.tongshike.cn/admin/#/courseDeclaration/declared 国际版用不到这个页面，但是这个页面也做了国际化，所以一并处理了"
   },
   "search": {
     "message": "搜索",
@@ -89,18 +89,6 @@
   },
   "student": {
     "message": "学生",
-    "description": "2.0 admin.js"
-  },
-  "administrator1": {
-    "message": "系统管理员",
-    "description": "2.0 admin.js"
-  },
-  "administrator2": {
-    "message": "二级管理员",
-    "description": "2.0 admin.js"
-  },
-  "administrator0": {
-    "message": "管理员",
     "description": "2.0 admin.js"
   },
   "orderNumber": {
@@ -291,7 +279,7 @@
     "message": "模块",
     "description": "2.0 admin.js"
   },
-  "permissionText": {
+  "permission": {
     "message": "权限",
     "description": "2.0 admin.js"
   },
@@ -359,10 +347,6 @@
     "message": "查看和管理子系统",
     "description": "2.0 admin.js"
   },
-  "permissionTips11": {
-    "message": "家长管理（添加/修改/删除家长，进入家长帐号）",
-    "description": "2.0 admin.js"
-  },
   "addAdminTips1": {
     "message": "请选择角色",
     "description": "2.0 admin.js"
@@ -375,28 +359,8 @@
     "message": "保存成功",
     "description": "2.0 admin.js"
   },
-  "necessary": {
-    "message": "必填项不可为空",
-    "description": "2.0 admin.js"
-  },
   "saveFailed": {
     "message": "保存失败",
-    "description": "2.0 admin.js"
-  },
-  "cloudMeetingRoomManagement": {
-    "message": "云会议室管理",
-    "description": "2.0 admin.js"
-  },
-  "exportBtn": {
-    "message": "导出",
-    "description": "2.0 admin.js"
-  },
-  "exportMethod1": {
-    "message": "导出CSV",
-    "description": "2.0 admin.js"
-  },
-  "exportMethod2": {
-    "message": "导出XLSX",
     "description": "2.0 admin.js"
   },
   "subsystem.mobileEvaluation": {
@@ -2079,26 +2043,6 @@
     "message": "请选择要转为不申报的课程",
     "description": "2.0 admin.js"
   },
-  "courseDeclarationAdmin.courseNum": {
-    "message": "课程编号",
-    "description": "2.0 admin.js"
-  },
-  "courseDeclarationAdmin.beSemeter": {
-    "message": "所属学期",
-    "description": "2.0 admin.js"
-  },
-  "courseDeclarationAdmin.teacherNum": {
-    "message": "教师工号",
-    "description": "2.0 admin.js"
-  },
-  "courseDeclarationAdmin.beLevel": {
-    "message": "所属学段",
-    "description": "2.0 admin.js"
-  },
-  "courseDeclarationAdmin.createType": {
-    "message": "创建方式",
-    "description": "2.0 admin.js"
-  },
   "systemAdmin.addAdministrator": {
     "message": "添加管理员",
     "description": "2.0 admin.js"
@@ -2147,10 +2091,6 @@
     "message": "确认删除本院系？",
     "description": "2.0 admin.js"
   },
-  "systemAdmin.systemAdminTips24": {
-    "message": "停用后用户将无法登录，确定停用吗？",
-    "description": "2.0 admin.js"
-  },
   "systemAdmin.classificationName": {
     "message": "分类名称",
     "description": "2.0 admin.js"
@@ -2193,34 +2133,6 @@
   },
   "systemAdmin.websiteName": {
     "message": "网站名称",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.websiteicon": {
-    "message": "网站图标",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.chooseImage": {
-    "message": "选择图片",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.chooseImageLoading": {
-    "message": "上传中",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.chooseImageTips1": {
-    "message": "ico文件必须小于500kb",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.uploadTip": {
-    "message": "建议使用48*48的ico文件",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.timeAreaSetting": {
-    "message": "时区设置",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.timeAreaSettingTip": {
-    "message": "请设置时区",
     "description": "2.0 admin.js"
   },
   "systemAdmin.systemAdminTips9": {
@@ -2307,168 +2219,8 @@
     "message": "如果您仅想让学生有个单独的登录入口建议使用该模板",
     "description": "2.0 admin.js"
   },
-  "systemAdmin.systemAdminTips21": {
-    "message": "该账号已注销，确定恢复吗？",
-    "description": "2.0 admin.js"
-  },
   "systemAdmin.passwordLengthTips": {
     "message": "请输入六位及以上密码",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.fileUploadingTip": {
-    "message": "附件上传中",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.choose": {
-    "message": "请选择",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis1": {
-    "message": "SIS类型",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis2": {
-    "message": "SISClientId",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis2Tip": {
-    "message": "请输入SISClientId",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis3": {
-    "message": "SISUsername",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis3Tip": {
-    "message": "请输入SISUsername",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis4": {
-    "message": "SISPassword",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis4Tip": {
-    "message": "请输入SISPassword",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis5": {
-    "message": "SISUrl",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sis5Tip": {
-    "message": "请输入SISUrl",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sisSync": {
-    "message": "SIS同步",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sisSyncLoading": {
-    "message": "SIS同步中...",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.sisErrorTip": {
-    "message": "SIS同步失败，是否前往网站管理配置SIS信息？",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.orgResource": {
-    "message": "机构资源",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.resetbutton": {
-    "message": "重置",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.resettiptitle": {
-    "message": "重置 Token",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.resettipbody": {
-    "message": "该操作会重置 SIS Sync Token，是否继续？",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.resourcestatus": {
-    "message": "资源状态",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.site": {
-    "message": "站点",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.instnum": {
-    "message": "机构数量",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.totalquota1": {
-    "message": "总配额",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.usernum": {
-    "message": "用户数量",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.totalquota2": {
-    "message": "总配额",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.effecttime": {
-    "message": "有效时间",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.LVCMax": {
-    "message": "LVC并发数",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.concurrencyNum": {
-    "message": "并发数",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.over": {
-    "message": "结束",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.resetsuccess": {
-    "message": "重置成功",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.forever": {
-    "message": "永久有效",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.systemAdminTips23": {
-    "message": "请输入确认密码",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.stopSuccess": {
-    "message": "停用成功",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.activeSuccess": {
-    "message": "激活成功",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.activeFail": {
-    "message": "激活失败",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.adminTip1": {
-    "message": "请先选择要停用的管理员",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.adminTip2": {
-    "message": "请先选择要删除的管理员",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.confirmText": {
-    "message": "确定删除",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.deleteConfirmError": {
-    "message": "输入错误",
-    "description": "2.0 admin.js"
-  },
-  "systemAdmin.systemAdminTips29": {
-    "message": "删除后用户将无法登录，请在下方输入'{confirmText}'后进行确定删除操作",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.inSchoolCourse": {
@@ -2701,7 +2453,7 @@
   },
   "teachingAdmin.timeBetween": {
     "message": "{startTime} 至 {endTime}",
-    "description": "2.0 admin.js"
+    "description": "管理员账号 -> 数据中心 -> 教学动态 \n 管理员账号 -> 考试管理"
   },
   "teachingAdmin.viewScore": {
     "message": "查看成绩",
@@ -2717,7 +2469,7 @@
   },
   "teachingAdmin.publishAnnouncement2": {
     "message": "发布公告",
-    "description": "2.0 admin.js"
+    "description": "在教学活动页面，不要与上面的publishAnnouncement共享"
   },
   "teachingAdmin.announcementName": {
     "message": "公告名称",
@@ -2831,40 +2583,16 @@
     "message": "输入教师姓名或用户名搜索",
     "description": "2.0 admin.js"
   },
-  "teachingAdmin.patchingAdminTips27": {
-    "message": "输入家长姓名或用户名搜索",
-    "description": "2.0 admin.js"
-  },
   "teachingAdmin.batchOpenTeaAccount": {
     "message": "批量开通教师账号",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.batchOpenPatAccount": {
-    "message": "批量开通家长账号",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.addTeacher": {
     "message": "添加教师",
     "description": "2.0 admin.js"
   },
-  "teachingAdmin.addParent": {
-    "message": "添加家长",
-    "description": "2.0 admin.js"
-  },
   "teachingAdmin.teacherName": {
     "message": "教师姓名",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.parentName": {
-    "message": "家长姓名",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.associatedStudents": {
-    "message": "关联学生",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.parentManage": {
-    "message": "家长管理",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.phoneNum": {
@@ -2948,7 +2676,7 @@
     "description": "2.0 admin.js"
   },
   "teachingAdmin.confirmDelete": {
-    "message": "确定删除",
+    "message": "确定删除？",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.typeTip1": {
@@ -3199,12 +2927,240 @@
     "message": "批量更新学生信息",
     "description": "2.0 admin.js"
   },
+  "inputCourseName": {
+    "message": "请输入课程名称",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenSchool": {
+    "message": "请输入开课院校",
+    "description": "2.0 admin.js"
+  },
+  "editInfoTips": {
+    "message": "注意：修改以上两项，将同步修改平台中的课程信息，请谨慎操作",
+    "description": "2.0 admin.js"
+  },
+  "inputCourseManager": {
+    "message": "请输入课程负责人",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePlatform": {
+    "message": "请输入开课平台",
+    "description": "2.0 admin.js"
+  },
+  "onlineTime": {
+    "message": "上线时间",
+    "description": "2.0 admin.js"
+  },
+  "inputOnlineTime": {
+    "message": "请输入上线时间",
+    "description": "2.0 admin.js"
+  },
+  "inputOpenCoursePeriod": {
+    "message": "请输入开课期数",
+    "description": "2.0 admin.js"
+  },
+  "professionalCode": {
+    "message": "专业代码",
+    "description": "2.0 admin.js"
+  },
+  "inputProfessionalCode": {
+    "message": "请输入专业代码",
+    "description": "2.0 admin.js"
+  },
+  "saveModify": {
+    "message": "保存修改",
+    "description": "2.0 admin.js"
+  },
+  "exit": {
+    "message": "退出",
+    "description": "2.0 admin.js"
+  },
+  "teachingTeacher": {
+    "message": "授课老师",
+    "description": "2.0 admin.js"
+  },
+  "department": {
+    "message": "院系",
+    "description": "2.0 admin.js"
+  },
+  "classes": {
+    "message": "班级",
+    "description": "2.0 admin.js"
+  },
+  "courseCode": {
+    "message": "课程编号",
+    "description": "2.0 admin.js"
+  },
+  "courseManage": {
+    "message": "课程管理",
+    "description": "2.0 admin.js"
+  },
+  "backToCustomerService": {
+    "message": "返回客服",
+    "description": "2.0 admin.js"
+  },
+  "courseUnit": {
+    "message": "{courseCount}门",
+    "description": "2.0 admin.js"
+  },
+  "appCenter": {
+    "message": "应用中心",
+    "description": "2.0 admin.js"
+  },
+  "internalApp": {
+    "message": "内部应用",
+    "description": "2.0 admin.js"
+  },
+  "ltiApp": {
+    "message": "LTI集成应用",
+    "description": "2.0 admin.js"
+  },
+  "installed": {
+    "message": "已开通",
+    "description": "2.0 admin.js"
+  },
+  "unInstalled": {
+    "message": "未开通",
+    "description": "2.0 admin.js"
+  },
+  "viewMore": {
+    "message": "了解详情",
+    "description": "2.0 admin.js"
+  },
+  "appManage": {
+    "message": "应用管理",
+    "description": "2.0 admin.js"
+  },
+  "installed2": {
+    "message": "已安装",
+    "description": "2.0 admin.js"
+  },
+  "addApp": {
+    "message": "添加应用",
+    "description": "2.0 admin.js"
+  },
+  "name": {
+    "message": "名称",
+    "description": "2.0 admin.js"
+  },
+  "consumerKey": {
+    "message": "Consumer Key",
+    "description": "2.0 admin.js"
+  },
+  "sharedSecret": {
+    "message": "Shared Secret",
+    "description": "2.0 admin.js"
+  },
+  "configURL": {
+    "message": "Config URL",
+    "description": "2.0 admin.js"
+  },
+  "deleteApp": {
+    "message": "删除应用",
+    "description": "2.0 admin.js"
+  },
+  "confirmDelete": {
+    "message": "确定删除应用吗？",
+    "description": "2.0 admin.js"
+  },
+  "deleteSuccess": {
+    "message": "删除成功",
+    "description": "2.0 admin.js"
+  },
+  "description": {
+    "message": "描述",
+    "description": "2.0 admin.js"
+  },
+  "seats": {
+    "message": "座位数",
+    "description": "2.0 admin.js"
+  },
+  "expireTime": {
+    "message": "到期时间",
+    "description": "2.0 admin.js"
+  },
+  "assignTeacher": {
+    "message": "分配教师",
+    "description": "2.0 admin.js"
+  },
+  "modifyMeeting": {
+    "message": "修改云会议室",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameTip": {
+    "message": "请输入云会议室名称",
+    "description": "2.0 admin.js"
+  },
+  "meetingNameInvalid": {
+    "message": "长度在 1 到 30 个字符",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescTip": {
+    "message": "请输入云会议室描述",
+    "description": "2.0 admin.js"
+  },
+  "meetingDescInvalid": {
+    "message": "长度不大于 100 个字符",
+    "description": "2.0 admin.js"
+  },
+  "assignTo": {
+    "message": "分配给：",
+    "description": "2.0 admin.js"
+  },
+  "addTeacher": {
+    "message": "添加教师",
+    "description": "2.0 admin.js"
+  },
+  "searchTeacherTip": {
+    "message": "输入用户名/姓名搜索",
+    "description": "2.0 admin.js"
+  },
+  "teacherStats": {
+    "message": "总计{n}位教师",
+    "description": "2.0 admin.js"
+  },
+  "selectedTeacher": {
+    "message": "已选教师：",
+    "description": "2.0 admin.js"
+  },
+  "settings": {
+    "message": "设置",
+    "description": "2.0 admin.js"
+  },
+  "meetingNormal": {
+    "message": "正常",
+    "description": "2.0 admin.js"
+  },
+  "meetingExpire": {
+    "message": "即将过期",
+    "description": "2.0 admin.js"
+  },
+  "meetingDisable": {
+    "message": "已停用",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoom": {
+    "message": "云会议室",
+    "description": "2.0 admin.js"
+  },
+  "modifySuccess": {
+    "message": "修改成功",
+    "description": "2.0 admin.js"
+  },
+  "modifyFailed": {
+    "message": "修改失败",
+    "description": "2.0 admin.js"
+  },
   "teachingAdmin.memo": {
     "message": "备注",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.memoPlaceholder": {
     "message": "请输入备注",
+    "description": "2.0 admin.js"
+  },
+  "cloudMeetingRoomManagement": {
+    "message": "云会议室管理",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.teachingCalendar": {
@@ -3311,6 +3267,10 @@
     "message": "至",
     "description": "2.0 admin.js"
   },
+  "necessary": {
+    "message": "必填项不可为空",
+    "description": "2.0 admin.js"
+  },
   "teachingAdmin.programAdmin": {
     "message": "专业管理",
     "description": "2.0 admin.js"
@@ -3405,10 +3365,6 @@
   },
   "teachingAdmin.creatProgramPlaceholder2": {
     "message": "请输入内容",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.creatProgramPlaceholder3": {
-    "message": "请选择专业分类",
     "description": "2.0 admin.js"
   },
   "teachingAdmin.pragramFormSection1": {
@@ -3551,466 +3507,6 @@
     "message": "未开放",
     "description": "2.0 admin.js"
   },
-  "teachingAdmin.uploadFileTips1": {
-    "message": "文件不能超过2m",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.maxlengthTip1": {
-    "message": "详细信息不能超过5000字符",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.eventManage": {
-    "message": "活动管理",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsManage": {
-    "message": "日志审计",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader1": {
-    "message": "操作时间",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader2": {
-    "message": "功能模块",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader3": {
-    "message": "操作类型",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader4": {
-    "message": "操作描述",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader5": {
-    "message": "终端",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsTableHeader6": {
-    "message": "IP地址",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder": {
-    "message": "输入用户名或姓名搜索",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder1": {
-    "message": "全部院系",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder2": {
-    "message": "全部课程",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder3": {
-    "message": "全部角色",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder4": {
-    "message": "全部模块",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterPlaceholder5": {
-    "message": "操作类型",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule1": {
-    "message": "班课",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule2": {
-    "message": "公告",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule3": {
-    "message": "课件",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule4": {
-    "message": "资源",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule5": {
-    "message": "作业",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule6": {
-    "message": "讨论",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule7": {
-    "message": "直播",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule8": {
-    "message": "考核",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule9": {
-    "message": "成员",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsModule10": {
-    "message": "其他",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction1": {
-    "message": "登录",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction2": {
-    "message": "退出",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction3": {
-    "message": "创建",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction4": {
-    "message": "修改",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction5": {
-    "message": "删除",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction6": {
-    "message": "查看",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction7": {
-    "message": "评分",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction8": {
-    "message": "提交",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsAction9": {
-    "message": "其他",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterTime1": {
-    "message": "请选择开始时间",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterTime2": {
-    "message": "请选择结束时间",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterLabel": {
-    "message": "全部角色",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterLabe2": {
-    "message": "全部模块",
-    "description": "2.0 admin.js"
-  },
-  "teachingAdmin.logsFilterLabe3": {
-    "message": "全部操作",
-    "description": "2.0 admin.js"
-  },
-  "sass.serviceExpiryDate": {
-    "message": "服务到期时间",
-    "description": "2.0 admin.js"
-  },
-  "sass.archiveExpiryDate": {
-    "message": "存档到期时间",
-    "description": "2.0 admin.js"
-  },
-  "sass.totalAccounts": {
-    "message": "总账户数",
-    "description": "2.0 admin.js"
-  },
-  "sass.activeAccounts": {
-    "message": "活跃账号数",
-    "description": "2.0 admin.js"
-  },
-  "sass.cloudStorage": {
-    "message": "云存储",
-    "description": "2.0 admin.js"
-  },
-  "sass.cloudMeetingRoom": {
-    "message": "云会议室",
-    "description": "2.0 admin.js"
-  },
-  "sass.tenant": {
-    "message": "租户",
-    "description": "2.0 admin.js"
-  },
-  "sass.totalActiveAccounts": {
-    "message": "总活跃账号",
-    "description": "2.0 admin.js"
-  },
-  "sass.smartScreen": {
-    "message": "智慧大屏",
-    "description": "2.0 admin.js"
-  },
-  "sass.start": {
-    "message": "开始",
-    "description": "2.0 admin.js"
-  },
-  "sass.end": {
-    "message": "结束",
-    "description": "2.0 admin.js"
-  },
-  "sass.used": {
-    "message": "已用",
-    "description": "2.0 admin.js"
-  },
-  "sass.totalQuota": {
-    "message": "总配额",
-    "description": "2.0 admin.js"
-  },
-  "sass.expired": {
-    "message": "已到期",
-    "description": "2.0 admin.js"
-  },
-  "sass.totalCount": {
-    "message": "总数",
-    "description": "2.0 admin.js"
-  },
-  "inputCourseName": {
-    "message": "请输入课程名称",
-    "description": "2.0 admin.js"
-  },
-  "inputOpenSchool": {
-    "message": "请输入开课院校",
-    "description": "2.0 admin.js"
-  },
-  "editInfoTips": {
-    "message": "注意：修改以上两项，将同步修改平台中的课程信息，请谨慎操作",
-    "description": "2.0 admin.js"
-  },
-  "inputCourseManager": {
-    "message": "请输入课程负责人",
-    "description": "2.0 admin.js"
-  },
-  "inputOpenCoursePlatform": {
-    "message": "请输入开课平台",
-    "description": "2.0 admin.js"
-  },
-  "onlineTime": {
-    "message": "上线时间",
-    "description": "2.0 admin.js"
-  },
-  "inputOnlineTime": {
-    "message": "请输入上线时间",
-    "description": "2.0 admin.js"
-  },
-  "inputOpenCoursePeriod": {
-    "message": "请输入开课期数",
-    "description": "2.0 admin.js"
-  },
-  "professionalCode": {
-    "message": "专业代码",
-    "description": "2.0 admin.js"
-  },
-  "inputProfessionalCode": {
-    "message": "请输入专业代码",
-    "description": "2.0 admin.js"
-  },
-  "saveModify": {
-    "message": "保存修改",
-    "description": "2.0 admin.js"
-  },
-  "exit": {
-    "message": "退出",
-    "description": "2.0 admin.js"
-  },
-  "teachingTeacher": {
-    "message": "授课老师",
-    "description": "2.0 admin.js"
-  },
-  "department": {
-    "message": "院系",
-    "description": "2.0 admin.js"
-  },
-  "classes": {
-    "message": "班级",
-    "description": "2.0 admin.js"
-  },
-  "courseCode": {
-    "message": "课程编号",
-    "description": "2.0 admin.js"
-  },
-  "courseManage": {
-    "message": "课程管理",
-    "description": "2.0 admin.js"
-  },
-  "backToCustomerService": {
-    "message": "返回客服",
-    "description": "2.0 admin.js"
-  },
-  "backToManagementCenter": {
-    "message": "返回管理中心",
-    "description": "2.0 admin.js"
-  },
-  "courseUnit": {
-    "message": "{courseCount}门",
-    "description": "2.0 admin.js"
-  },
-  "appCenter": {
-    "message": "应用中心",
-    "description": "2.0 admin.js"
-  },
-  "internalApp": {
-    "message": "内部应用",
-    "description": "2.0 admin.js"
-  },
-  "ltiApp": {
-    "message": "LTI集成应用",
-    "description": "2.0 admin.js"
-  },
-  "installed": {
-    "message": "已开通",
-    "description": "2.0 admin.js"
-  },
-  "unInstalled": {
-    "message": "未开通",
-    "description": "2.0 admin.js"
-  },
-  "viewMore": {
-    "message": "了解详情",
-    "description": "2.0 admin.js"
-  },
-  "appManage": {
-    "message": "应用管理",
-    "description": "2.0 admin.js"
-  },
-  "installed2": {
-    "message": "已安装",
-    "description": "2.0 admin.js"
-  },
-  "addApp": {
-    "message": "添加应用",
-    "description": "2.0 admin.js"
-  },
-  "addApp1": {
-    "message": "消费者密钥",
-    "description": "2.0 admin.js"
-  },
-  "addApp2": {
-    "message": "共享密钥",
-    "description": "2.0 admin.js"
-  },
-  "addApp3": {
-    "message": "配置URL",
-    "description": "2.0 admin.js"
-  },
-  "name": {
-    "message": "名称",
-    "description": "2.0 admin.js"
-  },
-  "description": {
-    "message": "描述",
-    "description": "2.0 admin.js"
-  },
-  "consumerKey": {
-    "message": "Consumer Key",
-    "description": "2.0 admin.js"
-  },
-  "sharedSecret": {
-    "message": "Shared Secret",
-    "description": "2.0 admin.js"
-  },
-  "configURL": {
-    "message": "Config URL",
-    "description": "2.0 admin.js"
-  },
-  "deleteApp": {
-    "message": "删除应用",
-    "description": "2.0 admin.js"
-  },
-  "confirmDelete": {
-    "message": "确定删除应用吗？",
-    "description": "2.0 admin.js"
-  },
-  "deleteSuccess": {
-    "message": "删除成功",
-    "description": "2.0 admin.js"
-  },
-  "seats": {
-    "message": "座位数",
-    "description": "2.0 admin.js"
-  },
-  "expireTime": {
-    "message": "到期时间",
-    "description": "2.0 admin.js"
-  },
-  "assignTeacher": {
-    "message": "分配教师",
-    "description": "2.0 admin.js"
-  },
-  "modifyMeeting": {
-    "message": "修改云会议室",
-    "description": "2.0 admin.js"
-  },
-  "meetingNameTip": {
-    "message": "请输入云会议室名称",
-    "description": "2.0 admin.js"
-  },
-  "meetingNameInvalid": {
-    "message": "长度在 1 到 30 个字符",
-    "description": "2.0 admin.js"
-  },
-  "meetingDescTip": {
-    "message": "请输入云会议室描述",
-    "description": "2.0 admin.js"
-  },
-  "meetingDescInvalid": {
-    "message": "长度不大于 100 个字符",
-    "description": "2.0 admin.js"
-  },
-  "assignTo": {
-    "message": "分配给：",
-    "description": "2.0 admin.js"
-  },
-  "addTeacher": {
-    "message": "添加教师",
-    "description": "2.0 admin.js"
-  },
-  "searchTeacherTip": {
-    "message": "输入用户名/姓名搜索",
-    "description": "2.0 admin.js"
-  },
-  "teacherStats": {
-    "message": "总计{n}位教师",
-    "description": "2.0 admin.js"
-  },
-  "selectedTeacher": {
-    "message": "已选教师：",
-    "description": "2.0 admin.js"
-  },
-  "settings": {
-    "message": "设置",
-    "description": "2.0 admin.js"
-  },
-  "meetingNormal": {
-    "message": "正常",
-    "description": "2.0 admin.js"
-  },
-  "meetingExpire": {
-    "message": "即将过期",
-    "description": "2.0 admin.js"
-  },
-  "meetingDisable": {
-    "message": "已停用",
-    "description": "2.0 admin.js"
-  },
-  "cloudMeetingRoom": {
-    "message": "云会议室",
-    "description": "2.0 admin.js"
-  },
-  "modifySuccess": {
-    "message": "修改成功",
-    "description": "2.0 admin.js"
-  },
-  "modifyFailed": {
-    "message": "修改失败",
-    "description": "2.0 admin.js"
-  },
   "settingErr1": {
     "message": "请完整填写开始时间和结束时间",
     "description": "2.0 admin.js"
@@ -4019,8 +3515,48 @@
     "message": "请完整填写开始时间和结束时间",
     "description": "2.0 admin.js"
   },
+  "teachingAdmin.uploadFileTips1": {
+    "message": "文件不能超过2m",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.maxlengthTip1": {
+    "message": "详细信息不能超过5000字符",
+    "description": "2.0 admin.js"
+  },
   "settingErr3": {
     "message": "请完整填写招生人数",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.creatProgramPlaceholder3": {
+    "message": "请选择专业分类",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.websiteicon": {
+    "message": "网站图标",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImage": {
+    "message": "选择图片",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageLoading": {
+    "message": "上传中",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.chooseImageTips1": {
+    "message": "ico文件必须小于500kb",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.uploadTip": {
+    "message": "建议使用48*48的ico文件",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSetting": {
+    "message": "时区设置",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.timeAreaSettingTip": {
+    "message": "请设置时区",
     "description": "2.0 admin.js"
   },
   "majorType": {
@@ -4095,6 +3631,106 @@
     "message": "多语言编辑",
     "description": "2.0 admin.js"
   },
+  "dataCenter.cumulativeNumberOfEntrants": {
+    "message": "累计进入人数",
+    "description": "2.0 admin.js"
+  },
+  "dataCenter.dataDisplay": {
+    "message": "参观数据",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips21": {
+    "message": "该账号已注销，确定恢复吗？",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.cancelled": {
+    "message": "已注销",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.restoreAccount": {
+    "message": "恢复账号",
+    "description": "2.0 admin.js"
+  },
+  "teachersWorkNumber": {
+    "message": "教师工号",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips22": {
+    "message": "该账号已冻结，确定解冻吗？",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips28": {
+    "message": "文件编码格式无法解析，请尝试转码成mp4后再上传。",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.freeze": {
+    "message": "已冻结",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.thawAccount": {
+    "message": "解冻账号",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.teachingAdminTips29": {
+    "message": "请输入教师工号",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.fileUploadingTip": {
+    "message": "附件上传中",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.choose": {
+    "message": "请选择",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis1": {
+    "message": "SIS类型",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2": {
+    "message": "SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis2Tip": {
+    "message": "请输入SISClientId",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3": {
+    "message": "SISUsername",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis3Tip": {
+    "message": "请输入SISUsername",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4": {
+    "message": "SISPassword",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis4Tip": {
+    "message": "请输入SISPassword",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5": {
+    "message": "SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sis5Tip": {
+    "message": "请输入SISUrl",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSync": {
+    "message": "SIS同步",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisSyncLoading": {
+    "message": "SIS同步中...",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.sisErrorTip": {
+    "message": "SIS同步失败，是否前往网站管理配置SIS信息？",
+    "description": "2.0 admin.js"
+  },
   "customizeLTI1": {
     "message": "添加自定义应用",
     "description": "2.0 admin.js"
@@ -4167,12 +3803,156 @@
     "message": "不能超过 {num} 个字符",
     "description": "2.0 admin.js"
   },
+  "systemAdmin.orgResource": {
+    "message": "机构资源",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetbutton": {
+    "message": "重置",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettiptitle": {
+    "message": "重置 Token",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resettipbody": {
+    "message": "该操作会重置 SIS Sync Token，是否继续？",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resourcestatus": {
+    "message": "资源状态",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.site": {
+    "message": "站点",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.instnum": {
+    "message": "机构数量",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota1": {
+    "message": "总配额",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.usernum": {
+    "message": "用户数量",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.totalquota2": {
+    "message": "总配额",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.effecttime": {
+    "message": "有效时间",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.over": {
+    "message": "结束",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.resetsuccess": {
+    "message": "重置成功",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.LVCMax": {
+    "message": "LVC并发数",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.forever": {
+    "message": "永久有效",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.concurrencyNum": {
+    "message": "并发数",
+    "description": "2.0 admin.js"
+  },
+  "sass.serviceExpiryDate": {
+    "message": "服务到期时间",
+    "description": "2.0 admin.js"
+  },
+  "sass.archiveExpiryDate": {
+    "message": "存档到期时间",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalAccounts": {
+    "message": "总账户数",
+    "description": "2.0 admin.js"
+  },
+  "sass.activeAccounts": {
+    "message": "活跃账号数",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudStorage": {
+    "message": "云存储",
+    "description": "2.0 admin.js"
+  },
+  "sass.cloudMeetingRoom": {
+    "message": "云会议室",
+    "description": "2.0 admin.js"
+  },
+  "sass.tenant": {
+    "message": "租户",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalActiveAccounts": {
+    "message": "总活跃账号",
+    "description": "2.0 admin.js"
+  },
+  "sass.smartScreen": {
+    "message": "智慧大屏",
+    "description": "2.0 admin.js"
+  },
+  "sass.start": {
+    "message": "开始",
+    "description": "2.0 admin.js"
+  },
+  "sass.end": {
+    "message": "结束",
+    "description": "2.0 admin.js"
+  },
+  "sass.used": {
+    "message": "已用",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalQuota": {
+    "message": "总配额",
+    "description": "2.0 admin.js"
+  },
+  "sass.expired": {
+    "message": "已到期",
+    "description": "2.0 admin.js"
+  },
+  "sass.totalCount": {
+    "message": "总数",
+    "description": "2.0 admin.js"
+  },
   "txgl": {
     "message": "特性设置",
     "description": "2.0 admin.js"
   },
-  "permission": {
-    "message": "权限",
+  "permissionFeature.actionConfirmTip": {
+    "message": "输入{msg}确认操作",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionCheckPwd": {
+    "message": "输入管理员密码以确认以上操作",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmTitle": {
+    "message": "操作确认",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmDesc": {
+    "message": "这个操作将会影响系统中全部机构，请确认后继续。",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.actionConfirmMsg": {
+    "message": "特性变更",
+    "description": "2.0 admin.js"
+  },
+  "permissionFeature.confirmBtn": {
+    "message": "确认",
     "description": "2.0 admin.js"
   },
   "common.closeBtn": {
@@ -4181,6 +3961,18 @@
   },
   "common.cancelBtn": {
     "message": "取消",
+    "description": "2.0 admin.js"
+  },
+  "permissionText": {
+    "message": "权限",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips23": {
+    "message": "请输入确认密码",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.eventManage": {
+    "message": "活动管理",
     "description": "2.0 admin.js"
   },
   "newsNotice": {
@@ -4217,10 +4009,6 @@
   },
   "newsNoticeTip2": {
     "message": "上传预览图",
-    "description": "2.0 admin.js"
-  },
-  "previewimage": {
-    "message": "预览图",
     "description": "2.0 admin.js"
   },
   "uploadTip1": {
@@ -4279,36 +4067,16 @@
     "message": "志愿者招募链接",
     "description": "2.0 admin.js"
   },
+  "backToManagementCenter": {
+    "message": "返回管理中心",
+    "description": "2.0 admin.js"
+  },
   "event.startTImenotGreaterThanEndTime": {
     "message": "活动开始时间不能大于活动结束时间",
     "description": "2.0 admin.js"
   },
   "defaultLangError": {
     "message": "机构默认语言标题不能为空！",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.actionConfirmTip": {
-    "message": "输入{msg}确认操作",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.actionCheckPwd": {
-    "message": "输入管理员密码以确认以上操作",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.actionConfirmTitle": {
-    "message": "操作确认",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.actionConfirmDesc": {
-    "message": "这个操作将会影响系统中全部机构，请确认后继续。",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.actionConfirmMsg": {
-    "message": "特性变更",
-    "description": "2.0 admin.js"
-  },
-  "permissionFeature.confirmBtn": {
-    "message": "确认",
     "description": "2.0 admin.js"
   },
   "educationUniversity.educationUniversity": {
@@ -4491,10 +4259,6 @@
     "message": "请输入创建人或文件名筛选",
     "description": "2.0 admin.js"
   },
-  "resourceLibraryCtrl.search2": {
-    "message": "请输入文件名筛选",
-    "description": "2.0 admin.js"
-  },
   "resourceLibraryCtrl.resourseLib": {
     "message": "资源库",
     "description": "2.0 admin.js"
@@ -4635,6 +4399,298 @@
     "message": "删除失败",
     "description": "2.0 admin.js"
   },
+  "enable": {
+    "message": "启用",
+    "description": "2.0 admin.js"
+  },
+  "disable": {
+    "message": "停用",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips24": {
+    "message": "停用后用户将无法登录，确定停用吗？",
+    "description": "2.0 admin.js"
+  },
+  "synchronous": {
+    "message": "同步",
+    "description": "2.0 admin.js"
+  },
+  "selfBuilt": {
+    "message": "自建",
+    "description": "2.0 admin.js"
+  },
+  "allcreateType": {
+    "message": "全部创建方式",
+    "description": "2.0 admin.js"
+  },
+  "undergraduate": {
+    "message": "本科",
+    "description": "2.0 admin.js"
+  },
+  "graduateStudent": {
+    "message": "研究生",
+    "description": "2.0 admin.js"
+  },
+  "allStudentLeve": {
+    "message": "全部学段",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.courseNum": {
+    "message": "课程编号",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beSemeter": {
+    "message": "所属学期",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.teacherNum": {
+    "message": "教师工号",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.beLevel": {
+    "message": "所属学段",
+    "description": "2.0 admin.js"
+  },
+  "courseDeclarationAdmin.createType": {
+    "message": "创建方式",
+    "description": "2.0 admin.js"
+  },
+  "administrator1": {
+    "message": "系统管理员",
+    "description": "2.0 admin.js"
+  },
+  "administrator2": {
+    "message": "二级管理员",
+    "description": "2.0 admin.js"
+  },
+  "permissionTips11": {
+    "message": "家长管理（添加/修改/删除家长，进入家长帐号）",
+    "description": "2.0 admin.js"
+  },
+  "exportBtn": {
+    "message": "导出",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod1": {
+    "message": "导出CSV",
+    "description": "2.0 admin.js"
+  },
+  "exportMethod2": {
+    "message": "导出XLSX",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.stopSuccess": {
+    "message": "停用成功",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeSuccess": {
+    "message": "激活成功",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip1": {
+    "message": "请先选择要停用的管理员",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.adminTip2": {
+    "message": "请先选择要删除的管理员",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.patchingAdminTips27": {
+    "message": "输入家长姓名或用户名搜索",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.batchOpenPatAccount": {
+    "message": "批量开通家长账号",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.addParent": {
+    "message": "添加家长",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentName": {
+    "message": "家长姓名",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.associatedStudents": {
+    "message": "关联学生",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.parentManage": {
+    "message": "家长管理",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsManage": {
+    "message": "日志审计",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader1": {
+    "message": "操作时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader2": {
+    "message": "功能模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader3": {
+    "message": "操作类型",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader4": {
+    "message": "操作描述",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader5": {
+    "message": "终端",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsTableHeader6": {
+    "message": "IP地址",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder": {
+    "message": "输入用户名或姓名搜索",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder1": {
+    "message": "全部院系",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder2": {
+    "message": "全部课程",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder3": {
+    "message": "全部角色",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder4": {
+    "message": "全部模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterPlaceholder5": {
+    "message": "操作类型",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule1": {
+    "message": "班课",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule2": {
+    "message": "公告",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule3": {
+    "message": "课件",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule4": {
+    "message": "资源",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule5": {
+    "message": "作业",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule6": {
+    "message": "讨论",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule7": {
+    "message": "直播",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule8": {
+    "message": "考核",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule9": {
+    "message": "成员",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsModule10": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction1": {
+    "message": "登录",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction2": {
+    "message": "退出",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction3": {
+    "message": "创建",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction4": {
+    "message": "修改",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction5": {
+    "message": "删除",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction6": {
+    "message": "查看",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction7": {
+    "message": "评分",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction8": {
+    "message": "提交",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsAction9": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime1": {
+    "message": "请选择开始时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterTime2": {
+    "message": "请选择结束时间",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabel": {
+    "message": "全部角色",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe2": {
+    "message": "全部模块",
+    "description": "2.0 admin.js"
+  },
+  "teachingAdmin.logsFilterLabe3": {
+    "message": "全部操作",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search2": {
+    "message": "请输入文件名筛选",
+    "description": "2.0 admin.js"
+  },
+  "administrator0": {
+    "message": "管理员",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.activeFail": {
+    "message": "激活失败",
+    "description": "2.0 admin.js"
+  },
+  "addApp1": {
+    "message": "消费者密钥",
+    "description": "2.0 admin.js"
+  },
+  "addApp2": {
+    "message": "共享密钥",
+    "description": "2.0 admin.js"
+  },
+  "addApp3": {
+    "message": "配置URL",
+    "description": "2.0 admin.js"
+  },
   "File.searchPlaceholdertea": {
     "message": "输入用户名/工号/姓名搜索",
     "description": "2.0 admin.js"
@@ -4691,70 +4747,6 @@
     "message": "学生档案",
     "description": "2.0 admin.js"
   },
-  "File.coursenum": {
-    "message": "课程数",
-    "description": "2.0 admin.js"
-  },
-  "File.totalActivityNum": {
-    "message": "发布活动总数",
-    "description": "2.0 admin.js"
-  },
-  "File.rollCallNum": {
-    "message": "发布点名",
-    "description": "2.0 admin.js"
-  },
-  "File.viewResourceNum": {
-    "message": "查看资源",
-    "description": "2.0 admin.js"
-  },
-  "File.submitHomeworkNum": {
-    "message": "提交作业数",
-    "description": "2.0 admin.js"
-  },
-  "File.submitExamNum": {
-    "message": "提交考试数",
-    "description": "2.0 admin.js"
-  },
-  "File.participatedInDiscussions": {
-    "message": "参与讨论",
-    "description": "2.0 admin.js"
-  },
-  "File.stutotalActivity": {
-    "message": "参与活动总数",
-    "description": "2.0 admin.js"
-  },
-  "enable": {
-    "message": "启用",
-    "description": "2.0 admin.js"
-  },
-  "disable": {
-    "message": "停用",
-    "description": "2.0 admin.js"
-  },
-  "synchronous": {
-    "message": "同步",
-    "description": "2.0 admin.js"
-  },
-  "selfBuilt": {
-    "message": "自建",
-    "description": "2.0 admin.js"
-  },
-  "allcreateType": {
-    "message": "全部创建方式",
-    "description": "2.0 admin.js"
-  },
-  "allStudentLeve": {
-    "message": "全部学段",
-    "description": "2.0 admin.js"
-  },
-  "undergraduate": {
-    "message": "本科",
-    "description": "2.0 admin.js"
-  },
-  "graduateStudent": {
-    "message": "研究生",
-    "description": "2.0 admin.js"
-  },
   "classroom": {
     "message": "课堂",
     "description": "2.0 admin.js"
@@ -4787,8 +4779,44 @@
     "message": "请输入指定文本",
     "description": "2.0 admin.js"
   },
-  "studentImportTemplate": {
-    "message": "学生导入模板",
+  "File.coursenum": {
+    "message": "课程数",
+    "description": "2.0 admin.js"
+  },
+  "File.totalActivityNum": {
+    "message": "发布活动总数",
+    "description": "2.0 admin.js"
+  },
+  "File.rollCallNum": {
+    "message": "发布点名",
+    "description": "2.0 admin.js"
+  },
+  "File.viewResourceNum": {
+    "message": "查看资源",
+    "description": "2.0 admin.js"
+  },
+  "File.submitHomeworkNum": {
+    "message": "提交作业数",
+    "description": "2.0 admin.js"
+  },
+  "File.submitExamNum": {
+    "message": "提交考试数",
+    "description": "2.0 admin.js"
+  },
+  "File.participatedInDiscussions": {
+    "message": "参与讨论",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.confirmText": {
+    "message": "确定删除",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.deleteConfirmError": {
+    "message": "输入错误",
+    "description": "2.0 admin.js"
+  },
+  "systemAdmin.systemAdminTips29": {
+    "message": "删除后用户将无法登录，请在下方输入'{confirmText}'后进行确定删除操作",
     "description": "2.0 admin.js"
   }
 }

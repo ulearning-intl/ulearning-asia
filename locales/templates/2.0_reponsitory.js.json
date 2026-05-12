@@ -25,7 +25,7 @@
   },
   "selectedPaper": {
     "message": "已选{n}个试卷",
-    "description": "2.0 reponsitory.js"
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
   },
   "myExamPaper": {
     "message": "我的试卷",
@@ -73,10 +73,6 @@
   },
   "score": {
     "message": "分数",
-    "description": "2.0 reponsitory.js"
-  },
-  "sharePerson": {
-    "message": "共享人",
     "description": "2.0 reponsitory.js"
   },
   "sharingScope": {
@@ -165,7 +161,7 @@
   },
   "networkError": {
     "message": "网络异常，请点击{reloadButton}",
-    "description": "2.0 reponsitory.js"
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源 \n 课程列表 -> 上方试卷库"
   },
   "reload": {
     "message": "重新加载",
@@ -359,17 +355,13 @@
     "message": "上传文件",
     "description": "2.0 reponsitory.js"
   },
-  "uploadFolder": {
-    "message": "上传文件夹",
-    "description": "2.0 reponsitory.js"
-  },
   "selected": {
     "message": "已选择",
     "description": "2.0 reponsitory.js"
   },
   "selectedItems": {
     "message": "已选择{n}项",
-    "description": "2.0 reponsitory.js"
+    "description": "课程列表 -> 上方资源库 \n 课程列表 -> 上方试卷库"
   },
   "cancelMultipleSelection": {
     "message": "取消多选",
@@ -377,7 +369,7 @@
   },
   "totalOf": {
     "message": "共{n}个",
-    "description": "2.0 reponsitory.js"
+    "description": "课程列表 -> 上方资源库 -> 我的资源 \n 课程列表 -> 上方资源库 -> 共享资源 \n 课程列表 -> 上方资源库 -> 本校资源"
   },
   "size": {
     "message": "大小",
@@ -525,7 +517,7 @@
   },
   "selectedCount": {
     "message": "已选择数量：{n}",
-    "description": "2.0 reponsitory.js"
+    "description": "教师账号 -> 考试 -> 添加考试 -> 指定试卷 -> 右上角"
   },
   "selectRes": {
     "message": "选择资源",
@@ -719,6 +711,50 @@
     "message": "否",
     "description": "2.0 reponsitory.js"
   },
+  "confirmImport": {
+    "message": "确定导入",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip": {
+    "message": "每次最多选择{n}套试卷",
+    "description": "2.0 reponsitory.js"
+  },
+  "importFail": {
+    "message": "导入失败",
+    "description": "2.0 reponsitory.js"
+  },
+  "importSuccess": {
+    "message": "导入成功",
+    "description": "2.0 reponsitory.js"
+  },
+  "deletePaperTip": {
+    "message": "文件夹中包含已使用的试卷，不能删除。",
+    "description": "2.0 reponsitory.js"
+  },
+  "selectPaperTip1": {
+    "message": "选中试卷，将试卷中的题目导入到当前题库目录中，每次最多选择{n}套试卷。（每套试卷中的题目将以试卷、部分两级文件夹的方式保存）",
+    "description": "2.0 reponsitory.js"
+  },
+  "pleaseSelectPaper": {
+    "message": "请选择试卷",
+    "description": "2.0 reponsitory.js"
+  },
+  "pageSizes": {
+    "message": "{n}条/页",
+    "description": "2.0 reponsitory.js"
+  },
+  "myClass": {
+    "message": "我的班级",
+    "description": "2.0 reponsitory.js"
+  },
+  "resourcePublishingScope": {
+    "message": "资源发布范围：",
+    "description": "2.0 reponsitory.js"
+  },
+  "allClass2": {
+    "message": "课程全部班级（仅对课程管理员有效）",
+    "description": "2.0 reponsitory.js"
+  },
   "attachDownload": {
     "message": "批量下载",
     "description": "2.0 reponsitory.js"
@@ -743,8 +779,20 @@
     "message": "下载失败",
     "description": "2.0 reponsitory.js"
   },
+  "subjectResource": {
+    "message": "学科资源库",
+    "description": "2.0 reponsitory.js"
+  },
+  "knowledgePoints": {
+    "message": "知识点",
+    "description": "2.0 reponsitory.js"
+  },
   "moreOperation": {
     "message": "更多操作",
+    "description": "2.0 reponsitory.js"
+  },
+  "uploadFolder": {
+    "message": "上传文件夹",
     "description": "2.0 reponsitory.js"
   },
   "uploadProgram": {
@@ -753,6 +801,10 @@
   },
   "programDetailWarning": {
     "message": "该资源尚未设置预览入口，请前往【修改】添加预览入口！",
+    "description": "2.0 reponsitory.js"
+  },
+  "sharePerson": {
+    "message": "共享人",
     "description": "2.0 reponsitory.js"
   },
   "errorType": {

@@ -35,10 +35,6 @@
     "message": "视频类",
     "description": "2.0 portal.js"
   },
-  "moduleType4": {
-    "message": "展示类",
-    "description": "2.0 portal.js"
-  },
   "imageExample": {
     "message": "示例图片",
     "description": "2.0 portal.js"
@@ -81,10 +77,6 @@
   },
   "menuEditTip": {
     "message": "说明:可以添加或删除菜单,至少保留2个菜单。拖动菜单可对菜单进行排序。",
-    "description": "2.0 portal.js"
-  },
-  "sortEditTip": {
-    "message": "说明:拖动菜单可对菜单进行排序。",
     "description": "2.0 portal.js"
   },
   "richTextType": {
@@ -193,7 +185,7 @@
   },
   "editPortal": {
     "message": "门户设置",
-    "description": "2.0 portal.js"
+    "description": "当编辑门户网站的时候，显示的网页标题"
   },
   "collegeLogo": {
     "message": "院校logo",
@@ -217,6 +209,14 @@
   },
   "saveSuccess": {
     "message": "保存成功",
+    "description": "2.0 portal.js"
+  },
+  "uploadVideoTip1": {
+    "message": "文件编码格式无法解析，请尝试转码成mp4后再上传。",
+    "description": "2.0 portal.js"
+  },
+  "moduleType4": {
+    "message": "展示类",
     "description": "2.0 portal.js"
   },
   "inputNameOrContent": {
@@ -371,14 +371,6 @@
     "message": "学校Logo类",
     "description": "2.0 portal.js"
   },
-  "moduleStyleType3": {
-    "message": "卡片样式",
-    "description": "2.0 portal.js"
-  },
-  "moduleStyleType4": {
-    "message": "图标样式",
-    "description": "2.0 portal.js"
-  },
   "addData": {
     "message": "添加数据",
     "description": "2.0 portal.js"
@@ -393,6 +385,18 @@
   },
   "toPreview": {
     "message": "去预览",
+    "description": "2.0 portal.js"
+  },
+  "sortEditTip": {
+    "message": "说明:拖动菜单可对菜单进行排序。",
+    "description": "2.0 portal.js"
+  },
+  "moduleStyleType3": {
+    "message": "卡片样式",
+    "description": "2.0 portal.js"
+  },
+  "moduleStyleType4": {
+    "message": "图标样式",
     "description": "2.0 portal.js"
   },
   "sortModule": {

@@ -9,7 +9,7 @@
   },
   "welcomeTea": {
     "message": "{name}老师，欢迎你",
-    "description": "2.0 index.js"
+    "description": "印尼语翻译老师请注意：由于印尼语前面有一个性别称呼，因此，整个句子使用 “|” 分为三个部分，第一个部分对应女性，第二个部分对应男性，但三个部分对应性别未知。其它老师请无视。"
   },
   "day": {
     "message": "天",
@@ -25,10 +25,6 @@
   },
   "welcomeStu": {
     "message": "{name}同学，欢迎你",
-    "description": "2.0 index.js"
-  },
-  "welcomePat": {
-    "message": "{name}家长，欢迎你",
     "description": "2.0 index.js"
   },
   "more": {
@@ -153,15 +149,15 @@
   },
   "courseWillEnd": {
     "message": "课程将于{time}结束",
-    "description": "2.0 index.js"
+    "description": "课程列表"
   },
   "courseHasEnd": {
     "message": "已于{time}结束",
-    "description": "2.0 index.js"
+    "description": "课程列表 -> 已结束"
   },
   "courseCountdown": {
     "message": "距离课程开始还有{n}天",
-    "description": "2.0 index.js"
+    "description": "课程列表 (需要课程为公开课)"
   },
   "searchNoCourse": {
     "message": "没有搜索到相应的课程",
@@ -185,7 +181,7 @@
   },
   "netError": {
     "message": "网络错误，点击{reloadButton}重新加载",
-    "description": "2.0 index.js"
+    "description": "教师或学生账户 -> 课程列表"
   },
   "reload": {
     "message": "重新加载",
@@ -417,14 +413,6 @@
   },
   "joinCourseTips16": {
     "message": "恭喜你已成功打入班课内部，开始学习吧",
-    "description": "2.0 index.js"
-  },
-  "joinCourseTips17": {
-    "message": "1.发送邮件到avictvet@avic-intl.cn申请新账户并获得班课编码。",
-    "description": "2.0 index.js"
-  },
-  "joinCourseTips18": {
-    "message": "2.联系你的学校或老师获得班课编码。",
     "description": "2.0 index.js"
   },
   "courseCodeTips1": {
@@ -761,7 +749,7 @@
   },
   "totalTextbook": {
     "message": "共{n}本教材",
-    "description": "2.0 index.js"
+    "description": "非国际版首页 -> 更多教材"
   },
   "detail": {
     "message": "详情",
@@ -825,7 +813,7 @@
   },
   "totalCourse": {
     "message": "共{n}门课程",
-    "description": "2.0 index.js"
+    "description": "非国际版首页 -> 更多课程"
   },
   "nationalBoutique": {
     "message": "国家精品",
@@ -833,7 +821,7 @@
   },
   "courseJoinCount": {
     "message": "{n}人参与",
-    "description": "2.0 index.js"
+    "description": "非国际版首页 -> 更多课程"
   },
   "summary": {
     "message": "内容简介",
@@ -1351,12 +1339,60 @@
     "message": "课堂录播",
     "description": "2.0 index.js"
   },
+  "eLearning": {
+    "message": "本校自建MOOC",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips17": {
+    "message": "1.发送邮件到avictvet@avic-intl.cn申请新账户并获得班课编码。",
+    "description": "2.0 index.js"
+  },
+  "joinCourseTips18": {
+    "message": "2.联系你的学校或老师获得班课编码。",
+    "description": "2.0 index.js"
+  },
+  "educationWisdom": {
+    "message": "国家智慧教育公共服务平台",
+    "description": "2.0 index.js"
+  },
+  "optional": {
+    "message": "（非必须）",
+    "description": "2.0 index.js"
+  },
+  "wanfangchachong": {
+    "message": "万方查重",
+    "description": "2.0 index.js"
+  },
+  "courseUnits": {
+    "message": "单元",
+    "description": "2.0 index.js"
+  },
+  "courseUnitsTip": {
+    "message": "(复制单元下的活动默认为“未发布”状态，作业默认为“草稿”状态)",
+    "description": "2.0 index.js"
+  },
+  "textbookBank": {
+    "message": "课件库",
+    "description": "2.0 index.js"
+  },
+  "courseDeclaration": {
+    "message": "课程申报",
+    "description": "2.0 index.js"
+  },
+  "addClassTip2": {
+    "message": "此时新建班级，系统会将活动统一发布给所有新建的班级，学生需自主加入各班级；您也可以开课后再批量导入班级和学生",
+    "description": "2.0 index.js"
+  },
   "viewMore": {
     "message": "了解详情",
     "description": "2.0 index.js"
   },
   "importCCContent": {
     "message": "导入CC",
+    "description": "2.0 index.js"
+  },
+  "applicationCenter": {
+    "message": "应用中心",
     "description": "2.0 index.js"
   },
   "knowledgeGraph": {
@@ -1377,6 +1413,14 @@
   },
   "courseCreateType_1": {
     "message": "同步课",
+    "description": "2.0 index.js"
+  },
+  "courseCreateType_2": {
+    "message": "自建课",
+    "description": "2.0 index.js"
+  },
+  "welcomePat": {
+    "message": "{name}家长，欢迎你",
     "description": "2.0 index.js"
   },
   "parentsOrstudents1": {
@@ -1515,8 +1559,12 @@
     "message": "学生身份码可在学生个人资料中查看",
     "description": "2.0 index.js"
   },
-  "courseCreateType_2": {
-    "message": "自建课",
+  "joinSmartClassroom": {
+    "message": "加入课堂",
+    "description": "2.0 index.js"
+  },
+  "footerSystemName": {
+    "message": "文华-优学院OMO智慧教学系统V1.0",
     "description": "2.0 index.js"
   }
 }
